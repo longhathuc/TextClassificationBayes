@@ -11,25 +11,6 @@ from datetime import datetime as dt
 from ipy_table import *
 from string import punctuation, digits
 
-data_path = '/Users/alexandre/Projects/TextClassificationBayes/tok_vnexpress/'
-stopwords_path = '/Users/alexandre/Projects/TextClassificationBayes/vietnamese-stopwords-dash.txt'
-
-
-#Classes are the folder names
-class_names = os.listdir(data_path)
-folders =  [data_path + folder + '/' for folder in os.listdir(data_path) if folder != ".DS_Store"]
-
-if '.DS_Store' in class_names: del class_names[0]
-
-
-#list the files of each class
-files = {}
-
-for folder, name in zip(folders, class_names):
-    files[name] = [folder + f for f in os.listdir(folder)]
-    
-    
-train_test_ratio = 0.7
 
 def train_test_split(ratio, classes, files):
     """
@@ -59,27 +40,6 @@ def train_test_split(ratio, classes, files):
         test_dict[cl] = files[cl][train_cnt:]
     return train_dict, test_dict
 
-
-train_path, test_path = train_test_split(train_test_ratio, class_names, files)
-#train_path, test_path, class_train, class_test = train_test_split(files, class_names, test_size=0.3, random_state=42)
-stop_word = []
-
-def loadStopWord(path):
-
-    from string import punctuation, digits
-    stop_word = []
-    try:
-        f = open(path)
-        lines = [line.rstrip('\n') for line in open(path)]
-        lines = [line.replace('_', '') for line in lines]
-            
-    finally:
-        f.close()
-    return lines
-
-stop_word = loadStopWord(stopwords_path)
-
-
 def cleanupText(path):
     """
     this method will read in a text file and try to cleanup its text.
@@ -107,44 +67,6 @@ def cleanupText(path):
     finally:
         f.close()
     return text_cleaned
-
-
-
-#print(stop_word)
-train_arr = []
-test_arr = []
-train_lbl = []
-test_lbl = []
-
-
-for cl in class_names:
-    for path in train_path[cl]:
-        train_arr.append(cleanupText(path))
-        train_lbl.append(cl)
-    for path in test_path[cl]:
-        test_arr.append(cleanupText(path))
-        test_lbl.append(cl)
-        
-print len(train_arr)
-print len(test_arr)
-
-#
-vectorizer = CountVectorizer()
-vectorizer.fit(train_arr)
-train_mat = vectorizer.transform(train_arr)
-print train_mat.shape
-#print train_mat
-test_mat = vectorizer.transform(test_arr)
-print test_mat.shape
-
-tfidf = TfidfTransformer()
-tfidf.fit(train_mat)
-train_tfmat = tfidf.transform(train_mat)
-print train_tfmat.shape
-#print train_tfmat
-test_tfmat = tfidf.transform(test_mat)
-print test_tfmat.shape
-
 
 def testClassifier(x_train, y_train, x_test, y_test, clf):
     """
@@ -218,27 +140,78 @@ def testClassifier(x_train, y_train, x_test, y_test, clf):
     
     return accuracy
 
+data_path = '/Users/alexandre/Projects/TextClassificationBayes/tok_vnexpress/'
+stopwords_path = '/Users/alexandre/Projects/TextClassificationBayes/vietnamese-stopwords-dash.txt'
+
+
+#Classes are the folder names
+class_names = os.listdir(data_path)
+folders =  [data_path + folder + '/' for folder in os.listdir(data_path) if folder != ".DS_Store"]
+
+if '.DS_Store' in class_names: del class_names[0]
+
+#list the files of each class
+
 metrics_dict = {}
-#'name', 'metrics'
 
-#bnb = BernoulliNB()
-#bnb_me = testClassifier(train_tfmat, train_lbl, test_tfmat, test_lbl, bnb)
-#metrics_dict.append({'name':'BernoulliNB', 'metrics':bnb_me})
-#
-#
-#gnb = GaussianNB()
-#gnb_me = testClassifier(train_tfmat.toarray(), train_lbl, test_tfmat.toarray(), test_lbl, gnb)
-#metrics_dict.append({'name':'GaussianNB', 'metrics':gnb_me})
-alpha=[10,5]
+ratio = [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9]
+files = {}
+for folder, name in zip(folders, class_names):
+    files[name] = [folder + f for f in os.listdir(folder)]
 
-for a in alpha:
-    print "alpha= =" + str(a)
-    mnb = MultinomialNB(a)
+
+for train_test_ratio in ratio:
+
+   
+    train_path, test_path = train_test_split(train_test_ratio, class_names, files)
+    #train_path, test_path, class_train, class_test = train_test_split(files, class_names, test_size=0.3, random_state=42)
+    
+    train_arr = []
+    test_arr = []
+    train_lbl = []
+    test_lbl = []
+    
+    for cl in class_names:
+        for path in train_path[cl]:
+            train_arr.append(cleanupText(path))
+            train_lbl.append(cl)
+        for path in test_path[cl]:
+            test_arr.append(cleanupText(path))
+            test_lbl.append(cl)
+            
+    print len(train_arr)
+    print len(test_arr)
+    vectorizer = CountVectorizer()
+    vectorizer.fit(train_arr)
+    train_mat = vectorizer.transform(train_arr)
+    print train_mat.shape
+    #print train_mat
+    test_mat = vectorizer.transform(test_arr)
+    print test_mat.shape
+    tfidf = TfidfTransformer()
+    tfidf.fit(train_mat)
+    train_tfmat = tfidf.transform(train_mat)
+    print train_tfmat.shape
+    #print train_tfmat
+    test_tfmat = tfidf.transform(test_mat)
+    print test_tfmat.shape
+    alpha=0.1
+    mnb = MultinomialNB(alpha=alpha)
+    mnb_me = testClassifier(train_mat.toarray(), train_lbl, test_mat.toarray(), test_lbl, mnb)
     mnb_me = testClassifier(train_tfmat.toarray(), train_lbl, test_tfmat.toarray(), test_lbl, mnb)
-    metrics_dict.update({a:mnb_me})
+    metrics_dict.update({alpha:mnb_me})
 
-#mnb = MultinomialNB(alpha=0.01)
-#mnb_me = testClassifier(train_mat.toarray(), train_lbl, test_mat.toarray(), test_lbl, mnb)
-#mnb_me = testClassifier(train_tfmat.toarray(), train_lbl, test_tfmat.toarray(), test_lbl, mnb)
-#metrics_dict.append({'name':'MultinomialNB', {alpha:mnb_me})
+#print graph for result
+lists = sorted(metrics_dict.items()) # sorted by key, return a list of tuples
+x, y = zip(*lists) # unpack a list of pairs into two tuples
+print x
+print y
+plt.plot(x, y)
+plt.gca().invert_xaxis()
+plt.xlim(5, 0)  # decreasing time
+plt.xlabel('decreasing alpha')
+plt.ylabel('accuracy')
+plt.title('Accuracy changes according to alpha')
+plt.grid(True)
 
+plt.show()
