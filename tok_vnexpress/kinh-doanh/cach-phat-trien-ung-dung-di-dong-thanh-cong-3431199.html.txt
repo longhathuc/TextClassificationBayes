@@ -1,0 +1,29 @@
+Cách phát_triển ứng_dụng di_động thành_công
+Ứng_dụng cần có tính thực_tiễn , đáp_ứng nhu_cầu người dùng , tận_dụng truyền_thông xã_hội để quảng_bá .
+Theo ông Herbert_Bay - nhà đồng sáng_lập kiêm CEO công_ty_tiếp_thị ứng_dụng điện_thoại_di_động Shortcut_Media ( San_Francisco , Mỹ ) , ứng_dụng di_động đã trở_thành một phần không_thể thiếu trong cuộc_sống của nhiều người , từ kiểm_tra e - mail , chia_sẻ bài viết , hình_ảnh , video lên mạng xã_hội hay xem phim , nghe nhạc ...
+Số người dùng điện_thoại ngày_càng tăng dẫn đến nhu_cầu ứng_dụng di_động lên cao , cả Android lẫn i OS .
+Tuy_nhiên , để một ứng_dụng được người dùng chọn_lựa trước cả " rừng " phần_mềm không phải là điều dễ_dàng .
+Dưới đây là những cách các nhà_phát_triển ứng_dụng đưa sản_phẩm của mình tiếp_cận người dùng và tạo doanh_thu .
+Xây_dựng ứng_dụng thiết_thực
+Nghiên_cứu thị_hiếu người dùng sẽ giúp tạo sản_phẩm chính_xác , giảm_thiểu " thử - sai - thử " , tạo động_lực hướng tới thành_công .
+Heini_Zachariassen - đồng sáng_lập kiêm CEO của Vivino cho_biết , ông dành nhiều thời_gian để tìm_hiểu những gì khách_hàng cần , cung_cấp giải_pháp và biến họ trở_thành đại_sứ thương_hiệu đại_chúng cho mình .
+" Tôi bỏ ra nhiều thời_gian và công_sức để xây_dựng một sản_phẩm tuyệt_vời , có tính ứng_dụng cao chứ không tập_trung tâng_bốc nó quá mức " , Heini_Zachariassen chia_sẻ .
+Người dùng quảng_bá
+Một phần_mềm hay sẽ thu_hút người dùng sử_dụng và giới_thiệu đến người khác .
+Ông Remo_Uherek - nhà_sáng_lập ZenFriend cho rằng , phương_thức truyền_miệng luôn có tác_động tích_cực lên khách_hàng với khoảng 70% người quyết_định tải và sử_dụng phần_mềm do nghe những đánh_giá tích_cực .
+Thiết_kế thu_hút
+Ông Alex_Pachikov - cựu Phó_chủ_tịch phụ_trách quan_hệ đối_tác Evernote nhận_xét , các biểu_tượng ứng_dụng , tên gọi và số_lượng ngôi_sao đánh_giá trên App_Store sẽ quyết_định đến 90% việc người dùng xem , khám_phá và tải ứng_dụng về hay không .
+" Biểu_tượng là dấu_ấn đầu_tiên người dùng cảm_nhận khi tiếp_cận ứng_dụng .
+Do_đó , nếu nó không đủ hấp_dẫn người_ta nhấp vào thì nhiều khả_năng bạn đã mất đến 90% lượng người dùng tiềm_năng " , ông Alex_Pachikov nhấn_mạnh .
+Do_vậy , cần thuê đội_ngũ thiết_kế biểu_tượng với hình_ảnh và tiêu_đề hấp_dẫn , rõ_ràng , đủ chi_tiết , truyền_tải đúng thông_điệp .
+Đây là khoản đầu_tư đáng_giá chứ đừng xem nó là chi_phí .
+Bạn cũng cần mô_tả trực_quan cách hoạt_động của ứng_dụng bằng hình_ảnh cụ_thể , hướng_dẫn súc_tích , ngắn_gọn ; chú_trọng đến tối_ưu_hóa công_cụ tìm_kiếm để có được kết_quả khả_quan .
+Tạo sự nổi_bật trên kho ứng_dụng
+Bạn nên chọn các danh_mục phù_hợp trên kho ứng_dụng để giới_thiệu phần_mềm của mình .
+Tận_dụng các công_cụ có sẵn để tăng_cường tiếp_thị , cải_thiện thứ_bậc xếp_hạng .
+Chú_trọng đến các phản_hồi cả tích_cực và tiêu_cực để biết rõ những mặt mạnh và điểm yếu cần cải_thiện cũng_như nhu_cầu thực_tế của người dùng .
+Chia_sẻ nội_dung trên mạng xã_hội
+Các ứng_dụng nổi_tiếng như Pinterest và Vivino đều có nội_dung chia_sẻ trên Facebook và Twitter .
+Điều này tạo ra cộng_đồng người dùng rộng_lớn .
+Cần phát_triển ứng_dụng có khả_năng liên_kết chặt_chẽ với nhiều mạng xã_hội , đem đến khả_năng tiếp_thị đa_dạng cho sản_phẩm .
+Minh_Trí

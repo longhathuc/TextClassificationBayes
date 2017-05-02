@@ -1,0 +1,16 @@
+Robot phẫu_thuật tự_động giỏi hơn bác_sĩ
+Cỗ máy mang tên Robot tự_động khâu chỉ thông_minh ( STAR ) ở Đại_học Johns_Hopkins , Mỹ , thể_hiện năng_lực phẫu_thuật khi khâu thành_công ruột lợn với độ chuẩn_xác cao hơn các bác_sĩ .
+Theo Gizmag , STAR bao_gồm một cánh_tay robot trang_bị dụng_cụ khâu vết_thương cùng_với hệ_thống chụp ảnh 3D và cảm_biến cận hồng_ngoại theo_dõi đường đánh_dấu huỳnh_quang dọc theo mép mô do các nhà_nghiên_cứu vạch ra .
+Ca phẫu_thuật diễn ra dưới sự chỉ_dẫn của " thuật_toán khâu chỉ tự_động " được phát_triển riêng cho hệ_thống .
+Trong thử_nghiệm , STAR có_thể khâu ruột lợn như các bác_sĩ phẫu_thuật tham_gia nghiên_cứu .
+Nhằm đánh_giá mức_độ thành_công của hệ_thống STAR , kết_quả của nó được so_sánh với 5 bác_sĩ phẫu_thuật khác có ít_nhất 7 năm kinh_nghiệm .
+Cỗ máy cũng được so_sánh với ba quy_trình phẫu_thuật khác_nhau là mổ hở , mổ nội_soi và mổ với cánh_tay robot hỗ_trợ .
+Trong mọi trường_hợp , STAR đều tỏ ra không thua_kém , thậm_chí vượt_trội hơn con_người , dù cỗ máy cần nhiều thời_gian hơn để hoàn_thành ca mổ trong mổ hở và mổ với cánh_tay robot hỗ_trợ .
+Một tuần sau ca phẫu_thuật , những con lợn vẫn sống_sót và không bị biến_chứng .
+" Chúng_tôi không nhận thấy khác_biệt đáng_kể nào trong vị_trí đặt mũi khâu ở mọi kỹ_thuật mổ .
+Điều này chỉ ra STAR khéo_léo không kém các chuyên_gia phẫu_thuật khi khâu mô mềm " , nhóm nghiên_cứu cho_biết .
+Các nhà_nghiên_cứu nhấn_mạnh phẫu_thuật viên theo_dõi cỗ máy sát_sao khi nó hoạt_động và có_thể nhanh_chóng cho nó dừng lại nếu lỗi xảy_ra .
+Hệ_thống STAR còn phải trải qua nhiều năm nghiên_cứu và hoàn_thiện trước khi đưa vào sử_dụng rộng_rãi .
+Nhóm nghiên_cứu hy_vọng có_thể tiến_hành thử_nghiệm lâm_sàng để đánh_giá độ an_toàn của nó với con_người trước khi chờ nhà_chức_trách thông_qua .
+Xem thêm :   Robot chết vì phóng_xạ ở nhà_máy hạt_nhân Fukushima .
+Phương_Hoa

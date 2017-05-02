@@ -1,0 +1,36 @@
+Điện_thoại cao_cấp và giá rẻ khác_nhau thế_nào
+Điểm đầu_tiên đương_nhiên nằm ở giá , ngoài_ra , còn các chi_tiết khác như độ_phân_giải màn_hình , công_nghệ đột_phá hay trải_nghiệm của người dùng trên sản_phẩm .
+Thị_trường điện_thoại thông_minh được chia làm 2 mảng chính : cao_cấp và giá rẻ , trong đó , phân khúc cao_cấp bao_gồm các sản_phẩm giá từ 10 triệu đồng trở_lên và giá rẻ là dưới 3 triệu đồng .
+Sự khác_nhau giữa sản_phẩm ở 2 phân khúc này là gì :
+1 . Thiết_kế
+Thiết_kế sẽ tạo ấn_tượng đầu_tiên cho người dùng .
+Chính vì nhận được nhiều kỳ_vọng , nên điện_thoại cao_cấp thường có thiết_kế đẹp hơn rất nhiều so với điện_thoại giá rẻ .
+Ngoài_ra , chất_liệu tạo nên điện_thoại cao_cấp bao_gồm da , kim_loại đặc_biệt hay kính , trong khi nhựa vẫn là lựa_chọn lý_tưởng cho những nhà_sản_xuất của phân khúc giá rẻ .
+2 . Độ_phân_giải màn_hình cao
+Độ_phân_giải màn_hình cũng là một yếu_tố để phân_biệt smartphone cấp cao và cấp thấp .
+Qual-HD và 720p là tiêu_chuẩn cơ_bản mà một chiếc điện_thoại giá rẻ phải có , trong khi nhiều smartphone cao_cấp đã phát_triển màn_hình 1080p để phục_vụ nhu_cầu của các game thủ khó_tính .
+Màn_hình điện_thoại cao_cấp đạt đến tiêu_chuẩn 1080p trong khi điện_thoại cấp thấp phần_lớn chỉ là 720p .
+3 . Công_nghệ đột_phá
+Mỗi khi một chiếc điện_thoại cao_cấp chuẩn_bị ra_mắt , người dùng đều kỳ_vọng vào sự xuất_hiện của một công_nghệ đột_phá nào_đó .
+Nhiều nhà_sản_xuất phân khúc cao_cấp đã không khiến người dùng phải thất_vọng , ví_dụ : S_Pen cho Samsung_Galaxy_Note 5 có khả_năng viết mượt như bút thường , tính_năng 3D Touch trên i Phone 6s và 6s Plus ... chỉ là hai trong số rất nhiều những công_nghệ đột_phá của dòng điện_thoại chất_lượng cao .
+Trong khi đó , điện_thoại giá rẻ hầu_như không có công_nghệ mới nào .
+4 . Chíp xử_lý đời_mới
+Những chiếc điện_thoại thông_minh thuộc dòng cao_cấp thường được trang_bị những bộ chip xử_lý mới nhất , giúp máy hoạt_động nhanh hơn , làm được nhiều công_việc một lúc và chạy các ứng_dụng tốn tài_nguyên .
+Điện_thoại giá rẻ khó có_thể làm được những điều này vì phần_lớn đều dùng chip rẻ_tiền , hoặc vi_xử_lý đời cũ .
+5 . Trải_nghiệm chơi game lý_tưởng
+Vì những điểm mạnh trong phần_cứng , nên điện_thoại cao_cấp thường cung_cấp trải_nghiệm chơi game hơn hẳn điện_thoại giá rẻ .
+Phần_lớn điện_thoại cấp thấp đều có tốc_độ phân_giải 15 khung hình / giây hoặc thấp hơn , tức_là không_thể chạy các game với đồ_họa cao .
+Ngược_lại con_số này của điện_thoại cao_cấp thường lớn hơn 30 .
+6 . Trải_nghiệm phần_mềm mượt
+Đối_với i OS và Windows_Phone , người dùng không thấy sự khác_biệt trong trải_nghiệm giữa smartphone cao_cấp và giá rẻ bởi chúng được thiết_kế bởi một nhà_sản_xuất .
+Tuy_nhiên , nếu so_sánh hai smartphone Android từ hai nhà_sản_xuất khác_nhau , sự khác_biệt sẽ rất là rõ nét .
+Điện_thoại Android cao_cấp có hiệu_năng cao hơn , có chế_độ đa_nhiệm màn_hình , công_nghệ NFC , nhận_diện vân tay ... , trong khi điện_thoại cấp thấp chưa có những trải_nghiệm phần_mềm này .
+7 . Camera đẳng_cấp
+Camera cũng là một yếu_tố giúp phân_biệt smartphone giá rẻ và cấp cao .
+Tất_nhiên , việc một điện_thoại thông_minh có máy_ảnh với độ_phân_giải lớn hơn không đồng_nghĩa nó tốt hơn , nhưng điện_thoại cao_cấp thường được trang_bị ống_kính rộng hơn khiến việc chụp ảnh dưới nhiều điều_kiện thời_tiết và ánh_sáng   tốt hơn .
+Camera của điện_thoại giá rẻ giờ cũng đủ để chụp ảnh tự sướng , nhưng chưa đủ cho các bức ảnh nghệ_thuật .
+8 . Pin tốt
+Nhiều smartphone cao_cấp được trang_bị màn_hình lớn và những ứng_dụng tốn tài_nguyên , chính vì_thế , chúng cần có pin với tuổi_thọ cao hơn .
+Ngoài tuổi_thọ pin , phần_lớn điện_thoại cao_cấp năm 2015 còn được trang_bị khả_năng sạc nhanh , một_số được trang_bị công_nghệ sạc không dây , những điều mà điện_thoại giá rẻ chưa phát_triển được .
+Trang_Phonearena cho rằng việc người dùng phải trả nhiều tiền hơn để sở_hữu một chiếc smartphone cấp cao là điều dễ hiểu vì thật_ra , bạn đang trả nhiều tiền hơn để có được tốc_độ máy nhanh hơn , hiệu_năng tốt hơn , nhiều tính_năng tiện_ích , pin khỏe hơn và camera đẳng_cấp .
+Nguyễn_Mai_Đức

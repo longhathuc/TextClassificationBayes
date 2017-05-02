@@ -1,0 +1,17 @@
+Trẻ học lập_trình qua những trò_chơi đơn_giản
+Các tựa game trực_quan , không yêu_cầu quá nhiều về ngôn_ngữ hay khả_năng toán_học sẽ giúp trẻ_em thích_thú hơn với việc học .
+Startup có tên code Spark ( trụ_sở Los_Angeles , Mỹ ) vừa gây quỹ 4,1 triệu USD để làm những trò_chơi và trang_web có_thể dạy trẻ_em cách để lập_trình , thậm_chí trước cả khi biết đọc và viết hiệu_quả .
+Các tựa game sẽ được phát_triển cho trẻ_em từ 4 tới 9 tuổi , không_chỉ với mục_đích dạy các em khái_niệm về khoa_học , công_nghệ , kỹ_thuật và toán_học ( STEM ) mà_còn khuyến_khích trẻ nam và nữ bình_đẳng .
+Nhân_vật của trò_chơi là nữ , và mạch truyện sẽ không có chi_tiết nào về việc giải_cứu nữ_giới .
+Grant_Hosford , đồng sáng_lập kiêm CEO của công_ty cho_biết trò_chơi đầu_tiên có tên The_Foos_Coding đã có 4 triệu người chơi là trẻ_em tại 201 quốc_gia .
+Trò_chơi được thiết_kế trực_quan thay_vì bằng chữ hoặc số nên đã thu_hút được đông_đảo người dùng .
+“ Tiếp_cận mà không dùng từ_ngữ rất quan_trọng khi đứng trên quan_điểm về khả_năng đón_nhận và tính địa_lý .
+Ví_dụ , The_Foos_Coding có_thể dành cho trẻ Trung_Quốc hay trẻ_em Mỹ chơi mà không cần dịch .
+Bên_cạnh đó , những em kém may_mắn , tàn_tật hoặc có khó_khăn trong vấn_đề tiếp_thu vẫn có_thể chơi game này cùng các bạn ” , Hosford cho_hay .
+Startup này bàn_giao miễn_phí các game của mình cho trường công , thư_viện và tổ_chức phi lợi_nhuận .
+Người dùng ( thường là các bậc phụ_huynh ) nếu muốn con mình chơi các trò này tại nhà có_thể mua và tải ứng_dụng về cài_đặt trên điện_thoại hay máy_tính bảng .
+Hosford tiết_lộ người dùng ( trẻ_em ) đã sáng_tạo ra 7 triệu game bằng việc sử_dụng Foos_Studio .
+Bill_Gross , nhà_sáng_lập Idealab - đơn_vị đã góp vốn cho code Spark cho_hay ông quyết_định hỗ_trợ công_ty này vì cách tiếp_cận với phương_pháp độc_đáo để giảng_dạy trẻ_em về lập_trình cơ_bản , trước khi các em phát_triển kỹ_năng cao về toán_học hay đọc hiểu .
+Trong thị_trường giáo_dục công_nghệ , Gross không phải là một cái tên xa_lạ .
+Ông từng sáng_lập công_ty phần_mềm giáo_dục Knowledge_Adventure , sau đó bán lại cho Cendent với giá 95 triệu USD vào năm 1996 , khoản tiền không nhỏ khi đó .
+Hải_Khanh

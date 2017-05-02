@@ -1,0 +1,17 @@
+Vận_động_viên quẹt nhẫn trả tiền tại Olympic_Rio 2016
+Thay_vì đưa tiền_mặt , các vận_động_viên dùng chiếc nhẫn để thanh_toán chi_phí qua tài_khoản Visa .
+Khoảng 40 vận_động_viên trong chương_trình Team_Visa thi_đấu tại Olympic_Rio 2016 sẽ được cung_cấp những chiếc nhẫn đeo tay ( NFC Ring ) tích_hợp công_nghệ kết_nối không dây trong phạm_vi tầm ngắn ( NFC ) .
+Mỗi chiếc nhẫn liên_kết với một tài_khoản Visa cho_phép người dùng mua hàng bằng cách đưa tay đeo nhẫn quét lên các thiết_bị thanh_toán không tiếp_xúc .
+Theo đại_diện Visa , mẫu nhẫn công_nghệ này thiết_kế theo bằng_sáng_chế của   hãng McLear & Co .
+Mỗi sản_phẩm tích_hợp một vi_mạch bảo_mật cao do Gemalto sản_xuất , nhúng ăng - ten hỗ_trợ NFC có khả_năng tương tích cùng những máy_tính tiền cho_phép khả_năng thanh_toán không tiếp_xúc .
+NFC Ring không cần dùng pin hay sạc nguồn , đủ khả_năng chống nước ở độ sâu 50m .
+Việc sử_dụng tương_tự với thẻ Visa nhưng người dùng không cần chạm vào máy thanh_toán mà chỉ cần đưa tới gần là nhẫn tự_động được kết_nối .
+Visa sẽ triển_khai khoảng 4.000 thiết_bị_đầu_cuối POS tích_hợp NFC hỗ_trợ thanh_toán di_động và thiết_bị đeo tay tại những điểm thi_đấu chính của Olympic .
+Vận_động_viên Missy_Franklin thuộc Team_Visa đánh_giá , NFC Ring là một giải_pháp mới_mẻ mang tính thực_tế cao , giúp các vận_động_viên tranh tài tại Rio sẽ thoải_mái di_chuyển và mua_sắm mà không lo phải đem theo ví , thẻ hay bị mất_cắp , thất_lạc .
+Trước đó , tại Thế_vận_hội London 2012 , Visa cũng đã hợp_tác với Samsung đưa ứng_dụng thanh_toán di_động PayWane trên nền_tảng công_nghệ NFC vào smartphone Galaxy S_III dành riêng cho các vận_động_viên tham_dự ngày hội thể_thao lớn nhất hành_tinh .
+Theo dự_báo của hãng nghiên_cứu Strategy_Analytics , giá_trị giao_dịch thông_qua các thiết_bị di_động hỗ_trợ NFC được dự_báo sẽ đạt mức hơn 30 tỷ USD trong năm nay .
+Tình_hình tiếp_tục khả_quan trong năm 2017 với mức 45 tỷ và tăng lên 70 tỷ năm 2018 , đến năm 2021 sẽ chạm mốc 241 tỷ USD .
+Phương_thức thanh_toán linh_hoạt này đem đến nhiều tiện_lợi cho người sử_dụng .
+Tuy_nhiên , một trong những rào_cản chính_yếu là khách_hàng lo_ngại về yếu_tố bảo_mật , lừa_đảo và rò_rỉ thông_tin .
+Do_đó , các nhà_cung_cấp dịch_vụ phải thường_xuyên cung_cấp thông_tin về cách_thức bảo_mật cho người dùng , nâng_cấp hệ_thống bảo_mật qua việc xác_thực bằng sinh trắc học và mật_khẩu OTP .
+Minh_Trí

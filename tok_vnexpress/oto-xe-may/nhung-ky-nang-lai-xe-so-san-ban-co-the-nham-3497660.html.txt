@@ -1,0 +1,17 @@
+Những kỹ_năng lái_xe số sàn bạn có_thể nhầm
+Côn trước phanh sau hay ngược_lại , số sàn tiết_kiệm xăng hơn số tự_động hay không là vấn_đề người đi xe số sàn thắc_mắc .
+Cắt côn trước khi rà phanh
+Rà phanh trước rồi mới cắt côn
+Đúng
+Sai
+Đúng
+Sai
+Để số cao nhất ( 5 hoặc 6 )
+Để số thấp nhất ( 1 )
+Để số thấp tùy vào độc dốc
+Để số N ( mo )
+Đúng
+Sai
+Trước khi vào cua
+Sau khi thoát cua
+Minh_Hy

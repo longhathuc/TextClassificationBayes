@@ -1,0 +1,37 @@
+Không quẹt thẻ_tín_dụng vẫn mất tiền triệu
+Khác với thẻ ATM , thẻ_tín_dụng không cần mật_khẩu vẫn có_thể thanh_toán nên nếu thất_lạc hoặc mất thông_tin thẻ , bạn có_thể mất hết tiền .
+Nếu_như thẻ_ghi_nợ nội_địa ( ATM ) cho_phép rút_tiền , thanh_toán trực_tuyến hoặc tại quầy với điều_kiện nhập đúng mã PIN ( mật_khẩu ) thì thẻ_tín_dụng ( credit ) và thẻ_ghi_nợ quốc_tế ( debit ) lại không yêu_cầu nhập PIN .
+Do_đó , nếu sử_dụng không cẩn_thận và mắc vào những trường_hợp sau , bạn có_thể bị mất tiền oan ngay cả khi chính mình không tiêu_xài .
+Mất thẻ
+Một khách_hàng tại TP_HCM gần đây vừa bị kẻ_gian đột_nhập lấy cắp thẻ_tín_dụng mà không hề hay_biết .
+Chỉ đến khi đang ngồi nhà vào buổi tối , điện_thoại báo tin nhắn có hai giao_dịch bằng thẻ_tín_dụng của mình được thanh_toán tại một cửa_hàng điện_thoại_di_động với số tiền gần 40 triệu đồng , anh mới tá_hoả .
+Ngay sau đó , dù đã gọi điện_thoại lên tổng_đài của ngân_hàng phát_hành thông_báo mất thẻ nhưng đây là sai_sót do lỗi từ phía khách_hàng ( để mất thẻ ) nên nhà_băng cho_biết không_thể bồi_thường .
+Ngân_hàng chỉ hỗ_trợ khách cung_cấp các thông_tin để hợp_tác với cơ_quan điều_tra .
+Tương_tự , chị Lan_Anh ( Hà_Nội ) trong một lần đi nghỉ tại TP_HCM cũng bị rơi ví trong đó có thẻ_tín_dụng với hạn_mức được cấp khá lớn .
+Ngay sau đó , kẻ_cắp đã " quẹt " bằng thẻ của chị để mua 2 chiếc i Phone 6 tại một cửa_hàng điện_máy , điện_thoại_di_động .
+Luôn để thẻ_tín_dụng trong tầm kiểm_soát của bản_thân và sẵn_sàng báo cho ngân_hàng khi mất thẻ là cách dễ nhất để bảo_vệ rủi_ro .
+Trên thực_tế , các hệ_thống bán_lẻ điện_máy , điện_thoại nằm trong danh_sách những điểm tiêu_thụ thẻ ăn_cắp và thông_tin thẻ ăn_cắp hàng_đầu .
+Lý_do , đây là dạng merchant - điểm chấp_nhận thanh_toán thẻ - lý_tưởng cho những tội_phạm thẻ : việc mua_bán dễ_dàng , giá_trị thanh_toán lớn , hàng_hoá mua xong dễ thanh_lý , quy_trình quẹt thẻ lỏng_lẻo ...
+Hiện một_số cửa_hàng đã yêu_cầu khách quẹt thẻ_tín_dụng để mua hàng giá_trị lớn phải xuất_trình Chứng_minh nhân_dân ( CMND ) .
+Tuy_nhiên , việc này gây phiền_hà nhiều cho khách_hàng nên quy_định này không được đón_nhận và cũng sớm bị " chết_yểu " .
+Mất thông_tin thẻ
+Với thẻ_tín_dụng , dù vẫn nằm trong ví , bạn vẫn có_thể mất tiền nếu để lộ thông_tin thẻ cho kẻ_gian .
+Đây cũng là trường_hợp thường gây nhiều tranh_cãi nhất giữa ngân_hàng và khách_hàng về trách_nhiệm khi xảy_ra sự_cố khi cả hai bên đổ lỗi cho nhau là " thủ_phạm " lộ thông_tin .
+Ăn_cắp thông_tin tại Việt_Nam rồi bán ra nước_ngoài là phương_thức phổ_biến nhất hiện_nay đối_với thẻ_tín_dụng .
+Cách đây không lâu , một chủ thẻ tên Trang ( sống tại TP_HCM , chưa một lần bước chân đến nước Anh ) nhưng lại nhận tin nhắn thông_báo trừ tiền_của ngân_hàng với giao_dịch để mua thực_phẩm với giá_trị 174 bảng ( khoảng 5,7 triệu đồng ) .
+Tương_tự , một khách_hàng tại Nam_Định cũng " nếm trái đắng " và bị thiệt_hại 48 triệu đồng cho 5 giao_dịch được thanh_toán online bằng bảng Anh từ tài_khoản Visa_Debit trong khi thẻ vẫn cất tủ .
+Quy_trình thanh_toán trực_tuyến đối_với thẻ_tín_dụng hiện_nay khá sơ_sài .
+Khác với thẻ nội_địa , khi sử_dụng thẻ_tín_dụng để thanh_toán trực_tuyến , hệ_thống chỉ yêu_cầu nhập họ tên chủ thẻ , số thẻ thời_hạn hiệu_lực và mã xác_thực thẻ ( CVV ) .
+Tất_cả các thông_tin này đều được in ở mặt trước và mặt sau của thẻ .
+Hiện rất ít ngân_hàng sử_dụng phương_thức xác_thực bằng mật_khẩu dùng một lần ( OTP - one time password ) để gửi mật_khẩu qua tin nhắn cho khách_hàng xác_nhận trước khi thanh_toán .
+Giám_đốc một trung_tâm thẻ của ngân_hàng cho rằng lộ thông_tin có_thể xảy_ra do vô_tình ở nhà_hàng siêu_thị .
+Nếu nhân_viên cửa_hàng gian_lận , khách không để_ý , họ có_thể copy , chụp lại thông_tin in trên thẻ sau đó bán ra nước_ngoài .
+Tại hầu_hết các đơn_vị chấp_nhận thanh_toán thẻ ở Việt_Nam , nhân_viên thu_ngân đều tự tay quẹt thẻ thay_vì đưa cho chủ thẻ thực_hiện .
+Chưa kể , trong một_số trường_hợp , chủ thẻ_tín_dụng khá chủ_quan khi đưa thẻ cho nhân_viên thu_ngân ở ngoài tầm nhìn của mình .
+Không thông_báo cho ngân_hàng khi mất thẻ , thông_tin thẻ
+Theo quy_định của các tổ_chức thẻ quốc_tế và tại điều_khoản phát_hành thẻ của các ngân_hàng cũng nêu rõ , trước thời_điểm thông_báo về việc bị mất , đánh_cắp thẻ , thông_tin thẻ , khách_hàng phải chịu trách_nhiệm về mọi giao_dịch của mình .
+Do_đó , giám_đốc trung_tâm thẻ của một ngân_hàng cổ_phần khuyến_cáo , ngay khi phát_hiện bị mất thẻ ngân_hàng , dù là thẻ_tín_dụng ( credit ) hay ghi nợ quốc_tế ( debit ) , việc đầu_tiên khách_hàng cần làm là phải thông_báo với ngân_hàng phát_hành để chặn việc kẻ_gian có_thể dùng thẻ để thanh_toán .
+" Kể từ thời_điểm ngân_hàng nhận được thông_báo mất thẻ và yêu_cầu khoá thẻ của khách , ngân_hàng phải chịu toàn_bộ trách_nhiệm với những giao_dịch lạ phát_sinh về sau " , ông nói .
+Tuy_nhiên , với điều_khoản " miễn_trừ " này , nhiều khách_hàng cho rằng đến nay quyền_lợi của họ không hề được ai bảo_vệ ( trong trường_hợp sự_cố xảy_ra do mất thông_tin thẻ ) .
+Chưa kể , sau khi sự_cố xảy_ra , sự phối_hợp và hỗ_trợ của ngân_hàng với khách để tìm ra nguyên_nhân và khắc_phục cũng được xem là vấn_đề lớn .
+Nhiều khách_hàng cho_biết , họ luôn bị đổ lỗi trong khi thực_tế , ngân_hàng là đơn_vị nắm_đằng_chuôi và cũng không loại_trừ khả_năng thông_tin bị rò_rỉ từ chính cơ_sở_dữ_liệu của khách_hàng .

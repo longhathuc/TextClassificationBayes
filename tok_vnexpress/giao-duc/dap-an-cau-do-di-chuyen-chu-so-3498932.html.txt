@@ -1,0 +1,4 @@
+Đáp_án câu_đố di_chuyển chữ_số
+Chỉ có một_cách di_chuyển chữ_số duy_nhất để được phương_trình đúng .
+Đa_số độc_giả đã đưa ra đáp_án đúng cho câu_đố này .
+Đề_bài :

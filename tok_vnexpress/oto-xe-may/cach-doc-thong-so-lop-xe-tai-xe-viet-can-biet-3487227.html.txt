@@ -1,0 +1,46 @@
+Cách đọc thông_số lốp xe tài_xế Việt cần biết
+Những chỉ_số quan_trọng bằng chữ và số giúp người sử_dụng mua và thay đúng loại lốp cũng_như các điều_kiện hoạt_động phù_hợp .
+Không_chỉ hữu_ích trong việc mua và thay cùng loại lốp , các thông_số còn hỗ_trợ trong việc nâng_cấp hoặc đổi loại lốp chạy theo mùa , tùy_thuộc vào từng điều_kiện thời_tiết .
+Các chữ_cái và con_số cũng giúp người sử_dụng hiểu tốc_độ tối_đa cho_phép , độ chịu_nhiệt , sức tải cũng_như độ rộng của lốp và đường_kính vành xe .
+Những chữ cỡ lớn , thường nằm ở vòng ngoài cho_biết tên nhà_sản_xuất , thương_hiệu .
+Tên lốp có_thể chỉ gồm chữ_cái , hoặc kết_hợp cả chữ và số , như Goodyear ' s Eagle F1 GS-D3 , Hankook_Ventus R-S2 Z212 hay Kumho_Ecsta MX .
+Không phải lốp nào cũng có , và nếu có , dấu_hiệu này thường nằm trước tên lốp , có_thể là P , LT , ST , T hoặc C .
+P : lốp cho xe_con ( Passenger vehicle )
+LT : lốp xe_tải nhẹ ( Light_Truck )
+ST : lốp xe đầu kéo đặc_biệt ( Special_Trailer )
+T : lốp thay_thế tạm_thời ( Temporary )
+C : lốp xe chở hàng thương_mại , xe_tải hạng nặng
+Đó là loạt chữ và số ngay sau đặc_điểm dịch_vụ và có dấu gạch_chéo ở giữa .
+Ba số đầu_tiên là chiều rộng lốp và tính bằng đơn_vị milimét .
+Chiều rộng có_thể từ 155-315 .
+Ví_dụ trong ảnh là 225 mm .
+Hai số tiếp_theo và nằm phía sau gạch_chéo là biên dạng lốp , là tỷ_lệ % giữa chiều_cao hông lốp so với chiều rộng mặt lốp và thường từ 55-75 % với phần_lớn xe_con .
+Ví_dụ trong ảnh là 60% .
+Biên dạng lốp được tính : 225 mm x 60% = 135 mm .
+Phần_lớn thông_số này được hiển_thị bằng chữ R và nằm ngay sau biên dạng lốp .
+R nghĩa_là cấu_trúc bố thép tỏa tròn Radial , một tiêu_chuẩn công_nghiệp của xe_con , và là loại lốp thông_dụng nhất .
+Những loại xe khác có_thể là B , D hoặc E .
+Thường nằm ngay sau cấu_trúc lốp , cho_biết kích_thước vành phù_hợp với lốp xe .
+Như trong ảnh , vành là loại 17 inch ( 43,2 cm ) .
+Con_số này đặc_biệt quan_trọng , cho_biết khả_năng tải của lốp xe và con_số càng lớn , mức tải của lốp càng cao .
+Dấu_hiệu này không phải lúc_nào cũng chỉ là con_số .
+Không_bao_giờ thay lốp nguyên_bản bằng loại lốp có chỉ_số tải_trọng tối_đa cho_phép thấp hơn , mà chỉ dùng lốp có cùng , hoặc chỉ_số này cao hơn .
+Ví_dụ bạn dùng loại như trong ảnh , là 82 , thì khi thay phải cùng là loại 82 hoặc cao hơn .
+Chỉ_số cho_biết lốp xe có_thể tải một lượng hàng nhất_định và chạy với tốc_độ nào_đó .
+Những chữ_cái cho_biết giới_hạn tốc_độ của từng loại lốp cụ_thể như sau :
+Q : 160 km / h
+S : 180 km / h
+T : 190 km / h
+U : 200 km / h
+H : 210 km / h
+V : 240 km / h ( như ví_dụ trong ảnh )
+Z : trên 240 km / h
+Cho_biết độ chịu_nhiệt ở tốc_độ cao ở phần trong của lốp .
+Chỉ_số này có_thể là chữ A , B hoặc C với A thể_hiện độ chịu_nhiệt cao nhất và C là thấp nhất .
+Sau chữ " DOT " là nhà_máy sản_xuất .
+Như trong ảnh , " M5 " cho_biết đây là loại lốp Michelin sản_xuất tại nhà_máy ở Kentville , Canada .
+Tiếp_theo là mã kích_cỡ lốp ( DO ) .
+" L8M " là mã kích_thước .
+Còn " 5008 " là tuần và năm sản_xuất - lốp được sản_xuất vào tuần thứ 50 của năm 2008 .
+Nằm ở viền trong của lốp , cho_biết áp_suất phù_hợp để tối_đa hiệu_suất hoạt_động của lốp .
+Mỹ_Anh

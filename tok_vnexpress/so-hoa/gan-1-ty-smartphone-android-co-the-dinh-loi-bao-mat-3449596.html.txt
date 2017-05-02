@@ -1,0 +1,13 @@
+Gần 1 tỷ smartphone Android có_thể dính lỗi bảo_mật
+Lỗ_hổng bảo_mật trên chip Snapdragon của Qualcomm có_thể gây ảnh_hưởng trên nhiều smartphone nổi_tiếng như Galaxy S7 , Nexus 6P , One M9 hay M10 ...
+QuadRooter là lỗ_hổng bảo_mật được Checkpoint_Research phát_hiện tồn_tại trên dòng chipset Snapdragon của Qualcomm .
+Với sự phổ_biến của vi_xử_lý này trên smartphone , họ ước_tính lỗ_hổng bảo_mật trên có_thể gây ảnh_hưởng cho hơn 900 triệu smartphone Android có_mặt trên thị_trường .
+Rất nhiều thiết_bị Android cao_cấp có_thể bị ảnh_hưởng do dùng chip Snapdragon của Qualcomm , như Galaxy S7 , One M10 hay BlackBerry Priv .
+Mức_độ nguy_hiểm của   QuadRooter cao khi nó giúp phần_mềm độc_hại đã cài_đặt được vào điện_thoại âm_thầm chiếm nhiều quyền sử_dụng , nhưng không hề bị Android phát_hiện .
+Từ đó ,   hacker có_thể lợi_dụng để Root , chiếm quyền sử_dụng smartphone cao nhất , truy_cập camera , microphone và đọc toàn_bộ dữ_liệu có trên máy .
+Theo ZDNet , Qualcomm đã bắt_đầu sửa lỗ_hổng bảo_mật Quadrooter từ tháng 4 đến tháng 7 .
+Các bản cập_nhật vá lỗi đã được cung_cấp cho các đối_tác của họ và nhiều hãng điện_thoại .
+Google cũng phát_hành liên_tục các bản nâng_cấp phần_mềm cho Nexus hàng tháng qua .
+Tuy_nhiên , Qualcomm thừa_nhận lỗ_hổng bảo_mật trên hiện chưa được khắc_phục triệt_để vì chậm_trễ và gặp trục_trặc trong chuỗi cung_ứng số_lượng quá lớn .
+Checkpoint_Research   cũng tung ra phần_mềm miễn_phí có tên QuadRooter Scanner trên kho ứng_dụng Google_Play , nhằm xác_định lỗ_hổng bảo_mật trên đã được nhà_sản_xuất khắc_phục hay chưa .
+Với người dùng ,   cách phòng_ngừa hữu_hiệu là không được cài phần_mềm từ bên ngoài kho ứng_dụng Play_Store của Google .

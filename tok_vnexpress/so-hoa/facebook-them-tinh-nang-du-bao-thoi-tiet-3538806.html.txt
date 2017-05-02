@@ -1,0 +1,12 @@
+Facebook thêm tính_năng dự_báo thời_tiết
+Facebook đã đưa vào tính_năng dự_báo thời_tiết cho các máy chạy hệ_điều_hành i OS ở bản cập_nhật mới nhất .
+Tính_năng dự_báo thời_tiết của Facebook hiển_thị chi_tiết và khá chính_xác .
+Tính_năng dự_báo thời_tiết của Facebook hiển_thị đầy_đủ và chi_tiết các thông_tin về tình_hình thời_tiết trong ngày theo thời_gian cụ_thể .
+Người dùng có_thể biết được chính_xác thời_gian nào trời mát , trời nắng hay_là có mưa .
+Ngoài_ra , tính_năng này còn dự_báo thời_tiết trong 5 ngày tiếp_theo .
+Giao_diện đơn_giản và dễ hiểu hơn so với các ứng_dụng thời_tiết hiện_nay , bên_cạnh đó , Facebook còn gửi thông_báo cho người dùng khi trời mưa .
+Trước_đây , Facebook cũng cung_cấp thông_tin về thời_tiết trên News_Feed nhưng chỉ ở mức đơn_giản , với tính_năng mới này thông_tin sẽ được thể_hiện đầy_đủ hơn và khi người dùng bấm vào , ứng_dụng sẽ tự chuyển sang thông_tin chi_tiết .
+Thông_tin về thời_tiết trên tính_năng mới của Facebook được lấy từ trang_web chuyên cung_cấp về thời_tiết www . weather.com .
+Hiện_tại , tính_năng này chỉ hỗ_trợ cho những người dùng ứng_dụng Facebook trên hệ_điều_hành i OS .
+Một_số tài_khoản tại Việt_Nam đã cập_nhật được , một_số khác chưa .
+Nền_tảng Android và desktop sẽ được cung_cấp trong thời_gian tới .

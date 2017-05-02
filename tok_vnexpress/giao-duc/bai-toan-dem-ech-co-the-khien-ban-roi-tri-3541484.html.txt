@@ -1,0 +1,6 @@
+Bài_toán ' đếm ếch ' có_thể khiến bạn rối trí
+Yêu_cầu chỉ là đếm số chú ếch trên một hòn đảo nhưng bài_toán thú_vị trong đề thi Toán quốc_tế Kangaroo dành cho học_sinh lớp 3-4 có_thể làm_bạn bị rối .
+Trong hình_vẽ , chúng_ta thấy một hòn đảo với hình_dáng kỳ_lạ và một_số chú ếch .
+Hỏi có bao_nhiêu chú ếch đang ở trên hòn đảo ?
+Trần_Phương
+> > Bài_toán điện_thoại thử tài suy_luận nhanh > > Bài_toán chia táo có_thể khiến bạn nhầm_lẫn

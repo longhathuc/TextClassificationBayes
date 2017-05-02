@@ -1,0 +1,76 @@
+Nhận_diện thương_hiệu một_số cuộc_thi Toán quốc_tế
+Mỗi năm học_sinh Việt_Nam tham_dự hàng chục cuộc_thi Toán quốc_tế , có cuộc miễn_phí , có cuộc phải đóng tới 2.000 USD/người .
+Chất_lượng cũng_như mức_độ cạnh_tranh của các cuộc_thi rất cách_biệt .
+Học_sinh Việt_Nam có_thể tham_dự rất nhiều cuộc_thi Toán quốc_tế với các tên viết tắt như IMO ( Ủy_ban Olympic_Toán quốc_tế tổ_chức ) ; IMSO ; X + IMC ; IMAS ( Hiệp_hội các quốc_gia châu Á_Thái_Bình_Dương tổ_chức ) ; APMOPS , SMO , SASMO , SIMOC , IMC ( Singapore tổ_chức ) , Kangaroo ( Pháp ) ; ITOT ( Nga ) ; AMC & ARML ( Mỹ ) ; AIMO & AMC ( Australia ) ; WMTC ( Trung_Quốc ) , IFYM ( Bulgaria ) , WMO ( Hàn_Quốc ) …
+Bỏ_qua yếu_tố chuyên_môn thì các cuộc_thi quốc_tế nêu trên có_thể chia thành 3 nhóm .   Nhóm
+A là các cuộc_thi miễn_phí ( IMO ; IMSO ; X+ IMC ; APMOPS vòng 2 … ) .
+Nhóm B đóng phí tượng_trưng ( AMC ; Kangaroo ; ITOT , IMAS… ) .   Nhóm
+C đóng phí đầy_đủ ( IMC ; SIMOC ; IFYM , WMO… ) .
+Các cuộc_thi miễn_phí nhóm A
+Đặc_điểm cơ_bản cuộc_thi Toán quốc_tế miễn_phí là Ban tổ_chức chỉ tổ_chức 1-2 cấp_độ thi và phải bỏ chi_phí khoảng 2 triệu USD để lo tổ_chức thi ; bao ăn , ở , tham_quan cho tất_cả đoàn dự thi .
+Do tính phi lợi_nhuận nên các cuộc_thi loại này sẽ hội_tụ được những học_sinh có năng_khiếu nhất về Toán_học .
+1 . Olympic_Toán quốc_tế ( IMO )
+Đây là cuộc_thi danh_giá nhất của Toán_học dành cho các học_sinh THPT .
+Các học_sinh phấn_đấu được huy_chương của IMO cũng khó_khăn như vận_động_viên thể_thao được huy_chương tại Thế_vận_hội Olympic .
+IMO được ra_đời từ năm 1959 với 7 quốc_gia thành_viên và cho_đến nay đã có hơn 100 thành_viên .
+Mỗi đội_tuyển có 6 học simh phải giải 6 bài_toán trong 2 ngày thi , mỗi ngày 3 bài với thời_gian làm bài 4h30 .
+Rất nhiều học_sinh được giải IMO trở_thành nhà Toán_học và khoa_học nổi_tiếng trên thế_giới .
+Hiện_tại IMO được điều_hành bởi 8 thành_viên là các nhà toán_học hàng_đầu và vừa được Google tài_trợ khoảng 5 triệu USD .
+Việt_Nam tham_dự IMO từ năm 1974 với các huy_chương vàng thành_danh như GS Ngô_Bảo_Châu ; GS .
+Đàm_Thanh_Sơn ; GS Lê_Tự_Quốc_Thắng ; GS Vũ_Kim_Tuấn …
+2 . Olympic_Toán học trẻ quốc_tế ( chữ_cái đầu quốc_gia đăng_cai X+ IMC )
+Một ủy_ban gồm 10 thành_viên của các quốc_gia điều_hành 3 cuộc_thi Toán quốc_tế X+ IMC ; IMSO và IMAS đã liên_kết với các tổ_chức giáo_dục tại hơn 30 quốc_gia để tổ_chức thi X+ IMC luân_phiên giữa các nước như CIMC 2015 Trung_Quốc ; TIMC 2016 Thái_Lan .
+Hội_đồng ra đề thi gồm các chuyên_gia Toán_học từng được huy_chương của IMO .
+Mỗi năm có trên 600 thí_sinh đến từ 30 quốc_gia dự thi cá_nhân và đồng_đội theo 2 khối lớp 6-7 và 8-9 .
+Ban tổ_chức đài_thọ toàn_bộ chi_phí ăn_ở cho ít_nhất 16 thí_sinh chính_thức của mỗi quốc_gia .
+Việt_Nam bắt_đầu tham_dự cuộc_thi X+ IMC từ năm 2011 .
+Năm 2015 , Bộ Giáo dục và Đào_tạo chính_thức công_nhận kỳ thi này và cho_phép trường THPT chuyên Hà_Nội - Amsterdam lập đội_tuyển đại_diện cho Việt_Nam tham_dự .
+Ngay tại cuộc_thi CIMC 2015 ở Trung_Quốc , đội_tuyển Việt_Nam đã xếp thứ nhất toàn đoàn .
+3 . Olympic_Toán và Khoa_học trẻ quốc_tế ( IMSO )
+Là cuộc_thi uy_tín nhất dành cho học_sinh lứa tuổi 11-12 với sự tham_gia của khoảng 400 học_sinh đến từ 23 quốc_gia dự thi 2 nội_dung Toán và Khoa_học ( Lý ; Hóa ; Sinh ) .
+Các thí_sinh thi Toán sẽ có 3 phần thi : Trắc_nghiệm viết đáp_số ( 25 bài/60 phút ) ; Tự luận ( 13 bài/90 phút ) và Khám_phá ( 6 bài/120 phút ) .
+Mỗi quốc_gia đăng_cai phải bỏ toàn_bộ kinh_phí để tài_trợ cho ít_nhất 12 thí_sinh chính_thức của mỗi quốc_gia tham_dự .
+Việt_Nam bắt_đầu tham_dự IMSO từ năm 2014 .
+Năm 2016 , Bộ Giáo dục và Đào_tạo chính_thức công_nhận kỳ thi này và cho_phép tổ_chức thi 2 vòng để thành_lập đội_tuyển đại_diện cho Việt_Nam dự thi IMSO .
+Kết_quả đội_tuyển Toán xếp thứ nhất với 7 vàng , 2 bạc và 3 đồng .
+4 . Olympic_Toán châu Á - Thái_Bình_Dương ( APMOPS )
+Kỳ thi APMOPS do Học_viện Hwa_Chong lâu_đời và danh_giá nhất của Singapore tổ_chức cho học_sinh lứa tuổi 11-12 theo 2 vòng .
+Vòng 1 cuộc_thi được tổ_chức tại 13 quốc_gia .
+Sau vòng 1 học_sinh xuất_sắc sẽ được Ban tổ_chức đài_thọ toàn_bộ chi_phí ăn_ở và đi_lại để dự thi vòng 2 tại Singapore .
+Tại vòng 2 học_sinh phải giải 6 bài_toán tự luận trong 120 phút và Ban tổ_chức trao 40 huy_chương vàng ( không có huy_chương bạc và đồng ) tương_ứng 15% thí_sinh dự thi và vinh_danh Top 10 huy_chương vàng cao nhất kèm với giải_thưởng tiền_mặt như giải nhất $ 1000 ; giải nhì $ 800 …
+APMOPS là cuộc_thi hàng_đầu không_chỉ bởi nội_dung đề thi , hay_là cuộc_thi Toán phổ_thông phi lợi_nhuận nhưng có quỹ tiền thưởng lớn nhất mà_còn bởi là kỳ thi quốc_tế duy_nhất học_sinh Thượng_Hải ( được coi là thông_minh nhất thế_giới ) tham_dự tại Singapore .
+Tại APMOPS vòng 2 năm 2016 đoàn Việt_Nam đã vượt qua sự thống_trị ngôi vương trong 10 năm của đoàn Thượng_Hải để vươn lên xếp vị_trí thứ nhất với 5 huy_chương vàng Top 10 ( 1 ; 3 ; 4 ; 8 ; 9 ) và một huy_chương vàng thứ 11 .
+Các cuộc_thi đóng phí tượng_trưng nhóm B
+Các cuộc_thi đóng phí tượng_trưng thường có từ 3 đến 6 cấp_độ thi theo khối lớp .
+Việc thu lệ_phí thi không mang yếu_tố kinh_doanh mà chỉ đủ để tổ_chức kỳ thi .
+Từ năm 2015 , Trung_tâm nghiên_cứu và ứng_dụng khoa_học giáo_dục , Đại_học Giáo_dục ( Đại_học Quốc_gia Hà_Nội ) là đơn_vị điều_phối quốc_gia tại Việt_Nam cho 3 kỳ thi tiêu_biểu sau đây :
+1 . Kỳ thi Toán quốc_tế giữa các thành_phố ( ITOT )
+Kỳ thi ITOT được sáng_lập bởi Nikolai_Konstantinov , nhà toán_học và cũng là nhà giáo_dục nổi_tiếng của Nga , được tổ_chức lần đầu_tiên năm 1980 .
+Hiện_tại ITOT được điều_hành bởi một ủy_ban thuộc Viện_Hàn lâm Khoa_học Nga .
+Kỳ thi ITOT được tổ_chức thường_niên , mỗi năm hai vòng vào mùa thu ( khoảng tháng 10 ) và mùa xuân ( khoảng tháng 3 ) .
+Nếu_như các cuộc_thi Olympic_Toán thông_thường thì thí_sinh phải trải qua các vòng thi từ thấp lên cao , thì tại ITOT , bất_cứ ai cũng có_thể tham_gia vào các cấp_độ của kỳ thi .
+Trong mỗi vòng thi thường có hai mức_độ , mức O ( mở_rộng , làm trong 4 giờ ) và mức A ( nâng cao , làm trong 5 giờ ) cách nhau khoảng một tuần .
+Tại ITOT , thí_sinh được lựa_chọn giải_quyết tối_đa 3 câu_hỏi trong số 5 đến 8 câu_hỏi được đưa ra , bởi_vì chỉ có 3 câu_hỏi thí_sinh làm tốt nhất được tính điểm .
+2 . Kỳ thi Toán quốc_tế Kangaroo ( IKMC )
+Đây là kỳ thi Toán_học được khởi_nguồn tại Pháp từ năm 1991 và hiện thu_hút trên 6 triệu thí_sinh đến từ khoảng 50 quốc_gia mỗi năm .
+Đề thi Kangaroo được phân_chia theo 6 khối lớp từ khối lớp ( 1-2 ) đến khối lớp ( 11-12 ) và được chuyên_gia các nước đánh_giá cao dưới góc_độ phát_hiện năng_khiếu Toán_học .
+3 . Kỳ thi học_sinh giỏi Toán_Mỹ ( AMC )
+Do hiệp_hội Toán_học Mỹ tổ_chức từ năm 1950 , mục_tiêu của AMC là tạo cơ_hội cho thí_sinh được làm_quen với những dạng Toán nâng cao trong chương_trình giáo_dục_phổ_thông , với nhiều câu_hỏi liên_quan tới ứng_dụng Toán_học trong thực_tế .
+Đề thi luôn hướng tới việc thúc_đẩy khả_năng tư_duy và kỹ_năng giải_quyết các vấn_đề của học_sinh .
+Kỳ thi AMC được chia theo các khối lớp 8 , 10 và 12 .
+Hàng năm có khoảng 350.000 thí_sinh đến từ 6.000 trường trên toàn thế_giới tham_dự .
+Các cuộc_thi đóng phí nhóm C
+Các cuộc_thi đóng phí đầy_đủ thường có rất nhiều khối lớp dự thi ( từ lớp 2 đến lớp 12 ) .
+Thí_sinh phải đóng đầy_đủ lệ_phí thi ; phí đi_lại , ăn_ở và gộp thêm phí tập_huấn thì tổng_chi phí khoảng 2.000 USD/học sinh cho một kỳ thi tại Singapore .
+Mỗi học_sinh lớp dưới thường phải có phụ_huynh đi kèm nên chi_phí lên đến 3.000 USD .
+Với mức chi_phí này chắc_chắn sẽ là rào_cản cho những học_sinh giỏi nhưng gia_đình không đủ điều_kiện .
+Do có yếu_tố thương_mại nên để thu_hút học_sinh , Ban tổ_chức một_số cuộc_thi thường ra đề thi vui_vẻ kiểu Test IQ chọn đáp_án để tạo ra cơn mưa giải_thưởng chia quà cho các đoàn tham_dự .
+Bùng_nổ các cuộc_thi Toán_Tây để làm_đẹp hồ_sơ du_học
+Mục_đích cao nhất của gia_đình có con học giỏi là khi kết_thúc bậc học phổ_thông đều mong_muốn con_em được du_học tại các trường đại_học hàng_đầu của Mỹ .
+Nếu chỉ tiếp_cận với mục_đích này bằng con đường thi IMO thì vừa nguy_hiểm ( vì xác_suất trở_thành một trong 6 thành_viên dự thi IMO vô_cùng bé ) , vừa chậm thời_gian hoặc mất cơ_hội du_học .
+Hiểu được những hạn_chế này một_số phụ_huynh Hà_Nội đã đầu_tư cho con tham_dự các kỳ thi Toán quốc_tế ở bậc Tiểu_học hay THCS để tích_tụ hồ_sơ tốt , sau đó chấm_dứt Toán chuyên để tập_trung năng_lượng cho các kỳ thi chuẩn đầu_vào đại_học Mỹ như SAT , TOEFL .
+Những tấm_gương tiêu_biểu cho cách đi này là thế_hệ học_sinh đầu_tiên của trường Hà_Nội - Amsterdam dự thi APMOPS hay X+ IMC rồi từ_bỏ hệ chuyên Toán đã theo học từ bậc THCS để thi vào lớp chuyên Anh THPT , và đầu_tư thi SAT ;   TOEFL  với điểm rất cao để nhận được học_bổng đại_học hàng_đầu nước Mỹ như Vũ_Thùy_Ngân ; Nguyễn_Tấn_Phát ( Đại_học Yale ) ; Hoàng_Minh_Tuệ và Nguyễn_Tiến_Thành ( Đại_học Duke ) …
+Với các phân_tích nêu trên , các tổ_chức và cá_nhân nên cân_nhắc có nên khoác_áo giao_lưu quốc_tế để dẫn_dắt hàng trăm học_sinh và gia_đình Việt_Nam đến các cuộc_thi có ít giá_trị chuyên_môn , tốn nhiều tiền , hay_là dẫn_dắt họ tham_gia các cuộc_thi quốc_tế phi lợi_nhuận tại Tây hoặc đóng phí tượng_trưng tại Việt_Nam mà vẫn giữ được ý_tưởng phát_triển tư_duy , giao_lưu quốc_tế và tích_lũy hồ_sơ du_học .
+Để giảm nhập_khẩu các cuộc_thi Toán_Tây và giảm xuất_khẩu học_sinh thi Toán_Tây thì Bộ Giáo dục và Đào_tạo , Hội_Toán học Việt_Nam có_thể tính đến hợp_tác xây_dựng một cuộc_thi Toán_học có thương_hiệu mạnh để thu_hút học_sinh trong nước và quốc_tế đến Việt_Nam dự thi hàng năm .
+So_sánh đề của hai cuộc_thi miễn_phí và thương_mại : Đề thi IMSO 2015 chung cho khối lớp 5-6 Đề thi SIMOC 2015 lớp 6 Đề thi SIMOC 2015 lớp 5
+Trần_Phương Phó_giám_đốc Trung_tâm hỗ_trợ phát_triển tài_năng

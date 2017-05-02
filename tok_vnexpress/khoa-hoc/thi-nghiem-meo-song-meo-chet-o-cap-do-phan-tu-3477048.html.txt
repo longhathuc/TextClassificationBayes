@@ -1,0 +1,23 @@
+Thí_nghiệm ' mèo sống - mèo chết ' ở cấp_độ phân_tử
+Các nhà_vật_lý đã ghi lại được chi_tiết quá_trình thí_nghiệm về một nguyên_tử ở hai trạng_thái khác_nhau cùng lúc , dựa theo thí_nghiệm tưởng_tượng nổi_tiếng về một con mèo trong hộp kín do Schr ö dinger đưa ra năm 1935 .
+Theo Science_Alert , nhóm nghiên_cứu đã đưa ra một kỹ_thuật cho_phép họ ghi lại những hình_ảnh có kích_thước 0,3 å ngstr ö m ( 1 å ngstr ö m =   10-10   m ) , nhỏ hơn chiều rộng của một nguyên_tử , trong khoảng thời_gian   3,0 × 10-14   giây , giống như những mô_tả về " hai trạng_thái của con mèo " trong thí_nghiệm nổi_tiếng của Schr ö dinger .
+Vào năm 1935 , nhà_khoa_học người Áo   Erwin   Schr ö dinger đưa ra một thí_nghiệm tưởng_tượng .
+Theo đó , một con mèo còn sống sẽ được đặt vào trong một chiếc hộp kín với một loại chất_nổ có 50% xác_suất phát_nổ giết chết con mèo khi đóng nắp hộp .
+Chiếc hộp được giả_thiết là không_thể phát_hiện bất_kỳ chuyện gì xảy_ra bên trong cho tới khi mở nắp trở_lại .
+Do_đó , khi chưa mở nắp sẽ không ai biết con mèo còn sống hay đã chết .   Điều
+này có nghĩa_là khi nắp hộp còn đóng , con mèo sẽ có hai trạng_thái sống và chết cùng một lúc .
+Khi đề_xuất thí_nghiệm này , Schr ö dinger chỉ muốn nghiên_cứu về bản_chất của thực_tại trong vũ_trụ và chứng_minh tính kỳ_lạ của cơ_học lượng_tử .
+Sau nhiều thập_niên , các nhà_vật_lý nhận ra rằng các nguyên_tử có_thể biểu_diễn một phiên_bản có thực của thí_nghiệm này .
+Năm 2005 , các nhà_vật_lý ở Viện_Tiêu chuẩn và Công_nghệ Mỹ đã tạo ra thành_công " trạng_thái con mèo " trong phòng_thí_nghiệm , với 6 nguyên_tử đồng_thời ở hai trạng_thái lên và xuống .
+" Tưởng_tượng như có một vật vừa quay xuôi vừa quay ngược chiều kim_đồng hồ cùng một lúc " , Jennifer_Ouellette , biên_tập_viên khoa_học của trang Gizmodo giải_thích .
+Chồng_chất các trạng_thái lượng_tử của một hạt là nguyên_lý cơ_bản của máy_tính lượng_tử , thế_hệ máy_tính tiếp_theo vượt_trội hiện_nay .
+Trong khi các nhà_vật_lý đã và đang làm rất tốt công_việc đưa nguyên_tử vào trạng_thái chồng_chất , chưa có ai ghi lại được quá_trình đó tới nay .
+Để ghi_hình được quá_trình này , một nhóm nghiên_cứu từ Đại_học Stanford và Phòng_thí_nghiệm gia_tốc quốc_gia SLAC ( thuộc Bộ năng_lượng Mỹ ) đã bắn phá một phân_tử i - ốt gồm hai nguyên_tử   bằng tia X , làm cho nó hấp_thụ một xung năng_lượng ngắn và tự tách ra làm hai trạng_thái của chính nó cùng một lúc : một kích_thích và một không .
+Sau đó , phân_tử này tiếp_tục bị bắn phá bằng một tia laser X khác .
+Các hạt ánh_sáng – photon sẽ bị tán_xạ bởi cả hai trạng_thái i - ốt nói trên , sau đó kết_hợp lại để tạo ra một hình_ảnh tia X ba chiều của quá_trình .
+Nhóm nghiên_cứu lặp lại thí_nghiệm này nhiều lần để cố_gắng chụp được một chuỗi hình_ảnh tia X để tạo ra đoạn phim chi_tiết nhất về thế_giới bên trong một phân_tử .
+" Đoạn phim của chúng_tôi được tạo thành từ hình_ảnh của hàng tỷ phân_tử i - ốt , biểu_diễn tất_cả các khả_năng có_thể của phân_tử i - ốt khi được kích_thích bởi năng_lượng " , Phil_Bucksbaum , một thành_viên của nhóm cho_biết .
+Ngoài_ra , nhóm nghiên_cứu còn nhận thấy kỹ_thuật ghi_hình này còn có_thể áp_dụng cho những dữ_liệu từ những thí_nghiệm trong quá_khứ .
+" Phương_pháp của chúng_tôi là căn_bản của cơ_học lượng_tử , vì_vậy chúng_tôi đang mong_muốn thử_nghiệm nó trên các hệ_thống vi_mô khác , như thị_giác , quang_hợp , bảo_vệ ADN khỏi tác_hại từ tia_cực_tím và các chức_năng quan_trọng khác của sinh_vật sống " , Bucksbaum cho_biết .
+Xem thêm : 5 thí_nghiệm tưởng_tượng mang tính cách_mạng vật_lý của Einstein
+Nguyễn_Thành_Minh ( Video : SLAC )

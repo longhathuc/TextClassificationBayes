@@ -1,0 +1,29 @@
+Hiểm_họa từ flycam đối_với máy_bay chở khách
+Những chiếc flycam nhỏ_bé ẩn_chứa nhiều nguy_hiểm , đủ sức làm rơi những chiếc máy_bay dân_dụng chở hàng trăm hành_khách .
+Cục Hàng không Dân_dụng Liên_bang Mỹ ( FAA ) cho_biết số vụ suýt va_chạm giữa thiết_bị bay không người lái ( drone , flycam ) với máy_bay chở khách đã tăng mạnh từ năm 2014 tới nay .
+Tính tới tháng 8/2016 , đã có ít_nhất 650 vụ_việc được báo_cáo tại Mỹ .
+Sân_bay Dubai ( UAE ) cũng đã phải liên_tục đóng_cửa vì phát_hiện flycam ở khu_vực xung_quanh , theo Popular_Mechanic .
+Chuyên_gia Mỹ và Anh đang tái_tạo những tình_huống chết người như_vậy .
+Hàng_loạt nghiên_cứu mới được thực_hiện bởi FAA và EASA , tổ_chức đồng cấp của châu Âu , có mục_đích tìm cách ngăn_chặn các thảm_họa trước khi chúng xảy_ra trong thực_tế .
+Nhiều người tin rằng drone chỉ gây hư_hại nhất_định cho máy_bay , tương_tự những con chim bình_thường .
+Tuy_nhiên , nghiên_cứu mới của Đại_học Công_nghệ Virginia ( Virginia_Tech ) cho thấy chúng có khả_năng hủy tàn_phá cao hơn nhiều đối_với máy_bay thương_mại và trực_thăng bay thấp .
+Drone được chế_tạo từ các vật_liệu đặc và bền chắc hơn xương_thịt của chim .
+Thử_nghiệm mô_phỏng cho thấy con chim dễ_dàng bị nghiền nát bởi các lá cánh động_cơ , nhưng thiết_bị bay điều_khiển_từ_xa thì không .
+" Chim có_thể bị phân_rã rất nhanh .
+Bạn sẽ thấy một khối chất_lỏng đặc thoát ra từ động_cơ .
+Nhưng drone giống một khối đá cứng bị hút vào động_cơ " , theo Javid_Bayandor , phó_giáo_sư tại phòng nghiên_cứu của Virginia_Tech .
+Chúng có_thể gây thiệt_hại ngay_lập_tức , khiến lá cánh động_cơ bị biến_dạng , gãy hoặc vỡ vụn .
+Ngay cả khi_không có thiệt_hại tức_thì , động_năng của các loại drone cỡ lớn có_thể làm động_cơ mất cân_bằng .
+Quá_trình này dẫn tới việc khối động_cơ bị phá_hủy , kéo_theo đó là vùng cánh máy_bay .
+Động_cơ hiện_đại có_thể chịu được va_chạm của một_số vật_thể lạ , lớp vỏ có tác_dụng như lá_chắn bảo_vệ thân máy_bay khỏi các mảnh vỡ tốc_độ cao , nhưng chúng không được thiết_kế để chịu thiệt_hại do drone gây ra .
+Tuy_vậy , động_cơ không phải thứ duy_nhất bị đe_dọa bởi va_chạm với thiết_bị bay không người lái .
+Giai_đoạn máy_bay dễ gặp tai_nạn do va_chạm nhất_là trong quá_trình cất và hạ_cánh .
+Các nhà_khoa_học Anh đã thử bắn phá mũi máy_bay dân_dụng bằng nhiều vật_thể khác_nhau ở tốc_độ 320 km / h .
+Thử_nghiệm với drone cho thấy nó khó có_thể làm hư_hại kính chắn gió buồng_lái , nhưng phần nắp che radar mũi máy_bay ( radome ) rất dễ bị phá_hủy .
+Những con chim chỉ va vào radome và nảy ra , trong khi một chiếc flycam có cùng trọng_lượng sẽ găm thẳng vào mũi máy_bay , thậm_chí là xé rách phần radome .
+Các loại pin hiện_đại rất dễ bốc cháy nếu bị hư_hại .
+Nếu drone va phải mũi máy_bay , nó có_thể bắt lửa và gây cháy lan ra các bộ_phận quan_trọng ở khu_vực này .
+Rất nhiều biện_pháp cần được triển_khai để tránh các thảm_họa tiềm_tàng , như kiểm_soát đường_bay , cấm thiết_bị bay không người lái hay lắp_đặt thiết_bị cảnh_báo va_chạm .
+Tuy_nhiên , tai_nạn vẫn là không_thể tránh khỏi .
+Phó_giáo_sư Bayandor cho rằng động_cơ máy_bay tương_lai sẽ phải thiết_kế để chống chịu va_đập với drone .
+Tử_Quỳnh

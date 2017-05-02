@@ -1,0 +1,41 @@
+Robot gia_nhập ngành công_nghiệp may_mặc
+Tự_động_hoá trong sản_xuất vốn phổ_biến trong ngành công_nghiệp ôtô nay đã lấn_sân sang ngành may_mặc .
+Robot thường rất hữu_dụng trong việc xử_lý các vật_liệu cứng , dễ di_chuyển , dễ cắt và xoay_trở .
+Đó chính là lý_do công_cụ này rất phổ_biến trong công_nghiệp sản_xuất ôtô lâu_nay .   Nhưng trong ngành may_mặc , việc sử_dụng robot hoàn_toàn khác .
+Quy_trình tự_động_hoá có_thể được sử_dụng trong một_vài giai_đoạn sản_xuất quần_áo , nhưng robot không_thể may hoàn_chỉnh trang_phục từ đầu đến cuối .   Lý_do là tính_chất mềm_mại của vải .
+" Vải không hề có góc_cạnh rõ_ràng .
+Nó còn có_thể bị giãn và rách " , Jonathan_Zornow , người sáng_lập start - up Sewbo cho_biết .
+Và anh đã có giải_pháp cho vấn_đề đó .
+Sử_dụng robot đang gia_tăng trong ngành may_mặc .
+Giải_pháp của Zornow là làm cứng vải với một dung_dịch polymer tan trong nước , làm nó đủ cứng để robot có_thể dịch_chuyển .
+Loại polymer này đã được dùng trong công_nghiệp may_mặc như một_cách để làm cứng sợi vải .
+Nó có_thể được rửa sạch bằng nước ấm và trả lại sự mềm_mại tự_nhiên cho các loại vải .
+Vào năm 2015 , Zornow nghỉ công_việc lập_trình web vào tuổi 30 và tập_trung phát_triển hệ_thống may bằng cánh_tay robot .
+Dùng 10.000 USD của bản_thân , anh thuê một cánh_tay robot có_thể lập_trình , một máy_may và một máy hàn siêu_âm .
+Mục_tiêu của anh là hoàn_thiện một cánh_tay robot có_thể may hoàn_thiện một chiếc áo_thun từ đầu đến cuối .
+Quy_trình này như sau : một robot sẽ cắt tấm vải theo mẫu có sẵn , sau đó mẫu vải sẽ được làm cứng bằng dung_dịch polymer .
+Sau đó , một cánh_tay robot khác sẽ nâng tấm vải đã được làm cứng lên và đặt lên máy_may .
+Sau khi may xong , robot sẽ lấy chiếc áo_thun hoàn_thiện ra khỏi máy_may .
+" Một robot không_thể thực_hiện hết những công_đoạn này .
+Do_đó , sẽ cần phải có hai hoặc ba robot trên một dây_chuyền " , Zornow cho_biết .
+Hệ_thống này có_thể dùng để may nhiều loại vải , ngoại_trừ da_thuộc và vải chống thấm .
+Zornow đã đăng_ký bản_quyền công_nghệ làm cứng vải này tại 10 nước .
+Dù mới chỉ có_thể thực_hiện trên áo_thun , Zornow mong_muốn công_nghệ của anh sẽ có_thể dùng để may nhiều loại trang_phục khác .
+Để làm được điều đó , Zornow đã hợp_tác với công_ty Bluewater_Defense , hãng chuyên sản_xuất quần đồng_phục cho quân_đội Mỹ .
+Công_ty này làm ra 8.000 cái quần một ngày , một_nửa trong số đó được sản_xuất tại Puerto_Rico với 500 người chỉ làm công_việc may_vá .
+" Để có được một chiếc quần lính hoàn_chỉnh cần phải trải qua 64 công_đoạn " , CEO Eric_Spackey của Bluewater_Defense cho_biết .
+" Nếu chúng_ta có_thể tự_động_hoá mỗi 2-3 công_đoạn thì năng_suất sẽ tăng lên đáng_kể . "
+" Nhu_cầu tự_động_hoá trong may_mặc là rất lớn , không_chỉ tại Mỹ mà_còn tại Ấn Độ " , Zornow cho_biết .
+Anh hy_vọng sẽ phân_phối này một_cách rộng_rãi trong vòng hai năm tới .
+Công_nghệ này thật_sự là một sự thay_đổi lớn , nhất_là trong bối_cảnh ngành công_nghiệp may_mặc đang tìm mọi cách để giảm_thiểu các chi_phí và gia_tăng sản_lượng .
+Ngành may_mặc sử_dụng rất nhiều lao_động và chi_phí cho công_nhân có_thể chiếm đến 40% chi_phí cố_định .
+" Càng có nhiều nhân_công thì càng nhiều khả_năng họ bị bệnh hoặc phải nghỉ làm_vì các lý_do gia_đình , " ông Spackey cho_biết .
+Một cuộc hẹn với bác_sĩ ở Puerto_Rico có_thể mất cả ngày .
+Tự_động_hoá sẽ giải_quyết tất_cả các vấn_đề này .
+" Nếu chúng_ta hoàn_thiện được quy_trình tự_động_hoá chỉ trong khâu may thì năm đến mười năm nữa những công_xưởng chỉ toàn robot sẽ thành hiện_thực , " vị này nói .
+Tuy_vậy , ông vẫn hiểu rõ những vấn_đề liên_quan khi người lao_động rơi vào cảnh thất_nghiệp do robot .
+" Tôi rất quan_ngại về những thay_đổi tự_động_hoá sẽ mang đến thị_trường việc_làm .
+Tuy_nhiên nếu_không có công_nghệ , nền công_nghiệp này sẽ chết .
+Tự_động_hoá đang diễn ra mỗi ngày trong rất nhiều ngành_nghề .
+Do_đó , trách_nhiệm trên vai của chúng_ta là phải bắt_đầu quy_trình huấn_luyện lại lực_lượng lao_động để họ có_thể thích_ứng với những công_việc mới đòi_hỏi kiến_thức về công_nghệ_cao , " Spackey tổng_kết .
+Vĩnh_Viễn ( theo CNN )

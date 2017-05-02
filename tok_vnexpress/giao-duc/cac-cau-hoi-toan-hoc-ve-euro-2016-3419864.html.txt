@@ -1,0 +1,19 @@
+Các câu_hỏi toán_học về Euro 2016
+Vòng chung_kết Euro 2016 khởi_tranh từ ngày 11/6 , đây là kỳ Euro đầu_tiên có 24 đội bóng tham_dự .
+Các đội bóng sẽ được chia thành 6 bảng , mỗi bảng 4 đội chọn ra 16 đội vào vòng knock - out , gồm các đội nhất , nhì mỗi bảng và 4 đội hạng 3 có thành_tích tốt nhất .
+Trong bóng_đá , điểm được tính như sau : thắng được 3 điểm , hòa được 1 điểm và thua được 0 điểm .
+Tại các kỳ Euro , thứ_tự các đội ở vòng bảng được sắp bằng cách so_sánh : 1 là tổng điểm ; 2 là thành_tích đối_đầu ; 3 là hiệu_số bàn thắng_bại ; 4 là tổng_số bàn thắng ghi được .
+Sau đây là một_số câu_hỏi toán_học về Euro 2016 :
+1 . Euro 2016 sẽ có tất_cả bao_nhiêu trận đấu ?
+* Gợi_ý
+2 . Ở vòng đấu bảng , một đội bóng được bao_nhiêu điểm thì chắc_chắn lọt vào vòng sau ?
+* Gợi_ý
+3 . Ở một bảng đấu , đội_xếp thứ nhất được 7 điểm thì đội_xếp thứ 3 được tối_đa bao_nhiêu điểm , tối_thiểu bao_nhiêu điểm ?
+* Gợi_ý
+4 . Ở một bảng đấu , có 3 đội có tổng điểm là 7 , 4 , 3 .
+Hỏi điểm của đội còn lại có_thể là bao_nhiêu ?
+* Gợi_ý
+5 .
+Có_thể xảy_ra tình_huống mà ở một bảng đấu , chỉ sau 2 lượt trận đã xác_định được thứ_tự các đội mà không cần chờ lượt trận cuối được không ?
+* Gợi_ý
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

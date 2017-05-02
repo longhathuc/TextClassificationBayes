@@ -1,0 +1,4 @@
+Bài_toán ' đồng xu giả '
+Có n đồng xu ( n nguyên dương ) , trong đó có đúng một đồng xu giả có trọng_lượng nhẹ hơn những đồng xu còn lại .
+Bằng một bàn cân có hai đĩa cân hai bên , hãy tìm n lớn nhất sao cho với số lần cân ít_nhất có_thể xác_định được đồng xu giả ?
+Bài_toán này do bạn Trần_Tường_Anh gửi đến tòa_soạn , mong được độc_giả giúp_sức .

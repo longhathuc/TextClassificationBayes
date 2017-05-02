@@ -1,0 +1,18 @@
+iPhone 7 mới mua đã biến thành ' cục gạch '
+Một_số người dùng cho_biết i Phone 7 và i Phone 6s của họ mới mua nhưng đã cài sẵn tài_khoản Apple của người khác , khiến máy bị vô_hiệu_hóa .
+Theo Mac Rumors , số trường_hợp gặp vấn_đề với tính_năng Activation_Lock ngày_càng tăng , trong đó thiết_bị của người dùng được liên_kết với i Cloud của một người khác mà họ không hề hay_biết .
+Các phản_hồi được đăng nhiều trên mạng xã_hội Twitter và các diễn_đàn công_nghệ Mỹ .
+Một_số i Phone 7 mới mua nhưng đã bị liên_kết với tài_khoản i Cloud lạ .
+" Tôi mới nhận được chiếc i Phone 7 Plus_Jet_Black 256 GB mà mình đặt mua .
+Máy trông thật tuyệt , màn_hình đẹp , chất_lượng hoàn_thiện tốt ... nhưng vấn_đề là ai đó đã dùng tài_khoản Apple ID không phải của tôi để kích_hoạt từ trước " , thành_viên Balders cho_biết trên MacRumors .
+Với việc đăng_nhập tài_khoản khác , chủ của thiết_bị không_thể tự thoát ra để dùng tài_khoản của mình , cũng không_thể khôi_phục cài_đặt gốc i Phone .
+Nếu cố_tình làm trên máy_tính thì thiết_bị sẽ bị khóa lại , vô_hiệu_hóa mọi tính_năng và trở_thành " cục gạch " .
+Vấn_đề xảy_ra với i Phone 7 , 7 Plus trong lần đầu_tiên bóc hộp , iPhone 6s và 6s Plus cũng bị tương_tự nhưng tần_suất thấp hơn và xảy_ra với máy cũ .
+Tài_khoản   TheKricket viết : " Tôi mua chiếc i Phone 6s bản không trợ_giá trực_tiếp từ Apple_Store vào 9/2015 .
+Máy đã được mở khóa ( thông_qua Apple ) để chuyển từ nhà mạng T-Mobile sang Verizon và dùng bình_thường .
+Gần đây , tôi mua i Phone 7 Plus và sau khi kích_hoạt thì chiếc i Phone 6s Plus lại báo ' Activation_Lock ' .
+Máy được liên_kết với tài_khoản i Cloud mà tôi không hề hay_biết , không phải tài_khoản cũ của tôi " .
+Một_số người gặp vấn_đề nói họ đã được Apple mở khóa sau khi cung_cấp cho hãng các giấy_tờ mua_bán .
+Việc hỗ_trợ được thực_hiện tại trung_tâm chăm_sóc khách_hàng hoặc thông_qua số điện_thoại hỗ_trợ của Apple tại Mỹ .   Trường_hợp hiếm hơn là màn_hình Activation_Lock liên_kết với tài_khoản i Cloud lạ xuất_hiện nhiều lần .
+Lúc này , Apple sẽ đổi_mới i Phone cho người dùng .
+Tại_Việt_Nam từ đầu tháng 10 , nhiều i Phone hàng_xách tay cũng nhận được phản_hồi máy bị biến thành " cục gạch " .   Sau khi cài_đặt ( reset ) hoặc khôi_phục ( restore ) lại dữ_liệu , iPhone đang sử_dụng bình_thường bỗng bị khoá , thông_báo sim không hợp_lệ và không_thể kích_hoạt .

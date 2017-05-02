@@ -1,0 +1,8 @@
+Thử tài suy_luận với bài_toán về những chú sóc
+Bài_toán về những chú sóc trong đề thi Toán_học quốc_tế Kangaroo dành cho học_sinh lớp 5-6 .
+Hãy suy_luận và tìm ra đáp_án trong thời_gian nhanh_nhất .
+Năm chú sóc A , B , C , D và E đang cùng ngồi trên một đường_thẳng .
+Chúng sẽ nhặt 6 quả hạch được đánh_dấu bởi dấu “ * ” .
+Tại mỗi thời_điểm , những chú sóc sẽ chạy về ­ ­ ­ phía quả hạch gần nhất với tốc_độ như nhau .
+Ngay khi chú sóc nhặt được một quả hạch thì nó sẽ tiếp_tục chạy đến chỗ quả hạch gần nó nhất .
+Hỏi chú sóc nào có_thể nhận được 2 quả hạch ?

@@ -1,0 +1,13 @@
+Nhờ hacker cả thành_phố được đi bus và xe_điện miễn_phí
+Cư_dân tại San_Francisco ( Mỹ ) đã được sử_dụng các dịch_vụ di_chuyển công_cộng miễn_phí cuối tuần qua sau khi hacker tấn_công hệ_thống máy_tính của thành_phố .
+Trên các máy_tính của Cơ_quan Giao_thông vận_tải thành_phố San_Francisco ( San_Francisco_Municipal_Transportation_Agency -   thường gọi tắt là Muni ) , đơn_vị cung_cấp dịch_vụ phương_tiện giao_thông công_cộng của thành_phố hiển_thị thông_báo " Bạn đã bị hack , tất_cả dữ_liệu được mã_hóa " .
+Cùng_với tin nhắn , các máy thanh_toán tiền vé tại các trạm cũng xuất_hiện thông_báo " Không sử_dụng được " ( Out of service ) bằng đèn LED màu đỏ .   Các thông_điệp này khiến nhiều người gợi nhớ tới " ransomware " , một thuật_ngữ chỉ việc thiết_bị máy_tính bị tấn_công và khóa cho tới khi một_số tiền được gửi cho hacker .
+Các máy bán vé tự_động bị hack .
+Không_thể tính phí cho khách_hàng , Muni đã chấp_thuận việc mọi người sử_dụng dịch_vụ miễn_phí trong thời_gian chờ khắc_phục hậu_quả .
+Riêng với dịch_vụ tàu_điện_ngầm , hacker khiến cho cửa soát vé vào bị khóa cứng ở trạng_thái mở , nhằm khuyến_khích mọi người sử_dụng dịch_vụ mà không phải trả tiền .
+Cuộc tấn_công xảy_ra vào chiều thứ_sáu ( 25/11 ) và gây ảnh_hưởng mạnh vào thứ_bảy ( 26/11 ) .
+Tuy_nhiên sang tới chủ_nhật ( 27/11 ) , các máy bán vé đã hoạt_động trở_lại bình_thường .
+Mức_độ thiệt_hại và danh_tính của thủ_phạm chưa được tiết_lộ .
+Nguồn tin từ sfexaminer cho_biết hacker đã đòi 73.000 USD tiền chuộc .
+" Chúng_tôi đang làm_việc để giải_quyết tình_hình " , Paul_Rose , phát_ngôn_viên của Cơ_quan Giao_thông vận_tải thành_phố chia_sẻ .
+" Một cuộc điều_tra đang tiến_hành và giờ chưa phải lúc thích_hợp để cung_cấp thêm các chi_tiết " .

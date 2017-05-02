@@ -1,0 +1,15 @@
+Khoa_học chỉ ra bí_quyết thắng trò_chơi oẳn tù_tì
+Nghiên_cứu của một nhóm các nhà_khoa_học quốc_tế cho thấy khi chơi oẳn tù_tì , mọi người thường có xu_hướng để cảm_xúc xen vào và không hành_động theo lý_trí .
+Trong phát_hiện công_bố hôm 6/2 trên tạp_chí Scientific_Reports , các nhà_khoa_học quan_sát cách người chơi phản_ứng trong_suốt trò_chơi khi đương_đầu với đối_thủ ảo trên máy_vi_tính .
+Họ nhận thấy ngay cả khi vạch ra chiến_lược tốt lúc đầu , người chơi vẫn chịu ảnh_hưởng từ kết_quả mỗi vòng chơi và bắt_đầu tỏ ra thất_thường , theo International_Business_Times .
+Phân_tích phản_ứng của người chơi ở các giai_đoạn khác_nhau trong trò_chơi , nhóm nghiên_cứu phát_hiện họ hành_động theo chiến_lược có tên " thắng theo thua chuyển " , có_nghĩa người chơi sẽ lặp kết_quả ở những lần thắng trước đó .
+Nếu hòa hoặc thua , người chơi sẽ thay_đổi lựa_chọn trong lần chơi tiếp_theo .
+Trải_nghiệm thua cuộc tiêu_cực chắc_chắn sẽ khiến họ chọn cấp thấp hơn .
+Ví_dụ , nếu thua khi do ra búa , ở lần sau họ sẽ ra kéo , đồ_vật có_thể bị đá phá_hủy .
+Ngược_lại , nếu người chơi hòa với máy_tính , khả_năng nâng_cấp ở vòng tiếp_theo sẽ cao hơn .
+Do cả ba lựa_chọn đều có tính tương_đối , dẫn đến chiến_thắng ở vòng này nhưng thua cuộc ở vòng khác , các nhà_khoa_học kết_luận quyết_định hợp_lý duy_nhất là sử_dụng mỗi lựa_chọn với số lần bằng nhau một_cách ngẫu_nhiên .
+Đây chính là chương_trình viết cho người chơi ảo trên máy_vi_tính .
+Tuy_nhiên , trong nghiên_cứu này , những người chơi có xu_hướng ra búa nhiều hơn .
+Vì lá đánh_bại búa , việc thường_xuyên ra lá trong hoàn_cảnh này có_thể giúp người chơi giành phần thắng .
+Do nghiên_cứu làm sáng_tỏ quá_trình ra quyết_định trong môi_trường phi hợp_tác , các nhà_nghiên_cứu tin rằng những hành_vi cá_nhân theo cảm_tính khá phổ_biến trong lĩnh_vực kinh_tế và chính_trị .
+Phương_Hoa

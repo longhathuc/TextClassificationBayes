@@ -1,0 +1,32 @@
+Điểm nổi_bật của dòng máy_tính doanh_nhân Acer_Switch_Alpha 12
+Phiên_bản Switch_Alpha 12 có thiết_kế linh_hoạt , cấu_hình mạnh , ứng_dụng nhiều công_nghệ độc_quyền của Acer để tối_ưu_hóa khả_năng vận_hành .
+Theo đại_diện Acer , cấu_hình mạnh , tính bảo_mật cao , thiết_kế sang_trọng là những tiêu_chí hàng_đầu của dòng laptop dành cho doanh_nhân .
+Vì_thế hãng đã cho ra_mắt mẫu máy Acer_Switch_Alpha 12 hỗ_trợ tốt cho giải_quyết công_việc và dễ_dàng di_chuyển trong những chuyến công_tác xa .
+Dưới đây là những điểm nổi_bật của Switch_Alpha 12 .
+Thiết_kế
+Nhằm đáp_ứng cho nhu_cầu di_chuyển của doanh_nhân , Acer đưa thiết_kế 2 trong một vào Switch_Alpha 12 tạo nên tổng_thể gọn_nhẹ với phần thân tablet , đế kickstand hình chữ U chế_tác bằng vật_liệu nhôm cao_cấp cùng bàn_phím rời fullsize .
+Phần thân tablet của Switch_Alpha 12 có logo Acer nổi_bật , viền benzel mỏng , sở_hữu đầy_đủ các cổng kết_nối thông_dụng như jack cắm tai_nghe , USB 3.0 , USB Type - C , jack cắm nguồn và đầu_đọc thẻ nhớ micro SD .
+Đế kickstand có_thể điều_chỉnh tới 165 độ cùng thanh chống trơn trượt bằng cao_su đem đến sự cân_bằng trong mọi góc nhìn .
+Bàn_phím fullsize với cơ_chế magnetic snap - on , hành_trình phím lên đến 1,4 mm cho cảm_giác bấm thoải_mái và thuận_tiện trong lúc làm_việc .
+Cấu_hình
+Sử_dụng bộ_vi_xử_lý Intel_Core i , Acer_Switch_Alpha 12 xử_lý tốt tất_cả tác_vụ mà người dùng yêu_cầu ở một chiếc laptop chuyên_dụng trong công_việc .
+Màn_hình cảm_ứng kích_thước 12 inch độ_phân_giải 2.160 x 1.440 pixel có độ sáng cao , màu_sắc chân_thật , hiển_thị đẹp và ấm_áp , là một điểm nổi_bật so với các dòng máy 2 trong 1 cùng loại đang có_mặt trên thị_trường .
+Hai loa ngoài của Switch_Alpha 12 mang đến chất_lượng âm_thanh rõ nét cùng mức âm_lượng phù_hợp cho hầu_hết các môi_trường làm_việc .
+Công_cụ quản_lý HD Audio_Manager cho_phép máy kết_nối với hệ_thống loa ngoài nhằm mang đến sự cân_bằng trong việc tái_tạo âm_thanh .
+Công_nghệ LiquidLoop độc_quyền của Acer
+Trên_Acer_Switch_Alpha 12 , người dùng sẽ không tìm thấy khe tản nhiệt hay quạt tản nhiệt trên bề_mặt của thiết_bị bởi chúng đã bị loại_bỏ , thay vào đó là hệ_thống tản nhiệt bằng chất_lỏng LiquidLoop độc_quyền của Acer .
+Đây cũng là lần đầu_tiên công_nghệ này được tích_hợp vào một thiết_bị sử_dụng bộ_vi_xử_lý Intel_Core i .
+Công_nghệ tiên_tiến này giúp Switch_Alpha 12 đạt hiệu_năng cao mà vẫn hoạt_động tĩnh_lặng , êm_ái cũng .
+Công_nghệ này còn giúp máy tăng tuổi_thọ và giảm tiêu_hao năng_lượng khi cho_phép thiết_bị tản nhiệt thông_qua hệ_thống tản nhiệt bằng chất_lỏng khép_kín .
+Phụ_kiện
+Đi kèm với Acer_Switch_Alpha 12 là bộ phụ_kiện cao_cấp dành cho doanh_nhân bao_gồm bút Active_Stylus và cáp chuyển_đổi từ USB type C qua HDMI đem đến sự hỗ_trợ tối_đa cho công_việc
+Chiếc bút Acer_Active_Stylus với 256 mức cảm_ứng lực cho_phép người dùng dễ_dàng thực_hiện việc viết hay vẽ các chi_tiết chính_xác hơn so với việc thao_tác cảm_ứng bằng tay_trên Switch_Alpha 12 . Phần_mềm Acer_Hover_Access còn cho_phép tùy chỉnh chức_năng của phím bấm phụ trên Active_Stylus khi có_thể sử_dụng để mở hay truy_cập nhanh đến một ứng_dụng nào_đó trong hệ_thống tương_thích với nó .
+Cáp chuyển_đổi từ USB type C qua HDMI đem đến sự tiện_dụng khi giúp kết_nối với các thiết_bị trình_chiếu , cho_phép truyền_tải hình_ảnh ở độ_phân_giải cao cũng_như âm_thanh chất_lượng .
+Tối_ưu_hóa công_việc
+Window 10 Pro trên Acer_Switch_Alpha 12 sở_hữu nhiều tính_năng phù_hợp với nhu_cầu làm_việc của các doanh_nhân , cung_cấp khả_năng kết_nối và công_cụ bảo_mật chuyên_nghiệp như Domain_Join , Group_Policy_Management , Bitlocker , chế_độ Enterprise trong Internet_Explorer ( EMIE ) , Assigned_Access 8.1 , Remote_Desktop , Client_Hyper - V , Direct_Access .
+Assigned_Access 8.1 cho_phép khóa các tài_khoản người dùng và ngăn_chặn họ mở các ứng_dụng cụ_thể .
+BitLocker là một trong những công_cụ mã_hóa ổ_đĩa mạnh nhất trên Windows , có khả_năng mã_hóa cả ổ_đĩa USB gắn ngoài .
+Windows 10 Pro đem đến các công_cụ giúp tạo kết_nối liền mạch khi tham_gia vào Azure_Active_Directory .
+Thêm vào đó , TPM 2.0 ( Trusted_Platform_Module ) tích_hợp bên trong bo_mạch_chủ của Acer_Switch_Alpha 12 cũng góp_phần đem đến sự bảo_mật tối_ưu trong công_việc .
+Với thiết_kế linh_hoạt , cấu_hình mạnh_mẽ , tích_hợp những công_nghệ tiên_tiến và phụ_kiện hữu_ích , Acer_Switch_Alpha 12 là lựa_chọn đáng cân_nhắc cho giới doanh_nhân trong giải_quyết công_việc và giải_trí thường_ngày .
+Minh_Trí

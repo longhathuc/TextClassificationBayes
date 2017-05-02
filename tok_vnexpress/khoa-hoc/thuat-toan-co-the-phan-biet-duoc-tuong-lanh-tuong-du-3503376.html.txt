@@ -1,0 +1,13 @@
+Thuật_toán có_thể phân_biệt được ' tướng lành , tướng dữ '
+Nhóm nghiên_cứu Trung_Quốc phát_triển thuật_toán được cho là có khả_năng nhận_diện các đặc_điểm của tội_phạm trên khuôn_mặt đối_tượng với tỷ_lệ chính_xác gần 90% .
+Hai nhà_khoa_học tới từ_trường Đại_học Giao_thông Thượng_Hải , Trung_Quốc vừa phát_triển thuật_toán máy_tính mới được cho là có_thể nhận_biết tội_phạm bằng cách phân_tích khuôn_mặt của họ , IFL Science hôm 21/11 đưa tin .
+Bằng cách quan_sát ảnh căn_cước của   1.856 người ,   với một_nửa trong số đó là của tội_phạm bị kết_án , thuật_toán này có_thể xác_định một_số đặc_điểm để phân_biệt người có tướng tội_phạm với những người tuân_thủ luật_pháp .
+Dựa vào các yếu_tố như độ cong của môi , khoảng_cách góc bên trong mắt và góc giữa mũi với miệng , thuật_toán có_thể tìm ra khuôn_mặt của tội_phạm trong số hàng nghìn bức ảnh với tỷ_lệ chính_xác gần 90% .
+Theo nhóm nghiên_cứu , kiểu khuôn_mặt của tội_phạm và người bình_thường có_thể phân thành hai nhóm chính .
+Nhóm người tuân_thủ pháp_luật có ba kiểu cấu_trúc khuôn_mặt , trong khi nhóm tội_phạm có 4 kiểu .
+" Nói cách khác , khuôn_mặt của những người trong nhóm tuân_thủ luật có mức_độ giống nhau cao hơn so với nhóm tội_phạm " , báo_cáo nghiên_cứu viết .
+Nghiên_cứu này đã gây ra nhiều tranh_cãi .
+Các chuyên_gia cho rằng kiểu phân_loại này hoàn_toàn phi đạo_đức .
+Nó cũng không có cơ_sở chắc_chắn về khoa_học bởi tất_cả các mối liên_hệ giữa đặc_điểm cơ_thể với tính_cách đã bị phủ_nhận .
+Xem thêm :   Trung_Quốc sử_dụng công_nghệ nhận_diện khuôn_mặt thay vé tham_quan
+Hiền_Anh

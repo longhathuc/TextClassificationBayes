@@ -1,0 +1,14 @@
+BlackBerry chặn lỗi bảo_mật trên smartphone Android
+Lỗ_hổng bảo_mật QuadRooter trên thiết_bị Android dùng chip Qualcomm được đánh_giá nghiêm_trọng , có_thể gây ảnh_hưởng đến gần 1 tỷ smartphone trên thế_giới .
+BlackBerry là nhà_sản_xuất smartphone đầu_tiên lên_tiếng cho_biết họ đã khắc_phục hoàn_toàn lỗ_hổng bảo_mật QuadRooter trên smartphone của hãng , Priv và DTEK50 .
+Bản cập_nhật phần_mềm sẽ được họ phát_hành cho người dùng thông_qua cập_nhật OTA trong một_vài ngày tới .
+Trước đó theo phát_hiện của CheckPoint Research , hơn 900 triệu smartphone Android sử_dụng vi_xử_lý Snapdragon của Qualcomm có nguy_cơ bị kẻ xấu xâm_nhập trái_phép .
+Lỗ_hổng bảo_mật QuadRooter khiến cho phần_mềm độc_hại âm_thầm chiếm nhiều quyền sử_dụng nhưng không hề bị hệ_điều_hành Android phát_hiện ra .
+Thậm_chí , từ đó hacker có_thể chiếm quyền sử_dụng cao nhất , Root được máy , truy_cập camera , microphone và đọc toàn_bộ dữ_liệu có trên máy .
+QuadRooter được CheckPoint Research thông_báo cho Google và Qualcomm từ tháng 3 .
+Tuy_nhiên , hãng sản_xuất vi_xử_lý cho_biết họ chưa_thể khắc_phục triệt_để vì chậm_trễ , khi số_lượng đối_tác và thiết_bị có_thể bị ảnh_hưởng quá lớn .
+Tới tháng 8 , các bản cập_nhật của Google cũng mới chỉ sửa 3 trong tổng_số 4 lỗ_hổng bảo_mật và dự_kiến tới tháng 9 mới hoàn_tất .
+Trong khi đó , mới chỉ có BlackBerry cho_biết họ đã khắc_phục được trước toàn_bộ lỗi bảo_mật QuadRooter .
+Ứng_dụng miễn_phí có tên QuadRooter Scanner trên Play_Store có_thể kiểm_tra xem thiết_bị Android đã được nhà_sản_xuất khắc_phục lỗi bảo_mật trên hay chưa .
+Trong trường_hợp chưa ,   cách đảm_bảo an_toàn với người dùng là không cài phần_mềm từ bên ngoài kho ứng_dụng Play_Store của Google .
+Xem thêm :   Gần 1 tỷ smartphone Android có_thể dính lỗi bảo_mật

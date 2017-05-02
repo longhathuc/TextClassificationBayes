@@ -1,0 +1,22 @@
+Nhiều ATM tự nhả hàng triệu USD
+Tin_tặc đã cài phần_mềm độc_hại lên các máy rút_tiền tự_động rồi ra_lệnh cho máy tự_động nhả tiền .
+ATM từ lâu đã trở_thành mục_tiêu của hacker và hàng triệu USD đã bị rút trộm khi tin_tặc đánh_cắp số thẻ cũng_như các thông_tin ngân_hàng điện_tử .
+Tuy_nhiên , cách_thức mới được áp_dụng là cài_đặt phần_mềm độc_hại lên các máy rút_tiền tự_động , khiến ATM tự nhả tiền theo chỉ_định của hacker .
+Nhiều ATM tự_động nhả tiền sau khi bị cài phần_mềm độc_hại .
+Theo The HackerNews , đầu năm nay một nhóm tội_phạm mạng đã cài mã độc lên hàng_loạt ATM ở Đài_Loan và Thái_Lan , khiến máy nhả tiền vào các khung giờ nhất_định và lúc này đội hacker chỉ việc thu tiền .
+Hiện_tại , Cục Điều tra Liên_bang Mỹ ( FBI ) đã cảnh_báo các ngân_hàng về những cuộc tấn_công tương_tự .
+FBI cho_biết họ đang " theo_dõi các báo_cáo chỉ ra rằng có nguồn_lực và tổ_chức có ý_định cài phần_mềm độc_hại vào hệ_thống tài_chính của Mỹ " .
+Hình_thức tấn_công mới , cài mã độc khiến ATM tự_động nhả tiền tiền , được gọi với tên ATM jackpotting .
+Theo công_ty bảo_mật Nga_Group - IB , hacker đã lây_nhiễm phần_mềm độc_hại trên các ATM tại hơn chục quốc_gia châu Âu trong năm nay .
+Hai nhà_sản_xuất máy rút_tiền tự_động lớn nhất thế_giới là   Diebold_Nixdorf và NCR Corp cho_biết đã nhận_thức được các mối nguy_hiểm và đã làm_việc với khách_hàng về vấn_đề này .
+ATM trở_thành mục_tiêu của hacker ít_nhất năm năm trở_lại đây , nhưng những kẻ tấn_công bằng phương_thức mới chủ_yếu tham_gia vào một lượng nhỏ các ATM .
+Lý_do là chúng buộc phải truy_cập vật_lý vào máy để thu tiền_mặt .
+Các ngân_hàng trở_thành mục_tiêu của ATM Jackpotting đặt tại   Armenia , Bulgaria , Estonia , Georgia , Belarus , Kyrgyzstan , Moldova , Tây_Ban_Nha , Ba_Lan , Hà_Lan , Romania , Anh , Nga , và Malaysia .
+Cả   Diebold_Nixdorf và NCR Corp đều cho_biết họ đã làm_việc với các ngân_hàng để ngăn_chặn các cuộc tấn_công .
+Trước đó , First_Back của Đài_Loan đã bị đánh_cắp 2,5 triệu USD và Ngân_hàng Tiết_kiệm Chính_phủ Thái_Lan đã mất 350.000
+USD .
+Group-IB tin các vụ tấn_công ở khắp châu Âu được thực_hiện bởi một nhóm tội_phạm duy_nhất có tên Cobalt , còn FBI cho rằng những kẻ này có liên_kết với một nhóm ở Nga có tên Blhtrap .
+Tuy_nhiên , công_cụ và kỹ_thuật tấn_công được sử_dụng tương_đồng , do_đó Cobalt và Buhtrap có_thể đã liên_kết với nhau , đánh_cắp 1,8 tỷ rúp ( 28 triệu USD ) từ các ngân_hàng Nga từ 8/2015 và 1/2016 .
+Xem thêm :
+>   Một email lừa_đảo đánh_cắp hơn 40 triệu USD
+>   ATM ngân_hàng Thái_Lan bị mất_cắp 350.000 USD

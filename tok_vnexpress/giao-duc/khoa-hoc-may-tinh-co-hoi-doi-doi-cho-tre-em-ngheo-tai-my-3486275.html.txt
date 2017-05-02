@@ -1,0 +1,20 @@
+Khoa_học máy_tính - cơ_hội đổi_đời cho trẻ_em nghèo tại Mỹ
+Làm_quen với máy_tính và lập_trình có_thể giúp các em kiếm được công_việc với thu_nhập khá hơn trong tương_lai .
+Justin_Tandon , giáo_viên tại trường trung_học Domion ( bang Virginia , Mỹ ) ví âm_thanh những ngón_tay lướt trên bàn_phím , tiếng nhấp chuột thành nhịp và tiếng gõ phím là " âm_nhạc " của đời mình .
+Anh học lập_trình từ khi còn rất trẻ với ước_mơ theo chân cha_mẹ trong lĩnh_vực khoa_học máy_tính .
+Nhưng khi biết về khoảng_cách lương bất_công và lỗ_hổng trong việc giáo_dục trẻ_em về những kỹ_năng cần_thiết , Tandon quyết_định xóa mờ ranh_giới đó .
+" Công_nghệ đang là sự phát_triển hàng_đầu của con_người , nhưng liệu mỗi chúng_ta đều có cơ_hội ngang nhau hay không ?
+Ở trường của tôi , 24% học_sinh không có đủ bữa trưa tử_tế hoặc phải nhịn .
+Gia_đình các em còn vật_lộn với cuộc_sống để có miếng ăn trên bàn nên ý_tưởng giáo_dục công_nghệ vẫn còn xa mới tính đến " , Tandon tâm_sự .
+Tại_Mỹ , gần 46 triệu người đang sống dưới mức nghèo_khó , trong khi hàng nghìn việc_làm trong mảng công_nghệ vẫn còn bỏ trống .
+Với suy_nghĩ trên , anh thành_lập CS4Success , một tổ_chức khởi_nghiệp phi lợi_nhuận .
+Nơi đây sẽ giới_thiệu bộ_môn khoa_học máy_tính và kiến_thức về khoa_học , công_nghệ ,   kỹ_thuật   và toán_học ( STEM ) cho trẻ_em , mang tới cho các em cơ_hội theo_đuổi lĩnh_vực này .
+Tổ_chức có mục_đích chính là tìm ra giải_pháp hiệu_quả , bền_vững , minh_bạch để khơi dậy đam_mê học_hỏi và chia_sẻ .
+" Biến những trẻ_em từ học_sinh trở_thành người truyền kiến_thức .
+Bằng cách đó , việc học_tập sẽ phát_triển theo cấp_số_nhân " , website của CS4Success ghi .
+Sau khi gây quỹ hàng nghìn USD thành_công , Tandon đã mua hàng tá máy Chromebook của Google và chuẩn_bị cho nhiệm_vụ của mình , cũng chính là của tổ_chức .
+" Tôi tạo một website với giao_diện đơn_giản để người học công_nghệ thấy hấp_dẫn và vui_vẻ hơn .
+Khi đó , tôi bắt_đầu đưa ra nhiều kết_cấu hơn cho nhiệm_vụ của mình và liên_kết với các tổ_chức khác " , Tandon nói .
+Mùa_hè vừa_rồi , anh hợp_tác cùng các thư_viện trên khắp bang Virginia để dựng các trại_hè miễn_phí cho trẻ_em khó_khăn trong cộng_đồng .
+" Có em không ngừng đập tay với tôi trong lúc viết các dòng lệnh HTML , đặc_biệt , một em còn liên_tục níu chân tôi lại để chỉ cho xem cậu_bé đã làm tạo được gì với trò Minecraft " , Tandon mỉm cười .
+Hải_Khanh

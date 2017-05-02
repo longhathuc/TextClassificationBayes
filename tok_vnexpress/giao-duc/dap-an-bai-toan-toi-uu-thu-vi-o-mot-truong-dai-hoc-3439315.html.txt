@@ -1,0 +1,22 @@
+Đáp_án bài_toán tối_ưu thú_vị ở một trường đại_học
+Bài này yêu_cầu cơ_bản là cho n đĩa tròn bán_kính d , tìm d nhỏ nhất sao cho n đĩa này có_thể phủ kín đĩa tròn đơn_vị .
+Đề_bài :
+Khuôn_viên mới của một trường đại_học được xây_dựng trong một khu đất hình_tròn .
+Nhà_trường nghiên_cứu để đặt 7 bảng thông_báo trong trường sao cho khoảng_cách từ một vị_trí bất_kỳ trong trường đến bảng thông_báo gần nhất_là nhỏ nhất .
+Hỏi phải đặt các bảng này ở đâu ?
+Ở đây cần phát_biểu rõ hơn như_thế_này : Với mỗi điểm A thuộc khuôn_viên trường , gọi d ( A ) là khoảng_cách từ A đến bảng thông_báo gần A nhất .
+Gọi d là giá_trị lớn nhất trong các khoảng_cách d ( A ) .
+Ta cần xác_định các vị_trí của 7 bảng thông_báo sao cho d nhỏ nhất .
+Có_thể coi khu đất hình_tròn có bán_kính là 1km .
+Giải :
+Tương_tự như bài_toán tìm kho báu lần trước , bài_toán bảng thông_báo lần này cũng là một bài_toán thật_sự , không phải đố mẹo .
+Trong cách đặt tối_ưu , từ một vị_trí bất_kỳ trong khuôn_viên trường đến bảng thông_báo gần nhất mất không quá 0,5 km .
+Cách đặt như trong hình .
+Nhiều bạn đã có đáp_án đúng , nhưng gần_như không có ai chứng_minh , có_lẽ vì đây là bài_toán giải_trí nên ít bạn quan_tâm đến chứng_minh .
+Bài_toán này thuộc về lớp bài_toán nổi_tiếng gọi_là các bài_toán phủ đĩa tròn , trong đó yêu_cầu cơ_bản là cho n đĩa tròn bán_kính d , tìm d nhỏ nhất sao cho n đĩa này có_thể phủ kín đĩa tròn đơn_vị .
+Trong đề_bài , n được chọn bằng 7 và d có đáp_án đẹp là 1/2 .
+Chúng_tôi giới_thiệu một chứng_minh đơn_giản như sau :
+Xem phạm_vi bao_phủ của một bảng thông_báo như một đĩa tròn bán_kính r , yêu_cầu của bài_toán tương_đương với việc chỉ ra cách xếp 7 đĩa “ nhỏ ” này bao_phủ hết đĩa “ lớn ” bán_kính 1.0 với r nhỏ nhất có_thể .
+Ta thấy rằng một đĩa nhỏ chỉ có_thể bao_phủ một đoạn 2 * arcsin ( r ) trên đường_biên của đĩa lớn .
+Do_vậy , nếu r
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

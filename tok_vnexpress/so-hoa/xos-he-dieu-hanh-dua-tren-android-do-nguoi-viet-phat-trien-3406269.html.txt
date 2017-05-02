@@ -1,0 +1,33 @@
+xOS - hệ_điều_hành dựa trên Android do người Việt phát_triển
+Vuốt ba ngón_tay để chụp màn_hình , đóng tất_cả ứng_dụng đang mở với một cú lắc nhẹ … nằm trong số những điểm nhấn của hệ_điều_hành x OS sắp ra_mắt .
+Hệ_điều_hành dựa trên Android mang tên x OS đang gây chú_ý trong giới công_nghệ Việt thời_gian qua bởi đây   là nền_tảng được phát_triển bởi cộng_đồng yêu Android , dưới sự điều_hành của nhóm lập_trình_viên đến từ diễn_đàn TekCafe .
+Anh Nguyễn_Hoàng_Chương , một trong những   thành_viên chủ_chốt phát_triển x OS .
+Theo anh Nguyễn_Hoàng_Chương , đại_diện nhóm phát_triển x OS , hệ_điều_hành này sẽ khiến người dùng ngạc_nhiên bởi những tính_năng mới , hữu_ích , áp_dụng tốt cho nhu_cầu hàng ngày của người dùng .
+Ví_dụ , họ có_thể   dùng ba ngón_tay vuốt xuống để chụp màn_hình , lắc nhẹ để đóng toàn_bộ ứng_dụng , gom các thông_báo hiển_thị dưới dạng số theo ứng_dụng thay_vì hiển_thị tràn thanh trạng_thái , tùy chọn vị_trí hiển_thị đồng_hồ ở trên thanh trạng_thái , hiển_thị dung_lượng nguồn của pin đang sạc , cho_phép thay_đổi tên nhà mạng thành tên của mình , chạm hai lần vào màn_hình để tắt / bật ,   hiệu_ứng làm mờ khi vuốt xuống ( có_thể tắt để tiết_kiệm pin ) …
+Bên_cạnh đó , xOS nhấn_mạnh khả_năng bảo_mật thiết_bị và sự ổn_định .
+Nền_tảng có những công_cụ riêng để hạn_chế nguy_cơ bị tấn_công , như hệ_thống x - Guard , hay cơ_chế bảo_vệ người dùng , như mã_hóa tin nhắn giữa các thiết_bị x OS với nhau .
+Ngoài_ra , nhóm tập_trung tối_ưu khả_năng sử_dụng tài_nguyên và tiết_kiệm pin của thiết_bị .
+xOS thử_nghiệm trên điện_thoại LG_G3 ( bên trái ) , bên_cạnh mẫu ZTE Blade S7 .
+Điều mà nhóm phát_triển tâm_đắc nhất chính là khả_năng nhận các bản cập_nhật mới từ Google .
+" Các mẫu smartphone hiện_nay , trừ dòng Google_Nexus , đều phải tùy_thuộc vào bản cập_nhật từ phía nhà_sản_xuất và dễ bị ' bỏ_rơi ' .
+Tuy_nhiên , với x OS , chỉ cần Google có bản cập_nhật mới , máy sẽ hỗ_trợ tải về cho người dùng trải_nghiệm " .
+Đại_diện x OS chia_sẻ , hệ_điều_hành này đã được thai_nghén từ lâu , nhưng chỉ mới lên ý_tưởng trong một năm và bắt_tay vào làm chính_thức khoảng 6 tháng .
+" Nhóm chỉ có 5 người thực_hiện chính , còn về hỗ_trợ trực_tiếp thì_có 10 người .
+Tuy_nhiên , rất nhiều người đã đóng_góp cho sản_phẩm , như bạn Dương_Tuân tạo bộ icon cho x OS .
+Ngoài_ra , ý_tưởng về các tính_năng đều được lấy từ cộng_đồng , nhóm đa_phần chỉ hiện_thực hóa các ý_tưởng đó " .
+Anh Chương cho_biết , để có_thể làm ra một nền_tảng đậm chất Việt_Nam , nhóm đã khảo_sát lấy ý_kiến trên các diễn_đàn có cộng_đồng người dùng am_hiểu công_nghệ lớn .
+Nếu tính_năng nào được yêu_cầu nhiều , nhóm sẽ tập_trung làm và tích_hợp vào hệ_điều_hành .
+Tuy_nhiên , nhóm chỉ thực_sự đưa vào những thứ cần_thiết , bởi thứ mà nhóm ưu_tiên là sự ổn_định chứ không phải là càng nhiều chức_năng càng tốt .
+Bên_cạnh cộng_đồng đóng_góp ý_tưởng , nhóm còn được hỗ_trợ từ hơn 350 tester - đội_ngũ trải_nghiệm x OS đầu_tiên nhằm phát_hiện lỗi , cũng_như đề_xuất các ý_tưởng mới .
+Giao_diện màn_hình chính ( trái ) và màn_hình khóa của x OS .
+Khi bắt_tay vào phát_triển x OS , anh Chương cho_hay , nhóm gặp khá nhiều khó_khăn .
+" Đầu_tiên là vấn_đề tài_chính , bởi nhóm là tập_hợp những người đam_mê Android , hầu_hết đã đi làm và trích số tiền kiếm được đầu_tư cho dự_án .
+Thứ_hai là thời_gian , do đi làm công_ty nên anh_em ít rảnh_rỗi , chủ_yếu về khuya .
+Đêm là ' cày ' tới 2-3 giờ sáng , sớm lại đi làm từ 7-8 giờ nên khá mệt .
+Thứ_ba là sự gắn_kết , bởi những người làm_việc không_chỉ ở TP_HCM , nên việc gặp nhau , trao_đổi ý_tưởng khó_khăn hơn .
+Và thứ_tư là những hỗ_trợ về truyền_thông , pháp_lý , định_hướng … từ cấp trên " .
+Trong tương_lai , nhóm phát_triển sẽ hoàn_thiện các tính_năng mà người Việt cần , đặc_biệt là chia_sẻ toàn_bộ dự_án cho mọi người .
+" Dự_án được khai_sinh và phát_triển dựa trên cộng_đồng , do_đó nó hoàn_toàn phục_vụ cộng_đồng " , anh Chương cho_biết .   Ngoài_ra , công_cụ hỗ_trợ cài_đặt x OS dễ_dàng và một cửa_hàng ứng_dụng riêng của nền_tảng này cho người Việt cũng là thứ mà nhóm hướng tới .
+Dự_kiến , sự_kiện giới_thiệu x OS được tổ_chức tối 21/5 tại TP_HCM .
+" Còn rất nhiều tính_năng mà tôi chưa tiết_lộ , bởi nhóm muốn mọi người sẽ ồ lên tại buổi ra_mắt hệ_điều_hành Android do chính tay người Việt phát_triển và dành cho người Việt " , anh Chương nhấn_mạnh .
+Bảo_Lâm

@@ -1,0 +1,20 @@
+Tin nhắn trên i Phone kém bảo_mật hơn Apple quảng_cáo
+Apple tuyên_bố không_lưu vị_trí người dùng nhưng mỗi khi nhắn_tin , hệ_thống máy_chủ vẫn sẽ lưu lại địa_chỉ IP cũng_như thời_gian và số điện_thoại liên_lạc .
+Nhà_sản_xuất i Phone luôn tự_hào về tính bảo_mật của ứng_dụng nhắn_tin i Message nhưng tiết_lộ mới của   The_Intercept   lại không cho thấy như_vậy .
+Apple luôn lưu_giữ một bản ghi địa_chỉ liên_lạc qua tin nhắn của mỗi người dùng i Phone .
+Công_ty cũng phải sẵn_sàng chia_sẻ điều này với các cơ_quan thực_thi pháp_luật khi phục_vụ một lệnh của tòa_án .
+iMessage cũng không_thể có tính bảo_mật cao nhất như Apple thông_báo .
+Các tài_liệu bị rò_rỉ cho thấy bất_kể khi nào người dùng i OS thực_hiện nhắn_tin văn_bản , Apple sẽ dự_đoán tên người gửi ứng với từ_khóa được nhập vào .
+Máy sẽ thực_hiện lệnh quét để tìm xem người dùng nào đang có i Message .
+Đáng chú_ý là mỗi số được Apple kiểm_tra với cơ_sở_dữ_liệu đều được lưu_trữ trong vòng 30 ngày .
+Trong mỗi lần tìm_kiếm , các thông_tin được lưu lại bao_gồm ngày_giờ cụ_thể và quan_trọng hơn là địa_chỉ IP của máy .
+Theo BGR , điều này là trái với tuyên_bố của Apple vào năm 2013 khi khẳng_định hãng không_lưu bất_kỳ dữ_liệu nào liên_quan đến vị_trí địa_lý của khách_hàng .
+Các thông_tin này mặc_định được lưu và xóa sau mỗi chu_kỳ 30 ngày .
+Nhưng khi có sự can_thiệp của tòa_án , Apple sẽ bắt_buộc phải mở_rộng thời_gian này .
+Ở góc_độ thực_thi pháp_luật , các dữ_liệu mà Apple cung_cấp sẽ giúp tiết_lộ những người mà một cá_nhân nào_đó tiếp_xúc , liên_lạc .
+Danh_sách liên_lạc do nhà mạng cung_cấp chỉ thực_hiện được khi người dùng nhắn_tin văn_bản .
+Trong khi đó , dữ_liệu từ Apple đầy_đủ hơn khi bao_gồm cả giao_thức riêng i Message hoặc nhiều người nhận theo nhóm .
+Apple không phủ_nhận các thông_tin nói trên nhưng khẳng_định nội_dung tin nhắn i Message vẫn rất bảo_mật nhờ được mã_hóa đầu_cuối .
+" Trong một_số trường_hợp , chúng_tôi có_thể cung_cấp dữ_liệu từ các bản ghi máy_chủ được tạo ra từ việc truy_cập của khách_hàng vào các ứng_dụng nhất_định trên thiết_bị của họ " , Apple thông_báo .
+Các chuyên_gia bảo_mật cho rằng việc Apple tiết_lộ bản ghi với các cơ_quan_chức_năng sẽ không phải là vấn_đề lớn với người dùng thông_thường .
+Tuy_nhiên , đây vẫn là động_thái cho thấy các công_ty công_nghệ thường không_thể đảm_bảo tính bảo_mật cao nhất như những gì họ tuyên_bố do cả những lý_do khách_quan và chủ_quan .

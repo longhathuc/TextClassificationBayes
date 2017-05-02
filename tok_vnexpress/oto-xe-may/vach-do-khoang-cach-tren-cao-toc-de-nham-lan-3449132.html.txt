@@ -1,0 +1,4 @@
+Vạch đo khoảng_cách trên cao_tốc dễ nhầm_lẫn
+Trên đường_cao_tốc , vạch thể_hiện mốc đo khoảng_cách an_toàn giữa các xe nhìn giống như vạch cho người đi bộ qua đường .
+Tài_xế nào chạy cao_tốc thì không có gì lạ với những vạch kẻ song_song dưới lòng_đường , ở bên lề cắm biển khoảng_cách 0 m - 50 m - 100 m .
+Đây là vạch để tài_xế nhận_biết mình đang cách xe trước bao_xa nhằm giữ khoảng_cách an_toàn cho hợp_lý .

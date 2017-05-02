@@ -1,0 +1,8 @@
+Bài_toán gọi điện_thoại của học_sinh lớp 5
+Đây là bài_toán dành cho học_sinh lớp 5-6 ( Upper_Primary ) , được trích trong kỳ thi đánh_giá năng_lực tư_duy Toán_học quốc_tế - IMAS .
+Thời_gian làm bài khoảng 6 phút .
+Đề_bài :
+Số điện_thoại của Lily có 8 chữ_số và chia_hết_cho cả 3 và 5 .
+Micky chỉ nhớ được 6 chữ_số đầu_tiên theo thứ_tự gồm 8 , 9 , 2 , 0 , 1 và 5 .
+Hỏi_Micky phải gọi tối_đa bao_nhiêu lần cho_đến khi gọi đúng số ?
+Trần_Phương

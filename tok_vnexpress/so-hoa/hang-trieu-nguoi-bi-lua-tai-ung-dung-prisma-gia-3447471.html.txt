@@ -1,0 +1,15 @@
+Hàng triệu người bị lừa tải ứng_dụng Prisma giả
+Đã có ít_nhất 1,5 triệu người tải về các phiên_bản giả_mạo của ứng_dụng chỉnh_sửa ảnh Prisma , và những thiết_bị này có_thể đã bị tin_tặc tấn_công , cài virus đánh_cắp dữ_liệu hoặc phục_vụ cho mục_đích quảng_cáo .
+Prisma là ứng_dụng chỉnh_sửa ảnh   đang được nhiều người yêu_thích .
+Với khả_năng biến những hình_ảnh thông_thường thành các " tác_phẩm nghệ_thuật " , Prisma đang là ứng_dụng chiếm được cảm_tình của rất nhiều người dùng trên toàn thế_giới .
+Tuy_nhiên , độ " hot " của nó đã bị tin_tặc lợi_dụng để tung ra các phiên_bản giả , nhất_là trước khi ứng_dụng này ra_mắt chính_thức trên Android .
+Theo hãng bảo_mật ESET ( Slovakia ) , trước khi Prisma có_mặt trên Android , chợ ứng_dụng Play của nền_tảng này đã xuất_hiện vô_số những cái tên tương_tự .
+Thậm_chí , nhiều ứng_dụng không cung_cấp khả_năng chỉnh_sửa ảnh mà thay vào đó chỉ là các chức_năng chung_chung như cập_nhật Android , tạo bảng đăng_ký , đăng_nhập giả_mạo để thu_thập các thông_tin cá_nhân , thậm_chí là gửi tin nhắn SMS xác_thực , dù không cho_biết việc xác_thực nhằm mục_đích gì .
+Những ứng_dụng giả sau khi cài_đặt sẽ gửi cảnh_báo đánh_lừa người dùng .
+Nghiêm_trọng hơn , các chuyên_gia bảo_mật đã " mổ_xẻ " một_vài ứng_dụng và phát_hiện ra rằng , bên trong có chèn rất nhiều mã độc , trojan nguy_hiểm .
+Chúng sau khi xâm_nhập vào máy sẽ liên_tục gửi dữ_liệu trên điện_thoại về máy_chủ của tin_tặc , hoặc hiển_thị các quảng_cáo không mong_muốn , tự_động truy_cập vào các liên_kết lạ …
+" Những ứng_dụng giả_mạo đã dụ được hơn 1,5 triệu lượt tải về trên Play_Store và con_số đó đang tăng thêm dù đã có phiên_bản chính_thức .
+Người dùng có_vẻ như vẫn chưa ý_thức được mỗi nguy mà chúng mang lại dù đã được cảnh_báo với các ứng_dụng giả tương_tự trong quá_khứ " , đại_diện ESET cảnh_báo .
+Các chuyên_gia của hãng bảo_mật này khuyên rằng , người dùng nên xem kỹ ứng_dụng ( có phải là phiên_bản chính_thức hay không ) , tải về các ứng_dụng có uy_tín , được các người dùng khác đánh_giá cao , đọc kỹ các quyền truy_cập ứng_dụng đó trước khi tải … Bên_cạnh đó , việc cài_đặt một ứng_dụng quét virus đủ mạnh cũng là cách để hạn_chế nguy_cơ bị tin_tặc lợi_dụng .
+Cách cài_đặt và sử_dụng Prisma " chính chủ " :
+Bảo_Lâm ( theo IBTimes )

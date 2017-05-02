@@ -1,0 +1,41 @@
+Những nhóm hacker khét_tiếng tại Trung_Quốc
+Với số_lượng đông_đảo , các nhóm hacker Trung_Quốc đã khiến nhiều nơi trên thế_giới e_dè và cảnh_giác vì hậu_quả chúng gây ra .
+1937cn
+Đây là nhóm hacker nổi_tiếng nhất và nguy_hiểm nhất của Trung_Quốc hiện_tại , theo thống_kê của hack - cn.com ,   trang thống_kê và xếp_hạng tin_tặc của Trung_Quốc . 1937cn đã thực_hiện tổng_cộng hơn 40.000 cuộc tấn_công kể từ khi hình_thành và Vietnam_Airlines là nạn_nhân mới nhất của chúng .
+Tuy_nhiên , hãng hàng_không quốc_gia Việt_Nam không phải là mục_tiêu duy_nhất mà 1937cn hướng tới .
+Trong quá_khứ , có tới hơn 1.000 trang_web Việt khác bị nhóm này hỏi_thăm , điển_hình là Thegioididong.com.vn và Facebook.com.vn vào tháng 8/2013 .
+Không_chỉ nhằm vào doanh_nghiệp , chúng còn tấn_công cả các trang_web giáo_dục ( tên_miền . edu ) hay chính_phủ ( tên_miền . gov ) …
+Ở mỗi nơi đi qua , 1937cn luôn thay_đổi giao_diện và để lại những lời_lẽ đầy tính khiêu_khích .
+Không_chỉ Việt_Nam , rất nhiều nơi tại châu Á bị 1937cn tấn_công và cài phần_mềm gián_điệp nhằm thu_thập thông_tin , trong đó có cả các thông_tin liên_quan đến chính_trị , thậm_chí là bí_mật quân_sự .
+Tuy_nhiên , do nằm trong lãnh_thổ Trung_Quốc , các nạn_nhân không_thể làm được gì .
+Riêng trang 1937cn.net ( trang_web chính_thức của nhóm 1937cn ) cũng là nơi tập_hợp các cách_thức tấn_công mạng , đồng_thời tồn_tại nhiều thành_viên quá_khích , thường_xuyên kích_động các hacker tấn_công mục_tiêu mà chúng cảm_thấy không thích , trong đó có Việt_Nam hay Philippines .
+61398
+Đây được xem là " quân_đoàn hacker bí_ẩn " nằm dưới quyền điều_hành và giám_sát của quân_đội Trung_Quốc , được hãng bảo_mật Mandiant ( Mỹ ) theo_dõi từ đầu năm 2012 .   Nhóm hacker này đã hoạt_động từ cách đây 10 năm , tức 2006 .
+Theo các tài_liệu công_bố bởi Mandiant , thông_tin về 61398 rất bí_ẩn , không hề tồn_tại trong các tài_liệu của quân_đội Trung_Quốc .
+Tuy_nhiên , đơn_vị này quy_tụ hàng nghìn chuyên_gia máy_tính , bảo_mật và an_ninh mạng khắp cả nước .
+Địa_điểm đóng quân của đơn_vị này là một tòa nhà cao 12 tầng tại Phố_Đông , Thượng_Hải , được quản_lý và canh gách nghiêm_ngặt bởi quân_đội Trung_Quốc .
+Bên trong , tòa nhà được trang_bị các công_nghệ mạng tân_tiến nhất với cáp_quang tốc_độ cao cùng hơn 1.000 máy_chủ để phục_vụ cho các hoạt_động tấn_công và gián_điệp mạng bao_gồm theo_dõi , đánh_cắp bí_mật công_nghệ , bí_mật quốc_gia .
+61398 còn được cho là đã đột_nhập thành_công vào hơn 20 trang_web của các doanh_nghiệp nổi_tiếng thế_giới như Google , Coca-Cola … và lấy đi rất nhiều dữ_liệu .
+Mục_tiêu của chúng là các quốc_gia phát_triển như Mỹ , châu Âu … Tuy_nhiên , chính_phủ Trung_Quốc luôn phủ_nhận sự tồn_tại của đơn_vị tin_tặc này .
+Sky-Eye
+Có rất ít các thông_tin liên_quan đến nhóm tin_tặc này , nhưng theo Security_Daily , chúng có mối liên_hệ khá mật_thiết với 1937cn và kết_hợp với nhau để gây ra rất nhiều vụ tấn_công tại châu Á , trong đó có Việt_Nam .
+Theo thống_kê năm 2014 , đã có gần 100 phi_vụ mà Sky-Eye nhằm vào các cơ_quan , tổ_chức , doanh_nghiệp nước ta , trong đó có cả website chính_phủ và các tổ_chức giáo_dục .
+Tương_tự 1937cn , Sky-Eye tấn_công các trang_web theo phương_thức DDoS và ở mỗi mục_tiêu thành_công , chúng đều thay_đổi giao_diện và để lại những dòng thông tinh đầy khiêu_khích .
+APT 30
+Theo báo_cáo của FireEye - công_ty chuyên ngăn_chặn các cuộc tấn_công mạng của Mỹ - vào giữa năm 2015 , APT 30 là một nhóm tin_tặc chuyên_nghiệp của Trung_Quốc .
+Chúng được đánh_giá có trình_độ cao , hoạt_động kiên_trì và rất bài_bản .
+Trong hơn 10 năm , chúng đã thực_hiện rất nhiều cuộc tấn_công nhằm vào Việt_Nam và các nước thuộc khu_vực Đông_Nam Á cũng_như Ấn Độ .
+Điểm nguy_hiểm nhất của nhóm này là chiến_lược bài_bản , nhất_quán từ đầu đến cuối và phải tấn_công thành_công mới thôi .
+Bên_cạnh đó , chúng thường_xuyên thay_đổi các công_cụ tấn_công và linh_hoạt chiến_thuật nhằm tránh bị phát_hiện .
+Từ việc phân_tích hơn 200 mẫu_mã độc được chúng tung ra cho thấy , APT 30 đã phát_triển từng loại mã độc riêng cho các mục_đích khác_nhau , như chính_trị , kinh_tế , báo_chí , ngoại_giao … nên rất khó đề_phòng .
+Mofang
+Được phát_hiện vào tháng 11 năm_ngoái bởi hãng bảo_mật Fox-IT , Mofang cũng là nhóm hacker cực_kỳ nguy_hiểm .
+Mặc_dù số_lượng các cuộc tấn_công không cao nhưng quy_mô lại rất lớn , và đánh thẳng vào các cơ_quan chính_phủ , khu quân_sự , các cơ_sở_hạ_tầng , trung_tâm nghiên_cứu và phát_triển … và đánh_cắp thông_tin cho các mục_đích riêng , hoặc sửa_chữa thông_tin theo hướng có lợi cho chúng .
+Mofang được cho là có liên_quan đến chính_phủ Trung_Quốc .
+Các mẫu_mã độc sau khi được phân_tích cho thấy , một_vài dòng mã lệnh ( code ) trong đó tương_tự đoạn mã được dùng bởi các tin_tặc từng bị phát_hiện được chính_phủ tài_trợ .
+Tuy_nhiên , cách hoạt_động của chúng có phần khác , khi chủ_yếu dựa vào các cuộc tấn_công lừa_đảo thay_vì khai_thác lỗ_hổng zero - day để xâm_nhập vào hệ_thống .
+Theo thống_kê , máy_chủ của Bộ Thương_Mại_Myanmar , một_số cơ_quan chính_phủ Mỹ , hội_chợ MSME_DEFE xpo ở Ấn Độ , CPG Corporation của Singapore ( chuyên về đầu_tư nước_ngoài ) … từng là nạn_nhân của Mofang .
+Xem thêm :
+>   Nhận_diện nhóm tin_tặc tấn_công hệ_thống thông_tin sân_bay Việt_Nam
+>   Website của Liên_đoàn bóng_đá Việt_Nam bị tấn_công
+Bảo_Lâm

@@ -1,0 +1,97 @@
+Gian_nan khởi_nghiệp lập_trình di_động
+Anh Nguyễn_Bá_Thành , CEO của WePlay , đã chia_sẻ chặng đường 5 năm gắn_bó với ứng_dụng di_động của mình .
+" Tôi năm nay 30 tuổi , đã phát_triển và phát_hành hơn 100 ứng_dụng và game suốt 5 năm qua .
+Con đường tôi đi là từ một lập_trình_viên sơ_đẳng ( junior developer ) tới lập_trình_viên chuyên_nghiệp có kinh_nghiệm ( senior developer ) , trải qua nhiều vị_trí khác_nhau .
+Hiện thu_nhập chính của tôi đến từ khoảng 5 ứng_dụng với hơn 100.000 người dùng mỗi ngày ( daily active user ) , trong đó lưu_lượng từ Mỹ chiếm 50% , giúp tôi   mua được nhà chung_cư , có ôtô riêng ,   đủ nuôi gia_đình bốn người và duy_trì một đội_ngũ 5 người làm_việc tại Hà_Nội .
+Tôi muốn kể câu_chuyện về một lập_trình_viên di_động với sự_nghiệp có thăng , có trầm , có đau_đớn , có vinh_quang nhưng chứa đầy sắc_màu của đam_mê .
+Nguyễn_Bá_Thành , sinh năm 1987 .
+Năm 2008 , smartphone chưa phải thiết_bị phổ_biến ở Việt_Nam , nhất_là với những sinh_viên còn đang   mài đũng quần trên giảng_đường đại_học như tôi .
+Khi ấy , không có nhiều chuyên_gia trong nước chia_sẻ những mô_hình và những tấm_gương khởi_nghiệp lập_trình di_động .
+Tôi lựa_chọn đến với thế_giới lập_trình_viên vì sự suy_đoán đơn_giản của cá_nhân về tương_lai .
+Cũng_như bao bạn trẻ sắp bước ra_đời phải đối_mặt với bài_toán cơm_áo_gạo_tiền , sự_nghiệp , gia_đình , tôi luôn trăn_trở với câu_hỏi : Hành_trang của mình có gì ?
+Kiến_thức trên giảng_đường có đủ để bước ra_đời ?
+Tôi muốn kiểm_soát tốt hơn số_phận của mình , muốn sống với giấc_mơ của mình , sống cuộc_đời của mình thay_vì sống cuộc_đời của người khác .
+Tham_dự nhiều hội_thảo hướng_nghiệp , đọc báo_điện_tử ... tôi nhận thấy ngành lập_trình " phẳng " nhất và phù_hợp với nguồn_lực và trí_tuệ lúc đó của bản_thân .
+Nếu khởi_nghiệp , tôi không cần nhiều tiền , chỉ cần một máy_tính nối_mạng , dễ_dàng kết_nối với năm châu để làm_việc với đồng_nghiệp và đối_tác thế_giới .
+Tôi chọn trở_thành lập_trình_viên làm điểm khởi_đầu sự_nghiệp của mình dù tôi tốt_nghiệp khoa điện_tử viễn_thông của Đại_học Bách_Khoa_Hà_Nội .
+Bắt_đầu với nghề ' code thuê '
+Năm thứ_tư đại_học ,   tôi chủ_động liên_hệ thầy hướng_dẫn tốt_nghiệp đề_tài về lập_trình và hoàn_thành đồ_án tốt_nghiệp khi bắt_đầu bước sang kỳ hai năm cuối .
+Cũng trong kỳ này , tôi   xin đi làm tại FPT Software - nơi được đánh_giá cái nôi đào_tạo các " đại_cao_thủ " về lập_trình tại Việt_Nam .
+Ở đây , tôi học được cách làm_việc theo nhóm ( teamwork ) , lần đầu cảm_nhận được sự lạnh_lùng không cần bào_chữa của khách_hàng , tình đồng_đội tương_trợ nhau , biết tới khái_niệm deadline ( hạn chót ) , nếm mùi overtime ( làm ngoài giờ ) khi cả tuần chỉ về nhà vài tiếng đồng_hồ để tắm_giặt rồi lại vội_vàng lao lên công_ty , 19h tối là lúc anh_em đông_đủ nhất và 22h đêm toà nhà FPT trên đường Phạm_Hùng vẫn sáng đèn .
+Đó là quãng thời_gian vất_vả , phá vỡ nhiều giới_hạn của bản_thân , nhưng tôi đã trưởng_thành hơn trong hành_trình trở_thành lập_trình_viên chuyên_nghiệp .
+Cuối năm 2010 , vì sự_cố gãy xương bàn_tay phải , tôi xin nghỉ FPT Software , lập_trình và soạn luận_văn bằng tay_trái với sự hỗ_trợ của người bạn_thân để hoàn_thành khoá_luận tốt_nghiệp .
+Lúc này , tôi đầu_quân vào Tinh_Vân và lại tiếp_tục những ngày_tháng làm_việc tới 20-21h đêm ,   khuya thì trải chăn ra trước cửa_nhà vệ_sinh hoặc chui xuống dưới gầm bàn ngủ .
+Ở đây , tôi đã hiểu hơn về tinh_thần và mong_ước của lập_trình_viên : mong được cống_hiến , trải_nghiệm , công_nhận và tăng lương .
+Năm 2011 , khi bị lừa 500 triệu đồng vì mua nhà trên giấy , tôi đề_xuất với sếp sẽ làm_việc 150% thời_gian , bù lại sẽ nhận 150% lương .
+Vì không đặt mình vào góc nhìn của người_quản_lý , tôi đã không thuyết_phục được .
+Nhưng qua đó , tôi học được rằng : Nếu muốn gì , hãy đề_nghị trực_tiếp thẳng_thắn và hợp_lý .
+Có_thể bạn không toại_nguyện , nhưng cấp trên sẽ lắng_nghe , cho bạn các lời khuyên tốt .
+Tin tôi đi , không nhiều người đi làm_công có thói_quen nói_chuyện và chủ_động đề_xuất với sếp .
+Từ ' code thuê ' chuyển sang ' code dạo '
+Sau khi nghỉ ở Tinh_Vân và chuyển sang công_ty mới ,   tôi bắt_đầu thành_lập đội outsourcing ,   chuyên làm các dự_án nhỏ về di_động .
+Chúng_tôi tìm việc trên các chợ như Freelancer , Odesk ...
+Cũng thời_gian này , smartphone bắt_đầu thay_thế dần dòng máy chạy J2ME , và khi đề_nghị phát_triển các ứng_dụng chạy Android nhưng không được chấp_nhận , tôi nghỉ_việc ở công_ty này để toàn_tâm_toàn_ý xây_dựng nhóm của mình .
+Từ code thuê , tôi trở_thành code dạo .
+Năm 2011 , phiên_bản hệ_điều_hành Android cao nhất mới chỉ là 3.0 dành cho máy_tính bảng còn smartphone vẫn là 2.5 . Tôi vấp phải rất nhiều vấn_đề về kỹ_thuật lập_trình di_động còn rất mới_mẻ ở Việt_Nam và các vấn_đề về quản_lý nhân_sự , dự_án .
+Khi chúng_tôi tạo được uy_tín trên các " chợ " dành cho lập_trình_viên tự_do và đấu_thầu được nhiều dự_án hơn , thì cũng là lúc chúng_tôi làm " cháy " nhiều dự_án hơn và bị khách_hàng đánh_giá không tốt do khối_lượng công_việc lớn .
+Lập_trình_viên Việt dễ bắt_đầu nhưng khó_khăn trong tiểu_tiết và đóng dự_án .
+Càng về cuối , sự chây_lười càng rõ_ràng .
+Một vấn_đề nữa_là các lập_trình_viên tôi thuê được chủ_yếu làm ngoài giờ bởi họ vẫn đang đầu_quân cho một công_ty nào_đó để có nguồn thu ổn_định hơn .
+Trên công_ty đó , họ đã sử_dụng hết tài và trí , nên tối về chỉ có_thể vắt kiệt nốt chút tinh_thần , sức_lực và sự tỉnh_táo còn lại để kiếm thêm từ dự_án ngoài .
+Rất nhiều đêm tôi thức trắng , lao vào code và sửa lỗi thay họ chỉ để níu chân khách_hàng , chữa_cháy cho dự_án và bảo_toàn danh_dự của nhóm .
+Tôi mệt_nhoài và căng_thẳng , phần vì có nhiều kỹ_thuật mới chúng_tôi phải vừa nghiên_cứu vừa làm , phần vì nhân_sự không tập_trung và nguồn việc không đều .
+Từ ' code dạo ' thành lập_trình_viên độc_lập
+Cuối năm 2012 , tôi đưa lên chợ ứng_dụng di_động đầu_tiên của mình .
+Đó là một ứng_dụng xem_bói , có tích_hợp chia_sẻ Facebook .
+Tôi đã gặp may khi sản_phẩm nhanh_chóng lên vị_trí số_một trên bảng xếp_hạng của Google_Play và trụ trong top 10 khoảng 3 tháng , đem lại nguồn thu_nhập mỗi tháng gấp đôi so với khi đi làm_thuê .
+Tôi lập_tức nhận ra đây là cơ_hội cho mình .
+Và tôi cũng hiểu mạng xã_hội có   sức_mạnh khủng_khiếp như_thế_nào trong việc   lan_truyền ứng_dụng và game .
+Từ đây , tôi chuyển từ code dạo sang phát_triển app / game độc_lập ( indie developer ) .
+Giảm dần việc outsourcing , chúng_tôi tập_trung nhiều hơn vào phát_triển ý_tưởng về game và app .
+Tuy_nhiên , các sản_phẩm sau đó đưa ra đều không được cộng_đồng đón_nhận .
+Tôi loay_hoay tìm cách đẩy ứng_dụng lên " top " , mong_muốn tìm_kiếm hào_quang như lần đầu .
+Đáp lại là một loạt đòn đánh sập tinh_thần : sự hờ_hững của cộng_đồng , Facebook API liên_tục cập_nhật khiến việc chia_sẻ thông_tin viral càng khó_khăn , Google_Play liên_tục xoá tài_khoản vì chúng_tôi không am_hiểu luật_chơi , ngày_càng nhiều lập_trình_viên tham_gia phát_triển và đẩy ứng_dụng của mình lên chợ khiến cạnh_tranh khốc_liệt .
+Chúng_tôi rơi vào tình_trạng vô hướng , kiệt_quệ về tinh_thần .
+Cuối năm 2013 , chúng_tôi tiếp_tục đưa lên chợ game Bắt_Chữ , dựa trên ý_tưởng của chương_trình nổi_tiếng " Đuổi hình bắt chữ " .
+Cũng_như các ứng_dụng khác , nó nằm im_lìm sáu tháng liên_tục trên hai kho ứng_dụng Google_Play và App_Store .
+Chỉ từ tháng 5/2014 , cả nhóm mới dành thời_gian , tâm_huyết để làm thêm nội_dung , trau_chuốt cho sản_phẩm và lượng download bắt_đầu tăng mạnh .
+Tận_dụng sức_mạnh của mạng xã_hội , Bắt_Chữ   đem về hơn 10 triệu lượt tải trên ba nền_tảng Android , iOS và Windows_Phone .
+Tiền về đủ để chúng_tôi lập công_ty với đội_ngũ 35 người .
+Nhiều người biết tới WePlay , chúng_tôi có thêm bạn_bè , đối_tác và cả kẻ_thù .
+Thành_công của Bắt_Chữ   quá bất_ngờ , chúng_tôi loay_hoay để phát_triển các cơ_hội mà game này đem lại , một_mặt phải đối_phó với các bài_toán chưa từng xuất_hiện .
+Trước_tiên là về hệ_thống , chúng_tôi bị sập vài lần vì người chơi quá đông .
+Sau đó là việc cạn_kiệt nội_dung câu_hỏi .
+Chúng_tôi cũng vấp phải vấn_đề về bản_quyền , phải làm_việc và mua bản_quyền của Đài_truyền_hình Hà_Nội để xin cấp phép sử_dụng lối chơi của Catch_Phrase , đăng_ký với Cục Sở hữu trí_tuệ ...
+Bên_cạnh đó còn là vấn_đề chăm_sóc người chơi cũng_như thực_hiện một loạt các hợp_đồng với nhiều đối_tác lớn_nhỏ .
+Game_Bắt_Chữ từng gây sốt năm 2014 với 10 triệu lượt tải .
+Mỗi sản_phẩm game / app ra_đời đều có vòng đời của nó .
+Với_Bắt_Chữ , vòng đời là 8 tháng .
+Vì không kịp chuẩn_bị cho thành_công , chúng_tôi bỏ lỡ một_số cơ_hội về doanh_thu và xây_dựng những ứng_dụng vệ_tinh , tạo hệ_sinh_thái người dùng .
+Vì không chuẩn_bị cho thành_công , không tham_vấn chuyên_gia , chúng_tôi đã mắc phải nhiều sai_lầm " chết người " .
+Trên đà chiến_thắng , chúng_tôi phát_triển tiếp một phiên_bản online cho Bắt_Chữ với phân_tích rằng chỉ cần 1/10 lượng tải ứng_dụng so với bản offline , Bắt_Chữ_Online có_thể đem lại doanh_thu tương_đương .
+Chúng_tôi lao vào sản_xuất trong 5 tháng liên_tục và sản_phẩm ra_đời trong sự hân_hoan của nhóm .
+Chúng_tôi cũng làm một loạt các hoạt_động truyền_thông thông_qua báo_chí , tổ_chức sự_kiện , đổ traffic chéo từ các sản_phẩm khác , mua thêm traffic ngoài ...
+Thế_nhưng , doanh_thu èo_uột không như kỳ_vọng .
+Chúng_tôi đã lỡ nhịp , vòng đời của Bắt_Chữ_Offline đã hết , game trước không đủ tạo đà cho game mới .
+Cuối_cùng , tôi đau_đớn thừa_nhận Bắt_Chữ_Online là dự_án thất_bại .
+Chúng_tôi nóng_vội phát_triển một loạt các game mini với tốc_độ phát_triển nhanh nhưng lại không trau_chuốt và tinh_tế , nhiều sản_phẩm sao_chép xu_hướng mà hàm_lượng sáng_tạo thấp .
+Chúng_tôi đã phải trả_giá .
+Cộng_đồng hoàn_toàn không đón_nhận bất_chấp những dòng tiền và nỗ_lực đổ vào với mong_muốn đẩy game lên " top " .
+Doanh_thu ngày_càng giảm và có nhiều người không chịu được áp_lực đã đầu_quân sang các công_ty khác .
+Sự phát_triển nóng về quy_mô cộng thêm việc sử_dụng vốn không hiệu_quả , dẫn tới co hẹp về quy_mô sản_xuất .
+Từ một công_ty hơn 30 người , chúng_tôi chỉ còn lại vài người , thành một nhóm nhỏ và thuê một căn_hộ chung_cư làm văn_phòng .
+Quá_trình phát_triển giúp tôi nhận ra rằng , trong lĩnh_vực di_động , game như_là thứ ma_tuý số gây nghiện , có sức_mạnh ma_mị hấp_dẫn người chơi nhưng cũng_như là thứ nước_hoa , người_ta thấy lạ , thấy đẹp , thấy thích thì chơi , một thời_gian rồi cũng chán , cũng sẽ rời bỏ để rồi lại thăng_hoa cảm_xúc trong những game khác .
+Còn ứng_dụng như_là cơm , là phở , người dùng giữ lại trong máy lâu hơn .
+Ứng_dụng không phát_triển dữ_dội như game , ít điểm bùng_phát hơn , vòng quay tài_chính cũng không nhanh như game nhưng bền_vững , vòng đời cũng dài hơn , đồ_thị phát_triển đã lên thì sẽ lên dần đều một_cách vững_chắc .
+Người_ta có_thể dùng game để tô màu cho đời_sống tinh_thần thêm phong_phú , để giải_trí sau những lo_toan bộn_bề cuộc_sống , còn người_ta dùng ứng_dụng như những tiện_ích , những trợ_thủ số đắc_lực cho cuộc_sống .
+Sau cú " hit " Flappy_Bird , giới lập_trình_viên Việt trở_nên sôi_động hơn bao_giờ hết .
+Năm 2015 , cùng_với cuộc_thi BlueBirdAward - đi tìm Nguyễn_Hà_Đông thứ_hai , hàng_loạt lập_trình_viên nuôi mộng triệu_phú , đứng ra lập nhóm phát_triển , hàng_loạt công_ty công_nghệ mở thêm các bộ_phận để thử sức ở lĩnh_vực game / app , hàng trăm startup Việt được lập ra .
+Rất nhiều người văng khỏi cuộc_chơi , tỉnh_mộng , quay về với công_việc trước_kia .
+Người dùng ngày_càng đông hơn , nhưng cũng khó_tính , tinh_tế hơn vì đang có rất nhiều sản_phẩm để họ lựa_chọn .
+Cuộc_chiến game / app càng_ngày_càng khốc_liệt .
+Google và Facebook cũng đã quan_tâm và có nhiều hành_động hỗ_trợ cộng_đồng developer Việt hơn .
+Sự thay_đổi chóng_mặt của công_nghệ đang tạo ra một thế_hệ lập_trình_viên đa_nhiệm , biết làm nhiều hơn một ngôn_ngữ_lập_trình , nhiều hơn một nền_tảng .
+Họ , thế_hệ lập_trình_viên mới , đang thách_thức câu cổ_ngữ ' một nghề cho chín còn hơn chín nghề ' .
+Họ càng hiểu hơn hết phải đặt tâm mình vào sản_phẩm , lấy chất_lượng làm phương_châm , lấy trải_nghiệm người dùng làm mục_đích , lấy khác_biệt làm lợi_thế cạnh_tranh , tự_giác hơn về hệ_thống , về truyền_thông , xây_dựng cộng_đồng .
+Và họ càng thấm_thía quy_luật sống_còn của sản_phẩm : làm ra cái người dùng cần chứ không phải_cái mình thích " .
+Nguyễn_Bá_Thành

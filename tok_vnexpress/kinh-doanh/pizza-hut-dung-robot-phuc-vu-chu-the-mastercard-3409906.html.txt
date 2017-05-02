@@ -1,0 +1,22 @@
+Pizza_Hut dùng robot phục_vụ chủ thẻ MasterCard
+Thực_khách giao_tiếp với robot để gọi món trong cửa_hàng Pizza_Hut và thanh_toán hóa_đơn qua thẻ MasterCard .
+Hệ_thống Pizza_Hut ở châu Á dự_kiến sẽ mang đến cho khách_hàng trải_nghiệm mới ở cửa_hàng qua việc sử_dụng robot hình người thay_thế cho bồi_bàn .
+Robot này mang tên Pepper , có khả_năng liên_kết với ứng_dụng ví kỹ_thuật_số MasterPass của MasterCard qua điện_thoại thông_minh , cho_phép thực_khách gọi món và thanh_toán .
+Pizza_Hut châu Á sẽ triển_khai thí_điểm Pepper để nhận gọi món và nâng cao dịch_vụ khách_hàng trong cửa_hàng vào cuối năm 2016 .
+Khi khách vào cửa_hàng , robot sẽ tiến đến chào_hỏi .
+Sau đó người dùng có_thể ghép_nối tài_khoản MasterPass của mình với Pepper bằng cách chọn các biểu_tượng ví điện_tử hay quét mã QR trên máy_tính bảng treo trên ngực robot .
+Sau khi kết_nối thông_tin hoàn_tất , Pepper sẽ hỗ_trợ chủ thẻ bằng cách cung_cấp những khuyến_nghị cá_nhân , thực_đơn ngon , thông_tin bổ_sung về các sản_phẩm , kiểm_tra việc gọi món và thực_hiện thanh_toán .
+Tất_cả quá_trình giao_tiếp đều thực_hiện bằng ngôn_ngữ_tự_nhiên .
+Pepper sẽ thông_qua Wi-Fi để kết_nối với MasterPass , tính_toán tổng_số tiền thanh_toán để thực_hiện giao_dịch .
+Hệ_thống MasterCard chuyển thông_báo đến robot nếu giao_dịch thành_công và các thông_tin thẻ của khách_hàng đều được bảo_mật tuyệt_đối .
+So với chiếc máy phục_vụ tự_động thì gọi món qua robot mang đến cho khách_hàng trải_nghiệm mới_mẻ và thú_vị hơn nhiều .
+Pizza_Hut kỳ_vọng công_nghệ mới sẽ giảm thời_gian chờ_đợi và đem đến niềm_vui cho thực_khách , phù_hợp với xu_hướng giao_tiếp kỹ_thuật_số và thanh_toán điện_tử ngày_càng phát_triển .
+Hãng cũng sẽ giới_thiệu Pepper trong một sự_kiện diễn ra tuần này tại Paris với các đối_tác lớn .
+Robot_Pepper do phòng_thí_nghiệm của MasterCard tại Singapore nghiên_cứu và phát_triển .
+Công_nghệ thông_minh tích_hợp trong Pepper được kỳ_vọng sẽ tạo nền_tảng cho các dịch_vụ hướng_dẫn và mua_sắm cho khách_hàng ở quầy thanh thoán , chuỗi bán_lẻ , ngân_hàng , sân_bay , nhà_hàng cùng nhiều dịch_vụ khác .
+Ông Tobias_Puehse - Phó_chủ_tịch giải_pháp thanh_toán kỹ_thuật_số MasterCard cho rằng máy_tính bảng và các ki - ốt trong môi_trường bán_lẻ ngày_càng thể_hiện sự hạn_chế tương_tác trực_quan với cá_nhân khách_hàng .
+Với_Pepper , điều này sẽ được giải_quyết tốt .
+Khách_hàng trao_đổi với robot bằng ngôn_ngữ thông_dụng và người_máy còn có khả_năng thấu_hiểu không_chỉ lời_nói mà_còn cả cử_chỉ , nét_mặt để đưa ra phản_hồi phù_hợp
+" Thay_vì chạm vào màn_hình máy_tính bảng hay ki - ốt kỹ_thuật_số , khách_hàng giao_tiếp với Pepper hoàn_toàn thú_vị hơn .
+Robot này còn có khả_năng cá_nhân hóa cuộc trò_chuyện thông_qua truy_cập dữ_liệu lịch_sử ví kỹ_thuật_số để phục_vụ khách_hàng tốt hơn " , ông Tobias_Puehse chia_sẻ .
+Minh_Trí

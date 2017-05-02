@@ -1,0 +1,8 @@
+Bài_toán thú_vị từ đề thi Olympic toán THCS của Hà_Lan
+Ans , Ben , Carla và Dirk cùng tham_gia trò_chơi bốc số .
+Trong một chiếc mũ có 8 tấm bìa trên đó có ghi các số_từ 1 đến 8 , mỗi tấm bìa 1 số .
+Mỗi bạn lần_lượt bốc 2 tấm bìa và Dirk là người bốc cuối_cùng .
+Để thêm phần hấp_dẫn , mỗi bạn cộng hai con_số trên các tấm bìa của mình và thông_báo cho mọi người biết .
+Ans nói tổng của bạn là 10 , tổng của Ben là 14 và tổng của Carla là 5 .
+Hỏi hai số mà Dirk sẽ bốc được là hai số nào ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

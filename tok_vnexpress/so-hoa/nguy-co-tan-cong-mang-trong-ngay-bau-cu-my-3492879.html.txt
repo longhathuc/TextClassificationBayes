@@ -1,0 +1,18 @@
+Nguy_cơ tấn_công mạng trong ngày bầu_cử Mỹ
+Giới công_nghệ tại thung_lũng Silicon đặt các giả_thuyết về cuộc tấn_công trên mạng có_thể xảy_ra trong ngày bầu_cử tại Mỹ , hôm 8/11 .
+Hãy tưởng_tượng có một cuộc tấn_công trên Internet trong ngày bầu_cử với mục_tiêu duy_nhất : ngăn_cản các cử_tri đi bầu .
+Câu_chuyện mới nghe có_vẻ hoang_đường nhưng lại nảy ra cuộc tranh_luận trên mạng xã_hội và thu_hút sự quan_tâm của nhiều tên_tuổi làng công_nghệ .
+Adam D ' Angelo , cựu Giám_đốc công_nghệ Facebook và là nhà_sáng_lập Quora , viết trên Twitter rằng ông tin " ngày 8/11 tới là cơ_hội tốt cho các cuộc tấn_công mạng " .
+Ông lấy ví_dụ nếu một nhóm hoặc tổ_chức nào_đó đánh sập dịch_vụ bản_đồ , chẳng_hạn Google_Maps , điều này có_thể ngăn_cản một lượng cử_tri đi bỏ_phiếu do không tìm được địa_điểm .
+Kịch_bản này hoàn_toàn có_thể xảy_ra , bởi cuối tháng trước các dịch_vụ như Twitter , Netflix hay Spotify đã bị tấn_công trên diện rộng , mất khả_năng truy_cập tại Mỹ và châu Âu trong thời_gian tương_đối dài .
+Cũng có không ít người cho rằng quan_điểm của   D ' Angelo chỉ là " thuyết âm_mưu " và khó thành hiện_thực .
+Mike_Vernal , một nhà_đầu_tư mạo_hiểm ở Sequoia , gọi đó là " suy_nghĩ   đáng_sợ   " .
+Trong khi đó   David_Byttow , một cựu kỹ_sư của Google , cho rằng công_cụ tìm_kiếm Google , các nhà_cung_cấp dịch_vụ viễn_thông như AT& T hay Verizon có_thể bị tấn_công , dù nguy_cơ thấp .
+Jeremiah_Grossman , Giám_đốc chiến_lược an_ninh tại SentinelOne , đặt câu_hỏi : " Nếu tôi muốn phá vỡ cuộc bầu_cử , tôi cần làm_gì ? " .
+Để hạ gục dịch_vụ bản_đồ như Google_Maps là điều không đơn_giản , đồng_thời những kẻ tấn_công cũng phải đánh sập Apple_Maps hay các dịch_vụ tương_tự ... để ngăn_cản cử_tri đi bầu_cử .
+" Ngay cả khi tình_huống trên xảy_ra , tôi không nghĩ rằng hậu_quả sẽ khủng_khiếp " , Grossman nói tiếp .
+" Cử_tri hoàn_toàn có_thể gọi điện_thoại đến tổ bầu_cử ở khu_vực để xin chỉ_dẫn " .
+Tuy_nhiên , điều này không có nghĩa_là ngày bầu_cử sẽ diễn ra hoàn_toàn yên_ả trên mặt_trận Internet .
+Theo các chuyên_gia an_ninh mạng , tin_tặc có_thể tấn_công vào các trang tin_tức và các tài_khoản mạng xã_hội nổi_bật để ngăn_chặn hoặc làm sai_lệch các thông_tin quan_trọng .
+Byttow , cựu kỹ_sư của Google cho rằng người_dân Mỹ nên có sẵn kế_hoạch cho ngày 8/11 tới .
+" Lên thời_gian_biểu , đặt nhắc_nhở trên điện_thoại , chụp lại các hướng_dẫn liên_quan đến cuộc bỏ_phiếu và tránh gây chú_ý cho_đến khi hoàn_thành việc bỏ_phiếu " , ông chia_sẻ .

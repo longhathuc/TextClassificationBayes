@@ -1,0 +1,36 @@
+Chọn và sử_dụng sạc di_động trên xe_hơi thế_nào là đúng
+Không nên dùng loại củ sạc gắn kèm dây sạc , cố_gắng chọn loại có từ hai cổng USB trở_lên và hạn_chế tối_đa sạc khi đang tắt máy .
+Sạc trên xe_hơi rất quan_trọng trong thời_đại của smartphone .
+Với việc smartphone ngày_nay có thời_lượng sử_dụng pin thường chỉ chưa đầy một ngày , sạc trên xe_hơi trở_nên rất quan_trọng với những người sở_hữu " xế hộp " .
+Đặc_biệt là trong các các chuyến đi đường dài , du_lịch bằng xe hoặc một_số trường_hợp khẩn_cấp .
+Việc phát_triển của smartphone ngày này cũng kéo_theo những thay_đổi về thị_trường sạc cho xe_hơi với nhiều mẫu_mã để lựa_chọn , chất_lượng tốt và giá rẻ hơn .
+Sạc xe_hơi thường được cắm vào đầu lấy điện hoặc tẩu thuốc trên xe với điện_áp 12V .
+Sạc sẽ hoạt_động khi nổ máy hoặc khi tắt máy nhưng vẫn đang mở khóa điện .
+Việc sạc khi nổ máy sẽ lấy điện_từ máy phát của xe , về lý_thuyết sẽ làm tốn thêm nhiên_liệu nhưng rất ít và không đáng_kể .
+Trong trường_hợp mở khóa điện nhưng không nổ máy , sạc sẽ lấy điện_từ ắc - quy nên cần hạn_chế và chỉ sử_dụng trong trường_hợp khẩn_cấp .
+Loại sạc nhiều cổng thường có kích_thước lớn hơn hẳn nên cần cân_nhắc trước khi chọn phù_hợp với xe .
+Loại sạc có gắn sẵn dây hiện_nay vẫn còn bán trên thị_trường nhưng khá ít .
+Người dùng tốt nhất không nên chọn do thường chỉ đi kèm một đầu dây sạc duy_nhất cho một loại điện_thoại .
+Khi có hỏng_hóc do đứt dây hoặc tiếp_xúc kém , thường phải thay cả đầu sạc chưa kể người dùng sẽ gặp khó khi đổi điện_thoại hoặc người đi cùng muốn sử_dụng nhưng không cùng chủng_loại .
+Nên chọn loại sạc có từ hai đầu_ra USB trở_lên do giá_thành không đắt hơn đáng_kể so với loại một cổng sạc trong khi tiện_dụng hơn nhiều .
+Các loại sạc có từ 3 đến 5 cổng kích_thước lớn nên cân_nhắc lựa_chọn nếu có nhu_cầu .
+Ngoài_ra , cũng cần chú_ý đến kích_thước thực_tế của củ sạc vì ổ_cắm tẩu , lấy điện của các xe khác_nhau và có_thể khá nhỏ ở một_số dòng xe .
+Một_số loại ghi rõ dòng sạc từng cổng trên thiết_bị .
+Điểm đáng quan_tâm nhất cần chú_ý là chọn dòng_điện của củ sạc .
+Có nhiều loại từ 1A , 1,5 A đến 2,1 A .
+Các dòng lớn giúp sạc nhanh hơn ( nhưng dễ gây nóng máy hơn ) và thường dành cho phablet hoặc máy_tính bảng .
+Hầu_hết các dòng sạc giá rẻ thường có hai đầu_ra USB và chú_thích dòng sạc cho từng đầu .
+Giá bán dao_động từ 150.000 đến 300.000 đồng cho loại dùng tốt và ổn_định .
+Đắt tiền hơn một_chút là các loại sạc có chip điều_khiển thông_minh như của Belkin , Anker , Tronsmart , Moshi ...
+Người dùng có_thể cắm vào bất_kỳ đầu sạc nào và thiết_bị sẽ tự nhận và đưa ra dòng sạc phù_hợp và nhanh_nhất cho máy .
+Dòng sạc của các thiết_bị dạng này có_thể tối_đa lên tới 2,4 A giúp sạc rất nhanh và an_toàn cho smartphone hoặc tablet .
+Giá bán dao_động khoảng 350.000 đến 450.000 đồng .
+Các loại sạc có chip điều_khiển thông_minh , hỗ_trợ chuẩn sạc nhanh Quick_Charge ngày_càng được ưa_chuộng .
+Nếu đang sở_hữu các thiết_bị di_động hỗ_trợ chuẩn sạc nhanh như Qualcomm_Quick_Charge 2.0 hoặc mới hơn như Galaxy S6 , Note 5 , LG_G4 , HTC One M8 , M9 , A9 ... thì người dùng nên cố_gắng sở_hữu một bộ sạc xe_hơi hỗ_trợ chuẩn này .
+Chỉ trong vòng khoảng 20 phút , thiết_bị có_thể sạc thêm từ 40 đến 50% pin mà vẫn đảm_bảo an_toàn cho máy .
+Các hãng được Qualcomm cấp chứng_chỉ hiện_nay bao_gồm Anker , Tronsmart , Maxell , Oriental ...
+Giá bán các dòng sản_phẩm này khoảng 450.000 đến hơn 600.000 đồng .
+Các loại sạc không nguồn_gốc giá bán rất rẻ thường tiềm_ẩn nhiều rủi_ro như dòng sạc không như ghi trên thiết_bị gây ra tình_trạng sạc chậm .
+Dòng không ổn_định ảnh_hưởng đến thiết_bị di_động hoặc có_thể gây cháy , đứt cầu_chì của xe .
+Ngoài củ sạc , cũng cần chọn các dây_cáp tốt để không tiêu_hao điện_năng giúp sạc nhanh hơn và giữ dòng_điện luôn ổn_định .
+Tuấn_Hưng

@@ -1,0 +1,23 @@
+Virus máy_tính gây thiệt_hại 8.700 tỷ đồng mỗi năm
+Bảo_mật là vấn_đề chưa được các doanh_nghiệp quan_tâm đúng_mức , trong đó khoảng 40% website ở Việt_Nam dính lỗ_hổng , gây thiệt_hại hàng nghìn tỷ đồng mỗi năm .
+Cuộc tấn_công vào hệ_thống của Vietnam_Airlines hôm 29/7 là vụ xâm_nhập lớn , đáng chú nhất thời_gian gần đây .
+Tuy_nhiên , theo các chuyên_gia bảo_mật , những vụ " đánh " vào hạ_tầng mạng Việt_Nam không_chỉ đơn_lẻ mà xảy_ra liên_tục trong_suốt nhiều năm qua .
+Chỉ tính riêng hôm_qua 1/8 , đã có hơn 20 trang có tên_miền . vn bị tấn_công , theo thống_kê của Zone - h .
+Website mà các hacker thường khoe " thành_tích " xuất_hiện địa_chỉ của Công_an Khánh_Hòa ( hiện đã truy_cập bình_thường ) , nhiều trang của các tổ_chức , cá_nhân khác vẫn chưa được khắc_phục .
+zone - h thống_kê có hơn 20 website   tên_miền . vn bị hack trong ngày 1/8 .
+Tình_trạng mất an_toàn trong các cổng thông_tin ở Việt_Nam là vấn_đề đã được cảnh_báo từ lâu .
+Theo công_bố của Bkav năm 2014 , tỷ_lệ website trong nước tồn_tại lỗ_hổng lên đến 40% , trong khi đó , con_số này ở châu Âu chỉ là 15% , châu Mỹ là 5% .
+Cá_biệt , một_số trang_web ở Việt_Nam tồn_tại tới hơn 150 lỗ_hổng nghiêm_trọng .
+Thiệt_hại do virus máy_tính gây ra đối_với người dùng Việt_Nam trong năm 2015 theo ước_tính của Bkav là 8.700 tỷ đồng .
+Con_số này ở mức cao và tăng so với dự_báo 8.500 tỷ đồng của năm 2014 .
+Năm 2015 ghi_nhận hàng_loạt cuộc tấn_công trên diện rộng của mã độc tống_tiền , phần_mềm gián_điệp để đánh_cắp thông_tin và các cuộc tấn_công từ_chối dịch_vụ với mục_đích chính_trị .
+Theo ông Ngô_Tuấn_Anh ,   Phó_chủ_tịch phụ_trách An_ninh mạng Bkav , việc tồn_tại nhiều lỗ_hổng là   nguyên_nhân chính của các vụ lọt thông_tin thẻ_tín_dụng , bí_mật kinh_doanh dẫn đến việc các công_ty , tổ_chức bị xâm_nhập , bị đánh_cắp thông_tin xảy_ra thường_xuyên trong vài năm gần đây .   Hầu_như cơ_quan , doanh_nghiệp nào cũng có website , song việc đảm_bảo an_ninh lại chưa được quan_tâm đúng_mức .
+Chuyên_gia của Bkav cho_biết :   " Trong một dự_án công_nghệ_thông_tin , cần đầu_tư ít_nhất từ 5 đến 10% cho an_ninh mạng , nếu_không , hệ_quả tất_yếu là hệ_thống bị xâm_nhập , bị đánh_cắp dữ_liệu .
+Việc khắc_phục rất tốn_kém và mất nhiều thời_gian " .
+Ông Tuấn_Anh cũng nhận_định : " Với cách_thức dễ_dàng thực_hiện và hiệu_quả cao , chúng_ta sẽ thường_xuyên chứng_kiến các cuộc tấn_công mạng đi kèm các xung_đột , tranh_chấp chính_trị trong thời_gian tới " .
+Trong năm 2015 đã có 62.863 dòng virus máy_tính mới xuất_hiện tại Việt_Nam , 61,7 triệu lượt máy_tính đã bị lây_nhiễm virus .   Bình_quân mỗi người sử_dụng máy_tính tại Việt_Nam đã bị thiệt_hại 1.253.000 đồng .
+Với ít_nhất 6,98 triệu máy_tính , mức thiệt_hại do virus gây ra trong năm lên tới hơn 8.700 tỷ đồng .
+Xem thêm :
+>   Những lỗ_hổng từ tệp văn_bản đe_dọa an_ninh quốc_gia
+>   Hơn 90% router dính lỗ_hổng tại Việt_Nam đến từ Trung_Quốc
+>   Chuyên_gia bảo_mật cảnh_báo khả_năng tin_tặc tiếp_tục tấn_công

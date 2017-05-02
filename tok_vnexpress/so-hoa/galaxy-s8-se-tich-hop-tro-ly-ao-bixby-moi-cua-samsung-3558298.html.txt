@@ -1,0 +1,29 @@
+Galaxy S8 sẽ tích_hợp trợ_lý ảo Bixby mới của Samsung
+Bixby có_thể tổng_hợp dữ_liệu , thói_quen người dùng để đưa ra các gợi_ý cũng_như thực_hiện lệnh phức_tạp hơn so với S_Voice hay Siri .
+Theo Cnet , Samsung sẽ trình_làng trợ_lý ảo hoàn_toàn mới của mình mang tên Bixby .
+Công_nghệ này tích_hợp đầu_tiên trên Galaxy S8 và có_thể là nhiều thiết_bị khác trong tương_lai .
+Bixby là đối_thủ của Siri ( Apple ) , Alexa của Amazon , Google_Assistant và Microsoft_Cortana .
+" Trí thông_minh nhân_tạo là xu_hướng phát_triển tiếp_theo của máy_tính " ,   Injong_Rhee , người đứng đầu bộ_phận nghiên_cứu R& D của Samsung chia_sẻ .
+Thay_vì trả_lời các câu_hỏi một_chiều như " Thời_tiết hôm_nay là gì " , Bixby sẽ giúp người dùng kiểm_soát điện_thoại nhiều hơn .
+" Hãy tìm một bức hình của Sagrada_Familia .
+Sau đó , gửi nó cho Sally " , một câu_lệnh dạng phức_tạp hơn như_vậy sẽ được Bixby xử_lý .
+Samsung đặt mục_tiêu Bixby là giao_diện kết_hợp giữa cảm_ứng và giọng nói .
+" Tất_cả những gì bạn có_thể kiểm_soát bằng thao_tác chạm cũng sẽ kiểm_soát được bằng giọng nói " ,   Rhee tiếp_lời .
+Bixby ban_đầu sẽ chỉ có trong tiếng Anh và tiếng Hàn_Quốc .
+Các ngôn_ngữ khác như Trung_Quốc , Tây_Ban_Nha sẽ có tiếp_theo .
+Trang_chủ của trợ_lý ảo sẽ nằm ở bên trái , cùng khu_vực với Flipboard hiện_tại .
+Máy sẽ hiển_thị các thẻ với những đề_xuất dựa trên thói_quen .
+Ví_dụ người dùng thường gọi cho mẹ vào_khoảng 4h chiều , máy sẽ đưa ra gợi_ý này cho những ngày tiếp_theo .
+Trợ_lý ảo mới trên Galaxy S8 sẽ mang tên Bixby .
+Trợ_lý ảo của Samsung sẽ nhận_diện giọng nói và tìm_kiếm thông_tin qua Internet .
+Máy sẽ kết_hợp với các công_nghệ nhận_dạng hình_ảnh để đưa ra các chỉ_dẫn , gợi_ý mua hàng phù_hợp .
+Hệ_thống này ban_đầu chỉ hoạt_động với khoảng 10 ứng_dụng có sẵn của Samsung .
+Số này bao_gồm bộ sưu_tập ảnh , cuộc_gọi , danh_bạ , tin nhắn , cài_đặt và chưa có gửi email và lịch .
+Hãng sẽ dần cung_cấp các ứng_dụng của bên thứ 3 có_thể điều_khiển qua Bixby .
+Samsung sẽ thiết_kế một nút riêng cho Bixby thay_vì sử_dụng chung với nút Home - điều Apple làm với Siri .
+Hãng cho rằng nút Home hiện_nay đã quá_tải về tính_năng và dễ gây_sự nhầm_lẫn .
+Trong tương_lai , các thiết_bị thông_minh khác cũng sẽ có nút riêng để gọi trợ_lý thông_minh Bixby .
+Hứa_hẹn khá nhiều về trí thông_minh nhân_tạo nhưng Bixby cũng khiến nhiều chuyên_gia công_nghệ hoài_nghi .
+Đây không phải là lần đầu_tiên Samsung phát_triển một trợ_lý giọng nói .
+Năm 2012 , hãng giới_thiệu S_Voice trên Galaxy S3 và chưa đạt được thành_công .
+" Samsung sẽ phải chứng_minh lại mình với Bixby trên Galaxy S8 " ,   nhà_phân_tích   Jan_Dawson nhấn_mạnh với Cnet .

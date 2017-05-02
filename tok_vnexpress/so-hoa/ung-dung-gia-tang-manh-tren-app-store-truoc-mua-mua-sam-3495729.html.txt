@@ -1,0 +1,41 @@
+Ứng_dụng giả tăng mạnh trên App_Store trước mùa mua_sắm
+Hàng trăm ứng_dụng bán_lẻ giả_mạo đã xuất_hiện trong vài tuần gần đây hầu_hết có nguồn_gốc   từ Trung_Quốc .
+Theo   The_New_York_Times ,   các thương_hiệu bị nhái chủ_yếu là các chuỗi bán_lẻ có_tiếng như Dollar_Tree hay Foot_Locker , một_số cửa_hàng bách_hóa lớn như Dillard và Nordstrom , chợ trực_tuyến Zappos và Polyvore , bên_cạnh đó là những nhãn_hiệu hàng cao_cấp như Jimmy_Choo , Christian_Dior hay Salvatore_Ferragamo .
+Ứng_dụng của hãng bán_lẻ giày Foot_Locker bị nhái bởi một công_ty có tên Footlocke_Sports .
+" Chúng_tôi đang nhìn thấy một loạt các ứng_dụng giả_mạo " , Chris_Mason , Giám_đốc điều_hành của Branding_Brand , công_ty chuyên giúp các hãng bán_lẻ xây_dựng và duy_trì ứng_dụng nói .
+Ông cho_biết công_ty liên_tục theo_dõi các ứng_dụng mua_sắm mới và đây là lần đầu_tiên phát_hiện nhiều ứng_dụng giả xuất_hiện trong một khoảng thời_gian ngắn như_vậy .
+Một_vài ứng_dụng tương_đối vô_hại khi chỉ có tác_dụng tạo ra các quảng_cáo gây phiền_nhiễu nhưng số còn lại luôn tiềm_ẩn những rủi_ro nghiêm_trọng khi sử_dụng .
+Theo đó , người dùng có_thể bị lấy cắp thông_tin thẻ_tín_dụng và gặp phải những thiệt_hại đáng_kể về tài_chính .
+Một_số ứng_dụng giả_mạo có_thể chứa phần_mềm độc_hại sẽ ăn_cắp thông_tin cá_nhân , thậm_chí khóa điện_thoại cho_đến khi trả tiền chuộc .
+Có ứng_dụng khuyến_khích người dùng đăng_nhập bằng tài_khoản Facebook để chiếm lấy các thông_tin cá_nhân nhạy_cảm .
+Các ứng_dụng lừa_đảo hầu_hết đến có nguồn_gốc từ Trung_Quốc , đã vượt qua hệ_thống kiểm_duyệt của Apple để xuất_hiện trên chợ ứng_dụng .
+App_Store lâu_nay vẫn được coi là một nền_tảng bảo_mật , luôn kiểm_duyệt gắt_gao các ứng_dụng trước khi cho phát_hành .
+Tuy_nhiên , mỗi ngày có hàng nghìn ứng_dụng được gửi đến và Apple vẫn tập_trung vào việc ngăn_chặn các phần_mềm độc_hại hơn là kiểm_tra xem tên gọi của chúng có xâm_phạm tới thương_hiệu nào_hay không .
+Hồi tháng 9 , Apple cũng thực_hiện một chiến_dịch rà_soát lại tất_cả 2 triệu ứng_dụng trên App_Store và loại_bỏ " các ứng_dụng lâu không hoạt_động , không làm theo hướng_dẫn đánh_giá hoặc đã lỗi_thời " .
+Bất_chấp những nỗ_lực của Apple , ứng_dụng giả vẫn xuất_hiện mới hàng ngày .
+Chúng lách luật bằng cách thay_đổi nội_dung sau khi đã được phê_duyệt .
+Hoặc ứng_dụng được thay_đổi tên và thông_tin , gửi lại lên hệ_thống ngay sau khi bị phát_hiện .
+Tuần trước , ứng_dụng giả_mạo hãng bán_lẻ Overstock bị Apple gỡ bỏ , nhưng chỉ một ngày_sau , một sản_phẩm " fake " tương_tự xuất_hiện trên App_Store với tên công_ty mới là Overstock_Inc .
+Đơn_vị phát_triển ứng_dụng giả này là Cloaker_Apps , một công_ty tại Trung_Quốc .
+Jack_Lin , tự_xưng là người đứng đầu của Cloaker , trả_lời phỏng_vấn qua điện_thoại cho_biết công_ty của ông cung_cấp công_nghệ back - end cho hàng nghìn ứng_dụng nhưng không_bao_giờ điều_tra khách_hàng .
+Công_ty này tính phí 20.000 nhân_dân_tệ ( khoảng 3.000 USD ) cho một ứng_dụng được viết bằng tiếng Anh .
+" Chúng_tôi hy_vọng tất_cả khách_hàng là người bán chính hãng " , ông nói .
+" Nếu họ đang sử_dụng những thương_hiệu này , chúng_tôi cần một_số loại giấy_phép , sau đó sẽ cung_cấp dịch_vụ " .
+Tuy_nhiên , thông_tin về Cloaker cũng có nhiều điều đáng ngờ .
+Trang_web của công_ty có nhiều nội_dung không rõ_ràng , chẳng_hạn ghi vị_trí của trụ_sở chính nằm ngay giữa khuôn_viên của tập_đoàn Facebook tại Menlo_Park , California , Mỹ .
+Ông Lin lúc đầu khẳng_định chỉ có văn_phòng duy_nhất tại Trung_Quốc và Nhật_Bản .
+Khi được hỏi về trụ_sở ở California , ông này tuyên_bố có " hàng chục lao_động " cũng đang làm_việc tại đó .
+Ứng dựng giả_mạo thương   hiệu thời_trang Michael_Kors .
+Trung_Quốc hiện là nguồn cung ứng_dụng giả_mạo lớn nhất , theo các chuyên_gia an_ninh .
+Các ứng_dụng giả hầu_hết không có đánh_giá , không có thông_tin về các phiên_bản trước đó , thiếu số điện_thoại hỗ_trợ ...
+Dữ_liệu từ Apptopia cho thấy rằng một_số ứng_dụng giả_mạo đã được tải về hàng nghìn lần , dù chưa rõ có bao_nhiêu người đã thực_sự sử_dụng chúng .
+Theo Chris_Mason , người tiêu_dùng muốn mua_sắm trực_tuyến và họ thường tìm_kiếm các ứng_dụng theo tên các thương_hiệu yêu_thích .
+Và các hãng bán_lẻ đang bị giả_mạo nhiều nhất_là những đơn_vị không có ứng_dụng nào , điển_hình Dollar_Tree hay Dillard .
+Nhưng các công_ty có ứng_dụng cũng không tránh được việc_làm giả bởi những kẻ tạo ra chúng hy_vọng sẽ tận_dụng được sự nhầm_lẫn của người tiêu_dùng .
+Hãng bán_lẻ giày Foot_Locker_Inc .
+có ba ứng_dụng cho i Phone và đã bị nhái bởi một công_ty có tên Footlocke_Sport .
+Tương_tự , chuỗi siêu_thị Kroger_Company có tới 20 ứng_dụng cho i Phone nhưng vẫn bị mạo_danh bởi một đơn_vị tự_xưng là The_Kroger_Inc . , với 19 ứng_dụng giả .
+Một_số ứng_dụng giả thậm_chí bỏ tiền để sử_dụng quảng_cáo tìm_kiếm của Apple nhằm xuất_hiện phía trên cùng trong màn_hình kết_quả khi khách_hàng tìm_kiếm các thương_hiệu cụ_thể .
+Jon_Clay , quản_lý cấp cao tại công_ty an_ninh mạng Trend_Micro , cho_biết lâu_nay trên App_Store các ứng_dụng độc_hại hay giả_mạo được kiểm_soát chặt_chẽ hơn nền_tảng Android hoặc các cửa_hàng ứng_dụng của bên thứ_ba .
+Nhưng mọi thứ đang dần thay_đổi khi kẻ xấu đã bắt_đầu biết cách tận_dụng các trào_lưu đang nổi để đánh_lừa người dùng .
+Điển_hình khi game Pokemon_Go sau khi được phát_hành tại Mỹ , một loạt các ứng_dụng i Phone giả liên_quan tới trò_chơi đã xuất_hiện , thậm_chí xuất_hiện ở các quốc_gia mà game còn chưa ra_mắt .

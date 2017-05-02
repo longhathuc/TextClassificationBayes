@@ -1,0 +1,21 @@
+Phát_hiện tài_khoản Facebook đã bị hack và cách khắc_phục
+Để kiểm_tra tài_khoản Facebook của mình đã bị tấn_công hay chưa , người dùng có_thể sử_dụng tính_năng dò địa_điểm đăng_nhập được tích_hợp sẵn .
+Trong thời_gian qua , không ít người dùng Facebook " than trời " vì tài_khoản của mình bị đánh_cắp , hoặc được thông_báo nhập vào mã đăng_nhập , xác_nhận đăng_nhập ( nếu kích_hoạt bảo_mật 2 lớp ) dù người đó không hề thực_hiện thao_tác đó trên bất_kỳ smartphone hay máy_tính nào .
+Trong trường_hợp tài_khoản bị đánh_cắp , kẻ xấu có_thể không trả lại tài_khoản , hoặc đòi một khoản tiền chuộc .
+Một người dùng   đang cố_gắng " đòi " lại tài_khoản Facebook của mình bị hack .
+Nhưng thông_thường , tài_khoản sau khi bị đánh_cắp sẽ bị kẻ xấu dùng vào các mục_đích không chính_đáng , như thu_thập thông_tin cá_nhân , đánh_cắp các nội_dung , ảnh và video ở chế_độ riêng_tư … Nhưng phổ_biến và nguy_hiểm nhất vẫn là chat với người quen để " nhờ " nạp thẻ điện_thoại hoặc lừa_đảo chiếm_đoạt những tài_sản quý_giá khác .
+Nếu nghi_ngờ tài_khoản Facebook của mình bị tấn_công , người dùng có_thể sử_dụng tính_năng tra_cứu địa_điểm đăng_nhập được tích_hợp sẵn .
+Để tra_cứu , người dùng nhấn vào nút hình mũi_tên quay xuống > chọn Settings > Security > Where_You ' re Logged_In .
+Tại đây , Facebook sẽ hiển_thị ra những danh_sách địa_điểm người dùng từng đăng_nhập .
+Nếu thấy địa_điểm nào đáng ngờ , đích_thị tài_khoản đã bị xâm_nhập .
+Cách tra_cứu địa_điểm từng đăng_nhập Facebook
+Bên_cạnh đó , có_thể phát_hiện tài_khoản của mình bị xâm_nhập hay không thông_qua một_số cách khác , như thông_tin cá_nhân ( tên , ngày_sinh , email , mật_khẩu ) bị thay_đổi , bị gửi lời mời kết_bạn đến những người bạn không quen_biết , tin nhắn được gửi đến bạn của bạn nhưng bạn không phải là người soạn chúng hoặc trạng_thái ( status ) được đăng lên tường nhưng bạn không phải là người viết chúng .
+Nếu nghi_ngờ tài_khoản của mình đã bị chiếm_dụng , người dùng nên thay_đổi mật_khẩu lập_tức .
+Nếu chưa kích_hoạt bảo_mật 2 lớp , người dùng nên kích_hoạt ngay .
+Đồng_thời , nên sử_dụng tính_năng thông_báo đăng_nhập ( Login_Alerts ) nhằm nhận được thông_báo nếu như_ai đó đăng_nhập vào Facebook của bạn .
+Bảo_vệ 2 lớp cho tài_khoản Facebook
+Ứng_dụng quản_lý mật_khẩu , ví_dụ như LassPass , Sticky_Password , 1Password và Dashlane có_thể giúp bạn đăng_nhập chỉ với thao_tác duy_nhất và mật_khẩu mạnh_mẽ mà không cần phải nhớ chúng .
+Ngoài_ra , bạn có_thể kích_hoạt Your_Trusted_Contacts - tính_năng cho_phép người dùng thêm vào các thành_viên trong gia_đình , hoặc bạn_bè thân_thiết .
+Nếu tài_khoản bị đánh_cắp , bạn vẫn có_thể nhờ họ xác_thực để lấy lại .
+Kích_hoạt tính_năng Your_Trusted_Contacts
+Bảo_Lâm

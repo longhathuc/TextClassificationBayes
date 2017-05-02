@@ -1,0 +1,10 @@
+Đáp_án bài_toán nhặt đậu thách_thức suy_luận
+Nếu tìm ra chiến_thuật và áp_dụng trong mọi lần lấy , một trong hai người sẽ chắc_chắn chiến_thắng .
+Ngược_lại , nếu lấy bất_kỳ mà không tính_toán trước , phần thắng sẽ không được phân_định cho_đến lượt cuối_cùng .
+Đề_bài :
+Alice và Bob chơi trò_chơi lấy hạt đậu với 2009 hạt đậu trên bàn .
+Ở mỗi lượt , Alice và Bob có_thể lấy đi một , hai , hoặc ba hạt đâu .
+Theo thứ_tự , Alice sẽ lấy đậu đầu_tiên rồi đến Bob và lại quay lại Alice , cứ tiếp_tục luân_phiên như_vậy đến khi số hạt đậu trên bàn hết .
+Người cầm những hạt đậu cuối_cùng sẽ chiến_thắng .
+Bạn nghĩ ai có_thể chiến_thắng trò_chơi này và chiến_thắng bằng cách nào ?
+> > Bài_toán nhặt đậu thách_thức suy_luận của bạn

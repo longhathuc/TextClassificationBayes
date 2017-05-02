@@ -1,0 +1,15 @@
+Google_Daydream - nền_tảng thực_tế ảo dựa trên Android N
+Khi lắp điện_thoại có hỗ_trợ Daydream vào kính thực_tế ảo , thiết_bị sẽ được chuyển sang chế_độ riêng tối_ưu cho trải_nghiệm .
+Tại sự_kiện I / O 2016 , Google không trình_làng chiếc kính thực_tế ảo hoạt_động độc_lập như một_số tin_đồn .
+Thay vào đó , công_ty công_nghệ Mỹ giới_thiệu nền_tảng riêng cho môi_trường VR với tên gọi : Daydream .
+Nền_tảng này được xây_dựng dựa trên Android N và sẽ tương_thích với một_số điện_thoại chạy hệ_điều_hành mới .
+Giao_diện Daydream .
+Khi_Daydream được kích_hoạt , nó sẽ chuyển việc sử_dụng một chiếc smartphone theo cách thông_thường sang chế_độ tối_ưu cho thực_tế ảo .
+Lúc này , người dùng sẽ tương_tác với những phần_mềm VR , đồng_thời các ứng_dụng như YouTube , Play_Store , Play_Movie hay Google_Photo ... sẽ được chuyển sang chế_độ tương_ứng .
+Do sử_dụng nhiều cảm_biến và đòi_hỏi khả_năng xử_lý mạnh_mẽ hơn , chỉ những chiếc smartphone đời_mới mới hỗ_trợ Daydream .
+Google cho_biết , các đối_tác tham_gia sản_xuất thiết_bị bao_gồm Samsung , HTC , Huawei , LG , ZTE , Asus , Alcatel , Xiaomi và sẽ tiếp_tục mở_rộng .
+Google còn hợp_tác phát_triển nội_dung cho Daydream với Netflix , Ubisoft hay Electronics_Arts .
+Trong chương_trình , Google đã mang đến một chiếc kính tham_chiếu kèm theo tay_cầm điều_khiển .
+Các nhà_sản_xuất có_thể dựa trên thiết_bị này để tung ra sản_phẩm thương_mại .
+Bộ thiết_bị hỗ_trợ Daydream tham_chiếu của Google .
+Chơi game VR với tay_cầm của Google .

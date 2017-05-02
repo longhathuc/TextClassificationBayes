@@ -1,0 +1,16 @@
+Đáp_án câu_đố tính cân nặng nổi_tiếng của tác_giả Mỹ
+Câu_đố của tác_giả Samuel_Loyd tưởng đơn_giản nhưng đã thực_sự làm_khó nhiều người .
+Bạn sẽ không_thể đưa ra câu trả_lời đúng nếu_không phân_tích kỹ các dữ_kiện được đưa ra .
+Đề_bài :
+5 nữ_sinh được cân theo cặp tạo thành 10 lượt cân với số cân nặng như sau :
+129 pounds
+125 pounds
+124 pounds
+123 pounds
+122 pounds
+121 pounds
+120 pounds
+118 pounds
+116 pounds
+114 pounds
+Nếu cân riêng , mỗi nữ_sinh nặng bao_nhiêu pound ?

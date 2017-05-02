@@ -1,0 +1,13 @@
+MacBook 2017 sẽ có RAM tới 32 GB
+Thế_hệ máy_tính_xách_tay mới của Apple sẽ có bộ_nhớ RAM tối_đa gấp đôi hiện_nay , nâng_cấp lên chip Intel_Kaby_Lake .
+Có_giá bán cao nhưng MacBook thế_hệ hiện_nay chỉ hỗ_trợ RAM 16 GB mà Apple cho rằng để tiết_kiệm pin và tối_ưu nhất với chip Intel_Skylake .
+Tuy_nhiên , điều này có_thể thay_đổi trong sản_phẩm đời 2017 , khi Apple trang_bị bộ_xử_lý Kaby_Lake mới của Intel .
+MacBook Pro thế_hệ 2017 sẽ có tùy chọn RAM 32 GB .
+Theo nhà_phân_tích Ming-Chi Kuo thuộc KGI , Apple đã lên kế_hoạch làm mới dòng MacBook trong năm 2017 với chip thế_hệ thứ 7 của Intel , cho_phép RAM tối_đa lên đến 32 GB .
+Nó sẽ là " sản_phẩm được thiết_kế lại đáng_giá nhất trong năm nay " , Kuo nói .
+Laptop của Apple sẽ đáp_ứng những người dùng chuyên_nghiệp , nhóm khách_hàng có nhu_cầu dùng nhiều hơn 16 GB_RAM , nhưng vẫn cần một cỗ máy di_động có thời_lượng pin tốt .
+Chip_Kaby_Lake sẽ dùng trên dòng MacBook Pro và cả MacBook 12 inch .
+Tuy_nhiên , tùy chọn RAM 32 GB sẽ chỉ xuất_hiện trên phiên_bản cao_cấp 15 inch và dự_kiến sản_xuất hàng_loạt từ quý IV .
+Trong khi đó những máy 13 inch và MacBook 12 inch thì RAM lớn nhất chỉ là 16 GB , sẽ bán trong quý III / 2017 .
+Ngoài_ra , Apple còn trang_bị chip mới do chính hãng phát_triển trên MacBook mới .
+Đây sẽ là chip thứ cấp , tồn_tại song_song với bộ_xử_lý Kaby_Lake , nhưng hoạt_động khi máy ở chế_độ ngủ_đông nhằm tiết_kiệm pin nhưng vẫn xử_lý được một_số tiến_trình cơ_bản như đồng_bộ mail , trao_đổi dữ_liệu nền .

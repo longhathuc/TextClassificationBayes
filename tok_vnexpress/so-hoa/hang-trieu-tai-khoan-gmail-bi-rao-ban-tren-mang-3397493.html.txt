@@ -1,0 +1,14 @@
+Hàng triệu tài_khoản Gmail bị rao bán trên mạng
+Khoảng 24 triệu thông_tin đăng_nhập Gmail và 40 triệu tài_khoản Yahoo_Mail được giới tội_phạm ngầm của Nga giao_dịch tại các chợ_đen trên Internet .
+Theo Reuters , khoảng 272,3 triệu tài_khoản email đã bị hacker đánh_cắp thông_tin rồi mang trao_đổi trên mạng .
+Trong số này chủ_yếu là Mail.ru -   dịch_vụ thư_điện_tử phổ_biến tại Nga , phần còn lại là email cung_cấp bởi Google , Yahoo và Microsoft .
+Hàng triệu tài_khoản email bị rao bán trên mạng .
+Ban_đầu , nhóm chuyên_gia an_ninh   Hold_Security   phát_hiện hơn 1,17 tỷ tài_khoản bị đánh_cắp .
+Tiến_hành loại_bỏ các bản trùng_lặp , họ tìm thấy 57 triệu tài_khoản Mail.ru , khoảng 40 triệu đến từ Yahoo_Mail , 33 triệu thông_tin người dùng Microsoft_Hotmail và 24 triệu tài_khoản Gmail .
+Sau khi nhận được thông_báo , Mail.ru cho_biết đang kiểm_tra các tài_khoản và khi có đủ thông_tin sẽ đưa ra cảnh_báo cho những người dùng bị ảnh_hưởng .
+Trong khi đó , Microsoft nói họ có các biện_pháp an_ninh để phát_hiện tài_khoản bị xâm_nhập bất_hợp_pháp và sẽ giúp khách_hàng lấy lại quyền truy_cập .
+Yahoo và Google không đưa ra bất_cứ bình_luận nào .
+Theo Phone Arena , để bảo_vệ tài_khoản email , người dùng nên thường_xuyên thay_đổi mật_khẩu .
+Ngoài_ra , có_thể tăng_cường bảo_mật bằng cách thiết_lập xác_thực hai bước .
+Xem thêm :
+> Hack tài_khoản Gmail , Yahoo với giá 129 USD

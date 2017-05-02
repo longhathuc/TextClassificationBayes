@@ -1,0 +1,43 @@
+10 mẹo giúp website thân_thiện với thiết_bị di_động
+Website của bạn sẽ lỗi_thời nếu_không thân_thiện với các thiết_bị di_động khi ngày_càng nhiều người dùng Internet qua smatphone , máy_tính bảng .
+Hàng triệu người dùng smartphone không_chỉ gửi tin nhắn , soạn email mà_còn lên mạng xã_hội , đọc tin_tức và mua_sắm .
+Vì_vậy , nếu website không tối_ưu_hóa việc ghé thăm của các thiết_bị di_động , bạn có_thể để lỡ một lượng doanh_thu tiềm_năng đáng_kể .
+Dưới đây là 10 bí_quyết giúp website thương_mại_điện_tử thân_thiện hơn với các thiết_bị di_động .
+Sử_dụng thiết_kế đáp_ứng ( responsive design )
+Thiết_kế này giúp website có_thể tự_động thay_đổi cách trình_bày luôn phù_hợp cho nhiều kích_thước màn_hình khác_nhau , từ lớn ( máy_tính_để_bàn PC ) đến nhỏ ( iPAd hay smartphone ) .
+Người dùng không mất_công căn_chỉnh , phóng , trượt từ trái sang phải để xem hết nội_dung của trang mà các nội_dung vẫn đảm_bảo hiện lên đầy_đủ từ phần chữ ( text ) đến hình_ảnh , kích_thước video .
+Thương_mại_điện_tử qua các thiết_bị di_động ngày_càng phổ_biến .
+Luôn nhớ nguyên_tắc có_thể chỉnh mọi thứ với một ngón_tay
+" Hãy đảm bảm trang của bạn hoàn_toàn có_thể chuyển_hướng với một ngón_tay cái mà không cần những động_tác ' pinch ' ( nhúm , vuốt hai ngón_tay trên màn_hình để thu nhỏ , phóng to ) " , CEO công_ty marketing Elite SEM Marc_Weisinger cho_biết .
+Đây là một trong những bí_quyết quan_trọng nhất để đánh_giá xem website của bạn có thực_sự thân_thiện với người sử_dụng điện_thoại_di_động hay không .
+Phần_lớn các thiết_bị di_động hiện_nay có màn_hình cảm_ứng .
+Vì_thế , những nút chuyển_hướng , các nội_dung lựa_chọn trên thanh menu nên đủ lớn để có_thể dùng ngón_tay bấm chọn dễ_dàng , thay_vì khiến người dùng mất_công phóng to , kéo trượt để chọn được trang đến tiếp_theo .
+" Đầu ngón_tay người trưởng_thành thường có kích_thước 15-20mm , vì_vậy những nút lựa_chọn trên màn_hình nên có kích_cỡ phù_hợp với người dùng " , giám_đốc sáng_tạo Tập_đoàn tư_vấn Lyons cho_biết .
+Thiết_kế đơn_giản
+Hãy nhớ rằng phong_cách thiết_kế đơn_giản và tập_trung mới có_thể giúp website đi đường dài .
+Một công_ty chỉ có vài giây để tạo ấn_tượng với người sử_dụng .
+Do_đó , bạn nên làm mọi thứ đơn_giản , đặc_biệt là khi hiển_thị trên các thiết_bị kích_thước nhỏ như smartphone .
+Nội_dung ngắn_gọn nhưng thu_hút
+Nhiều người thường sa_đà vào các bài viết , lời dẫn trên website để sản_phẩm của mình thu_hút mà không biết rằng màn_hình của smartphone quá nhỏ để người dùng đọc hết những nội_dung này .
+Vì_vậy , hãy sử_dụng ít từ_ngữ .
+Bên_cạnh đó , người dùng smartphone thường có thói_quen trượt dọc bài để đọc lướt qua nội_dung nên những câu chữ dài_dòng có_thể " phản chủ " , khiến toàn trang trông rối mắt , dàn_trải và kém hấp_dẫn .
+Những biểu_tượng này " nói " được rất nhiều thứ .
+Luôn nhớ các biểu_tượng giá_trị hơn hàng nghìn từ_ngữ
+Một trong những cách giúp website trông đỡ rối mắt chính là sử_dụng các biểu_tượng thay cho từ_ngữ diễn_đạt , chẳng_hạn biểu_tượng chiếc điện_thoại , các mạng xã_hội Facebook , Twitter … đều có_thể dễ_dàng thể_hiện bằng những hình_ảnh đơn_giản , dễ nhận_biết và rõ_ràng , đẹp_mắt hơn chữ .
+Sử_dụng hình_ảnh , video kích_thước nhỏ cho trình_duyệt di_động
+Tốc_độ Internet trên di_động thường chậm hơn so với các thiết_bị khác , đặc_biệt khi kết_nối qua 3G .
+Vì_thế , đừng khiến người dùng phải chờ_đợi lâu để tải các hình_ảnh , video trên trang mà hãy nén giảm lưu_lượng và sử_dụng các kỹ_thuật hỗ_trợ khác để khách_hàng của bạn có_thể thoải_mái lướt web , xem nội_dung một_cách trôi_chảy .
+Đặt thông_tin liên_lạc ở vị_trí dễ nhận thấy
+Số điện_thoại hotline , địa_chỉ và những thông_tin liên_lạc khác nên để ở vị_trí dễ nhận thấy bởi người dùng thường tìm_kiếm những thông_tin này sau khi ưng_ý một sản_phẩm .
+Họ muốn biết hệ_thống cửa_hàng , giờ làm_việc , số điện_thoại đặt_hàng , thậm_chí cả gợi_ý cửa_hàng gần đây nhất .
+Chèn video một_cách hợp_lý
+Video là thứ phải có với một trình_duyệt web , đặc_biệt là ở các thiết_bị di_động bởi người dùng ưa_thích xem video trên các thiết_bị này nhiều gấp 3 lần so với sử_dụng máy_tính truyền_thống .
+Tuy_nhiên , hãy đảm_bảo rằng video chạy được trên nền_tảng di_động , có dung_lượng vừa_phải , tránh hiện_tượng bị giật , làm ảnh_hưởng đến trải_nghiệm chung .
+Cân_nhắc chức_năng định_vị
+Các thiết_bị di_động thường có khả_năng định_vị mà bạn có_thể tận_dụng để cung_cấp dịch_vụ hiệu_quả hơn .
+Doanh_nghiệp có_thể sử_dụng yếu_tố này để giúp người dùng tìm cửa_hàng gần nhất , hướng_dẫn tuyến đường phù_hợp , thông_báo mức phí vận_chuyển , từ đó gia_tăng chất_lượng tương_tác với người dùng .
+Đảm_bảo các mẫu điền thông_tin ngắn_gọn
+Hãy yêu_cầu khách_hàng điền ít thông_tin nhất có_thể nếu website của bạn tổng_hợp được một_số phần .
+Việc gõ chữ trên thiết_bị di_động không thoải_mái như bàn_phím máy_tính .
+Chẳng_hạn , nếu thiết_bị di_động thường cung_cấp vị_trí thì mẫu đăng_ký thông_tin có_thể tự hoàn_thiện các phần như quốc_gia , tỉnh_thành và người dùng không mất_công gõ vào những ô này , trừ khi có thay_đổi đặc_biệt nào_đó .
+Thu_Ngân

@@ -1,0 +1,29 @@
+Nam_sinh 16 tuổi tự viết phần_mềm giải toán trung_học
+Để giải_quyết việc học toán chậm hơn các bạn cùng lớp , Amit_Kalra đã tự viết phần_mềm giải tất_cả các bài_tập .
+Đầu năm lớp 10 , Amit_Kalra chuyển đến một ngôi trường mới tại thành_phố Union_City , ( bang California , Mỹ ) , nơi cậu phải học lại môn đại_số vốn đã hoàn_tất ở những lớp dưới .
+Vì_thế , Kalra đã thuyết_phục mẹ cho chuyển lại trường trước_đây để khỏi phải học lại nền_tảng cũ , tiếp_thu kiến_thức mới .
+Nhưng điều không ngờ là khi vào học trường cũ , giáo_trình môn hình_học đã dạy quá nửa và Kalra khá lơ_mơ về môn này nên bị mất một phần kiến_thức .
+" Em gặp nhiều khó_khăn , chẳng quen với bạn nào trong lớp , lúc_nào cũng thui_thủi một_mình " , Kalra chia_sẻ với phóng_viên tờ Business_Insider .
+Phần_lớn những đứa trẻ rơi vào trường_hợp tương_tự thường có xu_hướng bỏ_cuộc do tự_ti , phải học những khóa bổ_túc hay ở bị ở lại lớp .
+Tuy_nhiên , Kalra không chịu_thua mà quyết_định sẽ tự viết nên một phần_mềm giải_quyết tất_cả những khó_khăn trong việc giải bài_tập toán của mình .
+Vào tháng 5/2015 , cậu bắt_tay vào nghiên_cứu phát_triển phần_mềm trên nền_tảng hệ_điều_hành i OS và đặt tên cho nó là 6284 Calc .
+Ứng_dụng này có khả_năng giải các bài_toán đại_số , hình_học , giải_tích và nhiều môn khác .
+Người dùng nhập các giá_trị của đề_bài vào các ô công_thức có sẵn và ứng_dụng sẽ tự tính_toán để cho ra kết_quả chính_xác .
+Để mua thêm một tính_năng giải toán trong ứng_dụng , người dùng sẽ phải bỏ ra khoảng 1,99 USD .
+" Ứng_dụng này giúp học_sinh giảm tải thời_gian làm bài_tập về nhà .
+Chỉ cần dành ra 5 phút mỗi ngày là bạn đã hiểu được bài_toán " , Kalra trả_lời khi nhận được câu_hỏi liệu 6284 Calc sẽ khiến cho học_sinh lười_nhác hơn hay không .
+Trước khi phát_triển 6284 Calc , Kalra không có nhiều kiến_thức về mã_hóa i OS , chỉ mới thực_hiện một_số thí_nghiệm nhỏ như phần_mềm quay số ngẫu_nhiên cho cha mình .
+Em mày_mò kiến_thức trên mạng và học theo để tự viết các đoạn mã .
+Chỉ mất khoảng 4 tháng , Kalra đã hoàn_thành ứng_dụng và đặt tên là 6284 Calc ( một_cách chơi_chữ vì 6284 là các phím trên bàn_phím điện_thoại tương_ứng với những chữ_cái ghép lại thành từ Math - toán_học ) .
+" Mỗi lần học những bài mới trên lớp , lập_tức em sẽ dùng ứng_dụng để giải toán thay_vì chờ về làm bài_tập ở nhà " , cậu_bé nói .
+Kể từ khi phát_hành , ứng_dụng 6284 Calc đã đạt khoảng 30.000 lượt tải , mặc_dù Kalra không hề thực_hiện việc tiếp_thị mà chỉ mời các bạn_bè trong lớp dùng thử .
+Thành_công của 6284 Calc cũng gây_sự chú_ý cho Apple và hãng đã mời Kalra đến tham_dự hội_nghị Worldwide_Developer_Conference vào đầu năm nay .
+Đam_mê lập_trình của Kalra một phần tạo nên từ những trò_chơi video thuở nhỏ và trò mà cậu mê nhất_là Roblox - một game trực_tuyến nhiều người cùng chơi để khám_phá thế_giới ảo .
+Cũng_như các bậc phụ_huynh khác , bố_mẹ cậu rất lo_lắng khi con mình chơi game cả ngày .
+Nhưng khi đó dù mới chỉ 12 tuổi , Kalra nhận thấy mình có_thể tự xây_dựng một thế_giới trò_chơi riêng ngay bên trong Roblox nên đã tải về giáo_trình online để nghiên_cứu .
+" Sở_thích lập_trình bắt_nguồn từ đó , khởi_đầu từ việc em muốn tạo một trò_chơi cho riêng mình " , Kalra vui_vẻ nói .
+Mất khoảng 6 tháng , cậu đã xây xong thành_phố Parkour , một không_gian đô_thị mở_rộng lớn nơi người chơi có_thể nhảy , nhào_lộn hay thực_hiện nhiều động_tác di_chuyển khác .
+Mùa_hè này , thành_phố đã chạm mốc một_triệu lượt tham_quan và lọt vào danh_sách xếp_hạng cao nhất của Roblox .
+Trao_đổi với phóng_viên tờ Business_Insider , Kalra cho_biết chưa có ý_định vào đại_học .
+Mục_tiêu hiện_tại của cậu là tập_trung hoàn_thiện 6284 Calc và tiếp_tục nghiên_cứu những phần_mềm thú_vị mới .
+Minh_Trí

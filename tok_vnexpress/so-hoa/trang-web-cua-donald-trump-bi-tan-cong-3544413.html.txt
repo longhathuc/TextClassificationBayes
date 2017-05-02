@@ -1,0 +1,12 @@
+Trang_web của Donald_Trump bị tấn_công
+Website của Tổng_thống Mỹ bị hacker xâm_nhập , để lại dấu_hiệu nói tin_tặc thực_hiện đến từ Iraq .
+Giao_diện website của Tổng_thống Mỹ   Donald_Trump khi bị hack .
+Ảnh :   Arstechnica .
+Theo Arstechnica , hacker tự_xưng " Pro _ Mast3r " đã tấn_công hệ_thống máy_chủ website của Tổng_thống Mỹ_Donald_Trump hôm_qua .
+Tại địa_chỉ secure 2.donaldjtrump.com xuất_hiện hình_ảnh một người đội mũ_phớt và dòng thông_điệp " Kẻ tấn_công chính_phủ .
+Không có gì là không_thể .
+Hòa_bình từ Iraq " .
+Mã nguồn của trang trên bao_gồm một tập_tin JavaScript thuộc một tài_khoản Google_Code không tồn_tại có liên_quan đến ít_nhất ba vụ hack khác , tuy_nhiên nhận_định ban_đầu thì vụ tấn_công vô_hại .
+Cũng không có nhiều thông_tin về hacker tên " Pro _ Mast3r " .
+Rạng sáng nay , máy_chủ website đã tạm đóng_cửa , có_thể phục_vụ cho việc khắc_phục sự_cố .
+Hiện_tại , trang_bị hack đã được gỡ bỏ , website   donaldjtrump.com đã mở để truy_cập trở_lại , nhưng bật chế_độ   captcha ,   yêu_cầu người dùng xác_nhận không phải người_máy .

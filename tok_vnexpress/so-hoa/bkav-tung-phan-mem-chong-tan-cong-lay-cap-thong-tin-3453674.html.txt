@@ -1,0 +1,21 @@
+BKAV tung phần_mềm chống tấn_công , lấy cắp thông_tin
+Công_nghệ Anti_Leak được BKAV tung ra sau vụ tấn_công hệ_thống mạng hàng_không và nhiều trường_hợp bị kiểm_soát máy_tính , lấy cắp thông_tin cá_nhân .
+Theo nhận_định của Bkav , để phát_tán , hacker gửi e - mail đính kèm các file văn_bản như   Word , Excel , PDF , PowerPoint ...   có chứa virus dạng spyware .
+Do nội_dung hấp_dẫn và file văn_bản vốn được cho là an_toàn , hầu_hết người nhận đã mở file đính kèm mà không xem_xét kỹ .
+Phần_mềm gián_điệp giúp hacker kiểm_soát , điều_khiển máy_tính nạn_nhân từ xa cũng_như nhận lệnh tải thêm các virus khác về máy để ghi lại thao_tác bàn_phím , chụp màn_hình , lấy cắp dữ_liệu .
+Trước đó , chiều 29/7 , website của hãng Hàng_không Việt_Nam bị hacker tấn_công và phát_tán thông_tin của hơn 400.000 thành_viên .
+Theo Hiệp hội An_toàn thông_tin Việt_Nam ( VNISA ) , cuộc tấn_công vào hệ_thống của Vietnam_Airlines là dạng tấn_công có chủ_đích .
+Có dấu_hiệu cho thấy có_thể hệ_thống đã bị tin_tặc xâm_nhập từ giữa năm 2014 .
+Kết_quả phân_tích của Bkav cho thấy mã độc được dùng để tấn_công hệ_thống thông_tin của Vietnam_Airlines cũng xuất_hiện tại rất nhiều cơ_quan , doanh_nghiệp khác .
+Nhằm hỗ_trợ người sử_dụng chống lại nguy_cơ từ các phần_mềm tấn_công có chủ_đích , tập_đoàn Bkav cho ra   phiên_bản Bkav 2016 trang_bị công_nghệ chống lộ lọt thông_tin Anti_Leak , bao_gồm các công_nghệ thông_minh chống phần_mềm gián_điệp như Safe_Run , Anti_Keylogger , HIPS ...
+Trong đó , công_nghệ Thực_thi an_toàn Safe_Run giúp người sử_dụng mở file trong môi_trường cách_ly an_toàn .
+Công_nghệ Anti_Keylogger chống lại các hành_vi theo_dõi thao_tác bàn_phím , chụp màn_hình , chèn mã thực_thi vào tiến_trình đang chạy và lấy cắp thông_tin trong clipboard , lấy dữ_liệu ...
+Hệ_thống đánh chặn theo hành_vi HIPS giúp phát_hiện và ngăn hành_vi thu_thập thông_tin máy_tính hay điều_khiển máy_tính từ xa .
+Gói phần_mềm diệt virus Bkav 2016 .
+Ông Vũ_Ngọc_Sơn , Phó_chủ_tịch phụ_trách mảng Chống mã độc ( Anti_Malware ) của Bkav , cho_biết : " Các cuộc tấn_công bằng phần_mềm gián_điệp luôn để lại hậu_quả khôn_lường .
+Ngoài việc lấy cắp thông_tin , loại mã độc nằm_vùng còn có_thể giúp hacker thực_hiện hành_vi phá_hoại từ bên trong hệ_thống " .
+Trong khi đó , một_số chuyên_gia an_ninh mạng cũng nhận_định , những sự_cố bảo_mật mới_đây như hacker khống_chế hệ_thống thông_tin của Vietnam_Airlines hay khách_hàng của ngân_hàng Vietcombank bị mất hàng trăm triệu đồng do bị lừa đánh_cắp thông_tin tài_khoản cho thấy bất_cứ ai cũng có_thể trở_thành nạn_nhân của các cuộc tấn_công có chủ_đích .
+Người dùng máy_tính nên chủ_động bảo_vệ mình bằng cách thận_trọng khi gặp một đường link lạ , tránh tải phần_mềm không rõ nguồn_gốc , đặt mật_khẩu hai lớp cho các tài_khoản trực_tuyến và cài phần_mềm bảo_mật hỗ_trợ tính_năng chống lộ lọt thông_tin .
+Bkav 2016 cũng được nâng_cấp công_nghệ chống mã độc mã_hóa dữ_liệu tống_tiền ( ransomware ) và phần_mềm quảng_cáo ( adware ) không cần mẫu nhận_diện .
+Gói sản_phẩm có_giá 299.000 đồng cho một năm sử_dụng .
+Khách_hàng có bản_quyền sẽ được nâng_cấp tự_động lên bản mới mà không mất phí từ hôm_nay ( 17/8 ) .

@@ -1,0 +1,4 @@
+' Ảo_thuật ' xoay xô nước 360 độ không đổ
+Xô chứa nước nhưng không hề đổ ra ngoài kể_cả khi úp ngược đỉnh đầu là một trong những màn " ảo_thuật " bạn có_thể biểu_diễn ở nhà để trẻ hiểu nguyên_tắc vật_lý .
+Trong đời_sống hàng ngày , bạn có_thể gặp ứng_dụng của lực ly_tâm ở chế_độ vắt quần_áo trong máy_giặt .
+Phiêu_Linh

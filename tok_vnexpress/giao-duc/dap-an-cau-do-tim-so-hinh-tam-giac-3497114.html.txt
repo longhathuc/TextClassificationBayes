@@ -1,0 +1,2 @@
+Đáp_án câu_đố tìm số hình_tam_giác
+Để không bỏ sót bất_kỳ tam_giác nào , bạn hãy đếm từng nhóm hình_tam_giác được tạo thành .

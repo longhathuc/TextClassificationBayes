@@ -1,0 +1,14 @@
+Một i Phone được khóa mở 80 lần mỗi ngày
+Các nghiên_cứu cho thấy mức_độ " nghiện " smartphone của người dùng i Phone khi trung_bình cứ 10 phút lại phải mở khóa máy một lần .
+Người dùng i Phone mở máy kiểm_tra 6 đến 7 lần mỗi tiếng .
+Chuyên_gia phân_tích Ben_Bajarin đã thực_hiện một nghiên_cứu tại trụ_sở chính của Apple về tần_suất mở khóa i Phone của người dùng .
+Con_số này là khoảng 80 lần mỗi ngày .
+Nếu tính khoảng thời_gian hoạt_động trung_bình mỗi ngày là 12 tiếng thì tương_ứng người dùng kiểm_tra điện_thoại từ 6 đến 7 lần mỗi giờ hoặc mỗi 10 phút lại mở một lần .
+Nghiên_cứu của   Ben_Bajarin cũng giúp Apple thông kê được những lợi_ích mà cảm_biến vân tay mang lại .
+Nếu sử_dụng mật_khẩu kiểu cũ là mã pin , thời_gian trung_bình lên tới khoảng 5 giây để người dùng mở từ chế_độ ngủ đến khi vào được ứng_dụng cần_thiết .
+Trong khi đó , với model thế_hệ mới như i Phone 6s , thời_gian này chỉ là 2 đến 3 giây .
+Trước đó , Locket , một ứng_dụng Android được phép đặt quảng_cáo trên màn_hình khóa đã thu_thập dữ_liệu từ 150.000 người dùng về thói_quen mở khóa máy .
+Theo đó , một người trung_bình kiểm_tra điện_thoại của mình tới 110 lần .
+Cá_biệt có những người kiểm_tra tới 900 lần trong một ngày duy_nhất .
+Ngoài kiểm_tra tin nhắn , cuộc_gọi nhỡ , người dùng thường mở điện_thoại để xem thời_gian thay_vì nhìn đồng_hồ .
+Ngoài_ra , việc kiểm_tra các tin_tức mới trên tài_khoản mạng xã_hội cũng chiếm khá nhiều thời_gian .

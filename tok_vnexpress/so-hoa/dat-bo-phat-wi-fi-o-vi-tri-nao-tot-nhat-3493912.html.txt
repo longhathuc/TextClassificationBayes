@@ -1,0 +1,33 @@
+Đặt bộ phát Wi-Fi ở vị_trí nào tốt nhất
+Đặt router trên cao , tránh khu_vực bếp , các bức tường dày , để xa thiết_bị điện_tử ... là những cách giúp tín_hiệu Wi-Fi trong nhà được tối_ưu .
+Cường_độ tín_hiệu Wi-Fi suy_yếu khi khoảng_cách từ thiết_bị của người dùng tới router tăng dần .
+Đặc_biệt , sóng Wi-Fi sẽ trở_nên kém hơn khi gặp nhiều vật cản , các bức tường dày , hay do nhiễu sóng từ các thiết_bị điện_tử khác ...
+Dưới đây là một_số gợi_ý   để người dùng tìm được vị_trí đặt router tốt nhất .
+Đặt bộ phát Wi-Fi ở trung_tâm
+Khi mang router về nhà , bạn có thói_quen đặt trên bàn_máy tính , nơi cáp mạng đi vào hay góc phòng và rất nhiều người đặt gần ổ_cắm điện , nơi gắn cùng lúc nhiều thiết_bị điện_tử khác_nhau ...
+Những vị_trí này đều không tốt .
+Hãy   cố_gắng đặt router ở chính giữa nhà bạn , dù khi làm_vậy bạn sẽ phải " chạy " lại dây mạng .
+Nên đặt bộ phát Wi-Fi ở tầng cao , đặt trên mặt bàn thoáng .
+Tránh các chướng_ngại_vật bởi sóng Wi-Fi chịu ảnh_hưởng rất nhiều bởi vật cản .
+Nó khó đi xuyên qua những bức tường dày do bị hấp_thụ , bị phản_xạ bởi những cánh cửa bằng kim_loại hay kể_cả một tấm_gương bởi đằng sau đó thường mạ một lớp kim_loại .
+Nếu nhà có hai tầng , hãy để bộ phát Wi-Fi ở tầng hai do sóng phát xuống dưới mạnh hơn .
+Ngay cả khi đặt trên cao như_vậy cũng đừng quên kê router lên_mặt bàn , kệ tủ hoặc gắn tường ... thay_vì đặt ngay xuống sàn nhà .
+Tránh đặt trong nhà_bếp hay gần nhà hàng_xóm
+Hạn_chế để bộ phát Wi-Fi gần tường nhà hàng_xóm , không phải vì lo họ truy_cập " trộm " , mà bởi hai tín_hiệu Wi-Fi đặt cạnh có_thể làm nhiễu sóng nhau .
+Ngoài_ra , bạn có_thể đổi kênh để router nhà mình để không hoặc hạn_chế tối_đa bị trùng với các kênh của nhà lân_cận .
+Nhà_bếp với lò_vi_sóng hay các hốc tủ không phải vị_trí tốt để đặt router Wi-Fi .
+Tương_tự , router trong nhà bạn cũng phải " chiến_đấu " với các sóng khác có nguy_cơ gây nhiễu , chẳng_hạn tín_hiệu từ lò_vi_sóng .
+Bộ phát Wi-Fi và lò_vi_sóng hoạt_động ở cùng ( một phần ) băng tần 2,4 GHz , bởi_vậy khi dùng lò_vi_sóng có_thể can_thiệp vào tín_hiệu Wi-Fi .
+Ngoài_ra , trong nhà_bếp cũng có nhiều vật bằng kim_loại sẽ cản_trở tín_hiệu , gây triệt_tiêu .
+Điện_thoại cố_định không dây cũng hoạt_động với cơ_chế tương_tự bộ phát Wi-Fi , do_đó người dùng không nên đặt hai thiết_bị này cạnh nhau .
+Điều_chỉnh ăng - ten Wi-Fi
+Xoay ăng - ten để tín_hiệu được truyền theo hướng mong_muốn .
+Ăng - ten là bộ_phận quan_trọng , ảnh_hưởng trực_tiếp tới khả_năng phát tín_hiệu tới thiết_bị của người dùng .
+Thông_thường , thành_phần này trên router có_thể xoay sang hai bên , thậm_chí là nghiêng theo nhiều góc khác_nhau .
+Nếu bạn đang cố_gắng để tín_hiệu lan_tỏa theo chiều ngang , vị_trí đặt ăng - ten nên hướng theo chiều dọc .
+Và ngược_lại , nếu bạn muốn sóng Wi-Fi thu tốt hơn giữa các tầng trong ngôi nhà , ăng-ten nên đặt theo vị_trí ngang .
+Một_số router có ăng - ten cho_phép tháo rời , người dùng có_thể thay_thế thành_phần nguyên_bản bằng một chiếc ăng - ten khác có hiệu_suất phát tín_hiệu tốt hơn .
+Ngoài_ra , ăng-ten đẳng_hướng cũng là một gợi_ý nếu bạn muốn truyền tín_hiệu thẳng tới vị_trí nhất_định trong nhà .
+Video các vị_trí tốt nhất để đặt router Wi-Fi :
+Xem thêm :
+>   Tăng tốc_độ Wi-Fi trong nhà đơn_giản với smartphone >   Những hiểu lầm về tốc_độ Wi-Fi

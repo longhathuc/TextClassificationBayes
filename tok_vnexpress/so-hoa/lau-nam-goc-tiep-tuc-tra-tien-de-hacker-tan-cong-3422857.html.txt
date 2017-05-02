@@ -1,0 +1,12 @@
+Lầu_Năm_Góc tiếp_tục trả tiền để hacker tấn_công
+Bộ Quốc phòng Mỹ kêu_gọi tin_tặc tiếp_tục phát_hiện các lỗ_hổng an_ninh trên website , hệ_thống mạng của họ và trao tiền thưởng cho những đóng_góp quan_trọng .
+" Hack_Lầu_Năm_Góc " là chương_trình được triển_khai từ tháng 4/2016 nhằm kêu_gọi tin_tặc trổ_tài thâm_nhập vào hệ_thống của   Bộ Quốc phòng Mỹ .
+Tương_tự các chương_trình tìm lỗi khác của Facebook hay Google , Lầu_Năm_Góc đã trả hơn 70.000 USD tiền thưởng cho hacker trong gần một tháng diễn ra .
+Lầu_Năm_Góc tiếp_tục kêu_gọi hacker phát_hiện lỗ_hổng trên website và hệ_thống mạng của họ .
+Sau thành_công , Bộ Quốc phòng Mỹ tiếp_tục kêu_gọi hacker tấn_công vào các cơ_sở mạng của cơ_quan này .
+Không_chỉ giới_hạn với các website defense . gov , dodlive.mil , dvidshub.net , myafn.net và dimoc . mil , chương_trình còn mở_rộng bao_gồm hệ_thống mạng , các ứng_dụng của Lầu_Năm_Góc .
+Trong đợt đầu triển_khai " Hack_Lầu_Năm_Góc " , Bộ Quốc phòng Mỹ đã ghi_nhận hơn 250 đơn đăng_ký tham_gia .
+Các hacker giúp phát_hiện khoảng 1.400 lỗ_hổng bảo_mật nhưng trong đó chỉ có 138 lỗi được công_nhận và đủ điều_kiện nhận thưởng .
+Hệ_thống mạng của Lầu_Năm_Góc là mục_tiêu được nhiều tin_tặc nhắm tới và nó đã bị sập một lần trong năm qua .
+Thách_thức đó đặt ra yêu_cầu tăng tính bảo_mật cho Bộ Quốc phòng Mỹ .
+Bên_cạnh mở_rộng chương_trình tìm lỗi , Lầu_Năm_Góc cũng đã thuê   Matt_Cutts , người đứng đầu nhóm   Webspam của Google , về để hỗ_trợ .

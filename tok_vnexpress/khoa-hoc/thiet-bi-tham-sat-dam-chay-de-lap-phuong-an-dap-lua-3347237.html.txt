@@ -1,0 +1,15 @@
+Thiết_bị thám_sát đám cháy để lập phương_án dập lửa
+Các nhà_khoa_học Hàn_Quốc tạo ra thiết_bị xâm_nhập vào đám cháy và thông_báo tình_hình ở hiện_trường , giúp lực_lượng cứu_hỏa đưa ra phương_án hành_động nhanh_nhất .
+IFL Science hôm 20/1 đưa tin , hệ_thống Robot chịu_lửa trên không ( FAROS ) là một sáng_kiến cứu_hỏa do nhóm nghiên_cứu tại Viện_Khoa học và Công_nghệ tiên_tiến Hàn_Quốc ( KAIST ) phát_triển .
+FAROS có_thể giúp phát_hiện và dập tắt đám cháy tại các tòa nhà cao_tầng , đồng_thời bay qua và leo lên các bức tường .
+Nhóm nghiên_cứu áp_dụng công_nghệ của Hệ_thống Robot leo núi trên không ( CAROS ) cho FAROS .
+FAROS trang_bị một camera chịu_nhiệt để xác_định vị_trí của người mắc_kẹt trong tòa nhà .
+Một loạt các công_nghệ xử_lý hình_ảnh cho_phép thiết_bị này xác_định nguyên_nhân đám cháy .
+Trong video giới_thiệu , FAROS có khả_năng chịu_nhiệt cực cao ( 1000° C ) trong hơn một phút mà không hề bị hư_hại là nhờ vào lớp phủ aramid .
+Vật_liệu này thường được sử_dụng trong công_nghệ ôtô , hàng_không , vũ_trụ và quân_sự để tạo ra các bề_mặt chịu_nhiệt .
+Phía bên dưới thiết_bị là lớp đệm không_khí được duy_trì ở nhiệt_độ tối_ưu nhờ hệ_thống làm mát nhiệt_điện .
+Trong hệ_thống , dòng_điện được truyền giữa hai vật_liệu khác_nhau .
+Chênh_lệch nhiệt_độ giữa hai bên sinh_ra hiệu_điện_thế theo hiệu_ứng Peltier , giúp duy_trì hoạt_động của thiết_bị .
+Nhờ các công_nghệ trên , FAROS có_thể thâm_nhập vào hiện_trường đám cháy và truyền thông_tin cho lính cứu_hỏa bên ngoài .
+Sau đó , họ sẽ đưa ra những quyết_định chính_xác , giúp rút ngắn thời_gian giải_quyết các đám cháy trên cao .
+Thùy_Dương

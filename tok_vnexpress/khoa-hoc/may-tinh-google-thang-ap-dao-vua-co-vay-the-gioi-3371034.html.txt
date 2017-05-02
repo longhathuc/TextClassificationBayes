@@ -1,0 +1,28 @@
+Máy_tính Google thắng áp_đảo vua cờ_vây thế_giới
+Kết_thúc 5 ván đấu , đương_kim vô_địch cờ_vây thế_giới Lee_Se - dol thua chương_trình máy_tính AlphaGo của Google với tỉ_số 1 : 4 .
+Theo Guardian , đây là cuộc đấu được tổ_chức ở Seoul , Hàn_Quốc từ 9 - 15/3 , gồm 5 ván , giữa đương_kim vô_địch thế_giới cờ_vây Lee_Se - dol và chương_trình máy_tính AlphaGo của Google .
+Vào hôm 13/3 , Lee đã chiến_thắng AlphaGo trong ván đấu cờ_vây thứ 4 , sau 3 ván đầu thua liên_tiếp .   Theo chia_sẻ trên twitter của Demis_Hassabis , đồng sáng_lập chương_trình AlphaGo , máy_tính Google đã mắc vài lỗi ở ván đấu hôm 13/1 .
+" AlPhaGo nghĩ rằng nó đã chơi tốt , nhưng đã nhầm_lẫn ở nước đi thứ 87 " , Hassabis viết trên Twitter .
+" Nó mắc lỗi từ nước đi thứ 79 nhưng phải đến khoảng nước thứ 87 mới nhận ra " .
+Tuy_nhiên , ở ván đấu cuối_cùng hôm 15/3 , AlphaGo đã lấy lại phong_độ và tiếp_tục chiến_thắng .
+Tỉ_số chung_cuộc là 4 : 1 cho chương_trình máy_tính của Google .
+Chiến_thắng này củng_cố thêm các bằng_chứng về thành_tựu mang tính bước_ngoặt trong lĩnh_vực trí_tuệ_nhân_tạo .
+Cờ_vây được cho là phát_minh của người Trung_Quốc cách đây khoảng 2.500 năm .
+Các quân cờ đen_trắng được đặt lên một bàn_cờ kẻ ô vuông 19x19 .
+Để thắng trò_chơi , cần phải kiểm_soát ít_nhất 50% diện_tích bàn_cờ .
+Lee đã khởi_đầu tốt ở ván cuối_cùng , tận_dụng được sai_lầm của máy_tính .
+Nhưng cuối_cùng , anh không_thể giữ được lợi_thế và để máy_tính giành một chiến_thắng sát_nút .
+Dù luật cờ_vây đơn_giản hơn cờ_vua , về tổng_thể nó lại phức_tạp hơn , thiên về trực_giác nhiều hơn .
+" Sự phức_tạp này làm cho việc dạy máy_tính chơi cờ_vây rất khó .
+Đó là thách_thức đối   với các nhà_nghiên_cứu trí_tuệ_nhân_tạo , những người dùng trò_chơi để thử_nghiệm nhằm phát_minh ra các thuật_toán thông_minh , linh_hoạt có_thể giải_quyết các vấn_đề , đôi_khi tương_tự cách con_người làm " , Hassabis viết trên blog .
+" Đối_với con_người , luôn có một vấn_đề tâm_lý mà ai cũng gặp phải " , Lee phát_biểu vào hôm 14/3 , sau khi thua ván thứ 3 .
+" Tôi có rất nhiều kinh_nghiệm chơi cờ_vây , nhưng chưa bao_giờ tôi cảm_thấy áp_lực lớn như lần này " .
+" Tôi đã thua .
+Tôi cảm_thấy tiếc_nuối vì ván cờ đã kết_thúc như_vậy .
+Tôi muốn nó có kết_cục khác " ,   Lee nói trong cuộc họp_báo kết_thúc trận đấu .
+Chiến_thắng của AlphaGo   đánh_dấu lần đầu_tiên một chương_trình trí_tuệ_nhân_tạo đánh_bại một kỳ_thủ cờ_vây chuyên_nghiệp đẳng_cấp nhất thế_giới .
+Tuy nó từng đánh_bại   Fan_Hui ,   nhà_vô_địch châu Âu vào tháng 10/2015 , nhưng thách_thức lần này với Lee được đánh_giá là khó_khăn hơn nhiều .
+Giới chuyên_gia từng dự_đoán , AlphaGo phải mất nhiều năm nữa mới thắng được Lee_Se - dol .
+Google_Deepmind cho_biết sẽ ứng_dụng hệ_thống mạng thần_kinh chuyên_sâu ( deep neural network ) và các kỹ_thuật dạy_học cho máy_tính mà AlphaGo dùng để chơi thành_thạo cờ_vây cho các lĩnh_vực cấp_thiết hơn , như y_tế và robot .
+Tuy_nhiên , trước_mắt , nhóm của Hassabis sẽ phải dành nhiều thời_gian để nghiên_cứu kết_quả của trận đấu trước khi tuyên_bố động_thái kế_tiếp .
+Nguyễn_Thành_Minh

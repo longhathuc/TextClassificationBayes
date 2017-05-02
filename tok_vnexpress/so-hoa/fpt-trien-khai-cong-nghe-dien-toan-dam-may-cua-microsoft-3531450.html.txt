@@ -1,0 +1,14 @@
+FPT triển_khai công_nghệ điện_toán đám mây của Microsoft
+FPT trở_thành doanh_nghiệp lớn nhất Việt_Nam triển_khai công_nghệ điện_toán đám mây của Microsoft cho toàn_bộ hoạt_động của Tập_đoàn .
+Sáng 20/1 ,   Microsoft và FPT ký_kết Thỏa_thuận hợp_tác liên_quan đến chuyển_đổi công_nghệ số .
+Cụ_thể ,   FPT sẽ   triển_khai công_nghệ điện_toán đám mây của Microsoft , đồng_thời   thúc_đẩy việc cung_cấp và triển_khai các dịch_vụ đám mây của Microsoft cho các khách_hàng của Tập_đoàn .
+Theo ông Bùi_Quang_Ngọc , Tổng_Giám đốc FPT , dịch_vụ đám mây ( Cloud ) hiện phát_triển mạnh_mẽ trên thế_giới và dần thay_thế cho các dịch_vụ truyền_thống nhằm giúp doanh_nghiệp giải được các bài_toán về chi_phí , nguồn nhân_lực và giảm rủi_ro .
+Hầu_hết các hãng công_nghệ lớn trên thế_giới đã ứng_dụng công_nghệ điện_toán đám mây nhưng tại Việt_Nam , đa_số doanh_nghiệp còn lưỡng_lự trong việc " lên mây " .   FPT đang tiến_hành chuyển_đổi số trên mọi lĩnh_vực như quản_trị , công_nghệ , kinh_doanh , dịch_vụ khách_hàng … Việc triển_khai điện_toán đám mây Office 365 là một trong những bước_đi trên con đường chuyển_đổi số để trở_thành doanh_nghiệp tiên_phong trong cuộc cách_mạng_công_nghiệp lần thứ_tư của FPT .
+" Với kinh_nghiệm và năng_lực đã được khách_hàng và đối_tác thừa_nhận , FPT sẽ cung_cấp những giải_pháp và dịch_vụ tối_ưu nhất , lợi_ích nhất và thực_sự khác_biệt trong cuộc cách_mạng số " , ông Ngọc nhấn_mạnh .
+FPT đang là đối_tác cao_cấp nhất của Microsoft_Việt_Nam .
+Giai_đoạn đầu , FPT sẽ ứng_dụng Microsoft_Office 365 để dịch_chuyển toàn_bộ hệ_thống và dữ_liệu của tập_đoàn lên đám mây , đồng_thời triển_khai One_Drive for Business và Skype for Business để tối_ưu_hóa hiệu_suất vận_hành .
+Giai_đoạn tiếp_theo , FPT sẽ cùng Microsoft đẩy_mạnh phát_triển thị_phần mảng Cloud ( gồm Office 365 và Microsoft_Azure ) để chuyển_đổi số cho khách_hàng tại Việt_Nam và các nước khác .
+Trước đó , FPT đã triển_khai thành_công việc chuyển_đổi lên cloud cho nhiều khách_hàng lớn , trong đó dự_án FPT Nhật_Bản chuyển_đổi Notes lên Office 365 cho   hãng sản_xuất phụ_tùng ôtô   Calsonic_Kansei được Microsoft_Nhật_Bản chọn làm dự_án điển_hình ( case study ) trong mảng công_nghệ đám mây của hãng .
+Ông Vũ_Minh_Trí , Tổng_Giám_Đốc_Microsoft_Việt_Nam , tin_tưởng   hành_trình chuyển_đổi lên đám mây bằng công_nghệ Microsoft sẽ giúp FPT tiếp_tục phát_triển xa hơn_nữa , hoàn_thành sứ_mệnh mang công_nghệ , tri_thức giúp Việt_Nam phát_huy tài_năng và góp_phần giải_quyết các bài_toán kinh_tế - xã_hội .
+FPT đang là đối_tác cao_cấp nhất của Microsoft_Việt_Nam .
+Trong gần 20 năm qua , hai bên đã cùng hợp_tác đưa giải_pháp công_nghệ của Microsoft phục_vụ khách_hàng tại Việt_Nam và các nước khác như Chính_phủ_điện_tử ( eGov ) , Thuế ( eTax ) , Hải_quan ( eCustoms ) , quản_lý bệnh_viện ( eHospital ) … Năm 2010 , Microsoft và FPT cũng ký_kết thỏa_thuận hợp_tác liên_quan đến phát_triển công_nghệ điện_toán đám mây .

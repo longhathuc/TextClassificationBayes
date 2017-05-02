@@ -1,0 +1,16 @@
+Nhận thưởng Tết , bạn phải đóng thuế bao_nhiêu ?
+Nhận 10 triệu , bạn chỉ nộp 750.000 đồng , nhưng nghĩa_vụ thuế sẽ tương_đương 1/4 , thậm_chí 1/3 khoản tiền nếu bạn được thưởng 100 hay 200 triệu đồng .
+Thu_nhập từ lương kinh_doanh , lương_sản_phẩm của năm ( hay còn gọi_là thưởng Tết ) , theo quy_định , là thu_nhập phải chịu Thuế_thu_nhập cá_nhân .
+Theo luật , cách tính thuế với thưởng Tết này được dựa trên   biểu luỹ_tiến từng phần , tức_là mỗi bậc thu_nhập có một thuế_suất tương_ứng , cụ_thể như sau :
+Đơn_vị tính : triệu đồng
+Ví_dụ bạn được thưởng Tết 10 triệu đồng , số thuế phải nộp là :
+5 * 5% +   ( 10-5 ) * 10% = 0,25 + 0,5 = 0,75 ( triệu đồng )
+Để đơn_giản , bạn có_thể tham_khảo cách tính rút_gọn thuế_thu_nhập phải nộp trên số tiền thưởng Tết như sau ( A là số tiền thưởng trước thuế ) :
+Đơn_vị tính : triệu đồng
+Như_vậy , với số tiền thưởng Tết lần_lượt từ 10 đến 500 triệu đồng , số thuế phải nộp sẽ như sau :
+Đơn_vị tính : triệu đồng
+Trên thực_tế , tại một_số công_ty , khi nhận tiền thưởng Tết và thông_báo chi_tiết của kế_toán hoặc nhân_sự , người lao_động sẽ thấy số thuế bị trừ ít hơn các mức nêu trên .   Ví
+dụ với thưởng Tết 100 triệu đồng , thay_vì bị trừ thẳng 25,15 triệu đồng thuế , người lao_động có_thể chỉ bị trừ ngay gần 7 triệu đồng .
+Tuy_nhiên , đây chỉ là mức thuế_thu_nhập ( tạm tính ) được phân_bổ để trừ theo tháng chứ không có_nghĩa bạn chỉ phải nộp vào ngân_sách 7 triệu đồng cho số thưởng 100 triệu .
+Để tính chính_xác , người nộp thuế phải chờ khi quyết_toán vào năm sau , bởi thông_thường , thưởng Tết 2016 sẽ được nhận vào tháng 1/2017 và được xác_định là thu_nhập tính thuế của 2017 .   Đây cũng là lý_do   khi nhận thưởng Tết của năm sau , nhiều người bị truy_thu tới hàng chục , thậm_chí hàng trăm triệu đồng do khoản thuế_thu_nhập từ thưởng Tết chưa được tính_toán đủ .
+Ngoài_ra , thu_nhập tính thuế trong năm cũng đã được loại_trừ các khoản như giảm trừ gia_cảnh , đóng bảo_hiểm_bắt_buộc , đóng_góp từ_thiện , nhân_đạo , khuyến_học ( nếu có ) ...

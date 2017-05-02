@@ -1,0 +1,12 @@
+' Lỗi đánh_máy ' làm sập hàng_loạt website lớn
+Amazon công_bố nguyên_nhân khiến nhiều trang_web và dịch_vụ như Instagram , Verge , Vine ... không hoạt_động được hoặc truy_cập chậm trong ba ngày qua .
+Từ ngày 28/2 , dịch_vụ điện_toán đám mây Amazon_Web_Services , đang được rất nhiều website và dịch_vụ Internet lớn trên thế_giới sử_dụng , gặp sự_cố dẫn đến tình_trạng khó truy_cập .
+Những dịch_vụ và site bị ảnh_hưởng có_thể kể đến như Instagram , Vine , Slack , Giphy , Quora , Business_Insider , Verge ... và cả những dịch_vụ IoT như Amazon_Alexa .
+Sau đó , Amazon đã sớm khắc_phục vấn_đề và các chuyên_gia dự_đoán nguyên_nhân có_thể do mất điện hay lỗi hệ_thống .
+Ngày 2/3 , Amazon cho_biết rắc_rối xảy_ra sau khi một nhân_viên của hãng gõ nhầm câu_lệnh khi đang sửa một lỗi khác .
+Câu_lệnh làm một lượng lớn máy_chủ tại khu_vực Virginia ( Mỹ ) của Amazon ngừng hoạt_động , gây nên hiệu_ứng domino và kéo_theo sự ngưng_trệ của nhiều dịch_vụ khác .
+Hàng_loạt website lớn không_thể truy_cập chỉ vì lỗi đánh_máy tại Amazon .
+Theo CNet , vấn_đề một lần nữa cho thấy việc phụ_thuộc vào các dịch_vụ đám mây có_thể gây nên những sự_cố khó lường như_thế_nào , dù xuất_phát chỉ từ một lỗi nhỏ của con_người .
+" Chúng_tôi xin_lỗi vì những gì đã gây ra cho khách_hàng .
+Chúng_tôi hiểu sự nghiêm_trọng của vấn_đề " , đại_diện Amazon cho_hay .
+Năm 2015 , máy_chủ của Amazon_Web_Services tại Virginia cũng gặp lỗi khiến nhiều dịch_vụ ngừng hoạt_động và rất nhiều người đã không_thể gọi điện hay chat video qua Skype .

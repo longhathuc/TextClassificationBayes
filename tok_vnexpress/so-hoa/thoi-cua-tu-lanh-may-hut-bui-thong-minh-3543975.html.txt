@@ -1,0 +1,35 @@
+Thời của tủ_lạnh , máy_hút_bụi thông_minh
+Các thiết_bị trong gia_đình từ TV , tủ_lạnh , máy_giặt đến máy_hút_bụi ... đều được trang_bị kết_nối Internet , hỗ_trợ giao_tiếp với smartphone và thông_báo tới người dùng từ xa .
+" Internet of Things - IoT " ( Mọi vật cùng kết_nối Internet ) là xu_hướng nổi lên vài năm gần đây và ngày_càng phát_triển .
+Điều này thể_hiện qua các sản_phẩm xuất_hiện tại triển_lãm SEA Forum 2017 và các chuyên_gia công_nghệ dự_đoán tới năm 2020 có khoảng 25 tỷ thiết_bị IoT với số tiền dự_chi là 1.900 tỷ USD .
+" Smart " dần trở_thành tính_năng phổ_thông trên TV .
+Smart TV là một trong những thiết_bị gia_đình được các nhà_sản_xuất " thông_minh hóa " sớm nhất và hiện_nay hầu_hết các model bán trên thị_trường có kết_nối Internet hoặc hệ_điều_hành thông_minh .
+Không_chỉ đáp_ứng nhu_cầu xem trực_tuyến , Smart TV còn tích_hợp kho ứng_dụng , hỗ_trợ điều_khiển bằng giọng nói .
+Với một chiếc TV thông_minh , người dùng có_thể xem YouTube , Netflix ... chơi game , lướt web ... mà không cần máy_tính , smartphone .
+Tuy_nhiên " hiện_đại thường hại điện " , Smart TV khiến người dùng phổ_thông khó làm_quen , điều_khiển với các nút bấm dày_đặc .
+Bởi_vậy Samsung , LG , Sony ... đều trang_bị tính_năng ra_lệnh bằng giọng nói .
+Điều_khiển TV bằng giọng nói , smartphone
+Trên loạt TV 2017 , Samsung có thêm Smart_Remote với khả_năng điều_khiển hầu_hết các thiết_bị_ngoại_vi khác chỉ với một chiếc remote .
+Chức_năng ra_lệnh giọng nói hỗ_trợ cả những thiết_lập phức_tạp chứ không đơn tuần là chuyển kênh , thay_đổi âm_lượng .
+Song chưa rõ tính_năng này có hoạt_động tốt với ngôn_ngữ tiếng Việt và một_số người dùng cho rằng điều_khiển truyền_thống dễ dùng hơn cho cả gia_đình .
+Tủ_lạnh được nhà_sản_xuất tích_hợp nhiều tính_năng thông_minh , song không ít trong đó được đánh_giá có phần thừa_thãi .
+Trong xu_hướng IoT , tủ_lạnh , máy_hút_bụi cũng được trang_bị kết_nối Internet .
+Chiếc tủ_lạnh Family_Hub 2.0 của Samsung có màn_hình cảm_ứng 21,5 inch như một chiếc máy_tính bảng cỡ lớn , có camera bên trong để quan_sát thực_phẩm và tự_động nhắc_nhở người dùng mua bổ_sung .
+Family_Hub 2.0 mang nhiều tính trình_diễn , bởi_thế sản_phẩm " ôm " nhiều tính_năng mà chưa chắc người dùng đã sử_dụng hết .
+Sản_phẩm   tập_trung nâng_cấp phần_mềm mà không có quá nhiều đột_phá so với thế_hệ Family_Hub 1.0 .
+Ngoài_ra , giá được dự_đoán ở mức hàng trăm triệu đồng và chưa có thông_tin về việc bán tại Việt_Nam .
+Giá bán cao khiến robot hút bụi khó tiếp_cận người dùng .
+Sản_phẩm thu_hút nhiều sự quan_tâm nhất trong triển_lãm phải kể đến máy_hút_bụi thông_minh .
+Thiết_bị được gọi với tên robot Powerboot VR7000 , có khả_năng chạy khắp phòng để dọn vệ_sinh .
+Nhờ hệ_thống cảm_biến , máy tự_động tránh vật cản , hút bụi theo vùng và có " chổi " để hút ở sát mép tường .
+Robot cũng " biết " quay về đế sạc khi sắp hết pin .
+Người dùng có_thể ra_lệnh từ xa cho robot thông_qua smartphone .
+Chỉ cần có kết_nối Internet , bạn sẽ lên được lịch dọn nhà , bật_tắt thiết_bị cũng_như kiểm_tra lịch_trình làm sạch .
+Tuy_nhiên , Powerboot VR7000 hay những sản_phẩm tương_tự của LG , Xiaomi , iRobot ... thích_hợp với các ngôi nhà chung_cư , giá bán khá cao tới vài chục_triệu đồng nên khó phổ_biến tới người dùng .
+Robot hút bụi thông_minh , điều_khiển qua smartphone
+Những lợi_ích mà IoT mang lại cho con_người là rất lớn , có_thể được áp_dụng ở nhiều lĩnh_vực khác_nhau .
+Với hộ gia_đình , hệ_thống có_thể tự điều_khiển tắt / bật bóng_đèn , máy_bơm tưới nước cho cây_cối , camera theo_dõi an_ninh , máy_giặt tự giặt đồ … Vĩ_mô hơn , nó có_thể được áp_dụng để xây_dựng các thành_phố thông_minh với đèn đường có_thể thích_ứng với điều_kiện thời_tiết , đèn giao_thông có_thể điều_tiết dựa trên tình_hình giao_thông hiện_tại , hệ_thống thông_báo tình_trạng ô_nhiễm không_khí thời_gian_thực …
+Song_song với đó , những thiết_bị thông_minh đòi_hỏi người dùng cũng phải thông_minh để có khả_năng làm_chủ .
+Tháng 10/2016 , sự_cố với Dyn - công_ty quản_lý hệ_thống tên_miền - bằng cách huy_động lượng lớn thiết_bị thông_minh trong đó có webcam , khiến một_nửa số trang_web có lưu_lượng lớn nhất trên Internet bị ngưng_trệ , cảnh_báo các nguy_cơ tiềm_ẩn về bảo_mật trong IoT .
+Năm 2014 , hacker đã xâm_nhập hơn 100.000 tivi , tủ_lạnh , và các thiết_bị gia_dụng thông_minh khác để gửi đi hàng triệu thư rác độc_hại .   Tin_tặc đang có xu_hướng chuyển_hướng mục_tiêu qua các thiết_bị thông_minh bởi máy_tính hay điện_thoại đã có các phương_thức bảo_mật tối_đa .
+Bên_cạnh các giới_hạn do thiết_bị nhỏ gọn , chính_sự chủ_quan của con_người trong việc điều_khiển thiết_bị IoT cũng khiến nguy_cơ bị tấn_công tăng cao .

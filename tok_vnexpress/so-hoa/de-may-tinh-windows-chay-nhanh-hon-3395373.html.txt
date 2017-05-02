@@ -1,0 +1,10 @@
+Để máy_tính Windows chạy nhanh hơn
+Gỡ bỏ phần_mềm không dùng đến , thường_xuyên dọn rác , chống phân mảnh ổ_cứng ... là những cách giúp máy_tính Windows 10 hoạt_động mượt_mà hơn , tất_nhiên , các phiên_bản Windows cũ hơn cũng có_thể áp_dụng tương_tự .
+Gỡ bỏ phần_mềm không dùng đến và tắt System_Restore
+Chống phân mảnh định_kỳ cho ổ_cứng
+Tắt các phần_mềm và dịch_vụ tự khởi_động
+Tắt hiệu_ứng Windows và   thường_xuyên dọn tập_tin rác
+Thường_xuyên xóa bộ_nhớ đệm trên trình_duyệt
+Ngoài các thủ_thuật trên , bạn cũng có_thể tăng_tốc máy_tính của mình thông_qua việc thường_xuyên cập_nhật các phiên_bản mới của hệ_điều_hành .
+Nếu có_thể , bạn nên nâng_cấp phần_cứng cho máy , ví_dụ thay_thế RAM dung_lượng cao hơn , dùng ổ SSD thay_vì HDD ...
+Bảo_Lâm

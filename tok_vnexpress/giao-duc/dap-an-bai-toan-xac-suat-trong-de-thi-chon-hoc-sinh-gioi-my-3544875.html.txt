@@ -1,0 +1,14 @@
+Đáp_án bài_toán xác_suất trong đề thi chọn học_sinh giỏi Mỹ
+Rất ít người đưa ra được đáp_án chính_xác cho bài_toán xác_suất nằm trong đề thi chọn học_sinh giỏi Mỹ .
+Đề_bài :
+Melinda có 12 quyển sách trong đó có 3 quyển sách Toán .
+Cô xếp sách lên một chiếc kệ có 3 ngăn , một ngăn xếp 3 quyển sách , một ngăn xếp 4 quyển sách , một ngăn xếp 5 quyển sách .
+Nếu_Melinda xếp sách một_cách ngẫu_nhiên , xác_suất để 3 quyển sách Toán được xếp vào cùng một ngăn là bao_nhiêu ?
+Đáp_án : 3/44
+Ngăn thứ nhất có 3 quyển , số cách xếp 3 quyển sách Toán vào ngăn này là tổ_hợp chập 3 của 3 và bằng 1 .
+Ngăn thứ_hai có 4 quyển , số cách xếp 3 quyển sách Toán vào ngăn này là tổ_hợp chập 3 của 4 và bằng 4 .
+Ngăn thứ_ba có 5 quyển , số cách xếp 3 quyển sách Toán vào ngăn này là tổ_hợp chập 3 của 5 và bằng 10 .
+Số cách xếp 3 quyển sách Toán vào dãy 12 quyển sách là tổ_hợp chập 3 của 12 và bằng 220 .
+Từ đó suy ra , xác_suất để 3 quyển sách Toán được xếp vào cùng một ngăn là ( 10 + 4 + 1 ) / 220 = 3/44 .
+Thanh_Tâm
+> > Đố bạn giải được bài_toán dành cho học_sinh lớp 1-2 > > Bài_toán ' lát sàn ' lớp 7 có_thể khiến bạn gặp khó

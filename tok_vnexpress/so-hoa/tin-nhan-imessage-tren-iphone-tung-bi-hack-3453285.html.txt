@@ -1,0 +1,14 @@
+Tin nhắn i Message trên i Phone từng bị hack
+Ảnh , video trong các cuộc hội_thoại i Message hoặc thậm_chí lưu lên i Cloud vẫn có_thể xem được dù đã mã_hóa .
+iMessage được sử_dụng rộng_rãi nhờ sự phổ_biến của các thiết_bị Apple .
+Theo BGR , một nhóm nhà_nghiên_cứu bảo_mật từ_trường Đại_học   Johns_Hopkins ( Mỹ ) cho_biết họ từng xem được ảnh , video trong một cuộc hội_thoại i Message dù đã được mã_hóa .
+Đây là một phần của cuộc tấn_công thử_nghiệm nhằm tìm ra các lỗ_hổng bảo_mật trên một_số ứng_dụng nhắn_tin hiện_nay .
+Apple nhiều khả_năng đã được thông_báo về lỗ_hổng này và sớm khắc_phục vào cuối năm_ngoái trên i OS 9.3 và OS_X 10.11.4 .
+Tuy_nhiên , các nhà_nghiên_cứu vẫn cho rằng Apple vẫn nên thay_thế bộ mã_hóa i Message của mình để loại_bỏ các điểm yếu tiềm_năng .
+Báo_cáo cũng cho thấy thực_chất Apple không luân_chuyển các chìa_khóa cho việc mã_hóa đều_đặn như những giao_thức hiện_đại đang làm .
+Điều này khiến một hacker có_thể đột_nhập vào một đoạn hội_thoại cũ đang được lưu_trữ trên i Cloud .
+" Tin nhắn được gửi qua i Message có_thể không an_toàn để chống lại các nhóm tin_tặc phức_tạp " , các chuyên_gia của   trường Đại_học   Johns_Hopkins cảnh_báo .
+Các hacker đơn_lẻ rất khó thực_hiện được_việc xâm_nhập tương_tự vào i Message nhưng nếu được hỗ_trợ bởi một tổ_chức hoặc quốc_gia thì điều này lại hoàn_toàn có_thể .
+Quá_trình này có liên_quan đến việc tiếp_cận các máy_chủ của Apple nhờ sử_dụng chứng_nhận TLS bị đánh_cắp .
+Đầu năm nay , Apple từng phải theo_đuổi vụ kiện_tụng với FBI liên_quan đến việc mở khóa một chiếc i Phone của   Syed_Farook - kẻ cùng_với vợ mình đã giết 14 người_ở San_Bernardino , California ( Mỹ ) .
+FBI đòi Apple phải mở khóa và giải_mã các thông_tin còn lưu lại trên chiếc i Phone này nhưng " Quả táo " từ_chối .

@@ -1,0 +1,29 @@
+Thêm một ứng_dụng đặt phòng hữu_ích cho người ưa ' xê_dịch '
+Traveloka giúp các tín_đồ du_lịch tìm thấy nhiều khách_sạn đi kèm thông_tin về mức giá niêm_yết , hình_ảnh chi_tiết để mỗi chuyến đi thêm thuận_lợi .
+Trước mỗi chuyến đi đến bất_kỳ một nơi nào , bạn thường dành thời_gian để tìm phòng khách_sạn , kiểm_tra mức_độ tiện_nghi , cơ_sở vật_chất , so_sánh giá_cả ...
+Nếu_như bạn là người theo “ chủ_nghĩa xê_dịch ” , yêu_thích khám_phá các vùng_đất mới hay chỉ đơn_giản đi công_tác nhiều thì ứng_dụng trực_tuyến Traveloka sẽ là công_cụ hỗ_trợ tất_cả nhu_cầu của bạn .
+Tại_Traveloka , các tín_đồ du_lịch có_thể tìm thấy nhiều khách_sạn đi kèm thông_tin về mức giá niêm_yết ...
+Ứng_dụng của Traveloka giúp người dùng trong nước có_thể trải_nghiệm tối_đa các tiện_ích như tìm phòng khách_sạn và vé máy_bay giá rẻ cùng lúc , thanh_toán an_toàn bằng các loại thẻ_tín_dụng , thẻ ATM , chuyển_khoản hoặc tiền_mặt , dịch_vụ chăm_sóc khách_hàng 24/7 … Vì_thế , tại cùng một điểm đến , ứng_dụng sẽ giúp bạn tìm thấy vô_vàn khách_sạn đi kèm thông_tin cụ_thể như mức giá niêm_yết , hình_ảnh rõ_ràng , tiện_nghi chi_tiết , thậm_chí còn có cả đánh_giá , nhận_xét từ cộng_đồng .
+Đây là cách giúp bạn so_sánh , đối_chiếu và đặt khách_sạn ưng_ý dễ_dàng như_trở_bàn_tay .
+Chị Phương_Thanh , một người thích du_lịch tự_do cho_biết rất thích ứng_dụng Traveloka bởi thao_tác đặt nhanh , giá rẻ , chưa kể hàng tháng đều có ưu_đãi giảm_giá 10-35 % .
+Chị Thanh chia_sẻ có lần đi du_lịch nước_ngoài mà_lại đãng_trí không đặt vé khứ_hồi , hải_quan nhất_quyết không cho_qua dù gần sát giờ lên máy_bay .
+May_mà chị nhớ ra ứng_dụng Traveloka , nên chưa tới một phút sau đã nhận được vé điện_tử .
+Như nhiều người dùng khác , chị Thanh cũng đánh_giá cao hình_thức luôn hiển_thị mức giá cuối_cùng trên ứng_dụng này .
+Các mức giá trên Traveloka đã bao_gồm tất_cả khoản thuế , phí và đặc_biệt không tính phí giao_dịch , nhằm giữ cho giá vé máy_bay và phòng khách_sạn luôn rẻ .
+Theo khảo_sát về thương_mại_điện_tử tại Việt_Nam trong năm vừa_qua , hình_thức đặt vé ( máy_bay , tàu ) trực_tuyến đạt tới 34% và đặt phòng khách_sạn đạt 19% so với các hình_thức giao_dịch khác .
+Con_số này dự_đoán sẽ tăng mạnh theo thời_gian để phục_vụ cho thị_trường 41,08 triệu người dùng Internet ( 62% trong số đó dùng để mua_sắm trực_tuyến ) tại Việt_Nam .
+Bà Lê_Thị_Thanh_Vân , Giám_đốc Traveloka tại Việt_Nam cho_biết , với tất_cả lợi_thế về công_nghệ cùng sự am_hiểu sâu_sắc thị_trường Đông_Nam Á , Traveloka vừa ra_mắt tại Việt_Nam , nhằm mang tới cho người dùng trong nước những trải_nghiệm đặt vé máy_bay và phòng khách_sạn tốt nhất .
+Ứng_dụng Traveloka cho_phép người dùng có_thể đặt vé máy_bay và phòng khách_sạn cùng lúc .
+Traveloka có ưu_điểm về mức giả rẻ , chính_sách tặng mã giảm_giá thường_xuyên , có hơn 120.000 đối_tác khách_sạn trên toàn_cầu , liên_kết với hơn 100.000 đường_bay trong và ngoài nước … Đơn_vị này còn sở_hữu hàng trăm kỹ_sư công_nghệ_cao và vẫn đang duy_trì chính_sách tuyển_dụng mới hàng năm nhằm đảm_bảo luôn đi đầu trong nghiên_cứu và phát_triển thương_mại_điện_tử .
+Điển_hình , ứng_dụng Traveloka hiện_nay cho_phép người dùng có_thể đặt vé máy_bay và phòng khách_sạn cùng lúc .
+Mỗi tháng , ứng_dụng lại cập_nhật các tính_năng mới cho người dùng .
+Mới nhất_là tính_năng Price_Alert để nhận thông_báo khi có_giá phù_hợp với ngân_sách người dùng đặt ra .
+Traveloka cũng là một trong những cái tên được nhắc đến đầu_tiên khi nói về sự thành_công của một mô_hình OTA ( Online_Travel_Agent - Đại_lý du_lịch trực_tuyến ) trong việc thu_hút vốn đầu_tư , cũng_như tốc_độ tăng_trưởng nhanh .
+Xuất_phát từ Indonesia , quốc_gia đứng đầu trong hệ_sinh_thái khởi_nghiệp ở Đông_Nam Á , Traveloka nhận được vốn đầu_tư từ East_Ventures vào năm 2012 và quỹ Series A từ Global_Founders_Capital vào năm 2013 .
+Công_ty đã phát_triển ra các quốc_gia trong khu_vực như Singapore , Thái_Lan , Malaysia và Philippines .
+Tới_Việt_Nam vào thời_điểm làn_sóng dịch_vụ trực_tuyến dâng cao chính là cơ_hội để Traveloka phát_huy lợi_thế cạnh_tranh của mình .
+Mai_Thương
+Người dùng có_thể truy_cập Traveloka tại đây hoặc trên trang_web di_động và ứng_dụng di_động ( Android và i OS ) để đặt phòng khách_sạn và vé máy_bay .
+Giá trên trang là giá cuối_cùng khách phải chi_trả và không tính thêm bất_cứ loại thuế và phụ_phí nào .
+Bạn đặt , thanh_toán và nhận vé điện_tử trong chưa đầy một phút .
+Nếu_không có thẻ_tín_dụng , bạn có_thể trả bằng ATM , chuyển_khoản hoặc tiền_mặt .

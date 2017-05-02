@@ -1,0 +1,8 @@
+Bài_toán xác_suất trong đề thi chọn học_sinh giỏi Mỹ
+Bài_toán xác_suất trong đề thi vòng 2 kỳ thi chọn học_sinh giỏi Mỹ liệu có phải thử_thách lớn với bạn ?
+Hãy suy_luận và đưa ra đáp_án nhanh_nhất có_thể .
+Melinda có 12 quyển sách trong đó có 3 quyển sách Toán .
+Cô xếp sách lên một chiếc kệ có 3 ngăn , một ngăn xếp 3 quyển sách , một ngăn xếp 4 quyển sách , một ngăn xếp 5 quyển sách .
+Nếu_Melinda xếp sách một_cách ngẫu_nhiên , xác_suất để 3 quyển sách Toán được xếp vào cùng một ngăn là bao_nhiêu ?
+Thanh_Tâm
+> > Bài_toán ' lát sàn ' lớp 7 có_thể khiến bạn gặp khó > > Bài_toán ' đếm ếch ' có_thể khiến bạn rối trí

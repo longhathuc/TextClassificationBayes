@@ -1,0 +1,31 @@
+Cách giải_quyết 3 câu_hỏi hóc_búa trong đề thi môn Toán
+Để đạt 8-10 điểm Toán trong kỳ thi THPT quốc_gia , học_sinh phải vượt qua ba cửa_ải hóc_búa nhất_là 3 câu cuối trong đề thi .
+Bộ Giáo dục và Đào_tạo vừa cho_biết sẽ không công_bố đề thi minh_họa cho kỳ thi THPT quốc_gia 2016 , cấu_trúc đề năm nay tương_tự 2015 .
+Như_vậy đối_với môn Toán , có_thể hình_dung tổng_thể đề thi ra theo thang điểm 10 , câu ở mức_độ cơ_bản chiếm 60% , mức_độ vận_dụng cao chiếm 40% tổng điểm , các câu_hỏi được sắp_xếp từ dễ đến khó .
+Từ nay đến ngày thi THPT quốc_gia chỉ còn hơn 2 tháng , vậy nên các em cần có kế_hoạch học_tập cụ_thể theo từng ngày , từng tuần thì mới có_thể mong_ước đạt được điểm_số cao .
+Đối_với môn Toán , khi thời_gian ôn_tập không còn nhiều , các em cần trả_lời được câu_hỏi : Mình có_thể đạt mấy điểm môn Toán ?
+Các em cần căn_cứ vào điểm bài thi thử gần nhất và điểm kiểm_tra Toán trên lớp , nếu bình_quân đạt 7 trở_lên thì có_thể nghĩ đến việc đạt 8-10 trong kỳ thi THPT quốc_gia .
+Còn nếu_không các em hãy xác_định mục_tiêu cho phù_hợp năng_lực .
+Biết mình biết ta thì trăm trận trăm thắng .
+Học_sinh nếu có mục_tiêu đạt điểm 8 trở_lên cần bố_trí thời_gian ôn_tập thật chi_tiết .
+Nên dành khoảng 2 tuần_lễ để học và tổng_hợp tất_cả kỹ_năng làm bài cũng_như lý_thuyết cần nhớ , bám sát kiến_thức sách_giáo_khoa của các dạng Toán cơ_bản để đạt từ 1 đến 7 điểm như : Khảo_sát hàm_số và bài_toán liên_quan , Lượng_giác , Mũ và logarit , Số_phức , Tích_phân , Hình giải_tích không_gian Oxyz , Xác_suất và Nhị_thức niu tơn , Hình_học_không_gian .
+Đảm_bảo rằng các em phải kiếm trọn_vẹn 7 điểm này .
+Thời_gian còn lại hãy học song_song 2 chủ_đề lấy 8 và 9 điểm .
+Câu điểm 8 :   Thường là câu về tọa_độ phẳng Oxy .
+Xu_hướng ra đề gần đây là từ hình_vẽ phát_hiện ra một tính_chất đặc_biệt như quan_hệ vuông_góc , song_song … rồi chứng_minh tính_chất này .
+Muốn học_phần này dễ_dàng , các em cần học được cách khai_triển bài_toán , chứ không phải học thuộc tính_chất có sẵn của hình_vẽ , như_vậy sẽ bị_động và hoang_mang .
+Gặp mỗi bài_toán mới , các em sẽ như chàng tí_hon mà gặp một cơn bão lớn .
+Vì_vậy , cần biết cách khai_triển bài_toán bất_kỳ , ví_dụ :
+- Nếu yêu_cầu tìm điểm M mà cho_biết tọa_độ một điểm E thì nghĩ tới việc tính khoảng_cách ME .
+- Nếu yêu_cầu tìm điểm M mà cho_biết tọa_độ hai điểm E , F thì nghĩ tới việc phát_hiện tam_giác MEF vuông , cân hay đều …
+Còn việc chứng_minh cũng cần học kỹ_thuật khai_triển .
+Có như_vậy các em mới thấy câu Oxy thật nhẹ_nhàng , và chỉ cần 2 tuần học là học_sinh có_thể tự_tin về câu này .
+Câu điểm 9 :   Thường là câu về phương_trình , bất_phương_trình , hệ phương   trình .
+Để làm được câu này , học_sinh cần học bài_bản các kỹ_thuật giải chính như liên_hợp , đặt nhân tử chung , hàm đặc_trưng , đặt ẩn phụ , đánh_giá ...
+Đây là câu vận_dụng mức_độ cao nhưng không phải là quá khó , cần nắm vững kỹ_thuật và làm nhiều bài_tập tự luyện để hình_thành phản_xạ thì việc kiếm được 0,75 điểm - 1 điểm của câu này là trong tầm tay .
+Câu điểm 10 :   Thường là câu thuộc chủ_đề bất_đẳng_thức , giá_trị lớn nhất , giá_trị nhỏ nhất .
+Câu này dành cho các em đã có cả một quá_trình ôn_luyện rất dài , và phải có tư_duy rất tốt .
+Để làm được câu này cần nắm vững kỹ_thuật chọn điểm rơi ; các bất_đẳng_thức phụ cơ_bản và ý_tưởng khai_triển bài_toán .
+Tuy_nhiên , nếu trong quá_trình ôn_tập mà luôn gặp khó_khăn với câu_hỏi “ vàng_mười ” này thì học_sinh nên bỏ_qua , để_dành thời_gian để kiếm trọn 9 điểm những câu trước , vì 9 điểm đã là thành_công rồi .
+Thời_gian không còn quá nhiều để học lan_man , hãy phân_bổ thời_gian hợp_lý , lựa_chọn kiến_thức phù_hợp với năng_lực của mình đề có_thể đạt được điểm_số cao trong kỳ thi .
+Lê_Anh_Tuấn Giảng_viên Đại_học Công_nghiệp Hà_Nội

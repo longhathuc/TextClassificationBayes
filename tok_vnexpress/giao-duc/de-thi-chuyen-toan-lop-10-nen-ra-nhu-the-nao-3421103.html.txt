@@ -1,0 +1,48 @@
+Đề thi chuyên toán lớp 10 nên ra như_thế_nào
+" Nếu ra đề thi chuyên Toán dễ thì các trường nhận được những học_sinh khá đều , còn ra đề quá khó sẽ ấn nút cho những cuộc chạy_đua học thêm " , TS Trần_Nam_Dũng ( Đại_học Quốc_gia TP_HCM ) chia_sẻ quan_điểm .
+Đề tuyển_sinh vào chuyên toán của các trường chuyên có nhiệm_vụ quan_trọng là chọn ra những học_sinh giỏi , có tố_chất để tiếp_tục bồi_dưỡng , đồng_thời từ đề thi định_hướng cho việc giảng_dạy ( mức chuyên_sâu ) ở các trường THCS .
+Theo tôi , có hai xu_thế ra đề không làm tốt cả hai nhiệm_vụ nói trên .
+Một là ra đề dễ quá , gọi_là toán thường nâng cao một_chút .
+Hai là ra khó quá , cao quá .
+Ở tình_huống thứ nhất , do đề chuyên quá dễ , quá bình_thường nên các em giỏi toán hơn sẽ không có lợi_thế gì , và kết_quả là những bạn học cẩn_thận , có điểm văn và anh_văn cao sẽ vào chuyên toán .
+Chúng_ta sẽ nhận được các bạn học khá đều , nhưng có_thể sẽ đánh mất những học_sinh có năng_khiếu nổi_trội về toán .
+Cách này cũng không định_hướng được gì cho sự chuẩn_bị học_sinh ở cấp THCS , hệ_quả là các mảng toán lạ một_chút như số_học , tổ_hợp sẽ không được dạy .
+Học_sinh lên_lớp 10 chuyên sẽ là một tờ giấy trắng , không_thể dạy cho kịp một lúc cả 5 môn : đại_số , hình_học , giải_tích , số_học , tổ_hợp .
+Cách thứ_hai cũng không tốt .
+Ra đề quá khó sẽ ấn nút cho những cuộc chạy_đua_vũ_trang , cho các buổi học thêm triền_miên .
+Rồi cũng có em làm được , có em không .
+Có em vận_dụng được những chiêu thầy dạy , có em may_mắn hơn trúng_tủ .
+Nhưng thực_tế là với cách tuyển_sinh này , ta sẽ tuyển được những em học nhiều và dùng được_cái mình đã học ( cũng là không tệ ) chứ không phải các em giỏi thực_sự , thông_minh thực_sự , có khả_năng giải_quyết được các vấn_đề mới một_cách độc_lập .
+Điều đáng nói ở cách ra đề thứ_hai là các bài khó thường lại không phải bài sáng_tác mà là các bài lấy từ sách hoặc từ các cuộc_thi .
+Rất nhiều bài lấy từ các đề thi olympic cho học_sinh cấp 3 .
+Vậy_là vô_tình chúng_ta đã định_hướng để các em và các thầy trang_bị các công_cụ của cấp 3 và học thật nhiều để mong trúng_tủ .
+Cả hai hệ_quả này đều rất tai_hại , ít_nhất là cho số đông .
+Để minh_họa , đôi xin dẫn ra một số_đề thi mới nhất , tôi cũng giải_thích sơ qua về nguồn hay ý_tưởng bài_toán để chúng_ta thấy rõ hơn .
+Người không quen với toán chuyên thì tất_nhiên gặp những bài_toán này là bí .
+Nhưng người quen với toán chuyên cũng không hề dễ .
+Có_thể nói rằng tất_cả những bài_toán này đều thuộc vào tầm_cỡ đề thi học_sinh giỏi lớp 12 hay đề thi chọn đội_tuyển 12 .
+Ở đây tôi mới chọn các bài_toán ở 2 chủ_đề : Bất_đẳng_thức và số_học .
+Bài 1a ) không hề đơn_giản , phải dùng kỹ_thuật Cô-si ngược .
+Bài 2 nếu tôi nhớ không nhầm là một đề thi olympic của Mỹ .
+Bài 3 trong lời_giải phải dùng đến một bổ_đề mà nếu_không biết trước thì làm_sao mà đoán ra ( bài này rất khó_chịu vì là bất_đẳng_thức không thuần_nhất ) .
+Bài 4 khá khó , đặc_biệt tính_toán rất mệt nếu_không dùng kiến_thức cấp 3 .
+Bài 5 dùng đến bước nhảy Viét là kỹ_thuật mà bây_giờ dân chuyên toán cấp 3 đã được học .
+Bài 6 có hơi_hướng gần với một bài APMO .
+Nếu_như trong cả đề thi chỉ có một bài khó như ở trên thì cũng không sao , gọi_là câu phân_loại .
+Nhưng thực_tế thì đề thi toàn những câu khó nhằn như_vậy , nhiều câu tính_toán rất rối_rắm .
+Tôi nhờ Lê_Phúc_Lữ giải hộ một bài hình cũng nằm trong đề thi chuyên .
+Vậy_mà bạn phải mất một đêm mới giải ra với 6 cái bổ_đề .
+Nghe phụ_huynh Hà_Nội nói , câu 2 của bài hình năm nay cũng khó cỡ câu b của bài_toán mà bạn Lữ làm .
+Tôi thực_sự mong_muốn   chúng_ta có những đầu_tư bài_bản cho đề thi_tuyển sinh lớp 10 chuyên toán , vì suy cho cùng , thi_cử và điểm_số rồi cũng qua đi , nhưng cách ta dạy và cách ta học mới là quan_trọng .
+Nếu học_sinh giỏi và thi đậu chủ_yếu do luyện và nhồi , trong đó nhồi cả kiến_thức lớp trên thì về cơ_bản đó là tình_huống không tốt .
+Chúng_ta có_thể có những nhân_vật nổi_trội như Lê_Tự_Quốc_Thắng , Nguyễn_Tiến_Dũng , Ngô_Bảo_Châu , Lê_Hùng_Việt_Bảo ... có_thể ngốn trước cả sách tô - pô , giải_tích Rudin ... từ thời phổ_thông , nhưng đó không_thể là cách làm cho một_số đông học_sinh , vốn chưa đủ lực cho một cuộc chạy_đua như_thế .
+Tôi rất thích cách ra đề của Nga .
+Bài_toán rất nhẹ_nhàng , đòi_hỏi tư_duy chứ không thiên về kỹ_thuật .
+Và tuyệt_nhiên là đừng bao_giờ mong trúng_tủ .
+Dưới đây giới_thiệu một_vài đề toán của Nga .
+Mọi người nhìn kỹ : Rất ít công_thức .
+Tôi biết là ở Nga có một ban chuyên_môn gồm mấy chục người , chuyên soạn đề ( Shortlist ) và gửi các booklet về cho các trường tham_khảo để làm đề thi_tuyển sinh cũng_như đề thi chọn học_sinh giỏi .
+Các trường có_thể chế_biến , sáng_tạo thêm nhưng cuốn booklet chuyên_môn này rất giúp_ích .
+Ta hoàn_toàn có_thể học_tập họ .
+Phải có những thay_đổi .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

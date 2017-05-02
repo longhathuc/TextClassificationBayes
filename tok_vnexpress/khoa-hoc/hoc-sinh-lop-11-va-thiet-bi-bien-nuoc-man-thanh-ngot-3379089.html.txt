@@ -1,0 +1,26 @@
+Học_sinh lớp 11 và thiết_bị biến nước_mặn thành ngọt
+Nhóm thầy_trò ở Bến_Tre vừa thành_công trong việc tạo ra thiết_bị lọc nước_mặn thành nước_ngọt bằng cách tận_dụng pin mặt_trời .
+Trước tình_trạng hạn_hán , xâm_nhập mặn đang diễn ra gay_gắt ở đồng_bằng sông Cửu_Long , nhiều hộ gia_đình không có nước sinh_hoạt , nhóm thầy_trò trường THPT Nguyễn_Đình_Chiểu ( TP Bến_Tre , tỉnh Bến_Tre ) đã hình_thành ý_tưởng lọc nước_mặn thành nước_ngọt dùng năng_lượng mặt_trời .
+Nghiên_cứu được thực_hiện từ tháng 5/2015 đến nay .
+Có nhiều cách để lọc nước_mặn thành ngọt như khử muối , lọc bằng công_nghệ nano , nhưng nhóm đã chọn chưng_cất bằng cách tận_dụng năng_lượng mặt_trời , nhằm tiết_kiệm tài_nguyên thiên_nhiên , bảo_vệ môi_trường và góp_phần chống biến_đổi khí_hậu .
+Thầy_Trương_Hữu_Dũng cho_biết , thiết_bị gồm ba bộ_phận là phần đun sôi nước_mặn được tạo bởi ống thủy_tinh chân_không có khả_năng hấp_thụ 93% lượng ánh_sáng mặt_trời , từ đó biến quang_năng thành nhiệt_năng đun sôi nước_mặn .
+Ống trong_suốt cho_phép các tia_sáng đi qua và phản_chiếu tối_thiểu .
+Ống bên trong được phủ một lớp hấp_thụ sơn bằng công_nghệ phun mạ nên tính hấp_thụ bức_xạ mặt_trời cao .
+Bên dưới là lớp máng inox để giúp hấp_thụ thêm ánh_sáng mặt_trời .
+Bộ_phận thứ_hai là bình bảo ôn được làm từ nhựa chịu_nhiệt hình chữ T .
+Nhóm thiết_kế hai bình nhựa có khả_năng chịu nhiệt_độ cao , có_thể lồng vào nhau , và có một khoảng_trống ở giữa để đổ lớp cách_nhiệt .
+Bộ_phận thứ_ba là bình chưng_cất làm_bằng kính 8 mm , cấu_tạo 2 lớp .
+Lớp kính bên ngoài hình_hộp_chữ_nhật trong_suốt cho_phép các tia_sáng đi qua ; lớp bên trong nhỏ hơn , có hình ngôi nhà với bề_mặt được sơn đen giúp hấp_thụ ánh_sáng mặt_trời từ chảo parabol bằng inox đặt bên dưới .
+Ở giữa hai lớp kính này được hút chân_không để giữ nhiệt .
+Một tấm inox đặt ở mặt trên " mái nhà " chứa nước_mặn mát giải_nhiệt để hơi_nước ngưng_tụ mặt dưới của " mái nhà " và chảy nghiêng xuống ống dẫn ra ngoài , đây là nước_ngọt .
+Phần nước_mặn dùng giải_nhiệt có đường_ống dẫn qua bình bảo ôn và có van khoá lại khi cần thì mở cho nước chảy qua .
+Khung chảo parabol ở bên dưới có dạng hình_nón , được làm_bằng sắt và sơn chống sét .
+Nó được gắn trên hệ_thống giá đỡ có_thể xoay theo hướng mặt_trời .
+Nhóm đã sử_dụng inox có độ sáng bóng tốt , phản_xạ ánh_sáng tốt và không bị ôxy hóa để làm chảo parabol .
+Với thiết_kế như trên , người dùng sẽ đổ nước_mặn vào mặt trên của bình chưng_cất , sau đó mở van nước sẽ chảy qua bình bảo ôn , xuống ống_chân không hấp_thu nhiệt từ ánh nắng mặt_trời nóng lên đối_lưu với nước_lạnh hơn trong bình bảo ôn ( tỷ_trọng nước nóng nhẹ hơn nước_lạnh nên nước nóng nổi lên trên , nước_lạnh chìm xuống ) .
+Lúc này nước trong bình bảo ôn nóng dần lên ( cao nhất trong khoảng 75 đến 85 độ C ) , nước nóng qua phần dưới của bể chưng_cất tiếp_tục hấp_thu nhiệt từ chảo parabol , bốc_hơi ( hơi nước_ngọt ) , ngưng_tụ mặt dưới của tấm inox chảy xuống ống nhựa ra ngoài đến bình chức nước_ngọt .
+Em_Nguyễn_Tấn_Lợi cho_biết , khó_khăn lớn nhất_là sử_dụng nguồn năng_lượng mặt_trời .
+Bởi khi trời mát nhiệt sẽ bị mất ở 2 bộ_phận là bình bảo ôn và bể chưng_cất , nên nhóm đã mất nhiều thời_gian để khắc_phục .
+Nếu đưa vào sử_dụng , chiếc máy sẽ có giá_thành   dưới 2 triệu đồng , đạt 6 lít/ngày .
+Nhóm dự_định tiếp_tục tạo ra phiên_bản mới với cải_tiến hiện_đại hơn .
+Phạm_Hương

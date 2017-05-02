@@ -1,0 +1,22 @@
+Đề_xuất không cho người xâm_hại an_ninh quốc_gia kết_nối mạng
+Dự_thảo Nghị_định quy_định về bảo_đảm an_ninh không_gian mạng quốc_gia do Bộ Công an xây_dựng bắt_đầu lấy ý_kiến đóng_góp từ ngày 7/4 , kéo_dài 2 tháng .
+Theo dự_thảo , không_gian mạng quốc_gia là mạng_lưới kết_nối toàn_cầu của các cơ_sở_hạ_tầng công_nghệ_thông_tin bao_gồm : mạng Internet ; mạng viễn_thông ; hệ_thống máy_tính ; hệ_thống xử_lý và điều_khiển thông_tin được Nhà_nước xác_lập phạm_vi quản_lý , kiểm_soát trực_tiếp hoặc gián_tiếp bằng chính_sách , pháp_luật và năng_lực công_nghệ .
+Hoạt_động xâm_phạm an_ninh không_gian mạng quốc_gia được hiểu hành_vi sử_dụng không_gian mạng xâm_phạm chủ_quyền quốc_gia , chế_độ chính_trị , kinh_tế , văn_hóa , an_ninh , quốc_phòng , đối_ngoại , độc_lập , chủ_quyền ...
+Bộ Công an đưa ra 9 kế_sách chống hacker xâm_phạm an_ninh mạng quốc_gia , cụ_thể :
+- Tuyên_truyền , giáo_dục về bảo_đảm an_ninh không_gian mạng quốc_gia .
+- Công_bố tiêu_chuẩn quốc_gia về bảo_đảm an_ninh hệ_thống thông_tin quan_trọng về an_ninh quốc_gia .
+- Thanh_tra , kiểm_tra , đánh_giá công_tác bảo_đảm an_ninh hệ_thống thông_tin quan_trọng về an_ninh quốc_gia .
+- Chứng_nhận hợp chuẩn bảo_đảm an_ninh hệ_thống thông_tin quan_trọng về an_ninh quốc_gia .
+- Kiểm_tra , phát_hiện , yêu_cầu cơ_quan , tổ_chức , cá_nhân khắc_phục điểm yếu , lỗ_hổng bảo_mật của hệ_thống thông_tin là mục_tiêu của hoạt_động xâm_phạm an_ninh không_gian mạng quốc_gia .
+- Giám_sát , cảnh_báo , ứng_cứu , khắc_phục sự_cố xảy_ra đối_với hệ_thống thông_tin quan_trọng về an_ninh quốc_gia .
+Thiết_lập tường lửa , sử_dụng thiết_bị bảo_mật , phần_mềm , công_cụ kỹ_thuật để ngăn_chặn , hạn_chế truy_cập tới các vùng thông_tin do Nhà_nước quản_lý khi có yêu_cầu .
+- Tổ_chức nghiên_cứu khoa_học , giải_pháp , công_nghệ , thử_nghiệm , ứng_dụng , sản_xuất , cung_cấp hệ_thống bảo_đảm an_ninh không_gian mạng quốc_gia .
+- Thu_hút , giáo_dục , bồi_dưỡng , đãi_ngộ nguồn nhân_lực chất_lượng cao về công_nghệ_thông_tin , chuyên_gia an_ninh mạng thực_hiện nhiệm_vụ bảo_đảm an_ninh không_gian mạng quốc_gia .
+- Bảo_đảm trang_bị cho cơ_quan chuyên_trách bảo_đảm an_ninh không_gian mạng quốc_gia .
+Cũng theo dự_thảo Nghị_định , để 9 kế_sách nói trên có hiệu_quả , các cơ_quan liên_quan như : Bộ Công an , Bộ Thông tin truyền_thông , các doanh_nghiệp cung_cấp mạng viễn_thông ... phải cùng có trách_nhiệm thực_hiện .
+Trong đó có những việc cần làm sau :
+- Chủ_động loại_bỏ thông_tin có nội_dung chống nhà_nước trên không_gian mạng ; tạm dừng hoặc chấm_dứt cung_cấp dịch_vụ viễn_thông , Internet với các tổ_chức , cá_nhân sử_dụng không_gian mạng xâm_phạm an_ninh không_gian mạng quốc_gia theo yêu_cầu của cơ_quan chuyên_trách bảo_đảm an_ninh không_gian mạng quốc_gia .
+- Xây_dựng các phương_án , giải_pháp phản_ứng nhanh với sự_cố an_ninh mạng , mối đe_dọa an_ninh mạng như lỗ_hổng bảo_mật , virut , tấn_công mạng , xâm_nhập mạng và những sự_cố , đe_dọa khác .
+Khi xảy_ra sự_cố an_ninh mạng , ngay_lập_tức triển_khai phương_án khẩn_cấp , biện_pháp ứng_phó thích_hợp , đồng_thời báo_cáo với cơ_quan chuyên_trách bảo_đảm an_ninh không_gian mạng quốc_gia theo quy_định .
+-   Tạm ngừng hoặc dừng kết_nối đối_với các tổ_chức , cá_nhân xâm_phạm an_ninh không_gian mạng quốc_gia khi có yêu_cầu bằng văn_bản của cơ_quan chuyên_trách bảo_đảm an_ninh không_gian mạng quốc_gia ...
+Bảo_Hà

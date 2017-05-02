@@ -1,0 +1,46 @@
+Học đại_học trong 2 năm
+Nếu biết cách sắp_xếp , bạn chỉ mất 2 năm để sở_hữu tấm bằng đại_học trong tay .
+Đó là chương_trình học đặc_biệt ở Đại_học trực_tuyến FUNiX .
+Sinh_viên chủ_động thời_gian học nên có_thể hoàn_thành các chứng_chỉ cần_thiết và cầm_bằng đại_học trong tay sau 2 năm theo học .
+Cụ_thể , thay_vì phải học đại_cương dàn_trải , với chương_trình đào_tạo gồm 8 chứng_chỉ , tại FUNiX , sinh_viên tiếp_cận môn chuyên_ngành ngay tiết học đầu_tiên .
+Học online , trường sử_dụng giáo_trình từ các nguồn mở ( MOOC ) của các đại_học nỗi tiếng , sau đó được các chuyên_gia xây_dựng lại cho phù_hợp với nội_dung đào_tạo của trường .
+Chương_trình học linh_động
+Toàn_bộ khóa học có 8 chứng_chỉ gồm : Công_dân số , Lập_trình_viên ứng_dụng mobile , Lập_trình_viên ứng_dụng doanh_nghiệp , Chứng_chỉ Thông_thạo môi_trường làm_việc Công_nghệ_thông_tin , Kỹ_sư phần_mềm cơ_bản , Dưỡng nghiệp , Chuyên_viên hệ_thống thông_tin , Kỹ_sư phần_mềm .
+Tuy_nhiên , học_viên không bắt_buộc phải học theo trình_tự mà có_thể học bất_kỳ chứng_chỉ nào .
+Hoàn_thành mỗi chứng_chỉ sẽ được cấp bằng tương_đương .
+Ngay từ tiết học đầu_tiên , sinh_viên đã trực_tiếp học chuyên_ngành từ các chuyên_gia công_nghệ .
+Về chương_trình học , ở chứng_chỉ đầu_tiên - Digital_Citizenship - Công_dân số , sinh_viên nắm_bắt cách làm_chủ máy_tính , xây_dựng website và phần_mềm .
+Sau khi hoàn_thành chứng_chỉ này , sinh_viên có khả_năng sử_dụng máy_tính và các công_cụ thành_thạo , có_thể dựng cho mình website và lập_trình đơn_giản , kinh_doanh trên mạng ...
+Chứng_chỉ Lập_trình_viên ứng_dụng mobile là những tiết học giới_thiệu về khoa_học máy_tính ; Lập_trình hướng đối_tượng ( bằng Java ) ; Lập_trình di_động ; Phát_triển game ; Online lab 1 .
+Sau chứng_chỉ này , người học có khả_năng lập các ứng_dụng trên mobile và games , có_thể ứng_tuyển vào các công_ty mobile apps .
+Ở chứng_chỉ số 3 - Chứng_chỉ Lập_trình_viên ứng_dụng doanh_nghiệp , sinh_viên sẽ học và thực_hành các kỹ_năng xây_dựng phần_mềm lớn , phục_vụ doanh_nghiệp , có_thể tham_gia các dự_án phần_mềm .
+Không_chỉ đào_tạo sâu về chuyên_môn , chứng_chỉ số 4 giới_thiệu các kỹ_năng mềm , giúp sinh_viên làm_quen với môi_trường làm_việc .
+Với chứng_chỉ Thông_thạo môi_trường làm_việc công_nghệ_thông_tin , sinh_viên học về An_ninh mạng ; Quản_trị dự_án ; Đạo_đức trong công_nghệ_thông_tin và giao_tiếp trong kinh_doanh .
+Chứng_chỉ số 5 với tên gọi Kỹ_sư phần_mềm cơ_bản .
+Đạt   chứng_chỉ này , sinh_viên sẽ nắm được quy_trình sản_xuất một phần_mềm lớn chuyên_nghiệp , có_thể đi thực_tập hoặc tham_gia vào vị_trí bắt_đầu tại các công_ty phần_mềm chuyên_nghiệp .
+Còn chứng_chỉ Dưỡng nghiệp sẽ đào_tạo các kiến_thức cơ_bản để mỗi học_viên có_thể khởi_nghiệp tốt , có kinh_nghiệm trong lĩnh_vực kinh_doanh .
+Các môn_học trong chứng_chỉ này gồm : Kế_toán căn_bản ; Luật thực_hành ; Khởi_nghiệp ; Kinh_doanh kiểu FPT .
+Chứng_chỉ số 7 - Chuyên_viên hệ_thống thông_tin , sinh_viên có_thể chọn các chuyên_ngành để đi_sâu như : Hệ_thống thông_tin , Phần_mềm nhúng , Robotic , Trí_tuệ_nhân_tạo … Có chứng_chỉ này , sinh_viên có_thể tham_gia các dự_án chuyên_sâu .
+Chứng_chỉ cuối_cùng - Kỹ_sư phần_mềm .
+Học_viên sẽ được học các kiến_thức cần_thiết để có_thể trở_thành một kỹ_sư chuyên_nghiệp như : Toán cao_cấp cho kỹ_thuật ; Xác_suất thống_kê .
+Tiếp đến , sinh_viên phải hoàn_thành các môn đại_cương cơ_bản bắt_buộc của chương_trình đại_học gồm : Các nguyên_lý cơ_bản của Chủ_nghĩa Mác - Lênin ; Tư_tưởng Hồ_Chí_Minh và Đường_lối cách_mạng của Đảng cộng_sản Việt_Nam .
+Sinh_viên sẽ phải làm đồ_án tốt_nghiệp để nhận bằng Kỹ_sư công_nghệ_thông_tin .
+Đây là bằng đại_học được Bộ Giáo dục - Đào_tạo công_nhận .
+Với bằng này , sinh_viên dễ_dàng tìm việc trong các công_ty công_nghệ hoặc học lên bậc cao_học , tiến_sĩ .
+Được giảng_dạy bởi chuyên_gia
+FUNiX hiện có 255 mentor đăng_ký tham_gia giảng_dạy , trong đó 55 người tham_gia hệ_thống trực_tuyến thường_xuyên để giải_đáp thắc_mắc của sinh_viên , 200 mentor dự_bị còn lại sẵn_sàng hỗ_trợ thông_tin và tham_gia giảng_dạy khi cần_thiết .
+Các mentor của trường này không phải là những nhà_giáo mang học_hàm giáo_sư , tiến_sĩ mà là những người đứng đầu trong các công_ty , doanh_nghiệp lớn .
+Ngoài kiến_thức chuyên_ngành , họ dùng những kinh_nghiệm thực_tế của mình để truyền_tải tới sinh_viên .
+Tất_cả mentor được mời giảng_dạy đều có hàng chục năm kinh_nghiệm và hiện nắm giữ các chức_vụ quan_trọng trong các công_ty công_nghệ hàng_đầu Việt_Nam .
+Cụ_thể như ông Nguyễn_Thành_Nam - là một trong 13 người sáng_lập ra Tập_đoàn FPT ; mentor Nguyễn_Thành_Lâm là cựu CEO của FPT Software ; ông Hoàng_Tô - là người đứng đầu Công_ty TNHH Công_nghệ Tin_học Tinh_Vân ...
+Điều đặc_biệt là họ không lên_lớp đứng giảng mà chỉ nhận trả_lời các câu_hỏi , hướng_dẫn sinh_viên qua hệ_thống online .
+Với cơ_chế trả lương khác_biệt , mức thu_nhập của các mentor tỷ_lệ_thuận với số câu_hỏi nhận được từ sinh_viên .
+Do_vậy , mentor nào được nhiều sinh_viên chọn hỏi thì càng nhận thu_nhập cao .
+Có nhiều cơ_hội việc_làm
+Thay_vì học theo giáo_trình , chương_trình ở FUNiX do các chuyên_gia giáo_dục phối_hợp với doanh_nghiệp xây_dựng , do_vậy sinh_viên sẽ được học những kiến_thức , kinh_nghiệm cần_thiết nhất cho công_việc .
+Trường còn ký_kết với các doanh_nghiệp , sau khi hoàn_thành 3 học_kỳ , sinh_viên được nhận vào FPT Software thực_tập có lương .
+Tại đây , học_viên được tham_gia vào các dự_án phần_mềm .
+Kết_thúc khóa thực_tập , học_viên có_thể tiếp_tục ở lại làm_việc , với những học_viên nào làm_việc hiệu_quả có_thể vào làm nhân_viên chính_thức .
+Ngoài_ra , còn có rất nhiều nhà tuyển_dụng của các công_ty phần_mềm tham_gia giảng_dạy ở FUNiX .
+Trong quá_trình hướng_dẫn , nếu tìm thấy ứng_viên phù_hợp cho công_ty họ có_thể tuyển_dụng học_viên bất_cứ lúc_nào .
+N.Loan

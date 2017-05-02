@@ -1,0 +1,17 @@
+Tìm thấy số_nguyên_tố lớn nhất từ trước tới nay
+Nhóm nghiên_cứu tại Đại_học Central_Missouri , Mỹ , công_bố số_nguyên_tố lớn nhất từ trước đến nay với 22 triệu chữ_số , lớn hơn 4 lần so với kỷ_lục cũ .
+Số_nguyên_tố lớn nhất 274.207.281
+- 1 được tìm ra bởi nhà_khoa_học Curtis_Cooper và các cộng_sự trong nhóm Great_Internet_Mersenne_Prime_Search ( GIMPS ) .
+Đây là kết_quả từ nỗ_lực của nhiều tình_nguyện_viên nhằm tìm những số_nguyên_tố lớn hơn có dạng 2n - 1 theo thuật_toán Mersenne .
+Kỷ_lục về số_nguyên_tố lớn nhất trước đó do chính nhóm của Cooper công_bố và họ đã từng phá kỷ_lục 4 lần .
+Theo Phys . org ,
+Cooper nhận được thư_điện_tử thông_báo về số_nguyên_tố lớn nhất do phần_mềm tính_toán trên máy_tính gửi .
+Kết_quả ra_đời sau một tháng tính_toán liên_tục trên máy_tính_cá_nhân .
+Điều thú_vị là máy_tính từng thông_báo cho Cooper và nhóm của ông về kết_quả này hồi tháng 9 năm_ngoái nhưng một trục_trặc khiến cho email không được gửi đi .
+Đến hôm 7/1 , email về số_nguyên_tố lớn nhất mới xuất_hiện trong hòm_thư của Cooper khi hệ_thống máy_tính được bảo_dưỡng định_kỳ .
+Việc tìm_kiếm các số_nguyên_tố mới và lớn hơn được thực_hiện bằng cách sử_dụng phần_mềm Prime95 do GIMPS phát_triển .
+Phần_mềm này chạy liên_tục suốt nhiều ngày cho_đến khi tìm thấy một_số nguyên_tố mới .
+Số_nguyên_tố mới được đặt tên là M74207281 , có giá_trị bằng 274.207.281
+- 1 . Nó đã được thử_nghiệm và xác_nhận bởi ba nhóm nghiên_cứu độc_lập khác_nhau .
+Mục_tiêu trong tương_lai của nhóm GIMPS là tìm ra số_nguyên_tố gồm 100 triệu chữ_số .
+Thanh_Tùng

@@ -1,0 +1,41 @@
+Những vụ lộ dữ_liệu gây chấn_động trong kỷ_nguyên số
+Trước " Hồ_sơ Panama " , thế_giới từng rúng_động trước những thông_tin của " người lộ mật " Edward_Snowden hay các tài_liệu về chính_phủ do WikiLeaks tung ra .
+Hàng_loạt vụ rò_rỉ thông_tin diễn ra thời_gian qua cho thấy những khối_lượng dữ_liệu khổng_lồ có_thể bị can_thiệp , đánh_cắp như_thế_nào nhờ công_nghệ hiện_đại .
+Hồ_sơ Panama
+Ngày 3/4/2016 , khoảng   11,5 triệu tài_liệu , trong đó có 4,8 triệu e - mail , 2,5 triệu bộ hồ_sơ với dung_lượng 2,6 terabyte từ năm 1977 đến cuối 2015 của công_ty luật Mossack_Fonseca ở Panama bị rò_rỉ , hé lộ mạng_lưới công_ty " ma " khổng_lồ trên thế_giới .
+Chúng được cho là lập ra để giúp người giàu né thuế và trong một_số trường_hợp là rửa_tiền .
+Nhiều công_ty được đề_cập có liên_quan đến thân_tín của các chính_khách và người nổi_tiếng trên thế_giới .
+Phát_hiện chấn_động này đòi_hỏi nỗ_lực của nhiều nhà_báo , mà trong đó Hiệp_hội Phóng_viên Điều_tra Quốc_tế ICIJ là tổ_chức đóng vai_trò trung_tâm .
+Trước đó , ICIJ đã phơi_bày bí_mật về nhiều vụ gian_lận tài_chính , rửa_tiền , trốn_thuế ... qua các dự_án Offshore_Leaks 2013 ( 230 GB dữ_liệu ) ,   Lux_Leaks 2014 ( 4 GB ) và   Swiss_Leaks 2015 ( 3,3 GB ) .
+Quy_mô của Panama_Papers lớn hơn hẳn các đợt   công_khai dữ_liệu trước đó như   Offshore_Leaks ,   Lux_Leaks ...
+Trong khi đó , ông Ramon_Fonseca , đồng sáng_lập Mossack_Fonseca , cho rằng hệ_thống nội_bộ của công_ty đã bị thâm_nhập trái_phép và " bị hacker lấy cắp dữ_liệu " , nhưng báo_chí lại không hề đả_động tới hành_vi bất_hợp_pháp này mà chỉ nhắm vào tên_tuổi của những khách_hàng nổi_tiếng .
+" Thế_giới đang chấp_nhận rằng sự riêng_tư không phải là nhân_quyền " , Fonseca nói .
+' Người lộ mật ' Edward_Snowden
+Tháng 6/2013 , thế_giới ngỡ_ngàng khi cựu điệp_viên Edward_Snowden đã " tuồn " cho giới truyền_thông khoảng 50.000-200.000 tài_liệu tuyệt_mật của Cơ_quan an_ninh quốc_gia Mỹ ( NSA ) .
+Đáng chú_ý trong số này là chương_trình do_thám có tên PRISM .
+Edward_Snowden .
+Cụ_thể , NSA và Cục Điều tra Liên_bang Mỹ ( FBI ) có khả_năng truy_cập trực_tiếp vào máy_chủ để lấy các đoạn chat , e-mail , ảnh , video ... của người dùng từ nhiều công_ty công_nghệ hàng_đầu như Apple , Microsoft , Google , Facebook ...
+Họ đã thu_thập gần 100 tỷ mẫu dữ_liệu ( data report ) trên toàn_cầu , trong đó Mỹ chiếm khoảng 3 tỷ còn Iran đứng đầu với 14 tỷ .
+Snowden cho_hay lý_do anh công_khai thông_tin về PRISM là để bảo_vệ " sự tự_do cơ_bản của mọi người khắp thế_giới " .
+Anh được tôn là người_hùng nhưng cũng bị gán tội " kẻ phản_bội nước Mỹ " .
+Tài_liệu WikiLeaks
+Được nhà_sáng_lập Julian_Assange mở ra năm 2006 , trang Wikileaks đã công_bố hàng chục nghìn tài_liệu mật của nhiều nước trên thế_giới .
+Tâm điểm năm 2010 , WikiLeaks tung ra gần 500.000 tài_liệu mật của Mỹ liên_quan đến cuộc_chiến tại Afghanistan và Iraq .
+Ngày 29/11/2010 , 250.000 điện_tín ngoại_giao trong vòng ba năm của Mỹ cũng bị phát_tán ( còn gọi_là sự_cố Cablegate ) , mang tới góc nhìn chưa từng có về việc tranh_cãi của các đại_sứ_quán Mỹ trên thế_giới , quan_điểm phía sau " cánh_gà " của giới lãnh_đạo nhiều nước và những nhận_định về nguy_cơ hạt_nhân và khủng_bố .
+Julian_Assange và WikiLeaks .
+Đã có nhiều tranh_cãi xung_quanh những hành_động phơi_bày những thông_tin nhạy_cảm của trang_web này .
+Tuy_nhiên , trên thực_tế   Wikileaks   không_thể công_bố bất_cứ điều gì mà nó chưa được trao cho .
+Những vụ tấn_công bảo_mật quy_mô lớn
+Bên_cạnh các vụ công_khai tài_liệu mật kể trên , rất nhiều doanh_nghiệp trên toàn_cầu cũng bị hacker tấn_công , lấy đi thông_tin cá_nhân của hàng trăm triệu khách_hàng , người dùng , để lại   lại hậu_quả nghiêm_trọng và lâu_dài .
+Một_số trường_hợp tiêu_biểu có_thể kể đến thời_gian gần đây là :
+Sony   Pictures 2014 :   Bắt_đầu_từ ngày 24/11/2014 , Sony_Pictures_Entertainment hứng_chịu đợt tấn_công bảo_mật khiến toàn_bộ hệ_thống máy_tính nhân_viên tại hãng phim này bị tê_liệt .
+Tin_tặc đã lấy_được hơn 100 TB dữ_liệu khác_nhau , từ mật_khẩu của nhân_viên và thông_tin chi_tiết thẻ_tín_dụng tới lịch_sử y_tế và các chi_tiết về tiền_lương điều_hành .
+Hacker cũng phát_tán một_số e - mail của lãnh_đạo Sony_Pictures , trong đó có nhắc đến nhiều bí_mật của các ngôi_sao lớn tại Hollywood .
+Home_Depot và   JPMorgan   2014 :   Một vụ tấn_công gây xôn_xao được công_bố trong tháng 9/2014 là việc 56 triệu số thẻ_tín_dụng đã bị lấy cắp từ hệ_thống của chuỗi bán_lẻ đồ gia_dụng , vật_liệu xây_dựng Home_Depot tại Mỹ .
+Đáng lo_ngại là   tin_tặc   đã dùng thông_tin thẻ đánh_cắp được để mua thẻ trả trước , mua_sắm đồ điện_tử ...   Sang tháng 10 , đến lượt JPMorgan thông_báo tội_phạm mạng đã thu_thập được thông_tin của hơn 80 triệu tài_khoản khách_hàng trong một vụ tấn_công lớn từ mùa_hè 2014 .
+Hacker đã lấy_được thông_tin của 76 triệu cá_nhân và 7 triệu doanh_nghiệp nhỏ , trong đó gồm tên , địa_chỉ , số điện_thoại , email , cũng_như " một_số thông_tin nội_bộ liên_quan đến riêng người dùng " .
+Ashley_Madison 2015 : Cuối tháng 7/2015 , một nhóm hacker tự_xưng là Impact_Team đã tấn_công trang_web mai_mối Ashley_Madison - mạng xã_hội dành cho người cưới nhưng vẫn muốn tìm_kiếm các mối quan_hệ ngoài_luồng và có gần 37 triệu thành_viên .
+Nhóm tin_tặc đã tung ra công_cụ tìm_kiếm để người sử_dụng chỉ cần nhập họ tên hoặc địa_chỉ e - mail là đã có_thể tra_cứu xem ai đó từng tham_gia site này hay không .
+37 triệu nạn_nhân không phải là con_số lớn nhất , nhưng sự_cố đã để lại hậu_quả lâu_dài đến xã_hội như khiến không ít gia_đình lao_đao , mất việc , tự_tử , bị tống_tiền ...
+21,7 triệu người Mỹ bị lộ thông_tin :   Giữa tháng 6/2015 , Cơ_quan quản_lý nhân_sự của Mỹ ( OPM ) cho_biết hacker đã xâm_phạm cơ_sở_dữ_liệu của Chính_phủ Mỹ , đánh_cắp lượng thông_tin lớn nhất từ trước đến nay của chính_phủ Mỹ , bao_gồm dấu vấn tay , địa_chỉ , y_tế , lịch_sử tài_chính và các chi_tiết cá_nhân khác của 21,7 triệu người , tương_đương 7% dân_số nước Mỹ .   Quy_mô khổng_lồ của cuộc tấn_công mạng khiến Quốc_hội Mỹ phải mở hàng_loạt phiên điều_trần và OPM hứng_chịu sự chỉ_trích của cơ_quan an_ninh mạng của Mỹ .
+Châu_An

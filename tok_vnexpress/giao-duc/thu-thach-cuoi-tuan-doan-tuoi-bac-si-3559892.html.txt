@@ -1,0 +1,9 @@
+Thử_thách cuối tuần : Đoán tuổi bác_sĩ
+Một buổi_sáng , bác_sĩ Khánh nói với y_tá Hằng : “ Hôm_nay tôi khám bệnh cho 3 người .
+Tích_số tuổi của họ là 2450 và tổng_số tuổi của họ gấp 2 lần tuổi của cô .
+Hãy tính tuổi của mỗi người ” .
+Vào buổi_trưa , y_tá Hằng thừa_nhận không_thể trả_lời được câu_hỏi này .
+Khi đó bác_sĩ Khánh cho thêm dữ_kiện : “ Một trong 3 người đó lớn hơn tuổi của tôi ” .
+Ngay sau đó nữ y_tá đã trả_lời được câu_hỏi của bác_sĩ .
+Hỏi bác_sĩ bao_nhiêu tuổi .
+Trần_Phương

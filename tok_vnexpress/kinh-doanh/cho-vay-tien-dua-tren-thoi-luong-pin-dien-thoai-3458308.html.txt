@@ -1,0 +1,28 @@
+Cho vay tiền dựa trên thời_lượng pin điện_thoại
+Nhiều ngân_hàng châu Á đang sử_dụng hành_vi trên smartphone của khách_hàng để quyết_định liệu có nên cho vay hay không .
+Việc này nghe có_vẻ kỳ_lạ , nhưng Lenddo ( Singapore ) cho rằng nó sẽ giúp những người không có lịch_sử vay_mượn hay tài_khoản ngân_hàng có cơ_hội tiếp_cận vốn .
+Chủ_tịch kiêm nhà_sáng_lập Lenddo - Jeff_Stewart cho_biết họ đã giúp hàng chục ngân_hàng phân_tích số_liệu từ hàng triệu smartphone trên toàn_cầu .
+Hãng phần_mềm này sử_dụng hàng nghìn loại dữ_liệu , từ hoạt_động nhắn_tin và lướt web của người dùng , đến các ứng_dụng và mạng wifi họ sử_dụng .
+Các yếu_tố như trạm thu phát_sóng của điện_thoại đó cũng được phân_tích .
+Thói_quen sử_dụng smartphone cũng là một tiêu_chí đánh_giá cho vay .
+Ảnh : Digital_Trends
+" Tất_cả hoạt_động trên mạng xã_hội và điện_thoại đều có tính dự_báo " , Stewart cho_biết .
+Ví_dụ , khi nhắn_tin , loại ngôn_ngữ được sử_dụng và độ dài tin nhắn sẽ hé lộ phần_nào hành_vi của người dùng .
+Lượng pin còn lại dù không có mấy tác_dụng trong thực_tế , nó lại có_thể cho thấy khả_năng thống_nhất và lên kế_hoạch trước của người đó .
+Lenddo sử_dụng một thuật_toán phức_tạp để tổng_hợp tất_cả dữ_liệu này .
+Từ đó , máy_tính sẽ tính ra khả_năng vỡ_nợ của một người .
+Các ngân_hàng sẽ dựa vào đây để quyết_định khoản vay .
+Các nhà_băng có_thể mua phần_mềm của Lenddo , hoặc đặt_hàng họ viết phần_mềm riêng .
+Kết_quả tính_toán qua phần_mềm này sẽ có trong chưa đầy 3 phút .
+Công_nghệ của Lenddo đã giúp các ngân_hàng cho vay hàng triệu USD từ khi ra_mắt toàn_cầu tháng 1 năm_ngoái .
+Tuy_nhiên , chương_trình của họ được sử_dụng chủ_yếu tại các nước mới nổi , như ở châu Á , châu Phi và Mỹ_Latin .
+Phần_lớn người_dân các khu_vực này không có tài_khoản ngân_hàng hay thẻ_tín_dụng , nhưng lại ngày_càng dùng nhiều smartphone .
+Giá_trị trung_bình một khoản vay là một tháng lương .
+Ví_dụ , ở Philippines , con_số này là 400 USD , Stewart cho_biết .
+Thời_hạn hoàn_trả thường là 9 tháng .
+Mục_tiêu của Lenddo là giúp một tỷ người tiếp_cận dịch_vụ tài_chính , cho_đến năm 2020 .
+Dù_Lenddo không được sử_dụng tại Mỹ , các hãng bảo_hiểm như Liberty_Mutual hay State_Farm cũng đã bắt_đầu áp_dụng công_nghệ tương_tự để tính bảo_hiểm ôtô .
+Ví_dụ , họ yêu_cầu khách_hàng nộp các thông_tin liên_quan đến điện_thoại , thu_thập từ GPS ( hệ_thống_định_vị_toàn_cầu ) , máy đo tốc_độ hay vài thiết_bị cảm_biến khác để biết người đó lái_xe , phanh và rẽ thế_nào .
+Việc sử_dụng số_liệu smartphone trong ngành tài_chính cũng đang mở_rộng sang nhiều lĩnh_vực khác .
+Lenddo đã giúp các công_ty viễn_thông như Globe ( Philipines ) và Indosat ( Indonesia ) thành tổ_chức cho vay .
+Hà_Thu ( theo CNN )

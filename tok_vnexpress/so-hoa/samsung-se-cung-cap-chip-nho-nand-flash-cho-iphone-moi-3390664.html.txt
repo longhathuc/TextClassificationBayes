@@ -1,0 +1,15 @@
+Samsung sẽ cung_cấp chip nhớ NAND Flash cho i Phone mới
+Chip NAND Flash cho i Phone do Samsung sản_xuất sẽ sử_dụng công_nghệ chống nhiễu sóng_điện_từ ( EMI ) , thiết_kế nhỏ gọn và giá_thành rẻ .
+Samsng sẽ cung_cấp chip nhớ NAND Flash cho i Phone ?
+Theo ETNews ,   Samsung đã có động_thái mới nhằm nối lại đàm_phán cung_cấp chip nhớ NAND Flash cho các sản_phẩm của Apple .
+Cụ_thể , Samsung đã bắt_tay với các hãng bao_gồm Protec ( Hàn_Quốc ) , Asymtek ( Mỹ ) , Hansol_Chemical và Ntrium để phát_triển chip NAND Flash có EMI .
+Nguồn tin cho_biết , chip nhớ NAND Flash sẽ sử_dụng công_nghệ phun EMI mới thay_thế phun xạ ( sputtering ) trước_đây vốn phức_tạp và giá_thành đắt_đỏ .
+Đặc_biệt , việc áp_dụng công_nghệ phun mới cho_phép Samsung sản_xuất chip nhớ có kích_thước nhỏ gọn hơn nhiều so với hiện_nay .
+Chip thành_phẩm sau khi xuất_xưởng sẽ đáp_ứng các tiêu_chuẩn khắt_khe của Apple .
+Trước_đây , Apple từng sử_dụng chip nhớ NAND Flash của Samsung trên i Phone .
+Tuy_nhiên , đến i Phone 5 ( ra_mắt vào tháng 9/2012 ) , cả hai đã không còn hợp_tác với nhau ở lĩnh_vực này , do Samsung từ_chối yêu_cầu tích_hợp EMI vào chip nhớ .
+Cuối_cùng , Apple đã lựa_chọn một công_ty Hàn_Quốc khác , là Hynix .
+Theo nhận_định của một_số nhà_phân_tích , với các yếu_tố về giá_thành và nhất_là kích_thước nhỏ gọn ( để sản_xuất các thiết_bị mỏng nhẹ ) , Apple nhiều khả_năng sẽ quay lại hợp_tác với Samsung .
+Cũng theo nguồn tin , chip nhớ NAND Flash với EMI mới của Samsung sẽ xuất_xưởng trong năm 2016 .
+Hiện cả Apple lẫn Samsung đều chưa đưa ra bình_luận nào .
+Bảo_Lâm

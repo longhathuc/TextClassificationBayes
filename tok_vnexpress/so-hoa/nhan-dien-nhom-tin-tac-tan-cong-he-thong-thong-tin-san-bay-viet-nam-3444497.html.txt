@@ -1,0 +1,19 @@
+Nhận_diện nhóm tin_tặc tấn_công hệ_thống thông_tin sân_bay Việt_Nam
+1937cn được cho là nhóm tin_tặc nổi_tiếng Trung_Quốc , đã tổ_chức hàng nghìn cuộc tấn_công đến các website Việt_Nam , trong đó có cổng thông_tin của nhiều cơ_quan , tổ_chức nhà_nước .
+Hôm_nay 29/7 ,   hàng_loạt màn_hình hiển_thị thông_tin chuyến bay tại sân_bay Nội_Bài , Tân_Sơn_Nhất cùng hệ_thống phát_thanh của sân_bay bất_ngờ bị chèn nội_dung kích_động , xuyên_tạc về Biển_Đông .
+Tại   website của Hãng hàng_không Việt_Nam , người dùng khi truy_cập vào nhận được thông_báo website đã bị hack , nội_dung trang_chủ được thay_đổi hoàn_toàn .
+Trên trang xuất_hiện các ngôn_ngữ kích_động và để lại thông_tin rằng nhóm hacker 1937cn đã thực_hiện vụ tấn_công này .
+Ngoài_ra , trên Internet còn xuất_hiện file tập_hợp danh_sách trên 400 nghìn tài_khoản khách_hàng thành_viên của Việt_Nam_Airlines , trong đó bao_gồm họ tên , ngày_sinh , địa_chỉ .
+1937cn được biết đến là nhóm tin_tặc nổi_tiếng nhất Trung_Quốc .
+Theo hack - cn.com -   trang thống_kê và xếp_hạng hacker của Trung_Quốc , 1937cn đã thực_hiện trên 40.000 cuộc tấn_công trong thời_gian qua .
+Nhóm hacker hàng_đầu Trung_Quốc cũng được biết đến khi thực_hiện vô_số cuộc tấn_công vào hệ_thống mạng và website của các nước khu_vực châu Á , trong đó có Việt_Nam .
+Trang_web 1937cn.net đưa nhiều " chiến_tích " của nhóm , đồng_thời đăng_tải các thông_tin chính_trị nhạy_cảm .
+Thông_điệp mà 1937cn thường để lại khi tấn_công các website .
+Tháng 8/2013 , 1937cn đã tấn_công hai website Thegioididong.com.vn và Facebook.com.vn , chuyển_hướng người dùng sang một trang_web lạ với   lời_lẽ khiêu kích .   Sự
+cố đã được khắc_phục sau đó mà theo các chuyên_gia nhận_định , máy_chủ điều hướng hai tên_miền nói trên có_thể đã bị cài mã độc .
+Những cuộc tấn_công vào các website Việt_Nam tăng cao sau thời_điểm trên .
+Theo   SecurityDaily , chỉ trong hai ngày 10 và 11/5/2014 đã có hơn 200 trang_web của Việt_Nam trở_thành mục_tiêu của nhóm hacker Trung_Quốc , rồi để lại thông_tin kích_động , trong đó phần_lớn cho thấy do nhóm 1937cn thực_hiện .
+Đến tháng 6/2014 , số website Việt_Nam bị tấn_công đã tăng lên 1.000 trang .
+Đáng chú_ý , mục_tiêu nhóm hacker nhắm tới lần này là các website có tên_miền . edu.vn ( website liên_quan đến giáo_dục ) và . gov.vn ( trang_web dành cơ_quan , tổ_chức nhà_nước ) .
+Cùng thời_điểm , hàng trăm trang_web của Philippines cũng là nạn_nhân của các vụ hack .
+Xem thêm :   Hệ_thống thông_tin sân_bay bị tấn_công   /   Thông_tin 400.000 hành_khách của Vietnam_Airlines có_thể chứa mã độc

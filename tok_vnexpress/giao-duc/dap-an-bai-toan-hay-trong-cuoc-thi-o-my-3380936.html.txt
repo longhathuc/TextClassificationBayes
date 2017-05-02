@@ -1,0 +1,13 @@
+Đáp_án bài_toán hay trong cuộc_thi ở Mỹ
+Nhiều độc_giả đã tìm được đáp_án đúng là 60 học_sinh .
+Đây là đề toán trong cuộc_thi toán nước Mỹ ( American_Mathematical_Competition ) AMC 8 , diễn ra_vào tháng 11/2015 .
+Đề_bài :
+Ngày 1/6 , một nhóm học_sinh xếp thành hàng , 15 học_sinh mỗi hàng .
+Ngày 2/6 cũng nhóm học_sinh đó xếp thành 1 hàng dài .
+Đến ngày 3/6 , cũng nhóm đó xếp thành 1 hàng ngang ( tức_là mỗi hàng dọc 1 học_sinh ) .
+Ngày 4/6 , nhóm này xếp thành hàng , 6 học_sinh một hàng .
+Quá_trình này cứ kéo_dài mãi cho_đến ngày 12 với số học_sinh trong hàng ở mỗi ngày là khác_nhau .
+Tuy_nhiên đến ngày 13/6 thì họ không tìm được cách mới để xếp_hàng nữa .
+Hỏi số học_sinh trong nhóm ít_nhất là bao_nhiêu ?
+Đáp_án :
+TS Trần_Nam_Dũng ĐH Khoa_học_tự_nhiên , ĐH Quốc_gia TP_HCM

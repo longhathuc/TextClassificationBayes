@@ -1,0 +1,19 @@
+MoMo nhận giải sản_phẩm thanh_toán di_động tốt nhất VN
+Tạp_chí The_Asian_Banker đánh_giá ứng_dụng MoMo đem đến nhiều dịch_vụ thanh_toán di_động tiện_ích cho người dùng trên nền_tảng bảo_mật đa_lớp .
+MoMo là fintech đầu_tiên tại Việt_Nam được tạp_chí The_Asian_Banker trao giải " Sản_phẩm thanh_toán di_động tốt nhất Việt_Nam " .
+Lễ trao giải diễn ra tối 12/1 trong khuôn_khổ hội_nghị The_Future of Finance dành cho các nhà_lãnh_đạo trong lĩnh_vực dịch_vụ tài_chính Việt_Nam .
+Theo đại_diện tạp_chí The_Asian_Banker , qua quá_trình phỏng_vấn trực_tiếp , khảo_sát , chấm điểm độc_lập , hội_đồng chuyên_môn đánh_giá cao hoạt_động của MoMo trong lĩnh_vực tài_chính tại Việt_Nam .
+Ra_đời vào tháng 6/2014 , hiện ứng_dụng trên nền_tảng i OS và Android đã có hơn 2 triệu người dùng , chiếm 80% thị_phần ví điện_tử tại Việt_Nam .
+Ví điện_tử MoMo cung_cấp dịch_vụ thanh_toán một chạm ( One_Touch_Payment ) qua ứng_dụng trên smartphone .
+Người dùng có_thể chuyển_tiền , thanh_toán hóa_đơn hơn 100 dịch_vụ , thanh_toán thương_mại_điện_tử …
+Một điểm mạnh khác của MoMo là hệ_thống bảo_mật nhiều lớp như giao_dịch thanh_toán di_động tuân_thủ chứng_chỉ bảo_mật toàn_cầu PCI_DSS .
+Cơ_chế bảo_mật kép với mã OTP và mật_khẩu 6 số bảo_đảm an_toàn cho tài_khoản người dùng .
+MoMo không_lưu bất_kỳ thông_tin nào liên_quan đến mật_khẩu của người dùng .
+Việc áp_dụng chứng_chỉ số SSL tạo ra một liên_kết mã_hóa giữa máy_chủ và thiết_bị người dùng .
+Ứng_dụng còn tích_hợp bảo_mật 2 yếu_tố mà nhiều hãng công_nghệ lớn như Apple , Google , Amazon hay Microsoft sử_dụng .
+Đại_diện The_Asian_Banker đánh_giá , ngoài ứng_dụng công_nghệ hiện_đại , MoMo còn tiên_phong trong sáng_kiến thanh_toán trên di_động bằng cách cung_cấp nhiều dịch_vụ tài_chính cho người dùng mà không cần tài_khoản ngân_hàng .
+Những yếu_tố này giúp MoMo trở_thành fintech đón_nhận khoản đầu_tư lớn nhất tại Việt_Nam trong năm 2016 , lên đến 28 triệu USD từ Standard_Chartered và Goldman_Sachs để hỗ_trợ phát_triển sản_phẩm .
+The_Asian_Banker là nhà_cung_cấp các thông_tin tư_vấn , phân_tích từ chuyên_gia tài_chính , nhà_nghiên_cứu cho các doanh_nghiệp , tổ_chức tài_chính và ngân_hàng .
+Công_ty có trụ_sở tại Singapore và mở văn_phòng tại Malaysia , Hong_Kong , Trung_Quốc và Dubai , có đại_diện ở London , New_York và San_Francisco .
+The_Asian_Banker hoạt_động trong 3 mảng ấn_phẩm , dịch_vụ nghiên_cứu và tổ_chức các diễn_đàn quốc_tế .
+Minh_Trí

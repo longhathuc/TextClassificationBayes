@@ -1,0 +1,13 @@
+Apple công_bố sáng_chế về cảm_biến vân tay_trên màn_hình
+Bằng_sáng_chế mới của Apple cho thấy một đầu_đọc vân tay tích_hợp ngay vào màn_hình i Phone .
+Các bằng_sáng_chế được công_bố hôm_qua ( 14/2 ) bởi Văn_phòng Sáng_chế và Thương_hiệu Mỹ cho thấy chi_tiết về một " màn_hình hiển_thị tương_tác với điốt hồng_ngoại ( IR ) .
+Điều này sẽ cho_phép thiết_bị đọc dấu vân tay trực_tiếp qua màn_hình , thay_vì kết_hợp vào nút Home như hiện_nay .
+Theo Apple Insider , bản_gốc của nó được thể_hiện trên màn_hình   micro-LED   bởi công_ty LuxVue và bằng_sáng_chế thuộc về Apple sau khi mua lại công_ty này   năm 2014 .
+Về chi_tiết , cách_thức hoạt_động của nó là sử_dụng một điốt phát_quang trong một ma_trận động để phát ra ánh_sáng và một điốt cảm_biến hồng_ngoại để cảm_nhận ánh_sáng , phát_hiện và đọc dấu vân tay .
+Thiết_kế này mang tính khác_biệt với những thiết_bị di_động trước_đây bởi " cần phải có hai thiết_bị riêng_biệt được xếp lớp với nhau " , theo nội_dung trong bằng_sáng_chế .
+Concept i Phone 8 màn_hình trong_suốt .
+Apple có_thể sẽ tìm cách đưa ứng_dụng này lên thiết_bị mới , tạo ra một màn_hình cảm_ứng có khả_năng quét dấu vân tay giúp tiết_kiệm không_gian và khiến cho thiết_kế của sản_phẩm trở_nên linh_hoạt hơn .
+Thông_tin này khá phù_hợp với tin_đồn về chiếc i Phone 8 với thiết_kế màn_hình tràn viền gần đây .
+Tuy_nhiên , Apple không phải là hãng duy_nhất tìm_kiếm hướng đi mới trong công_nghệ quét vân tay .
+Synaptics cũng trình_làng mâ ̃ u cảm_biến vân tay quang_học mới vào cuối năm_ngoái .
+Công_nghệ này được dự_đoán sẽ có_mặt trên Samsung_Galaxy S8 .

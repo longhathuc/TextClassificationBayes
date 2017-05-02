@@ -1,0 +1,13 @@
+1,3 triệu tài_khoản người dùng Android nhiễm mã độc Gooligan
+Trong số hơn 1,3 triệu tài_khoản Google bị ảnh_hưởng bởi mã độc Gooligan , tới 57% từ châu Á .
+Cụ_thể , tin_tặc đã xâm_nhập vào điện_thoại Android của người dùng bằng một_số ứng_dụng độc_hại chèn sẵn mã độc Gooligan giả_dạng ứng_dụng phổ_biến trên Play_Store .
+Sau khi lừa người dùng tải về và cài_đặt ứng_dụng này , mã độc sẽ tự_động xâm_nhập và thu_thập dữ_liệu , đồng_thời chèn vào rootkit cho_phép đánh_cắp các thông_tin như số thẻ_tín_dụng , tài_khoản Google , email … và gửi về máy_chủ từ xa .
+Riêng với việc đánh_cắp tài_khoản Google , hacker còn có_thể được quyền truy_cập vào các dịch_vụ như Google_Photos , Google_Play , Google_Docs và Gmail và lấy đi những thông_tin quan_trọng mà người dùng không hề hay_biết .
+Cách_thức Googligan xâm_nhập và tấn_công điện_thoại Android .
+Theo thống_kê , những thiết_bị từ Lollipop trở_về trước không nhiễm Gooligan , tức_là smartphone chạy Marshmallow , Nougat sẽ không bị mã độc này tấn_công .
+Trong số hơn 1,3 triệu tài_khoản Google đã bị ảnh_hưởng , 57% nằm ở châu Á , 19% ở châu Mỹ , 15% ở châu Phi và 9% ở châu Âu .
+Để kiểm_tra tài_khoản của mình đã bị nhiễm mã độc hay chưa , độc_giả có_thể truy_cập tại đây , sau đó nhập địa_chỉ Gmail để kiểm_tra .
+Nếu bị ảnh_hưởng , việc đầu_tiên nên làm là đổi mật_khẩu cho tài_khoản , đồng_thời khôi_phục cài_đặt gốc cho máy .
+Về phần mình , Google đã gỡ bỏ các ứng_dụng độc_hại từ cửa_hàng Google_Play .
+Hãng cho_biết , có khoảng 13.000 tài_khoản Google được cho là bị ảnh_hưởng mỗi ngày .
+Bảo_Lâm ( theo Phonearena )

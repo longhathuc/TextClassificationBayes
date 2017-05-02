@@ -1,0 +1,18 @@
+Việt_Nam hứng 127.000 vụ tấn_công mạng trong 6 tháng đầu năm
+Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) đã ghi_nhận 8.758 vụ phishing , 77.160 vụ deface và 41.712 vụ tấn_công mã độc trong nửa đầu năm nay .
+Trung_tâm   VNCERT cho_biết mỗi tuần đã   phát_hiện 2 triệu sự_kiện an_toàn thông_tin cần xử_lý , trong đó thường_xuyên có 40.000-50.000 sự_kiện nguy_hiểm cần phân_tích và có phương_án giải_quyết tức_thì .
+Trong điều_phối ứng_cứu , năm 2015 , Trung_tâm đã ghi_nhận 31.585 sự_cố , gồm sự_cố Phishing ( lừa_đảo ) , Deface ( thay_đổi giao_diện trang_web ) và Malware ( tấn_công bằng mã độc ) .
+Ngoài_ra , có tới 1.451.997 lượt địa_chỉ IP của Việt_Nam nằm trong mạng botnet ( mạng_lưới những máy_tính bị điều_khiển_từ_xa ) .
+So với   năm 2014 , số_lượng sự_cố xảy_ra năm 2015 tăng 159,6% .
+Còn chỉ tính riêng sáu tháng đầu năm nay , con_số này đã tăng gấp ba lên thành 127.630 vụ , trong đó Phishing là 8.758 , Deface là 77.160 và Malware là 41.712 vụ , cho thấy mối đe_dọa tới an_ninh mạng Việt_Nam đã ở mức báo_động .
+Những con_số trên được công_bố tại   Hội_nghị Giám_sát , Điều_phối , Ứng_cứu sự_cố trong xây_dựng chính_phủ_điện_tử diễn ra ngày 26/8 ở Quảng_Ngãi .
+Sự_kiện được tổ_chức nhằm   đưa các hoạt_động giám_sát , điều_phối và ứng_cứu sự_cố an_toàn mạng trở_thành một trong những công_việc chính trong phát_triển thông_tin và truyền_thông tại Việt_Nam .
+Các vụ tấn_công mạng tại Việt_Nam đang tăng cao chưa từng có .
+VNCERT cho_biết , nếu   chiến_tranh mạng toàn_cầu xảy_ra , hậu_quả của nó sẽ là sự tê_liệt tức_thời trên diện rộng và là sự hủy_diệt thảm_khốc .
+Nguy_cơ này đang thực_sự hiện_hữu và Việt_Nam phải sẵn_sàng để đối_phó .
+Trung_tâm   đang phổ_biến tới các tổ_chức nhà_nước và tư_nhân quy_trình xây_dựng đội ứng_cứu sự_cố an_toàn mạng .
+Việc tham_gia là bắt_buộc đối_với các cơ_quan nhà_nước và được mở_rộng tới các thành_phần ngoài nhà_nước .
+Các cá_nhân là chuyên_gia trong lĩnh_vực an_toàn mạng cũng có_thể nộp đơn xin đăng_ký .
+Đây là lực_lượng thường_trực và sẽ là đội quân tinh_nhuệ luôn sẵn_sàng 24/7 để bảo_vệ không_gian mạng Việt_Nam an_toàn .
+Sự_cố tấn_công Vietnam_Airlines hồi cuối tháng 7 đã cho thấy tầm quan_trọng của công_tác điều_phối ứng_cứu cũng_như giá_trị của sự chung sức giữa các thành_viên mạng_lưới .
+Xem thêm :   Không quốc_gia nào có_thể đứng ngoài chiến_tranh mạng

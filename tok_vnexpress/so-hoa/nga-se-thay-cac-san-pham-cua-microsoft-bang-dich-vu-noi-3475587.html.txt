@@ -1,0 +1,14 @@
+Nga sẽ thay các sản_phẩm của Microsoft bằng dịch_vụ nội
+Hệ_thống máy_tính của   Moscow sẽ sớm sử_dụng giải_pháp email do Nga thiết_kế , nhằm thay_thế Microsoft_Outlook .
+Theo Bloomberg , Microsoft có_thể mất một lượng khách_hàng lớn bởi Nga bắt_đầu thay các sản_phẩm của công_ty Mỹ bằng những dịch_vụ phát_triển trong nước .
+Chương_trình nằm trong kế_hoạch hành_động của Tổng_thống Vladimir_Putin để giảm sự phụ_thuộc vào công_nghệ nước_ngoài .
+Tổng_thống Nga   Vladimir_Putin .
+Artem_Yermolaev , người đứng đầu mảng công_nghệ của Moscow , nói rằng thành_phố sẽ bắt_đầu ngừng sử_dụng Microsoft_Exchange_Service và thay_thế trình_duyệt mail Outlook trên 6.000 máy_tính bằng hệ_thống thư_điện_tử do doanh_nghiệp Nga_Rostelecom phát_triển .
+Các nhà_chức_trách Nga đang tìm_kiếm để triển_khai các phần_mềm email đến hơn 600.000 máy_tính trong tương_lai .
+Thậm_chí , chính_quyền còn muốn thay hoàn_toàn hệ_điều_hành Windows và bộ công_cụ văn_phòng Microsoft_Office .
+Tuy_nhiên kế_hoạch dài_hạn này chưa được công_bố thời_điểm cụ_thể .
+Người đứng đầu điện Kremlin   đã kêu_gọi các công_ty Nga phát_triển dịch_vụ nội_địa , trong bối_cảnh phần_mềm và sản_phẩm của những công_ty Mỹ tràn_ngập .
+Cùng_với đó , các nhà hoạch_định chiến_lược Internet cho Tổng_thống Putin muốn tăng áp_thuế lên các công_ty Mỹ hoạt_động tại Nga .
+Trong vài năm gần đây , Nga đã thông_qua nhiều luật nhằm tăng_cường kiểm_soát và quản_lý chặt_chẽ các lĩnh_vực công_nghệ .
+Năm 2014 ,   Moscow thông_báo các website nếu lưu_trữ thông_tin của công_dân Nga phải có máy_chủ đặt tại đây .
+Đầu năm nay , chính_quyền yêu_cầu mở_cửa hậu ( backdoor ) để chính_phủ được phép truy_cập vào các thông_tin mã_hóa .

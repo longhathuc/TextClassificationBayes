@@ -1,0 +1,19 @@
+Nguy_cơ mất tài_khoản mạng xã_hội khi đổi đầu số di_động
+Việc chuyển đầu số di_động từ 11 số về 10 số sẽ khiến những người sử_dụng số điện_thoại 11 số để bảo_mật Gmail , Facebook đứng trước nguy_cơ bị mất tài_khoản .
+Việc chuyển đầu số di_động từ 11 số về 10 số trong tương_lai mang lại nhiều lợi_ích thiết_thực , trong đó có hạn_chế sim rác .
+Kế_hoạch được Bộ Thông tin và Truyền_thông xem_xét triển_khai .
+Tuy_nhiên , nó cũng sẽ gây ra không ít khó_khăn cho người dùng .
+Bên_cạnh việc phải thay_đổi lại bảng_hiệu quảng_cáo , name card , thông_báo đổi số điện_thoại … người dùng sẽ còn đối_mặt với khả_năng mất tài_khoản mạng xã_hội hay email , diễn_đàn ...
+Mã xác_minh giúp người dùng phát_hiện tài_khoản của mình đang bị người khác đăng_nhập , cũng_như lấy lại mật_khẩu nếu bị đánh_cắp .
+Những dịch_vụ email hiện_nay như Gmail , hay mạng xã_hội như Facebook , Twitter … đều sử_dụng khả_năng xác_thực 2 lớp .
+Khi sử_dụng tính_năng này , để đăng_nhập được các tài_khoản của mình , người dùng cần có mã xác_thực gửi về điện_thoại sau khi nhập mật_khẩu lần đầu .
+Tính_năng xác_thực 2 lớp được đánh_giá cao , bởi kể_cả khi đánh_cắp được mật_khẩu , hacker vẫn không_thể chiếm_đoạt được tài_khoản đó .
+Bên_cạnh đó , một_số dịch_vụ trực_tuyến cũng sử_dụng số điện_thoại để khôi_phục mật_khẩu trong trường_hợp người dùng quên .
+Khi bị mất mật_khẩu , người dùng chỉ cần lựa_chọn tính_năng reset bằng số điện_thoại .
+Sau đó , một mật_khẩu mới , hoặc mã khôi_phục mật_khẩu sẽ gửi về số điện_thoại đã đăng_ký .
+Tuy_nhiên , với việc thay_đổi mã vùng và chuyển số điện_thoại từ 11 số về 10 số , nguy_cơ không_thể lấy lại mật_khẩu là rất cao .
+Ông Võ_Đỗ_Thắng , Giám_đốc Trung_tâm an_ninh mạng Athena , cảnh_báo , người dùng nên sớm cập_nhật số điện_thoại mới có dạng 10 số nếu đang sử_dụng số điện_thoại 11 số cho các tài_khoản email hoặc mạng xã_hội mà mình đang sử_dụng để tránh bị mất chúng .
+" Nếu_không cập_nhật , nếu tài_khoản bị đánh_cắp , mã xác_thực không_thể gửi về đúng số điện_thoại , từ đó bạn không_thể đặt lại mật_khẩu .
+Trường_hợp bạn quên mật_khẩu cũng tương_tự " , ông Thắng cho_biết .
+Cách thay số điện_thoại bảo_mật 2 lớp cho tài_khoản Facebook :
+Bảo_Lâm

@@ -1,0 +1,18 @@
+Tin_tặc Trung_Quốc kiếm nửa triệu USD nhờ tấn_công các sản_phẩm ' hot '
+Với việc hack thành_công Google_Pixel , Apple_Safari , Adobe_Flash và trình_duyệt Microsoft_Edge , nhóm tin_tặc mũ trắng Trung_Quốc_Qihoo 360 đã đút_túi 520.000
+USD .
+Tại cuộc_thi hack PwnFest diễn ra ở Seoul ( Hàn_Quốc ) , nhóm tin_tặc mũ trắng Qihoo 360 đến từ Trung_Quốc đã gây ngạc_nhiên khi tấn_công được vào hầu_hết các sản_phẩm của những " ông lớn " công_nghệ trên thế_giới , trong đó có chiếc Pixel mới ra_mắt của Google .
+Trước đó , chiếc điện_thoại này được Google khẳng_định có độ bảo_mật ngang_ngửa i Phone .
+Google_Pixel bị hacker tấn_công nhiều lần dù khẳng_định khả_năng bảo_mật tốt .
+Không rõ chi_tiết cách_thức tấn_công vào Pixel của Qihoo 360 , nhưng theo Register , nhóm đã khai_thác lỗi Google_Play_Store bằng cách bật ứng_dụng này , sau đó dùng trình_duyệt Chrome để truy_cập một trang_web " pwned By 360 Alpha_Team " do nhóm tự phát_triển .
+Sau bước này , nhóm đã kiểm_soát hoàn_toàn điện_thoại của Google , bao_gồm địa_chỉ liên_lạc , hình_ảnh , tin nhắn và chi_tiết cuộc_gọi .
+Toàn_bộ quá_trình được thực_hiện trong 60 giây .
+Không_chỉ Pixel của Google , Qihoo 360 cũng hack thành_công trình_duyệt Safari của Apple ( chạy trên hệ_điều_hành MacOS Sierra ) trong vòng 20 giây , trong khi chỉ mất 4 giây để " qua_mặt " Adobe_Flash , trình_duyệt Microsoft_Edge cũng bị " hạ gục " sau 18 giây .
+Riêng hệ_thống máy_chủ ảo VMware Workstation lần đầu_tiên bị tấn_công bởi nhóm tin_tặc này .
+Tổng tiền   thưởng mà nhóm hacker Trung_Quốc nhận là 520.000 USD , riêng Pixel là 120.000 USD ,   Microsoft_Edge là 140.000 USD ,   VMware Workstation là 150.000 USD .
+Trước đó , tại cuộc_thi hack Mobile_Pwn 2Own ở Nhật_Bản , một nhóm tin_tặc mũ trắng khác của Trung_Quốc là Keen_Team of Tencent đã đột_nhập thành_công vào Pixel nhờ một lỗ_hổng zero - day .
+Lỗ_hổng này đã được Google vá 24 giờ sau đó .
+PwnFest hay   Pwn2Own là những cuộc_thi được tổ_chức thường_xuyên dành cho các hacker mũ trắng .
+Tại đây , những lỗ_hổng bảo_mật được phát_hiện , tùy theo mức_độ nguy_hiểm sẽ giành được các khoản tiền thưởng nhất_định .
+Đây là dịp để các hacker thi_thố tài_năng , trong khi các nhà_sản_xuất tìm thấy điểm yếu trên sản_phẩm của mình và tiến_hành sửa_chữa .
+Bảo_Lâm

@@ -1,0 +1,19 @@
+Đáp_án bài hình_học lớp 5 thử_thách tư_duy nhanh
+Nhiều người đưa ra câu trả_lời đúng trong khi một_số khác cho rằng không tồn_tại ngũ_giác như đề_bài .
+Tuy_nhiên , bạn cần lưu_ý đây là bài hình_học cho học_sinh lớp 5 và chỉ mang tính_chất ôn_luyện kiến_thức , rèn_luyện tư_duy .
+Đề_bài :
+Một hình ngũ_giác được cho như hình_vẽ sau :
+Diện_tích hình ngũ_giác là 20   cm2 .
+Điểm A nằm ở trong ngũ_giác và cách đều tất_cả các cạnh của ngũ_giác một khoảng bằng 5 cm .
+Hỏi chu_vi ngũ_giác bằng bao_nhiêu ?
+Đáp_án :
+Chia ngũ_giác thành 5 tam_giác nhỏ có đáy lần_lượt là a , b , c , d , e như hình sau :
+Khi đó , chu_vi ngũ_giác cần tính chính bằng a + b + c + d + e .
+Theo bài ra , A cách đều tất_cả các cạnh một khoảng 5 cm .
+Suy ra ,   5 tam_giác trên có cùng_đường cao .
+Diện_tích ngũ_giác bằng   20 cm2   và   tổng diện_tích của 5 tam_giác .
+Ta có :
+5 x a / 2 + 5 x b / 2 + 5 x c / 2 + 5 x d / 2 + 5 x e / 2 = 20   hay 5 x ( a + b + c + d + e ) / 2 = 20 , suy ra a + b + c + d + e = 8 cm .
+Vậy chu_vi ngũ_giác cần tìm là 8 cm .
+> > Xem đáp_án gốc
+Thanh_Tâm

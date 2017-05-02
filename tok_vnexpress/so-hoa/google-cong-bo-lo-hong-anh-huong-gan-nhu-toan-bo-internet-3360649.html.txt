@@ -1,0 +1,15 @@
+Google công_bố lỗ_hổng ảnh_hưởng gần_như toàn_bộ Internet
+Google và hãng Red_Hat đã phát_hiện một lỗ_hổng bảo_mật đặc_biệt nghiêm_trọng trong hệ_thống tên_miền DNS , khiến kẻ xấu có_thể tấn_công hàng trăm_nghìn mục_tiêu trên Internet mà chúng muốn .
+Cụ_thể , các kỹ_sư Google và các nhà_nghiên_cứu Red_Hat phát_hiện lỗi DNS trong thư_viện GNU_C ( glibc ) và đã phối_hợp với nhau để tạo bản vá .
+Dù bản vá đã được phát_hành , việc vá lỗ_hổng cũng phải mất hàng năm do mã lỗi đã được sử_dụng rất từ lâu và rất phổ_biến ( từ tháng 5/2008 ) .
+Theo Telegraph , lỗi gây tràn bộ đệm này có_thể ảnh_hưởng đến các thiết_bị chạy hệ_điều_hành Linux , tạo điều_kiện cho kẻ tấn_công kiểm_soát từ xa hàng nghìn chủng_loại thiết_bị có kết_nối Internet khác_nhau như máy_tính , smartphone , thiết_bị định_tuyến , camera , máy_chủ , thiết_bị IoT ( máy_giặt , camera an_ninh ... ) .
+Lỗ_hổng này cũng tác_động tới các phần_mềm Bitcoin hay bất_cứ ứng_dụng , dịch_vụ nào sử_dụng ngôn_ngữ_lập_trình Python , PHP và Ruby on Rails , chẳng_hạn các dịch_vụ Dropbox , Facebook hay Twitter .
+Thư_viện GNU_C Library ( glibc ) được sử_dụng rộng_rãi do đây   là thành_phần cốt_lõi trong hầu_hết các bản phân_phối Linux nên việc vá lỗi sẽ mất vài năm .
+Chuyên_gia bảo_mật Dan_Kaminsky cho_hay lỗi này còn tồi_tệ hơn cả lỗ_hổng Heartbleed từng gây xôn_xao năm 2014 .
+Nguyên_nhân là quá nhiều phần_mềm Internet được xây_dựng trên Linux và nếu kẻ tấn_công có_thể thâm_nhập được vào mạng_lưới của một doanh_nghiệp , chúng có_thể dễ_dàng kiểm_soát mọi hệ_thống chạy Linux .
+Kaminsky khuyến_cáo bất_cứ ai đang điều_hành máy_chủ Linux cũng cần vá lỗ_hổng tức_thì .
+Đầu tháng 4/2014 , hãng bảo_mật Codenomicon và Google_Security cũng công_bố lỗ_hổng khác được gọi_là HeartBleed ( trái_tim rỉ máu ) , một trong những lỗi bảo_mật nghiêm_trọng nhất từng được phát_hiện , đe_dọa sự an_toàn của thanh_toán trực_tuyến toàn_cầu .
+Lỗ_hổng nằm trong OpenSSL , thư_viện mà những website quan_trọng thường dùng để mã_hóa dữ_liệu , như giao_dịch ngân_hàng , thương_mại_điện_tử hay các dịch_vụ e - mail …
+Khi đó , chuyên_gia Robert_David_Graham thống_kê khoảng 600.000 máy chủ_chứa lỗ_hổng Heartbleed .
+Một đợt vá lỗi đã diễn ra ồ_ạt nhưng giới bảo_mật vẫn lo_ngại bởi các website nhỏ có_vẻ thờ_ơ trước việc triển_khai bản vá và khiến người sử_dụng có nguy_cơ bị mất thông_tin như tên , mật_khẩu , khóa bảo_mật ... khi giao_dịch trên những site này .
+Châu_An

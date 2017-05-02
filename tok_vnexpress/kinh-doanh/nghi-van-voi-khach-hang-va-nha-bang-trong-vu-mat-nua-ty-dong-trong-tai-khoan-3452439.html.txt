@@ -1,0 +1,38 @@
+Nghi_vấn với khách_hàng và nhà_băng trong vụ mất nửa tỷ đồng trong tài_khoản
+Việc khách_hàng đã thao_tác và để lộ những thông_tin gì trên website giả_mạo , cơ_chế xác_thực giao_dịch của ngân_hàng có đảm_bảo an_toàn hay trách_nhiệm của các bên ... là những câu_hỏi lớn chưa rõ lời_giải trong vụ mất tiền hy_hữu gần đây .
+Khách_hàng đã thao_tác gì trên website giả_mạo ?
+Nhiều chuyên_gia cho rằng có_thể tin_tặc đã chiếm quyền kiểm_soát tài_khoản Internet_Banking tại Vietcombank của khách_hàng từ ngày 28/7 , chứ không chờ đến đêm 3/8 , rạng sáng 4/8 - khi các giao_dịch chuyển_tiền thực_hiện .
+Vì_vậy khi bị mất tiền , chị mới không nhận được tin nhắn OTP từ ngân_hàng .
+Theo Vietcombank , chị Na_Hương ( Cầu_Giấy , Hà_Nội ) đã truy_cập vào một website giả_mạo từ ngày 28/7 - tức_là trước thời_điểm xảy_ra 7 giao_dịch lừa_đảo 6 ngày .
+Đường link http : / / creatingacreator.com/kob/1/index.htm với giao_diện giống_hệt của Vietcombank khiến khách_hàng vô_tình nhập các thông_tin như tên tài_khoản ( username ) , mật_khẩu vào Internet_Banking mà không hề hay_biết .
+Dù chị Hương vẫn khẳng_định không vào trang_web lạ nhưng Vietcombank nói , trong cuộc làm_việc ngày 11/8 , nhân_viên ngân_hàng đã hướng_dẫn chị kiểm_tra và thấy có đường link này vẫn còn lưu trên lịch_sử của điện_thoại .
+Khách_hàng cho_biết không nhận được thông_báo nào từ ngân_hàng về việc đã chuyển_đổi hình_thức đăng_ký xác_thực từ OTP sang Smart OTP .
+Nhiều khả_năng , trên một giao_diện giả_mạo Internet_Banking của Vietcombank , tin_tặc từng bước lừa người dùng vào cài_đặt Smart OTP mà chị Hương không hề biết .
+Để kích_hoạt được phương_thức xác_thực mới này , khách_hàng sẽ nhận một mã xác_thực OTP bằng SMS .
+Một chuyên_gia về thanh_toán thẻ lý_giải , trên website giả_mạo sẽ không hiển_thị nội_dung thực_hiện giao_dịch của khách_hàng là kích_hoạt Smart OTP mà có_thể chỉ đơn_giản là dẫn_dụ chị để xác_nhận một thông_tin nào_đó về tài_khoản .
+Vì_thế không loại_trừ khả_năng chính chị Hương đã điền mã OTP vào website giả_mạo mà không biết mục_đích là để kích_hoạt phương_thức xác_thực mới .
+Cơ_chế hoạt_động Smart OTP của Vietcombank thế_nào ?
+Nếu thực_sự chị Na_Hương vào website giả_mạo và bị dẫn_dụ nộp không thông_tin , cả quyền kích_hoạt Smart OTP cho tin_tặc thì nhiều chuyên_gia cho rằng , Vietcombank cũng cần có trách_nhiệm với quy_trình bảo_mật chưa chặt_chẽ .
+Smart OTP được Vietcombank ra_mắt vào đầu năm 2015 , được giới_thiệu là ứng_dụng có lợi_thế vượt_trội so với các hình_thức tạo mã OTP hiện có .
+Một trong những lợi_thế đầu_tiên là Smart OTP có_thể tạo mã OTP bất_kỳ lúc_nào , không cần phải có sóng điện_thoại , cũng không cần_thiết bị tạo mã OTP cứng tốn_kém đi kèm .
+Tuy_nhiên , theo tổng_giám_đốc một ngân_hàng cổ_phần , có_thể sơ_hở nằm ở chỗ Vietcombank cho_phép người dùng cài Smart OTP trên một thiết_bị di_động khác - không phải thiết_bị có chứa sim điện_thoại đã đăng_ký ban_đầu với ngân_hàng .
+Tức_là , nếu bạn đăng_ký nhận OTP qua SMS thông_thường bằng chiếc điện_thoại thông_minh i Phone với số đăng_ký 091xxx123 thì bạn vẫn có_thể đăng_ký cài Smart OTP trên một chiếc điện_thoại hoặc máy_tính bảng khác mà không cần với chính số đuôi 123 này .
+Trường_hợp của khách_hàng Na_Hương , sau khi dẫn_dụ được chị vào website giả_mạo , kẻ_gian đã lừa được chị nhập mã OTP một lần duy_nhất để kích_hoạt Smart OTP của chị Hương trên thiết_bị di_động của tin_tặc .
+Vietcombank cho_phép khách_hàng cài_đặt Smart OTP ở một thiết_bị di_động khác với thiết_bị chứa sim nhận mã OTP .
+Bên_cạnh đó , còn một nghi_vấn đặt ra , ngay cả khi chị Na_Hương bị tin_tặc lừa nhập mã OTP để kích_hoạt Smart OTP ( mà chị không biết ) , đáng_lẽ ra , ngay sau khi tin_tặc đã kích_hoạt Smart OTP của chị thành_công , ngân_hàng vẫn phải có một tin nhắn thông_báo , tài_khoản của bạn đã được chuyển_đổi phương_thức xác_thực từ OTP sang Smart OTP .
+Vậy tại_sao chị Na_Hương không nhận được tin nhắn này và vẫn không hề hay_biết gì về khái_niệm Smart OTP cho tới khi trình_báo với Vietcombank .
+" Trường_hợp này có_thể là một trong hai đơn_vị chưa nói đúng sự_thật nhưng việc không có một tin nhắn hay email nào từ ngân_hàng thông_báo việc đã chuyển_đổi thành_công phương_thức xác_thực là vô_lý " , chuyên_gia bảo_mật này cho_hay .
+Không_chỉ vậy , theo nhiều chuyên_gia bảo_mật , chính áp_lực tạo thuận_tiện tối_đa cho khách_hàng giao_dịch online đã khiến một_số ngân_hàng mở điều_kiện " thoáng " với một_số dịch_vụ .
+Như với Smart OTP của Vietcombank , khách_hàng không cần ra quầy để đăng_ký cài_đặt và kích_hoạt , chỉ cần qua một lần nhập OTP ( SMS ) .
+Phó_tổng giám_đốc một ngân_hàng khác cũng cho_biết , Smart OTP là phương_thức xác_thực được sử_dụng nhiều ở một_số nước .
+Tuy_nhiên , thường các ngân_hàng trên thế_giới không để hạn_mức giao_dịch bằng Smart OTP cao mà hầu_như đều thấp hơn với OTP thông_thường bởi tính rủi_ro cao hơn .
+Trong trường_hợp này , mỗi giao_dịch của tin_tặc ( với Smart OTP ) đều với số tiền lớn , 50 và 100 triệu đồng .
+Ai chịu trách_nhiệm ?
+Theo Luật sư Hồ_Anh_Khoa , Trưởng_phòng tư_vấn doanh_nghiệp của Công_ty Luật_Basico , trong trường_hợp này nên nhắc tới trách_nhiệm của cả hai bên thay_vì đổ lỗi cho khách_hàng hay nhà_băng .
+Với khách_hàng , nếu đúng họ truy_cập vào website giả_mạo , theo ông Khoa , cũng là một sai_sót .
+Mỗi khách_hàng cần có ý_thức bảo_vệ và quản_lý các thông_tin của mình cũng_như lường trước các rủi_ro nếu tham_gia dịch_vụ .
+Ngược_lại , với ngân_hàng , muốn tạo một tiện_lợi cho khách thì khi đưa vào sử_dụng phải có cách gì đó tăng_cường tính bảo_mật của ứng_dụng .
+Ở trường_hợp này , ngân_hàng lại cho_phép khách sử_dụng ứng_dụng trên một thiết_bị khác thay_vì thiết_bị di_động đã dùng OTP của khách .
+Thực_tế hiện_nay trong khi khách_hàng nói không có những giao_dịch , truy_cập vào website giả_mạo thì ngân_hàng lại đưa ra những bằng_chứng trên hệ_thống cho thấy có lệnh nhập OTP để mở tính_năng xác_thực Smart OTP .
+Do_đó , theo các luật_sư , rất cần sự vào_cuộc của một bên thứ_ba độc_lập , có_thể là cơ_quan điều_tra để làm sáng_tỏ .
+" Ngân_hàng Nhà_nước cũng cần có định_hướng chung cho tất_cả các tổ_chức tín_dụng về những rủi_ro qua thanh_toán trên những ứng_dụng điện_tử " , ông Hồ_Anh_Khoa nói .

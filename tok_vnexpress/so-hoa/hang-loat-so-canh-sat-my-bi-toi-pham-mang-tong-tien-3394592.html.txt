@@ -1,0 +1,34 @@
+Hàng_loạt sở cảnh_sát Mỹ bị tội_phạm mạng tống_tiền
+Tội_phạm mạng không_chỉ nhắm đến các bệnh_viện , trường_học ... ở Mỹ , giờ chúng còn khống_chế file trong máy_tính của cảnh_sát để đòi tiền chuộc .
+Theo trang NBC News , hacker Đông_Âu đang tấn_công các tổ_chức luật_pháp ở nước Mỹ bằng cách phát_tán mã độc có chức_năng kiểm_soát máy_tính và mã_hóa toàn_bộ file trên máy .
+Tin_tặc sau đó yêu_cầu nạn_nhân trả một khoản tiền vốn rất khó để truy ra nguồn_gốc , đó là Bitcoin .
+Để thêm phần kịch_tính , chúng đặt đồng_hồ đếm ngược và hiển_thị thông_báo nhắc_nhở .
+Nếu nghe theo , nạn_nhân được gửi mã để mở khóa file , còn nếu_không , các tệp_tin sẽ bị xóa .
+Hacker không hề nương_tay , chúng đã xóa file trên máy_tính của sở cảnh_sát Alabama và New_Hampshire năm_ngoái , khiến một_số chứng_cứ liên_quan đến các vụ_án đang được điều_tra bị mất hoặc bị thay_đổi .
+Tình_trạng " bắt_cóc " máy_tính đang tăng nhanh ở Mỹ cũng_như trên toàn_cầu .
+Chỉ trong ba_tháng đầu năm 2016 , số_lượng các vụ tấn_công đã tăng gấp 10 lần so với toàn_bộ năm 2015 và các nạn_nhân bị đòi số tiền tổng_cộng là 200 triệu USD .
+Các nhà_chức_trách cho_biết đây mới chỉ là số thống_kê dựa trên những vụ_việc được thông_báo .
+Một nhà thực_thi luật chia_sẻ với NBC News rằng " phần_lớn nạn_nhân không báo cảnh_sát " .
+Tội_phạm mạng thường đòi số Bitcoin trị_giá vài trăm USD và nạn_nhân cần trả tiền trong vòng 24h , nếu_không toàn_bộ file sẽ bị xóa .
+Virus tống_tiền chủ_yếu đến từ Nga và Đông_Âu .
+Chúng khó giải_mã đến mức ngay cả Cục Điều tra Liên_bang FBI đôi_khi khuyên nạn_nhân tốt nhất nên trả tiền để lấy lại dữ_liệu .
+Từ năm 2013 , hacker đã nhắm đến các sở cảnh_sát ở ít_nhất 7 bang của Mỹ .
+Máy_tính cảnh_sát rất dễ bị tấn_công vì nhiều hệ_thống đã cũ và lâu không được cập_nhật .
+Thậm_chí có máy , từng bị hack năm 2015 , vẫn chạy DOS - hệ_điều_hành ra_đời từ thập_niên 80 của thế_kỷ trước .
+Một cuộc tấn_công thường diễn ra khi người dùng nhận được e - mail giả_dạng đến từ nguồn đáng tin_cậy ( như cấp trên , kế_toán , đồng_nghiệp ... ) với nội_dung yêu_cầu tải file đính kèm để xem thông_tin .
+Nếu mở ra , máy_tính sẽ bị " đóng_băng " và các tệp_tin bị mã_hóa .
+Tin_tặc sẽ yêu_cầu nộp Bitcoin để lấy lại file .
+Một_số hacker còn " tử_tế " gửi kèm bản hướng_dẫn cách mua Bitcoin trực_tuyến cho những người chưa từng giao_dịch bằng loại tiền số này .
+Các cuộc tấn_công nhắm vào cảnh_sát tăng cao vì hệ_thống của họ cũ_kỹ nhưng lại chứa những thông_tin quan_trọng , không_thể đánh mất .
+" Phản_ứng đầu_tiên của tôi là ' Không đời_nào ' .   Chúng_tôi là cảnh_sát .
+Thường thì chúng_tôi không trả tiền chuộc .
+Nhưng sau 48 giờ , tôi đành miễn_cưỡng trả tiền " , Todd_Brackett , ở Lincoln_County , Maine , thở_dài .
+Ban_đầu , Brackett và nhóm IT đồng_ý trả tiền , nhưng sau khi nhận khóa mã , họ đã hủy giao_dịch và khóa hệ_thống .
+Hai ngày_sau , hacker đã nổi_giận và tiếp_tục mã_hóa file , tăng số tiền chuộc lên 500 USD .
+Lần này , Brackett buộc phải thỏa_hiệp .
+Năm_ngoái , cảnh_sát trưởng ở Durham , New_Hampshire từ_chối trả tiền và toàn_bộ file trên máy ông đã bị xóa .
+Ông đã khôi_phục được một_số file nhờ hệ_thống backup ( sao lưu dự_phòng ) .
+Không được may_mắn như_vậy , cảnh_sát trưởng của Collinsville , Alabama cũng không trả tiền và ông không_bao_giờ lấy lại được các file đã mất .
+Các chuyên_gia bảo_mật mô_tả 2016 sẽ là năm của mã độc tống_tiền .
+" Trả hay không trả " sẽ là câu_hỏi được đem ra tranh_luận trong các cuộc họp diễn ra khắp nước Mỹ từ sở cảnh_sát cho_đến bệnh_viện , trường_học , cơ_quan chính_phủ ...
+Hồi tháng 2 , Trung_tâm y_tế giáo_hội Hollywood phải ngắt hệ_thống ít_nhất một tuần sau vụ " bắt_cóc " máy_tính và cuối_cùng phải nộp số Bitcoin trị_giá 17.000 USD cho tội_phạm .

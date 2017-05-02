@@ -1,0 +1,17 @@
+Cáp_quang biển AAG sửa lâu hơn dự_kiến
+Tới ngày 27/1 ( 30 Tết ) , tàu sửa_chữa mới tiếp_cận được vị_trí gặp sự_cố trên tuyến cáp_quang   biển quốc_tế Asia – America_Gateway ( AAG ) .
+Ngày 8/1 , cáp_quang biển quốc_tế AAG gặp sự_cố đầu_tiên trong năm 2017 , gây mất toàn_bộ băng_thông Internet từ Việt_Nam đi hướng Hong_Kong , Singapore và Mỹ .
+Vị_trí lỗi được xác_định   cách trạm cập bờ Vũng_Tàu khoảng 98 km .
+Tới ngày 27/1 , tàu sửa mới tiếp_cận được vị_trí lỗi trên tuyến AAG .
+Ban_đầu , một nhà_cung_cấp dịch_vụ Internet ( ISP ) trong nước cho_biết nguyên_nhân sự_cố do rò điện và dự_kiến khắc_phục xong vào ngày 18/1 .
+Tuy_nhiên thông_tin cập_nhật được đơn_vị điều_hành AAG gửi đến các ISP thì tới ngày 27/1 tàu sửa cáp mới tiếp_cận vị_trí lỗi .
+Thời_gian sửa xong chưa được thông_báo .
+Ngày 10/1 , tuyến cáp_quang biển Liên Á ( IA ) cũng được xác_định bị lỗi tại vị_trí gần Hong_Kong .
+Sự_cố gây mất liên_lạc trên tuyến theo hướng kết_nối từ Việt_Nam đi Hong_Kong .
+Theo một ISP , đến nay tuyến cáp này đã được sửa và hoạt_động bình_thường trở_lại .
+Như_vậy , hiện chỉ còn tuyến cáp AAG gặp sự_cố và thời_gian khắc_phục sẽ lâu hơn dự_kiến ban_đầu .
+Nhưng với vai_trò quan_trọng , chiếm tới hơn 60% lưu_lượng kết_nối trong nước ra nước_ngoài trong năm 2016 , việc AAG bị lỗi sẽ ảnh_hưởng tới người dùng Internet tại Việt_Nam .
+Trong năm 2016 , đã có bốn lần tuyến cáp_quang biển AAG gặp trục_trặc và phải tiến_hành bảo_trì , vào các tháng 3 , 6 , 8 và tháng 9 .
+Năm 2017 ,   nhiều nhà mạng trong nước sẽ mở_rộng các kênh truyền nhằm đảm_bảo thông_suốt kết_nối .
+Đáng chú_ý là tuyến APG ( Asia_Pacific_Gateway ) đi vào vận_hành , hứa_hẹn giúp Internet_Việt_Nam đi quốc_tế sẽ nhanh gấp đôi so với hiện_nay .
+Ngoài_ra còn có   tuyến cáp_quang AAE - 1 ( Asia_Africa_Euro 1 ) , nối các nước châu Á đến châu Âu và châu Phi .

@@ -1,0 +1,45 @@
+Giám_đốc Google : ' Nghề lập_trình cần tự học 10 năm '
+Một lập_trình_viên giỏi không_thể học kiểu " mì_ăn_liền " mà phải nỗ_lực thực_hành , phân_tích , vượt qua mọi giới_hạn bản_thân , theo Peter_Norvig .
+Trong   một bài viết đăng trên trang cá_nhân của mình , nhà_khoa_học máy_tính , cựu nhân_viên NASA , Giám_đốc nghiên_cứu Google - Peter_Norvig cho rằng , việc nóng_lòng muốn trở_thành nhà_lập_trình sau vài tháng là ý_tưởng sai_lầm .
+Bất_kỳ công_việc nào cũng cần sự rèn_luyện , nỗ_lực không ngừng_nghỉ , từ đọc sách , đi học lấy chứng_chỉ đến rút kinh_nghiệm trong khi làm_việc , cộng_tác với đồng_nghiệp .
+Rảo bước quanh các cửa_hàng sách , bạn dễ_dàng bắt_gặp những tựa sách như Tự học lập_trình Java trong 7 ngày bên_cạnh một dãy dài vô_tận những cuốn sách khác dạy các ngôn_ngữ_lập_trình như C , SQL , Ruby … trong vài giờ .
+Ông đã thử công_cụ tìm_kiếm nâng cao những cuốn sách có tiêu_đề chứa cụm " tự dạy " ( teach yourself ) , " học " ( learn ) , " giờ " ( hours ) , " ngày " ( days ) , " kể từ năm 2000 " ( since 2000 ) .
+9 trong 10 kết_quả đầu_tiên là sách lập_trình .
+Điều ông rút ra là tại_sao mọi người lại vội_vàng đến thế khi học lập_trình , hay vì lập_trình là thứ dễ học hơn bất_kỳ bộ_môn nào trên đời .
+Nhà_lập_trình Felleisen và các cộng_sự của ông cũng từng phát_biểu trong cuốn How to Design_Programs   ( Làm_sao để viết các chương_trình ) rằng : " Viết một chương_trình dở thì dễ thôi .
+Ngay cả những kẻ ngốc_nghếch cũng có_thể làm được điều đó trong 21 ngày , thậm_chí với những người rất khờ_khạo " .
+Các nhà_nghiên_cứu như Bloom , Bryan & Harter , Hayes cho_biết , phải mất khoảng 10 năm để thông_thạo bất_kỳ lĩnh_vực nào từ chơi cờ , sáng_tác âm_nhạc , bơi_lội , tennis đến nghiên_cứu tâm_lý thần_kinh … Điều quan_trọng là việc luyện_tập , thực_hành .
+Đó không đơn_thuần chỉ lặp_đi_lặp_lại một công_việc đó , mà_còn thử_thách bản_thân với những nhiệm_vụ vượt ngoài khả_năng hiện_tại , nỗ_lực , phân_tích những điều vừa làm được của bản_thân trong và sau khi hoàn_thành rồi khắc_phục những khuyết_điểm .
+Quá_trình này phải được lặp_đi_lặp_lại mà không có một lối đi_tắt nào .
+Từ thực_tế có_thể nhận thấy , không có lối đi_tắt nào để đi đến thành_công .
+Ngay cả với Mozart , người được xem là thần_đồng , đã bắt_đầu học nhạc từ năm lên 4 tuổi và mất 13 năm để cho ra_đời tác_phẩm âm_nhạc cổ_điển đầu_tiên .
+Một ví_dụ ở lĩnh_vực khác , the Beatles trước khi có bản hit số_một vào 1964 ở chương_trình Ed_Sullivan , cũng đã chơi nhạc trong những câu_lạc_bộ nhỏ ở Liverpool hay Hamburg từ năm 1957 .
+Dù họ sớm có được sức hút lớn với khán_giả thì đến tận album Sgt .
+Pepper ' s phát_hành năm 1967 mới có được thành_công quan_trọng đầu_tiên trong sự_nghiệp .
+Hãy   yêu_thích   lập_trình và bạn làm_vì cảm_thấy hào_hứng .
+Phải chắc_chắn rằng , lập_trình đủ thú_vị để bạn còn theo_đuổi công_việc đó trong 10 năm hoặc 10.000 giờ nữa .
+Cách học   lập_trình   tốt nhất chính là thực_hành .
+Nói một_cách khoa_học hơn thì việc rèn_luyện không khiến bạn tự_động đạt đến đỉnh_cao của tài_năng nhưng ngay cả với những người nhiều kinh_nghiệm , sự nỗ_lực rèn_luyện vẫn giúp cải_thiện đáng_kể năng_lực của họ .
+Cách học_tập hiệu_quả nhất_là xác_định rõ khả_năng hiện_tại , những khó_khăn của bản_thân , nhận được đánh_giá có ý_nghĩa và tìm cơ_hội làm lại , sửa_sai .
+Những hướng_dẫn trên được trích từ cuốn sách rất hữu_ích - Cognition in Practice : Mind , Mathematics , and Culture in Everyday_Life   ( Nhận_thức về thực_hành : Trí_tuệ , Toán_học và Văn_hóa đời_sống ) .
+Hãy   trao_đổi   với những lập_trình_viên khác , tìm_hiểu thêm những chương_trình khác .
+Điều này còn quan_trọng hơn bất_kỳ quyển sách hay khóa đào_tạo nào .
+Nếu bạn muốn , hãy dành 4 năm ở đại_học ( hoặc dài hơn ở những trường bậc cao ) .
+Bạn sẽ có cơ_hội làm những công_việc yêu_cầu bằng_cấp và hiểu_biết chuyên_sâu hơn trong một_vài lĩnh_vực .
+Nhưng nếu_không thích trường_học , bạn cũng có_thể có ngần ấy trải_nghiệm khi tự học hoặc làm_việc nhưng phải thực_sự tập_trung .
+Trong bất_kỳ trường_hợp nào , chỉ học qua sách_vở cũng không_bao_giờ đủ .
+" Chương_trình giảng_dạy khoa_học máy_tính không_thể giúp bạn trở_thành chuyên_gia lập_trình cũng_như học cách sử_dụng bút_lông và tô màu không làm_nên một họa_sĩ " , Eric_Raymond – tác_giả The_New_Hacker ' s Dictionary cho_biết .
+Tham_gia vào các dự_án với những lập_trình_viên khác .
+Bạn là người giỏi nhất trong một_vài dự_án nhưng cũng có_thể là kém nhất trong một_số khác .
+Nếu là người giỏi nhất , hãy thử_thách khả_năng làm lãnh_đạo của mình .
+Còn ngược_lại , hãy học_hỏi xem người giỏi làm như_thế_nào và học xem họ không làm_gì ( vì họ muốn bạn làm những việc đó ) .
+Trong một dự_án , hãy làm_việc   sau   người lập_trình khi bạn đã tìm_hiểu chương_trình của họ .
+Hãy tìm xem làm_sao để hiểu được chương_trình đó , chỉnh_sửa thế_nào để tốt hơn .
+Thử nghĩ xem làm thế_nào để thiết_kế những chương_trình giúp cho những người sau_này có_thể duy_trì dễ_dàng hơn
+Học ít_nhất khoảng nửa tá   ngôn_ngữ_lập_trình cơ_bản thuộc nhiều nhóm chức_năng khác_nhau như Java , C+ + , Lisp ,   ML , Prolog , Sisal , Clojure , Go .
+Nhớ rằng " máy_tính " là một phần của " khoa_học máy_tính " .
+Vì_vậy , nên nắm rõ thời_gian để máy_tính thực_hiện một lệnh , lấy một từ trong bộ_nhớ ( có hoặc không có cache ) , đọc những từ liên_tiếp trong ổ_đĩa …
+Tuân theo những quy_định   tiêu_chuẩn   của ngôn_ngữ .
+Đó có_thể đó là của ANSI_C+ + hoặc quy_định gõ code ở nơi bạn sống , làm_việc .
+Bạn cũng_nên tìm_hiểu xem người_ta thích điều gì ở ngôn_ngữ đó , họ cảm_thấy thế_nào hay vì_sao họ thích nó .
+Thu_Ngân ( theo Norvig.com )

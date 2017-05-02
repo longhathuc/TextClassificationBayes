@@ -1,0 +1,52 @@
+5 công_ty sáng_tạo nhất toàn_cầu năm 2017
+Được xếp_hạng thường_niên bởi Fast_Company , Top 5 công_ty sáng_tạo nhất toàn_cầu 2017 tiếp_tục ghi_nhận sự thống_trị của các doanh_nghiệp Mỹ trong lĩnh_vực công_nghệ .
+1 . Amazon
+Amazon là gã khổng_lồ về điện_toán đám mây và là công_ty thương_mại_điện_tử lớn nhất của Mỹ .
+Amazon được thành_lập năm 1994 bởi Jeff_Bezos .
+Vào những ngày đầu_tiên , Amazon vốn là một trang bán sách trực_tuyến .
+Tuy_nhiên , hiện_nay , Amazon bán tất_cả mọi thứ , từ quần_áo , đồ nội_thất đến các nội_dung số như phim_ảnh , âm_nhạc và các ứng_dụng di_động .
+Song_song đó , Amazon_Web_Services là mảng mang về doanh_thu hàng tỷ đôla mỗi năm cho công_ty .
+Amazon_Web_Services chuyên cung_cấp các dịch_vụ trên nền điện_toán đám mây cho các doanh_nghiệp , chính_phủ và trường_học trên khắp thế_giới .
+Với dự_án Amazon_Prime_Air , Amazon cũng sẽ là một trong số_ít các công_ty thương_mại_điện_tử đầu_tiên trên thế_giới triển_khai dịch_vụ giao hàng bằng máy_bay_không_người_lái ( drone ) .
+Tuy_nhiên , đội drone giao hàng của Amazon hiện chỉ có_thể giao các kiện hàng dưới 2,3 kg .
+2 . Google
+Khi nhà_lãnh_đạo Larry_Page quyết_định thành_lập một công_ty mới tên gọi Alphabet vào năm 2015 , các mảng nghiên_cứu về xe_hơi tự lái hay công_nghệ y_tế được tách ra thành những công_ty riêng .
+Từ đó , Google trở_thành thành_viên của Alphabet và chuyên tập_trung vào mảng dịch_vụ internet và phần_mềm .
+Hiện_tại , với sự dẫn_dắt của CEO Sundar_Pichai , Google vẫn đang thống_trị ở hàng_loạt lĩnh_vực .
+Android là hệ_điều_hành di_động được sử_dụng nhiều nhất trong khi Chrome là trình_duyệt có nhiều người dùng nhất .
+Các sản_phẩm như YouTube , Gmail hay Google_Maps … cũng chiếm vị_trí " bá_chủ " ở từng mảng dịch_vụ tương_ứng .
+Tuy_nhiên , Google vẫn không ngừng tạo ra những sản_phẩm mới .
+Công_ty này có rất nhiều tham_vọng ở mảng sản_phẩm phần_cứng .  
+Điện_thoại Pixel , loa thông_minh Google_Home , bộ kính Daydream_View VR … là những ví_dụ .
+Google cũng không ngại cạnh_tranh với hàng_loạt ông lớn khác .
+Google_Allo xem Facebook_Messenger và WhatsApp là đối_thủ .
+Trong khi đó , Google_Cloud trực_tiếp đối_đầu với Amazon_Web_Services trên thị_trường dịch_vụ điện_toán đám mây .
+3 . Uber
+Ra_mắt năm 2010 , Uber_Technologies là cha_đẻ của ứng_dụng gọi xe Uber .
+Hiện công_ty này có giá_trị 68 tỷ đôla và có_mặt tại 73 quốc_gia - vùng lãnh_thổ .
+Tuy_nhiên , tham_vọng của Uber đã không còn gói gọn trong ứng_dụng gọi xe nữa .
+Năm 2016 , Uber mua lại một công_ty khởi_nghiệp có tên Otto tại Silicon_Valley .
+Otto chuyên nghiên_cứu về công_nghệ xe_tải tự lái .
+CEO Travis_Kalanick muốn một ngày nào_đó , Uber sẽ vận_hành một đội xe_tải tự lái để cung_cấp dịch_vụ vận_chuyển hàng_hóa .
+Tất_nhiên , nếu muốn trở_thành người dẫn_đầu trong lĩnh_vực xe tự lái , Uber phải nhanh chân hơn Ford , GM , và Google .
+4 . Apple
+Apple từng nhiều năm liền thống_trị vị_trí thương_hiệu giá_trị nhất thế_giới nhờ vào những sáng_tạo mang tính tiên_phong trong ngành điện_tử tiêu_dùng , từ máy_tính_để_bàn , máy_tính bảng , máy_tính_xách_tay đến điện_thoại .
+Đó chính là lý_do rất nhiều người hồi_hộp chờ_đợi khi Apple sắp ra_mắt một sản_phẩm mới .
+Tuy_nhiên , năm 2016 đã chứng_kiến một luồng tranh_cãi về sức sáng_tạo giảm dần của Apple khi mẫu i Phone 7 có thiết_kế không khác_gì mẫu tiền_nhiệm i Phone 6S .
+Dẫu_vậy , với những người tìm_hiểu kỹ , sự sáng_tạo của Apple vẫn còn khá mạnh_mẽ đằng sau lớp vỏ i Phone hầu_như không thay_đổi .
+Trong khi các đối_thủ trong ngành phải mua con chip điện_thoại từ vỏn_vẹn vài nhà_cung_cấp thì Apple tự phát_triển con chip cho riêng mình .
+Và không ai có_thể phủ_nhận rằng , con chip A10 Fusion bên trong i Phone 7 đã được phát_triển và tối_ưu_hóa cho hệ_điều_hành của Apple đến mức đáng khâm_phục .
+Apple cũng đã vươn ra khỏi tầm một công_ty điện_tử tiêu_dùng .
+Apple hiện đang chạy_đua với Google về phát_triển trí_tuệ_nhân_tạo ( AI ) .  
+Hay như năm 2016 , công_ty cho ra_mắt CareKit -   một nền_tảng mã nguồn mở ứng_dụng cho lĩnh_vực y_tế .
+5 . Snap
+Được thành_lập vào năm 2012 bởi hai sinh_viên Đại_học Stanford ( Mỹ ) , Snap là công_ty vận_hành ứng_dụng nhắn_tin Snapchat .
+Với các điểm mạnh như công_cụ vẽ , bộ lọc hình_ảnh , sticker … ứng_dụng này có lượng sử_dụng hàng ngày đến 150 triệu người và là một nền_tảng quảng_cáo tăng_trưởng nóng .
+Dự_kiến , năm 2017 , doanh_thu của Snap sẽ đạt 935 triệu đôla .
+Với sự sáng_tạo không ngừng , thậm_chí Instagram của Facebook còn phải đi vay_mượn ý_tưởng từ một_số tính_năng tốt nhất của Snapchat .
+Tháng 9/2016 , Snap giới_thiệu một mẫu kính thông_minh , cho_phép người đeo có_thể quay lại những đoạn video ngắn và chia_sẻ lên Snapchat .
+Dù_Google quảng_bá rất nhiều về dự_án thông_minh của mình nhưng Snap mới là công_ty bán ra sản_phẩm thương_mại sớm hơn .
+Trước đó , từ năm 2014 , Snap đã có những sáng_tạo về công_nghệ livestream .
+Live_Stories - một tính_năng của Snapchat cho_phép những người dùng ứng_dụng này tại cùng một sự_kiện và địa_điểm có_thể chia_sẻ lên cùng nhau gọi_là Our_Story .
+Năm 2015 , Snap ra_mắt Snapchat_Discover – một nền_tảng đọc tin_tức giải_trí , giúp người dùng đọc tin_tức của ESPN , BuzzFeed và Cosmopolitan một_cách dễ_dàng , thuận_tiện .
+Viễn_Thông ( Theo Fast_Company )

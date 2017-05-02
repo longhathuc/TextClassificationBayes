@@ -1,0 +1,12 @@
+Gần một_triệu tài_khoản Twitter tại Việt_Nam bị rao bán
+Thông_tin bị lộ bao_gồm địa_chỉ email , mật_khẩu chưa được mã_hóa và vẫn còn giá_trị đăng_nhập .
+Hồi tháng 6/2016 , trang chuyên thu_thập dữ_liệu LeakedSource phát_hiện có tới 32.880.300 tài_khoản Twitter bị một người có biệt_danh Tessa88 rao bán trên web ngầm ( Dark_Web ) .
+Mỗi tài_khoản chứa một hoặc hai e - mail , tên đăng_nhập và mật_khẩu .
+Dù thông_tin về vụ rò_rỉ của Twitter đã được cảnh_báo hơn 7 tháng , nhiều người dùng vẫn tỏ ra thờ_ơ .
+Tuần này , chuyên_gia bảo_mật Nguyễn_Hồng_Phúc đã kiểm_tra và nhận thấy có tới gần một_triệu tài_khoản của người dùng Việt_Nam bị phát_tán nhưng chưa được đổi mật_khẩu mới .   Các
+chuyên_gia đã thử đăng_nhập một_số tài_khoản và đều thành_công .
+Ảnh minh_họa : ExpertBeacon
+Đáng chú_ý , những mật_khẩu này không hề được mã_hóa .
+Đại_diện Twitter cho_biết hệ_thống của họ không bị tấn_công mà do tin_tặc đã thu_thập dữ_liệu bằng cách cài mã độc trên thiết_bị của thành_viên .
+" Có_vẻ , thiết_bị của hàng chục_triệu người dùng đã bị nhiễm mã độc và mã độc này sẽ gửi mọi thông_tin nhập từ trình_duyệt Chrome và Firefox tới máy_chủ của kẻ tấn_công " , LeakedSource nhận_định .
+Để đảm_bảo an_toàn cho tài_khoản , người sử_dụng tốt nhất nên đổi mật_khẩu tức_thì , cũng_như thường_xuyên cập_nhật mật_khẩu mới .

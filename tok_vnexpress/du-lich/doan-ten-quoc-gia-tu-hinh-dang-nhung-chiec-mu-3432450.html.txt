@@ -1,0 +1,8 @@
+Đoán tên quốc_gia từ hình_dáng những chiếc mũ
+Có_thể là trang_phục hàng ngày , cũng có_thể chỉ dành cho dịp đặc_biệt , nhưng mỗi chiếc mũ dưới đây đều là đặc_trưng riêng của một quốc_gia .
+Hãy đoán thử .
+Câu số 1 :
+1 . Tây_Ban_Nha
+2 . Bồ_Đào_Nha
+3 . Đức
+4 . Italy

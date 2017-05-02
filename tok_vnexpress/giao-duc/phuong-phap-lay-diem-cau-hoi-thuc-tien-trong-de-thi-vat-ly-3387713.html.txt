@@ -1,0 +1,58 @@
+Phương_pháp lấy điểm câu_hỏi thực_tiễn trong đề thi Vật_lý
+Câu_hỏi thực_tiễn không khó nhưng yêu_cầu học_sinh phải thông_hiểu hiện_tượng và khả_năng liên_hệ đời_sống .
+Nếu_không chú_ý ôn_luyện , học_sinh sẽ dễ mất điểm .
+Không_chỉ các môn khoa_học_xã_hội và nhân_văn mới yêu_cầu vận_dụng kiến_thức vào thực_tiễn , gắn với vấn_đề thời_sự , đề thi các môn khoa_học_tự_nhiên cũng không đi trật xu_hướng ra đề này .
+Khi ôn_luyện Vật_lý , học_sinh cần đặc_biệt chú_ý tới   những dạng bài về hiện_tượng thực_tiễn , cuộc_sống .
+Điểm yếu của học_sinh trong quá_trình ôn_luyện thường là quá chú_trọng công_thức mà coi_nhẹ kỹ_năng đọc hiện_tượng , trong khi chỉ cần để_ý một_chút là học_sinh có_thể giải_quyết được những câu_hỏi trong dạng này .
+Rất dễ bắt_gặp những dạng bài đọc hiện_tượng đơn_thuần trong đề thi , đây là dạng bài không khó nhưng yêu_cầu học_sinh phải thông_hiểu hiện_tượng và có khả_năng liên_hệ thực_tiễn , đời_sống .
+Nếu_không chú_ý trong quá_trình ôn_luyện , học_sinh sẽ mất điểm ở những câu_hỏi được đánh_giá ở mức_độ không quá khó .
+Dưới đây một_số câu_hỏi thực_tiễn có_thể xuất_hiện trong đề thi Vật_lý nhằm giúp học_sinh làm_quen , tập đánh_giá , phân_tích hiện_tượng để lựa_chọn phương_án đúng nhất ( phương_án gạch chân là phương_án đúng ) .
+Ví_dụ 1 : Một hành_khách đi_về phía cửa vào nhà_ga Cảng_Hàng không quốc_tế Nội_Bài thì thấy hai tấm cửa_kính đang khép lại .
+Nhưng khi anh_ta lại gần thì lạ thay ( ! ) , hai tấm cửa_kính tự_động tách xa nhau , khi anh_ta đi vào trong nhà_ga thi hai tấm cửa_kính lại khép lại như cũ .
+Thiết_bị đóng – mở_cửa nhà_ga ở đây đang hoạt_động dựa trên hiện_tượng
+A .       Hiện_tượng quang_điện ngoài .
+B .         Hiện_tượng quang_điện trong .
+C .         Hiện_tượng quang phát_quang .
+D .       Không phải những hiện_tượng trên .
+Hướng_dẫn và phân_tích : Với câu_hỏi này , nhiều học_sinh sẽ chọn nhầm hiện_tượng quang_điện trong , bởi hầu_hết các ứng_dụng thực_tế đều bởi hiện_tượng quang_điện , nhưng hiện_tượng trong câu_hỏi thày thuộc số_ít các các ứng_dụng của hiện_tượng quang_điện ngoài .
+Ví_dụ 2 :   Hiện_nay đèn LED đang có những bước_nhảy_vọt trong ứng_dụng thị_trường dân_dụng và công_nghiệp một_cách rộng_rãi như bộ_phận hiển_thị trong các thiết_bị điện_tử , đèn quảng_cáo , đèn giao_thông , trang_trí nội_thất , ngoại_thất … Nguyên_lý hoạt_động của đèn LED dựa vào hiện_tượng :
+A .       Quang phát_quang .
+B .         Hóa phát_quang .
+C .       Điện phát_quang .
+D .       Catôt phát_quang .
+Hướng_dẫn và phân_tích : Với câu_hỏi này , dù học_sinh có khả_năng suy_luận đã loại_bỏ được đáp_án A và B thì cũng khó_khăn trong việc tìm đáp_án đúng nếu_không học kĩ SGK phần chữ in nhỏ trong bài quang phát_quang .
+Ví_dụ 3 : Lò phản_ứng hạt_nhân   là một thiết_bị để khởi_động , kiểm_soát , và duy_trì một chuỗi   phản_ứng phân_hạch hạt_nhân .
+Lò phản_ứng hạt_nhân thường được sử_dụng để tạo ra điện và cung_cấp năng_lượng cho một_số   tàu_ngầm , tàu_sân_bay … mà hiện_nay quân_đội Hoa_Kì phát_triển rất mạnh .
+Nhiên_liệu trong các lò này thường là hoặc P239 .
+Sự phân_hạch của một hạt_nhân U235 có kèm theo giải_phóng 2,5 nơtron ( tính trung_bình ) , đối_với P239 con_số đó là 3 .
+Các nơtron này có_thể kích_thích các hạt_nhân khác phân_hạch để tạo nên một phản_ứng dây truyền nếu_không được điều_khiển .
+Các lò phản_ứng hạt_nhân được điều_khiển để đảm_bảo năng_lượng tỏa ra từ lò phản_ứng là không đổi theo thời_gian , trong trường_hợp này người_ta thường dùng những thanh điều_khiển ngập sâu vào trong lò để hấp_thụ số nơtron thừa và đảm_bảo số nơtron giải_phóng sau mỗi phân_hạch là 1 ( tính trung_bình ) .
+Thanh điều_khiển có chứa :
+A .       Bạch_kim
+B .         Vàng hoặc những kim_loại có nguyên_tử lượng lớn .
+C .       Bo hoặc Cađimi
+D .       Nước
+Hướng_dẫn và phân_tích : Nếu học_sinh không đọc kĩ SGK về lò phản_ứng hạt nhận học_sinh sẽ không làm được câu này .
+Ví_dụ 4 : Một người đi xe_máy trên đoạn đường cứ 6 m lại có ổ_gà , tần_số dao_động khung xe là 2 Hz .
+Để tránh rung lắc mạnh nhất người đó phải tránh tốc_độ nào sau đây ?
+A .       43,2 km / h .
+B .         21,6 km / h .
+C .         36,0 km / h .
+D .       18,0 km / h .
+Hướng_dẫn và phân_tích : Trong bài_toán thực_tế này , học_sinh cần nhớ về điều_kiện xảy_ra hiện_tượng cộng_hưởng ( khi đó xe rung lắc mạnh nhất ) , đó là tần_số ( chu_kì ) ngoại_lực cưỡng_bức xấp_xỉ bằng tần_số ( chu_kì ) dao_động riêng của hệ dao_động .
+Ở đây , chu_kì dao_động riêng bài cho To = 1 / f = 0,5 s .
+Ta coi ngoại_lực cưỡng_bức lên xe khi gặp ổ_gà có chu_kì là T = 6 / v , v là tốc_độ xe .
+Ta có : T = To → v = 12 m / s = 43,2 km / h .
+Ví_dụ 5 : Mạng điện dân_dụng ở Việt_Nam có điện_áp hiệu_dụng là 220 V , ở Nhật là 110 … Điện_áp hiệu_dụng quá cao , có_thể gây nhiều nguy_hiểm cho người sử_dụng .
+Nếu điện_áp hiệu_dụng thấp , chẳng_hạn 30V-50 V sẽ ít gây nguy_hiểm cho người sử_dụng .
+Nguyên_nhân không sử_dụng mạng điện có điện_áp hiệu_dụng thấp :
+A .       Không_thể sản_xuất linh_kiện điện sử_dụng .
+B .         Công_suất hao_phí sẽ quá lớn .
+C .         Công_suất nơi truyền_tải sẽ quá nhỏ .
+D .       Công_suất nơi tiêu_thụ sẽ quá lớn .
+Hướng_dẫn và phân_tích : Ở đây , khi sử_dụng mạng điện có điện_áp hiệu_dụng nhỏ dẫn tới cường_độ dòng hiệu_dụng trong truyền_tải sẽ lớn , do_đó công_suất hao_phí sẽ rất lớn .
+Để đảm_bảo công_suất hao_phí nhỏ đi , các dây_dẫn điện sẽ phải làm rất rất to để điện_trở giảm , thiệt_hại nhiều về kinh_tế !
+Vấn_đề ở đây là kinh_tế , còn hoàn_toàn có_thể tạo ra mạng điện có điện_áp hiệu_dụng thấp như_vậy !
+Ngoài những dạng bài có hiện_tượng đơn_giản như_vậy thì đề thi có_thể có những bài_toán kết_hợp hiện_tượng rất khó , yêu_cầu thí_sinh có tư_duy Vật_lí , khả_năng đọc hiện_tượng , kết_hợp linh_hoạt giữa các định_luật , công_thức liên_quan , dĩ_nhiên kĩ_năng toán_học cũng phải tốt .
+Một_vài ví_dụ tham_khảo như :
+Thầy_Đỗ_Ngọc_Hà Giáo_viên luyện thi môn Vật ly , Hệ_thống giáo_dục HOCMAI

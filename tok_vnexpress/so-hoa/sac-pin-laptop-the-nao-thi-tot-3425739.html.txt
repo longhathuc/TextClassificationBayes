@@ -1,0 +1,36 @@
+Sạc pin laptop thế_nào thì tốt
+Nên sạc khi pin còn từ 20 đến 30% và thực_hiện cân chỉnh lại công_cụ đo dung_lượng sau một thời_gian sử_dụng để tránh trường_hợp tắt đột_ngột .
+Hiệu_ứng bộ_nhớ
+Một trong những kinh_nghiệm cũ , không còn đúng nhưng vẫn còn được nhắc lại rất nhiều là hiệu_ứng nhớ pin .
+Các pin nickle trước_đây cần phải sạc , xả hoàn_toàn nhiều lần trước khi sử_dụng lâu_dài hoàn_toàn vô_dụng với pin lithium đang rất phổ_biến hiện_nay .
+Người dùng có_thể sạc pin lithium bất_kể khi nào mà không ảnh_hưởng tiêu_cực đến dung_lượng pin .
+Có cần tháo pin laptop khi sạc
+Tháo pin để bảo_vệ khỏi nhiệt_độ khi sử_dụng hiệu_năng cao .
+Nhiều người dùng thắc_mắc về việc có nên tháo pin hay không khi đang sạc nhưng câu trả_lời phụ_thuộc vào từng trường_hợp cụ_thể .
+Khi pin đạt mức 100% , hầu_hết các laptop hiện_nay đều bỏ_qua việc sạc cho pin và cấp_điện thẳng đến nguồn của máy_tính .
+Chính vì_vậy , nó sẽ không gây hại cho pin trong quá_trình sử_dụng .
+Đối_với các máy MacBook , mạch sạc cho pin và cấp_điện cho dùng trực_tiếp được tách rời nên_người dùng càng chăm cắm sạc khi sử_dụng lại càng kéo_dài tuổi_thọ pin hơn .
+Tuy_nhiên , trong một_số trường_hợp khi nhiệt_độ phòng nóng , tác_dụng của nhiệt khi máy hoạt_động có_thể ảnh_hưởng ngược_lại đến pin .
+Trong quá_trình sử_dụng bình_thường , CPU và ổ_cứng có_thể nóng từ 40 đến 50 độ C , nếu chơi game con_số này có_thể lên 60 độ C hoặc hơn .
+Vì_vậy , nếu laptop không có pin liền , hãy tháo rời khi sử_dụng ở các trường_hợp này .
+Sạc và xả pin đúng cách
+Nên sạc ở mức 20 đến 30% pin .
+Không để pin kiệt về mức 0% mới sạc vì có_thể nhanh làm hỏng pin .
+Lời khuyên được đưa ra là nên sạc khi mức pin còn khoảng từ 20 đến 30% .
+Pin máy_tính_xách_tay có chứa một chip xử_lý để đo chính_xác năng_lượng được lưu_trữ .
+Tuy_nhiên , trải qua quá_trình dài hoạt_động hoặc chu_kỳ hoạt sạc , xả không chính_xác có_thể khiến nó hoạt_động sai_lệch .
+Trong khi đó , một_số máy_tính xác tay lại dùng công_cụ đo dung_lượng pin trong BIOS đếm số lần sạc và xả đầy ( cycle ) .
+Hệ_thống đo này thường được hiệu_chỉnh qua mỗi 30 lần sạc , xả của máy để đưa ra phép_tính chính_xác nhất .
+Các trường_hợp như pin báo còn 10% nhưng giá_trị thật có_thể thấp hơn nhiều khiến máy bị tắt bất_ngờ .
+Một chu_kỳ sạc , xả được tính là một lần người dùng sử_dụng máy_tính hết 100% dung_lượng pin .
+Ví_dụ nếu trong hôm_nay dùng 40% pin đã cắm sạc thì_phải đến lần tiếp_theo sử_dụng 60% pin không cắm sạc , máy mới báo là qua 1 lần sạc xả ( cycle ) .
+Cân chỉnh lại khi máy hiển_thị sai dung_lượng pin
+Cân chỉnh lại bộ đo dung_lượng khi thấy có dấu_hiệu sai_lệch .
+Khi máy_tính hiển_thị sai dung_lượng pin , tự tắt nguồn bất_ngờ khi mức pin dưới 10% thì cần cân chỉnh lại .
+Đầu_tiên , sau khi pin lên mức 100% , tiếp_tục cắm sạc trong vòng 2 tiếng hoặc hơn để máy hoàn_toàn ổn_định và nguội bớt .
+Sau đó , thiết_lập máy tự đi vào chế_độ ngủ_đông ( hibernate ) ở mức pin 5% hoặc cao hơn ( có_thể chọn ở mức máy thường bị tắt đột_ngột nhưng không được dưới 5% ) .
+Sau đó , sử_dụng máy_tính như bình_thường liên_tục cho_đến khi máy tự đi vào chế_độ ngủ_đông .
+Để máy ở trạng_thái này trong vòng 5 tiếng hoặc hơn nhiều hơn .
+Khi đã đủ thời_gian , tiếp_tục cắm sạc cho máy lên mức 100% pin ( trong quá_trình này có_thể mở máy lên dùng bình_thường ) .
+Pin_Lithium_Ion hiện_nay có số_lượng giới_hạn chu_kỳ sạc xả tiêu_chuẩn thường trong khoảng 200 đến 300 chu_kỳ .
+Sau thời_hạn này , dung_lượng pin và thời_gian sử_dụng có_thể giảm là điều bình_thường .

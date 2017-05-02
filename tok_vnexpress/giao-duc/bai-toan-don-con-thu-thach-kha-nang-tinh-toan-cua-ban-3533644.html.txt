@@ -1,0 +1,13 @@
+Bài_toán đón con thử_thách khả_năng tính_toán của bạn
+Vì được tan học sớm hơn bình_thường nên David phải đi bộ quãng đường mới gặp được bố .
+Hãy đọc đề_bài và tìm ra David đã đi bộ bao_nhiêu lâu trước khi gặp bố .
+David được bố đón từ trường_học về vào 6h chiều mỗi ngày .
+Để đón được con , bố David phải đi từ nhà đến trường và đèo con từ_trường về nhà .
+Một ngày , David được cô_giáo cho về sớm lúc 5h chiều .
+David đi bộ trên con đường mà bố thường đi đón cậu .
+Đi được một đoạn thì David gặp bố và được bố đèo về trên quãng đường còn lại .
+Kết_quả , David về nhà sớm hơn 50 phút so với mọi ngày .
+Coi như bố của David không biết cậu về sớm nên vẫn đi đón như mọi_khi với tốc_độ không đổi , hỏi David đã đi bộ được bao_nhiêu phút trước khi gặp bố ?
+Thanh_Tâm
+> > Bài_toán về người say rượu khiến bạn chóng_mặt
+> > Bài_toán chuyển_động giúp kiểm_tra kiến_thức lớp 5-6

@@ -1,0 +1,16 @@
+Apple bị kiện vì khóa FaceTime trên i OS 6 , ép nâng_cấp lên i OS 7
+Công_ty công_nghệ Mỹ bị kiện với lý_do cố_tình " phá hỏng " tính_năng FaceTime trên i OS 6 , buộc người dùng phải cập_nhật i Phone , iPad lên phiên_bản cao hơn .
+Đơn_kiện nhắm vào Apple được nộp tại bang California ( Mỹ ) xuất_phát từ email nội_bộ trong vụ Apple đối_đầu với công_ty cấp bằng_sáng_chế VirnetX .
+Theo đó , thời_điểm mới ra dịch_vụ FaceTime , công_ty sử_dụng máy_chủ của Akamai để xử_lý các cuộc_gọi .
+Theo thời_gian , khối_lượng lưu_trữ ngày_càng nhiều và Apple hàng tháng tốn cả triệu USD chi_phí cho Akamai .
+FaceTime không hoạt_động trên i OS 6 , buộc người dùng phải nâng_cấp lên i OS 7 .
+Trên i OS 7 , cách hoạt_động của FaceTime đã được điều_chỉnh để giảm lưu_lượng khai_thác qua hệ_thống của Akamai , từ đó cắt_giảm chi_phí .
+Tuy_nhiên , những khách_hàng sở_hữu i Phone 4 và 4s quyết_định vẫn giữ i OS 6 hiện_tại , nên Apple được cho là đã vô_hiệu_hóa FaceTime trên phiên_bản này .
+Lúc đó , công_ty công_nghệ Mỹ nói đây là một lỗi và cách khắc_phục là buộc phải lên i OS 7 .
+Trong đơn khiếu_nại , kỹ_sư Apple   Patrick_Gates đã gửi một email hỏi công_ty rằng " cần làm_gì với i OS 6 để giảm dung_lượng " .
+Email phản_hồi của kỹ_sư   Gokul_Thirumalai cho_biết " do chi_phí sử_dụng băng_thông lớn , chúng_tôi đã làm hỏng i OS 6 và cách duy_nhất để FaceTime hoạt_động trở_lại là nâng_cấp lên i OS 7 " .
+Tuy_nhiên , sau khi cài_đặt i OS mới thì những trải_nghiệm của người dùng sở_hữu i Phone 4 và 4s trở_nên rất tệ .
+Hiệu_suất của máy giảm đi rõ_rệt do phần_cứng máy không đáp_ứng đủ , điện_thoại thường_xuyên bị treo , các thao_tác không mượt_mà .
+Theo Engadget , thời_điểm FaceTime gặp trục_trặc thì đã có 87% người dùng cập_nhật lên i OS 7 .
+Hiện_Apple chưa đưa ra phản_ứng nào và tòa_án cũng chưa đưa ra kết_luận .
+Video_Apple giới_thiệu tính_năng FaceTime :

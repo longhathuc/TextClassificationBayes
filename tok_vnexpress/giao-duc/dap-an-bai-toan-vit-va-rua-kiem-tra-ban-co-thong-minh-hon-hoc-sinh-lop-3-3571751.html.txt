@@ -1,0 +1,22 @@
+Đáp_án bài_toán ' vịt và rùa ' kiểm_tra bạn có thông_minh hơn học_sinh lớp 3
+Nhiều người không đọc kỹ đề_bài hoặc hiểu sai dữ_kiện dẫn đến không_thể đưa ra câu trả_lời đúng cho bài_toán chỉ cần sử_dụng phép cộng và phép trừ này .
+Đề_bài :
+Oliver sắp_xếp những chú vịt và rùa đồ_chơi của em thành một hàng như hình dưới đây .
+Oliver muốn sắp_xếp tất_cả vịt sang bên trái và rùa sang bên phải , nhưng em chỉ được phép đổi chỗ hai đồ_chơi liền kề trong mỗi lần di_chuyển .
+Oliver phải di_chuyển đồ_chơi tối_thiểu bao_nhiêu lần để xếp được hàng như mong_muốn ?
+Đáp_án : 17 lần .
+Có hai cách sắp_xếp tối_ưu nhất dành cho Oliver là di_chuyển hết số vịt sang trái hoặc di_chuyển hết số rùa sang phải .
+- Cách 1 : Di_chuyển hết vịt sang trái .
+Từ trái qua phải , các chú vịt lần_lượt ở vị_trí 1 , 3 , 5 , 8 , 10 và 11 .
+Để tất_cả vịt ở bên trái , Oliver cần dịch_chuyển các chú vịt về vị_trí 1 , 2 , 3 , 4 , 5 và 6 .
+Mỗi lần di_chuyển , vịt sẽ dịch_chuyển sang trái nhiều nhất một vị_trí .
+Số lần Oliver phải dịch_chuyển đồ_chơi bằng tổng_số lần thay_đổi vị_trí của mỗi chú vịt .
+Vậy số lần tối_thiểu Oliver phải di_chuyển để xếp được hàng như mong_muốn là
+  ( 1-1 ) +   ( 3-2 ) + ( 5-3 ) + ( 8-4 ) + ( 10-5 ) + ( 11-6 ) = 17 lần .
+- Cách 2 : Di_chuyển hết rùa sang phải .
+Từ phải qua trái .
+các chú rùa lần_lượt ở vị_trí 2 , 4 , 6 , 7 và 9 .
+Oliver cần dịch_chuyển các chú rùa về vị_trí 7 , 8 , 9 , 10 và 11 .
+Vậy số lần tối_thiểu Oliver phải di_chuyển để xếp được hàng như mong_muốn là   ( 7-2 ) +   ( 8-4 ) + ( 9-6 ) + ( 10-7 ) + ( 11-9 ) = 17 lần .
+> > Xem đáp_án gốc
+Thanh_Tâm

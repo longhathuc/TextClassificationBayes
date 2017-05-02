@@ -1,0 +1,25 @@
+Đáp_án bài_toán thử_thách IQ người giải
+Chỉ có một quy_luật cho ra đáp_án của bài_toán này nhưng có_thể giải_thích bằng hai cách .
+Đề_bài :
+Giả_sử dãy phương_trình dưới đây đúng và tất_cả phương_trình đều tuân theo một quy_luật logic .
+7 + 7 = 2
+8 + 8 = 4
+8 + 5 = 1
+6 + 9 = 3
+10 + 11 = 9
+Bạn có_thể tìm ra quy_luật đó để tìm giá_trị của phương_trình 4 + 9 ?
+Đáp_án : 4 + 9   = 1 .
+Cách giải_thích thứ nhất :
+Nhận thấy :
+7 + 7 = 2 + 12
+8 +8 = 4 + 12
+8 + 5 = 1 + 12
+6 + 9 = 3 + 12
+10 + 11 = 9 + 12
+Đặt giá_trị cần tìm là X , ta có :   4 + 9 = X + 12 suy ra X = 1 .
+Cách giải_thích thứ_hai :
+7 + 7 = 14 ( giờ ) = 2 ( giờ chiều )
+8 + 8 = 16 ( giờ ) = 4 ( giờ chiều )
+Tương_tự ta có 4 + 9 = 13 ( giờ ) = 1 ( giờ chiều ) .
+Như_vậy 4 + 9 = 1 .
+Thanh_Tâm

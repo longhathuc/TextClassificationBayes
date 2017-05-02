@@ -1,0 +1,33 @@
+Smartphone cao_cấp tại Việt_Nam chưa hỗ_trợ tốc_độ 4G lý_tưởng
+Galaxy_Note 5 , Galaxy S6 edge Plus hay Sony_Xperia Z5 mới chỉ hỗ_trợ tốc_độ tải lên tới 450 Mb/giây , trong khi thử_nghiệm 4G của Vinaphone đạt 550 Mb/giây .
+Hai nhà mạng tại Việt_Nam , Vinaphone và Viettel , đang thử_nghiệm mạng 4G LTE ở hai băng tần là   1.800
+MHz và 2.600 MHz .
+Về cơ_bản , nếu thiết_bị thu của người dùng hỗ_trợ hai băng tần này là đã có_thể sử_dụng mạng 4G ở trong nước .
+Tuy_nhiên , tốc_độ đạt được thực_tế lại còn phụ_thuộc nhiều vào thiết_bị cụ_thể .
+Chưa có điện_thoại , máy_tính bảng   hỗ_trợ tốc_độ tải cao nhất như thử_nghiệm của Vinaphone .
+Những người dùng đầu_tiên sử_dụng thử mạng 4G của Vinaphone hôm_qua đều có chung kết_quả tải về cao nhất khoảng từ 100 đến 200 Mb/giây .
+Tuy đã cao hơn nhiều so với mạng 3G trước_đây nhưng vẫn còn khoảng_cách khá xa đến một thử_nghiệm của Vinaphone là gần 550 Mb/giây và được cho là có tốc_độ tải lên nhanh_nhất Đông_Nam Á .
+Sự khác_biệt nằm ở thiết_bị khi Vinaphone sử_dụng bộ thu chuyên_dụng hỗ_trợ tới Cat 11 ( tốc_độ tải lên trên lý_thuyết là 600 Mb/giây ) trong khi tại Việt_Nam chưa có điện_thoại , máy_tính bảng nào hỗ_trợ tới giao_thức này .
+Các di_động cao_cấp nhất như Samsung_Galaxy S6 Edge_Plus , Galaxy_Note 5 hay Sony_Xperia Z5 đều mới chỉ hỗ_trợ tối_đa lên là Cat 9 với băng_thông tải lên 450 Mb/giây còn bộ_đội i Phone 6s là Cat 6 với con_số tương_tự là 300 Mb/giây .
+Người dùng muốn trải_nghiệm tốc_độ vượt_trội sẽ phải chờ đến giữa năm nay khi các mẫu di_động chạy chip Snapdragon 820 mới xuất_hiện trên thị_trường .
+Vi_xử_lý mới nhất của Qualcomm sẽ đi kèm với modem LTE_X1 2 và hỗ_trợ Cat 11 , Cat 12 với băng_thông tải về tối_đa 600 Mb/giây .   Tuy_nhiên , việc chọn những công_nghệ 4G LTE rất mới để đầu_tư của các nhà mạng tại Việt_Nam cũng được các chuyên_gia đánh_giá cao .
+4G mang đến nhiều lợi_ích hơn 3G ngoài tốc_độ băng_thông .
+Tốc_độ thử_nghiệm mạng 4G hôm_qua làm hài_lòng đa_số người dùng đầu_tiên nhưng lo_lắng về viễn_cảnh thử_nghiệm khác_biệt thực_tế lại đồng_thời hiện_hữu .
+Bài_học nhãn_tiền về tốc_độ 3G là lý_do chính_đáng cho những băn_khoăn của người tiêu_dùng .
+Thời_gian đầu khi mới có_mặt tại Việt_Nam , tốc_độ 3G rất tốt và ổn_định .
+Nhưng cho tới khi smartphone hỗ_trợ kết_nối này phổ_biến , lượng người dùng tăng vọt , các nhà mạng không còn đáp_ứng được các tốc_độ cam_kết như ban_đầu .
+Tại cùng một khu_vực , số_lượng người dùng và số trạm thu phát_sóng ảnh_hưởng rất lớn đến hiệu_quả sử_dụng mạng trên từng thiết_bị .
+Chính vì_vậy , nhiều chuyên_gia cho rằng thời_gian đầu khi đưa vào sử_dụng rộng_rãi , tốc_độ tải lên và về vẫn khá nhanh nhưng về lâu_dài sẽ phụ_thuộc nhiều vào sự đầu_tư của các nhà mạng cũng_như tốc_độ phát_triển của thiết_bị hỗ_trợ 4G .
+Người dùng phần_lớn chỉ quan_tâm tới tốc_độ , băng_thông của kết_nối mạng di_động mới mà quên đi các ưu_điểm công_nghệ khác mà 4G mang lại .
+Đầu_tiên là việc kết_nối này ít bị trễ hơn nhiều so với 3G truyền_thống .
+Một trạm phát_sóng 4G có_thể hỗ_trợ nhiều máy truy_cập cùng lúc hơn so với 3G nên tình_trạng nghẽn sẽ ít xảy_ra hơn ở những khu dân_cư đông_đúc .
+Ngoài_ra thì thời_lượng pin tiêu tốn trên thiết_bị cuối của người dùng cũng ít hơn .
+Độ " chịu_chơi " của các nhà mạng vào xây_dựng hạ_tầng là yếu_tố quyết_định tới trải_nghiệm 4G LTE tại Việt_Nam .
+Các nhà mạng đang gặp khó_khăn về đầu_tư hạ_tầng để đảm_bảo tốc_độ 4G LTE như tiêu_chuẩn .   Hiện
+tại ,   các nhà mạng tại Việt_Nam đang thử_nghiệm hai băng tần là 1.800 MHz và 2.600 MHz .
+Trên lý_thuyết , băng tần càng cao thì hỗ_trợ băng_thông tải về , tải lên cho các thiết_bị cuối của người dùng càng cao .
+Tuy_nhiên , nhược_điểm là khi đó phạm_vi phủ_sóng lại hẹp hơn và đòi_hỏi lắp_đặt nhiều hơn trạm thu phát_sóng rất tốn_kém .
+Các nhà mạng khi đó bắt_buộc phải giải bài_toán cân_đối giữa vùng phủ_sóng rộng và băng_thông cao cho người tiêu_dùng , nếu_không , tốc_độ mạng 4G với băng tần cao sẽ khó đạt được như tiêu_chuẩn .
+Tuy chưa được xác_nhận , nhưng các nhà mạng có_thể sử_dụng thêm một băng tần thứ_ba là 700 MHz khi lộ_trình khai_tử dịch_vụ truyền_hình analog hoàn_tất .
+Tuy có băng_thông thấp hơn hai băng tần đang được thử_nghiệm nhưng với ưu_điểm vượt_trội về độ phủ_sóng cao , băng tần 700 MHz sẽ được dùng để các hãng đạt cột mốc phủ_sóng 4G LTE trên toàn_quốc .
+Tuấn_Hưng

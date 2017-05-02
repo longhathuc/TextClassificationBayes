@@ -1,0 +1,22 @@
+Có nên sạc smartphone qua đêm
+Thói_quen cắm sạc trước khi ngủ và để qua đêm giúp người dùng smartphone tiết_kiệm thời_gian và nó cũng không ảnh_hưởng tới pin trừ trường_hợp dùng củ sạc không rõ nguồn_gốc hoặc sạc nhanh .
+Việc sạc điện_thoại qua đêm không đáng lo_ngại .
+Nhiều người thường có thói_quen cắm sạc vào điện_thoại trước khi đi ngủ , và thức_dậy với thiết_bị đã đầy pin .
+Trước_đây , nhiều chuyên_gia khuyến_cáo không nên làm điều này để tránh giảm tuổi_thọ của pin , hoặc các nguy_cơ cháy nổ … Lý_do là bởi hầu_hết smartphone đều dùng pin Lithium-ion , loại pin có thời_gian nạp điện trung_bình vào_khoảng 2,5 – 3 giờ , nếu lâu hơn sẽ khiến pin mất ổn_định và giảm độ bền theo thời_gian .
+Tuy_nhiên , quan_niệm đó không còn phù_hợp , bởi điện_thoại thông_minh hiện đều đã được trang_bị công_nghệ mới cho_phép ngắt nguồn điện hoặc cho_phép đưa vào nguồn điện phù_hợp để không tổn_hại đến pin .
+" Điện_thoại thông_minh , trên thực_tế đã thông_minh thực_sự , bởi chúng biết khi nào nên dừng sạc .
+Nếu tìm_hiểu , bạn sẽ thấy smartphone hiện đều được tích_hợp con chip có khả_năng ngăn_chặn hấp_thụ dòng_điện sau khi được nạp đầy năng_lượng " , Edo_Campos , phát_ngôn_viên của Anker - hãng sản_xuất bộ sạc và pin dự_phòng cho điện_thoại , cho_biết .
+Như_vậy , trên lý_thuyết , ngoại_trừ việc dùng củ sạc kém chất_lượng , củ sạc không rõ nguồn_gốc thì việc nạp điện cho smartphone qua đêm không đáng phải lo_ngại .
+Tuy_nhiên , điều đó chưa đúng hoàn_toàn , lý_do đến từ công_nghệ sạc nhanh .
+Sạc nhanh là một trong những tính_năng được các hãng sản_xuất điện_thoại nhấn_mạnh trong thời_gian gần đây , từ phân khúc giá rẻ đến cao_cấp .
+Thay_vì phải đợi sạc nhiều giờ , những thiết_bị như Samsung_Galaxy S7 , LG_V1 0 … mất chưa đầy 100 phút để nạp điện_từ 0% lên 100% .
+Không nên sử_dụng sạc   nhanh nếu để qua đêm .
+" Công_nghệ sạc nhanh rất hữu_ích , đặc_biệt là trong các trường_hợp điện_thoại hết pin , cần nạp điện nhanh để thực_hiện cuộc_gọi , nhắn_tin … khẩn_cấp .
+Tuy_nhiên , nó sẽ khiến tuổi_thọ pin bị ảnh_hưởng .
+Về nguyên_lý đối_với pin Lithium-ion ( và cả pin Lithium-Polymer ) , các ion Lithium di_chuyển từ điện_cực âm đến cực dương trong quá_trình xả , và ngược_lại khi sạc .
+Việc nạp điện nhanh đồng_nghĩa với quá_trình này diễn ra ở tốc_độ nhanh hơn , từ đó khiến các điện_cực bị ăn_mòn nhiều hơn , khiến pin nhanh hỏng hơn " , Hatem_Zeine , người sáng_lập kiêm giám_đốc của công_ty sạc không dây Ossia , giải_thích .
+Theo Zeine , có một giải_pháp để có_thể hạn_chế điều này , đó là sử_dụng củ sạc có dòng_điện thấp hơn so với củ sạc đi kèm máy .
+Ví_dụ : dùng củ sạc của Galaxy S3 ( 5V - 1A ) cho Galaxy S7 ( 9V - 1,67 A / 5V-2A ) .
+" Việc sạc với dòng_điện thấp hơn đồng_nghĩa với thời_gian nạp điện chậm hơn , và quá_trình đó giúp bảo_vệ các điện_cực .
+Nếu sạc qua đêm , không nên dùng củ sạc đi kèm máy , thay vào đó là sạc chính hãng hoặc các thương_hiệu đáng tin_cậy có dòng_điện thấp hơn " , Zeine nói .
+Bảo_Lâm ( theo NYTimes )

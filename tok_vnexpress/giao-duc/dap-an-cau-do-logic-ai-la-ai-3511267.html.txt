@@ -1,0 +1,26 @@
+Đáp_án câu_đố logic ' ai là ai '
+Đọc kỹ những câu trả_lời vị khách nhận được và liên_kết các dữ_kiện , các bạn có_thể nhanh chống tìm ra đáp_án cho câu_đối này .
+Đề_bài :
+Ba chị_em sinh ba giống_hệt nhau .
+Cô chị cả là Sarah , luôn nói thật .
+Cô thứ_hai là Sue , luôn nói_dối .
+Và cô út là Sally , có lúc nói thật có lúc lại nói_dối .
+Victor , một vị khách của gia_đình đến chơi và không_thể phân_biệt được ai là ai .
+Anh hỏi mỗi người một câu :
+Victor hỏi cô bé ngồi bên trái " Cháu ngồi giữa tên là gì " ?
+Câu trả_lời anh nhận được " Ồ , đó là Sarah " .
+Victor hỏi cô bé ngồi giữa " Tên của cháu là gì " ?
+Câu trả_lời anh nhận được " Cháu là Sally " .
+Victor quay sang hỏi cô bé ngồi bên phải " Ai là người đang ngồi ở giữa " ?
+Anh nhận được câu trả_lời " Đó là Sue " .
+Những câu trả_lời khiến Victor bối_rối và vẫn không_thể phân_biệt được ba chị_em .
+Bạn có_thể giúp Victor ?
+Victor hỏi cô bé ngồi bên trái đầu_tiên " Cháu ngồi giữa tên là gì " ? và nhận được câu trả_lời " Ồ , đó là Sarah " .
+Nếu đây là câu trả_lời đúng thì câu trả_lời thứ_hai anh nhận được khi anh hỏi cô bé ở giữa là một câu nói_dối .
+Tuy_nhiên , Sarah là người luôn nói thật nên giả_thuyết câu trả_lời của cô bé ngồi bên trái là đúng hoàn_toàn không hợp_lý .
+Như_vậy , hai cô bé ngồi bên trái và ở giữa nói_dối .
+Vậy cô bé bên phải là người duy_nhất nói thật và đó chính là Sarah .
+Câu trả_lời Sue là người ngồi giữa của cô bé này là đúng .
+Lúc này ta có Sarah ngồi bên phải , Sue ngồi giữa .
+Vậy cô bé ngồi bên trái chính là Sally .
+Thanh_Tâm

@@ -1,0 +1,9 @@
+Video ' tua nhanh thời_gian ' quay bằng camera 360 độ
+Samsung_Gear 360 có chế_độ quay timelapse bằng một hoặc cả hai ống_kính góc 180 độ hai bên với cách_thức đơn_giản .
+Timelapse là kỹ_xảo ghép các bức ảnh chụp liên_tiếp và cho phát lại ở tốc_độ cao hơn so với thời_gian chênh_lệch khi chụp từng bức ảnh riêng_biệt .
+Những video như_vậy tạo cảm_giác như thời_gian hay vạn_vật di_chuyển nhanh hơn .
+Ví_dụ , các bức ảnh được chụp sau mỗi giây nhưng phát lại với tốc_độ 30 hình/giây khiến thời_gian dường_như đang trôi nhanh 30 lần .
+Trên mẫu Gear 360 , việc quay video timelapse đơn_giản chỉ với thao_tác cài_đặt khoảng thời_gian cách nhau giữa mỗi lần chụp .
+Người dùng cũng có_thể chọn video quay từ một hoặc cả hai ống_kính 180 độ của máy .
+Toàn_bộ quá_trình xử_lý hình_ảnh và cho ra video cuối_cùng đều do máy xử_lý .
+Đoạn video tua nhanh thời_gian bằng Gear 360 :

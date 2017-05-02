@@ -1,0 +1,28 @@
+Thẻ_tín_dụng có màn_hình chống lừa_đảo
+Loại thẻ này được gắn màn_hình kỹ_thuật_số đằng sau , có_thể hiển_thị mã bảo_mật ngẫu_nhiên sau mỗi giờ .
+Hãng an_ninh mạng Oberthur_Technologies ( Pháp ) đang bàn_bạc với các ngân_hàng Anh và Pháp về việc phát_triển công_nghệ này .
+Đến cuối năm nay , thẻ này sẽ đến tay người Pháp .
+Dù_vậy , giới chuyên_gia cho rằng thiết_kế mới này đã xuất_hiện quá muộn .
+" Tôi rất ngạc_nhiên là người_ta mất lâu đến như_vậy để nghĩ ra cách này " , Alan_Woodward - Giáo_sư an_ninh mạng tại Đại_học Surrey ( Anh ) cho_biết .
+Thẻ này sẽ cung_cấp thêm một tầng bảo_mật nữa , bằng cách thay mã 3 số in tĩnh phía sau ( mã CVV ) bằng một màn_hình nhỏ , hiển_thị ngẫu_nhiên một mã mỗi giờ .
+Thẻ này sẽ được gắn pin lithium siêu mỏng có_thể chạy 3 năm .
+Màn_hình sau thẻ sẽ thay_thế mã bảo_mật 3 số in sẵn .
+Ảnh : Oberthur_Technologies
+" Công_nghệ này đã tồn_tại một thời_gian rồi .
+Giờ họ sẽ phải thuyết_phục các hãng thẻ rằng nó đáng làm .
+Việc này cũng có_thể tốn_kém đấy , vì cần thay_đổi máy_móc cho phù_hợp " , Woodward cho_biết .
+Một bất_lợi của loại thẻ này là người dùng không_thể nhớ mã bảo_mật của mình nữa .
+Và họ sẽ phải kiểm_tra thẻ bất_kỳ lúc_nào thanh_toán online .
+Các nhà_băng Pháp , như Societe_Generale và Groupe BPCE đang chuẩn_bị phát_hành loại thẻ này cho khách_hàng , sau chương_trình thử_nghiệm năm_ngoái .
+Theo Cơ quan Chống lừa_đảo Tài_chính Anh , các vụ lừa_đảo thẻ_tín_dụng tại nước này có quy_mô tới 755 triệu bảng năm_ngoái , gây thiệt_hại cho hơn 20.200 khách_hàng .
+Có rất nhiều cách để những kẻ phạm_tội lấy_được thẻ và thông_tin thẻ , từ việc trộm dữ_liệu trên mạng đến gắn máy theo_dõi tại các máy rút_tiền , hoặc thậm_chí cài mã độc vào các máy .
+Để đáp trả các hành_động này , nhà_băng cũng có nhiều giải_pháp xác_thực mới , như dựa trên sinh trắc học .
+Công_nghệ này được coi là an_toàn hơn cả trong việc nhận_diện khách_hàng .
+Tuy_nhiên , nghiên_cứu gần đây của hãng bảo_mật Kaspersky_Labs cho thấy tội_phạm mạng cũng đang tận_dụng các công_nghệ mới này .
+Họ đã phát_hiện ít_nhất 12 người bán máy_quét có khả_năng ăn_cắp vân tay .
+Một_số còn có_thể lấy mẫu bàn_tay , tĩnh_mạch và mống mắt .
+David_Emm - trưởng nhóm nghiên_cứu bảo_mật tại Kaspersky cho_biết mã bảo_mật hiển_thị ngẫu_nhiên này sẽ giảm_thiểu rủi_ro đánh_cắp tiền .
+Tuy_nhiên , để tăng tính bảo_mật , nhà_băng nên cân_nhắc hiển_thị trên " một thiết_bị khác nữa " .
+Ông cho_biết người dùng cũng_nên cẩn_thận với các hoạt_động trên mạng .
+Họ cần cài các bản cập_nhật bảo_mật kịp_thời , dùng mật_khẩu an_toàn , cẩn_trọng khi dùng wifi công_cộng và không để lộ quá nhiều thông_tin cá_nhân online .
+Hà_Thu ( theo BBC )

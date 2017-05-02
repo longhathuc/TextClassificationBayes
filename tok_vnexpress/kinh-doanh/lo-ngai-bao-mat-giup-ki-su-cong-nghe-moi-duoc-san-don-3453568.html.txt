@@ -1,0 +1,17 @@
+Lo_ngại bảo_mật giúp kĩ_sư công_nghệ mới được săn_đón
+2016 được đánh_giá là cơ_hội dành cho kĩ_sư am_hiểu những công_nghệ mới nhờ sự bùng_nổ của hàng_loạt các công_nghệ Web trên mọi lĩnh_vực , đặc_biệt là ở phân khúc khởi_nghiệp .
+Là trưởng_ban tổ_chức của Vietnam_Web_Summit 2016 - một trong những chương_trình hội_thảo lớn nhất về lĩnh_vực lập_trình web tại Việt_Nam , sẽ diễn ra cuối tháng 10 và đầu tháng 11 tới tại Hà_Nội , Đà_Nẵng và TP_HCM - ông Nguyễn_Hữu_Bình , CEO Applancer_Topdev nhận_định : “ Hiện các doanh_nghiệp nước_ngoài khi vào Việt_Nam , các công_ty gia_công cho nước_ngoài và đặc_biệt là các start - up mới nổi đang ráo_riết tuyển_dụng các lập_trình_viên Golang , Ruby , NodeJS và ReactJS ... với các mức đãi_ngộ cao hơn mặt_bằng chung của thị_trường .
+Điều này cho thấy   nhu_cầu ứng_dụng các công_nghệ web mới đang ngày_càng cao , bắt_đầu_từ năm 2016 ” .
+Nhiều ý_kiến cho rằng , diễn_biến này là hoàn_toàn dễ hiểu trước những lo_ngại về bảo_mật đang dâng cao trong thời_gian gần đây .
+Cùng_với đó là sự thay_đổi nhanh_chóng về nhu_cầu vận_hành của doanh_nghiệp .
+Các lập_trình_viên Golang , Ruby , NodeJS và ReactJS ... được chào_đón mức đãi_ngộ cao hơn mặt_bằng chung của thị_trường .
+Ảnh : Viễn_Thông
+“ Các công_nghệ mới như : Progressive_Web_Apps , Polymer , Service worker , Web components , IndexedDB , Background sync API ... cũng là những tâm điểm công_nghệ mới mà các start - up và doanh_nghiệp đổi_mới sáng_tạo đang ứng_dụng mạnh_mẽ để sẵn_sàng cho việc mở_rộng hệ_thống một_cách nhanh_chóng , cũng_như đáp_ứng kịp_thời khi lượng người dùng thay_đổi đột_biến ” , ông Sơn_Tùng - Trưởng bộ_phận kĩ_thuật tại Tiki.vn chia_sẻ .
+Đồng quan_điểm với ông Tùng , ông Duy_Tuấn , CEO Teamcrop cho rằng , nếu muốn đầu_quân cho các công_ty khởi_nghiệp công_nghệ tại Việt_Nam , các kĩ_sư trẻ nên trang_bị cho mình kiến_thức về một_số công_nghệ mới như : về frontent có AngularJS , ReactJS ( của Facebook ) giúp_việc xây_dựng ứng_dụng web giao_diện phức_tạp trở_nên đơn_giản trong tư_duy lập_trình ; về backend có NodeJS , Golang là những công_nghệ đạt hiệu_năng cao , dùng xây_dựng những ứng_dụng có nhiều truy_cập .
+Ngoài_ra , về system thì nên lưu_ý đến Docker - giải_pháp giúp_việc triển_khai nhân rộng / thu_hẹp hệ_thống diễn ra rất nhanh .
+Tuy_nhiên , cũng theo một_số chuyên_gia , hiện những kiến_thức này không được trang_bị sẵn tại các trường cao_đẳng , đại_học có đào_tạo về công_nghệ_thông_tin .
+Do_đó , để nắm_bắt cơ_hội thì các kĩ_sư trẻ phải tự tìm_hiểu hoặc bổ_sung thông_qua các khóa học bên ngoài .
+Theo ước_lượng tương_đối của giới chuyên_gia thì Việt_Nam hiện đang có khoảng 1.500 doanh_nghiệp khởi_nghiệp .
+Trong đó , lĩnh_vực công_nghệ_thông_tin đang chiếm số_lượng vượt_trội .
+Trước_đây , khi hoạt_động khởi_nghiệp công_nghệ còn chưa phát_triển thì Bộ Thông tin Truyền_thông đã dự_báo , nhu_cầu nhân_lực công_nghệ_thông_tin đến 2020 vào_khoảng một_triệu lao_động , với mức tăng trung_bình 13% năm .
+Viễn_Thông

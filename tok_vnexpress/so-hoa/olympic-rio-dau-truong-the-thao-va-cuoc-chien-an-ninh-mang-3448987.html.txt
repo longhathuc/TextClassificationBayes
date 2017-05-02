@@ -1,0 +1,28 @@
+Olympic_Rio : đấu_trường thể_thao và cuộc_chiến an_ninh mạng
+Không_chỉ các vận_động_viên mà tội_phạm công_nghệ_cao cũng đang hy_vọng sẽ " săn vàng " tại Thế_vận_hội Olympic 2016 .
+Brazil là quốc_gia nổi_tiếng tập_trung nhiều tin_tặc .
+Theo báo_cáo các mối đe_dọa bảo_mật Internet do Symantec công_bố năm 2016 , quốc_gia này xếp thứ tám trên thế_giới về tội_phạm mạng sử_dụng bot ( thực_hiện các cuộc tấn_công tự_động ) .
+Hãng bảo_mật còn cho_biết , Brazil chiếm 2% trong tổng_số chương_trình bot toàn_cầu .
+Olympic_Rio không_chỉ là đấu_trường thể_thao mà_còn là nơi tập_trung của các hacker .
+Đăng_cai Thế_vận_hội Olympic , nguy_cơ mất an_ninh mạng tăng cao và có_thể ảnh_hưởng đến khách tham_quan , ban tổ_chức , các nhà tại trợ ... " Chúng_tôi lo_ngại các cuộc tấn_công sẽ gia_tăng khi kỳ thi diễn ra " , Michal_Salat , Giám_đốc an_ninh Avast , nói .
+" Khách du_lịch có_thể trở_thành mục_tiêu của tin_tặc và mục_đích của chúng là đánh_cắp tiền " .
+Salat cho_biết số cuộc tấn_công trọng_điểm của hacker tại Olympic_Rio sẽ tăng gấp bốn lần so với Olympic_London năm 2012 .
+Khách du_lịch đến với Brazil dịp này có_thể phải đối_mặt với các trang_web giả_mạo ( phishing ) , thiết_bị đánh_cắp thông_tin thẻ ATM ( skimmer ) hay các phần_mềm độc_hại ...
+Quốc_gia tổ_chức Olympic_Rio đã nhận thấy vấn_đề này và tiến_hành một_số biện_pháp an_ninh .
+ABIN , cơ_quan tình_báo Brazil , đang theo_dõi khoảng 40 nhóm tin_tặc có khả_năng hack vào " cấu_trúc nhạy_cảm " , chẳng_hạn như dữ_liệu liên_bang .
+Trong tháng cao_điểm , cơ_quan này xác_định khoảng 1.600 nhóm sẽ thực_hiện hơn 20.000 cuộc tấn_công vào các hạ_tầng công_cộng .
+Mục_tiêu của các hacker tại Olympic_Rio là đánh_cắp tiền và thực_hiện các âm_mưu chính_trị .
+Olympic là sự_kiện thể_thao lớn nhất mà Brazil đăng_cai .
+Năm 2014 , nước này đã tổ_chức thành_công Giải bóng_đá vô_địch thế_giới .
+Tại kỳ World_Cup đó , ở Brazil đã hứng_chịu 90.000 cuộc tấn_công trong khoảng 30 ngày , theo công_ty an_ninh mạng Cytegic .
+Nghiên_cứu cho thấy , các vụ tấn_công thường bùng_nổ tại các sự_kiện thể_thao tầm_cỡ , nhằm đánh_cắp tiền hay phục_vụ mục_đích chính_trị .
+Công_cụ mà hacker có_thể dùng để phá_hoại tại Olympic_Rio là tấn_công từ_chối dịch_vụ ( DDoS ) , thay_đổi giao_diện website ( deface ) hoặc tung thông_tin riêng_tư , nhạy_cảm .
+Những tổ_chức tài_chính cũng là mục_tiêu và điều này không có gì mới ở Brazil .
+" Thị_trường hacker ngầm rất sôi_động " , người đứng đầu tình_báo của   Cytegic cho_biết .
+" Tôi dám so_sánh Brazil với thế_giới ngầm của Nga .
+Ngành công_nghiệp tài_chính là mục_tiêu dài_hạn của tin_tặc trong nhiều năm qua .
+Khi một sự_kiện thể_thao lớn được tổ_chức , các cuộc tấn_công vào ngân_hàng , các tổ_chức tài_chính , tín_dụng ... sẽ gia_tăng " .
+Các chuyên_gia an_ninh đều đồng_tình rằng tin_tặc sẽ nhòm_ngó mọi ngóc_ngách tại Olympic , nhưng đây cũng là một trong những kỳ Thế_vận_hội an_toàn .
+Olympic_Rio sử_dụng công_nghệ điện_toán đám mây nhiều hơn bất_kỳ sự_kiện Olympic trước_đây và đến Olympic 2020 sẽ xây_dựng hoàn_toàn dựa trên đám mây .
+Các chuyên_gia nói rằng , nhìn_chung điện_toán đám mây an_toàn hơn so với máy_chủ vật_lý .
+Những cảnh_báo với khách du_lịch khi đến Olympic_Rio :

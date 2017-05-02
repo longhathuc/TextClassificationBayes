@@ -1,0 +1,14 @@
+Chơi game trên Touch_Bar của MacBook Pro
+Màn_hình phụ OLED cảm_ứng của MacBook Pro có_thể cài_đặt và hiển_thị game với tỷ_lệ 200 : 7 , nhưng chỉ xem chứ không_thể chơi được .
+Người dùng YouTube có tên Diffractive-b3ll hôm 20/11 vừa_qua đã đăng_tải video màn chơi game Doom trên thanh Touch_Bar của MacBook Pro , chiếc laptop mới được Apple công_bố .
+Mặc_dù về cơ_bản , trò_chơi không_thể chạy được bởi độ nhiễu xạ vì tỷ_lệ màn_hình quá chênh_lệch , lên tới 200 : 7 .
+Người chơi chỉ có_thể xem những gì đang xảy_ra chứ không_thể điều_khiển nhân_vật .
+Tuy_nhiên , nó cũng mở ra một hướng mới cho các lập_trình_viên khi tạo ra những trò_chơi cho Touch_Bar trong tương_lai .
+Doom là dòng game bắn súng góc nhìn thứ nhất ( FPS ) được phát_triển bởi id Software .
+Trò_chơi lấy bối_cảnh không_gian vô_định và game thủ phải chiến_đấu với lũ quỷ và xác sống để sinh_tồn .
+Đây được coi là một trong những game bắn súng đầu_tiên , với đồ_họa 3D , chiều không_gian thứ_ba , cho_phép nhiều người chơi trực_tuyến .
+Kể từ khi ra_mắt , hơn 10 triệu bản của trò_chơi đã được bán ra .
+Phiên_bản đầu_tiên và cũng là sản_phẩm được cài_đặt nói trên ra_đời năm 1993 .
+Doom được xem   là trò_chơi   tiên_phong của thể_loại game   bắn súng .
+Bởi tính lịch_sử và mức_độ đơn_giản , nhỏ gọn của mình mà trò_chơi này thường_xuyên được thiết_lập để chơi trên các thiết_bị đặc_biệt .
+Nó từng xuất_hiện trên máy ATM , máy_in Canon , máy vẽ đồ_thị dao_động ... và bất_cứ thứ gì khác có màn_hình mà game thủ có_thể nghĩ ra .

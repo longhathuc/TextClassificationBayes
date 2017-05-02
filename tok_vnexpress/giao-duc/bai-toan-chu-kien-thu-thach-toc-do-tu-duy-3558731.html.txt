@@ -1,0 +1,7 @@
+Bài_toán ' chú kiến ' thử_thách tốc_độ tư_duy
+Bài_toán tính độ dài đường đi của chú kiến nằm trong đề thi Toán quốc_tế Kangaroo dành cho học_sinh lớp 7-8 .
+Hãy đưa ra đáp_án trong thời_gian ngắn nhất có_thể .
+Cho hình_lập_phương có cạnh bằng 12 cm .
+Chú kiến bò trên mặt của hình_lập_phương từ điểm A đến điểm B theo lộ_trình như hình_vẽ .
+Hãy tìm độ dài quãng đường mà chú kiến đã đi ?
+Trần_Phương

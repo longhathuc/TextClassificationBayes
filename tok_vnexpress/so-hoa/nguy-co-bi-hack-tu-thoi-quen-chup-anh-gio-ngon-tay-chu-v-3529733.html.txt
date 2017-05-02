@@ -1,0 +1,10 @@
+Nguy_cơ bị hack từ thói_quen chụp ảnh giơ ngón_tay chữ V
+Người dùng mạng xã_hội , nhất_là giới trẻ , thường giơ " tay kéo " ( chữ V ) khi chụp ảnh rồi đăng lên mạng mà không biết họ có_thể bị đánh_cắp thông_tin .
+Hiện_nay , rất nhiều smartphone được trang_bị cảm_biến nhận_diện vân tay và người dùng có thói_quen đăng_ký vân tay của ngón_trỏ .
+Các chuyên_gia bảo_mật tại Viện thông_tin quốc_gia Nhật cho_biết họ đã thành_công trong việc sao_chép dữ_liệu vân tay từ bức ảnh của một người đang giơ ngón_trỏ và ngón_giữa để tạo chữ V .
+Điều này cho thấy nguy_cơ người dùng có_thể bị đánh_cắp thông_tin dễ_dàng theo cách họ không ngờ tới .
+" Kẻ xấu có_thể khai_thác dữ_liệu này nhằm truy_cập vào điện_thoại , máy_tính , ổ_cứng , ví điện_tử ... mà không cần biết mật_khẩu , hoặc thâm_nhập vào những khu_vực hạn_chế như văn_phòng , nơi làm_việc của người bị lộ thông_tin " , Giáo_sư Isao_Echizen nhận_định .
+Echizen và cộng_sự   Tateo_Ogane có_thể lấy vân tay từ bức ảnh số được chụp ở khoảng_cách 3 mét với ống_kính 135mm trên một máy_ảnh DSLR .
+Người dùng nên chụp với ngón_tay quay vào trong để tránh bị lộ vân tay .
+Ảnh :   whatsknowledge
+NTT Docomo cho_hay họ chưa nhận được báo_cáo nào liên_quan đến việc mất dữ_liệu vân tay và cho rằng cơ_chế bảo_mật này vẫn có nhiều ưu_điểm lớn , mang lại sự tiện_dụng cho người sử_dụng , nhưng khẳng_định sẽ xem_xét vấn_đề trên một_cách cẩn_trọng để tránh những rủi_ro trong tương_lai .

@@ -1,0 +1,13 @@
+Nhật_Bản chế robot thu_gom rác_thải phóng_xạ
+Hãng_Toshiba của Nhật hôm 18/1 giới_thiệu một con robot điều_khiển_từ_xa chuyên thu_gom thanh nhiên_liệu phóng_xạ từ lò phản_ứng số 3 của nhà máy_điện Fukushima đã ngừng hoạt_động do thảm_họa sóng_thần vào năm 2011 .
+Theo RT , sau   thảm_họa kép động_đất và sóng_thần xảy_ra ở Nhật_Bản vào tháng 3/2011 , hàng trăm thanh nhiên_liệu tại nhà máy_điện hạt_nhân Fukushima_Daiichi vẫn còn kẹt trong bể chứa .
+Công_nhân đã dọn_dẹp bể chứa tại lò phản_ứng số 4 , nhưng không_thể làm_việc tại lò số 3 và các tòa nhà khác , do mức_độ nguy_hiểm chết người của phóng_xạ .
+Nhiệm_vụ của robot có tên FRS là thu_hồi các mảnh vỡ cùng 566 thanh nhiên_liệu từ các bể làm nguội bên trong để ổn_định lò phản_ứng số 3 .
+Một trong những cánh_tay của FRS được phát_triển để nhặt và cắt các mảnh vỡ , còn cánh_tay kia được thiết_kế để nhặt các thanh nhiên_liệu .
+Các cánh_tay cùng sẽ được sử_dụng để đặt rác_thải nhiễm phóng_xạ vào các thùng chứa , đóng nắp lại để chuyển đi .
+" Các FRS được thiết_kế để đặt các thanh nhiên_liệu hạt_nhân vào một thùng chứa lớn , được niêm_phong an_toàn .
+Sau đó sẽ nâng thùng chứa lên trên mặt_đất , di_chuyển tới nơi lưu_trữ tạm_thời " .
+Toàn_bộ công_việc được điều_khiển_từ_xa và giám_sát bằng rất nhiều camera gắn trên robot .
+Công_việc dự_kiến sẽ được bắt_đầu vào đầu năm 2017 , sau các đợt kiểm_tra và huấn_luyện điều_khiển robot .
+Các kỹ_sư của Toshiba hy_vọng sẽ giảm được mức phóng_xạ bên trong lò phản_ứng xuống còn 1 mSv ( đơn_vị đo lượng hấp_thụ bức_xạ ion_hóa gây hại ) .
+Nguyễn_Thành_Minh

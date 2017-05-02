@@ -1,0 +1,9 @@
+Game thủ hack ôtô để điều_khiển trò đua xe
+Các thiết_bị điều_khiển xe như vô_lăng , cần số , chân ga ... được kết_nối và sử_dụng để chơi game Mario_Kart .
+Đây là màn trình_diễn được nhóm hacker trẻ vô_địch giải Best_Hardware , tại sự_kiện HackIllinois diễn ra ở Mỹ năm 2016 thực_hiện .
+Chiếc_Chevrolet_Volt từ bố của một thành_viên trong nhóm đã được trưng_dụng để chơi   Mario_Kart , game đua xe nổi_tiếng trên hệ máy console cổ Nintendo 64 .
+Sử_dụng vi_mạch Raspberry_Pi , bảng mạch nhỏ có khả_năng xử_lý tương_đương với máy_tính mini , trò_chơi được chạy giả_lập và truyền_hình ảnh lên màn_hình LCD đặt sau tay_lái .
+Các thiết_bị điều_khiển trên xe được kết_nối mang lại cho người chơi cảm_giác như đang trực_tiếp lái_xe trong game .
+Tất_nhiên trong quá_trình chơi , chiếc xe không hề di_chuyển .
+Nguyên_lý tuy đơn_giản nhưng các thành_viên cho_biết công_việc thực_hiện không hề dễ_dàng , đặc_biệt ở phần chuyển thao_tác xoay vô_lăng thành tín_hiệu rẽ trái , phải .
+Vì hệ_thống hoạt_động thông_qua cổng OBD_II và CAN bus , một chuẩn bus cho xe_hơi , bộ thiết_bị này có_thể cài_đặt lên bất_kỳ chiếc xe nào với phần_mềm thích_hợp .

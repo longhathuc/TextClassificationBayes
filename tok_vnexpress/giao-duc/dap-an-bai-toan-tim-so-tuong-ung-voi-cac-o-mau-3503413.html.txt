@@ -1,0 +1,27 @@
+Đáp_án bài_toán tìm số tương_ứng với các ô màu
+Bài_toán có nhiều cách giải , nhưng chỉ có một đáp_án duy_nhất .
+Nhiều độc_giả đưa ra hai đáp_án là không chính_xác do chưa đọc kỹ dữ_liệu được đưa ra trong đề_bài .
+Đề_bài :
+3 ô màu xanh , đỏ , trắng tạo thành một số_hạng có 3 chữ_số khác_nhau ;
+3 ô màu đỏ , đỏ , đỏ tạo thành một_số có 3 chữ_số giống nhau và là kết_quả của phương_trình như trong hình trên .
+Hãy tìm chữ_số tương_ứng với 3 ô màu xanh , đỏ , trắng .
+Đáp_án :   Màu xanh tương_ứng với số 1 , màu đỏ tương_ứng với số 4 , màu trắng tương_ứng với số 8 .
+Cách giải đơn_giản nhất :
+Đặt các số_hạng là X và tổng của các số_hạng là Y .
+Ta có X + X + X = Y hay 3 x X = Y .
+Khi đó X = Y : 3 .
+Vì Y là một_số có 3 chữ_số giống nhau nên ta làm_phép thử với Y lần_lượt là 111 ; 222 ; 333 ; 444 ; 555 ; 666 ; 777 ; 888 ; 999 để tìm ra X .
+Lưu_ý : chữ_số hàng chục của X chính bằng các chữ_số cấu_thành nên Y vì chúng cùng thuộc ô màu đỏ .
+Như_vậy :
+111 : 3 = 37 ( loại )
+222 : 3 = 74 ( loại )
+333 : 3 = 111 ( loại )
+444 : 3 = 148 ( thỏa_mãn )
+555 : 3 = 185 ( loại )
+666 : 3 = 222 ( loại )
+777 : 3 = 259 ( loại )
+888 : 3 = 296 ( loại )
+999 : 3 = 333 ( loại ) .
+Kết_luận ,   màu xanh tương_ứng với số 1 , màu đỏ tương_ứng với số 4 , màu trắng tương_ứng với số 8 .
+Nhiều độc_giả không chú_ý đến dữ_kiện   chữ_số hàng chục của X chính bằng các chữ_số cấu_thành nên Y vì chúng cùng thuộc ô màu đỏ nên đã đưa ra nhiều đáp_án không chính_xác .
+Thanh_Tâm

@@ -1,0 +1,19 @@
+iPhone 7 sẽ có kết_nối mạng siêu_tốc
+Sản_phẩm mới của Apple có_thể hoạt_động nhanh gấp đôi i Phone 6s nhờ dùng modem X12 LTE của Qualcomm với tốc_độ tải về theo lý_thuyết lên đến 600 Mb mỗi giây .
+Một_số nguồn tin cho_biết Apple chọn Intel làm nhà_cung_cấp chính cho modem LTE trên i Phone 7 .
+Tuy_nhiên theo MacRumors , Qualcomm , công_ty cung_cấp độc_quyền linh_kiện này trong hơn 3 năm cho Apple , sẽ tiếp_tục chia_sẻ một phần đơn đặt_hàng .
+Apple có_thể dùng modem LTE_X1 2 của Qualcomm trên   iPhone 7 , cho tốc_độ truy_cập mạng   nhanh gấp đôi so với i Phone 6s .
+Ảnh minh_họa .
+Trên smartphone thế_hệ mới của Apple , Qualcomm có_thể đưa modem X12 của hãng để cung_cấp khả_năng kết_nối LTE và Wi-Fi cho thiết_bị .
+Chip này được giới_thiệu vào tháng 9/2015 , hỗ_trợ truy_cập mạng LTE Cat 12 với tốc_độ tải về trên lý_thuyết tới 600 Mb mỗi giây và tốc_độ tải lên Cat 13 đạt 150 Mb mỗi giây .
+Dòng sản_phẩm của Qualcomm gồm hai model là   MDM9x45 và MDM9x40 , hỗ_trợ LTE Advanced - công_nghệ được coi là mạng 4G thực_sự , LTE - U - mạng tối_ưu cho khu_vực nhỏ có lưu_lượng cao và khả_năng chuyển tự_động giữa LTE và Wi-Fi .
+Chip MDM9635 được Apple dùng trên i Phone 6s và mẫu MDM9x45 hứa_hẹn là sản_phẩm kế_nhiệm trên i Phone 7 .
+Smartphone hiện_nay của Apple có tốc_độ tải về theo lý_thuyết là 300 Mb mỗi giây và tải lên đạt 50 Mb mỗi giây .
+Dòng X12 cho tốc_độ nhanh gấp đôi so với thế_hệ trước và đã được dùng trên một_số mẫu Android cao_cấp chạy chip Snapdrgon 820 như Galaxy S7 , LG_G5 hay Xiaomi_Mi 5 .
+So với modem XMM 7360 LTE được đồn có_thể dùng trên i Phone 7 , sản_phẩm của Qualcomm tỏ ra vượt_trội hơn khi chip của Intel chỉ có thông_số tải về là 450 Mb mỗi giây và tải lên đạt 100 Mb mỗi giây .
+Modem của Intel cũng hỗ_trợ LTE Advanced , VoLTE , hai SIM và kết_nối liên mạng LTE - Wi-Fi .
+Nhiều khả_năng , Apple có_thể sử_dụng modem LTE từ cả Intel và Qualcomm cho i Phone 7 .
+Việc phân_chia sẽ dựa trên các mẫu i Phone khác_nhau , hoặc phụ_thuộc vào thị_trường mà Apple phân_phối .
+Xem thêm :
+>   Khuôn_mẫu vỏ i Phone 7 Plus lộ ảnh , có camera kép
+>   Apple đặt_hàng sản_xuất 78 triệu i Phone 7

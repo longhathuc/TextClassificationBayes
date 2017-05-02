@@ -1,0 +1,21 @@
+Xe không người lái ' rục_rịch ' vào châu Á
+Một_số nước châu Á thử_nghiệm thành_công xe không người lái trên đường thật và dự_kiến đưa vào sử_dụng rộng_rãi trong 1-2 năm tới .
+Công_ty nu Tonomy ( Singapore ) cho_biết năm 2018 sẽ có_thể đưa 100 taxi không người lái vào hoạt_động .
+Hãng này mời một nhóm khách_hàng tải ứng_dụng của họ và sử_dụng miễn_phí dịch_vụ taxi không người lái ở khu công_nghệ_cao phía tây Singapore để tiếp_nhận các ý_kiến phản_hồi trước khi đưa dịch_vụ này vào hoạt_động .
+Công_ty sẽ tăng dần lượng xe , điểm đón trả khách .
+Đồng_thời , Cơ_quan Vận_tải Đường_bộ Singapore ( LTA ) cũng đưa vào thử_nghiệm phương_tiện công_cộng là Bus không người lái .
+Mẫu xe dài 12m gắn cảm_biến thông_minh và phần_mềm điều_khiển để di_chuyển qua các con phố đông_đúc .
+Sức chứa mỗi xe là 80 người , ban_đầu phục_vụ lộ_trình từ Đại_học Công_nghệ Nanyang ( NTU ) tới CleanTech Park và ngược_lại .
+Nhật_Bản cũng vừa trình_làng xe_buýt không người lái mang tên Robot_Shuttle .
+Theo Báo_Jiji_Press , Robot_Shuttle hoàn_thành các cuộc thử_nghiệm đầu_tiên trên những tuyến đường công_cộng ở Nhật .
+Xe chở 6 người và chạy ổn_định quãng đường 400 mét dọc hồ Tazawa ở Semboku , quận Akita , phía bắc Nhật với vận_tốc 10km / h .
+Xứ mặt_trời mọc cũng lên kế_hoạch cho việc sử_dụng taxi không người lái tại Olympic 2020 .
+Mitsubishi_Electric , Zenrin và 9 hãng xe_hơi lớn của Nhật_Bản phối_hợp lập bản_đồ 3D những tuyến đường_cao_tốc cho xe không người lái .
+Bản_đồ 3D chứa_đựng thông_tin về tuyến đường cần_thiết như : nền đường , vị_trí các biển_báo , bảng tín_hiệu … để loại xe này di_chuyển thuận_lợi ngay cả trong điều_kiện tầm nhìn bị hạn_chế .
+Tại_Việt_Nam , việc nghiên_cứu công_nghệ xe không người lái bắt_đầu nhận được sự quan_tâm của các công_ty công_nghệ .
+FPT tiên_phong khi ra_mắt mô_hình xe không người lái với tỷ_lệ 1/10 so với kích_thước của xe thật .
+Mẫu xe có khả_năng leo_trèo bãi đất , bãi cát , leo dốc đến 45 độ , lội nước ngập sâu 10cm , lội sình_lầy , lội tuyết …
+FPT sẽ cung_cấp mẫu xe đua này cho sinh_viên công_nghệ trong cuộc_thi lập_trình cho xe không người lái - Cuộc đua số .
+Các đội thi sử_dụng kiến_thức trong lĩnh_vực lập_trình , xử_lý ảnh , trí_tuệ_nhân_tạo để lập_trình xử_lý thuật_toán nhận_dạng đường đi , giúp xe có_thể di_chuyển với tốc_độ cao nhất trên sa hình mô_phỏng một_số đường_phố thật .
+Với sự phát_triển trên , các chuyên_gia nhận_định , ít_nhất 5 năm tới , Việt_Nam có_thể đưa xe không người lái vào sử_dụng chở hàng trong các khu_công_nghiệp ...
+Ngọc_Điệp

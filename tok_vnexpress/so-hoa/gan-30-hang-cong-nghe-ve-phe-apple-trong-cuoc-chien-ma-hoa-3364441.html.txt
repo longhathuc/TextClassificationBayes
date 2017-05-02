@@ -1,0 +1,16 @@
+Gần 30 hãng công_nghệ về ' phe ' Apple trong cuộc_chiến mã_hóa
+Google , Facebook , Microsoft , AT& T và hơn 20 công_ty công_nghệ khác đã chính_thức gửi hồ_sơ pháp_lý lên tòa_án bày_tỏ sự ủng_hộ đối_với Apple trong vụ mở khóa i Phone .
+Theo Huffington_Post , đây là động_thái hiếm có từ các đối_thủ của Apple , thể_hiện rõ quan_điểm của Thung_lũng Silicon trước nỗ_lực xây_dựng cổng hậu của chính_phủ Mỹ .   Trong số những công_ty này có rất nhiều cái tên quen_thuộc như Google , Facebook , Microsoft , AT& T , Intel , eBay , Twitter , Mozilla , Dropbox , Snapchat , LinkedIn ...
+Các đối_thủ của Apple đang về phe hãng này trong cuộc_chiến mã_hóa .
+Ảnh : IndianExpress .
+Chỉ vài ngày_sau cuộc xả súng khiến 14 người thiệt_mạng ở California ( Mỹ ) đầu tháng 12/2015 , Tổng_thống Mỹ_Barack_Obama phát_biểu : " Tôi kêu_gọi các lãnh_đạo công_nghệ và các nhà thực_thi pháp_luật cần khiến cho những kẻ khủng_bố gặp khó_khăn hơn khi sử_dụng công_nghệ để liên_lạc ẩn_danh " .
+Theo CNN , thông_điệp của Obama không nói cụ_thể , nhưng có_thể ông nhắc tới công_nghệ mã_hóa .
+Nhiều năm qua , chính_quyền Obama đã liên_tục thuyết_phục các hãng công_nghệ lớn cài " cổng hậu " ( backdoor ) vào sản_phẩm của họ , tức_là các hãng sẽ nắm một bộ khóa mã riêng phòng khi các nhà thực_thi luật_pháp cần đến để truy_cập điện_thoại và máy_tính của người sử_dụng .
+Đến tháng 1/2016 , cuộc tranh_cãi xung_quanh việc giới công_nghệ cần làm_gì trong cuộc_chiến chống khủng_bố một lần nữa " nóng " trở_lại , tâm điểm là giữa Apple và Cục Điều tra liên_bang FBI .
+Cụ_thể , FBI đề_nghị Apple giúp họ truy_cập chiếc i Phone 5c của tên khủng_bố Syed_Farook .
+Tuy_nhiên , Apple kiên_quyết từ_chối , nói rằng họ đã hỗ_trợ FBI hết_sức có_thể , nhưng phần_mềm để mở khóa chiếc i Phone đó " đơn_giản không tồn_tại " .
+Công_nghệ mã_hóa ra_đời để bảo_vệ dữ_liệu cá_nhân của người dùng được lưu trong thiết_bị và khi giao_dịch qua Internet , như thông_tin thẻ_tín_dụng , các tài_khoản e - mail , các cuộc trò_chuyện , hình_ảnh và video riêng_tư ...
+Nhưng bản_thân công_nghệ không_thể phân_biệt người tốt kẻ xấu , nên đây cũng là công_cụ hỗ_trợ đắc_lực cho khủng_bố .
+Tuy_vậy , ngành công_nghệ luôn phản_đối việc tạo " cổng hậu " như yêu_cầu của chính_phủ Mỹ với lý_do họ cần tôn_trọng và bảo_vệ sự riêng_tư của người dùng .
+Chưa kể , nguy_cơ chính_phủ các nước khác và hacker tìm ra cách khống_chế cổng hậu đó là hoàn_toàn có_thể xảy_ra .
+Châu_An

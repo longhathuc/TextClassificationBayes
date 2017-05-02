@@ -1,0 +1,14 @@
+Trang_web báo Sinh_viên Việt_Nam bị hacker tấn_công
+Website của báo ở địa_chỉ svvn . vn bị tin_tặc thay_đổi giao_diện , để lại dấu_hiệu tương_tự vụ tấn_công vào trang Vietnam_Airlines .
+Trao_đổi với VnExpress , ông   Nguyễn_Huy_Lộc , Tổng_biên_tập báo Sinh_viên Việt_Nam xác_nhận trang_web của báo bị tấn_công vào_khoảng 10h30 đến 13h ngày 5/8 .
+Trong thời_gian này , truy_cập đến website tại địa_chỉ http : / / svvn.vn sẽ hiện ra giao_diện do hacker thay_đổi .
+Giao_diện của trang svvn . vn khi bị hacker tấn_công , tương_tự vụ Vietnam_Airlines chiều 29/7 .
+Thời_điểm bị tấn_công , trang_chủ của báo hiển_thị   các ngôn_ngữ kích_động và để lại thông_tin rằng nhóm hacker 1937cn đã thực_hiện vụ hack này .
+Giao_diện svvn . vn bị thay_đổi tương_tự website của Vietnam_Airlines bị tấn_công chiều 29/7 .
+Theo ông Lộc , ngay khi phát_hiện trang_bị xâm_nhập , đội_ngũ quản_trị website của báo đã tiến_hành giải_quyết , xóa_bỏ các nội_dung kích_động .
+Hiện_tại , trang đang được khôi_phục từng phần và không bị mất dữ_liệu .
+Theo ông Võ_Đỗ_Thắng ,   Giám_đốc trung_tâm an_ninh mạng quốc_tế Athena , sau vụ Vietnam_Airlines bị tấn_công tình_hình an_ninh mạng tại Việt_Nam diễn_biến phức_tạp hơn .
+" Trước_đây , các website trong nước đã liên_tục phải chống_đỡ các vụ tấn_công , lợi_dụng thời_điểm nhạy_cảm này , nhiều tin_tặc hoành_hành nhằm lấy tiếng " .
+Chiều 29/7 , bên_cạnh website của hãng Hàng_không Việt_Nam bị hacker tấn_công và phát_tán thông_tin của hơn 400.000 thành_viên , tại hai sân_bay Nội_Bài và Tân_Sơn_Nhất , các bảng điện_tử và màn_hình hiển_thị thông_tin chuyến bay cũng bất_ngờ xuất_hiện thông_tin kích_động , xuyên_tạc tương_tự .
+Thậm_chí , loa phát_thanh của sân_bay Nội_Bài còn bị chèn nội_dung xấu .
+Hiện_tại , Vietnam_Airlines thông_báo hệ_thống công_nghệ_thông_tin chính của họ đã hoàn_tất quá_trình kiểm_tra và trở_lại hoạt_động .   Đối_với khách_hàng chương_trình Bông_Sen_Vàng , Vietnam_Airlines thông_báo sẽ tạm ngừng các chức_năng trực_tuyến , tuy_nhiên vẫn đảm_bảo đầy_đủ quyền_lợi của hội_viên .

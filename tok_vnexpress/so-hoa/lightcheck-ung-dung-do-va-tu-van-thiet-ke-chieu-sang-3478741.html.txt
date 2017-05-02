@@ -1,0 +1,18 @@
+LightCheck - ứng_dụng đo và tư_vấn thiết_kế chiếu sáng
+Ứng_dụng này cung_cấp cho người tiêu_dùng một giải_pháp để chuẩn_hóa nguồn sáng trong các môi_trường khác_nhau , nhằm tiết_kiệm chi_phí lắp_đặt cũng_như tránh lãng_phí điện_năng .
+LightCheck giúp người dùng có được giải_pháp lắp_đặt thiết_bị chiếu sáng đủ chuẩn cho nhu_cầu sử_dụng .
+Ứng_dụng LightCheck có_thể chạy đa nền_tảng , trên PC và hai hệ_điều_hành phổ_biến nhất trên thiết_bị di_động hiện_nay là i OS và Android .
+Ngoài việc có_thể đo được độ sáng như các phần_mềm khác , nó còn có khả_năng tính_toán số đèn cần dùng theo từng không_gian cụ_thể , từ nhà_ở , văn_phòng , trung_tâm thương_mại … , cũng_như tính_toán lượng điện_năng tiêu_thụ , dự_toán kinh_phí lắp_đặt và cả số tiền có_thể tiết_kiệm nếu dùng đèn LED , hoặc chuyển từ đèn khác sang đèn LED .
+Thậm_chí , nó còn giúp tính được thời_gian thu_hồi vốn khi đầu_tư cho hệ_thống chiếu sáng .
+Tính_năng đầu_tiên là đo độ sáng , ứng_dụng sử_dụng camera trước và cảm_biến ánh_sáng của thiết_bị cầm tay để đo độ sáng theo thời_gian_thực .
+Thông_số về độ sáng sẽ thay_đổi tuỳ vào vị_trí camera hay cảm_biến ánh_sáng chỉ vào .
+Người dùng sẽ chọn không_gian cần đo là loại nào , như nhà , văn_phòng , phòng khách , phòng ngủ ... vì mỗi không_gian sẽ yêu_cầu độ sáng khác_nhau .
+Sau khi đo xong , ứng_dụng sẽ cho_biết không_gian mà người dùng vừa đo nằm ở mức nào .
+LightCheck có 3 mức đo : Quá tối , đạt chuẩn và quá sáng - tiêu_chuẩn để xét độ sáng dựa trên bộ tiêu_chuẩn quốc_gia .
+Nếu quá tối hoặc quá sáng , người dùng sẽ có_thể chọn gọi tổng_đài tư_vấn hoặc sử_dụng tính_năng tính_toán số_lượng bóng_đèn cần_thiết .
+Tính_năng tính_toán bóng_đèn cho_phép người dùng nhập kích_thước không_gian cần lắp_đặt , mục_đích sử_dụng như phòng ăn , phòng ngủ , loại đèn muốn sử_dụng và sẽ đưa ra số_lượng bóng cần_thiết và loại đèn phù_hợp để có ánh_sáng đủ chuẩn .
+Tính_năng tính_toán tiết_kiệm điện cho phép_tính được lượng điện tiêu_thụ khi đầu_tư hệ_thống chiếu sáng mới , cho_phép so_sánh giữa sử_dụng bóng_đèn truyền_thống và bóng LED hoặc thay_thế từ hệ_thống đang sử_dụng sang đèn LED .
+Theo khuyến_cáo của Tổ_chức Y_tế Thế_giới ( WHO ) , ô_nhiễm ánh_sáng là một trong những yếu_tố có ảnh_hưởng rất lớn đến chất_lượng sống của con_người .
+Ngoài ảnh_hưởng trực_tiếp đến sức_khỏe thị_lực , ô_nhiễm ánh_sáng còn làm cho nhịp sinh_học của cơ_thể những người sống trong đó dễ bị rối_loạn , dẫn đến tăng khả_năng mắc bệnh ung_thư .
+Trong khi đó , hiện_nay , việc lắp_đặt hệ_thống chiếu sáng thường theo cảm_tính và kinh_nghiệm .
+Đó là chưa kể , những hệ_thống đạt chuẩn khi lắp_đặt cũng sẽ bị giảm theo thời_gian sử_dụng .

@@ -1,0 +1,46 @@
+Những điểm nhấn của đại_học trực_tuyến đầu_tiên tại Việt_Nam
+Sinh_viên lớn nhất ở tuổi 63 , còn trẻ nhất chỉ mới 15 .
+Phần_lớn thầy_giáo là những nhà quản_lý , chuyên_gia cấp cao .
+255 mentor ( chuyên_gia ) tham_gia giảng_dạy
+FUNiX hiện có 255 mentor đăng_ký tham_gia giảng_dạy , trong đó 55 người tham_gia hệ_thống trực_tuyến thường_xuyên để giải_đáp thắc_mắc của sinh_viên , 200 mentor dự_bị còn lại sẵn_sàng hỗ_trợ thông_tin và tham_gia giảng_dạy khi cần_thiết .
+Các mentor của trường này không phải là những nhà_giáo mang học_hàm giáo_sư , tiến_sĩ mà là những người đứng đầu trong các công_ty , doanh_nghiệp lớn .
+Ngoài kiến_thức chuyên_ngành , họ dùng những kinh_nghiệm thực_tế của mình để truyền_tải tới sinh_viên .
+Tất_cả mentor được mời giảng_dạy đều có hàng chục năm kinh_nghiệm và hiện nắm giữ các chức_vụ quan_trọng trong các công_ty công_nghệ hàng_đầu Việt_Nam .
+Cụ_thể như ông Nguyễn_Thành_Nam - là một trong 13 người sáng_lập ra Tập_đoàn FPT ; mentor Nguyễn_Thành_Lâm là cựu CEO của FPT Software ; ông Hoàng_Tô - là người đứng đầu Công_ty TNHH Công_nghệ Tin_học Tinh_Vân ...
+Điều đặc_biệt là họ không lên_lớp đứng giảng mà chỉ nhận trả_lời các câu_hỏi , hướng_dẫn sinh_viên qua hệ_thống online .
+Với cơ_chế trả lương khác_biệt , mức thu_nhập của các mentor tỷ_lệ_thuận với số câu_hỏi nhận được từ sinh_viên .
+Do_vậy , mentor nào được nhiều sinh_viên chọn hỏi thì càng nhận thu_nhập cao .
+Sinh_viên lớn_tuổi nhất ở tuổi 63
+Đó là trường_hợp của ông Nguyễn_Dư_Đức , ở quận 2 , TP_HCM .
+Ông có hơn 30 năm kinh_nghiệm làm lập_trình_viên nhưng vẫn quyết_định đi học đại_học ngành Công_nghệ_thông_tin để cập_nhật những kiến thứ mới .
+Trước đó , ở tuổi 20 , ông rời Sài_Gòn đi du_học ở Canada .
+Bắt_đầu học ngành Khoa_học máy_tính khi lĩnh_vực này còn rất mới , ông là một trong những thế_hệ đầu_tiên học và ứng_dụng công_nghệ_thông_tin vào công_việc , cuộc_sống .
+Năm 1979 , khi tốt_nghiệp Kỹ_sư công_nghệ_thông_tin , ông Đức đầu_quân làm lập_trình_viên cho một công_ty công_nghệ ở Canada .
+Sau hơn chục năm làm_việc tại Canada , ông chuyển qua làm_việc và định_cư tại Mỹ .
+Ông cũng từng có nhiều năm làm_việc tại Trung_Đông .
+Gần hai năm nay , ông Đức quyết_định nghỉ_việc để về Việt_Nam an_hưởng tuổi già , sau hơn 30 năm làm lập_trình_viên .
+Không vướng_bận gia_đình , vợ_con , cuộc_sống quá an_nhàn , ông Đức lại muốn làm cho mình trở_nên bận_rộn bằng việc đi học đại_học .
+Trong số học_viên trẻ tuổi của FUNiX có_thể kể tới như Kiro_Nguyễn ( sống tại Mỹ ) ; Bùi_Khánh_Minh , học_sinh trường THPT Nguyễn_Huệ ở phía Bắc ; Nguyễn_Hương_Thảo , học_sinh lớp 10D8 , Trường THPT Việt_Đức ( Hà_Nội ) ...
+Những em này đều ở độ tuổi trăng_tròn .
+Về chương_trình học của trường có 8 chứng_chỉ , gồm : Công_dân số , Lập_trình_viên ứng_dụng mobile , Lập_trình_viên ứng_dụng doanh_nghiệp , Chứng_chỉ Thông_thạo môi_trường làm_việc Công_nghệ_thông_tin , Kỹ_sư phần_mềm cơ_bản , Dưỡng nghiệp , Chuyên_viên hệ_thống thông_tin , Kỹ_sư phần_mềm .
+Tuy_nhiên , học_viên không bắt_buộc phải học theo trình_tự các chứng_chỉ mà có_thể học bất_kỳ chứng_chỉ nào .
+Hoàn_thành mỗi chứng_chỉ sẽ được cấp bằng tương_đương .
+Ngay khi hoàn_thành xong 3/8 chứng_chỉ học ( khoảng một năm ) , sinh_viên đã có cơ_hội việc_làm tại các công_ty , tập_đoàn công_nghệ_thông_tin lớn ở Việt_Nam như FPT Software , Tinh_Vân …
+Trong số đó , Đào_Huy_Cương có điểm tốt_nghiệp trung_bình cao nhất , đạt 9.3/10 điểm .
+Đây đều là các sinh_viên đời_đầu của FUNiX , thuộc lớp K12.11 ,
+bắt_đầu học từ ngày 1/12/2015 đến ngày 3/4/2016 .
+Không_những vậy , sau 4 tháng học tại Đại_học FUNiX , Cương sau đó lọt vào mắt_xanh nhà tuyển_dụng của FPT Software .
+Nam_sinh được tuyển vào làm kỹ_sư lập_trình chuyên lĩnh_vực dầu_khí .
+Không có giảng_đường như các đại_học truyền_thống , không yêu_cầu sinh_viên phải đều_đặn đến lớp hay online vào khung giờ nhất_định , chỉ cần laptop kết_nối Internet , sinh_viên có_thể học vào bất_cứ giờ nào .
+Bạn có_thể tranh_thủ thời_gian rảnh trong ngày để tiếp_nhận kiến_thức , đó có_thể là lúc nghỉ trưa , ngồi trên xe_buýt , buổi tối , các ngày nghỉ ...
+Nếu gặp khó_khăn hoặc có thắc_mắc , học_viên sẽ đặt câu_hỏi với bất_kỳ mentor nào để được giải_đáp .
+Với lớp này , không_chỉ những người có nhiều thời_gian mà ngay cả những_ai đang đi làm hay bận_rộn vẫn có_thể sắp_xếp thời_khóa_biểu của mình một_cách hợp_lý để sở_hữu bằng đại_học trong tay .
+Điều đặc_biệt ở đại_học online này là giữa thầy và trò không có khoảng_cách .
+Trong khi các thầy là những chuyên_gia , người đứng đầu , đồng_thời là nhà tuyển_dụng của các công_ty công_nghệ lớn ở Việt_Nam thì học_viên nhiều khi còn là sếp của thầy .
+Không có khoảng_cách thầy - trò , tại FUNiX , các học_viên và mentor giao_tiếp , trao_đổi với nhau trong không_khí rất thoải_mái , thân_thiện , dễ gần bằng ngôn_ngữ của cư_dân mạng .
+Sinh_viên và mentor có_thể tương_tác ở mọi nơi mọi lúc chứ không bó_hẹp như thời_gian học trên giảng_đường truyền_thống .
+218 ngày thành_lập trường
+Chính_thức thành_lập từ ngày 13/10/2015 , Đại_học trực_tuyến FUNiX ( thuộc hệ_thống giáo_dục FPT ) triển_khai đào_tạo theo phương_pháp mới , cấp bằng Cử_nhân Công_nghệ_thông_tin , các chứng_chỉ nghề_nghiệp và kỹ_năng mềm .
+FUNiX chủ_yếu sử_dụng học liệu mở , có sẵn trên mạng .
+Đội_ngũ thiết_kế chương_trình của trường sẽ lựa_chọn bài giảng phù_hợp nhất của những chuyên_gia và trường_học tốt nhất trong lĩnh_vực đó , bản_địa hóa nội_dung và bài_tập thực_hành .
+N.Loan

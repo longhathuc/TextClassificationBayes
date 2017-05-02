@@ -1,0 +1,17 @@
+Tạo dãy nước cầu_vồng nhờ hiện_tượng mao_dẫn
+Thí_nghiệm đơn_giản với các cốc nước và phẩm màu giúp trẻ vừa học cách pha màu vừa nắm_bắt được hiện_tượng mao_dẫn trong vật_lý .
+Bạn cần 7 cốc trong_suốt , nước , phẩm màu , khăn giấy .
+Thực_hiện : Xếp 7 cốc thành một hàng ngang .
+Đổ nước vào 2 cốc ngoài cùng và 2 cốc xen_kẽ ở giữa ( có 3 cốc để trống ) .
+Hai cốc ngoài cùng có_thể cho ít nước hơn 2 cốc ở trong .
+Nhỏ một_ít phẩm màu theo ý thích vào các cốc chứa nước .
+Tiếp_theo , bạn gấp đôi một tờ khăn giấy , rồi gấp thêm lần nữa để tạo thành một đoạn giấy dài .
+Lần này gấp đôi theo chiều dọc và cắt bớt đủ để tạo cầu_nối giữa hai cốc ( giấy chạm đáy cốc ) .
+Lần_lượt thực_hiện bước này cho toàn_bộ dãy cốc nước và để nguyên một thời_gian .
+Sau hai tiếng , bạn sẽ thấy nước tự_động truyền từ cốc này sang cốc kia .
+Màu_nước của cốc rỗng sẽ là màu pha_trộn giữa hai cốc hai bên nó .
+Giải_thích : Nước tự_động dâng lên và truyền qua cốc rỗng nhờ hiện_tượng mao_dẫn .
+Đây là hiện_tượng chất_lỏng tự dâng lên cao trong vùng không_gian hẹp mà không cần ngoại_lực , có_thể quan_sát ở các ống tiết_diện nhỏ .
+Hiện_tượng mao_dẫn quen_thuộc trong đời_sống có_thể kể đến là các rễ cây vận_chuyển chất_lỏng , muối_khoáng từ sâu dưới lòng đất lên để nuôi sống cây .
+> > ' Ảo_thuật ' đi trên chất_lỏng
+> > Thủ_thuật giúp trứng tự chui vào chai cổ hẹp

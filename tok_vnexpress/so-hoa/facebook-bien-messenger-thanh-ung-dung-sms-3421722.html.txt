@@ -1,0 +1,14 @@
+Facebook biến Messenger thành ứng_dụng SMS
+Người dùng điện_thoại Android có_thể nhắn_tin SMS cho bạn_bè , người_thân ngay trong Messenger mà không cần phải chuyển sang ứng_dụng khác .
+David_Marcus , Phó_chủ_tịch mảng nhắn_tin của Facebook , cho_biết họ đã kích_hoạt tính_năng SMS bên trong Messenger cho các thiết_bị chạy Android .
+Mục_tiêu là biến Messenger thành ứng_dụng nhắn_tin mặc_định , hỗ_trợ người dùng chat với bạn_bè trên Facebook cũng_như đọc và gửi SMS tới bất_cứ số điện_thoại nào mà không cần đổi sang dịch_vụ khác .
+Để kích_hoạt , người dùng Android vào Settings ( biểu_tượng hình người bên góc phải ) , chọn SMS .
+Sau khi kích_hoạt , tin nhắn SMS có màu tím còn tin nhắn Facebook có màu xanh .
+Dù đây là tính_năng mới của Facebook , việc tích_hợp SMS vào Messenger đã được mạng xã_hội này thực_hiện trước_đây .
+Từ năm 2012 , người dùng Android có_thể chia_sẻ tin nhắn SMS trên cả ứng_dụng SMS mặc_định và Messenger .
+Tuy_nhiên , dịch_vụ này sau đó rơi vào quên_lãng vì người dùng cảm_thấy phiền_toái khi nhận được thông_báo tin nhắn mới lặp lại ở cả hai bên .
+Để sử_dụng tính_năng mới , người dùng chỉ cần vào Messenger , chọn Settings , tìm đến mục SMS và bật " Default SMS app " ( ứng_dụng SMS mặc_định ) .
+Tuy_nhiên , để gửi ảnh GIF , chuyển_tiền , thực_hiện video call thì họ vẫn phải dùng ứng_dụng Messenger thông_thường .
+Facebook cho_biết tính đến tháng 4/2016 , Messenger đã thu_hút 900 triệu người sử_dụng mỗi tháng .
+Đầu năm nay , mạng xã_hội này đặt mục_tiêu thay_thế toàn_bộ cách_thức gọi và nhắn_tin truyền_thống .
+Và có_thể đây chính là một trong những bước_đi đầu_tiên để làm giảm tầm quan_trọng của số điện_thoại của người dùng .

@@ -1,0 +1,11 @@
+Dùng ' thần_chú ' để ra_lệnh cho điện_thoại Android
+Nhằm chào_đón bộ phim Harry_Potter mới , Google cho_phép người dùng điện_thoại Android đọc một_số câu thần_chú để điều_khiển thiết_bị .
+Sau khi kích_hoạt trợ_lý giọng nói Google_Voice bằng cách nói OK Google hoặc nhấn vào biểu_tượng microphone trên thanh tìm_kiếm , người sử_dụng có_thể ra_lệnh như " Lumos " hay " Silencio " .
+Đọc_Lumos để chuyển điện_thoại thành đèn_pin .
+" Lumos " là thần_chú thắp sáng đũa thần trong thế_giới phù_thủy .
+Khi đọc lệnh này , đèn_pin trên điện_thoại sẽ được kích_hoạt .
+Ngược_lại , khi nói " Nox " , đèn sẽ tắt đi .   Trong
+khi đó , nếu dùng   " Silencio " - bùa nín_thinh trong loạt truyện Harry_Potter - thì điện_thoại của người dùng sẽ chuyển sang chế_độ yên_lặng .
+Tính_năng mới này được đưa ra nhằm chào_đón bộ phim   Fantastic_Beasts and Where to Find_Them ,   công_chiếu trong tháng 11/2016 .
+Quang_cảnh New_York thời xưa trên Google_Maps .
+Bên_cạnh đó , khi nhập từ_khóa   Fantastic_Beasts   vào bản_đồ Google_Maps và mở tính_năng   Street_View , người xem sẽ thấy quang_cảnh New_York năm 1926 .

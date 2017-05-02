@@ -1,0 +1,16 @@
+Vật_liệu siêu nhẹ cứng gấp 10 lần thép
+Các nhà_khoa_học Mỹ phát_triển loại vật_liệu nhẹ graphene có cấu_trúc 3D dạng xốp , mạnh hơn thép gấp 10 lần .
+Các nhà_nghiên_cứu tại Viện_Công nghệ Massachusetts ( MIT ) , Mỹ , chế_tạo thành_công một loại vật_liệu nhẹ nhưng siêu_bền bằng cách biến_đổi lớp graphene ( cấu_tạo từ các nguyên_tử carbon )   trở_thành cấu_trúc 3D dạng xốp .
+Kết_quả nghiên_cứu được đăng trên tạp_chí Science_Advances hôm 6/1 .
+Ở dạng 2D , graphene là một trong những vật_liệu mạnh nhất từng được thử_nghiệm cho_đến nay .
+Giới khoa_học đã nỗ_lực rất nhiều để tìm cách duy_trì tính_chất vật_lý của graphene dưới dạng 3D .
+Nhóm nghiên_cứu tại MIT cuối_cùng tìm thấy phương_pháp để giải_quyết vấn_đề này .
+Họ nén lớp graphene trong phòng_thí_nghiệm bằng cách sử_dụng nhiệt_độ và áp_suất cao .
+Lớp graphene nóng_chảy thành cấu_trúc có hình_dạng độc_đáo , giống như san_hô .
+Khi thay_đổi nhiệt_độ và áp_suất , nguyên_liệu ban_đầu sẽ trở_thành nhiều dạng khác_nhau .
+Ngoài_ra , một_số vật_liệu 2D khác cũng có_thể chuyển_đổi sang dạng 3D theo cách tương_tự .
+" Một trong những mẫu thử_nghiệm của chúng_tôi có tỷ_trọng bằng 5% của thép , nhưng mạnh hơn thép gấp 10 lần " , Zhao_Qin , thành_viên của nhóm nghiên_cứu , cho_biết .
+Mô_hình máy_tính cho_phép các nhà_khoa_học nghiên_cứu mỗi dạng cấu_trúc vật_liệu và mô_phỏng phản_ứng của chúng đối_với tác_động ngoại_lực .
+Kết_quả cho thấy , đặc_tính chịu nén và kéo căng của vật_liệu 3D phụ_thuộc vào hình_dạng cấu_trúc của nó , không phải đến từ độ bền vật_liệu 2D tạo ra nó .
+" Bạn có_thể sử_dụng các dạng cấu_trúc hình_học 3D của vật_liệu graphene hoặc nhiều vật_liệu khác như polyme hoặc kim_loại " , Markus_Buehler , trưởng bộ_phận Kỹ_thuật Môi_trường và Dân_sự tại MIT , nói .
+Lê_Hùng

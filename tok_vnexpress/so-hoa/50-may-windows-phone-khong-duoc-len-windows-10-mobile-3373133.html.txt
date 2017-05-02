@@ -1,0 +1,15 @@
+50% máy Windows_Phone không được lên Windows 10 Mobile
+Các thiết_bị có RAM 512 MB chiếm tới 50% thị_phần của Microsoft , tuy_nhiên hãng không có kế_hoạch cập_nhật hệ_điều_hành mới cho loạt sản_phẩm này .
+Microsoft đã công_bố các smartphone được nâng_cấp lên Windows 10 Mobile gồm : Nokia_Lumia 1520 , 930 , 640 , 640 XL , 730 , 735 , 830 , 532 , 535 , 540 , 635 1GB , 636 1GB , 638 1GB , 430 , 435 , BLU Win HD w510u , LTE x150q và MCJ Madosma Q501 .
+Danh_sách trên thiếu những cái tên nổi_bật như Lumia 920 hay các thiết_bị giá rẻ , mang lại nhiều thành_công cho Microsoft , chẳng_hạn Lumia 520 .
+Điều này khiến nhiều người_yêu công_nghệ cảm_thấy hụt_hẫng và đặt ra câu_hỏi về lịch_trình nâng_cấp của những thiết_bị còn lại .
+Những máy Windows_Phone   có RAM 512 MB sẽ   không được nâng_cấp lên Windows 10 Mobile .
+Giải_đáp thắc_mắc , Microsoft đã xác_nhận hãng không có kế_hoạch đem Windows 10 Mobile lên các dòng máy có bộ_nhớ RAM 512 MB .
+Công_ty công_nghệ Mỹ cũng khẳng_định , sẽ không có đợt nâng_cấp thứ_hai dành cho những thiết_bị Windows_Phone 8.1 .
+Điều này đồng_nghĩa loạt máy Lumia 520 , 630 ... và những smartphone không có trong danh_sách trên sẽ không được nâng_cấp .
+Vấn_đề đáng nói là những thiết_bị mà Microsoft " bỏ_rơi " lại đóng_góp chính cho thị_phần di_động của hãng .
+Theo mạng quảng_cáo   AdDuplex , khoảng một_nửa máy Windows_Phone không được lên Windows 10 Mobile .
+Chẳng_hạn Lumia 520 chiếm tới 12,9% , Lumia 630 chiếm 8,6% ... thị_phần các thiết_bị chạy nền_tảng của Microsoft .
+Với những máy hỗ_trợ Windows 10 Mobile , trước khi tiến_hành người dùng cần tải thêm phần_mềm Upgrade_Advisor ( chuyển vùng sang Mỹ nếu_không thấy ) rồi mở tùy chọn Enable_Windows 10 upgrade bên trong ứng_dụng .
+Sau đó bạn truy_cập Settings > Phone_Update để tìm bản cập_nhật và máy sẽ tải về qua giao_thức OTA .
+Đình_Nam

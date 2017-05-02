@@ -1,0 +1,15 @@
+Hơn một tỷ máy Android dùng chip Snapdragon dính lỗi bảo_mật
+Lỗ_hổng nghiêm_trọng trên bộ_xử_lý của Qualcomm có_thể bị khai_thác nhằm chiếm quyền quản_trị cao nhất ( root ) trên hơn một tỷ thiết_bị Android .
+Theo Hacker News , chuyên_gia bảo_mật của Trend_Micro đã cảnh_báo người dùng Android về một_số sai_lầm ngớ_ngẩn nhưng   nghiêm_trọng   tồn_tại trong mã hạt_nhân ( kernel ) của chip Qualcomm_Snapdragon .
+Những kẻ tấn_công có_thể khai_thác lỗ_hổng này nhằm chiếm quyền điều_khiển mọi chức_năng trên thiết_bị .
+Các chip Snapdragon 810 , 805 và 800 dính lỗ_hổng bảo_mật nghiêm_trọng .
+Có được quyền truy_cập ở cấp cao nhất ( root ) , tin_tặc sẽ đánh_cắp dữ_liệu cá_nhân bao_gồm email , tin nhắn , hình_ảnh ... hay điều_khiển các chức_năng chụp hình , ghi_âm ...
+Chuyên_gia bảo_mật cũng lưu_ý rằng , Snapdragon có cấu_tạo SoC - hệ_thống trên một chip , bao_gồm kết_nối Internet of Things ( IoT ) - nên vấn_đề còn trở_nên nghiêm_trọng hơn .
+Mặc_dù Google đã tung bản cập_nhật sau khi biết được mối nguy_hiểm trên , nhưng người dùng chưa được nâng_cấp ngay .
+Lý_do bởi các bản cập_nhật phải qua nhiều công_đoạn , dưới sự kiểm_soát từ nhiều lớp mới đến tay người dùng .
+Một_số máy thuộc dòng Google_Nexus sẽ được vá lỗi trước_tiên , bao_gồm Nexus 5X , 6P , 6 , 5 , 4 , 7 , 9 và Nexus 10 .
+Trong khi đó , những sản_phẩm của các nhà_sản_xuất khác phải chờ rất lâu và thời_gian đó đủ để tin_tặc khai_thác lỗ_hổng bảo_mật .
+Tất_cả thiết_bị thông_minh dùng chip Qualcomm_Snapdragon 800 series , bao_gồm 800 , 805 và 810 chạy phiên_bản   kernel 3.10 , đều bị ảnh_hưởng .
+Lỗi tồn_tại trên Android phiên_bản 4 đến phiên_bản 6 .
+Ước_tính hơn một tỷ thiết_bị Android chịu ảnh_hưởng bởi lỗ_hổng này .
+Đình_Nam

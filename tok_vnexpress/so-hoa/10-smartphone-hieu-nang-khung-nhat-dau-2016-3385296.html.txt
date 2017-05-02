@@ -1,0 +1,54 @@
+10 smartphone hiệu_năng ' khủng ' nhất đầu 2016
+Sản_phẩm của hãng Xiaomi ( Trung_Quốc ) dẫn_đầu về hiệu_năng , theo sau là Galaxy S7 edge từ Samsung và i Phone 6s .
+Danh_sách những smartphone có điểm hiệu_năng cao nhất đo bằng công_cụ đánh_giá hiệu_năng phổ_biến Antutu_Benchmark .
+Để ra kết_quả thử_nghiệm , phần_mềm này sẽ đo khả_năng xử_lý của chip , RAM , bộ_nhớ cũng_như khả_năng xử_lý đồ_hoạ 2D và 3D ... của smartphone .
+Thứ_hạng sản_phẩm sau được sắp_xếp theo trung_bình điểm đánh_giá hiệu_năng tổng_thể của từng thiết_bị .
+Xiaomi_Mi 5
+Smartphone mới nhất tới từ nhà_sản_xuất Trung_Quốc chiếm vị_trí số_một về hiệu_năng .
+Mi 5 sở_hữu chip thế_hệ mới Snapdragon 820 của Qualcomm , RAM lên tới 4GB .
+Dù_vậy , máy chỉ có màn_hình độ_phân_giải Full HD thay_vì QuadHD 2K như nhiều mẫu Android cao_cấp khác .
+Tại_Việt_Nam , Xiaomi_Mi 5 có_mặt trên thị_trường xách tay với phiên_bản RAM 3GB và giá chưa tới 8 triệu đồng .
+Mở hộp Xiaomi_Mi 5
+Samsung_Galaxy S7 edge
+Có hiệu_năng ngang_ngửa với Xiaomi_Mi 5 là Galaxy S7 edge , smartphone cao_cấp nhất của Samsung với màn_hình cong tràn viền .
+Ngoài một phiên_bản sử_dụng chip Snapdragon 820 và có RAM 4GB như Mi 5 , Galaxy S7 edge còn có cấu_hình khác với chip Exynos 8890 8 nhân .
+Đây cũng là phiên_bản đang được bán chính hãng ở Việt_Nam với giá 18,5 triệu đồng .
+Đánh_giá Samsung_Galaxy S7 edge
+iPhone 6s
+Nếu so_sánh về thông_số , iPhone 6s chỉ ngang bằng các smartphone Android tầm trung .
+Nhưng nền_tảng i OS cùng chip A9 2 nhân 1,84 GHz có GPU PowerVR GT7600 do Apple tự thiết_kế vẫn đem lại hiệu_năng và chất_lượng đồ_hoạ đáng nể .
+Điểm đánh_giá hiệu_năng đo bằng Antutu_Benchmark của 6s ngang_ngửa với Mi 5 và Galaxy S7 edge .
+Khả_năng đa_nhiệm trên smartphone của Apple cũng được đánh_giá cao dù RAM chỉ 2GB .
+Đánh_giá i Phone 6s
+Huawei_Mate 8
+Giống_Samsung và Apple , Huawei tự thiết_kế dòng chip riêng cho các smartphone cao_cấp và đem lại hiệu_năng mạnh cho các sản_phẩm Android của hãng .
+Mate 8 là mẫu tiêu_biểu khi được trang_bị vi_xử_lý HiSilicon Kirin 950 có GPU Mali-T880 MP4 , cùng_với lựa_chọn RAM 3GB hoặc 4GB .
+Đây cũng là smartphone Android cao_cấp nhất của Huawei trong năm_ngoái với màn_hình lên tới 6 inch và thiết_kế vỏ kim_loại nguyên khối .
+Ảnh thực_tế Huawei_Mate 8
+Meizu_Pro 5
+Pro 5 là dòng smartphone cao_cấp nhất của Meizu , trình_làng hồi tháng 9 .
+Khi ra_mắt , sản_phẩm được ví_von là một chiếc i Phone chạy Android với cấu_hình mạnh như các mẫu Samsung_Galaxy nhờ việc dùng chip Exynos 7 giống Note 5 và Galaxy S6 , đi kèm RAM 3GB .
+Mở hộp Meizu_Pro 5
+Samsung_Galaxy_Note 5
+Note 5 là smartphone đầu_tiên của Samsung được trang_bị RAM 4GB và chạy chip Exynos do hãng tự phát_triển .
+Ở nửa cuối năm_ngoái , đây là mẫu Android mạnh nhất thị_trường .
+Nhưng đến giờ , cùng_với sự xuất_hiện của Galaxy S7 và S7 edge , model này chỉ còn nằm trong top 10 .
+Đánh_giá Samsung_Galaxy_Note 5
+LeTV Max
+Không phải Samsung , LG hay HTC , nhà_sản_xuất còn ít danh_tiếng LeTV mới là hãng đầu_tiên sử_dụng chip Snapdragon 820 đời_mới của Qualcomm .
+Tại triển_lãm CES 2016 diễn ra hồi tháng 1 , LeTV đã trình chiếc Max_Pro chạy Snapdragon 820 và có RAM 4GB .
+Dù_vậy , sản_phẩm chưa được bán ra thị_trường mà mới có phiên_bản cấu_hình thấp hơn đó là LeTV Max .
+iPhone 6
+Chiếc i Phone ra từ 2014 vẫn có hiệu_năng ấn_tượng nếu đặt cạnh nhiều smartphone đời_mới khác .
+So với i Phone 6s , iPhone 6 có chip A8 tốc_độ xử_lý thấp hơn và RAM chỉ 1GB , dù thiết_kế và kích_thước màn_hình giống_hệt .
+Đánh_giá i Phone 6
+Vivo XPlay 5
+Vivo là thương_hiệu Trung_Quốc được biết đến khá ít ở thị_trường quốc_tế , nhưng nhà_sản_xuất này gây ấn_tượng bằng một_vài smartphone Android cấu_hình khủng , giá_cạnh_tranh .
+XPlay 5 sở_hữu RAM 4GB cùng_với chip Snapdragon 652 đời_mới của Qualcomm .
+Ngoài model này , XPlay 5 còn có phiên_bản đặc_biệt mang tên Elite với RAM lên tới 6GB và dùng vi_xử_lý Snapdragon 820 .
+Samsung_Galaxy S6
+Galaxy S6 mang kiểu_dáng giống với mẫu Galaxy S7 dù không có khả_năng chống nước và chống bụi .
+Xét về hiệu_năng , mẫu Galaxy đời năm_ngoái của Samsung vẫn còn khá ấn_tượng , với cấu_hình mạnh dùng chip Exynos 8 nhân và RAM 3GB , đi kèm màn_hình độ_phân_giải QuadHD 2K .
+Đánh_giá Samsung_Galaxy S6
+Điểm hiệu_năng chi_tiết 10 smartphone mạnh nhất trong quý I/2016 :
+Tuấn_Anh

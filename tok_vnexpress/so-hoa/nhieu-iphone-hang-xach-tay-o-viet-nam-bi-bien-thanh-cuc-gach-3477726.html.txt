@@ -1,0 +1,21 @@
+Nhiều i Phone hàng_xách tay ở Việt_Nam bị biến thành ' cục gạch '
+Sau khi cài_đặt ( reset ) hoặc khôi_phục ( restore ) lại dữ_liệu , iPhone đang sử_dụng bình_thường bỗng bị khoá , thông_báo sim không hợp_lệ và không_thể kích_hoạt .
+Hiện_tượng này được phản_ánh nhiều trong cộng_đồng người dùng i Phone khoảng một tuần gần đây .
+Nhiều người gọi đây là lỗi kích_hoạt vì i Phone đang sử_dụng bình_thường bỗng trở_thành phiên_bản khoá và không_thể kích_hoạt hay sử_dụng với sim cũ được nữa .
+Nhiều người dùng phản_ánh i Phone bản quốc_tế bỗng_nhiên bị khoá lại sau khi " reset " hay " restore " .
+Nhật_Huy , chủ một cửa_hàng chuyên kinh_doanh i Phone ở quận 10 ( TP_HCM ) , xác_nhận đang có nhiều i Phone gặp phải hiện_tượng trên nhưng chưa rõ nguyên_nhân và cách khắc_phục cụ_thể .   Thậm_chí , một hệ_thống bán_lẻ lớn ở Hà_Nội và TP_HCM vừa gửi thông_báo tới từng khách_hàng , khuyến_cáo không được tự_ý " Reset " hoặc " Restore " iPhone , iPad đang sử_dụng .
+Họ cho rằng Apple đang bị lỗi server khiến việc kích_hoạt thiết_bị i OS gặp vấn_đề .
+Còn theo các thợ sửa i Phone , đây không phải là lỗi về phần_cứng mà nằm ở phần_mềm .
+Tuy_nhiên , đại_diện một nhà phân_phối i Phone chính hãng ở Việt_Nam cho_biết , hiện_tượng trên chưa thấy xuất_hiện ở sản_phẩm chính hãng .
+Người này cho rằng lỗi có_thể không phải do server của Apple , mà nằm ở việc các mẫu i Phone khoá mạng , có nguồn_gốc không rõ_ràng trên thị_trường xách tay , khi về Việt_Nam đã được mở mạng để thành bản quốc_tế .
+Sau một thời_gian , Apple có_thể rà_soát và đã khoá lại .
+Mua i Phone qua sử_dụng , giá rẻ trên thị_trường xách tay có_thể gặp rủi_ro là hàng khoá mạng .
+Đa_phần i Phone gặp lỗi trên là phiên_bản dành cho thị_trường Mỹ ( đuôi mã LL ) hoặc hàng Nhật .
+Thực_tế , những hàng này là phiên_bản khoá mạng nhưng đã được biến thành bản quốc_tế bằng cách mua mã mở khoá ( code unlock ) , để dùng không cần sim ghép .
+Thị_trường mã code unlock cũng khá phức_tạp .
+Loại " xịn " do các nhà mạng cung_cấp thường giá cao , thậm_chí , chi_phí bỏ ra ngang với mua máy bản quốc_tế .
+Nhưng bên_cạnh đó , cũng có loại mã mở khoá giá rẻ , không phải mua từ các nhà mạng mà từ các đầu_nậu .
+Loại này chi_phí thấp hơn nhưng tiềm_ẩn rủi_ro có_thể khoá mạng trở_lại sau một thời_gian ngắn , hoặc bất_kỳ lúc_nào .
+Trước_đây , lỗi kích_hoạt thi_thoảng vẫn xuất_hiện trên dòng máy lock mở mạng thành quốc_tế nhưng gần đây " nở_rộ " với số_lượng lớn máy bị khóa vì i Phone qua sử_dụng quá phổ_biến , tràn_ngập trên thị_trường xách tay .
+​ Để khắc_phục tạm_thời và có_thể sử_dụng lại được , người dùng buộc phải sử_dụng sim ghép để kích_hoạt và có sóng .
+Xem thêm : iPhone giá vài triệu đồng tràn_ngập thị_trường

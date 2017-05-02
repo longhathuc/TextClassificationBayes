@@ -1,0 +1,23 @@
+Thử tài phân_biệt ảnh chụp hay tác_phẩm đồ_họa
+Những bức ảnh món ăn tuyệt đẹp bạn nhìn thấy trên mạng có_thể là sản_phẩm của phần_mềm máy_tính .
+Hãy quan_sát những tấm hình dưới đây và cho biết_đâu là ảnh chụp đồ_ăn , đâu là ảnh dựng bằng phần_mềm :
+A . Ảnh chụp
+B . Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa

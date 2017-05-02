@@ -1,0 +1,40 @@
+Giáo_sư bị cấm tại mọi sòng bạc vì chế thiết_bị thắng cược
+Một giáo_sư toán ở Đại_học Oxford , Anh , cho ra_đời thiết_bị giúp ông giành phần thắng trong mọi lần đặt_cược với nhà_cái , nhưng cũng khiến ông bị cấm vào mọi sòng bạc Mỹ suốt đời .
+Theo Science_Alert , roulette ( cò_quay ) là một trong những trò_chơi nổi_tiếng nhất tại những sòng bạc ở Las_Vegas .
+Dù có luật_chơi dễ hiểu , người chơi roulette rất khó giành phần thắng trước nhà_cái .
+Trò roulette gồm một vòng quay và một bàn số để người chơi đặt_cược .
+Bàn số này bao_gồm tổng_cộng 37 số_từ 0 đến 36 trong khi vòng quay cũng có 37 số và một trái bóng nhỏ .
+Đầu_tiên , người chơi chọn loại cược muốn đặt .
+Người điển khiển vòng quay bắt_đầu quay số bằng cách tung quả bóng nhỏ xung_quanh vòng quay đang xoay tròn .
+Theo quy_định , quả bóng cần quay ít_nhất ba vòng trước khi rơi xuống một_số cụ_thể .
+Khi quả bóng rơi trúng một_số , người chơi sẽ so_sánh số đó với loại cược mình vừa đặt_để xác_định kết_quả thắng thua .
+Vào những năm 1970 , giáo_sư toán_học J .
+Doyne_Farmer chế_tạo cỗ máy giúp ông có_thể ăn_gian trong trò roulette .
+Kết_quả là ông bị cấm đặt_chân vào mọi sòng bạc ở Nevada , Mỹ .
+Bí_mật về cách ăn_gian của Farmer được một đồng_nghiệp của ông là giáo_sư vật_lý Richard_Muller tiết_lộ trên trang Quora đầu tuần này .
+Giáo_sư Muller cho_biết , theo truyền_thống , để khuyến_khích mọi người đặt_cược trong trò roulette , người chơi sẽ đặt_cược sau khi vòng quay xoay tròn và quả bóng được tung , nhưng phải hoàn_thành đặt_cược trước khi quả bóng rơi xuống .
+Trong 1 - 2 giây ngắn_ngủi đó , người chơi có đủ thông_tin để tính_toán nhằm nhân đôi khả_năng chiến_thắng .
+Nếu có thể_loại một_nửa con_số mà quả bóng không rơi vào trên vòng quay , khả_năng chiến_thắng sẽ cao hơn .   Người chơi không cần phải dự_đoán con_số quả bóng sẽ rơi trúng .
+Họ chỉ cần tìm cách tăng tỷ_lệ chiến_thắng .
+Muller tiếp_tục lý_giải cơ_chế hoạt_động của thiết_bị thắng cược mà người đồng_nghiệp Farmer chế_tạo .
+Ở hai bên giày của Farmer có hai công_tắc .
+Mỗi lần quả bóng chạy hết một vòng , ông lại dùng ngón chân cái ấn công_tắc đó một lần , và ấn tiếp công_tắc còn lại mỗi khi vòng quay bắt_đầu .
+Từ thông_tin của hai lần thu_thập dữ_liệu đó , chiếc máy_tính nhỏ trong túi quần của Farmer sẽ tính_toán tỷ_lệ rơi của quả bóng và báo lại cho Farmer biết thông_qua hệ_thống gắn ở chân , nhờ đó ông xác_định được nên đặt tiền vào số nào .
+Toàn_bộ quá_trình tính_toán và đặt tiền diễn ra trong khoảng thời_gian ngắn_ngủi ngay trước khi quả bóng dừng lăn .
+Dĩ_nhiên , trước khi chế_tạo thành_công , Farmer phải dùng một vòng quay roulette thực_sự để hiệu_chỉnh thiết_bị .
+Ông đã mua một cái và thử_nghiệm trong gara   trước khi tới các sòng bạc .
+" Sòng bạc không có quyền khám người , do_đó việc mang thiết_bị vào không khó .
+Nhưng các sòng bạc tự đề ra luật có_thể đuổi bất_kỳ người chơi nào mà không cần lý_do .
+Họ chỉ áp_dụng luật này khi nhận thấy một người chơi liên_tục giành phần thắng .
+Sòng bạc không_thể lấy lại số tiền đã mất , nhưng họ có_thể dừng việc tiếp_tục mất tiền .
+Tất_nhiên , bạn tôi khi đó là sinh_viên cao_học ở Đại_học California_Berkeley bị cấm_cửa " , Muller kể lại .
+Vào năm 2012 , hai nhà_nghiên_cứu Michael_Small ở Đại_học Western_Australia và Chi_Kong_Tse ở Đại_học Bách_khoa Hong_Kong công_bố nghiên_cứu về nguyên_lý hoạt_động của thiết_bị thắng cược do Farmer chế_tạo trên tạp_chí AIP Scitation .
+Nhóm nghiên_cứu biểu_diễn lại cách chơi với thiết_bị tính_toán tốc_độ quay của vòng quay và quả bóng .
+Sử_dụng hệ_thống giống giáo_sư Farmer , họ ghi lại mỗi lần quả bóng hoặc vòng quay đi qua một điểm nhất_định .
+Họ kết_luận tỷ_lệ thắng trung_bình là 18% , cao hơn hẳn tỷ_lệ - 2.7% nếu đặt_cược ngẫu_nhiên .
+Sau khi nghiên_cứu xuất_bản , giáo_sư Farmer thừa_nhận rằng cách tính_toán do nhóm của Small đưa ra rất giống với cách ông áp_dụng trong quá_khứ , chỉ khác ở chỗ họ giả_định lực cản chính khiến quả bóng di_chuyển chậm lại là viền vòng quay , trong khi Farmer tính_toán dựa theo lực cản không_khí .
+Thiết_bị thắng cược của Farmer gần_như qua mắt nhà_cái cho_đến khi sòng bạc phát_hiện ông chiến_thắng nhiều hơn so với mức thông_thường và cấm_cửa ông suốt đời .
+Cuối_cùng , Farmer không lãi được đồng nào từ thiết_bị của mình .
+" Anh_ấy nói suýt chút nữa thì kiếm đủ tiền để trả cho vòng quay roulette mà anh_ấy sử_dụng để hoàn_thiện thiết_bị thắng cược của mình " , giáo_sư Muller nhớ lại .
+Xem thêm :   Chứng_minh định_lý 400 tuổi , giáo_sư Oxford nhận 700.000 USD
+Phương_Hoa

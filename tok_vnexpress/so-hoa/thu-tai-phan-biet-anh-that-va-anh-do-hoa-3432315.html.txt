@@ -1,0 +1,6 @@
+Thử tài phân_biệt ảnh thật và ảnh đồ_họa
+Hãy xem các bức ảnh dưới đây và đoán xem đâu là ảnh chụp , đâu là ảnh được dựng từ các phần_mềm trên máy_tính .
+Ảnh 1 :   Đâu là ảnh đồ_họa của diễn_viên Hàn_Quốc_Song_Hye_Kyo :
+A . Ảnh trái
+B . Ảnh phải
+* Trả_lời đúng sẽ dẫn bạn sang câu_hỏi tiếp_theo .

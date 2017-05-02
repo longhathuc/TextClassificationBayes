@@ -1,0 +1,17 @@
+Hacker_Nga lấy cắp dữ_liệu tranh_cử về Donald_Trump
+Các thông_tin về chiến_dịch tranh_cử của Donald_Trump từ đảng đối_lập Dân_chủ có_thể đã bị các tin_tặc Nga theo_dõi trong_suốt một năm .
+Ông Donald_Trump , ứng_viên tranh_cử Tổng_thống Mỹ của đảng Cộng_hòa .
+Theo The_New_York_Times , hai nhóm tin_tặc của Nga đã xâm_nhập hệ_thống máy_tính của đảng Dân_chủ Mỹ để có được các thông_tin về email , đoạn chat cùng kho dữ_liệu nghiên_cứu về đảng đối_lập của tỷ_phú Donald_Trump .
+Công_ty an_ninh mạng   CrowdStrike cho_biết một nhóm hacker đã đặt phần_mềm gián_điệp trên máy_chủ từ mùa_hè năm_ngoái và lấy đi thông_tin trong_suốt một năm qua .
+Đầu tháng trước , đảng Dân_chủ mới bắt_đầu nghi_ngờ có sự xâm_nhập trước khi các cơ_quan an_ninh vào_cuộc .
+Hiện các phần_mềm gián_điệp đã bị gỡ bỏ nhưng   CrowdStrike chưa_thể thống_kê các dữ_liệu đã bị mất từ hệ_thống .
+Một quan_chức cao_cấp của chính_phủ Mỹ cũng cho_biết chiến_dịch tranh_cử của bà   Hillary_Clinton , có trụ_sở tại Brooklyn cũng có_thể là mục_tiêu tấn_công của các tin_tặc .
+Tuy_nhiên , nguồn tin không khẳng_định việc dữ_liệu có bị thất_thoát hay không .
+Dmitri_Alperovitch , đồng sáng_lập của CrowdStrike cho_biết một trong hai nhóm tin_tặc có_thể là   Cozy_Bear .
+Đây cũng chính là nhóm đã cố tính thâm_nhập vào hệ_thống email của Bộ ngoại_giao và Nhà trắng Mỹ .
+" Đây là một nhóm cực_kỳ phức_tạp " , ông nói và cho rằng các hành_tung của họ đều được che_đậy rất tốt và có_thể được chính_phủ hậu_thuẫn .
+Nhóm thứ_hai được cho là có tên   Fancy_Bear có_thể đã thực_hiện cuộc tấn_công trong tháng 4 vừa_qua .   CrowdStrike cho rằng nhóm này có_thể được điều_hành bởi Tổng_cục Tình_báo Quân_đội của Nga ( GRU ) .
+Những mục_tiêu trong quá_khứ của nhóm này bao_gồm các tổ_chức quân_sự và cơ_quan hàng_không_vũ_trụ Mỹ , châu Âu , Canada , Nhật_Bản và Hàn_Quốc .
+Tấn_công mạng có tổ_chức của những chính_phủ nước_ngoài là mối đe_dọa thường_xuyên với các chiến_dịch chính_trị .
+Các hoạt_động tranh_cử như tại Mỹ hiện_nay chỉ là tạm_thời nên không được đầu_tư mạnh vào các loại bảo_mật .
+Trong khi đó , các công_ty lớn , cơ_quan chính_phủ thường phải_chi cho khoản này hàng triệu hoặc hàng tỷ USD mỗi năm .

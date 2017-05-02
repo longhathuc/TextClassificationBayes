@@ -1,0 +1,11 @@
+Đáp_án bài_toán chuyển_động từ đề thi Olympic_Hà_Lan
+Thời_gian để Marco   đi xe_đạp về bến cuối sau đó chạy bộ ngược về bến giữa là 30 phút .
+Đề_bài :
+Có 3 bến xe_buýt B1 , B2 , B3 , trong đó B2 ( bến giữa ) cách đều B1 ( bến đầu ) và B3 ( bến cuối ) .
+Marco đang đứng chờ xe_buýt ( A ) ở bến giữa .
+Nếu_Marco cứ đừng chờ ở bến giữa thì Marco sẽ phải chờ 15 phút .
+Nếu_Marco lấy xe_đạp và chạy về bến đầu thì Marco sẽ đến bến đầu đúng lúc xe_buýt đến .
+Nếu_Marco chạy bộ về bến cuối thì cậu cũng đến bến cuối đúng lúc xe_buýt đến .
+Hỏi nếu Marco đi xe_đạp về bến cuối sau đó chạy bộ ngược về bến giữa thì hết bao_nhiêu thời_gian ?
+Đáp_án
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

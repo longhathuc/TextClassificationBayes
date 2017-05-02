@@ -1,0 +1,19 @@
+Continuum - tính_năng biến điện_thoại thành máy_tính của Microsoft
+Đây là tiện_ích thú_vị chỉ có trên smartphone Windows 10 cao_cấp như Lumia 950 và Lumia 950 XL , chuyển giao_diện điện_thoại thành môi_trường Desktop khi kết_nối màn_hình .
+Khi kết_nối với màn_hình lớn bằng dây_cáp hoặc không dây với Miracast , giao_diện Windows trên điện_thoại chuyển sang giao_diện lớn như môi_trường Desktop của máy_tính .
+Lúc này , các ứng_dụng văn_phòng Office chuyển sang giao_diện của máy_tính , hiển_thị đầy_đủ các phím chức_năng , dễ_dàng soạn_thảo văn_bản Word , chỉnh_sửa bảng tính Excel hay tạo file trình_chiếu Power_Point ...
+Người dùng cũng có_thể dùng chuột và bàn_phím của máy_tính , kết_nối USB hay ổ_cứng lưu_trữ để lấy , sao_chép dữ_liệu với điện_thoại .
+Trình_diễn công_nghệ Continuum trên điện_thoại Lumia 950 :
+Với người không có nhu_cầu sử_dụng quá nhiều nhưng vẫn cần đến máy_tính trong một_vài trường_hợp , Continuum thực_sự hữu_dụng khi đem đến trải_nghiệm 2 trong 1 .
+Muốn lướt web , xem phim , người dùng có_thể dùng Continuum để nối tới màn_hình bất_kỳ hay TV .
+Nếu_không có chuột rời , màn_hình của Lumia 950 kiêm luôn bàn rê cảm_ứng .
+Hoặc cần trình_chiếu tài_liệu , bảng_biểu khi họp , chỉ cần Lumia 950 và Display_Dock là hoàn_toàn thay_thế được cho laptop , dễ_dàng phát hình_ảnh tới máy_chiếu , TV hay màn_hình lớn .
+So với Android hay i OS , Continuum của Microsoft khác với tính_năng chuyển_tiếp màn_hình như Miracast hay AirPlay khi trong quá_trình phát nội_dung , điện_thoại vẫn có_thể sử_dụng riêng_biệt để liên_lạc , nhắn_tin , không ảnh_hưởng tới nội_dung đang hiển_thị .
+Cấu_hình mạnh giúp cho Lumia 950 chạy đa_nhiệm được hai chức_năng riêng_biệt , điện_thoại và máy_tính .
+Continuum có_thể sử_dụng cả kết_nối không dây lẫn có dây với HDMI và Display_Port .
+Sự tiện_lợi của Continuum còn ở việc dùng được cả kết_nối không dây chứ không_chỉ dùng được với các kết_nối có dây_cáp như HDMI , Display_Port .
+Dù_vậy , để tín_hiệu ổn_định và tính_năng đầy_đủ , người dùng nên dùng phương_thức có dây và bộ_chuyển_đổi Display_Dock của Microsoft , vì nó tích_hợp sẵn tới 3 cổng USB , cả kết_nối HDMI lẫn Display_Port và có_thể sạc pin luôn cho điện_thoại thông_qua cổng USB Type - C .
+Tuy_nhiên cũng_nên chú_ý , vì cấu_hình điện_thoại thấp so với máy_tính nên Continuum hiện_giờ vẫn chưa_thể thay_thế hoàn_toàn được tính_năng của một chiếc laptop hay máy_tính bảng chạy hệ_điều_hành Windows 10 thực_thụ .
+Ví_dụ như việc khả_năng đa_nhiệm , mở nhiều ứng_dụng cùng lúc , việc mở nhiều tab khi lướt web cũng chậm , chưa nhanh như trên máy_tính .
+Cách dùng Lumia 950 như máy_tính Desktop :
+Tuấn_Anh

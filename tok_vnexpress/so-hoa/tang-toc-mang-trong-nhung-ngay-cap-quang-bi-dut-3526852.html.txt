@@ -1,0 +1,27 @@
+Tăng_tốc mạng trong những ngày cáp_quang bị đứt
+Đổi DNS , sử_dụng các dịch_vụ VPN hay mở kết_nối 3G/4G để hạn_chế tình_trạng truy_cập mạng bị chậm trong những ngày cáp_quang gặp sự_cố .
+Đổi sang DNS của Google là cách dễ làm , hiệu_quả .
+Sử_dụng DNS của Google
+Đổi DNS là thao_tác giúp máy sử_dụng một máy_chủ phân_giải tên_miền khác giúp tốc_độ truy_cập một trang_web được cải_thiện .
+Gần đây , máy_chủ DNS của Google ngày_càng được sử_dụng phổ_biến do dễ nhớ và tốc_độ truy_xuất nhanh .
+Cách đổi DNS cũng khá dễ_dàng trên cả máy_tính lẫn smartphone .
+Trên i Phone , bấm vào biểu_tượng chữ i bên_cạnh mạng Wi-Fi đang sử_dụng và đổi DNS thành 8.8.8.8 , 8.8.4.4 .
+Cách_thức tương_tự trên các điện_thoại Android khi nhấn lì mạng Wi-Fi đang sử_dụng , chọn sửa_đổi mạng và tùy chọn nâng cao sau đó nhập dãy số DNS của Google .
+Sử_dụng VPN
+VPN thường được các công_ty lớn sử_dụng để tạo ra một mạng riêng ảo giúp bảo_mật tốt hơn và sử_dụng một máy_chủ để nhận_dạng mọi kết_nối .
+Khi sử_dụng VPN trên máy di_động hoặc PC , kết_nối mạng sẽ được chuyển_hướng trực_tiếp đến các máy_chủ ở nhiều nước trên thế_giới .
+Hiện có nhiều phần_mềm miễn_phí như Hola VPN , SurfEasy VPN hay Onavo VPN ...
+Một_số dịch_vụ VPN miễn_phí sẽ giúp cải_thiện tốc_độ truy_cập mạng .
+Sử_dụng kết_nối mạng 3G hoặc 4G
+Trong những ngày cáp_quang bị đứt , nhiều người dùng tại Việt_Nam đều cho rằng sử_dụng kết_nối mạng di_động thậm_chí còn nhanh hơn cáp_quang .
+Lý_do là bởi đường truyền ra quốc_tế của các kết_nối 3G/4G sử_dụng cáp riêng ít khi bị ảnh_hưởng .
+Sự_cố cáp_quang AAG phần_lớn chỉ ảnh_hưởng đến các đường truyền mạng cáp_quang thông_thường .
+Ưu_tiên sử_dụng các dịch_vụ trong nước
+Khi cáp_quang biển gặp sự_cố , đường truyền Internet ra nước_ngoài bị ảnh_hưởng nặng_nề .
+Đây chính là lý_do các trang_web , dịch_vụ với máy_chủ đặt ở nước_ngoài rất khó truy_cập .
+Người dùng vì_vậy nên ưu_tiên sử_dụng các dịch_vụ cung_cấp với máy_chủ đặt ở trong nước để đảm_bảo tính ổn_định .
+Sử_dụng 3G hoặc 4G thay_thế Wi-Fi .
+Ưu_tiên dùng trình_duyệt tích_hợp sẵn VPN
+Một_số trình_duyệt hiện_nay đã tích_hợp sẵn VPN như Opera hay Aloha .
+Người dùng chỉ cần tải và cài_đặt các phần_mềm này trên kho ứng_dụng và duyệt web như bình_thường .
+Cách_thức này đơn_giản nhưng chỉ áp_dụng với nhu_cầu chủ_yếu đọc tin_tức thông_thường .

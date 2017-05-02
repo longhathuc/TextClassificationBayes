@@ -1,0 +1,5 @@
+Cách phân_biệt các hạng ôtô tại Việt_Nam
+Các mẫu xe_hơi phân_chia thành các phân khúc khác_nhau , dựa vào dung_tích động_cơ hay kích_thước cũng_như nhu_cầu và mục_đích sử_dụng .
+Thực_tế , xe_hơi cũng được phân_hạng A , B , C ... hoặc theo dòng sedan hay hatchback , chúng phân_loại theo tiêu_chuẩn khác_nhau .
+Dữ_liệu dưới đây cung_cấp thông_tin về các dòng ôtô đang bán ra ở Việt_Nam , chủ_yếu là các dòng xe phổ_thông .
+Độc_giả click vào từng ảnh để xem chi_tiết .

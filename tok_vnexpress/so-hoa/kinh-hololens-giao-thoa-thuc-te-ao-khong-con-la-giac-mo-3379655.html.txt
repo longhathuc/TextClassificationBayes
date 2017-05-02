@@ -1,0 +1,28 @@
+Kính_Holo Lens - giao_thoa thực_tế ảo không còn là giấc_mơ
+Không ít người sau khi xem các video giới_thiệu về HoloLens đã cho rằng đó chỉ là hình_ảnh mang tính quảng_cáo , tuy_nhiên Microsoft đang thật sự_biến giấc_mơ thực_tế ảo thành hiện_thực .
+Tại sự_kiện Build 2016 diễn ra ở San_Francisco ( Mỹ ) , lần đầu tiên_giới truyền_thông và các chuyên_gia phân_tích có dịp trải_nghiệm phiên_bản chính_thức của HoloLens , được bán ra từ ngày 30/3 .
+HoloLens ( 3.000 USD ) của Microsoft và Oculus_Rift ( 600 USD ) của Facebook đều là những chiếc kính khá to để người dùng đeo vòng qua đầu .
+Sự chênh_lệch mức giá là bởi Oculus_Rift là kính VR ( Virtual_Reality ) .
+Nó như chiếc hộp đóng kín , tách người đeo khỏi thế_giới bên ngoài để họ đắm_chìm trong một thế_giới ảo 3D để xem phim , chơi game ...
+Nhiều người cảm_thấy mệt_mỏi , chóng_mặt khi sử_dụng kính quá lâu .
+Kính thực_tế ảo HoloLens .
+Trong khi đó , HoloLens là kính AR ( Augmented_Reality ) với hai mắt_kính trong_suốt , giúp người đeo vẫn quan_sát được những gì đang diễn ra xung_quanh , vẫn trao_đổi với mọi người như đang đeo một cặp kính bình_thường .
+AR là sự giao_thoa giữa thực_tế và thế_giới ảo , nơi người dùng tương_tác với hình_ảnh nổi hologram ngay giữa khung_cảnh thực , giống_hệt những gì họ thấy trong phim viễn_tưởng Star_Wars .
+Microsoft đã mở " khoá đào_tạo " cách sử_dụng kính mang tên HoloLens Academy cho người tham_gia dùng thử tại Build 2016 .
+Họ được hướng_dẫn tạo vật_thể 3D trên máy_tính và chuyển qua kính , dùng tay trỏ di_chuyển trong không_trung , thực_hiện thao_tác air - tapping như_thể đang nhấn vào con chuột ảo để điều_khiển hình_ảnh .
+Chiếc kính được thiết_kế linh_hoạt để phù_hợp với mọi vòng đầu của người đeo .
+Thú_vị hơn , HoloLens cho_phép chia_sẻ ảnh nổi để nhiều người có_thể cùng xem một nội_dung và cùng trao_đổi , phân_tích hay chơi trò_chơi với nhau Trong trò_chơi mà Microsoft đưa ra tại buổi dùng thử , mỗi người tự chọn cho mình một con robot Poly với nhiều hình_dáng , màu_sắc và sức_mạnh khác_nhau để làm hình đại_diện ( avatar ) .
+Người đeo kính sẽ thấy avatar của những người còn lại bay lơ_lửng trên đầu hoặc vai họ .
+Họ sẽ điều_khiển ngón_tay trỏ để bắn các quả bóng ảo nhằm tiêu_diệt avatar của người khác , đồng_thời phải liên_tục di_chuyển để tránh cho Poly của mình khỏi trúng đạn .
+Khi cùng hợp_lực bắn bóng xuống sàn nhà , người chơi có_thể nhìn thấy sàn như bị khoét thủng và phía dưới là những con quái_vật ảo đang bay lên .
+Người tham_gia đang " tấn_công " avatar   bay lơ_lửng trên đầu những người còn lại .
+Sau những phút lúng_túng với chiếc kính to , nhiều người đã nhanh_chóng cảm_thấy thoải_mái và gần_như quên họ đang đeo kính trên đầu để hoà_mình vào trò_chơi đầy vui_nhộn .
+Một_số nhà_báo chia_sẻ , HoloLens mang đến trải_nghiệm vượt xa suy_nghĩ ban_đầu của họ .
+Dù hình_ảnh không phải lúc_nào cũng mượt_mà và tầm nhìn vẫn có phần bị giới_hạn , HoloLens đã thể_hiện đúng những gì họ mong_đợi ở một thiết_bị AR của tương_lai .
+HoloLens có kiểu_dáng giống một chiếc kính đeo nhưng hoạt_động như một máy_tính hoàn_thiện với CPU , GPU và bộ_xử_lý ba chiều chuyên_dụng ( holographic processing unit - HPU ) với khả_năng theo_dõi sự thay_đổi của cảnh_vật xung_quanh .
+Thiết_bị khá nhẹ , vòng bên trong ( headband ) có_thể điều_chỉnh để khít với bất_cứ vòng đầu nào , trong khi phần kính được thiết_kế linh_hoạt để dịch_chuyển lên xuống , kéo ra phía trước ...
+Với việc HoloLens đã bắt_đầu được xuất_xưởng , các nhà_phát_triển sẽ tạo ra những ứng_dụng để khai_thác tối_đa khả_năng của thiết_bị .
+Chẳng_hạn ,   Microsoft kết_hợp với NASA triển_khai chương_trình Destination : Mars ( Điểm đến : Sao_Hỏa ) tại Trung_tâm Vũ_trụ Kennedy ở Florida ( Mỹ ) mùa_hè tới .
+Khách tham_quan sẽ trải_nghiệm và khám_phá bề_mặt sao Hoả thông_qua công_nghệ HoloLens .
+Xem chi_tiết kính thực_tế ảo HoloLens
+Châu_An

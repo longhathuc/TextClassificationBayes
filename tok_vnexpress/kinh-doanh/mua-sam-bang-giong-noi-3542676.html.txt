@@ -1,0 +1,23 @@
+Mua_sắm bằng giọng nói
+Để mua một món hàng , người dùng chỉ cần nói " Ok_Google , tôi muốn đặt mua ... " .
+Google_Assistant vừa giới_thiệu tính_năng mới trên Google_Home , giúp người dùng có_thể đặt mua hàng_hóa thông_qua giọng nói .
+Google_Home là chiếc loa thông_minh tích_hợp công_nghệ có khả_năng tương_tác   bằng cách trả_lời các câu_hỏi của người dùng , phát nhạc hay điều_khiển một_số vật_dụng trong ngôi nhà thông_minh .
+Những món hàng được đặt mua có_thể là giấy_vệ_sinh , dầu_gội hoặc bất_cứ thứ gì từ các công_ty đối_tác của Google_Express như Costco , Whole_Foods , Bed_Bath & Beyond , Fry ' s , Guitar_Center , Petsmart , Walgreen và gần 50 thương_hiệu khác .
+Danh_sách chính_xác các đối_tác sẽ phụ_thuộc vào nơi người dùng sống .
+Tuy_nhiên , một_số mặt_hàng sẽ luôn sẵn có ở mọi nơi .
+Tùy vào địa_điểm người dùng sống , Google_Express sẽ đưa ra dịch_vụ chuyển hàng trong ngày hay theo số ngày phù_hợp .
+Dịch_vụ chuyển hàng của Google cũng đưa ra gói tiện_ích có_giá 95 đôla Mỹ một năm hoặc 10 đôla Mỹ một tháng cho các khách_hàng thành_viên của mình .
+Nếu_không phải hội_viên , phí vận_chuyển 4,99 đôla Mỹ .   Tính_năng mới   cho_phép người dùng mua bất_cứ món hàng nào trong mức giá 4-100 đôla Mỹ .
+Để mua một món hàng , người dùng chỉ cần nói " Ok_Google , tôi muốn đặt mua ... " .
+Sau đó , Google_Assistant sẽ đưa ra một_số kết_quả , giá_cả và dòng giới_thiệu ngắn_gọn trước khi yêu_cầu xác_nhận đơn hàng .
+Nếu bị từ_chối , Google_Assistant sẽ tiếp_tục đưa ra những lựa_chọn khác .
+Và nếu lại không được đồng_ý một lần nữa , công_cụ này sẽ thêm món hàng vào danh_mục mua_sắm của người dùng trong ứng_dụng Google_Home .
+Người dùng Google_Home giờ_đây có_thể mua_sắm thông_qua giọng nói .
+Trong trường_hợp không dùng Google_Home , khách_hàng vẫn có_thể đặt mua thông_qua website của Google_Express .
+Hãng công_nghệ cũng lưu_ý những món hàng được lựa_chọn thông_qua giọng nói có_thể sẽ khác một_chút so với mặt_hàng hiện trên trang_chủ của Google_Express .
+Để có_thể thực_hiện các thao_tác này , người dùng cần phải thiết_lập phương_thức thanh_toán tại ứng_dụng Google_Home .
+Google không tính phí người dùng cho_đến hết tháng 4 .
+Lần ra_mắt này là bước_đi mới của Google trong việc mở_rộng các tiện_ích của mình , nổi_bật là mua_sắm trực_tuyến .
+Tuy_nhiên , khi nhắc đến thương_mại_điện_tử , gã công_nghệ khổng_lồ Google vẫn chưa là đối_thủ xứng tầm với Amazon trong địa_hạt này .
+Song tất_cả chứng_minh một thế_giới đang phát_triển như vũ_bão với công_nghệ buộc các công_ty phải liên_tục đổi_mới và chuyển_mình để theo kịp những bước_tiến của thời_đại .
+Trương_Sanh

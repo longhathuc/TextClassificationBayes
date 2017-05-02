@@ -1,0 +1,17 @@
+Cài_đặt i OS 10 Beta trên i Phone và i Pad
+Hệ_điều_hành mới của Apple đã có phiên_bản thử_nghiệm cho mọi người thực_hiện nâng_cấp dễ_dàng ngay trên thiết_bị di_động .
+Sau bản dành riêng cho lập_trình_viên , iOS 10 đã được Apple phát_hành bản Public_Beta mà người dùng bình_thường cũng có_thể tải về và cài_đặt .
+Trong khi đó , phiên_bản chính_thức có_thể phải đến tháng 9 mới được công_ty công_nghệ Mỹ tung ra .
+Trước khi tiến_hành nâng_cấp , người dùng cần kiểm_tra thiết_bị của mình có được Apple hỗ_trợ cài i OS 10 hay không .
+Cụ_thể , hệ_điều_hành này tương_thích với i Phone 5 , iPad Air , iPad mini 2 , iPod thế_hệ 6 và các model đời cao hơn .
+Danh_sách thiết_bị hỗ_trợ i OS 10 .
+Với bản thử_nghiệm , bạn nên sao lưu dữ_liệu thông_qua i Tunes hoặc i Cloud .
+Trên máy_tính , người dùng kết_nối i Phone , iPad bằng cáp Lightning , chọn thiết_bị rồi bấm Backup_Now .
+Hoặc vào Settings trên các thiết_bị i OS , chọn i Cloud > Backup sau đó chọn Back_Up_Now .
+Để tiến_hành nâng_cấp i OS 10 Public_Beta , người dùng đi đến liên_kết này , chọn Sign up và đăng_nhập tài_khoản Apple ID .
+Trên i Phone hay i Pad , bạn cần tải về và cài_đặt file cấu_hình .
+Tiếp_theo , vào Settings > General > Software_Update và tiến_hành nâng_cấp i OS 10 bản thử_nghiệm .
+Thông_báo nâng_cấp i OS 10 Beta .
+Xem thêm :
+>   10 nâng_cấp đáng_giá trên i OS 10
+>   iOS 10 cho người dùng xóa nhiều ứng_dụng mặc_định

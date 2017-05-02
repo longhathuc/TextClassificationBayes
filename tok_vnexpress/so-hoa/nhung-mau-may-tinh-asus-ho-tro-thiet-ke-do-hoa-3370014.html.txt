@@ -1,0 +1,32 @@
+Những mẫu máy_tính Asus hỗ_trợ thiết_kế đồ_họa
+Model K501UX , N552VX và Zen_Ai O_Pro có màn_hình 4K , cấu_hình mạnh , tích_hợp nhiều tính_năng hữu_ích cho việc thiết_kế với kiểu_dáng sang_trọng , cá_tính .
+K501UX
+Đây là mẫu máy thuộc K_Series với thiết_kế tinh_giản , gọn_nhẹ từ vỏ hợp_kim nhôm đồng_thời cung_cấp hiệu_năng sử_dụng cao .
+Với kích_thước 15,6 inch , K501UX sở_hữu màn_hình độ_phân_giải 3.840 x 2.160 pixel , nét gấp 4 lần chuẩn Full HD ( 1.920 x 1.080 pixle ) , tổng_số điểm_ảnh lên đến 8 triệu và mật_độ điểm_ảnh lên đến 282 ppi giúp truyền_tải sắc nét mọi chi_tiết .
+Công_nghệ Indium_Gallium_Zinc_Oxide ( IGZO ) được tích_hợp tăng_cường khả_năng truyền_tải ánh_sáng và thu nhỏ các bóng_bán_dẫn .
+Do_đó , điện_năng tiêu_thụ một_cách hợp_lý .
+Đi kèm là bộ_vi_xử_lý Intel_Core i5 thế_hệ thứ 6 , card đồ_họa NVIDIA GeForce GTX 950M mới nhất và trình quản_lý DirectX 11 giúp máy xử_lý tốt hình_ảnh cả trong công_việc chỉnh_sửa phim_ảnh lẫn thưởng_thức phim hay chơi game ở độ sắc nét và trung_thực cao .
+Để giải_quyết vấn_đề nhiệt_độ khi xử_lý các tác_vụ đồ_họa " nặng_ký " , Asus đã tích_hợp vào K501UX công_nghệ làm mát IceCool , cho_phép người dùng sử_dụng máy trong thời_gian dài vẫn cảm_thấy dễ_chịu và thoải_mái .
+Thiết_kế phân_bố linh_kiện bên trong thân máy giúp tản nhiệt hiệu_quả , giữ nhiệt_độ bề_mặt chiếu_nghỉ tay khoảng 28-35 độ C .
+Pin công_suất lớn cho thời_lượng làm_việc và giải_trí thoải_mái .
+Với độ dày chỉ 21,7 mm và trọng_lượng 2kg , K501UX vừa hoạt_động hiệu_quả tại văn_phòng , vừa có_thể mang theo linh_hoạt khi làm_việc bên ngoài .
+N552VX
+Chiếc laptop thuộc N_Series trang_bị bộ_vi_xử_lý Intel_Core i7 lõi tứ thế_hệ thứ 6 hiệu_năng cao và hệ_điều_hành Windows 10 mới nhất mang đến hiệu_năng tương_đương máy_tính_để_bàn .
+Ổ_HDD 1TB , SSD 128GB và RAM 8GB DDR4 nhanh hơn 33% so với DDR3 , cho khả_năng làm_việc đa_nhiệm mượt_mà .
+Với card đồ_họa NVIDIA GeForce GTX 950M , máy_tính_xách_tay N552VX có_thể xử_lý những tác_vụ đòi_hỏi cao về đồ_họa một_cách dễ_dàng , từ thiết_kế đồ_họa , xem phim độ_phân_giải cao hay giải_trí những game mới nhất .
+Máy có màn_hình 4K/UHD , độ_phân_giải 3.840 x 2.160 pixel hiển_thị hình_ảnh chân_thực rõ nét và chi_tiết .
+Màn_hình kết_hợp các thành_phần phần_cứng và phần_mềm tối_ưu để cho hình_ảnh tốt với gam màu siêu rộng là 72% NTSC , 100% sRGB và 74% Adobe RGB .
+Công_nghệ Asus_Splendid độc_quyền đảm_bảo các thiết_lập luôn tối_ưu trong mọi tình_huống sử_dụng .
+Những chi_tiết thiết_kế đẹp thể_hiện trên máy_tính Asus N_Series từ hiệu_ứng vân sóng độc_quyền quanh loa đến những điểm nhấn cắt hiệu_ứng kim_cương nổi_bật quanh gờ máy .
+Đây là sản_phẩm thay_thế linh_động cho máy_tính_để_bàn cao_cấp , giúp người dùng có_thể thiết_kế , làm_việc và giải_trí ở bất_kỳ đâu .
+Để có khả_năng tương_thích tối_đa với các thiết_bị_ngoại_vi , máy mang đến một loạt tùy chọn kết_nối gồm cổng USB 3.0 , cổng USB 3.1 kiểu C , cổng ra HDMI và cổng Mini_Display , một đầu_đọc thẻ SDXC/SDHC/SD ... Cổng USB 3.1 thế_hệ thứ 2 kiểu C xoay ngược cho bạn tốc_độ truyền dữ_liệu lên đến 10Gb một giây , giúp truyền các file thiết_kế dung_lượng lớn vài GB chỉ trong vài giây .
+Zen_Ai O_Pro Z240IC
+Mẫu máy_tính_để_bàn " tất_cả trong một " ( AiO ) này được trang_bị bộ_vi_xử_lý Intel_Core i7 mới nhất , bộ_nhớ DDR4 , ổ lưu_trữ SSD_PCI e Gen3 x4 M . 2 siêu nhanh , card đồ_họa NVIDIA GeForce GTX 960M .
+Máy hoạt_động trên nền_tảng hệ_điều_hành Windows 10 .
+Zen_Ai O_Pro chế_tác từ nhôm nguyên khối , các góc_cạnh được cắt hiệu_ứng kim_cương , tích_hợp giá đỡ gọn_nhẹ bên dưới .
+Màn hiển_thị cảm_ứng 10 điểm IPS với độ_phân_giải lên đến 4K/UHD ( 3.840 x 2.160 pixel ) không_chỉ hiển_thị từng chi_tiết nhỏ nhất mà_còn cho màu_sắc sống_động như thật và góc nhìn rộng 178 độ .
+Màn_hình còn có gam màu rộng lên đến 82% dải NTSC , 85% Adobe RGB và 100% sRGB .
+Nhờ vậy , Zen_Ai O_Pro có_thể tái_tạo ra nhiều màu_sắc hơn , màu_sắc chính_xác , đậm và sống_động hơn , hỗ_trợ tốt cho những tác_vụ đồ_họa hình_ảnh cho những nhà_thiết_kế chuyên_nghiệp .
+Dòng máy này còn sở_hữu một camera Intel_Real Sense với tính_năng nhận_dạng khuôn_mặt 3D , theo_dõi chuyển_động của ngón_tay , scan các đối_tượng và dựng mô_hình khối 3D .
+Dãy microphone kép mang đến khả_năng nhận_dạng giọng nói chuẩn_xác với Cortana của Windows .
+Minh_Trí

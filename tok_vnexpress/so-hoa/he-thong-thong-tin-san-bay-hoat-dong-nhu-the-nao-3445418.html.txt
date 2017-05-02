@@ -1,0 +1,27 @@
+Hệ_thống thông_tin sân_bay hoạt_động như_thế_nào
+Màn_hình trình_chiếu lịch_trình , thông_báo của các hãng hàng_không hay chỉ_dẫn cửa đi và đến ... cho hành_khách chỉ là một phần trong hệ_thống thông_tin sân_bay .
+Khác với hệ_thống không_lưu quản_lý bay và điều_hành máy_bay , hệ_thống thông_tin sân_bay là dịch_vụ mặt_đất , hiển_thị tại các màn_hình , loa phát_thanh cung_cấp lịch_trình chuyến bay , thông_báo của các hãng hàng_không cũng_như hướng_dẫn cửa đi và đến cho hành_khách và nhân_viên tại sân_bay .
+Hệ_thống truyền thông_tin cơ_bản này có nguyên_tắc hoạt_động là sử_dụng máy_tính truyền nội_dung trực_tiếp hoặc thông_qua hệ_thống mạng tới màn_hình , bảng điện_tử hay loa phóng_thanh .
+Tuy_nhiên , theo   Aviation_Pros , hệ_thống thông_tin sân_bay hiện_đại đang ngày_càng phức_tạp hơn nhiều lần .
+Nó sử_dụng hệ_thống mạng nội_bộ Intranet để truyền phát thông_tin tại sân_bay , còn mạng Internet để cung_cấp thông_tin cho các hãng hàng_không đưa lên website cũng_như kết_nối dữ_liệu tới sân_bay khác .   Màn
+hình hay loa tại sân_bay chỉ là các thiết_bị_đầu_cuối .
+Để hoạt_động cần đến máy_tính và phần_mềm điều_khiển .
+Nguồn thông_tin được quản_trị viên đưa vào máy_chủ , thông_qua phần_mềm quản_lý sẽ tự_động cập_nhật tới mạng máy_tính nội_bộ hoặc server trên Internet .
+Nhiều hệ_thống hiện_giờ được xây_dựng dựa trên phương_thức TCP/IP và HTTP , dễ_dàng tích_hợp các giao_tiếp công_nghệ hiện_đại như smartphone , máy_tính bảng ...
+Minh_họa   về sơ_đồ mạng của hệ_thống thông_tin sân_bay .
+Bấm vào để xem hình lớn .
+Chiều 29/7 , bên_cạnh website của hãng Hàng_không Việt_Nam bị hacker tấn_công và phát_tán thông_tin của hơn 400.000 thành_viên , tại hai sân_bay Nội_Bài và Tân_Sơn_Nhất , các bảng điện_tử và màn_hình hiển_thị thông_tin chuyến bay cũng bất_ngờ xuất_hiện thông_tin kích_động , xuyên_tạc tương_tự .
+Thậm_chí , loa phát_thanh của sân_bay Nội_Bài còn bị chèn nội_dung xấu .
+Sau sự_cố , nhận_định ban_đầu từ các cơ_quan_chức_năng là hệ_thống thông_tin sân_bay đã bị tin_tặc tấn_công .
+Theo chuyên_gia bảo_mật độc_lập Nguyễn_Hồng_Phúc , chưa rõ hệ_thống thông_tin ở sân_bay Nội_Bài và Tân_Sơn_Nhất có cấu_trúc như_thế_nào , nhưng việc tấn_công vào một hệ_thống hiển_thị thông_tin sân_bay nói_chung là không dễ .
+Diễn ra_vào cùng một khoảng thời_gian , nhưng phương_thức tấn_công của tin_tặc vào trang_web của Vietnam_Airlines và hệ_thống thông_tin sân_bay tại Nội_Bài và Tân_Sơn_Nhất có_thể khác_nhau .
+Trong khi đó , nhận_định về sự_cố vừa_qua , ông Ngô_Tuấn_Anh , Phó_chủ_tịch phụ_trách an_ninh mạng Bkav cho rằng , việc website bị tấn_công dạng deface và hệ_thống âm_thanh , màn_hình thông_báo tại nhà_ga bị chiếm quyền cho thấy tin_tặc đã xâm_nhập được sâu vào hệ_thống .
+Khả_năng lớn là máy quản_trị viên đã bị kiểm_soát , theo_dõi bởi phần_mềm gián_điệp spyware .
+Ông Nguyễn_Hải_Tùng , Trưởng_ban Công_nghệ_thông_tin của Vietnam_Airlines cho_hay , nhóm tin_tặc ra_tay ban_đầu tương_tự các đợt tấn_công bởi virus trước đó , nhưng lần này là tấn_công có chủ_đích .   Các
+đối_tác công_nghệ_thông_tin của Vietnam_Airlines đã phát_hiện dấu_hiệu nghi_ngờ tin_tặc xâm_nhập từ tối 28/7 và đưa ra cảnh_báo đợt virus này có khả_năng bùng_nổ trên diện rộng .
+Màn_hình hiển_thị thông_tin sân_bay ở Nội_Bài chiều 29/7 đã bị tắt sau khi bị tin_tặc tấn_công , chèn thông_tin xấu .
+Sau sự_cố trên , website của hãng hàng_không Việt_Nam đã trở_lại hoạt_động bình_thường .
+Còn tại sân_bay Nội_Bài và Tân_Sơn_Nhất , tới sáng ngày 30/7 , hệ_thống máy_tính để làm thủ_tục bay đã trở_lại hoạt_động .
+Tuy_nhiên , các bảng điện_tử thông_tin về chuyến bay , lịch_trình và hệ_thống loa phóng_thanh vẫn tắt .
+Cục Hàng không Việt_Nam cho_biết , cảng_vụ và các đơn_vị liên_quan đang phối_hợp với Cục An ninh kinh_tế tổng_hợp ( A85 ) và Cục An ninh mạng ( A68 ) - Bộ Công an để xử_lý .
+Tuy_nhiên , cơ_quan_chức_năng chưa đưa ra bất_cứ tuyên_bố nào về thủ_phạm và phương_thức vụ tấn_công vì " cần thời_gian xác_minh " .

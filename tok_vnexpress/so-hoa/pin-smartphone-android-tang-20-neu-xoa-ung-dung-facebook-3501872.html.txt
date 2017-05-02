@@ -1,0 +1,16 @@
+Pin smartphone Android tăng 20% nếu xóa ứng_dụng Facebook
+Trong một tuần thử_nghiệm gỡ ứng_dụng Facebook , chiếc Nexus 6P đã cho thời_lượng sử_dụng pin cao hơn 20% so với lúc cài_đặt ứng_dụng này .
+Ứng_dụng Facebook trên Android gây tốn pin .
+Cụ_thể , trang công_nghệ Tech_World_Zone đã tiến_hành thử_nghiệm khả_năng " ngốn " pin của ứng_dụng Facebook trên Nexus 6P .
+Đầu_tiên , họ sử_dụng chiếc điện_thoại có cài sẵn ứng_dụng Facebook trong vòng một tuần và ghi lại dữ_liệu , sau đó gỡ ứng_dụng và cũng sử_dụng một tuần với tần_suất tương_tự .
+Kết_quả cho thấy , Nexus 6P cho thời_lượng sử_dụng pin cao hơn 20% so với khi cài_đặt ứng_dụng di_động của Facebook .
+Bên_cạnh đó , hiệu_suất của thiết_bị cũng được cải_thiện hơn so với khi còn tồn_tại ứng_dụng này trên máy .
+Mặc_dù không đưa ra các con_số cụ_thể , nhưng trang công_nghệ này giải_thích rằng , việc chạy ngầm để đưa ra các thông_báo cũng_như giúp người dùng khởi_động nhanh hơn là nguyên_nhân khiến ứng_dụng Facebook gây tốn pin cho smartphone Android .
+Facebook đã lập_tức phản_ứng về báo_cáo này .
+Hãng cho_biết đã ghi_nhận " một số_ít " trường_hợp ứng_dụng Facebook cho Android gặp vấn_đề về tốc_độ và hứa sẽ tung bản cập_nhật sớm .
+Tuy_nhiên , đại_diện mạng xã_hội lại không đề_cập đến vấn_đề tuổi_thọ pin khi cài ứng_dụng .
+Theo Phonearena , trước_mắt , người dùng nên tạm_thời gỡ bỏ ứng_dụng Facebook để tăng thời_lượng sử_dụng pin cho smartphone Android .
+Thay vào đó , họ có_thể truy_cập mạng xã_hội này bằng trình_duyệt web .
+Cách đây gần 3 năm , nhiều người dùng i OS cho_biết các thiết_bị của họ thường_xuyên sụt pin nhanh do ứng_dụng Facebook .
+Năm_ngoái , hãng cũng thừa_nhận vấn_đề và đã tung ra bản cập_nhật mới hạn_chế điều này .
+Bảo_Lâm

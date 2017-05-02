@@ -1,0 +1,7 @@
+Bài_toán trong đề thi châu Á_Thái_Bình_Dương 2016
+Bài_toán sau đây được ra trong cuộc_thi AMOPS 2016 ( dành cho học_sinh lớp 6 ) diễn ra_vào ngày 9/4 vừa_qua .
+Mời bạn_đọc thử sức :
+Có 6 chữ A , P , M , O , P , S .
+Một cái máy_tính sắp_xếp các từ theo thứ_tự trong từ_điển : AMOPPS , AMOPSP , AMOSPP ... , SPPOMA
+Hỏi từ POAMSP ở vị_trí thứ bao_nhiêu ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

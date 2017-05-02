@@ -1,0 +1,22 @@
+Du_khách đổi tên để được du_lịch miễn_phí
+Lợi_dụng kẽ hở trong hệ_thống quản_lý dữ_liệu của các khách_sạn , một chàng_trai đã đổi họ của mình thành “ Null ” ( nghĩa_là “ giá_trị rỗng ” trong tin_học ) , nhờ đó anh có_thể ăn ngủ nghỉ miễn_phí tại nhiều nơi .
+Raven_Felix_Null , 24 tuổi , cho_biết anh đã đổi họ của mình khi đến tuổi trưởng_thành .
+Raven khẳng_định anh được ngủ miễn_phí 7 đêm tại 7 khách_sạn khác_nhau , chưa kể thuê ô_tô mà không tốn xu nào .
+Điều này xảy_ra do “ null ” là một từ không được nhập trong chương_trình máy_tính , vì_vậy hệ_thống quản_lý không thừa_nhận Raven là một khách_hàng .
+Trục_trặc sẽ xảy_ra khi nhân_viên lễ_tân nhập từ này vào ô họ tên , hệ_thống tự_động coi đây là một “ giá_trị rỗng ” .
+Từ đó , hệ_thống sẽ từ_chối xác_nhận yêu_cầu thanh_toán , đương_nhiên Raven không phải trả một đồng nào cho những dịch_vụ anh đã sử_dụng .
+Raven tiết_lộ rằng “ Null ” là một từ không được cài_đặt trong hệ_thống quản_lý thông_tin khách_hàng .
+Ảnh : SMS .
+Hiện_Raven là một quản_lý trong ngành IT .
+Anh chia_sẻ thủ_thuật của mình trên một trang_web xã_hội rằng : “ Tôi đã nhận được rất nhiều đồ miễn_phí bởi mã code bị lỗi khi phần họ không được phép bị bỏ trống .
+Do_đó , nhân_viên lễ_tân sẽ không_thể nhập họ và xuất hóa_đơn thanh_toán ” .
+Nếu có ai đó định kiện vì chuyện này thì anh hoàn_toàn có_thể kiện công_ty họ vì tội phân_biệt đối_xử .
+Khi ấy quản_lý sẽ chiều theo ý_muốn của anh và nhập thêm thông_tin khách_hàng sau .
+Những người_làm dịch_vụ rất ngại chuyện mang_tiếng xấu .
+Do_đó vấn_đề vẫn không được giải_quyết trong ngày_sau khi Raven trả phòng .
+Thực_tế Raven cũng không_bao_giờ kiện_cáo vì những chuyện như_vậy .
+Anh hiểu vấn_đề là gì nhưng lỗi kỹ_thuật này vẫn cần được sửa lại .
+Chàng_trai này cũng chia_sẻ rằng anh đổi họ không phải để ăn nghỉ miễn_phí mà chỉ đơn_giản muốn sống tách_biệt với mọi thứ .
+Họ mới của anh không có ý_nghĩa gì , tức_là anh không liên_quan gì đến gia_đình mình nữa .
+Xem thêm :   Chàng_trai thà thay tên còn hơn đổi vé máy_bay
+Phạm_Huyền

@@ -1,0 +1,11 @@
+Ứng_dụng bàn_phím hỗ_trợ cử_chỉ tốt nhất cho Android
+Với những_ai sử_dụng smartphone Android thích nhập liệu bằng cách vẽ lên ký_tự ( swipe ) thì SwiftKey , SwiftKey Neural , Swype ... là những ứng_dụng bàn_phím đáng lựa_chọn , bên_cạnh Google_Keyboard .
+Hầu_hết smartphone Android hiện_nay đều mới chỉ hỗ_trợ nhập liệu bằng cách thông_thường , tức_là người dùng phải sử_dụng ngón_tay và gõ lên các ký_tự .
+Tuy_nhiên , có_thể tải về ứng_dụng mới , cho_phép nhập bằng cách vẽ lên ký_tự .
+Dưới đây là những ứng_dụng đáng để tải về nhất :
+Google_Keyboard ( Bàn_phím Google )
+SwiftKey Keyboard
+SwiftKey Neural_Alpha
+Swype_Keyboard
+Chrooma_Keyboard
+Bảo_Lâm

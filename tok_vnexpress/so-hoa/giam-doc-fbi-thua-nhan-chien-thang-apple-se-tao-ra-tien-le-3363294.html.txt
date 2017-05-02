@@ -1,0 +1,30 @@
+Giám_đốc FBI thừa_nhận chiến_thắng Apple sẽ tạo ra tiền_lệ
+Trong phiên điều_trần Quốc_hội Mỹ , James_Comey , Giám_đốc FBI , thừa_nhận nếu chính_phủ thành_công trong việc buộc Apple mở khóa i Phone sẽ mở ra tiền_lệ cho các trường_hợp về sau .
+Ngày 1/3 , Apple và FBI điều_trần trước Quốc_hội với chủ_đề " Sự căng_thẳng của mã_hóa : Cân_bằng giữa an_ninh và quyền riêng_tư của người Mỹ " .
+Trước đó , Cục Điều tra liên_bang FBI đề_nghị Apple giúp họ truy_cập chiếc i Phone 5c của tên khủng_bố Syed_Farook trong vụ thảm_sát ở San_Bernardino cuối năm 2015 .
+Tuy_nhiên , Apple kiên_quyết từ_chối , nói rằng họ đã hỗ_trợ FBI hết_sức có_thể , nhưng phần_mềm để mở khóa i Phone lần này " đơn_giản không tồn_tại " .
+Apple phải tạo ra một phiên_bản hệ_điều_hành mới mới có_thể tiếp_cận kho dữ_liệu mã_hóa trong i Phone .
+James_Comey , Giám_đốc FBI , trong phiên điều_trần ngày 1/3 .
+Ảnh : AP .
+Giám_đốc FBI Comey hôm_qua cho_hay , chính họ đã làm mất cơ_hội tiếp_cận dữ_liệu bên trong điện_thoại của kẻ khủng_bố .
+" Sai_lầm xảy_ra trong vòng 24 giờ sau vụ tấn_công " ,   Comey nói .
+FBI muốn mở i Phone 5c của Farook nhưng công_nghệ mã_hóa của Apple sẽ xóa toàn_bộ dữ_liệu trong máy sau 10 lần nhập sai mã .
+Khi đó , FBI và quan_chức quận San_Bernadino đã tìm cách truy_cập vào tài_khoản i Cloud của Farook bằng cách reset mật_khẩu vài giờ sau khi chiếc điện_thoại được thu_hồi .   Apple sau đó đã chỉ_trích rằng nếu FBI không " hấp_tấp " cài_đặt lại mật_khẩu , họ đã có_thể lấy_được nội_dung sao lưu mà không cần tạo cổng hậu để phá mã_hóa của i Phone .
+Thực_tế , trước_đây Apple cũng từng được yêu_cầu hỗ_trợ unlock i Phone , iPad trong 12 vụ_án khác .
+Không còn cách nào , FBI đành phải thương_lượng với Apple viết một phần_mềm riêng " chỉ để mở i Phone 5c của Farook , ngay sau đó Apple có_thể giữ lại phần_mềm hoặc hủy nó theo ý_muốn " .
+Tuy_nhiên , trong phiên điều_trần , chính Comey cũng nói nếu chính_phủ chiến_thắng trong cuộc_chiến với Apple lần này , nó sẽ tạo ra tiền_lệ cho những lần tiếp_theo .
+Lần đầu trót_lọt thì sẽ có lần thứ_hai , thứ_ba . . khi các nhà thực_thi pháp_luật muốn tìm_kiếm sự hỗ_trợ trong việc mở khóa các thiết_bị trong tương_lai .
+Trong cuộc_chiến giữa FBI và Apple , không ít người_dân Mỹ nghĩ Apple đang " nước_mắt_cá_sấu " và tốt nhất nên giúp nhà_chức_trách .   Bruce
+Sewell , Phó_chủ_tịch phụ_trách pháp_lý của Apple , cho_biết quyết_định của họ không phải để " làm màu , marketing cho sản_phẩm " mà họ nhận thấy " bảo_vệ quyền riêng_tư của hàng trăm triệu người dùng i Phone là điều đúng_đắn " .
+" Một_số người_ở đây hẳn đang để i Phone trong túi .
+Hãy nghĩ xem , có_thể thông_tin các ngài lưu trong chiếc i Phone đó còn nhiều hơn những gì một tên trộm có_thể ăn_cắp được khi đột_nhập vào nhà của các ngài " ,   Sewell nhấn_mạnh .
+Ảnh : Forbes .
+Trước đó , Tim_Cook , CEO Apple , bày_tỏ lo_ngại : " Chính_phủ nói công_cụ bẻ_khóa chỉ được sử_dụng một lần trên một chiếc điện_thoại .
+Nhưng một_khi được tạo ra , kỹ_thuật đó có_thể áp_dụng nhiều lần trên bất_cứ thiết_bị nào .
+Vụ_việc này không_chỉ đơn_thuần là về một chiếc điện_thoại hay một cuộc điều_tra .
+Khi nhận phán_quyết của tòa_án , ta cần phải lên_tiếng .
+Phán_quyết đó đã tạo ra một tiền_lệ nguy_hiểm chưa từng có , đe_dọa nghiêm_trọng bảo_mật thông_tin của hàng trăm triệu khách_hàng " .
+" Cả thế_giới đang theo_dõi những gì đang diễn ra ở đây " ,   Sewell cảnh_báo trong phiên điều_trần .
+Một_số hãng công_nghệ như Facebook , Microsoft , Google , Twitter , Amazon ... đang chuẩn_bị hồ_sơ ủng_hộ Apple để gửi lên tòa_án .
+Phiên_tòa giữa Apple và FBI sẽ diễn ra_vào ngày 22/3 tại tòa_án liên_bang Riverside .
+Châu_An

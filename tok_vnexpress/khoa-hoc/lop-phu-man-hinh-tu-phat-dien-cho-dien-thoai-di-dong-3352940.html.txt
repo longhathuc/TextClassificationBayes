@@ -1,0 +1,18 @@
+Lớp phủ màn_hình tự_phát điện cho điện_thoại_di_động
+Các nhà_khoa_học Trung_Quốc đang phát_triển một loại vật_liệu trong_suốt , có_thể dùng để phủ lên trên bề_mặt các màn_hình cảm_ứng .
+Loại vật_liệu này sẽ phát ra điện mỗi khi có người chạm vào màn_hình .
+Theo Live_Science , các nhà_khoa_học tại Đại_học Lan_Châu , Trung_Quốc cho rằng năng_lượng cơ_học từ những thao_tác trên màn_hình cảm_ứng của các thiết_bị điện_tử có_thể được chuyển_đổi thành điện để sạc pin cho điện_thoại , giúp kéo_dài đáng_kể thời_gian làm_việc của các thiết_bị cầm tay .
+Họ đã phát_triển một loại vật_liệu mới , dựa trên một loại cao_su silicone trong_suốt được gọi_là PDMS .
+Các sợi dây_dẫn làm từ vật_liệu chì zirconate titanate có bề rộng chỉ khoảng 700 nanomet , mỏng hơn bề rộng sợi tóc người khoảng 140 lần , được nhúng vào trong cao_su .
+Khi cao_su rắn lại , các nhà_nghiên_cứu sử_dụng điện_trường để sắp_xếp các dây_dẫn nano trong cao_su thẳng hàng theo các cột .
+Quá_trình sắp_xếp này sẽ thiết_lập các tính_chất điện và thị_giác cho lớp phủ .
+Mỗi khi có tác_động cơ_học vào cao_su , như thao_tác chạm vào màn_hình , làm các dây_dẫn này bị cong , dòng_điện sẽ được phát ra do hiện_tượng áp_điện .
+Do các dây_dẫn nano được sắp_xếp thẳng hàng , chúng sẽ phản_ứng với nhiều thao_tác chạm cùng một lúc , tạo ra nhiều năng_lượng nhất có_thể .
+Do các sợi dây có kích_thước rất nhỏ , toàn_bộ tấm phủ sẽ gần_như trong_suốt .
+Như_vậy , các dây nano " có_thể khai_thác năng_lượng trên một màn_hình mà không ảnh_hưởng đến hoạt_động bình_thường của nó , " tác_giả nghiên_cứu Yong_Qin cho_biết .
+Ngoài_ra , khi màn_hình đã được phủ , nếu nhìn từ một góc khác với góc nhìn người chủ thiết_bị ( nhìn thẳng màn_hình ) , các dây nano sẽ làm nhiễu xạ ánh_sáng , không_thể thấy rõ , bảo_vệ sự riêng_tư của chủ thiết_bị .
+Trong các thí_nghiệm hiện_tại , chạm vào lớp phủ sẽ sinh_ra một dòng_điện 0,8 nanoampe , khoảng một phần triệu của dòng_điện được sử_dụng trong máy trợ_thính .
+Các nhà_khoa_học cũng cho_biết , các nghiên_cứu tiếp_theo sẽ giúp phát ra dòng_điện lớn hơn , tăng hiệu_quả sạc pin cho các thiết_bị di_động .
+Tín_hiệu điện_từ các dây_dẫn nano cũng giúp phát_triển các màn_hình cảm_ứng với độ nhạy cao hơn , theo Qin .
+Nghiên_cứu đã được đăng_tải chi_tiết trực_tuyến trên tạp_chí Small hôm 13/1 .
+Nguyễn_Thành_Minh

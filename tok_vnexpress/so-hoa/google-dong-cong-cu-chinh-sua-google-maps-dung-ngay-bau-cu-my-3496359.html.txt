@@ -1,0 +1,16 @@
+Google đóng công_cụ chỉnh_sửa Google_Maps đúng ngày bầu_cử Mỹ
+Map_Maker , công_cụ cho_phép người dùng chỉnh_sửa thông_tin và đề_xuất những thay_đổi trong Google_Maps , sẽ đóng_cửa vào tháng 3/2017 .
+Bắt_đầu_từ hôm_nay ( 9/11 ) , các thông_tin chỉnh_sửa được gửi tới Google_Maps từ Map_Maker sẽ không được kiểm_duyệt .   Thay
+vào đó , dữ_liệu và những đóng_góp của người dùng sẽ được chuyển sang chương_trình mới mang tên Local_Guides .
+Đây được xem là phiên_bản hiện_đại_hóa của Map_Maker .
+Khi công_cụ mới ra_mắt vào tháng 3 năm tới , những người cung_cấp thông_tin và tham_gia kiểm_duyệt dữ_liệu sẽ nhận được các phần_thưởng dựa trên đóng_góp của họ , như được cấp quyền truy_cập vào các tính_năng thử_nghiệm hay tặng quà là dung_lượng lưu_trữ trên Google_Drive .
+Thông_báo của Google được đưa ra đúng thời_điểm diễn ra sự_kiện bầu_cử tổng_thống Mỹ , trong bối_cảnh nhiều chuyên_gia lo_ngại tin_tặc có_thể tấn_công làm tê_liệt hoặc sai_lệch dịch_vụ cung_cấp bản_đồ trực_tuyến khiến cử_tri không_thể tới các điểm bỏ_phiếu .
+Map_Maker là công_cụ giúp   hoàn_thiện Google_Maps dựa trên thông_tin đóng_góp   từ cộng_đồng .
+Map_Maker ra_đời từ năm 2008 và là một công_cụ trực_tuyến cho_phép tất_cả mọi người trên thế_giới đóng_góp dữ_liệu bổ_sung cho Google_Maps .
+Qua thời_gian , cộng_đồng các biên_tập_viên và điều_hành viên , những người được giao nhiệm_vụ giám_sát và phê_duyệt thay_đổi dữ_liệu công_cộng trên Google_Maps phát_triển lên tới con_số hàng triệu .
+Bản_đồ của Google đã dần hoàn_thiện khi được thêm rất nhiều địa_điểm mới cùng những mô_tả vị_trí chi_tiết hơn .
+Tuy_nhiên Map_Maker cũng từng khiến Google gặp nhiều rắc_rối .
+Năm 2015 , một người dùng đã dùng công_cụ này để vẽ thêm hình_ảnh nhân_vật biểu_trưng của hệ_điều_hành Android " tè " lên logo của Apple .
+Google đã phải đóng_cửa Map_Maker tạm_thời sau sự_việc này .
+Bên_cạnh đó , nó cũng thường_xuyên phải hứng_chịu các cuộc tấn_công bằng thư rác và những chỉnh_sửa mang tính khiêu_dâm của người dùng .
+Google_Maps bị hack thông_qua Map_Maker năm 2015 .

@@ -1,0 +1,14 @@
+Cách đơn_giản nhất để kiểm_tra pin còn điện
+Bằng cách thả rơi pin từ trên cao , chúng_ta có_thể tìm ra cục pin còn điện bởi pin càng chứa ít điện , nó sẽ nảy lên càng cao hơn .
+Theo Business_Insider , đôi_khi bạn muốn tìm một cục pin còn hoạt_động tốt trong ngăn_kéo chứa đầy pin mới và pin sắp hết điện , nhưng không có volt_kế .
+Đối_với một cục pin 9 volt , bạn có_thể chạm hai cực của pin vào lưỡi .
+Nếu bạn cảm_thấy lưỡi hơi tê và đau , cục pin vẫn còn sử_dụng tốt .
+Nhưng phương_pháp trên không dùng được với nhiều loại pin khác có hai cực cách xa nhau .
+Đối_với các loại pin có hai cực xa nhau , cách đơn_giản nhất_là thả rơi chúng từ trên cao .
+Những cục pin kiềm ( alkaline battery ) còn mới sẽ không nảy lên .
+Cục pin nào còn càng ít điện , nó sẽ nảy lên càng cao hơn .
+Cách làm này rất hiệu_quả với pin AAA , AA , C , D và 9V .
+Theo các nhà_khoa_học , ở bên trong cục pin , kim_loại kẽm chuyển_đổi thành oxit kẽm khi tạo ra điện .
+Lúc pin còn mới , kim_loại kẽm được bọc lại chặt_chẽ vì_vậy pin không nảy lên .
+Nhưng oxit kẽm tạo thành cấu_trúc hoạt_động giống như lò_xo , khiến cục pin nảy lên .
+Lê_Hùng

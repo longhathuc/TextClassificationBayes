@@ -1,0 +1,59 @@
+Những câu_hỏi phỏng_vấn tuyển_dụng kỳ_quặc của Apple
+" Bạn sẽ hack vào hệ_thống của chúng_tôi bằng cách nào ? " là một trong những câu_hỏi phỏng_vấn xin việc của Apple khiến ngay cả ứng_viên tiềm_năng nhất cũng " vò_đầu_bứt_tai " .
+Apple được biết đến với môi_trường làm_việc thú_vị và sôi_nổi .
+Tuy_nhiên , giống hầu_hết " người khổng_lồ " công_nghệ , trụ_sở Apple ở   Cupertino ( California , Mỹ ) thử_thách nhân_viên tiềm_năng với các câu_hỏi hóc_búa trong quá_trình phỏng_vấn .
+Năm_ngoái , Apple công_bố có 66.000 nhân_viên làm_việc cho họ tại Mỹ .
+Giám_đốc điều_hành Tim_Cooke chia_sẻ với CBS trong một cuộc phỏng_vấn năm 2015 ,   Apple chỉ thuê " người làm_việc với niềm đam_mê và chủ_nghĩa lý_tưởng " .
+Ứng_viên Apple đã chia_sẻ vài câu_hỏi trên website tìm việc Glassdoor , tiết_lộ mức_độ khó_khăn trong việc giành một vị_trí ở tập_đoàn công_nghệ hàng_đầu thế_giới , theo 9ja Reports ngày 16/12 .
+1 . Viết một đoạn mã cho_phép phát_hiện máy bạn đang chạy chương_trình với little   Endian hay big Endian .
+( Hai thuật_ngữ này chỉ sự khác_nhau về cách đọc và ghi dữ_liệu giữa các nền_tảng máy_tính ) .
+2 . Món ăn yêu_thích của bạn là gì ?
+3 . Debug ( xác_định và loại_bỏ lỗi ) tại_sao đoạn code dưới đây đi vào vòng lặp vô_hạn :   int a [ 10 ] ; int i ; for ( i = 0 ; i { a [ i ] = 0 ; }
+4 . Một khối băng lập_phương ( 1-1-1m ) được đặt trên bàn gỗ trong căn phòng .
+Các mặt khối băng cách tường 1m , trừ một_mặt cách tường 30cm .
+Bạn có 2 tấm cách_nhiệt ( 1m x 1m ) để phủ lên khối băng , mục_đích là giữ cho băng ở thể rắn càng lâu càng tốt .
+Bạn sẽ đặt các tấm cách_nhiệt này ở đâu ?
+5 .
+Bạn thích sản_phẩm nào của Apple ?
+Tại_sao ?
+6 . Bạn sở_hữu bao_nhiêu sản_phẩm của Apple ?
+7 .
+Nếu phải làm cho chiếc i Phone lơ_lửng giữa không_trung , bạn làm như_thế_nào ?
+8 .
+Nếu bạn có một khối lập_phương Rubik trắng , bao_nhiêu mặt và bao_nhiêu góc của nó có màu trắng ?
+9 .
+Có một khách_hàng muốn mua Mac ở Best_Buy .
+Bạn sẽ thuyết_phục anh_ta mua hàng ở Apple như_thế_nào ?
+10 . Công_nghệ giúp_ích cho đời_sống hàng ngày của bạn như_thế_nào ?
+11 . Nếu có_thể mang theo công_nghệ đến một nơi hẻo_lánh , bạn sẽ mang thứ gì ?
+12 . Bạn có tin_tưởng Apple hay không ?
+13 .
+Trong vòng một tiếng , hãy viết thuật_toán   C+ + đơn_giản liên_quan đến tiêu_chuẩn đầu_ra và đầu_vào .
+Đưa ra các trường_hợp thử_nghiệm .
+14 .
+Làm_việc ở Apple có ý_nghĩa với bạn như_thế_nào ?
+15 .
+Nếu được thay_đổi điều gì đó ở Apple , bạn chọn điều gì ?
+16 .
+Tôi đang tận_hưởng tuần_trăng_mật ở Hawaii , tôi để i Phone trong túi thể_thao .
+Khi tôi đang bơi , chai nước trong túi bị đổ tràn ra khắp túi , tôi phải làm_gì ?
+Tất_cả ảnh cưới ở trong điện_thoại !
+Tôi sẽ mất tất_cả hình_ảnh của mình ư ?
+17 .
+Bán cho tôi cái bút này .
+18 . Bạn sẽ hack vào hệ_thống của chúng_tôi bằng cách nào ?
+19 . Thiết_kế và phác_thảo một cỗ máy có_thể uốn cong một đồng xu làm đôi .
+Phân_tích thiết_kế của bạn .
+20 . Phương_châm của bạn là gì ?
+21 .
+Nêu 5 cách bảo_vệ tuổi_thọ pin cho i Phone .
+22 .
+Giải_thích cho một đứa trẻ 8 tuổi khái_niệm và chức_năng của   modem/router .
+23 .
+Gần đây Apple hợp_tác với công_ty nào ?
+24 .
+Nếu bạn là một sản_phẩm của Apple , bạn muốn là thứ gì ?
+25 .
+Bài hát yêu_thích của bạn trong i Pod là gì ?
+Phiêu_Linh
+> > 5   câu_hỏi phỏng_vấn xin việc hóc_búa của Google

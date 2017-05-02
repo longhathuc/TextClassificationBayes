@@ -1,0 +1,2 @@
+Đường 3 làn , ôtô nên đi làn nào ?
+Xin hỏi trong nội_thành TP_HCM , nếu đường có 3 làn ( 2 làn ôtô ) thì xe_con 5 chỗ được chạy vào làn_đường nào .

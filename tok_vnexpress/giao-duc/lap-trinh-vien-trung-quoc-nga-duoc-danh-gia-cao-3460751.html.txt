@@ -1,0 +1,20 @@
+Lập_trình_viên Trung_Quốc , Nga được đánh_giá cao
+Mỹ và Ấn Độ chiếm ưu_thế về số_lượng nhà_lập_trình nhưng Trung_Quốc và Nga mới là những quốc_gia sở_hữu những lập_trình_viên tài_năng nhất .
+Đây là kết_quả từ nghiên_cứu của HackerRank qua xem_xét kết_quả 1,4 triệu bài dự thi kỹ_năng lập_trình do các thí_sinh trên toàn thế_giới gửi đến trong vài năm qua .
+Theo đó , nổi_trội nhất về mặt tài_năng là các nhà_phát_triển của Trung_Quốc và Nga .
+Lập_trình_viên Trung_Quốc vượt điểm tất_cả các nước khác về toán_học , lập_trình chức_năng và cấu_trúc dữ_liệu .
+Trong khi đó Nga chiếm ưu_thế về thuật_toán .
+Bà Ritika_Trikha - một blogger tại HackerRank cho_biết Mỹ và Ấn Độ dẫn_đầu về lượng dự thi nhưng về xếp_hạng trình_độ chỉ đứng vị_trí lần_lượt 28 và 31 .
+" Nếu chúng_tôi tổ_chức một Thế_vận_hội lập_trình thì huy_chương vàng sẽ nằm chắc trong tay Trung_Quốc , Nga ẵm huy_chương bạc và Ba_Lan đoạt huy_chương đồng .
+Mỹ và Ấn Độ còn nhiều việc phải làm nếu muốn lọt vào top 25 " , bà Ritika_Trikha chia_sẻ .
+Những thách_thức mã_hóa mà HackerRank đưa ra trong các bài thi khai_thác nhiều khía_cạnh của máy_tính , từ ngôn_ngữ đến các thuật_toán , an_ninh và hệ_thống điều_khiển phân_tán .
+Các lập_trình_viên được tính điểm dựa trên sự kết_hợp độ_chính_xác và tốc_độ .
+Các thể_loại thuật_toán thu_hút khoảng 40% thí_sinh tham_gia , tập_trung vào kiểm_thử phân_loại dữ_liệu , quy_hoạch động , tìm_kiếm từ_khóa ... 10% tranh tài ở nội_dung Java và cấu_trúc dữ_liệu .
+Còn chuyên_ngành hệ_thống điều_khiển phân_tán và an_ninh có ít người dự thi nhất .
+HackerRank thiết_lập điểm_số trung_bình trong từng lĩnh_vực để đánh_giá thí_sinh mỗi nước .
+Trong 50 quốc_gia vào bảng xếp_hạng , sau Trung_Quốc và Nga là lập_trình_viên đến từ các nước Ba_Lan , Thụy_Sĩ , Hungary , Nhật_Bản , Đài_Loan , Pháp , Cộng_hòa Séc và Italy .
+" Trung_Quốc có số điểm tuyệt_đối 100 , Nga ghi 99,9 điểm , Ba_Lan và Thụy_Sĩ cùng đạt 98 điểm .
+Đứng thứ 50 là Pakistan với điểm_số 57,4 " , bà Ritika_Trikha nói .
+Nếu tính từng lĩnh_vực , Ba_Lan dẫn_đầu về ngôn_ngữ Java , Pháp có thế mạnh về C+ + , Hong_Kong ưu_thế trong Python , Nhật_Bản chiếm_lĩnh trí thông_minh nhân_tạo và Thụy_Sĩ đứng đầu về cơ_sở_dữ_liệu .
+Lập_trình_viên người Ukraine có điểm_cao nhất về bảo_mật còn mảng mã_hóa Ruby do lập_trình_viên Phần_Lan nắm giữ .
+Minh_Trí

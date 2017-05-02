@@ -1,0 +1,3 @@
+Bài_toán vận_dụng hai phép_tính cộng và trừ
+Bằng cách vận_dụng linh_hoạt hai phép_tính cộng và trừ , hãy thử xem bạn có_thể tìm ra bao_nhiêu cách giải_quyết cho bài_toán mà Henry E .
+Dudeney và Martin_Gardner đưa ra .

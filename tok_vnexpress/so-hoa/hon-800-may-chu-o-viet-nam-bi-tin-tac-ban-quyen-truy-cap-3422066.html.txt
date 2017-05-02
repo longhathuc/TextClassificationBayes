@@ -1,0 +1,10 @@
+Hơn 800 máy_chủ ở Việt_Nam bị tin_tặc bán quyền truy_cập
+Hãng bảo_mật Kaspersky phát_hiện một diễn_đàn nơi tội_phạm mạng có_thể mua_bán những máy_chủ đã bị khống_chế với giá chỉ 6 USD .
+Chợ_đen   xDedic , do một nhóm nói tiếng Nga điều_hành , đang liệt_kê và rao bán 70.624 máy_chủ RDP ( Remote_Desktop_Protocol ) đã bị hack .
+Rất nhiều trong số đó cung_cấp quyền truy_cập tới các website và dịch_vụ phổ_biến , các trang thương_mại_điện_tử , kế_toán tài_chính ...
+Trong số này có 841 máy_chủ tại Việt_Nam .   10 nước bị ảnh_hưởng nhiều nhất_là Brazil , Trung_Quốc , Nga , Ấn Độ , Tây_Ban_Nha , Italy , Pháp , Australia , Nam_Phi và Malaysia .
+Ảnh minh_họa : SI .
+Những máy_chủ bị khống_chế có_thể bị lợi_dụng để nhắm vào hạ_tầng của chủ_sở_hữu server hay thực_hiện các cuộc tấn_công rộng hơn .
+Trong khi đó , chủ_sở_hữu server , là các cơ_quan chính_phủ , doanh_nghiệp , trường đại_học ... hoàn_toàn không biết chuyện gì đang xảy_ra .
+xDedic ,   bắt_đầu hoạt_động từ năm 2014 và trở_nên phổ_biến vào giữa năm 2015 ,   là bằng_chứng về loại_hình chợ_đen mới của tội_phạm : được tổ_chức chuyên_nghiệp , phục_vụ tội_phạm mạng ở mọi trình_độ , bán công_cụ giá rẻ , dễ truy_cập .
+Với giá chỉ 6 USD mỗi máy_chủ , thành_viên của   xDedic đã có_thể tiếp_cận dữ_liệu bên trong và sử_dụng nó như một nền_tảng để thực_hiện các cuộc tấn_công mã độc trong tương_lai .

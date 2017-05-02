@@ -1,0 +1,33 @@
+6 điều mong_đợi tại WWDC 2016 đêm nay
+Phiên_bản mới của i OS , Apple_Music , Mac OS_X… với nhiều cải_tiến sẽ là những điều được chờ_đợi nhất tại Hội_nghị các nhà_phát_triển toàn_cầu ( WWDC 2016 ) của Apple từ đêm nay đến 17/6 .
+Apple vẫn   sẽ tập_trung vào phần_mềm tại WWDC 2016 .
+WWDC là một trong những sự_kiện lớn nhất trong năm của Apple , không kém so với việc ra_mắt i Phone hay i Pad .
+Cũng_như mọi năm , hãng công_nghệ có trụ_sở tại Cupertino ( Mỹ ) sẽ dành khoảng 2 giờ cho bài phát_biểu khai_mạc , trong đó giới_thiệu những tính_năng mới cho các nhà_phát_triển ứng_dụng trên nền_tảng của mình .
+Năm nay , Apple có_thể chỉ tập_trung vào phần_mềm , và dưới đây là 6 điều được mong_đợi sẽ công_bố nhất :
+iOS 10
+Năm 2013 , iOS 7 đã “ lột_xác ” để có giao_diện phẳng hơn , nhưng kể từ đó , Apple tiếp_tục làm_việc để tối_ưu bên trong thay_vì tiếp_tục thay_đổi vẻ bề_ngoài .
+Ở trên i OS 10 , khả_năng sẽ không có nhiều đột_phá về giao_diện , ngoại_trừ việc một_số biểu_tượng ứng_dụng được thiết_kế lại mang tính thẩm_mỹ hơn .
+Thay vào đó , hệ_điều_hành của i Phone , iPad sẽ cung_cấp khả_năng cho_phép người dùng xóa_bỏ các ứng_dụng cài sẵn không cần_thiết , ví_dụ chứng_khoán , Apple_Pay - vốn không phù_hợp với nhiều đối_tượng sử_dụng .
+Bên_cạnh đó , Apple sẽ bổ_sung khả_năng tương_thích với HomeKit để quản_lý nhà thông_minh , tương_tác sâu hơn với Mac OS X , tăng_cường khả_năng đa_nhiệm , AD Touch tốt hơn , Apple_Photos thêm tính_năng chỉnh_sửa hình_ảnh mới …
+Apple_Music
+Tại sự_kiện , chắc_chắn Apple sẽ đề_cập đến bao_nhiêu bài hát đã được nghe , người dùng đã trả bao_nhiêu tiền cho dịch_vụ của hãng , các nghệ_sĩ đã nhận bao_nhiêu tiền trong 12 tháng qua … Nhưng quan_trọng hơn , hãng sẽ công_bố các tính_năng mới , gồm giao_diện trực_quan đơn_giản hơn , nhiều nội_dung trực_tuyến hơn , mở_rộng dịch_vụ radio ( theo Bloomberg ) và đáng tin_cậy hơn ( theo 9to5mac ) .
+Cũng theo các nguồn tin , giao_diện Apple_Music mới sẽ chỉ còn 2 màu chủ_đạo là đen và trắng .
+Về tính_năng , Apple sẽ thiết_kế lại For_You nhằm giúp quản_lý và cá_nhân hóa nội_dung tốt hơn , hay tab Browse sẽ thay_thế tab New , lời bài hát được thêm vào có_thể đồng_bộ ngay với giai_điệu bản_nhạc … Ngoài_ra , tính_năng Connect ( cho_phép người hâm_mộ kết_nối với các nghệ_sĩ yêu_thích , chia_sẻ bài nhạc đang nghe lên mạng xã_hội ) sẽ bị gỡ bỏ do không được đánh_giá cao .
+Mac OS X
+Phiên_bản tiếp_theo của hệ_điều_hành máy_tính Mac OS_X có_thể có tên mới là MacOS .
+Cách viết này được IBTimes giải_thích là “ nhằm đồng_bộ với phong_cách đặt tên của Apple , như i OS , watchOS , tvOS ” .
+Ngoài thay_đổi tên gọi , nền_tảng này sẽ tích_hợp nhiều tính_năng mới , như đưa vào trợ_lý ảo Siri , làm mới ứng_dụng Photos , tinh_chỉnh Finder …
+Trợ_lý ảo Siri
+Cùng_với việc xuất_hiện trên máy_tính , trợ_lý giọng nói của Apple được kỳ_vọng sẽ tăng số_lượng người dùng .
+So với i Phone , iPad , Siri trên Mac sẽ được sử_dụng nhiều hơn do sự thuận_tiện và đặc_biệt là không bị giới_hạn bởi thời_gian sử_dụng pin .
+Trước_đây , trợ_lý ảo của Apple bị người dùng phàn_nàn vì " ngốn " pin và đa_phần họ vô_hiệu_hóa tính_năng này .
+Ngoài_ra , tại WWDC 2016 , Apple có_thể cho_phép các nhà_phát_triển bên thứ_ba tác_động .
+Như_vậy , trợ_lý ảo mới sẽ được bổ_sung thêm nhiều tính_năng mới mà trước_đây chưa có .
+watchOS
+Apple nhiều khả_năng sẽ không công_bố Watch thế_hệ tiếp_theo trong sự_kiện , nhưng phiên_bản hiện_tại sẽ nhận cập_nhật mới .
+Mặc_dù chưa có thông_tin nào chính_thức về tính_năng mới , nhưng nền_tảng này sẽ được tinh_chỉnh giao_diện , trong đó sẽ thiết_kế lại hình_ảnh nhỏ hơn .
+Ngoài_ra , Apple có_thể cho_phép nhà_phát_triển tạo ra các mặt đồng_hồ mới , thay_vì những mẫu có sẵn bị đánh_giá là " buồn_tẻ " như hiện_tại .
+iMessages cho Android
+Theo Mac DailyNews , ứng_dụng nhắn_tin vốn chỉ độc_quyền trên i Phone , iPad và Mac có_thể sẽ được chia_sẻ cho người dùng Android và được giới_thiệu ngay tại WWDC 2016 .
+Nếu thông_tin là thật , đây được xem là quyết_định khá bất_ngờ của Apple , nhưng sẽ khiến các " tín_đồ " Android phấn_khích bởi i Messages đã quá nổi_tiếng với rất nhiều tính_năng hay so với các sản_phẩm tương_tự khác đang có_mặt trên thị_trường .
+Bảo_Lâm

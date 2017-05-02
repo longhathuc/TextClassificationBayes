@@ -1,0 +1,34 @@
+Những cải_tiến về pin trên bộ đôi Galaxy S7
+Dung_lượng pin và những công_nghệ đi kèm là thay_đổi lớn ở Samsung_Galaxy S7 , S7 edge so với thế_hệ tiền_nhiệm cũng_như smartphone Android khác trên thị_trường .
+Dung_lượng pin nhiều hơn
+Galaxy S7 và Galaxy S7 edge có dung_lượng pin lần_lượt 3.000 và 3.600 mAh , cao hơn nhiều các mẫu Galaxy S thế_hệ trước .
+So với Galaxy S6 và S6 edge , dung_lượng pin ở bộ đôi Galaxy S7 cao hơn từ 17% cho tới 40% .
+Thiết_kế và kích_thước của Galaxy S7 không nhiều khác_biệt so với S6 nhưng dung_lượng pin tăng thêm nhiều .
+Dù dung_lượng pin tăng thêm đáng_kể , thiết_kế của Galaxy S7 và Galaxy S7 edge không bị ảnh_hưởng nhiều .
+Cả hai vẫn mang thiết_kế mỏng ( 7,7 - 7,9 mm ) với khung viền kim_loại và mặt lưng kính cường_lực .
+Năm nay , smartphone cao_cấp của Samsung còn sở_hữu khả_năng chống nước và chống bụi với tiêu_chuẩn IP68 .
+Sạc nhanh có dây và không dây
+Nếu_như năm_ngoái , Galaxy S6 và S6 edge được tích_hợp công_nghệ sạc không dây thì trên bộ đôi Galaxy S7 năm nay , Samsung đã nâng_cấp thêm khả_năng sạc nhanh bằng phương_thức không dây .
+Galaxy S7 và S7 edge có khả_năng sạc không dây với đế   sạc mới chuẩn Qi có dòng_điện 15 watt .
+Trong khi đó với bộ sạc đi kèm máy , Galaxy S7 và S7 edge tiếp_tục là những smartphone có thời_gian sạc đầy pin nhanh_nhất trên thị_trường hiện_nay .
+Theo thử_nghiệm của Phone_Arena , S7 và S7 edge chỉ mất lần_lượt 88 và 99 phút , nhanh hơn gần gấp đôi các đối_thủ như i Phone 6s ( 150 phút ) và Xperia Z5 ( 156 phút ) .
+Tính_năng màn_hình luôn hiển_thị Always-on Display
+Tính_năng trên Galaxy S7 và S7 edge mà những mẫu S và Note đời trước không có là Always-on Display .
+Nhờ thay_đổi ở phần_cứng , màn_hình cho_phép hiển_thị một số_lượng điểm_ảnh nhất_định bật liên_tục .
+Vì_thế , màn_hình của Galaxy S7 có_thể mở liên_tục để hiển_thị đồng_hồ , thông_báo , lịch hay thông_tin , hình_ảnh tuỳ chọn .
+Màn_hình của Galaxy S7 có_thể hoạt_động liên_tục không cần tắt mà vẫn không ngốn pin .
+Nhờ tối_ưu ở phần_cứng thay_vì phần_mềm , tính_năng Alway-on Dislay chỉ tiêu_thụ thêm khoảng 1% dung_lượng pin so với thông_thường .
+Tuy_nhiên , với người_thương xuyên phải xem các thông_báo trên màn_hình điện_thoại , tính_năng này lại tiết_kiệm năng_lượng rất nhiều khi_không phải lúc_nào cũng phải mở sáng toàn_bộ màn_hình .
+Android 6.0 MarshMallow
+Với việc chạy sẵn phiên_bản Android mới nhất , 6.0 MarshMallow , thay cho Lollipop , smartphone của Samsung có thêm tính_năng mới từ Google là Doze_Mode .
+Bổ_sung này giúp cho điện_thoại có thời_gian chờ dài hơn và tiết_kiệm pin .
+Bộ đôi của Samsung đều được cài_đặt sẵn Android 6.0 MarshMallow .
+Nhờ các cảm_biến có sẵn , Doze tự_động phát_hiện khi nào điện_thoại không còn được sử_dụng trong một thời_gian dài và đưa máy vào chế_độ " ngủ " tạm_thời .
+Trong quá_trình ngủ , điện_thoại giới_hạn khả_năng hoạt_động của vi_xử_lý , các kết_nối mạng ... nhằm giảm tối_đa điện_năng tiêu_thụ .
+Khi người dùng sử_dụng lại điện_thoại , chế_độ ngủ lập_tức tắt và toàn_bộ hoạt_động trở_lại bình_thường .
+Theo Google , Doze_Mode có_thể kéo thời_gian chờ ( standby ) của smartphone lâu gấp đôi .
+Ứng_dụng dành riêng để chơi Game - Game_Launcher
+Đây là một ứng_dụng hoàn_toàn mới trên smartphone của Samsung .
+Ngoài việc quản_lý các trò_chơi được cài_đặt vào máy , thêm tính_năng chia_sẻ với bạn_bè , thiết_lập ở Game_Launcher còn cho_phép đặt lại cấu_hình của Galaxy S7 để tối_ưu chất_lượng đồ_hoạ và tiết_kiệm pin .
+Với những trò_chơi không đòi_hỏi cao về cấu_hình , máy có_thể giảm khả_năng xử_lý của CPU và GPU nhằm giảm điện_năng tiêu_thụ , kéo_dài thời_gian hoạt_động liên_tục .
+Tuấn_Anh

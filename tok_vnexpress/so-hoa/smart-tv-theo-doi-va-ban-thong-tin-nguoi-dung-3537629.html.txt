@@ -1,0 +1,17 @@
+Smart TV theo_dõi và bán thông_tin người dùng
+Hàng triệu chiếc TV tại Mỹ được phát_hiện bí_mật thu_thập dữ_liệu khách_hàng , bán thông_tin nhân_khẩu_học và thói_quen xem cho đối_tác .
+Theo Washington_Post , Ủy_ban Thương_mại Liên_bang Mỹ ( FTC ) đã kết_luận đầu tháng này rằng nhà_sản_xuất Vizio đã sử_dụng 11 triệu chiếc TV để theo_dõi khách_hàng của mình .
+Công_ty buộc phải trả 2,2 triệu USD để giải_quyết hậu_quả khi cơ_quan_chức_năng tố_cáo hãng bí_mật thu_thập , bán dữ_liệu người dùng .
+Người dùng đang xem TV và chính TV cũng có_thể   theo_dõi người dùng .
+Với sự bùng_nổ của các thiết_bị thông_minh , người dùng đứng trước các mối lo rằng những sản_phẩm này có_thể lấy thông_tin và gửi về nhà_sản_xuất .
+FTC cho_biết trường_hợp của Vizio là một ví_dụ về phương_thức mà một nhà_sản_xuất TV hay những thiết_bị thông_minh khác lấy_được dữ_liệu người dùng .
+" Trước khi một công_ty có ý_định thăm_dò khách_hàng và có_thể chia_sẻ những thông_tin này cho các đối_tác , họ nên yêu_cầu sự chấp_thuận từ bạn " ,   Kevin_Moriarty_Luật sư tại FTC cho_biết .
+" Tuy_nhiên , Vizio đã không làm điều đó và buộc cơ_quan_chức_năng phải vào_cuộc " .
+Về phía mình , nhà_sản_xuất không thừa_nhận nhưng cũng không phủ_nhận việc_làm sai_trái .
+Vizio cho rằng họ không_bao_giờ lấy thông_tin xác_định danh_tính , nhưng sử_dụng dữ_liệu để đo_lường khán_giả hoặc hành_vi .
+Nhưng với phán_quyết của FTC , Vizio sẽ phải xóa tất_cả thông_tin đã thu_thập trước đó , đồng_thời phải đưa ra cảnh_báo nổi_bật để người dùng biết khi xin lấy thông_tin .
+Vizio là công_ty sản_xuất TV và các thiết_bị âm_thanh nổi_tiếng tại Mỹ .
+Trung_bình cứ 5 chiếc TV bán ở đây thì_có một là của Vizio .
+Tuy_nhiên , LeEco , một công_ty điện_tử của Trung_Quốc , đã mua lại thương_hiệu trên vào năm 2016 với tham_vọng mở_rộng ngành_hàng , tạo ra dịch_vụ cạnh_tranh với Netflix .
+Năm 2015 , Samsung cũng bị cáo_buộc theo_dõi người dùng trên Smart TV của hãng .
+Công_ty điện_tử Hàn_Quốc sau đó phủ_nhận và cho_biết   tính_năng nhận lệnh giọng nói trên TV của hãng chỉ thu_thập dữ_liệu nhằm cải_thiện chất_lượng dịch_vụ và được mã_hóa an_toàn trước khi gửi đi .

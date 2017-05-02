@@ -1,0 +1,36 @@
+Hacker đánh_cắp hàng tỷ USD từ Mỹ chuyển sang Trung_Quốc
+Các hacker lấy cắp bằng cách giả email CEO để lừa gửi tiền , hơn 80% số này chuyển đến các ngân_hàng ở Trung_Quốc .
+James C .
+Trainor_Jr .
+là trợ_lý giám_đốc tại bộ_phận an_ninh mạng của FBI .
+Anh đã đề_cập đến tình_trạng này trong một hội_nghị tại New_York hồi giữa tuần .
+Theo đó , các hacker sẽ chiếm tài_khoản email của CEO , sau đó lừa bộ_phận tài_chính của công_ty chuyển_tiền đến một tài_khoản ngân_hàng bên ngoài .
+Ví_dụ , giám_đốc tài_chính ( CFO ) của một công_ty sẽ nhận được email nói rằng : " Chúng_ta cần thanh_toán cho nhà_cung_cấp này ngay bây_giờ .
+Hãy chuyển 1 triệu USD sang tài_khoản này " .
+Sau đó , số tiền sẽ được chuyển như yêu_cầu , vì lệnh này xuất_phát từ chính CEO của công_ty .
+Hoặc ít_ra thì , họ nghĩ đó chính là email CEO .
+Các hacker đã lấy cắp hàng tỷ USD của doanh_nghiệp Mỹ trong 3 năm qua .
+Ảnh : The_Hacker_News
+FBI cho_biết giai_đoạn tháng 10/2013 - 2/2016 , họ nhận được hơn 17.640 báo_cáo của các công_ty , thiệt_hại tổng_cộng 2,3 tỷ USD vì mánh_khóe này .
+Trainor cho_biết anh nghi_ngờ số nạn_nhân thực_sự và số tiền bị mất còn lớn hơn nhiều .
+Do không phải công_ty nào cũng báo việc này lên FBI .
+" Tôi nhận được khoảng 2,3 email như_thế_này mỗi ngày , 7 ngày_một tuần , suốt hơn một năm nay rồi " , anh nói .
+Phần_lớn số tiền được chuyển đến các ngân_hàng tại Trung_Quốc và Hong_Kong ( Trung_Quốc ) .
+Dù_vậy , trong nhiều trường_hợp , nếu báo cho FBI , các công_ty có_thể lấy lại những gì đã mất .
+Trong 72 giờ , FBI có_thể lần ra số tiền này và đề_nghị ngân_hàng Trung_Quốc hoàn lại tiền .
+Với phần_lớn trường_hợp , nếu chúng chưa bị rút , nhà_băng Trung_Quốc sẽ rất hợp_tác .
+Hiện chưa rõ lý_do tại_sao số tiền này lại được chuyển tới Trung_Quốc .
+Một_số cho rằng vì Trung_Quốc không có chính_sách dẫn_độ với Mỹ .
+Vì_thế , họ sẽ không đưa công_dân sang Mỹ để chịu xét_xử .
+Dù_vậy , hacker có_thể ở bất_kỳ đâu , chứ không nhất_thiết là Trung_Quốc .
+Trong khi đó , Marcus_Carey - cựu nhân_viên tình_báo Mỹ cho rằng hacker có_lẽ nghĩ đến vai_trò của Hong_Kong trong tài_chính toàn_cầu và muốn lợi_dụng việc này .
+" Hong_Kong từ lâu đã là cửa_ngõ cho các công_ty nước_ngoài giao_dịch với Trung_Quốc .
+Vì_thế , cũng dễ hiểu nếu đề_nghị các giám_đốc tài_chính giao_dịch với một ngân_hàng ở Hong_Kong " , ông nói .
+Việc này còn diễn ra với cả các công_ty an_ninh mạng .
+Năm_ngoái , CFO của Malwarebytes nhận được nhiều email có_vẻ là từ CEO công_ty - Marcin_Kleczynski , đề_nghị anh thanh_toán cho một nhà_cung_cấp số tiền hơn 52.000 USD .
+Email này là marcin@malwerabytes.com .
+Nó gần_như y_hệt tiền miền thật - malwarebytes.com .
+Nhưng may_mắn là cả CEO và CFO trước đó đều đã thống_nhất sẽ kiểm_tra chéo tất_cả giao_dịch .
+Vì_thế , họ đã phát_hiện ra .
+" Tuân_thủ đúng quy_trình và có giao_tiếp với nhau sẽ giúp tiền_của anh an_toàn " , Kleczynski kết_luận .
+Hà_Thu ( theo CNN )

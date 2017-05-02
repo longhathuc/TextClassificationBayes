@@ -1,0 +1,17 @@
+Đáp_án bài_toán đua xe_đạp thử tài tính nhanh
+Bài_toán đua xe_đạp liên_quan đến những kiến_thức rất cơ_bản về tính thời_gian , vận_tốc và quãng đường .
+Chỉ cần áp_dụng công_thức , bạn có_thể dễ_dàng đưa ra đáp_án .
+Đề_bài :
+Trong một cuộc đua xe_đạp , A , B và C bắt_đầu đạp cùng nhau từ một điểm .
+Họ cố_gắng đuổi theo D , người đang dẫn trước họ .
+D đạp xe với tốc_độ không đổi .
+A và B lần_lượt mất 10 giờ và 2 giờ để đuổi kịp D .
+Biết vận_tốc của A , B và C lần_lượt là 4 km / h , 5 km / h và 10 km / h .
+Hỏi C đuổi kịp D sau bao_nhiêu thời_gian ?
+Gọi khoảng_cách ban_đầu của D và 3 người còn lại là d , vận_tốc của D là v .
+A đi với vận_tốc 4 km / h và sau 10 giờ đuổi kịp D nên ta có d = 10 x ( 4 - v ) .
+B đi với vận_tốc 5 km / h và sau 2 giờ đuổi kịp D nên ta có d = 2 x ( 5 - v ) .
+Từ hai ý trên ta có 10 x ( 4 - v ) = 2 x ( 5 - v ) .
+Suy ra v = 15/4 ( km / h ) .
+Tìm được v ta dễ_dàng suy ra d = 10 x ( 4 - 15/4 ) = 2,5 ( km ) .
+Biết được khoảng_cách ban_đầu và vận_tốc của D , ta có thời_gian để C đuổi kịp D là 2,5 / ( 10 - 15/4 ) = 0,4 ( giờ ) = 24 ( phút ) .

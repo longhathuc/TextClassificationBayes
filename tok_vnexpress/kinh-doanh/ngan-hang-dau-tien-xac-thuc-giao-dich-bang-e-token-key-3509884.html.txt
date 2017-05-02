@@ -1,0 +1,16 @@
+Ngân_hàng đầu_tiên xác_thực giao_dịch bằng e - Token key
+Thay_vì phải phụ_thuộc hạ_tầng mạng khi dùng mã OTP qua SMS hoặc tốn chi_phí hàng trăm_nghìn đồng " nuôi " thiết_bị token key , TPBank cho_phép xác_thực giao_dịch bằng ứng_dụng e - Token miễn_phí .
+e-Token là ứng_dụng bảo_mật được cài_đặt trên thiết_bị di_động để lấy mã OTP ( mã xác_thực một lần ) mà không cần hạ_tầng mạng di_động hay Internet .
+Khi thanh_toán , chuyển_tiền ... trên ebank , thay_vì chờ tin nhắn SMS trả về một mã OTP , khách_hàng sẽ vào ứng_dụng e Token và lấy dãy số được thay_đổi ngẫu_nhiên một phút một lần .
+Ứng_dụng e - token cho_phép người dùng có_thể nhập OTP mà không cần mạng di_động , Internet .
+Trên thực_tế , xác_thực giao_dịch ngân_hàng qua Token key là phương_thức khá phổ_biến trên thế_giới và tại Việt_Nam từ nhiều năm nay .
+Dù tính bảo_mật cao nhưng chi_phí cho một thiết_bị này khá tốn_kém , vài trăm_nghìn đồng .
+Ban_đầu , một_số ngân_hàng tặng miễn_phí cho khách dùng thử nhưng sau đó hầu_hết tính phí nên không được nhiều người sử_dụng .
+Do_đó , token-key dưới dạng phần_mềm ( eToken ) được xem là giải_pháp đỡ đắt_đỏ hơn .
+Trước đó , một_vài nhà_băng cũng từng thử áp_dụng soft - token nhưng chi_phí phải trả cho các đối_tác giải_pháp cũng vài chục đôla Mỹ một tài_khoản nên không khả_thi .
+Đại_diện TPBank khẳng_định hiện e Token của ngân_hàng hoàn_toàn miễn_phí .
+Về lo_ngại tính bảo_mật với những khách_hàng chọn phương_thức xác_thực bằng e Token thay_vì SMS như trước , Tổng_giám_đốc TPBank - ông Nguyễn_Hưng - khẳng_định , quy_trình kích_hoạt sử_dụng e Bank và e Token của ngân_hàng rất chặt_chẽ .
+Ông cho_biết , muốn kích_hoạt e Token , khách_hàng phải có thời_gian chờ 24 giờ để Trung_tâm dịch_vụ khách_hàng gọi trực_tiếp đảm_bảo chính_khách hàng là người yêu_cầu kích_hoạt hay thay_đổi thông_tin .
+Thời_gian chờ nhằm tránh những giao_dịch của hacker vào thời_điểm nhạy_cảm trong đêm .
+" Bên_cạnh đó , khi truy_cập vào ứng_dụng e Token , người dùng vẫn phải nhập một lớp mật_khẩu nữa chứ không phải ai cũng có_thể truy_cập nên rất an_toàn " , đại_diện TPBank cho_hay .
+TPBank cũng là ngân_hàng duy_nhất hỗ_trợ khách_hàng xác_thực khi thanh_toán , chuyển_tiền bằng vân tay , áp_dụng cho những giao_dịch nhỏ_lẻ dưới một_triệu đồng để tăng sự thuận_tiện cho người dùng .

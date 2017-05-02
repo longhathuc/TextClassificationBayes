@@ -1,0 +1,16 @@
+Pin giấy tạo ra điện nhờ vi_khuẩn nước_thải
+Các nhà_khoa_học Mỹ chế_tạo thành_công một loại pin sinh_học , tạo ra điện nhờ vi_khuẩn có trong nước_thải .
+Các nhà_nghiên_cứu tại Đại_học Binghamton , Mỹ , chế_tạo thành_công một loại pin giấy dạng gấp   dùng một lần , có khả_năng tạo ra điện nhờ hoạt_động của vi_khuẩn trên một mảnh giấy .
+Công_nghệ này sẽ làm giảm chi_phí và thời_gian chế_tạo pin , đồng_thời cách_mạng_hóa việc sử_dụng pin sinh_học như một nguồn năng_lượng ở những khu_vực hẻo_lánh , nguy_hiểm hoặc có nguồn tài_nguyên hạn_chế , Science_Daily hôm 21/12 đưa tin .
+" Pin giấy dùng một lần gần đây nổi lên như một_cách đơn_giản , chi_phí thấp để cung_cấp năng_lượng cho các cảm_biến chẩn_đoán bệnh xét_nghiệm nhanh tại_chỗ " , Seokheun_Sean_Choi , kỹ_sư tại Đại_học Binghamton , cho_biết .
+Trên nửa mảnh giấy sắc ký , Choi và cộng_sự Yang_Gao đặt dải ruy - băng bạc nitrat ( AgNO3 ) bên dưới lớp sáp mỏng để làm cực âm .
+Ở nửa còn lại của mảnh giấy , họ tạo ra một bể chứa nhỏ làm_bằng polymer dẫn_điện , hoạt_động như cực dương khi được đổ đầy bằng vài giọt nước_thải chứa vi_khuẩn .
+Khi nhóm nghiên_cứu gấp mảnh giấy lại để cực âm và cực dương tiếp_xúc với nhau , pin tạo ra điện nhờ quá_trình trao_đổi chất của vi_khuẩn hay còn gọi_là hô_hấp tế_bào .
+" Loại pin này yêu_cầu phải có đủ các thành_phần như cực âm , cực dương và màng trao_đổi proton ( PEM ) .
+Pin được lắp_ráp thủ_công nên có_thể xuất_hiện một_số vấn_đề tiềm_ẩn như bị lệch và gián_đoạn giữa các lớp giấy , từ đó làm giảm lượng điện_năng tạo ra " , Choi nói .
+Nhóm nghiên_cứu sử_dụng phương_pháp gấp và xếp chồng giấy để nâng cao năng_lượng điện đầu_ra của pin .
+Họ có_thể tạo ra pin có công_suất , cường_độ dòng_điện lần_lượt là 31,51 microwatt ( µ W ) và 125,53 microampe ( µ A ) với cấu_hình 6 pin xếp thành 3 dải song_song .
+Công_suất và cường_độ dòng_điện tạo ra là 44,85 µ W , 105,89 µ A với cấu_hình pin 6x6 .
+Phải mất hàng triệu pin giấy để thắp sáng một bóng_đèn 40 W thông_thường , nhưng trên chiến_trường hay một tình_huống thảm_họa , khả_năng tiện_dụng và tính di_động là điều tối quan_trọng .
+Ngoài_ra , pin giấy cung_cấp đủ năng_lượng để chạy cảm_biến sinh_học theo_dõi nồng_độ glucose ở bệnh_nhân tiểu_đường , phát_hiện mầm bệnh trong cơ_thể hoặc thực_hiện chức_năng y_tế khác .
+Lê_Hùng

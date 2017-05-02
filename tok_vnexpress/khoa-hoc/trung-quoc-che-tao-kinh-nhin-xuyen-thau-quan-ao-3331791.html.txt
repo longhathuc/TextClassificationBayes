@@ -1,0 +1,32 @@
+Trung_Quốc chế_tạo kính nhìn xuyên thấu quần_áo
+Một nhóm các nhà_khoa_học Trung_Quốc phát_triển thiết_bị dò siêu nhỏ cho_phép nhìn xuyên qua quần_áo hoặc một_số vật_liệu bìa cứng và giấy .
+Theo nghiên_cứu công_bố trên tạp_chí Advanced_Materials , tác_dụng của kính tương_tự khả_năng nhìn xuyên thấu bằng tia X của nhân_vật Siêu_nhân trong truyện , nhưng an_toàn hơn cho người sử_dụng .
+South_China_Morning_Post hôm 14/12 đưa tin , đặc_điểm tạo nên khác_biệt lớn của chiếc kính là nó dựa trên một dạng thay_thế bức_xạ , có_thể xuyên qua các vật_liệu không dẫn_điện , trừ nước hoặc kim_loại .
+Bức_xạ tia X phát ra quá mạnh và độc_hại , có_thể gây đột_biến tế_bào , dẫn đến ung_thư .
+Ngược_lại , terahertz hay tia T có bước_sóng dài trong quang_phổ điện_từ , nằm giữa bức_xạ hồng_ngoại và bức_xạ lò_vi_sóng .
+Nó yếu hơn tia X và do_đó an_toàn hơn .
+Các nhà_khoa_học đã nghiên_cứu bức_xạ terahertz trong nhiều thập_kỷ .
+Nhưng thiết_bị dùng để phát_hiện ra chúng rất cồng_kềnh , đôi_khi chiếm diện_tích cả một căn phòng và cần nhiều kỹ_thuật_viên để tiến_hành thao_tác phức_tạp .
+Thiết_bị gắn cảm_biến phải giữ trong môi_trường cực lạnh .
+Khi bức_xạ tiếp_xúc với các cảm_biến này , nó làm xáo_trộn một_số nguyên_tử và giải_phóng nhiệt .
+Nhưng lượng nhiệt sinh_ra nhỏ đến mức chỉ có_thể phát_hiện trong môi_trường cực lạnh .
+Nhóm nghiên_cứu do giáo_sư Huang_Zhiming tại Viện_Vật lý Kỹ_thuật Thượng_Hải , Trung_Quốc , đứng đầu có cách tiếp_cận khác .
+Họ tạo một " chiếc bẫy " để thu tia T , sử_dụng một chất_bán_dẫn kẹp giữa hai tấm kim_loại .
+Khi bức_xạ va vào màng mỏng , nó tạo ra một làn_sóng điện_từ bất đối_xứng .
+Sóng này sau đó hút các electron ra khỏi tấm kim_loại để tạo ra dòng_điện .
+Dạng bức_xạ này không_thể đo kỹ_thuật_số bằng bộ đếm điện_tử .
+Nó tồn_tại ở tần_số rất cao trong phổ điện_từ , khiến các nhà_khoa_học phải sử_dụng biện_pháp đo gián_tiếp .
+Trong trường_hợp này , bằng cách đo dòng_điện phát ra , nhóm nghiên_cứu có_thể sử_dụng các thuật_toán cố_định để dựng mô_hình chính_xác của các tia .
+Theo Huang , điểm đột_phá ở thiết_bị dò này là nó có kích_thước chỉ bằng một hạt gạo , có_thể dễ_dàng gắn vào một thiết_bị di_động hoặc tích_hợp trên kính thông_minh .
+Nó có độ nhạy không kém các loại máy lớn bằng cả căn phòng nhưng nhanh hơn gấp 1.000 lần .
+Tốc_độ rất quan_trọng do có độ trễ giữa thời_điểm các tia va vào cảm_biến và dòng_điện phát ra .
+Độ trễ ít hơn tạo điều_kiện giám_sát tốt hơn và chính_xác hơn .
+Huang dự_đoán rằng ít_nhất một thập_niên nữa cặp kính T-ray đầu_tiên mới ra_mắt do trở_ngại về kỹ_thuật , bao_gồm thiết_bị nguồn .
+Để xuyên qua lớp vải , cặp kính phải phát ra một chùm tia giống radar để các sóng_điện_từ có_thể bật trở_lại và được phát_hiện .
+Hiện_tại , các nhà_khoa_học chưa_thể tìm ra thiết_bị nguồn đủ nhỏ để tích_hợp vào một đồ_vật di_động .
+Họ còn phải giải_quyết vấn_đề về nguồn điện , do việc tạo ra tia T cần rất nhiều năng_lượng , vượt ngoài dung_lượng của pin điện_thoại thông_minh .
+Tuy_nhiên , Huang rất lạc_quan về tương_lai của công_nghệ này , một phần do nó có tiềm_năng sử_dụng cho quân_đội .
+Với một thiết_bị nguồn đủ mạnh , tia T có_thể được sử_dụng trên hệ_thống radar để phát_hiện máy_bay tàng_hình , hoặc ứng_dụng trên các vệ_tinh quân_sự để truyền một lượng lớn dữ_liệu .
+Huang nói rằng các radar tia T có_thể " quan_sát " đối_tượng ở cách xa một kilomet trong điều_kiện thời_tiết tốt .
+Ông hy_vọng ​ ​ phạm_vi này sẽ mở_rộng nhiều hơn trong tương_lai .
+Vân_Du

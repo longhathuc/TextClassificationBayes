@@ -1,0 +1,7 @@
+Windows 95 chạy trên đồng_hồ Apple_Watch
+Một nhà_phát_triển tìm cách đưa hệ_điều_hành " cổ_xưa " của Microsoft lên chiếc đồng_hồ thông_minh và hiện_đại của Apple .
+Chuyên_gia phát_triển   Nick_Lee cho_biết , cấu_hình Apple_Watch mạnh hơn các máy_tính cài Windows 95 cách đây 20 năm , do_đó thiết_bị nhỏ_xíu này hoàn_toàn chạy được hệ_điều_hành Microsoft .
+Tuy_nhiên , Apple không cung_cấp cách cài nền_tảng mới vào đồng_hồ , do_đó Lee đã tuỳ biến phần_mềm để chuyển Windows 95 thành một ứng_dụng .
+Bên_cạnh đó , màn_hình Apple_Watch luôn tắt khi_không được sử_dụng , nên chuyên_gia này thiết_kế một ống nối màu cam liên_tục dịch_chuyển núm xoay để ngăn màn_hình " ngủ " .
+Windows 95 khởi_động rất chậm_chạp và không dành cho người thiếu kiên_nhẫn .
+Nhưng sau đó , Lee đã có_thể thực_hiện nhiều thao_tác trên đồng_hồ , cũng_như khiến Windows 95 có_thể nhận_diện việc nhấn ngón_tay .

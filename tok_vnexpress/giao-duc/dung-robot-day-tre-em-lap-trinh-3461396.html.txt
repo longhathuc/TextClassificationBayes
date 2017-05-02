@@ -1,0 +1,19 @@
+Dùng robot dạy trẻ_em lập_trình
+Thông_qua việc lập_trình cho robot , các em sẽ có định_hướng sớm cho tương_lai , đồng_thời học được các kỹ_năng phân_tích và giải_quyết vấn_đề .
+Buổi học của trường tiểu_học Te_Awamutu ( New_Zealand ) phát ra tiếng kêu của những con robot đang hoạt_động .
+Trong phòng , ngoài các em học_sinh và thầy_giáo còn có sự góp_mặt của nhà_khoa_học máy_tính , chuyên_gia nghiên_cứu giáo_dục .
+Họ ở đây để mang tới cho các em những ý_niệm đầu_tiên về công_nghệ và robot trong chương_trình có tên Roboshops .
+Hai giảng_viên đại_học Waikato ( New_Zealand ) là Nilesh_Kanji và Garry_Falloon điều_hành chương_trình Robotshops tại 8 trường khác_nhau , dựa vào khoản kinh_phí 30.000 USD được Bộ Kinh doanh , Đổi_mới và Việc_làm New_Zealand ( MBIE ) thông_qua .
+Học_sinh tại trường Te_Awamutu sẽ sử_dụng một chiếc i Pad có cài sẵn phầm mềm để điều_khiển cho   hai mẫu robot tên Ollies và BB-8S nhảy theo điệu nhạc , quay tròn và nhấp_nháy đèn màu .
+" Các em sẵn_sàng bỏ nửa thời_gian ăn trưa để_dành cho robot , thậm_chí còn đọc mọi cuốn sách về lập_trình trong thư_viện trường và tự thực_hành " , thầy_giáo Joanne_Dannock cho_hay .
+Chính anh cũng học được rất nhiều từ chương_trình này .
+Bella O ' Dea , một học_sinh của lớp còn xin bố_mẹ con robot làm_quà trong ngày sinh_nhật sắp tới .
+Cô bé 10 tuổi này chưa từng thử lập_trình bao_giờ cho tới khi em tham_gia Roboshops .
+" Trước_đây em không biết về lập_trình , nhưng giờ làm thì thấy dễ , và cũng vui nữa " , Bella nói .
+Solomon_Larson , học_sinh khác trong lớp cho_hay em hào_hứng với chương_trình vì có_thể " làm được những thứ hay_ho " .
+Larson đang tìm cách để tăng tốc_độ hoạt_động của robot Ollie .
+" Trẻ_em thường nghĩ lập_trình chỉ dành cho thiên_tài , nhưng nếu bắt_đầu_từ những điều nhỏ thì vẫn khá dễ_dàng .
+Roboshops cho_phép các em thử lĩnh_vực này mà không chịu áp_lực nào , nhờ đó học_sinh có_thể biết liệu mình có thích ngành này hay không , trước khi chọn các môn ở cấp học cao hơn " , chuyên_gia nghiên_cứu giáo_dục Falloon chia_sẻ .
+Không_chỉ dừng lại ở thực_hành lập_trình , Roboshops còn có các hoạt_động thực_tế , ví_dụ yêu_cầu các em hình_dung mình là một chiếc máy_fax với nhiệm_vụ chuyển dữ_liệu thành các hình_ảnh .
+Chương_trình này hướng đến các em ở lứa tuổi 7 - 12 , vừa giúp các em học lập_trình và tìm niềm đam_mê cho mình , vừa thông_qua đó dạy các kỹ_năng giải_quyết vấn_đề và phân_tích .
+Hải_Khanh

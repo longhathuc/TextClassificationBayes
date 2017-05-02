@@ -1,0 +1,43 @@
+Làm_gì để tránh mất tiền oan khi thanh_toán bằng thẻ ?
+Để tránh bị mất tiền oan khi quẹt thẻ tại các điểm chấp_nhận như nhà_hàng , trung_tâm mua_sắm ... , TS Bùi_Quang_Tín đưa ra 6 lưu_ý quan_trọng mà người sử_dụng cần quan_tâm .
+Không ít người dùng thẻ hiện_nay gặp rủi_ro từ việc giao_dịch qua máy POS , và sự_vụ gây chú_ý dư_luận vừa_qua là việc vị khách người Australia thanh_toán bằng thẻ   tại nhà_hàng Nightfall , quận 1 bị trừ số tiền lên đến 39.429
+AUD ( khoảng 683 triệu đồng ) .
+Để việc dùng thẻ được an_toàn , dưới đây là những chia_sẻ của TS Bùi_Quang_Tín , Khoa quản_trị kinh_doanh , Đại_học Ngân_hàng TP_HCM liên_quan đến vấn_đề này .
+Thẻ_thanh_toán , đặc_biệt là thẻ_tín_dụng là một trong những sản_phẩm tiện_dụng và phổ_biến trên khắp thế_giới .
+Tại_Việt_Nam , lượng người dùng thẻ đã và đang ngày_một gia_tăng .
+Việc thanh_toán thông_qua máy POS ( máy chấp_nhận thanh_toán thẻ ) tại các đơn_vị chấp_nhận thẻ cũng ngày_càng đơn_giản , nhân_viên chỉ cần quẹt thẻ vào máy , nhập số PIN ( chỉ trong một_số trường_hợp , thường là đối_với thẻ_ghi_nợ và thẻ_tín_dụng nội_địa ) , nhập số tiền cần thanh_toán , sau đó ký_tên xác_nhận lên biên_lai và hoá_đơn bán hàng là hoàn_tất quá_trình .
+Theo quy_định , nhân_viên tại các điểm giao_dịch phải có trách_nhiệm đối_chiếu chữ_ký của khách_hàng với chữ_ký trên thẻ nhằm bảo_vệ quyền_lợi và hạn_chế rủi_ro cho chủ thẻ .   Vậy để tránh bị mất tiền oan khi quẹt thẻ tại các điểm chấp_nhận như nhà_hàng , trung_tâm mua_sắm ... , sau đây là một_số điều mà khách_hàng cần lưu_ý .
+Tiến_sĩ Bùi_Quang_Tín nêu ra 6 lưu_ý quan_trọng để   hạn_chế rủi_ro khi dùng thẻ .
+Đăng_ký SMS hoặc email để báo giao_dịch
+SMS Banking là dịch_vụ tin nhắn do ngân_hàng cung_cấp cho người dùng khi đến mở tài_khoản giao_dịch .   Sau
+khi đã đăng_ký dịch_vụ này , khách_hàng sẽ nhận được tin nhắn thông_qua số điện_thoại_di_động đã đăng_ký với ngân_hàng khi phát_sinh giao_dịch trong quá_trình sử_dụng thẻ_thanh_toán tại các đơn_vị bán_lẻ như nhà_hàng hay trung_tâm thương_mại .   Mục_tiêu là nhằm kiểm_tra các thông_tin giao_dịch kịp_thời sau khi khách quẹt thẻ ngay tại địa_điểm giao_dịch , đặc_biệt là kiểm_tra số_dư trên tài_khoản sau giao_dịch .
+Do_đó , để đảm_bảo an_toàn trong quá_trình sử_dụng thẻ , khách_hàng nên đăng_ký sử_dụng dịch_vụ biến_động số_dư qua SMS ( phí dưới 10.000 đồng một tháng ) để thuận_tiện theo_dõi các giao_dịch thực_hiện từ thẻ của mình .   Ngoài_ra , người dùng có_thể sử_dụng thông_báo số_dư , địa_điểm và thời_gian giao_dịch thông_qua email đã đăng_ký với ngân_hàng , thông_thường là ngân_hàng sẽ không tính phí dịch_vụ này .
+Bên_cạnh đó , khách cũng có_thể kiểm_tra số_dư sau giao_dịch bằng các phần_mềm mà ngân_hàng cung_cấp khi khách_hàng sử_dụng điện_thoại_di_động ( phần_mềm được tải xuống miễn_phí và phí dịch_vụ cũng thường là miễn_phí ) .
+Giám_sát quá_trình quẹt thẻ
+Với các giao_dịch thanh_toán tại_chỗ , hiện_nay ở hầu_hết siêu_thị , nhà_hàng , khách_sạn , trung_tâm thương_mại … nhân_viên thu_ngân không đưa máy cho khách_hàng tự quẹt mà họ sẽ trực_tiếp cầm thẻ và thực_hiện giao_dịch .
+Việc này tiềm_ẩn nguy_cơ gian_lận lớn , nhân_viên đó có_thể chụp lại thông_tin thẻ bất_cứ lúc_nào , vì chỉ cần thông_tin về tên chủ thẻ , số thẻ , ngày bắt_đầu , ngày hết hạn sử_dụng thẻ và số CVV/CVC trên thẻ là có_thể thực_hiện các giao_dịch trực_tuyến .
+Trên thực_tế , nhiều chủ thẻ cũng đã bị mất tiền cho_dù đã tuân_thủ quy_trình sử_dụng thẻ an_toàn .
+Vì_vậy , khi sử_dụng thẻ để thanh_toán mua hàng , dịch_vụ , chủ thẻ nên quan_sát trực_tiếp việc nhân_viên quẹt thẻ và không nên giao thẻ cho họ tự đi đến_nơi đặt máy POS để quẹt thẻ cũng_như yêu_cầu các nhân_viên này thanh_toán bằng máy đầu_đọc chip của thẻ nếu thẻ của khách_hàng là thẻ chip và kiểm_tra các thông_tin trên phiếu giấy được in ra từ máy POS .
+Trong quá_trình thanh_toán thẻ qua máy POS , nếu nhập sai_số PIN hoặc trong thẻ không còn đủ hạn_mức thì máy sẽ báo thông_qua một phiếu giấy nhỏ ( sale slip ) được in ra từ máy POS có kích_cỡ bằng một_phần_ba so với phiếu thông_thường ( khi ngân_hàng đã duyệt giao_dịch ) .   Do
+đó , khách_hàng cần để thẻ_thanh_toán trong tầm_mắt của mình và kiểm_tra các thông_tin trên khi thực_hiện giao_dịch tại các máy POS .
+Sử_dụng dịch_vụ khoá hoặc mở thẻ của ngân_hàng
+Hiện_nay , nhiều ngân_hàng đã cho_phép người sử_dụng gọi điện_thoại đến tổng_đài của trung_tâm thẻ để thực_hiện dịch_vụ khoá thẻ khi chưa có nhu_cầu giao_dịch và mở lại thẻ khi cần giao_dịch .
+Do_đó , nhằm bảo_vệ quyền_lợi hợp_pháp của mình , khách_hàng cần phối_hợp cung_cấp thông_tin đầy_đủ đến mức cao nhất cho ngân_hàng để được khoá / mở thẻ kịp_thời và tiện_ích .
+Thường_xuyên cập_nhật thông_báo của ngân_hàng về rủi_ro thanh_toán thẻ
+Để tránh những sự_cố đáng tiếc xảy_ra với tài_khoản của khách_hàng , gần đây các ngân_hàng thương_mại thường_xuyên đưa ra những cảnh_báo , khuyến_cáo khách_hàng khi giao_dịch trực_tuyến , giao_dịch tại máy ATM , POS bằng việc gửi tin nhắn , email ...
+Do_đó , việc cập_nhật và lưu_ý đến các cảnh_báo này sẽ giúp cho khách_hàng rất nhiều trong những giao_dịch sử_dụng thẻ_thanh_toán .
+Đặc_biệt , đây là những dịch_vụ mà ngân_hàng không thu phí từ khách_hàng .
+Nên đọc kỹ hợp_đồng sử_dụng thẻ_thanh_toán
+Một trong những khuyến_cáo của Cục Quản lý cạnh_tranh , Bộ Công_Thương trong thời_gian gần đây sau các vụ_việc liên_quan đến mất tiền trong tài_khoản thanh_toán hoặc thẻ ngân_hàng đang thu_hút sự quan_tâm , chú_ý là việc khách_hàng cần nghiên_cứu kỹ hợp_đồng cung_cấp dịch_vụ thẻ của ngân_hàng đối_với mình .
+Khi xem_xét hợp_đồng dịch_vụ này , khách_hàng cần quan_tâm đến các quy_định về quyền và trách_nhiệm của chủ thẻ cũng_như của đơn_vị phát_hành thẻ .
+Thông_thường , phần nghĩa_vụ của chủ thẻ luôn nhiều hơn gấp 2 lần so với quyền_lợi được hưởng .
+Trong khi đó , quyền của đơn_vị phát_hành thẻ thường là gấp 3 lần so với nghĩa_vụ của họ .
+Do_vậy , quyền_lợi của khách_hàng sẽ bị thiệt nếu_không nghiên_cứu và trao_đổi lại với ngân_hàng về các điều_khoản bất_lợi ...
+Trường_hợp người sử_dụng không hiểu_biết nhiều về các nội_dung trong hợp_đồng thì có_thể nhờ đến người_thân , bạn_bè có hiểu_biết về pháp_luật ngân_hàng hoặc có_thể nhờ đến luật_sư để hỗ_trợ .
+Chi_phí phát_sinh là phụ_thuộc vào cách mà khách_hàng chọn để xem_xét hợp_đồng .
+Khách_hàng có quyền kiện ra toà_án
+Trong quá_trình sử_dụng , nếu xảy_ra tranh_chấp , chủ thẻ có_thể khởi_kiện lên tòa_án để bảo_vệ quyền_lợi hợp_pháp của mình theo quy_định pháp_luật .
+Trong hợp_đồng cung_cấp thẻ cũng quy_định rất rõ , trường_hợp có tranh_chấp giữa chủ thẻ và ngân_hàng phát_hành thẻ thì sẽ ưu_tiên giải_quyết bằng hòa_giải , nếu_không thành thì một trong hai bên có quyền yêu_cầu cơ_quan có thẩm_quyền giải_quyết theo quy_định của pháp_luật Việt_Nam , tức_là thông_qua con đường trọng_tài thương_mại hoặc toà_án có thẩm_quyền .
+Tuy_nhiên , đây là cách_thức tốn nhiều thời_gian và chi_phí để khách_hàng có_thể đòi lại được số tiền đã mất trong trường_hợp họ không có lỗi hoặc có ít lỗi hơn phía ngân_hàng .
+Mặt_khác , việc kiện_tụng này chỉ dùng đến khi   đã sử_dụng hết 5 cách trên mà rủi_ro vẫn xảy_ra .
+Bùi_Quang_Tín

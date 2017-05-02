@@ -1,0 +1,19 @@
+Máy_tính Điện_lực Israel ' dính ' mã độc tống_tiền
+Điện_lực Israel vừa_phải hứng_chịu một đợt tấn_công mạng khiến không ít người lo_ngại về nguy_cơ bị mất điện diện rộng do hacker trong tương_lai .
+Tấn_công vào những hệ_thống thiết_yếu như điện , nước , giao_thông , ngân_hàng đang là mục_tiêu của hacker trong kỷ_nguyên mới .
+Tại_Diễn đàn Cybertech 2016 ở Tel_Aviv ( Israel ) tuần này , Bộ_trưởng Yuval_Steinitz phụ_trách các vấn_đề hạ_tầng , năng_lượng và nước cho_biết một cuộc tấn_công lớn đã diễn ra nhắm vào cơ_quan quản_lý điện_năng của Israel ngày 25/1 .
+Sự_cố diễn ra sau khi một nhân_viên rơi vào bẫy phishing của tin_tặc ( tải file chứa mã độc tống_tiền trong e - mail ) .
+Mã độc ransomware này khóa các tệp_tin trong máy và dọa xóa mọi dữ_liệu trừ khi nạn_nhân trả tiền chuộc hoặc Bitcoin .
+Mã độc sau đó lan ra trên nhiều máy_tính khác_nhau khiến Điện_lực Israel buộc phải ngắt hoạt_động của một_số hệ_thống trong hơn hai ngày để tránh cho chúng bị nhiễm virus .
+Ảnh minh_họa : Reuters .
+" Đây là một trong những vụ tấn_công mạng lớn nhất mà chúng_tôi từng hứng_chịu .
+Chúng_tôi đã xác_định được loại virus lây_nhiễm và dùng phần_mềm hợp_lý để cách_ly nó .
+Chúng_tôi cũng phải tạm ngắt nhiều máy_tính của lãnh_đạo trong ngành .
+Hy_vọng sự_cố nghiêm_trọng này sẽ sớm được khắc_phục , còn hiện toàn_bộ hệ_thống máy_tính chưa hoạt_động bình_thường " , ông Steinitz chia_sẻ với báo Times of Israel .
+Ông Steinitz cho rằng cần có những công_nghệ tinh_vi hơn để ngăn_chặn các đợt tấn_công như_vậy .
+Hacker thời_gian tới có_thể sẽ làm tê_liệt hệ_thống điện nước của một quốc_gia , gây ra những thiệt_hại lớn không_chỉ về tài_chính mà_cả con_người , như bệnh_viện không_thể vận_hành do thiếu điện nước .
+Nhận_định của Steinitz đã khiến nhiều người lo_ngại rằng mạng_lưới điện Israel có_thể bị đánh sập .
+Tuy_nhiên , chuyên_gia bảo_mật Eyal_Sela cho_hay các nhà quản_trị luôn có những phương_án để bảo_vệ hệ_thống kiểm_soát nhằm hạn_chế thiệt_hại trên diện rộng .
+Năm 2013 , tin_tặc cũng từng phát_tán Trojan nhằm vào hệ_thống camera an_ninh trên đường_hầm thu phí Carmel_Tunnels của Israel khiến hoạt_động trên đường lập_tức bị đình lại trong 20 phút .
+Đến hôm_sau , đường_hầm vẫn tiếp_tục bị đóng trong nhiều giờ , gây tắc_nghẽn khủng_khiếp và thiệt_hại hàng trăm_nghìn USD .
+Châu_An

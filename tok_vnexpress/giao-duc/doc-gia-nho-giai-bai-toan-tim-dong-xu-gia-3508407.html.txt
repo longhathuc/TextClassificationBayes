@@ -1,0 +1,6 @@
+Độc_giả nhờ giải bài_toán ' tìm đồng xu giả '
+Cách đây vài năm có người bạn đã đưa ra bài_toán này .
+Tôi giải được chi_tiết , nhưng hiện_tại quên mất lời_giải tối_ưu , nay nhờ độc_giả của VnExpress giải hộ .
+Đề_bài như sau : Có 40 đồng xu giống_hệt nhau về hình_dáng , trong đó có một đồng xu giả không biết nặng hơn hay nhẹ hơn .
+Tìm số lần cân_bằng cân thăng_bằng ít_nhất để xác_định được đồng xu giả .
+Nguyễn_Lâm

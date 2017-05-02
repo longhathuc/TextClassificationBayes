@@ -1,0 +1,18 @@
+Nỗi lo thất_lạc hành_lý ở sân_bay sắp biến_mất
+Các hãng hàng_không lớn trên thế_giới bắt_đầu thử_nghiệm công_nghệ nhận_dạng thẻ qua sóng_radio để giảm_thiểu tỷ_lệ không quét được mã hành_lý của hệ_thống cũ .
+Theo The_New_York_Times , năm_ngoái tại Mỹ cứ khoảng 1.000 hành_lý được ký_gửi lại có 6,5 túi bị thất_lạc .
+Nhiều biện_pháp đã được các nhà quản_lý đưa ra nhằm cải_tiến hệ_thống thẻ mã_vạch và máy_quét quang_học nhằm xác_định và phân_loại hành_lý ký_gửi nhưng chưa hoàn_toàn triệt_để .
+Có nhiều trường_hợp xảy_ra với thẻ mã_vạch như bị rơi , nhăn , nhòe , rách hoặc đơn_giản là không nằm trong đường_ngắm của máy_quét tự_động .
+Khi thẻ không_thể đọc được , hành_lý có_thể bị thất_lạc .
+Theo ông   Nick_Gates , Giám_đốc công_ty công_nghệ hàng_không Sita , các máy đọc mã_vạch hiện_nay có tỷ_lệ đọc là khoảng 80 đến 95% số hành_lý .
+Cải_thiện được độ_chính_xác này , tỷ_lệ thất_lạc hành_lý chắc_chắn sẽ giảm mạnh .
+Đây cũng chính là lý_do ngành công_nghiệp hàng_không cũng_như một_số nhà quản_lý sân_bay đang có ý_định nâng cao tỷ_lệ theo_dõi cho hệ_thống đọc mã_vạch đã 30 năm_tuổi .
+Họ đang thử_nghiệm và áp_dụng công_nghệ thẻ có_thể " đọc " mà không cần phải nhìn thấy .
+Thất_lạc hành_lý là nỗi lo của nhiều hành_khách .
+Hãng hàng_không Delta đã lắp_đặt một hệ_thống sử_dụng các thẻ mã_vạch có_thể nhận_dạng qua việc nhúng tần_số radio hay còn gọi_là chip RFID .
+Các con chip phát tín_hiệu được nhúng trong các thẻ giấy được sử_dụng tại sân_bay   McCarran giúp_việc kiểm_tra hành_lý khi di_chuyển với tốc_độ nhanh hơn , chính_xác hơn và tỷ_lệ bỏ sót giảm đáng_kể .
+Nhiều hãng hàng_không khác như Air_France ( Pháp ) ,   Lufthansa ( Đức ) hay Qantas ( Australia ) cũng đang thử_nghiệm phương_pháp tương_tự .
+Tuy_nhiên , mới chỉ Delta_Airlines là sốt_sắng nhất với công_nghệ này khi chi tới 50 triệu USD cho hệ_thống máy_quét , máy_in , thẻ radio , các máy_tính xử_lý .
+Công_nghệ RFID thực_tế không mới .
+Nó đã được sử_dụng trong nhiều thập_kỷ để theo_dõi hàng_hóa thông_thường , như của Amazon hay các ngành công_nghiệp hậu_cần .
+Tuy_nhiên , sự thay_thế cho ngành_hàng không lại đòi_hỏi sự đồng_bộ ở nhiều sân_bay , hãng bay khác_nhau với chi_phí rất tốn_kém .

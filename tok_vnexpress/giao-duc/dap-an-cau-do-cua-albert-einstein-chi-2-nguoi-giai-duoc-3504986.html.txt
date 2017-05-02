@@ -1,0 +1,31 @@
+Đáp_án câu_đố của Albert_Einstein chỉ 2% người giải được
+Một_chút kiên_nhẫn để liên_kết các dữ_kiện được đưa ra trong đề_bài và sử_dụng đúng phương_pháp , bạn sẽ giải được câu_đố này .
+Đề_bài :
+Có 5 ngôi nhà với 5 màu_sắc khác_nhau .
+Chủ của các ngôi nhà mang quốc_tịch khác_nhau , uống một thức uống , hút một loại thuốc và có một con vật_nuôi khác_nhau .
+- Người_Anh sống trong nhà màu đỏ .
+- Người_Thụy_Điển có một con chó cưng .
+- Người_Đan_Mạch uống trà .
+- Ngôi nhà màu xanh lá cây nằm bên trái ngôi nhà màu trắng .
+- Chủ của ngôi nhà xanh lá uống cà_phê .
+- Người hút thuốc_lá Pall_Mall có một con chim .
+- Chủ của ngôi nhà màu vàng hút thuốc_lá Dunhill .
+- Chủ của ngôi nhà_ở giữa uống sữa .
+- Người_Na_Uy sống trong ngôi nhà đầu_tiên .
+- Người hút thuốc_lá Blend sống cạnh ngôi nhà có một con mèo .
+- Người có một con ngựa sống cạnh ngôi nhà có người hút thuốc_lá Dunhill .
+- Người hút thuốc_lá Bluemaster uống bia .
+- Người_Đức hút thuốc_lá Prince .
+- Người_Na_Uy sống cạnh ngôi nhà màu xanh da_trời .
+- Người hút thuốc_lá Blend là hàng_xóm của người uống nước .
+Hỏi ai là người có một con cá ?
+Đáp_án : Người_Đức có cá .
+Liên_kết các dữ_liệu và dùng phương_pháp loại_trừ ta sẽ thấy :
+1 . Người_Na_Uy sống trong ngôi nhà màu vàng , uống nước , hút thuốc_lá Dunhill và có một con mèo .
+2 . Người_Đan_Mạch sống trong ngôi nhà màu xanh da_trời , uống trà , hút thuốc_lá Blend và có một con ngựa .
+3 . Người_Anh sống trong ngôi nhà màu đỏ , uống sữa , hút thuốc_lá Pall_Mall và có một con chim .
+4 . Người_Đức sống trong ngôi nhà màu xanh lá cây , uống cà_phê , hút thuốc_lá Prince .
+5 . Người đàn_ông Thụy_Điển sống trong ngôi nhà màu trắng , uống bia , hút thuốc_lá BlueMaster và có một con chó .
+Đề_bài có dữ_kiện chủ của mỗi căn nhà nuôi một con vật khác_nhau .
+Để phù_hợp với dữ_kiện này , người có một con cá phải là người Đức .
+Thanh_Tâm ( theo Bright_Side )

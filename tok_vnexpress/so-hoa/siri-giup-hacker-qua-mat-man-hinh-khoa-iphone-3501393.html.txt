@@ -1,0 +1,18 @@
+Siri ' giúp ' hacker qua_mặt màn_hình khóa i Phone
+Lỗ_hổng bảo_mật có khả_năng giúp hacker truy_cập vào i Phone , bao_gồm địa_chỉ liên_lạc , nhật_ký tin nhắn , cuộc_gọi , thư_viện ảnh bằng cách kích_hoạt Siri để qua_mặt passcode .
+Khả_năng bảo_mật của màn_hình khóa i Phone không an_toàn 100% .
+Được phát_hiện bởi i DeviceHelp , lỗ_hổng cho_phép xâm_nhập vào bên trong màn_hình điện_thoại mà không cần phải_biết mật_khẩu mở khóa màn_hình .
+Trong video được đăng_tải trên YouTube , iDeviceHelp đã mô_tả chi_tiết cách_thức tấn_công này .
+Cụ_thể , lỗ_hổng hoạt_động trên những i Phone kích_hoạt sẵn tính_năng Siri trên màn_hình khóa .
+Đầu_tiên , hacker phải gọi điện đến chiếc i Phone đó , gửi tin nhắn , yêu_cầu Siri bật i Message .
+Thao_tác thực_hiện dễ_dàng không cần đến mật_khẩu mở khóa máy .
+Từ tin nhắn nhận được , hacker tiếp_tục đồng_thời nhấn đúp vào thanh thông_tin liên_lạc và giữ ngón_tay ở thanh này trong lần chạm thứ_hai , đồng_thời ngón_tay kia nhấn giữ bàn_phím .
+Thao_tác này khó hơn , nhưng nếu làm kiên_trì , một_số phím chức_năng sẽ hiện ra sau đó .
+Cuối_cùng , hacker chỉ việc lựa_chọn các phím chức_năng này để truy_cập vào địa_chỉ liên_lạc , nhật_ký tin nhắn , cuộc_gọi và thư_viện ảnh .
+Theo   iDeviceHelp , các thiết_bị bị ảnh_hưởng bởi lỗ_hổng bảo_mật này chạy i OS 8.0 trở_lên .
+Và do phải thao_tác trực_tiếp , nên không có nguy_cơ tấn_công từ xa .
+Lỗ_hổng đã được báo_cáo lên Apple nhưng chưa có phản_hồi .
+Trước_mắt , đối_với những_ai đang sử_dụng i Phone chạy i OS 8.0 trở_lên , cách tốt nhất_là nên tắt tính_năng Siri trên màn_hình khóa , bằng cách vào TouchID   and Passcode   và tắt   Siri in locked mode , sau đó đợi Apple tung ra bản vá mới để cập_nhật .
+Ngoài_ra , không nên để i Phone " hớ_hênh " để tránh việc bị kẻ xấu lợi_dụng .
+Video mô_tả cách_thức tấn_công :
+Bảo_Lâm ( theo   Phonearena )

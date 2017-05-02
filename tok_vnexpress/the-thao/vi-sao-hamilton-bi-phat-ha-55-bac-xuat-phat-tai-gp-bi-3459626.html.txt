@@ -1,0 +1,29 @@
+Vì_sao Hamilton bị phạt hạ 55 bậc xuất_phát tại GP Bỉ
+Nha ̀ ĐKVĐ thê ́ giơ ́ i được cho là đã thay ha ̀ ng loa ̣ t linh kiê ̣ n đô ̣ ng cơ Mercedes trên đươ ̀ ng đua Spa-Francorchamps mô ̣ t ca ́ ch đâ ̀ y toan ti ́ nh .
+Lewis_Hamilton chi ̣ u a ́ n pha ̣ t ha ̣ 55 bâ ̣ c xuâ ́ t pha ́ t , nhưng do đươ ̀ ng đua chi ̉ co ́ 22 xe , con sô ́ 55 hay trươ ́ c đo ́ la ̀ 30 cu ̃ ng không a ̉ nh hươ ̉ ng nhiê ̀ u đê ́ n Hamilton .
+Trươ ́ c đây , nê ́ u không thư ̣ c hiê ̣ n hê ́ t a ́ n pha ̣ t ha ̣ bâ ̣ c xuâ ́ t pha ́ t , ca ́ c tay_đua se ̃ pha ̉ i thư ̣ c hiê ̣ n nốt phần a ́ n pha ̣ t co ̀ n la ̣ i ơ ̉ chă ̣ ng đua tiê ́ p theo .
+Nhưng hiê ̣ n nay , a ́ n pha ̣ t chi ̉ đươ ̣ c thi ha ̀ nh trong mô ̣ t chă ̣ ng đua .
+Theo quy đi ̣ nh hiê ̣ n nay , động_cơ xe F1 ( Power_Unit , viê ́ t tă ́ t la ̀ PU ) đươ ̣ c câ ́ u tha ̀ nh tư ̀ sáu bộ_phận ( Module ) khác_nhau .
+Mỗi bộ_phận chỉ được thay tối_đa năm lần cho cả mùa gia ̉ i , gồm : buồng đốt của động_cơ ( Internal_Combustion_Engine , tức ICE ) ; bộ_phận chư ́ a năng_lượng ( Energy_Store , tức ES ) ; bộ_phận tăng áp ( Turbo_Charger , tức TC ) ; bộ_phận thu_hồi động_năng ( Motor_Generator_Unit - Kinetic , tức MGU - K ) ; bộ_phận thu_hồi nhiệt_năng ( Motor_Generator_Unit - Heat , tức MGU - H ) ; và bộ_phận điều_khiển điện_tử ( Control_Electronics , tức CE ) .
+Lewis_Hamilton mất một loạt lần thay các PU hồi đầu mùa vì xe của anh liên_tiếp gặp trục_trặc .
+Như_vậy mô ̃ i tay_đua sẽ có năm PU để dùng cho cả mùa giải .
+Các bộ_phận trong 5 PU này được hoán chuyển và kết_hợp tự_do .
+Nếu một tay_đua sử_dụng lần đầu bất_cứ một bộ_phận nào của bộ PU thứ_sáu sẽ bị ha ̣ 10 bậc xuất_phát .
+Sau đó , nếu sử_dụng tiếp những bộ_phận còn lại của bộ PU thứ_sáu đó thì mỗi lần sử_dụng cho 1 bộ_phận sẽ bị ha ̣ năm bậc xuất_phát .
+Án pha ̣ t cu ̃ ng se ̃ tương_tư ̣ nê ́ u sư ̉ du ̣ ng thêm ca ́ c PU mơ ́ i
+Sau ha ̀ ng loa ̣ t thay đô ̉ i đô ̣ ng cơ ta ̣ i Bi ̉ , hiê ̣ n nay Hamilton đa ̃ sư ̉ du ̣ ng tơ ́ i sáu bô ̣ ICE , sáu bô ̣ MGU - K , tám bô ̣ TC va ̀ tám bô ̣ MGU - H .
+Như vâ ̣ y Hamilton đa ̃ sư ̉ du ̣ ng đê ́ n bô ̣ thư ́ tám .
+Riêng ta ̣ i Grand_Prix_Bi ̉ hiê ̣ n nay , ngôi_sao ngươ ̀ i Anh đa ̃ sư ̉ du ̣ ng ba bô ̣ đô ̣ ng cơ mơ ́ i , sô ́ lươ ̣ ng na ̀ y hoa ̀ n toa ̀ n đu ̉ du ̀ ng cho Hamilton trong phâ ̀ n co ̀ n la ̣ i cu ̉ a mu ̀ a gia ̉ i ma ̀ không sơ ̣ bi ̣ pha ̣ t .
+Vơ ́ i ba bô ̣ PU qua ́ ha ̣ n mư ́ c , a ́ n pha ̣ t cho Hamilton la ̀ 30 bâ ̣ c xuâ ́ t pha ́ t .
+Vơ ́ i 5 bô ̣ phâ ̣ n tiê ́ p theo đươ ̣ c thay thê ́ cu ̉ a ba bô ̣ PU na ̀ y , a ́ n pha ̣ t cho Hamilton la ̀ 25 bâ ̣ c xuâ ́ t pha ́ t .
+Như vâ ̣ y tô ̉ ng cô ̣ ng a ́ n pha ̣ t ta ̣ i Grand_Prix_Bi ̉ cho ngôi_sao ngươ ̀ i Anh se ̃ la ̀ ha ̣ 55 bâ ̣ c xuâ ́ t pha ́ t .
+Án phạt được thực_thi một lần , nên Mercedez quyết_định thay nốt các PU để Hamilton " sạch_sẽ " trong phần còn lại của cuộc đua năm nay .
+Ảnh : Reuters .
+Hô ̀ i đâ ̀ u mu ̀ a gia ̉ i , chiê ́ c W05 cu ̉ a Hamilton liên tiê ́ p bi ̣ ho ̉ ng MGU - H ta ̣ i Grand_Prix_Trung_Quô ́ c va ̀ Grand_Prix_Nga .
+MGU - H gă ́ n liê ̀ n vơ ́ i TC , nên Mercedes cu ̃ ng pha ̉ i thay ca ̉ bô ̣ phâ ̣ n na ̀ y .
+Vi ̀ thê ́ , Hamilton bi ̣ mâ ́ t MGU - H va ̀ TC , mô ̃ i loa ̣ i hai bô ̣ ngay tư ̀ đâ ̀ u mu ̀ a .
+Do_đó , nguy_cơ Hamilton chi ̣ u a ́ n pha ̣ t do sư ̉ du ̣ ng qua ́ sô ́ lươ ̣ ng linh kiê ̣ n đô ̣ ng cơ cho phe ́ p đa ̃ đươ ̣ c Mercedes sơ ́ m lươ ̀ ng trươ ́ c .
+Trước thềm GP Bỉ lần này , Mercedes cô ́ ti ̀ nh thay ha ̀ ng loa ̣ t linh kiê ̣ n đô ̣ ng cơ ta ̣ i đây , đê ̉ sư ̉ du ̣ ng cho phâ ̀ n co ̀ n la ̣ i cu ̉ a mu ̀ a gia ̉ i ma ̀ không lo sơ ̣ bi ̣ thiê ̣ t ha ̣ i nhiê ̀ u cho Hamilton .
+Ngôi_sao ngươ ̀ i Anh se ̃ chi ̉ pha ̉ i chi ̣ u hi ̀ nh pha ̣ t ta ̣ i Grand_Prix_Bi ̉ va ̀ hoa ̀ n toa ̀ n trong sa ̣ ch ơ ̉ phâ ̀ n co ̀ n la ̣ i cu ̉ a mu ̀ a gia ̉ i .
+Du ̀ gă ̣ p bâ ́ t lơ ̣ i vê ̀ vi ̣ tri ́ xuâ ́ t pha ́ t , vơ ́ i đă ̣ c điê ̉ m cu ̉ a Spa-Francorchamps - đươ ̀ ng đua tô ́ c đô ̣ cao va ̀ râ ́ t thuâ ̣ n lơ ̣ i đê ̉ vươ ̣ t mă ̣ t , Hamilton hoa ̀ n toa ̀ n co ́ thê ̉ thi đâ ́ u bu ̀ ng nô ̉ đê ̉ vê ̀ đi ́ ch trong top đâ ̀ u . .
+Minh_Phương

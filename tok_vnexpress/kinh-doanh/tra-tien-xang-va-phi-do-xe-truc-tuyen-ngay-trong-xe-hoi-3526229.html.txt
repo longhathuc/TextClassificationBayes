@@ -1,0 +1,16 @@
+Trả tiền xăng và phí đỗ xe trực_tuyến ngay trong xe_hơi
+Chỉ cần thực_hiện vài thao_tác trên bảng điều_khiển cảm_ứng gắn trong ôtô , tài_xế có_thể thanh_toán tiền xăng và phí bến_bãi mà không cần phải xuống xe .
+Tại triển_lãm công_nghệ CES 2017 diễn ra tại Las_Vegas ( Mỹ ) , hãng Honda đã trình_làng dịch_vụ trả tiền nhiên_liệu và phí bãi đậu xe trên nền_tảng dịch_vụ thanh_toán kỹ_thuật_số Visa_Checkout .
+Bước_đầu vận_hành thử_nghiệm tại CES 2017 , dịch_vụ tương_thích với các trụ bơm nguyên_liệu của hãng Gilbarco_Veeder - Root và hệ_thống kiểm_soát bãi đỗ xe thông_minh từ IPS Group .
+Theo đại_diện Honda , mô_hình này do Honda_Developer_Studio nghiên_cứu và phát_triển , cung_cấp giải_pháp thanh_toán bên trong xe_hơi một_cách nhanh_chóng và liền mạch , hoạt_động hiệu_quả trên điện_thoại thông_minh .
+" Khi tài_xế lái_xe đến bên trụ bơm xăng hay cổng từ của bãi xe thông_minh , bảng điều_khiển cảm_ứng trên xe sẽ kết_nối và hiện giao_diện với nhiều tùy chọn về dịch_vụ , lượng xăng , thời_gian đỗ xe , mức phí ...
+Sau khi chọn những thông_số theo đúng nhu_cầu cá_nhân , người dùng chỉ cần bấm vào một nút xác_nhận là toàn_bộ quy_trình thanh_toán đã hoàn_tất " , đại_diện Honda chia_sẻ .
+Giao_diện bảng điều_khiển dịch_vụ trên xe_hơi khi tài_xế vào trụ bơm xăng thông_minh .
+Ông John_Moon - Giám_đốc phát_triển quan_hệ Honda_Developer_Studio cho_biết các hình_thức thanh_toán đã tiến_hóa từ thẻ nhựa vật_lý tới các loại thẻ kỹ_thuật_số rồi chuyển qua ví di_động .
+Điều này tạo cơ_hội cho hãng cải_thiện trải_nghiệm của người dùng , giúp họ có_thể thoải_mái trả tiền một loạt dịch_vụ ngay khi ngồi trong xe .
+Còn ông Avin_Arumugam - đại_diện Visa cho rằng việc biến ôtô thành một nền_tảng thanh_toán không_chỉ hữu_dụng cho giới lái_xe mà_còn tạo điều_kiện cho các doanh_nghiệp tung ra những dịch_vụ mới đa tiện_ích và thiết_thực .
+Hãng xe_hơi Nhật đang đàm_phán với nhiều công_ty để đưa mô_hình này vận_hành trên nhiều loại xe , mở_rộng thêm nhiều hình_thức giao_dịch và thanh_toán khác .
+Vào tuần trước , Volkswagen_Financial_Services AG - công_ty dịch_vụ tài_chính của hãng xe Đức nổi_tiếng Volkswagen_Group đã mua lại nền_tảng thanh_toán PayByPhone qua điện_thoại_di_động .
+Năm_ngoái , Ford công_bố dịch_vụ cho_phép chủ xe thực_hiện giao_dịch từ ôtô để trả tiền đậu xe thông_qua FordPay - một loại ví ảo hỗ_trợ thanh_toán qua thiết_bị di_động .
+Video trả phí đỗ xe trực_tuyến ngay trong xe_hơi :
+Minh_Trí

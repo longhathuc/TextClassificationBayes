@@ -1,0 +1,52 @@
+Bạn biết gì về hệ_điều_hành Windows ?
+Từ MS-DOS với dày_đặc các dòng lệnh , hệ_điều_hành Windows đánh_dấu mốc lịch_sử quan_trọng khi đem giao_diện thân_thiện đến tất_cả người dùng .
+1 . Phiên_bản Windows 1.0 ra_mắt năm nào ?
+1983
+1984
+1985
+2 . Giá bán của Windows 2.0 khi ra_mắt vào năm 1987 ?
+100 USD
+150 USD
+200 USD
+3 . Tên ban_đầu của hệ_điều_hành Windows là gì ?
+Real-Mode Memory_System ( RMMS )
+Microsoft_Work_System ( MWS )
+Microsoft_Interface_Manager
+Microsoft_Leopard
+4 . Tên mã của hệ_điều_hành nổi_tiếng Windows 95 ?
+Philadelphia
+PhiladelpSeattlehia
+Chicago
+Little_Bill
+5 . Windows_Vista không được người dùng đón_nhận nhưng Microsoft luôn cho rằng đây chỉ là do hiệu_ứng truyền_thông xấu mang lại .
+Hãng đã mời một_số người dùng thử_nghiệm Vista nhưng dưới một cái tên giả khác để mong nhận được những đánh_giá khách_quan hơn .
+Tên giả cho Windows_Vista mà Microsoft sử_dụng là gì ?
+Wyoming
+Utah
+Mojave
+6 . Windows XP là phiên_bản đầu_tiên có :
+Phiên_bản 64-bit cho nền_tảng Intel IA-64
+Tích_hợp chương_trình Media_Center
+Chính_thức hỗ_trợ máy_tính bảng
+Tất_cả các phương_án trên
+7 . Windows 3.0 là phiên_bản hệ_điều_hành đầu_tiên được cài sẵn trên máy_tính trước khi đến tay người dùng .
+Nhà_sản_xuất nào đã thực_hiện việc này ?
+Hitachi
+IBM
+Zenith
+Compaq
+8 . Phiên_bản Windows 1.0 được giới_thiệu trước hệ_thống Macintosh của Apple ?
+Đúng
+Sai
+9 . Windows 95 có_thể cài_đặt qua đĩa CD hoặc đĩa_mềm .
+Với những người sử_dụng máy_tính thế_hệ cũ , hãng phải trang_bị một_số đĩa_mềm mới có_thể chứa đủ hệ_điều_hành .
+Tổng_số đĩa_mềm mà hãng phải bán kèm để cài_đặt là bao_nhiêu ?
+5
+9
+13
+16
+10 . Windows 10 có bao_nhiêu phiên_bản ?
+7
+9
+10
+Tuấn_Hưng

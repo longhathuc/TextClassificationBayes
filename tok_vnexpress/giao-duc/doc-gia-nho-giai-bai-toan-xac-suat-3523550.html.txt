@@ -1,0 +1,14 @@
+Độc_giả nhờ giải bài_toán xác_suất
+Có   3 lọ đựng bi được đánh ký_hiệu 1 , 2 , 3 và xếp theo đúng thứ_tự , mỗi lọ đựng 10 viên bi .   Hỏi xác_suất lấy ra một lọ một viên bi sao cho các viên bi ở các lọ cạnh nhau lần_lượt theo đúng thứ_tự chữ_số 123 .
+Độc_giả Công_Lý gửi đến VnExpress bài_toán , mong nhận được sự hỗ_trợ của độc_giả .
+Tôi có bài_toán xác_suất như sau :   Có 3 lọ đựng bi được đánh ký_hiệu 1 , 2 , 3 và được xếp theo đúng thứ_tự như_vậy .
+Mỗi lọ đựng 10 viên bi .
+Các viên bi trong một lọ được đánh_số lần_lượt từ 0 , 1 , 2 đến 9 ( mỗi viên bi được đánh 1 số , 3 lọ đều có 10 viên bi đánh_số giống nhau ) .
+Hỏi xác_suất để lấy ra một lọ một viên bi sao cho các viên bi ở các lọ cạnh nhau lần_lượt theo đúng thứ_tự là các số như sau : lọ 1 được số 1 , lọ 2 được số 2 , lọ 3 được số 3 .
+Yêu_cầu : Lọ 1 bắt_buộc số 1 , sau đó lọ 2 phải là số 2 , lọ 3 là số 3 để ta có_thể tạo ra 1 chữ_số là 123 .
+Nếu lấy không đúng thứ_tự đó là không đạt yêu_cầu .
+Vì tôi thấy , hình_như mọi người nhầm_lẫn là tính xác_suất lấy_được 1 hòn bi ở một lọ là 1/10 nên xác_suất cả 3 lọ là 1/10x1/10 x1/10 là không chính_xác ( vì lúc đó các số có_thể xếp là 123 , 231 , 312 … ) .
+Nhưng tôi không biết cách tính làm_sao cho đúng vì lâu quá quên mất toán xác_suất .
+Mong các bạn giải giúp .
+Tôi cảm_ơn .
+Công_Lý

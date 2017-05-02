@@ -1,0 +1,10 @@
+TV Samsung hỗ_trợ video chất_lượng HDR từ YouTube
+YouTube đã bắt_đầu triển_khai dịch_vụ HDR từ tháng 11/2016 nhưng khi đó mới dành cho người dùng sở_hữu TV tích_hợp Google_Chromecast_Ultra .
+Video HDR ( High_Dynamic_Range - định_dạng giải tương_phản động mở_rộng ) thể_hiện độ tương_phản màu_sắc , độ chi_tiết , sự chênh_lệch các mảng sáng tối ... cao hơn đáng_kể so với hình_ảnh thông_thường .
+Tính_năng này đã được YouTube đề_cập tới từ triển_lãm CES 2016 nhưng phải tới tháng 11 năm_ngoái mới chính_thức được công_bố và bước_đầu hỗ_trợ TV có Chromecast_Ultra .
+Sự khác_biệt giữa hình_ảnh thông_thường và HDR .
+Tại CES 2017 , diễn ra đầu tháng 1 ở Las_Vegas ( Mỹ ) , Samsung cho_biết người sử_dụng TV Quantum dot 2016 và TV_UHD đã có_thể xem nội_dung theo định_dạng HDR khi truy_cập danh_mục HDR trong ứng_dụng YouTube trên kênh YouTube 4K .
+" Với độ phủ_sóng toàn thế_giới của YouTube HDR , người dùng TV Samsung sẽ có những trải_nghiệm HDR sống_động và tốt nhất trong chính ngôi nhà mình " , Seline_Han , đại_diện Samsung_Electronics , cho_hay .
+Người dùng TV chấm lượng_tử của Samsung có_thể xem YouTube HDR .
+YouTube cũng bắt_tay với các thương_hiệu nổi_tiếng như MysteryGuitarMan , Jacon + Katie_Schwarz để sáng_tạo những nội_dung chất_lượng HDR .
+Với việc người dùng có_thể upload video HDR , YouTube đã hợp_tác cùng DaVinci Resolve để đơn_giản_hóa quá_trình đăng_tải tương_tự như đối_với các video tiêu_chuẩn hiện_nay .

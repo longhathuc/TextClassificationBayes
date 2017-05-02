@@ -1,0 +1,12 @@
+Bài_toán chuyển_động giúp kiểm_tra kiến_thức lớp 5-6
+Bài_toán chuyển_động của hai người trên một đường chạy là câu_hỏi trong đề thi đánh_giá năng_lực tư_duy toán_học quốc_tế dành cho học_sinh lớp 5-6 .
+Hãy thử xem liệu bạn còn nhớ kiến_thức để giải bài này .
+Một đường chạy ( như hình_vẽ ) có làn trong cùng ngắn nhất với độ dài 400 m , các làn ngoài dài hơn nhưng không vượt quá 500 m .
+Max và Lynn xuất_phát ở cùng một vị_trí và chạy ngược chiều kim_đồng hồ ( như hình_vẽ ) .
+Max chạy ở làn trong cùng_với vận_tốc không đổi .
+Lynn chạy ở làn ngoài cùng_với vận_tốc gấp 3 lần Max .
+Lần đầu_tiên họ gặp nhau ở điểm xuất_phát là khi Max đã chạy được 3 vòng .
+Hỏi độ dài làn ngoài cùng ( làn Lynn chạy ) là   bao_nhiêu ?
+Thanh_Tâm
+> > Bài_toán tư_duy cấp tiểu_học khiến người_lớn phải đau_đầu
+> > Bài_toán lớp 4 trong đề thi đánh_giá năng_lực quốc_tế

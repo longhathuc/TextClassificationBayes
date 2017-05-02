@@ -1,0 +1,12 @@
+Tại_sao chúng_ta đón Giao_thừa chậm hơn một giây ?
+Năm 2016 sẽ dài hơn một giây so với các năm khác do được bổ_sung thêm giây nhuận để bù lại sự chậm_trễ trong vòng quay của Trái_Đất .
+Quyết_định bổ_sung thêm giây nhuận do Cơ_quan quan_sát sự quay của Trái_Đất ( IERS ) đưa ra để duy_trì thời_gian chuẩn trên toàn_cầu , Independent hôm_qua đưa tin .
+Sự chậm_trễ trong vòng quay của Trái_Đất là kết_quả từ ma_sát do thủy_triều và tương_tác với Mặt_Trăng gây ra .
+Geoff_Chester , nhà_nghiên_cứu ở Đài quan_sát Hải_quân Mỹ thuộc IERS , cho_biết hệ_thống giây nhuận bắt_đầu được áp_dụng từ năm 1972 khi   các chuyên_gia phụ_trách điều_chỉnh khung giờ chuẩn trên thế_giới quyết_định duy_trì hai hệ_thống tính giờ và xem_xét những ảnh_hưởng của thủy_triều đến thời_gian .
+Văn_phòng quốc_tế về trọng_lượng và đo_lường   ( BIPM ở   Pháp dùng hệ_thống gồm 250 đồng_hồ_nguyên_tử được đặt rải_rác trên thế_giới , quyết_định về   thời_gian nguyên_tử quốc_tế   ( TAI - International_Atomic_Time ) và   thời_gian phối_hợp toàn_cầu   ( UTC - Coordinate_Universal_Time ) .
+Tuy_nhiên , TAI được tính_toán dựa trên máy_móc , trong khi UTC được tính dựa theo các chu_kỳ mọc và lặn của Mặt_Trời .
+Giờ UTC phụ_thuộc vào sự quay quanh trục của   Trái_Đất .   Hiện_tượng thủy_triều , dưới tác_động từ lực hấp_dẫn của   Mặt_Trăng , khiến   Trái_Đất   quay chậm lại do   động_năng quay   bị chuyển_hóa thành năng_lượng khác trong việc nâng hạ nước trên bề_mặt Trái_Đất .
+Chênh_lệch rất nhỏ trong chu_kỳ quay của Trái_Đất dẫn đến khác_biệt giữa giờ   TAI  và giờ   UTC , đòi_hỏi điều_chỉnh về thời_gian bằng cách chèn thêm giây nhuận .
+Các giây nhuận chỉ được chèn thêm vào cuối ngày 30/6 hoặc 31/12 .
+Năm 2012 , các chuyến bay của hãng hàng_không Quantas bị hoãn lại sau khi hệ_thống đặt chỗ trên máy_tính bị rối_loạn do giây nhuận thêm vào giữa ngày 30/6 và 1/7 .
+Khang_An

@@ -1,0 +1,4 @@
+Bài_toán tìm ẩn_số thử_thách tốc_độ người giải
+Có một quy_luật khá rõ_ràng để tìm ra giá_trị thích_hợp điền vào dấu_hỏi chấm .
+Bạn tìm ra quy_luật đó trong bao_lâu ?
+> > Thử tài suy_luận qua bài_toán tìm số > > Câu_đố đếm bóng 95% người trả_lời sai

@@ -1,0 +1,38 @@
+Start-up xử_lý hàng tỷ đôla cho Grab và Uber
+Adyen là một start - up về tài_chính không mấy nổi_tiếng ở Hà_Lan , nhưng chính họ đang giữ trọng_trách xử_lý hàng triệu giao_dịch trị_giá tỷ USD cho Grab và Uber .
+Uber xử_lý hàng triệu hoá_đơn giao_dịch mỗi ngày .
+Hệ_thống thanh_toán của họ thật_sự phức_tạp và khổng_lồ .
+Bởi các giao_dịch đi qua địa_phận của nhiều nước , qua nhiều hệ_thống thanh_toán , và đơn_vị_tiền_tệ hao_hụt là điều khó tránh khỏi .
+Do_đó , những công_ty công_nghệ như Uber , Airbnb , Netflix khá đau_đầu trong việc quản_lý các hao_hụt trong giao_dịch tiền_tệ .
+Và_Adyen , một start - up về tài_chính dù không mấy nổi_tiếng , nhưng công_nghệ của họ là yếu_tố cốt_lõi giúp khách_hàng hoạt_động hiệu_quả .
+" Các khách_hàng không muốn những công_ty dịch_vụ thanh_toán quá nổi_bật và được quá nhiều người biết đến " , Warren_Hayashi , Chủ_tịch khu_vực châu Á_Thái_Bình_Dương của Adyen cho_biết .
+" Chúng_tôi càng khuất mắt thì càng được khách_hàng ưu_ái " .
+Quy_mô của Adyen thật_sự khổng_lồ .
+Công_ty này đã xử_lý lượng giao_dịch trị_giá 56 tỷ USD trong năm 2015 .
+Doanh_thu của Adyen năm 2015 là 371 triệu USD , lợi_nhuận 45 triệu USD .
+Giá_trị thị_trường của Adyen hiện là 2,3 tỷ USD và họ nhận được nguồn vốn đầu_tư từ quỹ Iconiq_Capital , được lập nên bởi Mark_Zuckerberg của Facebook và Reid_Hoffman , người sáng_lập LinkedIn .
+Adyen dù không mấy nổi_tiếng nhưng lại đang giữ trọng_trách xử_lý các giao_dịch trị_giá hàng tỷ USD .
+Vào tháng 8/2016 , đối_thủ của Uber là Grab tại Đông_Nam Á cũng đã chọn Adyen làm đối_tác cho các giao_dịch tại Indonesia , Philippines , Thái_Lan và Việt_Nam .
+Ở các khu_vực khác , Grab sử_dụng dịch_vụ của Stripe là một công_cụ tương_tự như Adyen .
+Với một công_ty có hai đối_thủ sừng_sỏ cùng là khách_hàng , Adyen thật_sự đã chứng_tỏ khả_năng của mình .
+Điều có_lẽ làm những người điều_hành Adyen hài_lòng nhất_là công_ty của họ liên_tục có lời , trong khi Uber và Grab đang chịu lỗ triền_miên .
+Uber đã chịu khoản lỗ 1,2 tỷ USD từ đầu năm đến nay với các chi_phí cho tài_xế ngày_càng tăng .
+Các nhà_phân_tích lo_lắng rằng Uber liệu có_thể tiếp_tục tồn_tại đến khi công_nghệ xe tự lái được hoàn_thiện hay không ?
+Grab cũng đang hợp_tác với Công_ty nu Tonomy về đề_án xe tự lái , nhưng vẫn chưa đi đến đâu .
+Trong khi các công_ty công_nghệ khác chật_vật để tồn_tại , Adyen lại ở một vị_thế chắc_chắn hơn .
+Định_vị của công_ty là một nhà_cung_cấp dịch_vụ thanh_toán cho những công_ty đang ở thế phát_triển nhanh_chóng trên toàn_cầu .
+Thay_vì đợi hệ_thống xử_lý các đơn hàng rồi mới nhận tiền hoa_hồng như PayPal , các giao_dịch qua Adyen mang về doanh_thu cho công_ty gần_như tức_thì .
+Trong chuỗi giá_trị truyền_thống , các khách_hàng sẽ phải tự quản_lý các dịch_vụ thanh_toán trực_tuyến , phân_tích rủi_ro và kết_nối các hệ_thống xử_lý thanh_toán .
+Adyen đứng ra đảm_nhận và đơn_giản_hoá tất_cả các hoạt_động này , giúp kho dữ_liệu của khách_hàng được rõ_ràng hơn .
+" Với hệ_thống dữ_liệu này , chúng_tôi biết được 100 lý_do vì_sao các giao_dịch bị từ_chối , trong khi các hệ_thống khác chỉ cho_biết tối_đa 30 lý_do " , Warren cho_hay .
+Bằng việc thâm_nhập các hệ_thống thanh_toán đám mây , Adyen có_thể thực_hiện những điều_chỉnh để tăng tỷ_lệ chấp_nhận thanh_toán lên vài phần_trăm .
+Việc này còn giúp hạn_chế các bên khác lợi_dụng khác_biệt trong hệ_thống để bòn_rút từ các giao_dịch .
+Kết_quả cuối_cùng là khách_hàng của Adyen tiết_kiệm được rất nhiều tiền .
+Một ưu_điểm khác của Adyen là hệ_thống của họ không phân_biệt các giao_dịch từ đâu đến .
+Công_ty có_thể xử_lý 250 hệ_thống giao_dịch khác_nhau từ PayPal của Mỹ , Nets của Singapore , đến Alipay của Trung_Quốc và con_số này đang tăng không ngừng .
+Đối_thủ của Adyen là Stripe chỉ có_thể xử_lý các giao_dịch thanh_toán qua thẻ_tín_dụng và tự giới_hạn mình ở các nước có tỷ_lệ sử_dụng thẻ_thanh_toán cao .   Điều này giúp Adyen phát_huy thế mạnh của mình ở châu Á và châu Âu , nơi mà các phương_thức thanh_toán phổ_biến khác_nhau ở từng nước .
+Dù_Adyen có quan_hệ rất thân_thiết với các khách_hàng , họ lại không tuỳ chỉnh hệ_thống của mình theo yêu_cầu của một khách_hàng riêng_lẻ nào .
+Họ chỉ làm điều đó khi nhiều khách_hàng bắt_đầu cùng muốn một thứ .
+" Chúng_tôi luôn hạn_chế việc thay_đổi hệ_thống theo yêu_cầu đơn_lẻ .
+Điều đó ảnh_hưởng đến chất_lượng dịch_vụ của chúng_tôi " , Warren cho_biết .
+Vĩnh_Viễn ( Theo Tech in Asia )

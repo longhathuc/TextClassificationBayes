@@ -1,0 +1,14 @@
+Đường truyền Internet tốc_độ tải 125 GB mỗi giây
+Các nhà_khoa_học Đức thử_nghiệm thành_công đường truyền Internet cáp_quang đạt tốc_độ trung_bình lên đến một terabit mỗi giây .
+Một nhóm nhà_khoa_học tìm ra cách tải dữ_liệu với tốc_độ trung_bình nhanh hơn 1.000 lần so với Google_Fibre , dịch_vụ đạt tốc_độ một gigabit mỗi giây được xem là nhanh_nhất hiện_nay , theo Science_Alert .
+Kết_quả được báo_cáo tại Hội_nghị châu Âu về Truyền_thông Quang_học ( ECOC ) năm 2016 diễn ra tuần trước ở Dü sseldorf , Đức .
+Công_nghệ mới mang tên Probabilistic_Constellation_Shaping ( PCS ) , được phát_triển bởi Đại_học Công_nghệ Munich , Phòng_thí_nghiệm Nokia_Bell và thử_nghiệm trên mạng cáp_quang của Deutsche_Telekom .
+PCS hoạt_động thông_qua tăng hiệu_suất truyền dữ_liệu trong mạng_lưới cáp_quang , giúp giảm hiện_tượng trễ mạng .
+Một phần_mềm do nhóm nghiên_cứu phát_triển đảm_bảo lượng tín_hiệu biên_độ thấp được sử_dụng nhiều hơn tín_hiệu biên_độ cao .
+Điều này cho_phép điều_chỉnh tốc_độ truyền phù_hợp với mạng cáp_quang , nhờ đó tín_hiệu ít bị ảnh_hưởng bởi hiện_tượng nhiễu trong đường_dây và những tạp_âm khác .
+Khi sử_dụng Internet tốc_độ cao PCS , người dùng có_thể tải về 125 GB dữ_liệu chỉ trong một giây .
+Nếu nhiều người cùng sử_dụng đường truyền , họ có_thể tải xong 25 bộ phim 5 GB trong thời_gian cực ngắn .
+Công_nghệ PCS đã được áp_dụng trên mạng cáp_quang để truyền dữ_liệu giữa các thành_phố Stuttgart , Darmstadt và Nuremberg ở Đức .
+Trước_đây , các nhà_khoa_học từng tạo ra những hệ_thống Internet tốc_độ cao , nhưng hầu_hết chỉ dừng ở quy_mô trong phòng_thí_nghiệm .
+Xem thêm :   Ba ̉ n đô ̀ các thiê ́ t bi ̣ kê ́ t nô ́ i Internet trên Tra ́ i Đâ ́ t
+Quang_Niên

@@ -1,0 +1,14 @@
+Câu_đố logic thách_thức suy_luận người giải
+Câu_đố logic về 4 học_sinh đội mũ sau một ngày đăng_tải trên một trang mạng xã_hội đã nhận được hàng trăm lượt bình_luận và chia_sẻ .
+Trong phòng có 4 học_sinh ( như hình trên ) .
+Cô_giáo đưa ra luật_chơi và một_số dữ_kiện :
+- Có 4 học_sinh trong phòng .
+- Có 2 học_sinh đội mũ đen và 2 học_sinh đội mũ trắng .
+- Có một bức tường ngăn_cách A và 3 học_sinh còn lại , hai bên không_thể nhìn thấy nhau .
+- Tất_cả không biết mũ mình đang đội màu gì .
+- Tất_cả không được bỏ mũ ra để xem là màu gì .
+- Tất_cả không được quay người để nhìn về phía sau , chỉ được phép nhìn phía trước .
+Sau khi đưa ra luật , cô_giáo nói " học_sinh nào biết mũ của mình màu gì thì giơ tay " .
+Chỉ có một học_sinh là đúng với logic chính_xác .
+Hỏi ai đã trả_lời đúng và giải_thích tại_sao ?
+Thanh_Tâm

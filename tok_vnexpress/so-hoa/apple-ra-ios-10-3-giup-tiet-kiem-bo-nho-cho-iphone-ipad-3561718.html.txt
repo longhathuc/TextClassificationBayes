@@ -1,0 +1,13 @@
+Apple ra i OS 10.3 giúp tiết_kiệm bộ_nhớ cho i Phone , iPad
+Hệ_điều_hành mới nhất cho các thiết_bị di_động của Apple sử_dụng định_dạng tập_tin hệ_thống mới , bổ_sung tính_năng tìm tai_nghe và sửa nhiều lỗi khác .
+Sau 7 bản thử_nghiệm , Apple đã chính_thức phát_hành i OS 10.3 cho tất_cả người dùng .
+Các thiết_bị đang chạy i OS 10 đều có_thể nâng_cấp lên phiên_bản mới nhất thông_qua i Tunes hoặc cập_nhật trực_tiếp trên thiết_bị .
+Những thay_đổi trên i OS 10.3 .
+Một trong những thay_đổi quan_trọng trên i OS 10.3 là Apple sử_dụng định_dạng tập_tin hệ_thống mới ( APFS ) thay cho kiến_trúc file HFS+ của những bản trước_đây .
+APFS được tối_ưu cho bộ_nhớ lưu_trữ flash / SSD , bao_gồm khả_năng mã_hóa .
+Các ưu_điểm khác còn có hỗ_trợ sao lưu tốt hơn , tiết_kiệm không_gian lưu_trữ , từ đó giúp hệ_thống hoạt_động ổn_định hơn .
+Một thành_viên MacRumors cho_biết thiết_bị của anh thông_báo đã sử_dụng 20 GB lưu_trữ , còn trống 101,5 GB nhưng khi nâng_cấp i OS 10.3 thì bộ_nhớ trống tăng thành 106 GB và số dữ_liệu đã sử_dụng chỉ là 18 GB .
+Người dùng cũng được lưu_ý rằng quá_trình nâng_cấp i OS 10.3 có_thể mất khá nhiều thời_gian .
+Các tính_năng nổi_bật được đưa lên i OS mới còn có Find my AirPods giúp tìm tai_nghe không dây của Apple , Siri thêm một loạt lệnh , CarPlay hoạt_động nhanh hơn hay gửi đánh_giá trên App_Store ...
+Xem chi_tiết những thay_đổi trên i OS 10.3
+Tính_năng tìm tai_nghe không dây .

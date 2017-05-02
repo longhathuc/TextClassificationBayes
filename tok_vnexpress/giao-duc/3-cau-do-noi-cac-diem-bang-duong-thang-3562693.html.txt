@@ -1,0 +1,10 @@
+3 câu_đố nối các điểm bằng đường_thẳng
+Sử_dụng 4 đường_thẳng liền nhau để nối 9 điểm cho sẵn ; hoặc 3 đường_thẳng để nối 9 điểm , bạn hãy thử vận_động trí_não để giải_quyết .
+1 . Nối 9 điểm bằng 4 đường_thẳng
+Với 9 điểm ở vị_trí như trong hình , bạn hãy tìm cách nối 9 điểm này bằng 4 đường_thẳng liền nhau , có_nghĩa điểm kết_thúc đường_thẳng này là điểm khởi_đầu đường_thẳng khác .
+> > Xem đáp_án
+Bạn có 9 điểm tương_tự hình trên .
+Hãy tìm cách nối 9 điểm này bằng chỉ 3 đường_thẳng liền nhau .
+> > Xem đáp_án
+Tương_tự , hãy thử nối 16 điểm_chỉ bằng 6 đường_thẳng liền nhau .
+> > Xem đáp_án

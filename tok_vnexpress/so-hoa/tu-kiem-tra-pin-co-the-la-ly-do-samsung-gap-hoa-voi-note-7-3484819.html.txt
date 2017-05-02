@@ -1,0 +1,23 @@
+Tự kiểm_tra pin có_thể là lý_do Samsung gặp họa với Note 7
+Các hãng smartphone khác như Apple , Motorola đều sử_dụng thêm phòng_thí_nghiệm của bên thứ_ba để kiểm_tra chất_lượng của pin .
+Pin sử_dụng trong Galaxy_Note 7 được kiểm_tra hoàn_toàn bởi phòng_thí_nghiệm thuộc chính Samsung .
+Đây có_thể là nguyên_nhân khiến Samsung gặp khó trong việc kiểm_soát chất_lượng cũng_như chìm sâu vào khủng_hoảng với mẫu di_động này , theo The_Wall_Street_Journal .
+Để bán được điện_thoại thông_qua các nhà mạng lớn tại Mỹ , nhà_sản_xuất điện_thoại thông_thường được yêu_cầu kiểm_tra pin ở một trong 28 phòng_thí_nghiệm của Tổ_chức thương_mại không dây Mỹ ( CTIA ) .
+Điều này nhằm đảm_bảo tuân_thủ các tiêu_chuẩn của Viện kỹ_thuật điện và điện_tử của nước này .
+Một phát_ngôn_viên của Samsung cho_biết phòng thử_nghiệm nội_bộ của hãng đã không tiết_lộ bất_kỳ nguyên_nhân nào dẫn đến sự_cố với Galaxy_Note 7 bao_gồm cả bản_gốc lẫn phiên_bản được đổi trả sau đó .
+Máy bị thu_hồi từ tháng 9 và sau đó chính_thức bị khai_tử vào tuần trước .
+Trong tuyên_bố ngày 14/10 , Samsung cho_biết đang có kế_hoạch nâng_cấp quy_trình chất_lượng đảm_bảo không mắc lại cuộc khủng_hoảng như Note 7 .
+Tuy_nhiên , hãng lại từ_chối bình_luận về việc có kế_hoạch sử_dụng phòng_thí_nghiệm pin của bên thứ 3 hay không .
+Apple đang sử_dụng phòng_thí_nghiệm của bên thứ 3 có chứng_nhận CTIA để kiểm_tra pin trên các thiết_bị của mình .
+Một nhà_sản_xuất khác là Motorola kiểm_tra trong phòng_thí_nghiệm của riêng mình nhưng vẫn có các công_đoạn cuối tại một phòng_thí_nghiệm của bên thứ 3 .
+Phòng_thí_nghiệm của Samsung cũng đạt tiêu_chuẩn CTIA   ( cấp chứng_chỉ năm 2009 ) nhưng do chính hãng quản_lý và vận_hành .
+Galaxy_Note 7 buộc phải khai_tử vì lỗi pin chưa_thể khắc_phục .
+Theo   John_Copeland , người từng làm_việc cho phòng_thí_nghiệm của Motorola , động_thái của Samsung là bình_thường đối_với nhiều nhà_sản_xuất điện_thoại_di_động .
+Việc sử_dụng phòng_thí_nghiệm riêng sẽ giúp công_ty bảo_vệ các bí_mật thương_mại .
+" Hầu_hết các nhà_sản_xuất đều lo_ngại về thông_tin độc_quyền của họ có_thể bị rò_rỉ ra ngoài " , ông   Copeland nói và không quên nhấn_mạnh các cuộc kiểm_toán là đủ để đảm_bảo không có xung_đột về lợi_ích .
+Samsung đã ghi_nhận khoảng 92 trường_hợp cháy nổ hoặc pin quá nóng của Galaxy_Note 7 .
+Trong những năm 2000 , điện_thoại_di_động lên_ngôi kéo_theo ngành công_nghiệp pin cũng phát_triển nóng .
+Các nhà_sản_xuất dù có nhiều kinh_nghiệm nhưng việc chạy_đua tạo ra các sản_phẩm giá rẻ khiến chất_lượng không được đảm_bảo .
+Các trường_hợp cháy , nổ pin tăng cao khiến CTIA và Ủy_ban An_toàn sản phầm tiêu_dùng Mỹ ( IEEE ) đã cùng nghiên_cứu , tạo ra quy_trình thử_nghiệm pin trong năm 2005 .
+Các phòng_thí_nghiệm của CTIA được xây_dựng ở các cơ_sở riêng_biệt và cũng được kiểm_soát riêng_rẽ .
+Hiện tổ_chức này đã kiểm_định khoảng 1.500 loại pin khác_nhau .

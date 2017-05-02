@@ -1,0 +1,6 @@
+Bài_toán tìm tất trong bóng_tối
+Bạn làm thế_nào để chắc_chắn lấy_được một_đôi tất đen khi không_thể nhìn thấy màu_sắc trong bóng_tối ?
+Một người đàn_ông có 53 chiếc tất trong ngăn_kéo : 21 chiếc màu xanh ,   15 chiếc màu đen và 17 chiếc màu đỏ .
+Bỗng_nhiên mất điện và anh_ta hoàn_toàn ở   trong bóng_tối .
+Hỏi anh_ta cần lấy ra bao_nhiêu chiếc tất để chắc_chắn 100% có một   đôi màu đen ?
+Phiêu_Linh ( theo Tree_Knox )

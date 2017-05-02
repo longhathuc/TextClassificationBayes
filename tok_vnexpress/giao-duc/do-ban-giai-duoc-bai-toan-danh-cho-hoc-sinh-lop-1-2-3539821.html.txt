@@ -1,0 +1,8 @@
+Đố bạn giải được bài_toán dành cho học_sinh lớp 1-2
+Bài_toán đồng xu dành cho học_sinh lớp 1-2 trong đề thi Toán quốc_tế Kangaroo có_thể là thử_thách lớn đối_với bạn .
+Cùng làm để thử xem bạn có thông_minh hơn học_sinh lớp 2 .
+Trên bảng có các đồng xu .
+Chúng_ta muốn có hai đồng xu trên mỗi hàng và hai đồng xu trên mỗi cột .
+Hỏi cần phải bỏ đi bao_nhiêu đồng xu và đó là đồng xu ở vị_trí nào ?
+Trần_Phương
+> > Bài_toán về người say rượu khiến bạn chóng_mặt > > Thử tài tư_duy của bạn với bài_toán lớp 7

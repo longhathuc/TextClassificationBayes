@@ -1,0 +1,25 @@
+Luật_sư ảo cho người vô_gia_cư
+Những người bị đuổi ra khỏi nhà do nợ_nần hay không_thể thanh_toán tiền các dịch_vụ có_thể nhờ luật_sư ảo đưa ra giải_pháp cụ_thể .
+Chương_trình này mang tên DoNotPay do Joshua_Browder - chàng sinh_viên công_nghệ_thông_tin 19 tuổi sống tại London nước Anh thành_lập .
+Ý_tưởng luật_sư ảo cho người vô_gia_cư xuất_hiện từ khi anh nhận email từ người phụ_nữ ở một bệnh_viện Anh .
+Trong thư cô viết rất tuyệt_vọng vì sắp kết_thúc đợt điều_trị , phải xuất_viện nhưng không có nơi nào để về vì trước đó đã bị đuổi ra khỏi nhà .
+Chính_phủ Anh có chính_sách nhà_ở cho người vô_gia_cư mới , tuy_nhiên họ phải nộp đơn .
+Nhưng nếu_không có kiến_thức về pháp_luật hay tiền_bạc nhờ luật_sư soạn_thảo đơn và hướng_dẫn quy_trình cụ_thể , cơ_hội để những người như_vậy có nơi cư_ngụ tạm_thời khá thấp .
+Vấn_đề này sẽ được giải_quyết khi người dùng tiến_hành đăng_ký tài_khoản tại website   do Joshua_Browder sáng_lập , sau đó sẽ chat trực_tuyến với luật_sư ảo .
+Tại đây , họ trả_lời các câu_hỏi về hoàn_cảnh thực_tế của mình như lý_do không có nhà để ở , điều_kiện sức_khỏe hay tình_trạng khuyết_tật ...
+Từ đó hệ_thống sẽ tự_động đánh_giá và đưa ra những giải_pháp phù_hợp nhất hoàn_toàn miễn_phí , tối_đa hóa cơ_hội ứng_viên nhận được nhà_ở .
+Theo tờ The_Guardian , tình_trạng người_dân không nơi trú_ngụ tại Anh gia_tăng khi phúc_lợi cắt_giảm và chi_phí thuê nhà tăng cao .
+Từ năm 2010 đến 2015 , tỷ_lệ người phải ra đường tăng 53% , chỉ riêng năm_ngoái đã có 42.728 người_ở nhà thuê bị đuổi .
+Trong khi đó , phí thuê luật_sư ở quốc_gia này không hề rẻ nên nhiều người không có sự trợ_giúp pháp_lý .
+Còn ở Mỹ , lượng nhà bị tịch_thu tăng vọt sau cuộc khủng_hoảng tài_chính năm 2008 .
+Browder đã chuyển đến Mỹ năm_ngoái học Đại_học Stanford hy_vọng DoNotPay sẽ tiếp_cận và giúp_đỡ những người gặp khó_khăn về nhà_ở tại xứ_sở cờ hoa .
+DoNotPay được Joshua_Browder khởi_động từ tháng 9/2015 , ứng_dụng công_nghệ trí_tuệ_nhân_tạo AI để đưa ra các giải_pháp giao_tiếp tự_động .
+Mục_đích ban_đầu của dịch_vụ miễn_phí này là giúp người_dân London khiếu_nại về việc phạt đậu xe không đúng quy_định .
+Người bị phạt truy_cập website để truy_vấn tất_cả thông_tin về phiếu phạt và nhận giải_đáp , đưa ra dẫn_chứng , chứng_minh đậu xe đúng luật và không phải đóng phạt .
+Đến tháng 4/2016 , DoNotPay mở_rộng dịch_vụ sang Mỹ .
+Đến nay , nhờ có dịch_vụ này mà khoảng 160.000 vé phạt ở cả London và New_York thực_hiện khiếu_nại thành_công .
+Chương_trình cũng hỗ_trợ người dùng đòi quyền_lợi từ hãng hàng_không khi bị hủy , hoãn chuyến , yêu_cầu bồi_thường ...
+Nhờ những đóng_góp tích_cực cho cộng_đồng mà Joshua_Browder được BBC vinh_danh là " Robin_Hood của Internet " .
+Sự hiệu_quả của chương_trình đã khiến nhiều doanh_nghiệp ngỏ ý hợp_tác kinh_doanh hoặc đàm_phán với Browder để mua lại toàn_bộ .
+Tuy_nhiên anh vẫn kiên_định với mục_đích phi lợi_nhuận và sẽ phát_triển nhiều tính_năng hữu_ích khác phục_vụ cộng_đồng .
+Minh_Trí

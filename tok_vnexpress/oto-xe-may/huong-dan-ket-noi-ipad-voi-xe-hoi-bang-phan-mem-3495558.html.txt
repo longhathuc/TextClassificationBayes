@@ -1,0 +1,3 @@
+Hướng_dẫn kết_nối Ipad với xe_hơi bằng phần_mềm
+Với phần_mềm Command_Touch được tải từ App_Store , người sử_dụng kết_nối và điều_khiển hệ_thống giải_trí trên xe_hơi dễ_dàng .
+Thực_hiện : Đức_Quang

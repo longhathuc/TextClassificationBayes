@@ -1,0 +1,21 @@
+Tại_sao nên cầm i Phone 6s bằng tay_phải khi gọi điện
+Cầm i Phone 6s/6s Plus bằng tay_phải cho chất_lượng cuộc_gọi tốt hơn tay_trái do sự chênh_lệch tín_hiệu tác_động bởi cơ_thể lên ăng - ten thiết_bị .
+Trong quá_khứ , cố CEO Steve_Jobs từng giải_thích việc i Phone 4 gặp vấn_đề về tín_hiệu là do cách cầm của người dùng .
+Khi đó , không ít ý_kiến phản_bác cho rằng vị CEO của Apple đã sai , thậm_chí có người buồn_cười vì câu nói của ông .
+Tuy_nhiên , công_trình nghiên_cứu của Giáo_sư Gert_Fr ø lund Pedersen thuộc Đại_học Aalborg ( Đan_Mạch ) chứng_minh rằng Jobs đã đúng .
+Trong thống_kê đăng trên Bussiness_Insider , Giáo_sư Pedersen đã tiến_hành thử_nghiệm cường_độ tín_hiệu của 26 smartphone phổ_biến nhất hiện_nay khi cầm_bằng tay_phải và tay_trái , sau đó lập biểu_đồ so_sánh sự chênh_lệch .
+Sự chênh_lệch cường_độ tín_hiệu theo vị_trí   tay_cầm   xảy_ra với bất_kỳ điện_thoại nào , nhưng nó không lớn như i Phone 6s và i Phone 6s Plus .
+Kết_quả , iPhone 6s và i Phone 6s Plus có mức chênh_lệch tín_hiệu lớn nhất .
+Khi nghe điện_thoại bằng tay_phải , iPhone 6s Plus cho tín_hiệu lên tới 18,7 dBm ( decibel mili ) nhưng nếu cầm_bằng tay_trái thì chỉ là 6,5 dBm , thấp hơn tới gần 3 lần .
+iPhone 6s cũng có mức chênh_lệch gần gấp đôi , 15,1 dBm so với 8,7 dBm .
+Trong danh_sách còn có một_số thiết_bị khác , bao_gồm Lumia 640 của Microsoft , Desire 626 của HTC… và cả i Phone SE .
+So với i Phone 6s và i Phone 6s Plus , mức chênh_lệch cường_độ tín_hiệu của các sản_phẩm trên ít hơn .
+Theo Giáo sư Pedersen , hiện_tượng chênh_lệch tín_hiệu khi cầm điện_thoại bằng tay_phải so với tay_trái gọi_là " body loss " .
+Nó thể_hiện sự tương_tác giữa cơ_thể con_người với cách thiết_kế ăng - ten trên điện_thoại nói_chung và smartphone nói_riêng .
+" Cường_độ tín_hiệu phụ_thuộc mạnh_mẽ vào cách bố_trí ăng - ten trên thiết_bị di_động và cách người dùng cầm nó .
+Nếu cầm sai cách , tín_hiệu đi vào sẽ bị che mất , và ngược_lại " , Giáo_sư Pedersen giải_thích .
+Tuy_nhiên , ông nhấn_mạnh rằng sự chênh_lệch trên không lớn khi người dùng sử_dụng smartphone ở nơi sóng điện_thoại mạnh , hoặc để kết_nối dữ_liệu cho các mục_đích khác , như lướt web , mạng xã_hội , ứng_dụng di_động , stream video , xem phim , nghe nhạc …
+Theo dự_đoán , với việc i Phone 7 và i Phone 7 Plus ra_mắt loại_bỏ dải nhựa ăng - ten , vấn_đề chênh_lệch tín_hiệu này có_thể được cải_thiện hơn .
+Nhưng để có_thể kiểm_chứng , phải đợi đến khi thiết_bị có_mặt chính_thức trên thị_trường .
+Apple chưa đưa ra bình_luận nào về nghiên_cứu này .
+Bảo_Lâm

@@ -1,0 +1,13 @@
+Vé phạt đỗ xe to bằng kính chắn gió
+Thiết_bị đặc_biệt trông giống một cuốn sách cỡ lớn , gắn chặt lên kính và tài_xế chỉ tháo được khỏi xe sau khi đã nộp phạt .
+Barnacle , tên gọi của loại vé phạt , che_kín kính chắn gió khiến tài_xế không_thể lái_xe đi trong khi cảnh_sát cũng không cần áp_dụng các biện_pháp thông_thường như khóa bánh_xe .
+Nếu nộp tiền phạt qua điện_thoại , tài_xế sẽ nhận được mã để nhập vào Barnacle qua chính bàn_phím trên thiết_bị .
+Tấm vé màu vàng cỡ lớn ngay sau đó được tháo ra dễ_dàng .
+Sáng_kiến này thuộc về Kevin_Dougherty , một cư_dân thành_phố Philadelphia , Mỹ .
+Thiết_kế được tác_giả nhận_xét là " thân_thiện với cả các nhà thi_hành luật lẫn người bị phạt " .
+Sau khi nộp phạt và gỡ tấm vé khổng_lồ khỏi xe , tài_xế có_thể mang thiết_bị đặc_biệt này tới một địa_điểm được chỉ_định trước trong vòng 24 tiếng .
+Barnacle sử_dụng dạng tấm hít kính và chuông báo_động trong trường_hợp ai đó nhập mã giả hoặc tìm cách đưa xe đi khỏi chỗ .
+Thiết_bị cũng có_thể tích_hợp hệ_thống định_vị GPS .
+Thiết_kế gọn_nhẹ còn giúp cất_giữ và di_chuyển dễ_dàng .
+Barnacle đã được thử_nghiệm tại các thành_phố ở Mỹ như Salt_Lake_City , Fort_Lauderdale và Allentown , theo Patch .
+Mỹ_Anh

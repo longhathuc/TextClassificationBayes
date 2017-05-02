@@ -1,0 +1,27 @@
+Kỷ_nguyên thiết_bị thông_minh bị tấn_công đã bắt_đầu
+Ấm đun nước , camera giám_sát , smart TV , máy_ảnh … có kết_nối Internet dễ_dàng bị hacker chiếm quyền và lợi_dụng để tấn_công mạng trong thời_đại Internet vạn_vật ( IoT ) .
+Những năm 1970 và 1980 , camera giám_sát ra_đời và sớm trở_thành công_cụ hữu_hiệu trong việc chống tội_phạm .
+Thời_gian sau , nó được áp_dụng để theo_dõi tình_trạng tắc_nghẽn giao_thông , theo_dõi trẻ_em … Thiết_bị này được điều_khiển thông_qua mạng máy_tính .
+Các thiết_bị thông_minh đang trở_thành đối_tượng tấn_công mới của hacker .
+Gần 40 năm sau , Internet đã phát_triển mạnh_mẽ , cùng_với vô_vàn các thiết_bị thông_minh khác_nhau có_thể kết_nối thông_qua nó , không bị giới_hạn ở máy_tính hay smartphone nữa .
+Mạng_lưới các thiết_bị này gọi chung là Internet of Things ( IoT - Internet của vạn_vật ) .
+IoT sẽ là mạng khổng_lồ kết_nối tất_cả mọi thứ , bao_gồm cả con_người và sẽ tồn_tại các mối quan_hệ giữa người và người , người và thiết_bị , thiết_bị và thiết_bị .
+Những lợi_ích mà IoT mang lại cho con_người là rất lớn , có_thể được áp_dụng ở nhiều lĩnh_vực khác_nhau .
+Với hộ gia_đình , hệ_thống có_thể tự điều_khiển tắt / bật bóng_đèn , máy_bơm tưới nước cho cây_cối , camera theo_dõi an_ninh , máy_giặt tự giặt đồ … Vĩ_mô hơn , nó có_thể được áp_dụng để xây_dựng các thành_phố thông_minh với đèn đường có_thể thích_ứng với điều_kiện thời_tiết , đèn giao_thông có_thể điều_tiết dựa trên tình_hình giao_thông hiện_tại , hệ_thống thông_báo tình_trạng ô_nhiễm không_khí thời_gian_thực … Theo dự_đoán của Cisco , đến năm 2020 , sẽ có hơn 50 tỷ thiết_bị kết_nối Internet , và điều này sẽ thay_đổi cách chúng_ta sống và làm_việc .
+Tuy_nhiên , sự_cố tấn_công Dyn   -   công_ty quản_lý hệ_thống tên_miền ( Domain_Name_System ) - bằng cách huy_động lượng lớn thiết_bị thông_minh trong đó có webcam , khiến một_nửa số trang_web có lưu_lượng lớn nhất trên Internet bị ngưng_trệ hoặc khó truy_cập hôm 21/10 đã " lật_tẩy " một vấn_đề : những thiết_bị này rất dễ bị tấn_công hoặc bị lợi_dụng để tấn_công vì cơ_chế bảo_mật kém .
+Mặc_dù chưa đưa ra kết_luận chính_thức , nhưng việc   Dyn bị tấn_công có_thể do hacker lợi_dụng các thiết_bị thông_minh có kết_nối Internet sau khi chiếm quyền điều_khiển chúng .
+Đây không phải là lần đầu_tiên thiết_bị thông_minh bị lợi_dụng .
+Năm 2014 , hacker đã xâm_nhập hơn 100.000 tivi , tủ_lạnh , và các thiết_bị gia_dụng thông_minh khác để gửi đi hàng triệu thư rác độc_hại .
+Trước đó , một virus Linux có tên " Linux.Darlloz " cũng đã xâm_nhập và tấn_công một_số thiết_bị gia_dụng , home router , Set-top box , camera an_ninh và máy_in , để đánh_cắp hệ_thống Crypto như Bitcoin .
+Theo Mercedes_Bunz , giảng_viên chuyên_ngành bảo_mật máy_tính tại Đại_học Westminster , tin_tặc đang có xu_hướng chuyển_hướng mục_tiêu qua các thiết_bị thông_minh bởi máy_tính hay điện_thoại đã có các phương_thức bảo_mật tối_đa .
+" Bạn có_thể cài_đặt phần_mềm diệt virus hoặc tường lửa trên máy_tính , nhưng không_thể làm điều đó trên một chiếc bàn_chải đánh răng kết_nối Internet vì không đủ bộ_nhớ .
+Các phần_mềm có chức_năng tương_tự ( nếu có ) cũng không_thể ngăn_chặn nguy_cơ tấn_công như trên PC " , Bunz nói .
+Bên_cạnh đó , bà Bunz cho rằng nguyên_nhân còn đến từ sự chủ_quan của người dùng .
+" Ví_dụ với modem Wi-Fi , người dùng vẫn vô_tư sử_dụng tài_khoản và mật_khẩu mặc_định , hoặc mật_khẩu dễ đoán .
+Điều này đã vô_tình tiếp_tay cho hacker , ' giúp ' hacker biến các thiết_bị trên thành một đội quân botnet hùng_hậu để đi tấn_công các hệ_thống khác " , chuyên_gia này cho_biết .
+Một chiếc nồi_cơm_điện có kết_nối Internet của Xiaomi   có_thể bị lợi_dụng để làm công_cụ tấn_công mạng bất_cứ lúc_nào .
+Theo NYTimes , nguy_cơ tấn_công và bị lợi_dụng để tấn_công các hệ_thống khác của các thiết_bị thông_minh dựa trên IoT đã được các nhà_nghiên_cứu bảo_mật cảnh_báo từ lâu .
+Tuy_nhiên , các công_ty lại cho rằng , những cảnh_báo đó đã bị cường_điệu hóa , và họ phớt_lờ chúng thay_vì sợ_hãi .
+" Dyn có_thể sẽ là khởi_đầu cho kỷ_nguyên mà các cuộc tấn_công mạng được thực_hiện dựa trên những thứ được dán nhãn ' thông_minh ' .
+Trên thế_giới , đang có hàng chục_triệu thiết_bị ' thông_minh ' không an_toàn , và chúng có_thể gây nguy_hiểm cho các hệ_thống lớn nếu được khai_thác " , Chester_Wisniewski , chuyên_gia bảo_mật máy_tính của công_ty an_ninh mạng Sophos , nhận_định .
+Bảo_Lâm

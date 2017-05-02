@@ -1,0 +1,12 @@
+iPhone SE bị lỗi kết_nối Bluetooth
+Di_động mới của Apple gặp lỗi khi sử_dụng các phụ_kiện có kết_nối Bluetooth như tai_nghe , hệ_thống giải_trí của xe_hơi hay loa không dây .
+Theo các khiếu_nại được đăng trên trang hỗ_trợ của Apple , iPhone SE đang gặp vấn_đề với chất_lượng âm_thanh khi nghe qua các phụ_kiện hỗ_trợ Bluetooth .
+Người dùng cho_biết âm_thanh họ nghe được qua tai_nghe có dây và tai_nghe không dây có sự khác_nhau đáng_kể .
+Vấn_đề cũng được cho là ảnh_hưởng khi i Phone SE ghép_nối với hệ_thống giải_trí trên xe_hơi có sử_dụng Bluetooth .
+Theo mô_tả của một_số người dùng , âm_thanh bị méo và nghe giống như giọng nói của robot .
+Các tình_huống bị ảnh_hưởng là gọi điện , giọng nói đi kèm chương_trình dẫn đường GPS , cuộc_gọi video Facetime .
+Tuy_nhiên , các phần_mềm nghe nhạc trực_tuyến lại không bị ảnh_hưởng .
+Đội_ngũ kỹ_thuật của Apple đã tiếp_nhận sự_việc và đang tìm cách khắc_phục .
+Vấn_đề âm_thanh qua kết_nối Bluetooth từng xảy_ra với người dùng i Phone khi cập_nhật lên i OS 8.1 vào tháng 10/2014 .
+Lỗi khi đó được xác_định là do bản cập_nhật bị lỗi .
+Hoài_Anh

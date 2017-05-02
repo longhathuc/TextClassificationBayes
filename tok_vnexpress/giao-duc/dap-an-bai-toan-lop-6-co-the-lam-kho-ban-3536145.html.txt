@@ -1,0 +1,25 @@
+Đáp_án bài_toán lớp 6 có_thể làm_khó bạn
+Bài_toán tính độ dài cây nến đã thực_sự làm_khó nhiều người .
+Một_số khác lại đưa ra cách giải không phù_hợp với học_sinh lớp 6-7 .
+Peter và Jane mỗi người có một cây nến .
+Cây nến của Jane ngắn hơn của Peter   3 cm .
+Hai người thắp nến ở hai thời_điểm khác_nhau .
+Peter thắp nến lúc 7h và Jane thắp lúc 9h .
+Hai cây nến bằng nhau lúc 10h .
+Sau đó , nến của Jane cháy tiếp 4 giờ và của Peter cháy tiếp 6 giờ thì tắt .
+Hỏi ban_đầu độ dài cây nến của Peter là bao_nhiêu ?
+Sau khi hai cây nến cháy bằng nhau , nến của Jane cháy tiếp 4 giờ và của Peter cháy tiếp 6 giờ thì tắt .
+Trong trường_hợp này , thời_gian tỷ_lệ_nghịch với vận_tốc cháy .   Từ đó ta có tỷ_lệ vận_tốc cháy giữa nến của Peter và Jane là 4 : 6 = 2 : 3
+Gọi chiều dài cây nến của Peter là a ( cm ) .
+Suy ra , chiều dài cây nến của Jane là
+a - 3 ( vì nến của Jane ngắn hơn của Peter 3 cm ) .
+Nến của Peter cháy được 9 tiếng .
+Suy ra vận_tốc cháy của nến là a / 9 .
+Nến của Jane cháy được 5 tiếng .
+Suy ra   vận_tốc cháy của nến là ( a - 3 ) / 5 .
+Vì tỷ_lệ vận_tốc cháy giữa nến của Peter và Jane là 2 : 3 nên ta có
+a / 9 = ( 2/3 ) x ( a - 3 ) / 5 .
+Giải phương_trình một ẩn trên ta được a = 18 ( cm )
+Như_vậy , cây nến của Peter ban_đầu dài 18 cm .
+Thanh_Tâm
+> > Bài_toán lớp 6 có_thể làm_khó bạn

@@ -1,0 +1,20 @@
+Đáp_án bài_toán ' chiếc đồng_hồ kỳ_lạ '
+Một_số độc_giả đã tìm ra đáp_án , đồng_hồ chỉ 4h50 phút .
+Đề_bài :
+Bài_toán sau đây được ra trong vòng_loại thứ_hai của kỳ thi IMC 2016 ( cuộc_thi toán quốc_tế Singapore dành cho học_sinh lớp 3 đến lớp 8 ) .
+Đây là bài 17 trong đề thi dành cho lớp 7 .
+Hồng nhìn thấy trong bảo_tàng một chiếc đồng_hồ lạ như sau :
+Nó khác các đồng_hồ khác ở chỗ mặt_số không ghi một con_số nào , và nói_chung không hiểu đâu là phía trên của đồng_hồ .
+Đã_vậy các kim giờ , kim phút và kim giây lại có chiều dài bằng nhau .
+Hỏi đồng_hồ chỉ mấy giờ ?
+( Chú_ý : các kim A và C trên hình chỉ đúng vào vạch chỉ giờ , còn kim B chỉ gần tới vạch chỉ giờ ) .
+Giải :
+Nếu kim A hoặc kim C là kim giờ thì hai kim còn lại phải chỉ đúng số 12 , mâu_thuẫn với giả_thiết .
+Do_đó kim B chỉ giờ .
+Nếu kim C là kim phút thì kim A là Kim giây .
+Lúc này kim A sẽ phải chỉ đúng số 12 , kim C chỉ đúng số 2 còn kim B sẽ nằm giữa số 6 và số 7 .
+Tức đồng_hồ chỉ 6 giờ 10 phút , tuy_nhiên điều này không hợp_lý vì kim B ở gần số 7 hơn số 6 .
+Do_đó kim C là kim giây , kim A là kim phút .
+Kim C chỉ đúng số 12 , kim A chỉ_số 10 còn kim B nằm giữa số 4 và số 5 .
+Đồng_hồ chỉ 4h50 phút .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

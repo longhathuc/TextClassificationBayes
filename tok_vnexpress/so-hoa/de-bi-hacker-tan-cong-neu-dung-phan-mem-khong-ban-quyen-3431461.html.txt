@@ -1,0 +1,42 @@
+Dễ bị hacker tấn_công nếu dùng phần_mềm không bản_quyền
+Các phần_mềm không bản_quyền rất dễ sinh_ra lỗ_hổng về bảo_mật nên hacker có_thể ăn_cắp dữ_liệu và mật_khẩu dễ_dàng .
+Máy_tính nào cũng có khả_năng nhiễm virus , dữ_liệu bạn lưu_trữ có khả_năng bị đánh_cắp bất_cứ lúc_nào .
+Do_vậy , nhu_cầu về an_toàn dữ_liệu đang ngày_càng được đề_cao .
+Ông Parvinder_Walia , Giám_đốc Kinh_doanh và Marketing khu_vực Châu Á - Thái_Bình_Dương của Eset chia_sẻ những định_hướng về sản_phẩm phần_mềm diệt Virus_Eset của công_ty này tại thị_trường Việt_Nam .
+- Ông đánh_giá thế_nào về thị_trường phần_mềm diệt virus ở Việt_Nam ?
+- Thị_trường phần_mềm diệt virus cạnh_tranh cao , khi số nhà phân_phối phần_mềm diệt virus ở Việt_Nam ngày_càng tăng .
+Theo số_liệu từ báo_cáo của IDC , thị_trường phần_mềm bảo_mật tại Việt_Nam trị_giá khoảng 8-9 triệu USD ( 2015 ) , trong đó Eset chiếm khoảng 6% .
+- Vì_sao công_ty ông quyết_định vào thị_trường Việt_Nam , thay_vì quốc_gia khác ở châu Á ?
+- Cuộc đua giành thị_phần trên thị_trường Việt_Nam diễn ra khá gay_gắt với những nhà phân_phối đã tạo được tên_tuổi ở những ngày đầu tham_gia thị_trường , nên Eset vào Việt_Nam trễ hơn cũng là một phần bị mất lợi_thế cạnh_tranh .
+Tuy_nhiên , chúng_tôi đã tạo nên những thành_công nhất_định để chứng_minh bản_thân trong thị_trường bảo_mật khi hiện_tại công_ty đang đạt vị_trí top 4 toàn_cầu và mục_tiêu chiến_lược 5 năm tới là lọt vào top 3 toàn_cầu về mảng phần_mềm bảo_mật .
+Công_ty sẽ tập_trung phát_triển sản_phẩm hướng đến 2 loại đối_tượng : khách_hàng là người dùng cuối thông_qua hệ_thống các cửa_hàng bán_lẻ và bán trên kênh trực_tuyến ; khách_hàng là doanh_nghiệp .
+Ngoài_ra , công_ty sẽ có nhiều chính_sách tập_trung hỗ_trợ tầng_lớp sinh_viên , học_sinh .
+- Hiện_nay nhiều người dùng phần_mềm diệt virus không có bản_quyền , ông đánh_giá về vấn_đề này như_thế_nào ?
+- Người dùng cần phải hiểu rằng không có gì miễn_phí cả .
+Eset hiểu Việt_Nam và các nước trong khu_vực rất nhạy_cảm về giá_cả cho_nên cần được thay_đổi nhận_thức về tầm quan_trọng của phần_mềm bảo_mật như các sản_phẩm của Eset .
+Công_ty đã cung_cấp nhiều chính_sách giảm_giá cho học_sinh , sinh_viên , các tổ_chức phi lợi_nhuận lên tới 50% , và ở Việt_Nam_Eset sẽ thực_hiện điều này trong tương_lai gần .
+Bên_cạnh đó , công_ty còn có sản_phẩm cơ_bản Nod32 với mức giá rất phù_hợp nhằm bảo_vệ thiết_bị cũng_như dữ_liệu cho người dùng .
+Người dùng cần tránh sử_dụng các phần_mềm không bản_quyền , đặc_biệt là các phần_mềm bảo_mật vì dễ sinh_ra các lỗ_hổng về bảo_mật , giúp hackers có_thể ăn_cắp dữ_liệu và mật_khẩu dễ_dàng .
+- Đâu là lợi_thế cạnh_tranh của hãng so với các đối_thủ khác ?
+- Người dùng hay e_ngại vì phần_mềm diệt virus hay làm chậm máy vì dung_lượng lớn , tốn nhiều tài_nguyên .
+Nhưng các vấn_đề đó lại là điểm mạnh của các sản_phẩm của Eset .
+Chúng_tôi nổi_tiếng là phần_mềm bảo_mật rất nhẹ , ít tiêu tốn tài_nguyên máy , hoạt_động nhanh hơn và khả_năng nhận_diện các loại virus mới rất hiệu_quả .
+Để minh_chứng cho điều này , người dùng có_thể sử_dụng phiên_bản dùng thử của Eset để trải_nghiệm sản_phẩm .
+Sau đó , người dùng có_thể tiếp_tục mua và sử_dụng sản_phẩm .
+Công_ty cũng khuyên nên dùng bản_quyền 12 tháng sẽ tiện_lợi hơn các gói khác .
+- Kế_hoạch phát_triển của Eset ở thị_trường Việt_Nam trong thời_gian tới ?
+- Thời_gian tới , công_ty sẽ tập_trung vào cả thị_trường doanh_nghiệp và cá_nhân , với 40% doanh_nghiệp và 60% cá_nhân .
+Trong đó , ESET Nod32 Antivirus dành cho người dùng phổ_thông đã được biết đến tại thị_trường Việt_Nam .
+Smart_Security lại là phần_mềm mới hơn , cao_cấp hơn và giá bán cũng cao hơn đôi_chút , nên công_ty sẽ tập_trung hơn vào sản_phẩm này .
+Công_ty sẽ đẩy_mạnh các sản_phẩm cho các kênh bán_lẻ để có_thể tiếp_cận thêm nhiều người dùng .
+Ngoài_ra , công_ty đã có kế_hoạch cụ_thể để tung ra các phiên_bản Việt hóa dành cho người dùng Việt_Nam trong thời_gian từ đây đến cuối năm nay .
+Về mảng doanh_nghiệp , công_ty vốn rất quen_thuộc với nhiều doanh_nghiệp vừa và nhỏ .
+Tuy_nhiên , chúng_tôi sẽ cố_gắng để tiếp_cận thêm nhiều công_ty lớn và các tổ_chức chính_phủ thông_qua mối quan_hệ của các đối_tác bán_lẻ trong các năm sắp tới .
+- Sản_phẩm mới của Eset là gì ?
+- Phiên_bản mới của công_ty thường ra_mắt vào tháng 10 mỗi năm nhằm cải_thiện tối_ưu sản_phẩm .
+Tuy_nhiên , chúng_tôi vẫn chưa có dự_định làm sản phảm mới hoàn_toàn .
+Phiên_bản Eset_Mobile_Security có chức_năng parental control để bảo_vệ con_trẻ khỏi những thông_tin độc_hại .
+Phiên_bản này có tính_năng này giúp người dùng lấy lại laptop và mobile khi bị đánh_cắp bằng cách gửi vị_trí theo_dõi , gửi tin nhắn và chụp hình webcam .
+Còn với tính_năng chụp hình webcam sẽ chỉ được kích_hoạt qua trang Eset.com .
+Tuy_nhiên , công_ty sẽ nghiên_cứu và thêm nhiều tính_năng để bảo_vệ webcam và mic tránh bị lạm_dụng bởi kẻ xấu .
+Mai_Thương

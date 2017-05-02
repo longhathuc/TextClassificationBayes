@@ -1,0 +1,10 @@
+Facebook có tính_năng chia_sẻ vị_trí thời_gian_thực giống Google
+Thay_vì liên_tục phải mô_tả vị_trí , lộ_trình hiện_tại cho bạn_bè , người dùng chỉ cần một thao_tác trên ứng_dụng Messenger của Facebook .
+Facebook_Messenger hôm_nay giới_thiệu tính_năng mới là Live_Location giúp chia_sẻ vị_trí thời_gian_thực ( real-time location ) .
+Đây là tính_năng cũng mới được Google giới_thiệu tuần trước cho ứng_dụng bản_đồ Maps .
+Chỉ bằng một thao_tác nhấn trên khung chat , người dùng có_thể chia_sẻ vị_trí thời_gian tức_thời cũng_như lộ_trình di_chuyển cho bạn_bè .
+Không giống như trên Google , việc chia_sẻ vị_trí thời_gian_thực trên Messenger có giới_hạn mỗi lần chỉ trong tối_đa 60 phút .
+Trong khoảng thời_gian này , người dùng cũng có_thể dừng việc chia_sẻ bất_kể khi nào .
+Live_Location hiện có sẵn trên cả ứng_dụng Messenger cho nền_tảng i OS lẫn Android .
+Người dùng nhấn vào biểu_tượng vị_trí ngay phía trên khung nhập văn_bản và chọn nút chia_sẻ vị_trí trong 60 phút .
+Người dùng có_thể xem vị_trí tương_quan giữa bản_thân và bạn_bè .

@@ -1,0 +1,13 @@
+iPhone sẽ có tính_năng chụp ảnh , ghi vân tay kẻ_trộm
+Bằng_sáng_chế mới của Apple cho thấy hãng sẽ tích_hợp tính_năng thu_thập thông_tin , nhận_dạng kẻ_cắp i Phone , iPad thông_qua việc ghi_hình và lấy dấu vân tay .
+Theo công_bố của Cục sáng_chế và Nhãn_hiệu Mỹ , Apple đã đăng_ký phát_minh " chụp trắc sinh_học để xác_định người dùng trái_phép " .
+Theo đó , iPhone , iPad có_thể sử_dụng máy_quét vân tay , kết_hợp cùng camera , mic và các cảm_biến khác để ghi lại thông_tin của kẻ_trộm .
+iPhone sẽ có tính_năng chụp ảnh , ghi dấu vân tay của kẻ_trộm .
+Thực_tế , ý_tưởng của Apple đã xuất_hiện trên một_số phần_mềm Android hay i Phone đã bẻ_khóa có_thể cài ứng_dụng với tính_năng tương_tự .
+Vấn_đề ở đây là công_ty công_nghệ Mỹ tuyên_bố không_lưu bất_cứ thông_tin nào của người dùng , nhưng tính_năng mới buộc hãng phải thay_đổi , thậm_chí là lưu_thông tin mà không công_bố với người dùng .
+Hiện_tại , người sở_hữu i Phone hay i Pad có_thể xác_thực vân tay năm lần , trước khi máy buộc nhập passcode hay mật_khẩu .
+Với mười lần nhập sai mật_khẩu , người sử_dụng sẽ phải chờ một khoảng thời_gian trước khi thử tiếp , hoặc máy sẽ tự_động xóa dữ_liệu nếu bật tính_năng này .
+Apple còn tăng_cường bảo_mật khi i Phone , iPad được khởi_động lại hay không dùng trong vòng 48 giờ thì buộc phải mở khóa bằng mật_khẩu thay_vì Touch ID .
+Apple cho thấy nỗ_lực của hãng trong việc ngăn_chặn các vụ trộm_cắp i Phone , iPad .
+Từ i OS 7 , công_ty công_nghệ Mỹ đã bổ_sung tính_năng bảo_mật   Activation_Lock , mà người dùng buộc phải có tài_khoản Apple ID mới   khôi_phục cài_đặt gốc hay cài lại máy .
+Hay trước đó , Find my i Phone sẽ giúp người dùng khóa máy , định_vị được thiết_bị từ xa .

@@ -1,0 +1,29 @@
+Mỹ chế_tạo máy_bay_không_người_lái hạ_cánh bằng đuôi
+Chiếc máy_bay_không_người_lái có khả_năng hạ_cánh xuống bất_cứ đâu bằng đuôi ( tailsitter ) sẽ biến mọi chiến_hạm của hải_quân Mỹ thành tàu_sân_bay .
+Thiết_kế này là một phần đề_xuất của công_ty Northcop , thuộc chương_trình khai_thác do_thám chiến_lược ( TERN – nhạn biển ) của Cơ_quan nghiên_cứu dự_án phòng_thủ tiên_tiến ( DARPA ) thuộc bộ Quốc_phòng Mỹ .
+" Các tàu boong nhỏ như tàu_khu_trục và tàu hộ_tống có_thể tăng đáng_kể tính hiệu_quả nếu đã có riêng hệ_thống không người lái ( UASs ) để cung_cấp thông_tin tình_báo , giám_sát và trinh_sát ( ISR ) cùng các khả_năng khác ở tầm xa " , Văn_phòng Hải_quân Mỹ ( ONR ) và DARPA cho_hay .
+" DARPA đã giao giai_đoạn 3 của dự_án TERN cho nhóm nghiên_cứu thuộc Tổng_công_ty Northrop_Grumman " .
+Northrop_Grumman là một công_ty lớn chuyên về các thiết_bị không người lái của Mỹ .
+Việc sản_xuất máy_bay_trực_thăng đầu_tiên trong năm 1942 đã giúp quân_đội Mỹ nhận thấy giá_trị tiềm_năng của các thiết_bị bay có_thể cất_cánh và hạ_cánh thẳng_đứng ( VTOL ) để bảo_vệ các hạm_đội , đồng_thời giảm sự phụ_thuộc vào các tàu_sân_bay và căn_cứ trên bờ .
+DARPA muốn có một phương_tiện bay không người lái có_thể hoạt_động trên các tàu_khu_trục lớp DDG hoặc nhỏ hơn , mang được tải_trọng 272 kg lên cao 1.670 km .
+Nó cũng phải có khả_năng hạ_cánh thẳng_đứng lên một boong tàu tròng_trành ở trong điều_kiện sóng cao từ 2,5 đến 4 mét .
+Thiết_kế của TERN sẽ có nhiều điểm tương_đồng với Convair XFY - 1 Pogo , như cấu_hình tailsitter với hai cánh_quạt quay theo hai chiều ngược nhau gắn trên mũi , để tạo lực đẩy thẳng_đứng cho quá_trình cất_cánh và hạ_cánh , lực đẩy ngang trong khi bay ngang .
+Đây là máy_bay_tiêm_kích VTOL được hải_quân Mỹ phát_triển vào những năm 1950 để hỗ_trợ cho các hạm_đội .
+Tuy_nhiên , dù có nhiều lần diễn_tập thành_công , XFY - 1 không vượt qua được nguyên_mẫu .
+Một phần vì vào thời_điểm đó hải_quân tập_trung hơn vào các máy_bay_phản_lực nhanh , phần khác vì cho rằng phi_công sẽ cần phải được huấn_luyện rất nhiều về hạ_cánh trên những con tàu di_chuyển trong các vùng_biển động .
+Ở thế_hệ máy_bay mới , Northcop cải_tiến phần tailsitter bằng cách kết_hợp động_cơ và một thiết_kế cánh bay thuần_túy , một tiêu_chuẩn của nhiều máy_bay ném bom và giám_sát từ giữa những năm 1930 .
+Đây là một thiết_bị không người lái ở kích_thước thật , bền_bỉ , hoạt_động ở cao_độ trung_bình , sử_dụng trên các tàu cỡ nhỏ như một nơi cất_cánh và bảo_dưỡng .
+Nó sẽ có một_đôi cánh_quạt giống XFY – 1 .
+Các cánh_quạt sẽ nâng máy_bay lên từ boong tàu , định_hướng cho nó bay ngang và cung_cấp lực đẩy cho máy_bay .
+Sau đó , nó sẽ tái định_hướng máy_bay khi quay trở_về và hạ_cánh xuống boong tàu .
+Khi_không sử_dụng , có_thể đặt hệ_thống an_toàn bên trong con tàu .
+" Chúng_tôi sẽ tiếp_tục cải_tiến cho mục_tiêu phát_triển các công_nghệ mang tính đột_phá về các tính_năng ISR và khả_năng hoạt_động ở mọi nơi trên thế_giới , với chi_phí , thời_gian và công_sức chỉ bằng một phần hiện_nay " , Gil_Graff , phó_giám_đốc chương_trình TERN tại ONR nói .
+" Quan_hệ đối_tác giữa ONR và DARPA trong dự_án TERN tiếp_tục tạo ra các tiến_bộ nhanh_chóng trong việc chế_tạo một lớp hệ_thống máy_bay_không_người_lái kết_hợp khả_năng cất_cánh và hạ_cánh trên tàu , nâng cao tốc_độ và độ bền , tự_động giám_sát tinh_vi " .
+" Nếu thành_công , TERN có_thể mở_rộng khả_năng trong tương_lai cho các chiến_hạm nổi boong nhỏ của Hải_quân và các chiến_dịch viễn_chinh trên không của Thủy_quân_lục_chiến Mỹ " .
+" Chuyển_dịch đến nền_tảng không người lái , tái tập_trung vào những nhiệm_vụ , kết_hợp với công_nghệ điều hướng chính_xác hiện_đại cùng các công_nghệ khác đã giúp loại_bỏ được nhiều thách_thức mà XFY - 1 và những nỗ_lực nghiên_cứu trước đó gặp phải trong việc phát_triển máy_bay cất_cánh từ tàu nhỏ " , Dan_Patt , quản_lý chương_trình DARPA cho_biết .
+Trực_thăng tương_đối bị giới_hạn bởi quãng đường và thời_gian di_chuyển .
+Máy_bay có cánh cố_định cần người lái và không người lái có_thể bay lâu hơn , xa hơn nhưng thường đòi_hỏi hoặc là tàu_sân_bay lớn , hoặc căn_cứ cố_định trên bờ với đường_băng tối_thiểu dài hơn một dặm .
+TERN có_thể vượt qua những nhược_điểm này .
+Nếu thử_nghiệm trên đất_liền thành_công , thiết_bị sẽ được thử_nghiệm trên biển về các tính_năng cất_cánh , chuyển từ bay thẳng sang bay ngang và ngược_lại , hạ_cánh .
+Mọi thử_nghiệm đều được tiến_hành trên một boong tàu có kích_thước tương_đương một tàu_khu_trục hoặc các tàu_chiến hoạt_động trên mặt_nước cỡ nhỏ .
+Nguyễn_Thành_Minh

@@ -1,0 +1,30 @@
+Thử tài đoán giá nội_y hàng_hiệu
+Các tín_đồ thời_trang có_thể kiểm_tra độ sành_sỏi khi mua hàng bằng cách chỉ ra đồ nào xa_xỉ , đồ nào giá " bèo " dưới đây .
+Thông_thường phụ_nữ có_thể nhận_biết nội_y đắt tiền và bình_dân căn_cứ vào hình_dáng , màu_sắc , chất_liệu , chi_tiết trang_trí , đường may ...   Bạn hãy thử đoán giá của từng món nội_y bên dưới để biết độ sành_sỏi của mình đến đâu khi mua hàng .
+( Bấm vào số tiền ở lựa_chọn A hoặc B để xem đáp_án chính_xác )
+A . Dưới 25 USD ( gần 560.000 đồng )
+B . Trên 250 USD ( gần 5,6 triệu đồng )
+A . Dưới 25 USDB .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+A . Dưới 25 USD B .
+Trên 250 USD
+> > Xem thêm :
+Thử tài nhận_dạng chiếc túi hàng_hiệu

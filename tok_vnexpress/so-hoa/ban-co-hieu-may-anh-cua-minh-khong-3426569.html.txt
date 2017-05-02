@@ -1,0 +1,8 @@
+Bạn có hiểu máy_ảnh của mình không ?
+Hiểu rõ tác_động của từng thông_số kỹ_thuật của ống_kính , thông_số cài_đặt chụp sẽ giúp người dùng làm_chủ được máy_ảnh và cho ra các bức hình đúng mong_muốn .
+Câu_hỏi 1 : Độ   sáng tối trong một bức ảnh gọi_là :
+- Phơi sáng ( exposure )
+- Tốc_độ màn trập ( shutter speed )
+- Tương_phản ( contrast )
+- Độ sắc nét ( sharpness )
+* Trả_lời đúng sẽ dẫn bạn sang câu_hỏi tiếp_theo .

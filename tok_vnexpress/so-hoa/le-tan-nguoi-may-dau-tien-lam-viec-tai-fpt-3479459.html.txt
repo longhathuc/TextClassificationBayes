@@ -1,0 +1,16 @@
+Lễ_tân người_máy đầu_tiên làm_việc tại FPT
+Người_máy Pepper có nhiệm_vụ đón khách và biết nhận_diện hình_ảnh khách từng đến công_ty để gửi lời chào mỗi khi gặp lại .
+Pepper   được   FPT Japan mua từ công_ty Softbank ,   là robot đời_mới của NAO và được bổ_sung công_nghệ nhận_diện hình_ảnh API recognition của đội STU.Lab .
+Trưởng_phòng marketing Hồ_Việt_Hồng của   FPT Japan cho_biết , lễ_tân   Pepper là sa ̉ n phâ ̉ m do đô ̣ i ngu ̃ ky ̃ thuâ ̣ t viên FPT Software pha ́ t triê ̉ n .
+Dư ̣ a ́ n ư ́ ng du ̣ ng nhiê ̀ u công nghê ̣ mơ ́ i về robotic , cloud , IoT , AI ... va ̀ hoa ̀ n tha ̀ nh trong thơ ̀ i gian vỏn_vẹn hai tha ́ ng .
+" Đê ̉ đưa Pepper va ̀ o hoa ̣ t đô ̣ ng sơ ́ m , đô ̣ i dư ̣ a ́ n cho ̣ n phương a ́ n hoa ̀ n thiê ̣ n trươ ́ c ca ́ c chư ́ c năng cơ ba ̉ n .
+Vâ ̃ n co ̀ n nhiê ̀ u chư ́ c năng thông_minh kha ́ c ma ̀ chúng_tôi đang tiê ́ p tu ̣ c hoa ̀ n thiê ̣ n như nhâ ̣ n diện khuôn mă ̣ t , kê ́ t nô ́ i hê ̣ thô ́ ng CRM va ̀ sư ̉ du ̣ ng IBM Watson đê ̉ Pepper co ́ thê ̉ ta ́ n gâ ̃ u vơ ́ i khách_hàng " , ông Hồng chia_sẻ .
+Pepper cao 121 cm , nặng 28 kg ,   màu trắng ,   không tóc và có màn_hình phía trước ngực .
+Ngoài tính_năng nhận_dạng giọng nói , Pepper được trang_bị hai máy quay , bốn máy_ghi_âm , ba cảm_biến cảm_ứng trên đầu và có_thể kết_nối Wi-Fi .
+Với vai_trò lễ_tân tại FPT Japan , Pepper có nhiệm_vụ đón khách , đưa ra địa_điểm họp , thời_gian họp cho khách và gọi tới cá_nhân khi có lịch họp .   Khi đến công_ty , khách_hàng có_thể tương_tác trên màn_hình hiển_thị và lựa_chọn các yêu_cầu để nhận được hỗ_trợ từ lễ_tân người_máy .
+Robot cũng sẽ xin_phép ghi lại hình_ảnh của khách_hàng .
+Về phía FPT Japan , thông_tin nhận được từ Pepper được xử_lý ngay khi khách hoàn_tất việc khai_báo .
+Thông_tin và hình_ảnh được Pepper gửi tới người nhận sau khi khách_hàng hoàn_tất việc khai_báo .
+Pepper còn được trang_bị " động_cơ tình_cảm " và trí_tuệ_nhân_tạo dựa trên đám mây để nghiên_cứu cử_chỉ , biểu_cảm và giọng nói con_người .
+Nó không có hai chân nhưng hai tay được gắn cảm_biến để cử_động linh_hoạt .
+Việc đưa Pepper vào hoạt_động được kỳ_vọng đem lại sự ngạc_nhiên và thích_thú cho khách_hàng khi đến làm_việc với FPT Japan .

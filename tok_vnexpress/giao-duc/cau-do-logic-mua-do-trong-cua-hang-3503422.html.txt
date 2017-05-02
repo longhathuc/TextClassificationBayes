@@ -1,0 +1,3 @@
+Câu_đố logic mua đồ trong cửa_hàng
+Câu_đố logic yêu_cầu lý_giải về giá tiền hàng_hóa trong cửa_hàng khiến nhiều người lúng_túng .
+Bạn có lý_giải được ngay khi đọc xong đề_bài không ?

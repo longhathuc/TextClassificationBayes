@@ -1,0 +1,6 @@
+Đoán tên quốc_gia qua trang_phục truyền_thống
+Hãy nhìn những nhìn ảnh dưới đây và đoán xem những trang_phục truyền_thống này đến từ quốc_gia nào .
+Câu số 1 :
+1 . Greenland
+2 . Iceland
+3 . Canada

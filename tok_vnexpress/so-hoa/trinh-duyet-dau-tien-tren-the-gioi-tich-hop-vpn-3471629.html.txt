@@ -1,0 +1,9 @@
+Trình_duyệt đầu_tiên trên thế_giới tích_hợp VPN
+Trình_duyệt Opera 40 vừa ra_mắt tích_hợp sẵn mạng riêng ảo miễn_phí và không đòi_hỏi đăng_nhập .
+Mạng riêng ảo ( VPN ) là một mạng riêng để kết_nối các máy_tính lại với nhau thông_qua Internet .
+Những máy_tính tham_gia VPN sẽ nhìn thấy nhau như trong một mạng nội_bộ .
+Theo khảo_sát của Opera tại hơn 200 nước , 74% người dùng Internet e_ngại các trang_web họ ghé thăm sẽ theo_dõi hành_vi , 54% lo_lắng các tổ_chức sẽ thu_thập thông_tin cá_nhân , trong khi 49% sợ địa_chỉ IP bị lộ và 26% không thoải_mái khi đăng_nhập vào Wi-Fi công_cộng .
+" Do_vậy , với những_ai có kiến_thức về Internet , tôi tin họ sẽ sử_dụng VPN " , ông Krystian_Kolondra , Phó_chủ_tịch Opera , cho_biết .
+" Chúng_tôi hy_vọng công_cụ VPN miễn_phí của Opera sẽ trở_nên quan_trọng với người sử_dụng như chìa_khoá của một ngôi nhà vậy " .
+Để kích_hoạt , người dùng vào   Settings ( hoặc Preferences trên máy Mac ) , chọn Privacy & Security và chọn VPN .   Biểu_tượng VPN sẽ xuất_hiện phía bên trái của thanh địa_chỉ .
+Khi bật VPN , thiết_bị   người dùng sẽ kết_nối với máy_chủ Opera đặt tại 5 quốc_gia .

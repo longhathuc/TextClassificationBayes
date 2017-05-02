@@ -1,0 +1,20 @@
+Ford và GM dẫn_đầu công_nghệ ôtô tự lái
+Hai thương_hiệu xe Mỹ chiếm 2 vị_trí cao nhất bảng xếp_hạng 18 hãng , gồm từ các nhà_sản_xuất ôtô truyền_thống cho tới các hãng công_nghệ và cung_ứng .
+Công_nghệ xe tự lái đang là một mảng công_nghiệp đầy tiềm_năng mà nhiều hãng xe tham_gia , nhưng thực_sự ai là người đi đầu ?
+Những nhà_nghiên_cứu tại Navigant với trụ_sở tại Colorado ( Mỹ )   thực_hiện khảo_sát và đưa ra bảng xếp_hạng những thương_hiệu có liên_quan đến lĩnh_vực này .
+Những yếu_tố được xét tới gồm tầm nhìn , công_nghệ , khả_năng và độ tin_cậy của sản_phẩm , marketing và phân_phối , cũng_như chiến_lược .
+Các hãng sau đó được xếp_hạng theo 3 hạng_mục : người dẫn_đầu , các đối_thủ hoặc những kẻ thách_thức .
+Ford và General_Motors được nêu tên là 2 thương_hiệu dẫn_đầu .
+Hạng_mục này cũng chỉ có 2 thương_hiệu khác được nêu danh là Renault-Nissan và Daimler .
+Lý_do Ford nằm trong nhóm dẫn_đầu vì hãng Mỹ có những đầu_tư đáng_kể vào công_nghệ tự lái cũng_như những khoản đầu_tư khác vào những công_ty như Civil_Maps , SAIPS , Velodyne và Chariot - đều là những công_ty đang nghiên_cứu trong lĩnh_vực xe tự lái .
+Thêm nữa , khoản tiền 700 triệu USD mà Ford dùng cho nhà_máy Flat_Rock ở Michigan giúp hãng có những bước chuẩn_bị đầu_tiên khi khởi_động dây_chuyền sản_xuất xe tự lái cấp_độ 4 .
+* Video_Ford thử_nghiệm Fusion hybrid với công_nghệ lái tự_động :
+GM nằm trong danh_sách nhờ những khoản chi hàng triệu USD để mua lại và đầu_tư vào các công_ty nghiên_cứu công_nghệ tự_động_hóa trên xe_hơi .
+Tesla gần_như nằm ngang_hàng với PSA Group , cũng_như Delphi , một nhà cung_ứng công_nghệ ôtô .
+Volvo , Autoliv , và Zenuity chia_sẻ cùng một vị_trí trên bảng .
+Những hãng này có chiến_lược tốt hơn so với một_vài đối_thủ , nhưng chưa thực_sự có bước_tiến nào đáng_kể .
+Trong khi đó , ZF và Hyundai cho thấy dường_như có_thể làm tốt những gì trong khả_năng , nhưng không đạt được số điểm đủ cao trong những tiêu_chí đánh_giá khác của Navigant_Research .
+Trong hạng_mục những đối_thủ cạnh_tranh gồm những nhà_sản_xuất ôtô đã có thị_phần lâu năm như Toyota , Hyundai và PSA Group , tới những thương_hiệu mới nổi lên trong thời_gian gần đây như Tesla hay cả những nhà_cung_cấp phụ_tùng xe_hơi đang có những bước_tiến đáng_kể trong ngành công_nghiệp này như Delphi và ZF .
+Trong bảng so_sánh , việc Uber nằm ở phía dưới bảng xếp_hạng là do những khó_khăn của hãng phải đối_mặt với giới chức_trách địa_phương , đồng_thời phải   điều_chỉnh công_nghệ theo những điều_luật hiện_thời .
+Một_số công_ty trong danh_sách đã thử_nghiệm xe tự lái trên các tuyến đường công_cộng , thậm_chí Tesla còn cho_phép khách_hàng trải_nghiệm công_nghệ của hãng ở cấp_độ 3 thông_qua hệ_thống Autopilot .
+Trọng_Nghĩa

@@ -1,0 +1,30 @@
+Cách tính số lần sạc của pin laptop
+Người dùng laptop có_thể theo_dõi tình_trạng pin trên thiết_bị của mình thông_qua ứng_dụng được nhà_sản_xuất hỗ_trợ , phần_mềm từ bên thứ_ba hoặc công_cụ có sẵn trên hệ_điều_hành .
+Pin laptop giảm tuổi_thọ sau khoảng 300 - 500 lần sạc .
+Hầu_hết các thiết_bị di_động ngày_nay đều được tích_hợp pin Lithium-ion ( Li-ion ) , đây là loại pin có tuổi_thọ hạn_chế , tức_là thời_gian sử_dụng sẽ giảm dần sau một_số lần sạc nhất_định .
+Mỗi chu_kỳ sạc được gọi_là cycle count .
+Nhiều người cho rằng , một lần sạc tức_là một lần rút sạc ra và cắm sạc vào .
+Tuy_nhiên , quan_niệm này không còn phù_hợp với công_nghệ pin hiện_tại .
+Theo mô_tả của Apple , nếu sử_dụng 75% pin vào buổi tối , sau đó sạc đầy và sử_dụng tiếp đến 25% pin trong ngày hôm_sau thì đó mới được tính là một cycle count .
+Tức_là , người dùng phải sử_dụng hết 100% pin thì khi đó mới được tính là một lần sạc .
+Kiểm_tra số   cycle count trên Macbook_Pro :
+Số lần sạc phụ_thuộc vào pin , nhưng nhiều nhà_sản_xuất ước_tính khoảng 300 – 500 lần sạc , thậm_chí 1.000 lần ( như Macbook của Apple ) .
+Sau khi vượt quá số lần sạc này , hiệu_năng của pin sẽ bắt_đầu giảm và hoạt_động với năng_suất thấp hơn , thường khoảng 80% so với ban_đầu .
+Nếu để_ý , bạn sẽ thấy thời_gian sử_dụng pin trên laptop sẽ giảm sau khoảng 1 – 2 năm .
+Các nhà_sản_xuất máy_tính_xách_tay hiện_nay , như Asus , Dell , HP , Lenovo hay Sony đều tích_hợp sẵn công_cụ theo_dõi sức_khỏe và chẩn_đoán tình_trạng pin trên thiết_bị .
+Nếu_không có , bạn có_thể tìm và tải về trên trang hỗ_trợ .
+Đối_với những sản_phẩm chưa có , phần_mềm quản_lý pin từ bên thứ_ba là giải_pháp thay_thế .
+Tuy_nhiên , người dùng có_thể tự kiểm_tra mà không cần phần_mềm , bằng cách sử_dụng dòng lệnh powercfg ( nếu thiết_bị đang sử_dụng chạy hệ_điều_hành Windows ) .
+Các bước thực_hiện :
+1 . Chạy_Command_Prompt ( cmp ) dưới quyền quản_trị hệ_thống ( bằng cách nhấn chuột phải và chọn Run as administrator ) .
+2 . Gõ vào lệnh : powercfg / batteryreport   / output " C : \   battery-report.html " .
+Nhấn_Enter .
+3 . Tìm đến tập_tin " battery-report.html "   tại ổ C và mở bằng trình_duyệt web .
+Các thông_số bạn có_thể thấy bao_gồm : Design_Capacity ( công_suất thiết_kế , thể_hiện công_suất tối_đa của pin ) , Full_Charger_Capacity ( công_suất tối_đa của pin sạc đầy tại thời_điểm hiện_tại ) , Battery_Capacity_History ( thông_tin về các lần sạc pin ) , Battery_Life_Estimates ( Ước_tính tuổi_thọ pin ) . .
+Kiểm_tra tình_trạng pin laptop chạy Windows bằng powercfg :
+Đối_với Macbook , Apple cung_cấp chi_tiết hơn về quản_lý pin trên trang_web hỗ_trợ .
+Tuy_nhiên , người dùng có_thể tự kiểm_tra bằng tay bằng Tổ_hợp phím Option + nhấn chuột vào biểu_tượng pin để xem các mức : Bình_thường ( Normal ) , sẽ phải thay_thế sớm ( Replace_Soon ) , thay_thế ngay_lập_tức ( Replace_Now ) , liên_hệ với trung_tâm kỹ_thuật ( Service_Battery ) .
+Nếu trạng_thái xuất_hiện là Replace_Now hoặc Service_Battery , người dùng nên đến trung_tâm bảo_hành của Apple càng sớm càng tốt .
+Nếu gặp sự_cố về pin , người dùng nên đến các trung_tâm bảo_hành để được tư_vấn sửa_chữa hoặc thay mới .
+Nhưng nếu vì lý_do nào_đó ( tiết_kiệm chi_phí , trải_nghiệm … ) , người dùng có_thể tự mua pin và thay mới tại nhà , nhưng phải là người am_hiểu , hoặc có_thể làm theo các video hướng_dẫn trên mạng … Tất_nhiên , bạn phải tự chịu trách_nhiệm về những sự_cố ( nếu có ) do mình gây ra .
+Bảo_Lâm

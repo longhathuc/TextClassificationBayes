@@ -1,0 +1,17 @@
+Linh_kiện i Phone SE giống i Phone 6s
+Dù màn_hình nhỏ và giá bán rẻ hơn , iPhone SE vẫn dùng chip A9 đi kèm RAM 2GB hệt như đàn_anh 6s và 6s Plus .
+Apple mở bán chính_thức mẫu i Phone mới nhất từ 31/3 và những hình_ảnh tháo rời linh_kiện sản_phẩm này cũng bắt_đầu xuất_hiện trên Internet , cho thấy , dù thiết_kế giống_hệt 5s , phần_cứng bên trong lại_giống i Phone 6s nhiều hơn .
+Trong đó , vi_xử_lý của máy là Apple A9 do công_ty Đài_Loan TSMC sản_xuất , giống ở i Phone 6s .
+Dù_Apple không tiết_lộ , ảnh linh_kiện bên trong đã xác_nhận SE dùng RAM_LPDDR4 với dung_lượng 2GB cao gấp đôi i Phone 6 , 5s và ngang bằng với i Phone 6s và 6s Plus .
+Thông_tin về ngày in trên linh_kiện rơi vào_khoảng tháng 8 và 9 năm_ngoái , trùng với thời_điểm Apple ra_mắt 6s và 6s Plus .
+Ngoài các linh_kiện trên , Apple còn đem các cảm_biến gia_tốc , cảm_biến chuyển_động , chip thu_nhận sóng NFC_NXP6 6VIO cũng_như modem mạng MDM9625 của Qualcomm , IC âm_thanh 338S00105 và 338S1285 từ i Phone 6s lên i Phone 5s .
+Tuy_nhiên , màn tháo rời linh_kiện do Chip_Works thực_hiện cho thấy Apple đã sử_dụng lại bộ_điều_khiển cảm_ứng cũ của i Phone 5s là   Broadcom BCM5976 và Texas_Instruments 343S0645 .
+Đó là lý_do vì_sao i Phone SE không có màn_hình 3D Touch như 6s và 6s Plus .
+Bảng mạch chính của i Phone SE .
+Dù_vậy , Apple không tận_dụng hết linh_kiện trên các mẫu i Phone đời trước .
+Vẫn có một_số mới xuất_hiện trên i Phone như module ampli công_suất Skywords SKY77611 , IC nguồn   Texs_Instrument 338S00170 , chip nhớ NAND mới của Toshiba cũng_như microphone .
+Bên_cạnh đó , cấu_trúc bên trong vỏ của i Phone SE cũng khác so với với vỏ i Phone 5s , nên không_thể tráo_đổi cho nhau được , dù hình_thức bên ngoài giống_hệt .
+Với cấu_hình kế_thừa từ i Phone 6s , SE là mẫu i Phone đạt hiệu_năng tốt nhất so với giá_thành hiện_giờ .
+Rẻ hơn gần 300 USD , nhưng kết_quả thử bằng công_cụ quen_thuộc AnTuTu Benchmark 6 cho thấy hiệu_năng của i Phone SE cao hơn i Phone 6s và gần bằng i Phone 6s Plus .
+Sản_phẩm này đạt tổng điểm 134.358 , ngang với điểm của các smartphone Android cao_cấp đời_mới 2016 .
+Mỹ_Anh

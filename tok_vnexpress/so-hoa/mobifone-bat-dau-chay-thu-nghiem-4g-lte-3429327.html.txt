@@ -1,0 +1,11 @@
+Mobifone bắt_đầu chạy thử_nghiệm 4G LTE
+Người dùng mạng Mobifone tại các thành_phố lớn như TP_HCM , Hà_Nội và Đà_Nẵng sẽ được dùng mạng 4G LTE kể từ chiều 1/7 .
+Sau hai nhà mạng là Viettel và VinaPhone , Mobifone cũng đã tiến_hành thử_nghiệm mạng di_động tốc_độ cao 4G .
+Các thiết_bị của Apple cũng đã được mở khoá để có_thể kết_nối 4G ngay khi hãng cho_phép người dùng sử_dụng dịch_vụ này thay_vì phải đợi mở khoá như trường_hợp của VinaPhone và Viettel trước đó .
+MobiPhone cho_phép đổi sim 4G miễn_phí với người dùng tại TP_HCM , Hà_Nội và Đà_Nẵng .
+Tại_Việt_Nam nếu muốn chuyển qua 4G người dùng phải đổi sim mới , hiện_tại Mobifone cho_phép đổi sim 4G miễn_phí .
+Tuy_nhiên , cần chú_ý phạm_vi cung_cấp 4G của Mobifone chỉ diễn ra ở khu_vực nhất_định chứ chưa phủ rộng ra toàn thành_phố , vì_thế chỉ ở khu_vực có các trạm phát 4G , người dùng mới trải_nghiệm được dịch_vụ này .
+Mạng 4G của Mobifone sử_dụng công_nghệ LTE - A và có tốc_độ download và upload tối_đa trong giai_đoạn thử_nghiệm đạt 225 Mb/giây và 75 Mb/giây .
+Tốc_độ download và upload tối_đa sẽ phụ_thuộc vào thiết_bị của người dùng .
+Nhà mạng này đã hợp_tác với các công_ty lớn như Ericsson , Samsung , NSN , Huawei , ZTE và Apple cho_phép người dung trải_nghiệm các công_nghệ mới như Leap motion , eMBMS và dịch_vụ data , truyền_hình , video , game … trên nền_tảng mạng 4G .
+Cùng lúc với việc chạy thử_nghiệm mạng 4G LTE , Mobifone cũng giới_thiệu đường truyền_dẫn trục Bắc-Nam với công_nghệ mới có tính an_ninh bảo_mật cao .

@@ -1,0 +1,22 @@
+Những hiểu lầm về tốc_độ Wi-Fi
+Hãy trả_lời những câu_hỏi sau để xem bạn có hiểu sai về tốc_độ và những thông_tin khác liên_quan đến mạng kết_nối Internet không dây .
+( Bấm vào câu trả_lời để xem đáp_án )
+1 . Thay_đổi vị_trí đặt router sẽ tác_động đến độ mạnh của sóng Wi-Fi :
+A . Chính_xác
+B . Chưa chính_xác
+2 . Nhiều ăng - ten hơn luôn đồng_nghĩa tốc_độ nhanh hơn :
+A . Chính_xác
+B . Chưa chính_xác
+3 . Ẩn tên mạng Wi-Fi ( SSID ) giúp bảo_mật , tránh bị tấn_công :
+A . Chính_xác
+B . Chưa chính_xác
+4 . Chuẩn bảo_mật   WPA/WPA2 tốt hơn chuẩn   WEP :
+A . Chính_xác
+B . Chưa chính_xác
+5 .   Càng ít thiết_bị truy_cập , chất_lượng Wi-Fi sẽ tốt hơn :
+A . Chính_xác
+B . Chưa chính_xác
+6 . Giới_hạn phạm_vi phủ_sóng của thiết_bị phát Wi-Fi để tránh bị tấn_công :
+A . Chính_xác
+B . Chưa chính_xác
+Minh_Minh

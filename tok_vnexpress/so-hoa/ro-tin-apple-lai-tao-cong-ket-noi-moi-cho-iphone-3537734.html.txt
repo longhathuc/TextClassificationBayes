@@ -1,0 +1,15 @@
+Rộ tin Apple lại tạo cổng kết_nối mới cho i Phone
+Một_số trang công_nghệ thế_giới đưa tin Apple sẽ tạo cổng kết_nối mới cho i Phone thay cho cổng lightning , nhưng nguồn tin xác_nhận rằng cổng mới được công_ty Mỹ nhắm mục_đích khác .
+Đầu tuần này , một_số trang công_nghệ lớn , trong đó có cả 9to5mac cho_biết Apple đang phát_triển một cổng kết_nối có tên gọi Ultra_Accessory_Connector ( UAC ) .
+Cổng mới này sẽ cho tốc_độ truyền dữ_liệu cao hơn , sẽ thay_thế cổng lightning , thậm_chí là thay_thế cả USB Type C để trở_thành chuẩn kết_nối chung cho mọi smartphone hiện_nay .
+Xác_nhận với The_Verge , một nguồn tin giấu tên nằm trong dự_án phát_triển phụ_kiện cho i Phone , cho_biết rằng đúng là Apple đang nghiên_cứu cổng kết_nối mới có tên UAC .
+Tuy_nhiên , cổng kết_nối này không nhằm mục_tiêu thay_thế lightning .
+Theo mô_tả ,   UAC dựa trên cổng kết_nối 8-pin cũ khá giống với cổng trên máy_ảnh Nikon .
+Tuy_nhiên , mục_đích Apple nghiên_cứu kết_nối cũ này là nhằm tạo ra một thiết_bị trung_gian , có_thể   đồng_bộ kết_nối lightning và USB Type - C .
+UAC sẽ đóng vai_trò là phụ_kiện chuyển_đổi .
+Nếu có nó , một chiếc tai_nghe dùng giắc lightning có_thể nghe nhạc trên smartphone dùng cổng USB Type C .
+Ngược_lại , một chiếc tai_nghe USB Type - C cũng có_thể dễ_dàng sử_dụng trên i Phone .
+Có_thể nhiều người cho rằng Apple đang phức_tạp hóa vấn_đề .
+Tuy_nhiên , nguồn tin giải_thích rằng xu_hướng hiện_nay là loại_bỏ cổng giắc 3,5 mm buộc người dùng phải nghe nhạc qua tai_nghe bluetooth hoặc tai_nghe dùng giắc USB Type C/lightning .
+Do_đó , Apple tạo ra UAC hoàn_toàn phù_hợp cho những_ai không muốn nghe nhạc bằng tai_nghe không dây .
+Bảo_Lâm

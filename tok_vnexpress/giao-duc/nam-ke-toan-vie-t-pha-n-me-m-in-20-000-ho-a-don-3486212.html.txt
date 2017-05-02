@@ -1,0 +1,27 @@
+Nam kế_toán viê ́ t phâ ̀ n mê ̀ m in 20.000 ho ́ a đơn
+Không pha ̉ i la ̀ dân_công nghê ̣ , nhưng khi đươ ̣ c mô ̣ t công_ty nhơ ̀ xư ̉ ly ́ 20.000 ho ́ a đơn , anh Pha ̣ m Hoa ̀ ng đa ̃ viê ́ t tha ̀ nh công phâ ̀ n mê ̀ m đê ̉ in sô ́ ho ́ a đơn na ̀ y trong 2 tha ́ ng .
+Nam thanh_niên na ̀ y tru ́ ng tuyê ̉ n khi tham_gia ky ̀ thi viên chư ́ c ta ̣ i Câ ̀ n Thơ va ̀ trơ ̉ tha ̀ nh Kiê ̉ m toa ́ n viên Nha ̀ nươ ́ c .
+Sau khi lâ ̣ p gia đi ̀ nh , anh quay trơ ̉ la ̣ i TP_HCM  lập_nghiệp va ̀ la ̀ m kiê ̉ m toa ́ n cho nhiê ̀ u công_ty nươ ́ c ngoa ̀ i .
+Đê ̉ thuâ ̣ n tiê ̣ n cho công viê ̣ c , anh Hoa ̀ ng nhiê ̀ u lâ ̀ n tư ̣ ma ̀ y mo ̀ , ho ̣ c ho ̉ i vê ̀ công nghê ̣ , đă ̣ c biê ̣ t la ̀ sư ̉ du ̣ ng ca ́ c phâ ̀ n mê ̀ m đê ̉ xư ̉ ly ́ ca ́ c con sô ́ .
+Không pha ̉ i la ̀ dân chuyên nghiê ̣ p , nhưng   phần_mềm kế_toán ( VBA ) do anh viê ́ t bán cho không i ́ t công_ty nhỏ .
+Anh cu ̃ ng sư ̉ du ̣ ng VBA đê ̉ xử_lý dữ_liệu trích xuất từ các phần_mềm như Misa , Oracale , SAP phục_vụ công_việc kế_toán , kiểm_toán , phân_tích tài_chính ...
+Năm 2015 , khi co ́ mô ̣ t công_ty ở Australia nhơ ̀ xử_lý 20.000 tờ hóa_đơn ( in theo mẫu ) cho các công_trình tồn_tại các năm trước .
+Thay vi ̀ ra tiê ̣ m in va ̀ la ̀ m thu ̉ công như nhiê ̀ u ngươ ̀ i kha ́ c , anh nghiên cư ́ u ra cách xư ̉ ly ́ công viê ̣ c tô ́ t hơn .
+Nam kiê ̉ m toa ́ n sau đo ́   viết tha ̀ nh công một phần_mềm nhỏ xử_lý toàn_bộ việc in hóa_đơn chi ̉ trong vòng 2 tháng .
+Với tha ̀ nh công na ̀ y , anh Hoa ̀ ng chuyển qua xư ̉ ly ́ ca ́ c công_việc liên_quan vâ ́ n đê ̀ xư ̉ ly ́ ho ́ a đơn , châ ́ m công cho   công_ty Australia .
+Nhơ ̀ co ́ phâ ̀ n mê ̀ m , vơ ́ i khô ́ i lươ ̣ ng công viê ̣ c lơ ́ n nhưng mô ̃ i tuâ ̀ n anh chi ̉ mâ ́ t 1-2 nga ̀ y la ̀ m viê ̣ c .
+Thâ ́ y viê ̣ c ư ́ ng du ̣ ng phâ ̀ n mê ̀ m va ̀ o công viê ̣ c mang la ̣ i hiê ̣ u qua ̉ cao , trong khi ba ̉ n thân co ̀ n nhiê ̀ u thơ ̀ i gian ra ̉ nh nên anh Hoa ̀ ng quyê ́ t đi ̣ nh tham_gia mô ̣ t chương tri ̀ nh đa ̀ o ta ̣ o ba ̀ i ba ̉ n .
+Sau khi nghiên cư ́ u , thay vi ̀ cho ̣ n ho ̣ c ơ ̉ ca ́ c trung_tâm tin ho ̣ c hay đa ̣ i ho ̣ c truyê ̀ n thô ́ ng , nam kiê ̉ m toa ́ n viên na ̀ y đa ̃ cho ̣ n ho ̣ c nga ̀ nh Công nghê ̣ thông_tin theo hi ̀ nh thư ́ c đa ̀ o ta ̣ o online ta ̣ i Đa ̣ i ho ̣ c trư ̣ c tuyê ́ n FUNiX .
+Xuâ ́ t thân la ̀ cư ̉ nhân li ̃ nh vư ̣ c Ta ̀ i chi ́ nh - Kê ́ toa ́ n , nhưng anh Hoa ̀ ng cho biê ́ t , sau mô ̣ t thơ ̀ i gian ma ̀ y mo ̀ , anh bă ́ t đâ ̀ u co ́ đam_mê vơ ́ i li ̃ nh vư ̣ c lập_trình .
+Đă ̣ c biê ̣ t , trong li ̃ nh vư ̣ c kiê ̉ m toa ́ n , kê ́ toa ́ n , thươ ̀ ng xuyên la ̀ m viê ̣ c vơ ́ i như ̃ ng con sô ́ lơ ́ n thi ̀ viê ̣ c ư ́ ng du ̣ ng phâ ̉ n mê ̀ m trơ ̉ nên vô cu ̀ ng câ ̀ n thiê ́ t .
+" Tôi dự_kiến đầu năm tơ ́ i se ̃ mở công_ty phần_mềm chuyên xử_lý số_liệu kế_toán , tài_chính và gia_công cho ca ́ c công_ty nước_ngoài nên câ ̀ n mô ̣ t lươ ̣ ng kiê ́ n thư ́ c ba ̀ i ba ̉ n " , anh Hoa ̀ ng chia se ̉ .
+Ngoa ̀ i ra , khi co ́ kiê ́ n thư ́ c ba ̀ i ba ̉ n , anh Hoa ̀ ng đô ̀ ng thơ ̀ i se ̃ nâng_cấp VBA lên cao hơn và viết bằng ngôn ngư ̃ lâ ̣ p tri ̀ nh C# ; xử_lý dữ_liệu kế_toán online cho nhiều thành_viên đăng_ký ;   Outsourced dịch_vụ kế_toán nước_ngoài ...
+Chi ̉ sau mô ̣ t thơ ̀ i gian ngă ́ n tham_gia ho ̣ c ta ̣ i FUNiX , anh Hoa ̀ ng trơ ̉ tha ̀ nh mô ̣ t trong như ̃ ng sinh_viên đâ ̀ u tiên cu ̉ a trươ ̀ ng na ̀ y hoa ̀ n tha ̀ nh chư ́ ng chi ̉ đâ ̀ u tiên trong   chương tri ̀ nh ho ̣ c .
+Không như ̃ ng vâ ̣ y , anh co ̀ n la ̀ mô ̣ t trong như ̃ ng sinh_viên đa ̣ t điê ̉ m sô ́ cao nhâ ́ t trong chư ́ ng chi ̉ 1 vơ ́ i 9,5 điê ̉ m .
+Cu ̃ ng trong đơ ̣ t na ̀ y , co ́ 50 sinh_viên cu ̉ a Đa ̣ i ho ̣ c trư ̣ c tuyê ́ n FUNiX hoa ̀ n tha ̀ nh chư ́ ng chi ̉ 1 va ̀ chư ́ ng chi ̉ 4 .
+Trong đo ́ , co ́ nhiê ̀ u sinh_viên du ̀ đang đi la ̀ m nhưng vâ ̃ n hoa ̀ n tha ̀ nh chương tri ̀ nh vơ ́ i điê ̉ m sô ́ cao .
+Ngoa ̀ i ra , sinh_viên đa ̃ tư ̀ ng tham_gia ho ̣ c ca ́ c kho ́ a lâ ̣ p tri ̀ nh tương ư ́ ng , FUNiX se ̃ xem xe ́ t đê ̉ miê ̃ n gia ̉ m mô ̣ t sô ́ chư ́ ng chi ̉ trong chương tri ̀ nh .
+La ̀ đa ̣ i ho ̣ c trư ̣ c tuyê ́ n đâ ̀ u tiên cu ̉ a Viê ̣ t Nam , chuyên đa ̀ o ta ̣ o li ̃ nh vư ̣ c Công nghê ̣ thông_tin , sau hơn mô ̣ t năm tha ̀ nh lâ ̣ p , hiê ̣ n FUNiX co ́ gâ ̀ n 1.000 sinh_viên đê ́ n tư ̀ 13 quô ́ c gia theo ho ̣ c .
+Theo đo ́ , thay vi ̀ pha ̉ i tơ ́ i gia ̉ ng đươ ̀ ng như ca ́ c đa ̣ i ho ̣ c truyê ̀ n thô ́ ng , sinh_viên se ̃ đươ ̣ c câ ́ p mô ̣ t ta ̀ i khoa ̉ n online đê ̉ co ́ thê ̉ đăng nhâ ̣ p ho ̣ c ba ̀ i bâ ́ t cư ́ lu ́ c na ̀ o ra ̉ nh .
+Sinh_viên se ̃ đươ ̣ c hô ̃ trơ ̣ bơ ̉ i hê ̣ thô ́ ng mentor - ca ́ c chuyên_gia đê ́ n tư ̀ như ̃ ng công_ty   công nghê ̣   ha ̀ ng đâ ̀ u Viê ̣ t Nam .
+Ngo ̣ c Anh

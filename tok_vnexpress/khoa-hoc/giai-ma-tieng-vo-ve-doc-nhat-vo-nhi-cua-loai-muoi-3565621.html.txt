@@ -1,0 +1,26 @@
+Giải_mã tiếng vo_ve độc_nhất_vô_nhị của loài muỗi
+Tốc_độ đập cánh của muỗi nhanh gấp 4 lần những loài côn_trùng có cùng kích_thước , có_thể giúp tăng tính hiệu_quả khi bay .
+Muỗi có khả_năng treo lơ_lửng trong không_trung .
+Tuy_nhiên , phải mất rất nhiều sức và áp_dụng nhiều phương_pháp để bay chậm như_vậy .
+Loài muỗi có_thể ở trên không nhờ hai cách tạo sức nâng khi chúng xoay cánh .
+Về cơ_bản , chúng tái_sử_dụng năng_lượng từ lần đập cánh trước và đập cánh ở khoảng_cách ngắn để bay lơ_lửng .
+Hầu_hết côn_trùng và một_số loài chim , dơi dựa vào những đợt đập cánh dài , tạo ra xoáy lốc áp_suất thấp kích_thước nhỏ ở mép trước cánh .
+Cạnh trước có hình_dạng sắc_bén chia không_khí thành hai luồng , tạo ra một bóng khí xoáy dọc mặt trước cánh .
+Chênh_lệch giữa dòng khí_áp suất thấp trên cánh và áp_suất cao dưới cánh tạo ra lực nâng .
+Tuy_nhiên , muỗi lại vỗ cánh lên và xuống cực nhanh với góc 40 độ .
+Những cú đập cánh ngắn nhanh như_vậy không_thể tạo ra đủ sức nâng từ xoáy lốc mép trước cánh .
+Loài côn_trùng này vỗ cánh theo hình số 8 hẹp .
+Xoáy lốc tạo ra lực nâng khi phần cánh cắt nhanh qua không_khí theo chiều ngang .
+Khi cánh bắt_đầu quay vào đường_cong của số 8 , chúng đón lực từ cú đập cánh trước đó để tạo ra chuỗi xoáy lốc áp_suất thấp dọc theo cạnh sau của cánh .
+Quá_trình này không đòi_hỏi thêm năng_lượng , là cách tiết_kiệm sức đặc_biệt để tạo ra lực nâng .
+Khi cánh xoay , chúng cũng đẩy không_khí xuống , chuyển_hướng dòng khí áp_suất thấp qua phía trên cánh .
+Đôi cánh xoay quanh trục mép trước , nhưng nếu cánh đưa quá xa theo chiều thẳng_đứng , chúng sẽ mất lực đẩy .
+Vì_vậy , loài muỗi chuyển trục cánh của nó từ phía trước đến phía sau một_cách tinh_vi , tạo ra bề_mặt ngang hơn , cho_phép cánh tiếp_tục đẩy không_khí xuống .
+Điều này cũng giúp muỗi hưởng lợi từ xoáy dọc theo cạnh sau cánh .
+Việc xoay trục cánh giữa lúc quay là rất ấn_tượng , đặc_biệt là khi dây_thần_kinh chỉ phát tín_hiệu một lần cho vài cú đập cánh .
+Loài vật này đã phát_triển được một cú đập cánh phức_tạp , tận_dụng lực khí_động_học và cấu_trúc cơ_học của cánh để tạo ra chuyển_động phức_tạp mà không đòi_hỏi nhiều tín_hiệu từ não .
+Phương_pháp này không phổ_biến ở các loài côn_trùng khác vì kém hiệu_quả .
+Bên_cạnh đó , tiếng vỗ cánh của muỗi có_thể liên_quan tới quy_luật giao_phối .
+Con đực và con_cái sẽ hòa_âm , đồng_bộ tiếng đập cánh trong quá_trình tìm_kiếm bạn tình .
+Giới nghiên_cứu cho rằng đây là loài côn_trùng sẵn_sàng hy_sinh khả_năng bay để tập_trung vào việc phát_triển nòi_giống .
+Hòa_Việt

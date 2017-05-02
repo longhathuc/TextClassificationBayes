@@ -1,0 +1,9 @@
+Bài_toán ' cánh_quạt ' kiểm_tra kiến_thức hình_học lớp 8
+Bài_toán liên_quan đến chiếc cánh_quạt đặc_biệt nằm trong đề thi quốc_tế dành cho học_sinh lớp 7-8 .
+Không đòi_hỏi kỹ_năng tính_toán phức_tạp , bài_toán đề_cao khả_năng tư_duy nhanh_nhạy của người giải .
+Một cánh_quạt được cho như hình_vẽ :
+Biết cấu_tạo của cánh_quạt này gồm 4 phần bằng nhau ( 3 cánh và một trục giữa ) , mỗi phần là một tam_giác_đều cạnh 6   cm .
+Khi cánh_quạt quay , nó tạo thành một hình_tròn có diện_tích X  cm2 .
+Hỏi diện_tích X này bằng bao_nhiêu ?
+( Biểu_diễn kết_quả dưới dạng A x   π , trong đó A là một_số ) .
+Thanh_Tâm

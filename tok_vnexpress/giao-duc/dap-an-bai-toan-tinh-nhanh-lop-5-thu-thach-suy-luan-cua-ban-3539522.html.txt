@@ -1,0 +1,19 @@
+Đáp_án bài_toán tính nhanh lớp 5 thử_thách suy_luận của bạn
+Có nhiều hướng suy_luận để tìm ra đáp_án cho bài_toán dành cho học_sinh lớp 5-6 này .
+Nhiều bạn đưa ra quy_luật giải rất nhanh nhưng không_chỉ ra cách chứng_minh .
+Đề_bài :
+Cho một tháng xuất_hiện trên tờ lịch như trong hình .
+Ta thấy có nhiều cụm 9 ngày tạo thành các ô 3x3 .
+Chọn một ô 3x3 có đủ 9 ngày và tổng 9 ngày đó bằng 162 .
+Hỏi ngày nhỏ nhất trong ô 3x3 đã chọn là ngày nào ?
+Một ô 3x3 gồm 3 hàng , mỗi hàng là một bộ 3 ngày liền nhau , và tổng mỗi hàng liền nhau hơn kém nhau 7 x 3 = 21 ngày ( vì hai hàng liền nhau có ngày tương_ứng theo thứ_tự hơn kém nhau một tuần ) .
+Gọi tổng_số ngày trong hàng đầu_tiên của ô 3x3 là a .
+Suy ra tổng_số ngày trong hàng thứ_hai và thứ_ba lần_lượt là a + 21 và a + 42 .
+Tổng 9 ngày trong ô vuông 3x3 bằng 162 nên ta có a + a + 21 + a + 42 = 162 .
+Suy ra a = 33 .
+Mỗi hàng gồm 3 ngày liền nhau và ngày đầu_tiên của hàng thứ nhất_là nhỏ nhất nên nếu gọi ngày nhỏ nhất trong ô 3x3 là b thì hai ngày tiếp_theo của hàng đó là b + 1 và b + 2 .
+Ta có b + b + 1 + b + 2 = a = 33 .
+Suy ra b = 10
+Vậy ngày nhỏ nhất trong ô 3x3 cần tìm là ngày mùng 10 .
+Thanh_Tâm
+> > Bài_toán đổ dầu thách_thức trí thông_minh của bạn > > Bài_toán đàn bò ăn cỏ có_thể khiến bạn bị rối

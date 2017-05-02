@@ -1,0 +1,25 @@
+Dùng cơ_thể người để truyền_tải mật_khẩu
+Thay_vì truyền_tải qua kết_nối Wi-Fi hay Bluetooth , mật_khẩu có_thể được gửi thông_qua cơ_thể người đến thiết_bị tiếp_nhận và giải_mã .
+Theo các giáo_sư tại Đại_học Washington , khi chúng_ta gửi đi mật_khẩu hay mã bí_mật qua sóng_vô_tuyến như Wi-Fi hay Bluetooth , khả_năng bị tin_tặc dò sóng và " bẻ_khóa " rất cao .
+Do_đó , các kỹ_sư khoa_học máy_tính đã nghiên_cứu cách_thức gửi mật_khẩu an_toàn hơn bằng cách sử_dụng ngay cơ_thể con_người làm môi_trường truyền_dẫn sóng tần_số thấp tạo ra bởi cảm_biến vân tay và cảm_ứng trên thiết_bị tiêu_dùng .
+Ông Shyam_Gollakota - Phó_giáo_sư ngành khoa_học máy_tính và kỹ_thuật Đại_học Washington , tác_giả chính nghiên_cứu cho_biết , đến nay cảm_biến vân tay đã được sử_dụng như một thiết_bị đầu_vào .
+" Thật thú_vị khi qua phân_tích , chúng_tôi thấy rằng , cảm_biến vân tay có_thể biến_chuyển thành tín_hiệu thông_tin truyền đi trong cơ_thể người và sau đó tái_hiện lại ở thiết_bị tiếp_nhận " , ông Shyam_Gollakota chia_sẻ .
+Kỹ_thuật mới này đã được giới_thiệu trong hội_nghị công_nghệ UbiComp 2016 diễn ra tại Đức vào tháng 9 vừa_qua .
+Cụ_thể , Mehrdad_Hessar - nghiên_cứu_sinh ngành kỹ_thuật điện Đại_học Washington , đồng_tác_giả nghiên_cứu trình_bày thí_nghiệm mở một chiếc cửa trang_bị khóa thông_minh .
+Theo đó , một tay người dùng đưa vào tay nắm cửa , tay còn lại chạm cảm_biến dấu vân tay_trên điện_thoại .
+Lập_tức cảm_biến vân tay truyền từ điện_thoại qua cơ_thể người dùng sang tay_cầm cửa , chuyển đến hệ_thống tiếp_nhận và xác_thực mật_khẩu .
+Nếu phân_tích dữ_liệu trùng khớp , cửa sẽ tự_động mở .
+Nhóm nghiên_cứu đã thử_nghiệm trên i Phone và nhiều cảm_biến dấu vân tay khác cũng_như trackpad máy_tính_xách_tay Lenovo hay touchpad điện_dung Adafruit .
+Qua thực_nghiệm với 10 chủ_thể khác_nhau , sóng truyền_dẫn vận_hành tốt dù có khác_biệt về hình_dáng , cân nặng và chiều_cao .
+Hệ_thống cũng làm_việc khi đối_tượng di_chuyển động , kể_cả khi họ đi_lại và di_chuyển cánh_tay của mình .
+" Cơ_chế này hoạt_động trong nhiều tư_thế khác_nhau như đứng , ngồi và cả khi ngủ .
+Tín_hiệu truyền đi mạnh_mẽ khắp cơ_thể và thiết_bị xác_thực password có_thể tiếp_nhận thông_tin tại bất_cứ bộ_phận nào trên người , từ chân , ngực hay bàn_tay ... " , Vikram_Iyer - nghiên_cứu_sinh ngành kỹ_thuật điện Đại_học Washington , thành_viên nhóm nghiên_cứu nhấn_mạnh .
+Phòng nghiên_cứu mạng liên_kết và hệ_thống di_động Đại_học Washington nhận thấy cảm_biến smartphone có_thể hiểu được những tần_số thấp dưới 30MHz đi xuyên cơ_thể người mà không truyền qua không_khí .
+Bên_cạnh đó cảm_biến dấu vân tay và touchpad có khả_năng tạo ra tín_hiệu từ 2-10MHz và sử_dụng kỹ_thuật ghép điện_dung cảm_nhận ngón_tay trong không_gian , xác_định những điểm nhận_dạng đặc_trưng nhằm xác_lập mẫu vân tay .
+Thông_thường , các cảm_biến sử_dụng tín_hiệu nhận được để xác_nhận thông_tin đầu_vào về ngón_tay .
+Nhưng các kỹ_sư Đại_học Washington nghĩ ra cách biến tín_hiệu này trở_thành thông_tin đầu_ra tương_ứng với các dữ_liệu chứa trong mật_khẩu hay mã truy_cập .
+Khi chuyển đến smartphone , dữ_liệu xác_thực danh_tính có_thể truyền an_toàn qua cơ_thể tới máy thu tích_hợp trong thiết_bị cần phải nhập mã .
+Hệ_thống quét mỗi ngón_tay khoảng một bit dữ_liệu số , mã_hóa rồi truyền_tải thông_tin .
+Nhóm nghiên_cứu đã đạt được tốc_độ bit 50 bit mỗi giây trên laptop touchpad và 25 bit mỗi giây với cảm_biến dấu vân tay , đủ để gửi một mật_khẩu đơn_giản hoặc mã_số thông_qua cơ_thể đến thiết_bị giải_mã trong vòng vài giây .
+Các kỹ_sư nhìn_nhận đây mới chỉ là kết_quả bước_đầu và tốc_độ truyền_tải sẽ còn nhanh hơn_nữa khi các nhà_sản_xuất thiết_bị cảm_biến vân tay chú_trọng hỗ_trợ ứng_dụng này trong thời_gian tới .
+Minh_Trí

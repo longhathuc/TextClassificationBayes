@@ -1,0 +1,5 @@
+Bài_toán tư_duy cấp tiểu_học khiến người_lớn đau_đầu
+Bài_toán tìm số xe_đạp trong đề thi đánh_giá năng_lực tư_duy Toán_học quốc_tế - IMAS dành cho học_sinh lớp 3-4 khiến bạn mất bao_nhiêu thời_gian để giải_quyết ?
+Số xe_đạp trong một trường_học là một_số có 3 chữ_số , và tổng bánh xe_đạp cũng là một_số có 3 chữ_số .   Hai số đó được tạo nên bởi các số 2 , 3 , 4 , 5 , 6 và 7 ( mỗi chữ_số xuất_hiện duy_nhất một lần ) .
+Hỏi có nhiều nhất bao_nhiêu xe_đạp trong trường_học ?
+Thanh_Tâm

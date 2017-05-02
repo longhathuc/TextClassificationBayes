@@ -1,0 +1,17 @@
+FBI mới bẻ_khóa được 5c , không thành_công với i Phone 5s , 6s
+Cục Điều tra Liên_bang Mỹ ( FBI ) cho_biết , phương_pháp hack vào chiếc i Phone 5c được họ áp_dụng không hoạt_động trên i Phone 5s và các thiết_bị đời cao hơn .
+Cuối tháng 3/2016 ,   Bộ Tư pháp Mỹ tuyên_bố , cơ_quan điều_tra đã sử_dụng các kỹ_thuật mới để   truy_cập vào dữ_liệu trên chiếc i Phone 5c của kẻ khủng_bố   trong vụ xả súng ở San_Bernardino .
+Nhờ vậy , FBI không cần nhờ đến sự trợ_giúp của Apple như đề_nghị trước_đây .
+FBI đã hack thành_công vào chiếc i Phone 5c mà không cần trợ_giúp của Apple .
+Giám_đốc FBI James_Comey cho_biết , cơ_quan tư_pháp Mỹ đã tránh được cuộc_chiến pháp_lý có_thể kéo_dài với Apple , bằng việc mua một công_cụ để hack vào chiếc i Phone 5c .
+Tuy_nhiên , phương_pháp này không hoạt_động trên hầu_hết các đời i Phone , nhất_là những model đời cao như i Phone 5s , 6 hay 6s .
+Ông Comey không nói rõ lý_do vì_sao phương_pháp hack trên không thực_hiện được với các mẫu i Phone đời cao .
+Tuy_nhiên , các chuyên_gia công_nghệ cho rằng bộ mã_hóa trên chip Apple A7 dùng cho i Phone 5s và các model sau_này chính là rào_cản .
+Sau khi thành_công với i Phone 5c , FBI đã đồng_ý giúp cảnh_sát ở Arkansas hack vào chiếc i Phone và i Pod khác trong vụ hai thiếu_niên bị buộc_tội giết một cặp vợ_chồng .
+Cơ_quan này cũng đang cố_gắng truy_cập dữ_liệu trên chiếc i Phone 5s chạy i OS 7 của tên trùm ma_túy ở Brooklyn .
+Song nhiều khả_năng FBI cần tìm các phương_pháp mới cho những vụ này .
+Một vấn_đề khác mà FBI phải đối_mặt là WhatsApp đã kích_hoạt mã_hóa đầu_cuối cho hơn 1 tỷ người dùng trên toàn_cầu .   Với
+phương_thức này , toàn_bộ thông_tin trao_đổi , tập_tin đính kèm hay các cuộc_gọi thông_qua ứng_dụng đều được bảo_vệ , mà ngay cả WhatsApp cũng không_thể truy_cập vào .
+Cơ_quan an_ninh lo_ngại tội_phạm và những kẻ khủng_bố có_thể tận_dụng lợi_thế công_nghệ để che_đậy các hành_vi phạm_pháp hay tuyên_truyền chủ_nghĩa cực_đoan .
+" Đây là vấn_đề nghiêm_trọng trong thời_đại kỹ_thuật_số mà chúng_ta cần cùng nhau giải_quyết " , luật_sư   FBI James_Baker nhấn_mạnh .
+Đình_Nam

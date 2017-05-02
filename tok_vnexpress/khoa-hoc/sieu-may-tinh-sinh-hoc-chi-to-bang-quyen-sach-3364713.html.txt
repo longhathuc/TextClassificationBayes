@@ -1,0 +1,15 @@
+Siêu máy_tính sinh_học chỉ to bằng quyển sách
+Các nhà_khoa_học chế_tạo thành_công mô_hình siêu máy_tính dựa trên các vật_liệu sinh_học , hứa_hẹn tạo ra nhiều bước đột_phá mới về công_nghệ máy_tính trong tương_lai .
+Theo UPI , các nhà_khoa_học đến từ nhiều quốc_gia như Canada , Anh , Đức , Thụy_Điển , Hà_Lan đã thiết_kế và xây_dựng một mô_hình siêu máy_tính sinh_học hoạt_động dựa vào adenosine triphosphate , hay ATP .
+Đây là phân_tử mang năng_lượng , có chức_năng vận_chuyển năng_lượng đến các nơi cần_thiết cho tế_bào sử_dụng .
+Kết_quả nghiên_cứu được đăng_tải trên tạp_chí PNAS hôm 18/1 .
+Thay cho mạch bán_dẫn nhân_tạo có trong vi_mạch thông_thường , siêu máy_tính sinh_học chứa những chuỗi protein nhỏ hoạt_động nhờ ATP .
+Hệ_thống nói trên mô_phỏng các tính_năng cơ_bản của siêu máy_tính , nhưng ở kích_thước nhỏ hơn nhiều .
+Hầu_hết các siêu máy_tính có kích_thước rất lớn .
+Chúng thường được đặt trong những phòng rộng bằng sân bóng_rổ và có nhà_máy phát_điện riêng để hoạt_động .
+Mô_hình máy_tính sinh_học được phát_triển bởi Dan_Nicolau , nhà_khoa_học máy_tính thuộc Đại_học McGill , Canada và cộng_sự chỉ lớn bằng một quyển sách .
+Mô_hình siêu máy_tính sinh_học hoạt_động dựa vào các nhân_tố sinh_học , nên nó sử_dụng ít năng_lượng và không bị quá nóng .
+Các nhà_nghiên_cứu tin rằng , đây sẽ là hệ_thống máy_tính có nhiều tiềm_năng để phát_triển trong tương_lai .
+" Sẽ có nhiều người tiếp_tục nghiên_cứu và cố_gắng phát_triển mô_hình siêu máy_tính sinh_học , chẳng_hạn như sử_dụng các nhân_tố sinh_học khác .
+Một phương_án để giải_quyết những vấn_đề lớn và phức_tạp hơn là kết_hợp thiết_bị của chúng_tôi với một máy_tính thông_thường để tạo thành thiết_bị lai " , Nicolau nói .
+Lê_Hùng

@@ -1,0 +1,3 @@
+Bút vẽ lại vật_thể , gửi dữ_liệu đến smartphone
+Sản_phẩm cho_phép ghi lại hình_dáng của mọi vật theo không_gian ba chiều , hỗ_trợ đo khoảng_cách và các thông_tin này sẽ được truyền trực_tiếp lên điện_thoại .
+Video : GiGadgets

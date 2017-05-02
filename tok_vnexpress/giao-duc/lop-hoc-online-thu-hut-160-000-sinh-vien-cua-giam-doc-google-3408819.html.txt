@@ -1,0 +1,27 @@
+Lớp_học online thu_hút 160.000 sinh_viên của Giám_đốc Google
+Các bài giảng ngắn dưới 6 phút của Peter_Norvig giúp người học nhớ tốt hơn so với những giờ thuyết_trình dài liên_miên .
+Năm 2011 , Giám_đốc nghiên_cứu Google và đồng_nghiệp là những nhà_khoa_học , nhà giáo_dục khởi_nghiệp Sebastian_Thrun   cho ra_đời lớp_học miễn_phí toàn_cầu , giảng_dạy một bộ_môn mà ông đang phụ_trách ở Đại_học Stanford .
+Họ đã không ngờ lớp_học này thu_hút 160.000 lượt tham_gia từ hơn 200 nước trên thế_giới .
+Peter_Norvig là một nhà_khoa_học máy_tính , chuyên_gia về trí_tuệ_nhân_tạo và tìm_kiếm trực_tuyến ( online search ) , đồng_thời đảm_nhiệm vị_trí Giám_đốc nghiên_cứu tại Google .
+Trước khi đầu_quân cho công_ty công_nghệ này , ông từng làm_việc tại phòng Khoa_học Máy_tính của Cơ_quan Hàng_không Vũ_trụ Mỹ ( NASA ) và là giảng_viên đại_học .
+Ý_tưởng lớp_học kiểu mới của ông xuất_phát từ việc nhận thấy các giờ giảng của giáo_sư và sinh_viên đại_học hiện_nay được tổ_chức không khác_gì những lớp_học từ thế_kỷ 14 .
+Đó vẫn là cảnh_tượng giáo_sư giảng bài với máy_chiếu và ở phía dưới , một_số lắng_nghe , ghi_chép còn một_số ngủ gục cuối lớp , ngay cả ở Đại_học Stanford .
+Cần phải có một hình_thức giáo_dục khác ưu_việt hơn .
+Lấy cảm_hứng từ những bài_học trực_quan , tận_tình mà mẹ dạy mình từ thuở nhỏ , Norvig cùng đồng_nghiệp mong_muốn tạo nên những bài giảng có tính tương_tác cao , hiệu_quả như cách học một kèm một nhưng lại áp_dụng đồng_loạt được cho số_lượng lớn nhờ công_nghệ , khoa_học máy_tính .
+Peter_Norvig giới_thiệu   lớp_học miễn_phí tại TED Talks
+Hai nhà_khoa_học đã cho ra_đời lớp_học trực_tuyến toàn_cầu đầu_tiên vào năm 2011 với chính bộ_môn " Nhập_môn Trí_tuệ thông_minh nhân_tạo " ông giảng_dạy ở Stanford .
+Theo đó , công_nghệ học_tập mới nằm ở điểm Norvig quay từng video mô_phỏng hình_ảnh một gia_sư vừa ghi_chép , vừa giải_thích , đặt câu_hỏi tương_tác với học_sinh duy_nhất của mình .
+Các phần kiến_thức lần_lượt được chia nhỏ , tạo ra khoảng thời_gian giúp người học đặt câu_hỏi , luyện_tập và có những tương_tác khác trước khi tiếp_thu phần mới .
+Những câu_hỏi mở sáng_tạo của sinh_viên luôn được khuyến_khích không khác_gì một giờ thảo_luận trên giảng_đường .
+Hiệu_quả mà chuỗi video gia_sư một kèm một này được ghi_nhận tương_đương hoặc tốt hơn lớp_học truyền_thống .
+Ông cũng chỉ ra , ưu_điểm cũng là khuyết_điểm lớn nhất của các lớp_học trực_tuyến là sự linh_hoạt thời_gian khiến người học thoải_mái sắp_xếp lịch học nhưng cũng dễ_dàng cho_phép bản_thân trì_hoãn , dần_dần từ_bỏ việc học .
+Vì_thế , các bài_học đều đính kèm thời_hạn xem và yêu_cầu hoàn_thành bài_tập trước một mốc thời_gian .
+Bên_cạnh đó , để mở ra một không_gian trao_đổi giữa các học_viên với nhau , ông thành_lập , hỗ_trợ các diễn_đàn thảo_luận về các đề_tài liên_quan .
+Các thành_viên có chung tiến_độ học_tập nên lại càng thuận_lợi hơn khi tham_gia những diễn_đàn này .
+Lớp trực_tuyến được thiết_kế để tận_dụng cả những ưu_điểm của hình_thức giáo giục truyền_thống - tương_tác nhiều với người giảng lẫn bạn học , đặt ra các quy_tắc và thời_hạn để tạo động_lực học_tập .
+Sau hai tuần mở lớp , ông và cộng_sự nhận được hơn 50.000 lượt đăng_ký và số_lượng còn tăng lên 160.000 người , phủ_sóng hơn 200 quốc_gia .
+Sau 10 tuần mở lớp , quá nửa sinh_viên xem ít_nhất một bài giảng mỗi tuần và hơn 20.000 người hoàn_thành hết các bài_tập trong chương_trình - con_số cho thấy năng_suất vượt_trội của hình_thức giáo_dục trực_tuyến .
+Từ chính khởi_đầu thuận_lợi mà người đồng sáng_lập lớp_học này của Norvig , Sebastian_Thrun đã thành_lập website giảng_dạy trực_tuyến Udacity không lâu sau đó còn bản_thân Norvig là giáo_viên tại đây .
+Lớp " Nhập_môn Trí_tuệ thông_minh nhân_tạo " hiện vẫn duy_trì trên Udacity với hơn 100.000 người học .
+Norvig tin rằng máy_tính đang trên đà tạo ra một cuộc cách_mạng giáo_dục toàn thế_giới trong những năm tới đây .
+Thu_Ngân   ( theo TED Talks )

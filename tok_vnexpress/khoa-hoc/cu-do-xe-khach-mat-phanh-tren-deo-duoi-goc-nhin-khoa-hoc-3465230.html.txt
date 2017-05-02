@@ -1,0 +1,18 @@
+Cú đỡ xe_khách mất phanh trên đèo dưới góc nhìn khoa_học
+Quá_trình xe_tải giảm_tốc cho xe_khách có_thể được giải_thích dưới góc_độ của hiện_tượng va_chạm mềm , trong đó sự khéo_léo của tài_xế và trọng_lượng xe_tải là hai yếu_tố quyết_định .
+Ngày 6/9 , anh Phan_Văn_Bắc chạy xe_tải chở nông_sản từ Đà_Lạt về TP . HCM phát_hiện ôtô khách phía sau có dấu_hiệu mất phanh khi đổ đèo Bảo_Lộc đã chạy chậm lại để cho xe này đâm vào đuôi xe mình , dìu xuống 500 m dốc an_toàn .
+Theo các chuyên_gia vật_lý , toàn_bộ quá_trình này có_thể được giải_thích dưới góc_độ của hiện_tượng va_chạm mềm , khi đó sau va_chạm , hai xe dính liền và có cùng tốc_độ .
+Trong va_chạm mềm , một phần động_năng của xe_khách đã chuyển thành_công làm biến_dạng phần đầu xe_khách và phần đuôi xe_tải .
+Theo định_luật_bảo_toàn động_lượng thì vận_tốc của hai xe sau va_chạm   tỷ_lệ_thuận với tổng động_lượng hai xe trước va_chạm và tỷ_lệ_nghịch với tổng khối_lượng hai xe .
+Do vận_tốc xe_khách lớn hơn so với vận_tốc xe_tải , nên ngay sau khi va_chạm , xe_tải sẽ bị gia_tốc đột_ngột .
+Dễ nhận thấy nếu trọng_lượng xe_tải càng lớn thì gia_tốc này càng nhỏ .
+Trong trường_hợp trọng_lượng xe_tải nhỏ hơn hoặc tương_đương với xe_khách , xe_tải sẽ bị gia_tốc mạnh tại thời_điểm ngay sau va_chạm dẫn tới mất ma_sát với mặt_đường và có_thể văng khỏi dốc .
+Chiếc xe_tải có trọng_lượng ước_tính khoảng 9 tấn với khối_lượng hàng khoảng 15 tấn , còn xe_khách 42 chỗ có tổng trọng_lượng khoảng 13 tấn .
+Giả_sử chiếc xe_khách lao xuống_dốc với tốc_độ 70 km / h ( 19,4 m / s ) còn xe_tải có tốc_độ khoảng 50 km / h ( 13,8 m / s ) thì ngay sau va_chạm hai xe cùng xuống_dốc với tốc_độ 57 km / h ( 15,8 m / s ) và xe_tải chịu một gia_tốc tức_thời khoảng 2m/s2 .
+Với tốc_độ và gia_tốc tức_thời như_vậy , hệ_thống phanh của xe_tải đủ khỏe để có_thể dìu cả hai xe xuống đèo an_toàn , cứu_mạng hàng chục người trên xe .
+Tuy_nhiên nếu chiếc xe chạy phía trước chỉ là một xe_tải cỡ nhỏ hoặc ôtô gia_đình có trọng_lượng khoảng hai tấn , hậu_quả sẽ rất thảm_khốc khi tài_xế điều_khiển xe này để đỡ xe_khách đang lao xuống .
+Khi đó , hai xe sẽ cùng xuống_dốc với tốc_độ 67 km / h ( 18,6 m / s ) và xe ôtô nhỏ phải chịu một gia_tốc tức_thời khoảng 5m/s2 , khiến chiếc xe dễ_dàng bị hất tung xuống vực .
+Ngoài_ra , hệ_thống phanh của ôtô gia_đình cũng không cho_phép chịu một tải_trọng lớn gấp nhiều lần trọng_lượng thiết_kế , dẫn đến mất phanh nhanh_chóng , và cả hai xe có_thể cùng gặp nạn .
+Theo nhận_xét của các tài_xế và cộng_đồng mạng , để dìu được xe_khách xuống_dốc an_toàn , tài_xế Phan_Văn_Bắc đã xử_lý gần_như hoàn_hảo , kết_hợp giữa lựa_chọn tốc_độ tương_đối đồng_đều với xe_khách tại thời_điểm va_chạm để giảm biến_dạng cho xe_khách và giảm gia_tốc đột_ngột xuống thấp nhất , đồng_thời dựa vào trọng_lượng lớn hơn của xe_tải để giảm dần tốc_độ cho xe hai xe trong gần 500 m còn lại .
+Xem thêm :   Xe_buýt không người lái giúp hạn_chế xe cá_nhân ở Phần_Lan
+Thanh_Tùng

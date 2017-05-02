@@ -1,0 +1,29 @@
+Hải_Phòng yêu_cầu các cơ_quan không sử_dụng máy_tính Lenovo
+Một công_văn của Ủy_ban Nhân_dân TP Hải_Phòng từ tháng 12/2015 yêu_cầu các cơ_quan , đơn_vị trực_thuộc không dùng máy_tính Lenovo do nước_ngoài sản_xuất .
+Công_văn 557 của Ban Chỉ đạo bảo_vệ bí_mật nhà_nước thành_phố Hải_Phòng .
+Ban Chỉ đạo bảo_vệ bí_mật nhà_nước thành_phố Hải_Phòng vừa phát đi   Công_văn số 557 yêu_cầu các cơ_quan đơn_vị trực_thuộc dừng ngay việc sử_dụng máy_tính của hãng Lenovo vì lý_do an_toàn , an_ninh mạng ... sau khi   Bộ Công an thông_báo về việc hãng máy_tính này cài phần_mềm điều_khiển trên máy_tính sử_dụng hệ_điều_hành Windows trước khi xuất_xưởng .
+Nội_dung công_văn nêu : " Từ tháng 10/2014 đến tháng 6/2015 , một_số dòng máy_tính của hãng Lenovo cài_đặt sẵn phần_mềm có tên ' Lenovo_Service_Engine ' ( viết tắt là LSE ) vào BIOS trên bo_mạch chính của máy trước khi xuất_xưởng .
+Trong lần đầu_tiên kết_nối Internet , LSE sẽ tự_động tải về máy_tính phần_mềm khác có tên ' Onkey_Optimizer ' .   Do LSE được tích_hợp vào BIOS nên khi người sử_dụng máy_tính cài_đặt lại hệ_điều_hành hoặc định_dạng lại ổ_cứng thì trong lần khởi_động đầu_tiên , hệ_điều_hành cũng sẽ tự_động tìm lại phần_mềm đó trong BIOS để thực_thi …
+Quá_trình khởi_động tiếp_theo , LenovoCheck.exe và LenovoUpdate sẽ tự_động kết_nối ngay đến máy_chủ của Lenovo để gửi lên một_số thông_tin cơ_bản của máy_tính , tự_động tải các trình điều_khiển và phần_mềm khác do Lenovo chỉ_định … "
+LSE hoạt_động xuất_phát từ một tính_năng mới của hệ_điều_hành Windows xuất_hiện từ phiên_bản Windows 8 tên là " Windows_Platform_Binary_Table " .   Tính_năng này cho_phép các tập_tin thực_thi có_thể được lưu lại tại BIOS và tự_động thực_thi trong quá_trình khởi_động máy_tính với mục_đích là giúp các công_ty sản_xuất máy_tính có_thể duy_trì các phần_mềm quan_trọng của hãng cả khi chúng bị cài lại hệ_điều_hành ...
+Văn_bản cũng cho_biết , LSE hội đủ các đặc_tính của phần_mềm gián_điệp với khả_năng hoạt_động ngầm ngay từ giai_đoạn khởi_động máy_tính và can_thiệp sâu vào các tập_tin hệ_thống mặc_định của hệ_điều_hành Windows .
+Qua khảo_sát tại một_số đơn_vị sở ban_ngành tại Hải_Phòng sáng nay , số_lượng ban_ngành sử_dụng máy Lenovo rất ít .
+Ví_dụ , quận Hồng_Bàng , Sở Lao động Thương_binh Xã_hội và Sở tài_chính Hải_Phòng đều không sử_dụng máy Lenovo .
+Quận_Ngô_Quyền có 2 bộ , sau khi nhận được công_văn số 557 nói trên đã ngừng sử_dụng và ngưng kết_nối mạng tới 2 máy này .
+Ảnh : Tuấn_Hưng .
+Tháng 2/2015 , một_số chuyên_gia bảo_mật phát_hiện máy_tính của hãng Trung_Quốc được cài_đặt sẵn phần_mềm Superfish_Visual_Discovery .
+Lenovo cho rằng phần_mềm không theo_dõi hoạt_động của người dùng và giúp họ có trải_nghiệm mua_sắm tốt hơn trên máy_tính .
+Thực_tế , đây là phần_mềm độc_hại , có_thể tự_động chèn quảng_cáo vào trang_web khi sử_dụng trình_duyệt Chrome và Internet_Explorer .
+Lenovo sau đó đã công_bố công_cụ hỗ_trợ gỡ bỏ phần_mềm này .
+Sáu tháng sau scandal trên , hãng máy_tính Trung_Quốc một lần nữa bị phát_hiện cài sẵn phần_mềm Lenovo_Service_Engine ( LSE ) trên thiết_bị của người dùng .
+Các chuyên_gia bảo_mật cho_biết , phần_mềm này hoạt_động như một phần_mềm gián_điệp , chạy ngầm và kích_hoạt ngay khi máy_tính bật lên , tự_động tải về nhiều tập_tin và rất khó gỡ bỏ khỏi hệ_thống .
+Bên_cạnh đó , một nhà_nghiên_cứu bảo_mật độc_lập đã phát_hiện lỗ_hổng có_thể tạo điều_kiện cho hacker thông_qua phần_mềm LSE để thực_hiện tấn_công thiết_bị , như tấn_công tràn bộ đệm và cố_gắng kết_nối với máy_chủ kiểm_định của Lenovo .
+LSE được cài_đặt sẵn trên các dòng máy_tính hiệu Lenovo gồm máy_tính_xách_tay chạy Windows 7 , 8 và 8.1 , và máy_tính_để_bàn Windows 8 và 8.1 .
+Phần_mềm này không được cài_đặt trong các dòng có thương_hiệu Think ( Xem danh_sách ) .
+Cách gỡ ứng_dụng Lenovo_Service_Engine .
+Đại_diện Lenovo_Việt_Nam cho_biết việc LSE tự_động gửi một_vài dữ_liệu hệ_thống về máy_chủ là " để giúp   Lenovo   hiểu rõ khách_hàng của mình sử_dụng sản_phẩm ra_sao .
+Những dữ_liệu này hoàn_toàn không chứa thông_tin cá_nhân của người dùng , mà bao_gồm tên sản_phẩm , tên vùng , thông_tin cấu_hình máy - gồm dung_lượng bộ_nhớ , mã SKU , model CPU , độ_phân_giải màn_hình , dung_lượng ổ_cứng , card màn_hình , phiên_bản hệ_điều_hành .
+Những thông_tin này được thu_thập và gửi về máy_chủ chỉ ở lần đầu_tiên máy kết_nối với Internet " .
+Trước thông_tin hacker có_thể khai_thác lỗ_hổng thông_qua LSE , Lenovo đã phát_hành bản nâng_cấp BIOS để loại_bỏ LSE và hiện phần_mềm này không còn được cài_đặt trên bất_cứ máy_tính mới nào của Lenovo .
+Lenovo cũng   soạn một tài_liệu bằng tiếng Việt để hướng_dẫn người dùng gỡ bỏ phần_mềm LSE từ máy_tính Lenovo mà họ đang sử_dụng , đồng_thời   lập nhóm Hỗ_trợ Kỹ_thuật chuyên_trách để hỗ_trợ cho khách_hàng nếu họ không tự mình xử_lý vấn_đề được .
+Giang_Chinh - Châu_An

@@ -1,0 +1,10 @@
+Thử tài phân_biệt ảnh chụp và ảnh đồ_họa
+Hãy quan_sát và phân_tích 8 bức ảnh dưới đây để đoán xem những tấm hình nào được dựng bằng phần_mềm máy_tính .
+A . Ảnh trên là ảnh đồ_họa
+B . Ảnh dưới là ảnh đồ_họa
+A . Ảnh trên là ảnh đồ_họa B .
+Ảnh dưới là ảnh đồ_họa
+A . Ảnh trên là ảnh đồ_họa B .
+Ảnh dưới là ảnh đồ_họa
+A . Ảnh trên là ảnh đồ_họa B .
+Ảnh dưới là ảnh đồ_họa

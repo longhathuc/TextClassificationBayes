@@ -1,0 +1,19 @@
+Phát_hiện trạng_thái thứ 4 của nước
+Ngoài ba trạng_thái đã biết là rắn , lỏng , khí , nước còn tồn_tại ở trạng_thái thứ 4 kỳ_lạ mang tên " đường_hầm " khi đặt dưới áp_lực cực cao trong không_gian nhỏ .
+Theo Gizmag , các nhà_nghiên_cứu ở Phòng_thí_nghiệm Quốc_gia Oak_Ridge ( ORNL ) , Mỹ , tìm thấy nước trong những ống dẫn 6 cạnh siêu nhỏ từ khoáng_chất beryl , vật_chất hình_thành nền_tảng cho những loại đá_quý như ngọc lam và ngọc lục bảo .
+Các ống dẫn có bề rộng bằng khoảng 5 nguyên_tử và hoạt_động như lồng chứa một phân_tử nước bên trong .
+Giữa không_gian vô_cùng chật_hẹp này , phân_tử nước thể_hiện một đặc_tính thường chỉ thấy ở cấp lượng_tử nhỏ hơn nhiều , gọi_là đường_hầm ( tunneling ) .
+Về cơ_bản , đường_hầm lượng_tử có_nghĩa một hạt , hay trong trường_hợp này là một phân_tử , có_thể vượt qua rào_cản và ở cả hai phía của rào_cản đó cùng lúc .
+Trường_hợp này tương_tự như việc thả rơi quả bóng ở ngọn đồi thứ nhất và để nó lăn lên ngọn đồi thứ_hai .
+Ngọn đồi thứ_hai chính là rào_cản và quả bóng chỉ có đủ năng_lượng để lên tới độ cao mà nó được thả xuống ban_đầu .
+Nếu ngọn đồi thứ_hai cao hơn ngọn đồi thứ nhất , quả bóng không_thể lăn qua đỉnh đồi .
+" Trong vật_lý_cổ_điển , nguyên_tử không_thể nhảy qua rào_cản nếu nó không có đủ năng_lượng để thực_hiện việc này " , nhà_khoa_học Alexander_Kolesnikov , tác_giả chính của nghiên_cứu công_bố hôm 22/4 trên tạp_chí Physical_Review_Letters , cho_biết .
+Nhưng với trường_hợp nước bị giữ trong ống dẫn beryl , phân_tử nước hoạt_động theo định_luật vật_lý lượng_tử .
+" Nguyên_tử oxy và hydro trong phân_tử nước bị dịch_chuyển khỏi vị_trí và ngay_lập_tức xuất_hiện ở cả 6 vị_trí đối_xứng trong ống dẫn cùng lúc .
+Đây là một trong những hiện_tượng chỉ xảy_ra trong cơ_học lượng_tử và chưa có trường_hợp nào tương_tự xảy_ra trong đời_sống thường_ngày " , Kolesnikov nói .
+Bằng cách sử_dụng thí_nghiệm phân_tán neutron , các nhà_nghiên_cứu có_thể quan_sát phân_tử nước tỏa rộng thành hai gợn sóng .
+Ở trung_tâm của gợn sóng , nguyên_tử hydro chia theo 6 hướng khác_nhau cùng lúc .
+" Đường_hầm ở đây có_thể hiểu là nguyên_tử hydro không nằm một chỗ , mà tỏa ra theo vòng_tròn " , nhóm nghiên_cứu cho_biết .
+Các nhà_nghiên_cứu ở ORNL chưa biết chính_xác nguyên_nhân cũng_như cách_thức hình_thành trạng_thái mới của nước .
+Họ vẫn đang tìm_hiểu cơ_chế dẫn đến hiện_tượng .
+Phương_Hoa

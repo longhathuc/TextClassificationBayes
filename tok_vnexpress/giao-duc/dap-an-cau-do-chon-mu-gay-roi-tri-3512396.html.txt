@@ -1,0 +1,34 @@
+Đáp_án câu_đố chọn mũ gây_rối trí
+Nhiều người tham_gia giải câu_đố về những chiếc mũ này đã đưa ra những cách làm mẹo thay_vì đưa ra một chiến_thuật logic .
+Điều này cho thấy câu_đố đã thực_sự khiến họ rối trí .
+Họ được bàn_bạc chiến_thuật trước khi chơi .
+Bạn có_thể giúp họ đưa ra chiến_thuật có tỷ_lệ thành_công cao nhất .
+Bắt_đầu một trò_chơi , ba người được đưa vào một căn phòng và được đội lên những chiếc mũ xanh hoặc đỏ .
+Họ không_thể nhìn thấy mũ của họ nhưng có_thể nhìn thấy mũ của người khác .
+Màu của mỗi chiếc mũ họ đội hoàn_toàn là ngẫu_nhiên .
+Có_thể tất_cả mũ đều màu xanh .
+Có_thể có một mũ màu xanh và hai mũ màu đỏ hoặc cũng có_thể là một mũ màu đỏ và hai mũ màu xanh .
+Họ cần đoán chiếc mũ trên đầu màu gì bằng cách viết đáp_án ra một tờ giấy , nếu_không biết họ có_thể viết “ bỏ_qua ” .
+Họ không được trò_chuyện với nhau cho_đến khi trò_chơi bắt_đầu , nhưng có_thể bàn_bạc trước đó .
+Nếu ít_nhất một người trong số họ trả_lời đúng , mỗi người sẽ nhận được 50.000 USD .
+Nhưng bất_kỳ ai trong số họ đoán sai hoặc tất_cả đều bỏ_qua , họ sẽ không được gì cả .
+Chiến_lược nào sẽ giúp họ có nhiều cơ_hội thành_công nhất ?
+( 100% cơ_hội thành_công là điều không_thể ) .
+Đáp_án :
+Chiến_thuật : Trong 3 người , người nào nhìn thấy hai mũ còn lại cùng màu sẽ là người viết đáp_án màu mũ mình đang đội ra giấy , những người nhìn thấy hai mũ còn lại khác màu sẽ viết bỏ_qua .
+Gọi 3 người đội mũ lần_lượt là A , B , C .
+Theo đề_bài , có_thể tất_cả mũ đều màu xanh .
+Có_thể có một mũ màu xanh và hai mũ màu đỏ hoặc cũng có_thể là một mũ màu đỏ và hai mũ màu xanh nên ta có 8 trường_hợp như sau :
+- Cả 3 người đội mũ đỏ nên cả 3 người sẽ nhìn thấy hai người còn lại đội mũ cùng màu .
+Từ đó , cả 3 người đều viết ra giấy đáp_án là họ đội mũ xanh ( thua cuộc ) .
+- Cả 3 người đội mũ xanh nên cả 3 người sẽ nhìn thấy hai người còn lại đội mũ cùng màu .
+Từ đó , cả 3 người đều viết ra giấy đáp_án là họ đội mũ đỏ ( thua cuộc ) .
+- A thấy B và C đội mũ đỏ nên A viết ra giấy đáp_án A đội mũ xanh , B và C bỏ_qua ( thắng cuộc ) .
+- B thấy A và C đội mũ đỏ nên B viết ra giấy đáp_án B đội mũ xanh , A và C bỏ_qua ( thắng cuộc ) .
+- C thấy A và B đội mũ đỏ nên C viết ra giấy đáp_án C đội mũ xanh , A và B bỏ_qua ( thắng cuộc ) .
+- A thấy B và C đội mũ xanh nên A viết đáp_án A đội mũ đỏ , B và C bỏ_qua ( thắng cuộc ) .
+- B thấy A và C đội mũ xanh nên B viết đáp_án B đội mũ đỏ , A và C bỏ_qua ( thắng cuộc ) .
+- C thấy A và B đội mũ xanh nên C viết đáp_án C đội mũ đỏ , A và B bỏ_qua ( thắng cuộc ) .
+Như_vậy , chiến_thuật này sẽ giúp họ đạt tỷ_lệ thành_công là 75% .
+Thanh_Tâm
+> >   Câu_đố chọn mũ gây_rối trí

@@ -1,0 +1,23 @@
+Pháp tính làm 1.000 km đường phủ pin Mặt_Trời
+Chính_phủ Pháp công_bố kế_hoạch xây_dựng 1.000 km đường_được phủ bằng các tấm pin năng_lượng Mặt_Trời trong vòng 5 năm tới , với mục_tiêu cung_cấp đủ năng_lượng cho khoảng 5 triệu người , tương_đương 8% dân_số Pháp .
+Dự_án là kết_quả của 5 năm nghiên_cứu giữa công_ty xây_dựng đường_bộ Pháp ( Colas ) và Viện_Năng lượng Mặt_Trời .
+Trước đó , rất nhiều chuyên_gia quang_năng cho rằng dự_án này bất_khả_thi vì chi_phí đắt_đỏ , thiếu an_toàn và kém hiệu_quả hơn so với cách đặt các tấm pin quang_năng lên mái nhà .
+Kế_hoạch phủ 1.000 km đường đã được Ségolène_Royal , Bộ_trưởng Bộ Sinh thái , Năng_lượng và Phát_triển Bền_vững Pháp công_bố tại một cuộc họp_báo tuần trước .
+Ý_tưởng này lần đầu_tiên được một cặp vợ_chồng Mỹ đưa ra_vào năm 2014 .
+Sau chiến_dịch huy_động vốn từ cộng_đồng , họ có được hơn hai triệu USD để gắn các tấm pin năng_lượng Mặt_Trời lên_đường .
+Hà_Lan là nước đầu_tiên thử_nghiệm , cho kết_quả tốt hơn mong_đợi , trong điều_kiện xe hai bánh nhẹ lưu_thông bình_thường trên đường .
+Pháp sẽ sử_dụng các tấm năng_lượng Mặt_Trời có tên Wattway , có_thể lắp_đặt trên bất_kỳ con đường nào mà không cần phải thay_đổi cơ_sở_hạ_tầng hay đào đường .
+Các tấm Wattway làm từ màng mỏng silicon đa tinh_thể có kích_thước 15 cm này được phủ lên trên một lớp đế bằng nhựa_đường , giúp chúng chịu lực tốt hơn .
+Độ dày toàn_bộ của tấm Wattway chỉ là 7 mm .
+Theo Colas , cấu_trúc theo lớp độc_đáo này giúp tăng độ bám đường hơn các tấm năng_lượng thường , giảm nguy_cơ tai_nạn cho xe_tải và xe_hơi .
+" Không cần phải xây_dựng lại cơ_sở_hạ_tầng " , Giám_đốc điều_hành Colas , Hervé_Le_Bouc trao_đổi với tạp_chí Les_Echoes năm_ngoái , khi công_bố Wattway .
+" Tại_Chambéry và Grenoble , Wattway đã được thử_nghiệm chịu được lưu_lượng giao_thông trong 20 năm của một con đường bình_thường , với một_triệu xe_cộ lưu_thông mà không hề bị dịch_chuyển " .
+Các tấm năng_lượng cũng có khả_năng chống chịu thời_tiết .
+Các pin silicon được bao kín an_toàn , khô_ráo khi trời mưa , và độ mỏng cho_phép đáp_ứng sự giãn_nở do nhiệt của vỉa_hè .
+" Thậm_chí , Wattway còn vượt qua bài kiểm_tra độ bền với xe cào tuyết một_cách mỹ_mãn " , trang_web của Wattway cho_biết .
+" Tuy_nhiên , các lái_xe cào tuyết vẫn cần phải lái cẩn_thận hơn trên các tấm năng_lượng " .
+Dựa trên giả_định rằng chỉ 10% thời_gian các tấm năng_lượng bị xe_cộ che_khuất , và trong khoảng thời_gian ban_ngày còn lại liên_tục được Mặt_Trời chiếu sáng , công_ty ước_tính 20 mét_vuông Wattway sẽ cung_cấp đủ điện cho một hộ gia_đình , không bao_gồm sử_dụng hệ_thống sưởi .
+Tuy_nhiên vẫn còn rất nhiều lo_ngại rằng ý_tưởng đường năng_lượng Mặt_Trời sẽ không mang lại lợi_nhuận , thiếu hiệu_quả và không đủ an_toàn để trở_thành đối_thủ cạnh_tranh trong lĩnh_vực năng_lượng tái_tạo , nhất_là khi so_sánh với cách đặt lên mái nhà truyền_thống .
+" Để con đường năng_lượng Mặt_Trời có hiệu_quả , cần phải tính_toán lại về công_nghệ .
+Một giải_pháp có_thể tồn_tại , nhưng nó có_lẽ không phải là điện Mặt_Trời " , theo nhà_nghiên_cứu quang_điện Andrew_Thomson .
+Nguyễn_Thành_Minh

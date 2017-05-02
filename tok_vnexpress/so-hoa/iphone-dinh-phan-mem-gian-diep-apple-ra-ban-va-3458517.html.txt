@@ -1,0 +1,12 @@
+iPhone dính phần_mềm gián_điệp , Apple ra bản vá
+Di_động của Apple có_thể bị nghe lén , xem trộm tin nhắn hay e - mail ... khi dính spyware và hãng đã tung i OS 9.3.5 để khắc_phục vấn_đề này .
+Lỗ_hổng được phát_hiện vào ngày 10/8 khi Ahmed_Mansoor ,   một nhà hoạt_động nhân_quyền nổi_tiếng ở UAE ( Các_Tiểu vương_quốc Ả Rập_Thống nhất ) bắt_đầu nhận được các tin nhắn với nội_dung kỳ_lạ .
+Nếu ông bấm vào liên_kết trên đó , phần_mềm gián_điệp ( spyware ) sẽ được cài lên i Phone để đánh_cắp các thông_tin .
+Apple ngay_lập_tức ra bản cập_nhật i OS 9.3.5 nhằm ngăn_chặn phần_mềm gián_điệp .
+Công_ty an_ninh mạng Lookout và nhóm giám_sát Internet_Citizen_Lab không công_bố chi_tiết phần_mềm độc_hại trên đã được cài_đặt thế_nào , song cho_biết nó khai_thác ba lỗ_hổng chưa từng phát_hiện trước đó trên hệ_điều_hành của Apple .
+Báo_cáo chỉ ra NSO Group , một công_ty   Israel , đã bán các phần_mềm giám_sát " tàng_hình " , nhưng hoạt_động như những ứng_dụng gián_điệp   trên smartphone .
+NSO Group không đưa ra bình_luận cho vấn_đề trên .
+Trong khi đó , Apple tiến_hành vá lỗi bằng việc phát_hành i OS 9.3.5 .
+Công_ty công_nghệ Mỹ tuyên_bố lỗ_hổng đã được xem_xét ngay sau khi hãng có thông_tin .
+Apple khuyến_cáo khách_hàng luôn cập_nhật i OS mới nhất để tự bảo_vệ trước các mối nguy_hiểm tiềm_ẩn .
+Để kiểm_tra và tiến_hành nâng_cấp trên i OS , người dùng truy_cập mục   Settings > General > Software_Update .

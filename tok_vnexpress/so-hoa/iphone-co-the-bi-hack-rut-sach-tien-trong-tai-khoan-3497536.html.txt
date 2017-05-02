@@ -1,0 +1,17 @@
+iPhone có_thể bị hack , rút sạch tiền trong tài_khoản
+Một lỗ_hổng bảo_mật trên i Phone có_thể bị khai_thác để gọi tới bất_kỳ số nào , gây mất tiền hoặc lợi_dụng để tấn_công các mạng di_động .
+Theo nhà bảo_mật Collin_Mulliner , tin_tặc có_thể lợi_dụng lỗ_hổng trên hệ_điều_hành i OS để can_thiệp vào bất_cứ ứng_dụng gọi điện hay nhắn_tin nào .
+Kẽ hở này tồn_tại trong một thành_phần có tên WebView , mà các nhà_phát_triển sử_dụng nó để hiển_thị web trong ứng_dụng của mình .
+Mulliner nói rằng " lỗ_hổng rất đơn_giản và ai cũng có_thể khai_thác được " .
+Những gì hacker cần làm chỉ là gửi một liên_kết đến một trang_web chứa mã độc .
+Khi nạn_nhân bấm vào , mã độc sẽ được thực_thi và từ đó kiểm_soát cuộc_gọi từ i Phone .
+Video trình_diễn gọi điện_từ ứng_dụng Twitter
+Khi i Phone của bạn có_thể phát_sinh cuộc_gọi bởi một người khác , tài_khoản trong đó dễ_dàng bị rút sạch .
+Trước đó đã xuất_hiện một_số phần_mềm hay mã độc bí_mật gửi tin nhắn từ máy nạn_nhân để đánh_cắp tiền .
+Miễn_là hacker nghĩ rằng lỗ_hổng có_thể kiếm được tiền , chắc_chắn tin_tặc sẽ khai_thác nó .
+Một kịch_bản khác là i Phone của người dùng sẽ bị lợi_dụng tham_gia mạng_lưới máy_tính ma .
+Những thiết_bị này có_thể gây tình_trạng tê_liệt cho các hệ_thống điện_thoại , tương_tự tấn_công từ_chối dịch_vụ ( DDoS ) với các trang_web .
+Video hack cuộc_gọi thông_qua phần_mềm LinkedIn
+Cuối tháng 10 ,   đường_dây_nóng 911 ở Surprise , Arizona ( Mỹ ) bị spam với tần_suất 100 cuộc_gọi trong vài phút .
+Cảnh_sát đã phát_hiện chúng đều xuất_phát từ_đường link do một người có tên Desai chia_sẻ tên Twitter .
+Desai khai đã   tạo ra một mã độc để điều_khiển các thiết_bị i OS tự_động quay số điện_thoại khi bấm vào link đó .

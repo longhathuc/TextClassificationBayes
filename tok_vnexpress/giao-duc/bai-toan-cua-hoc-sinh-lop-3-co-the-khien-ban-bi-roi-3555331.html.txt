@@ -1,0 +1,9 @@
+Bài_toán của học_sinh lớp 3 có_thể khiến bạn bị rối
+Bài_toán về việc cố_định tranh lên bảng bằng các viên nam_châm nằm trong đề thi đánh_giá năng_lực tư_duy Toán_học - IMAS dành cho học_sinh lớp 3-4 .
+Hãy suy_luận và đưa ra đáp_án .
+Học_sinh cố_định tranh lên bảng bằng nam_châm .
+Biết mỗi bức tranh cần 4 cục nam_châm gắn ở 4 góc .
+Và các bức tranh liền kề nhau có_thể xếp chồng phần rìa lên nhau sao cho một cục nam_châm cố_định được cả hai bức tranh .
+Một ví_dụ được cho như hình , 4 bức tranh cần 9 cục nam_châm để cố_định .
+Hỏi với 10 bức tranh , học_sinh cần ít_nhất bao_nhiêu cục nam_châm để cố_định chúng ?
+Thanh_Tâm

@@ -1,0 +1,21 @@
+Bị_Mỹ cấm , Trung_Quốc vẫn làm máy_tính mạnh nhất thế_giới
+TaihuLight trở_thành siêu máy_tính đầu_tiên trên thế_giới có hiệu_suất cao nhất theo lý_thuyết là thực_hiện được hơn 100 triệu tỷ phép_tính một giây .
+Trung_Quốc hôm_qua tiết_lộ đã phát_triển thành_công siêu máy_tính được cho là mạnh nhất thế_giới hiện_nay .
+Hệ_thống tích_hợp tới 10.650.000 lõi tính_toán và sử_dụng hoàn_toàn bộ_vi_xử_lý của Trung_Quốc .
+Đây là hệ_quả của lệnh cấm không cho Trung_Quốc tiếp_cận với các bộ_vi_xử_lý nhanh_nhất của Intel do chính_phủ Mỹ ban_hành .
+Theo Computerworld , hệ_thống mới được đặt tên là   Sunway_Taihu Light ,   đã vượt qua thế_hệ trước là   Tianhe - 2 với tốc_độ nhanh gấp hơn 2 lần .
+Trong danh_sách top 500 siêu máy_tính hàng_đầu thế_giới ,   TaihuLight có hiệu_suất cao nhất theo lý_thuyết là 124,5   petaflop ( tức 124,5 triệu tỷ phép_tính một giây ) .
+Đây cũng là hệ_thống đầu_tiên vượt quá con_số 100 petaflop .
+TaihuLight sử_dụng 41.000 CPU , trong mỗi CPU lại bao_gồm 260 lõi xử_lý .
+Tổng_số lõi của hệ_thống là 10,65 triệu lõi , vượt khá xa so với siêu máy_tính mạnh nhất của Mỹ là 560.000 lõi .   TaihuLight   cũng tích_hợp bộ_nhớ RAM 1,3 petabyte .
+Trong khi đó , thế_hệ trước   Tianhe - 2 với hiệu_suất cao nhất 54,9 petaflops sử_dụng chip Intel_Xeon .
+Sunway_Taihu Light .
+Siêu máy_tính mạnh nhất thế_giới hiện_nay được sản_xuất hoàn_toàn tại Trung_Quốc và đang lắp_đặt ở Trung_tâm siêu máy_tính của nước này ở   Wuxi .
+Hệ_thống chạy hệ_điều_hành   Sunway_Raise được phát_triển trên nền_tảng Linux .
+Theo thông_báo từ Mỹ , lệnh cấm nhắm vào Trung_Quốc là do nghi_ngờ chính_phủ nước này dùng   Tianhe - 2 của mình cho hoạt_động thử_nghiệm các vụ nổ hạt_nhân .
+Mỹ đã ngừng thử_nghiệm hạt_nhân trực_tiếp vào năm 1992 và hiện_nay chỉ mô_phỏng trên máy_tính .
+Các nhà phê_bình ở Trung_Quốc cho rằng hành_động của Mỹ có mục_đích làm chậm nỗ_lực phát_triển siêu máy_tính của nước họ .
+Không_chỉ Trung_Quốc , Nga và Nhật_Bản cũng đang có những nỗ_lực của riêng mình để phát_triển siêu máy_tính .
+Châu_Âu cũng muốn làm các hệ_thống dựa trên vi_xử_lý ARM , tương_tự như Trung_Quốc và muốn giảm sự phụ_thuộc vào các con chip do Mỹ chế_tạo .
+Trung_Quốc hiện có 167 hệ_thống nằm trong top 500 siêu máy_tính mạnh nhất thế_giới trong khi con_số này với Mỹ là 165 .
+Chỉ mười năm trước_đây , Trung_Quốc mới chỉ có 10 hệ_thống trong danh_sách .

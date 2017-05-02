@@ -1,0 +1,14 @@
+Google mở lại tính_năng dẫn đường chi_tiết tại Việt_Nam
+Sau khi thử_nghiệm trong thời_gian ngắn vào giữa năm_ngoái , tính_năng dẫn đường chi_tiết của Google_Maps bất_ngờ cho sử_dụng lại từ hôm_qua .
+Tính_năng dẫn đường chi_tiết của Google_Maps có trở_lại tại Việt_Nam .
+Dẫn đường chi_tiết ( turn-by-turn navigation ) rất được ưa_chuộng trên Google_Maps tại nhiều quốc_gia trên thế_giới .     Không_chỉ đưa ra lộ_trình bằng bản_đồ , dịch_vụ này còn thông_báo theo thời_gian_thực khi nào bạn chuẩn_bị rẽ trái , rẽ phải hay tiếp_tục đi thẳng ...
+Khi người dùng đi lệch khỏi lộ_trình , phần_mềm tiếp_tục tính_toán lộ_trình mới sao cho phù_hợp .
+Tại_Việt_Nam , Google tỏ ra khá thận_trọng khi đưa vào sử_dụng dịch_vụ này .
+Năm_ngoái , hãng bắt_đầu thử_nghiệm vào đầu tháng 7 nhưng nhanh_chóng khóa trở_lại vài ngày_sau đó .
+Một_số người dùng trong nước cho_biết tính_năng này lại bắt_đầu mở lại từ chiều_qua .
+Tuy_nhiên , ứng_dụng mới chỉ hỗ_trợ giọng nói dẫn đường bằng tiếng Anh .
+Người dùng hiện có một_số lựa_chọn   dịch_vụ dẫn đường chi_tiết tương_tự Google_Maps như Here_Maps , Sygic , VietMap hay Navitel .
+Các phần_mềm này có giao_diện và giọng nói tiếng Việt dễ hiểu và sử_dụng .
+Tuy_nhiên , khả_năng cập_nhật dữ_liệu và tìm theo địa_điểm thực_tế vẫn là ưu_điểm được nhiều người dùng ưa_thích trên Google_Maps .
+Thử_nghiệm bản_đồ Google dẫn đường chi_tiết tại Việt_Nam
+Tuấn_Hưng

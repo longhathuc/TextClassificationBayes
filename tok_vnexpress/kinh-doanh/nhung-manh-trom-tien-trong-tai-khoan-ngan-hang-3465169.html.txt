@@ -1,0 +1,33 @@
+Những mánh trộm tiền trong tài_khoản ngân_hàng
+Dù không hề rút , chuyển_khoản nhưng khách_hàng vẫn bị mất số tiền lớn vì thông_tin thẻ đã bị đánh_cắp ngay ở máy ATM hoặc do chiêu trò lừa_đảo của tội_phạm ngày_một tinh_vi .
+Hội_nghị trực_tuyến về an_toàn thanh_toán thẻ vừa được Ngân_hàng Nhà_nước tổ_chức sáng nay 8/9 .
+Tại cuộc họp này , Đại_tá Trần_Văn_Doanh - Đại_diện Cục cảnh_sát phòng , chống tội_phạm sử_dụng công_nghệ_cao Bộ Công an ( C50 ) đã có một báo_cáo chi_tiết về tình_hình tội_phạm thẻ hiện_nay .
+Theo ông , chủ_yếu tội_phạm là người nước_ngoài , đến từ Trung_Quốc , Indonesia , Malaysia , Bulgaria , Rumania , Thổ_Nhĩ_Kỳ , Nga , Anh ...
+Ăn_cắp dữ_liệu thẻ ngay tại ATM
+Nhiều ATM bị tội_phạm cài thiết_bị skimming để lấy cắp toàn_bộ thông_tin khi chủ thẻ rút_tiền .
+Đại_diện C50 mô_tả , với hình_thức đánh_cắp này , tội_phạm dùng một bảng nhựa trong đó chứa thiết_bị lấy cắp thông_tin thẻ ( gọi_là thiết_bị skimming ) ốp phía ngoài khe quẹt thẻ .
+Khi có thiết_bị này , khi được đưa vào khe cắm , thẻ sẽ đi qua thiết_bị skimming trước rồi mới vào khe cắm thẻ .
+Bằng hình_thức này , tội_phạm sẽ lấy_được toàn_bộ thông_tin lưu_trữ trên dải từ của thẻ .
+Bên_cạnh đó , tội_phạm thẻ còn lắp_đặt một camera nhỏ , thường được ngụy_trang trong một thanh nhựa hoặc bảng quảng_cáo ốp ngay phía trên bàn_phím của ATM để ghi lại toàn_bộ hoạt_động nhập mã PIN của khách_hàng khi rút_tiền .
+Ông Doanh cho_biết , sau khi lấy_được thông_tin thẻ ngân_hàng và mã PIN , các đối_tượng sẽ sử_dụng thiết_bị làm giả thẻ ngân_hàng thông_qua phần_mềm chuyên_dụng và thiết_bị đọc và in dữ_liệu thẻ từ được bán trên mạng internet rồi rút_tiền tại các máy ATM .
+Các đối_tượng nước_ngoài chia thành nhiều nhóm nhỏ , phân_công chức_năng , nhiệm_vụ rõ_ràng , trong đó có nhóm gắn thiết_bị , nhóm lấy thiết_bị , thu_thập thông_tin thẻ sau đó gửi cho nhóm IT để làm thẻ giả , nhóm đi rút_tiền .
+Tội_phạm skimming thường tập_trung chủ_yếu tại các thành_phố lớn như : Hà_Nội , Huế , Hội_An - Quảng_Nam , Nha_Trang - Khánh_Hòa , Mũi_Né - Phan_Thiết - Bình_Thuận , Ninh_Thuận , Vũng_Tàu , TP_HCM ...
+Lấy thông_tin qua website giả_mạo của ngân_hàng ( Phishing )
+Ngay cả khi thẻ ở trong ví , tiền trong tài_khoản vẫn có_thể bị bốc_hơi .
+Ảnh : AFP .
+Theo cơ_quan công_an , gần đây , các đối_tượng thường lợi_dụng sơ_hở của người dùng để chiếm_đoạt thông_tin tài_khoản ngân_hàng .
+Tội_phạm lập các website trúng thưởng gửi tin nhắn qua facebook , zalo , viber ... , thông_báo chủ_tài_khoản đã trúng thưởng tài_sản , hiện_vật có giá_trị lớn đề_nghị truy_cập vào các website để đăng_ký nhận giải .
+Ngoài_ra , tội_phạm có_thể lập các website giả_mạo website của ngân_hàng , gửi link thông_báo tài_khoản của khách_hàng có tiền chuyển vào nhưng bị lỗi cần phải cung_cấp thông_tin để kiểm_tra .
+Khi mã xác_thực OTP gửi về điện_thoại , đối_tượng giả_danh nhân_viên ngân_hàng thông_báo đã gửi mã trúng thưởng để xác_thực , đề_nghị người_bị_hại cung_cấp để hoàn_tất thủ_tục .
+Sau khi lấy_được thông_tin , kẻ_gian dùng để mua mã thẻ điện_thoại , thẻ game trên các website bán trực_tuyến hoặc chuyển_tiền sang các tài_khoản trung_gian để rút_tiền hoặc thuê người rút_tiền trong và ngoài nước .
+Mua , thuê người mở tài_khoản
+Hiện không có quy_định một người được mở bao_nhiêu tài_khoản tại một ngân_hàng , nên theo cơ_quan công_an , tình_trạng thuê , mua lại các tài_khoản sử_dụng vào mục_đích chuyển , nhận tiền lừa_đảo , phạm_tội ngày_càng diễn_biến phức_tạp .
+Hiện chưa có chế_tài xử_lý đối_với những người mở tài_khoản để bán , cho thuê tài_khoản để nhận tiền lừa_đảo .
+Các tài_khoản này đều được các đối_tượng người Trung_Quốc , Đài_Loan móc_nối với trong nước thuê người mở tài_khoản với giá từ 1-2 triệu đồng ( mỗi tài_khoản ) .
+Sau khi mở tài_khoản , người được thuê đưa thẻ ngân_hàng , thông_tin user , mật_khẩu internetbanking cho các đối_tượng Trung_Quốc sử_dụng để chuyển , nhận tiền .
+Nhiều vụ_việc các tài_khoản được thuê mở , sau đó sử_dụng vào việc chuyển , nhận khoản tiền có được từ mua , bán tiền điện_tử như bitcoin , onecoin , WMZ , hoặc chuyển , nhận tiền cá_độ bóng_đá , đánh_bạc trên mạng .
+Số tiền này sau khi chuyển vào tài_khoản sẽ được rút hết ngay hoặc chuyển_tiếp tới nhiều các tài_khoản .
+Một_số đối_tượng người gốc Phi làm_quen với phụ_nữ người Việt_Nam qua mạng xã_hội , đặt vấn_đề yêu_đương lâu_dài sau đó thông_báo có gửi quà tặng , hiện_vật có_giá từ nước_ngoài về Việt_Nam .
+Yêu_cầu khi nhận phải ứng trước một khoản tiền chuyển vào tài_khoản có trước để chiếm_đoạt .
+Hoặc tội_phạm có_thể tấn_công dò mật_khẩu email Phòng kinh_doanh của các công_ty có mối quan_hệ làm_ăn với nước_ngoài để lấy các thông_tin về hợp_đồng điện_tử , thay_đổi tên_miền giao_dịch hoặc tạo các lý_do để thay_đổi tài_khoản thụ_hưởng bằng tài_khoản khác đã được mở tại ngân_hàng Việt_Nam .
+Ngay sau đó , tội_phạm sẽ rút hết tiền tại quầy giao_dịch hoặc rút_tiền ở nước_ngoài .

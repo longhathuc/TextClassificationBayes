@@ -1,0 +1,21 @@
+Gửi miễn_phí file dung_lượng lớn lên đến 20GB
+Dịch_vụ Fsend.vn giúp giới văn_phòng hay công_nghệ chuyển nhiều dữ_liệu thông_tin dung_lượng lớn qua email cho đối_tác với tốc_độ cao và hoàn_toàn miễn_phí .
+Hiện_nay nhu_cầu trao_đổi thông_tin qua thư_điện_tử rất lớn .
+Khi cần chia_sẻ dữ_liệu qua Internet như hình_ảnh , tài_liệu , bản_vẽ thiết_kế , kiến_trúc … , người dùng thường sử_dụng hình_thức đính kèm tập_tin vào email hoặc dán link chứa file dữ_liệu từ một dịch_vụ lưu_trữ online nào_đó trên mạng .
+Tuy_nhiên không có bất_kỳ quy_chuẩn chung về việc giới_hạn dung_lượng file khi đính kèm trong email mà phụ_thuộc vào dịch_vụ thư_điện_tử của nhà_cung_cấp , phổ_biến từ 10-25MB .
+Do_đó , nếu gửi file có dung_lượng lớn hơn vượt qua giới_hạn cho_phép , chắc_chắn email sẽ không_thể gửi đi .
+Trước_kia , để giải_quyết vấn_đề này người dùng thường sử_dụng nhiều công_cụ hỗ_trợ để chia nhỏ file , gửi kèm thành nhiều link rồi tải về và kết_nối tập_tin lại .
+Tuy_nhiên do phải tải về phần_mềm và mất thời_gian thực_hiện nhiều thao_tác như up file , tạo link chia_sẻ , đính kèm link tải vào nội_dung email để gửi đến người nhận … , nên nhìn_chung quy_trình khá phức_tạp với đa_số người dùng phổ_thông .
+Sau quá_trình nghiên_cứu hành_vi sử_dụng email của người dùng , nắm_bắt nhu_cầu về việc chuyển file dung_lượng lớn một_cách nhanh_chóng và đơn_giản nhất , FPT Telecom đã phát_triển công_cụ Fsend.vn .
+Dịch_vụ này xây_dựng trên nền_tảng công_nghệ điện_toán đám mây tiên_tiến , cho_phép người dùng đính kèm file có dung_lượng lớn lên đến 20 GB trong email để chia_sẻ trọn_vẹn dữ_liệu và thông_tin đến bạn_bè và đối_tác .
+Theo đại_diện FPT Telecom , Fsend.vn phù_hợp cho giới công_nghệ , quảng_cáo , truyền_thông , xây_dựng , kiến_trúc , đồ_họa … Hơn_nữa , do tính đơn_giản trong vận_hành , giao_diện thân_thiện nên với cả những người dùng phổ_thông hoặc ít nắm_bắt về công_nghệ như nữ_giới , học_sinh cũng hoàn_toàn có_thể sử_dụng thành_thạo .
+" Trong thời_gian đầu thử_nghiệm thị_trường , dịch_vụ được giới công_nghệ nói_riêng và người dùng nói_chung đánh_giá cao vì hỗ_trợ tốt gửi file dung_lượng lớn , tốc_độ nhanh , dễ sử_dụng mà_lại hoàn_toàn miễn_phí " , vị đại_diện FPT Telecom chia_sẻ .
+Fsend.vn cắt_giảm hầu_hết " phiền_hà " trong thao_tác , cung_cấp nhiều tính_năng và tiện_ích hữu_dụng cho mục_đích gửi tập_tin lớn .
+Cụ_thể dung_lượng đính kèm đến 20GB , không phải chia nhỏ và cắt dán file , cho_phép tối_đa 20 file mỗi lần gửi , chuyển tới 20 người nhận cùng lúc , tốc_độ tải tối_đa theo tốc_độ đường truyền .
+Bên_cạnh đó giao_diện thuần Việt nên đơn_giản và dễ sử_dụng , không phải đăng_ký tài_khoản sử_dụng , miễn_phí .
+Sau thời_gian mở ứng_dụng cho người dùng trên web , nhận thấy nhu_cầu gửi file trực_tiếp từ Gmail hay Outlook cao nên đơn_vị đã bổ_sung công_cụ mới .
+Theo đó , sau khi cài_đặt bằng vài động_tác đơn_giản , người dùng chỉ cần vào tài_khoản Gmail hay Outlook để soạn và đính kèm file rồi gửi mail .
+" Dù gửi trực_tiếp từ Gmail hay Outlook nhưng vì file được lưu_trữ trên Fsend nên email người dùng rất nhẹ .
+Khi nhận , chỉ cần click vào biểu_tượng Fsend trong email đến là file tải ngay xuống máy_tính .
+Bên_cạnh đó dịch_vụ còn tận_dụng tối_đa đường truyền mà khách_hàng hiện có để tải file lên trước khi gửi qua mail " , đại_diện FPT Telecom nhấn_mạnh .
+Nguyên_Vẹn

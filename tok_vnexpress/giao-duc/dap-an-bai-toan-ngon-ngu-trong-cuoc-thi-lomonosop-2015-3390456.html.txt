@@ -1,0 +1,22 @@
+Đáp_án bài_toán ngôn_ngữ trong cuộc_thi Lomonosop 2015
+Bạn_đọc Phong_Quach đã giải đúng với đáp_án là 1 .
+Ngôn_ngữ và toán_học có rất nhiều điểm chung , trong đó có tính logic , tính quy_luật và tính cấu_trúc .
+Những người giỏi toán thường nắm_bắt một ngôn_ngữ mới rất nhanh .
+Bài_toán sau đây được ra trong đề thi môn ngôn_ngữ của cuộc_thi Lomonosop 2015 .
+Cho_biết một_số số viết theo chữ_số Ả - rập ở cột bên trái và cũng những số này bằng tiếng Tamil ở cột bên phải ( nhưng không đúng thứ_tự ) .
+Để tiện trình_bày , ta thay ký_tự Tamil bằng các chữ_cái Latin theo thứ_tự từ trên xuống dưới như sau ( các ký_tự giống nhau được thay bằng các chữ_cái giống nhau ) :
+ABC , DB , EFFC , GC , FFFC , HFC , IF , JBFFC , KBFC .
+Ta nhận_xét ngay rằng các ký_tự xuất_hiện nhiều lần đại_diện cho các thứ nguyên , ở đây tức_là B , C , F .
+Các ký_tự chỉ xuất_hiện ở đầu như A , D , E , G , H , I , J , K là các chữ_số chỉ đơn_vị .
+Số FFFC bắt_đầu bằng một thứ nguyên_do đó phải là 1.000.000.000 ( 1 tỷ ) .
+Từ đó có_thể luận ra là F = 100 và C = 1.000 .
+Và cũng từ đó B = 10 .
+Từ đây dễ_dàng tìm ra thứ_tự các số ứng với cột chữ Tamil lần_lượt là :   60.000 ,
+90 , 30.000.000 ,
+7.000 , 1.000.000.000 , 500.000
+800 , 200.000.000 , 4.000.000
+Phép_tính sẽ là như sau :  
+7 x 11 x 13 = 1.001
+Phép_tính cuối ta để_ý có xuất_hiện ký_tự mới mà cột_số ở trên chưa có .
+Có_thể dễ_dàng thấy chỉ có chữ_số 1 là chưa xuất_hiện nên đó phải là chữ_số 1 .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

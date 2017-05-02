@@ -1,0 +1,13 @@
+Đáp_án bài_toán ' lát sàn ' lớp 7 có_thể khiến bạn gặp khó
+Bài_toán ' lát sàn ' ở mức_độ dễ trong đề thi Đánh_giá năng_lực tư_duy toán_học quốc_tế dành cho học_sinh lớp 7-8 nhưng đã làm_khó nhiều người_lớn .
+Đề_bài :
+Một sàn nhà ( như hình_vẽ ) được lát bởi hai loại gạch vuông A và B .
+Hai loại gạch này có diện_tích lần_lượt là 1.600 cm2 và 900 cm2 .
+Hỏi nếu dùng loại gạch C có diện_tích 100 cm2 để lát phần diện_tích còn lại ( phần được tô màu ) thì_phải cần bao_nhiêu viên ?
+Từ đó ta có , cạnh của sàn nhà bằng 40 + 30 = 70 cm .
+Suy ra diện_tích cả sàn bằng 70 x 70 = 4900 cm2 .
+Diện_tích phần màu xám chưa lát gạch bằng 4900 - 1600 - 900 x 3 = 600 cm2
+Mỗi viên gạch C có diện_tích 100 cm2 .
+Suy ra số viên gạch C cần để lát hết phần diện_tích này là 600/100 = 6 viên .
+Thanh_Tâm
+> > Đố bạn giải được bài_toán dành cho học_sinh lớp 1-2 > > Bài_toán ' chim_sẻ ' chủa trẻ lớp 1 có_thể làm_khó bạn

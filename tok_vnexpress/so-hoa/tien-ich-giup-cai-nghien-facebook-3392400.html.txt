@@ -1,0 +1,11 @@
+Tiện_ích giúp ' cai_nghiện ' Facebook
+Focusbook , phần mở_rộng cho trình_duyệt Google_Chrome , sẽ nhắc_nhở khi người dùng dành quá nhiều thời_gian truy_cập Facebook .
+Mạng xã_hội mang đến nhiều tiện_ích nhưng nếu lạm_dụng thì sẽ gây những tác_động tiêu_cực .
+Theo Techcrunch , nhiều người thường_xuyên dùng Facebook , biến việc này thành một thói_quen và đôi_khi họ mở lên rồi lướt trên bảng tin một_cách vô_thức .
+Focusbook sẽ phủ thông_báo màu xám kèm các thông_điệp nhắc bạn ngừng dùng Facebook .
+Để hạn_chế điều này , các nhà_phát_triển đã xây_dựng   Focusbook , một   extension dành cho trình_duyệt Google_Chrome .
+Tiện_ích này phần_nào giúp " đánh_thức " khi bạn mải_mê chìm_đắm vào Facebook .
+Khi hoàn_tất cài_đặt   Focusbook , mỗi lần lướt Facebook trình_duyệt sẽ hiện thông_báo màu xám kèm theo câu_hỏi như : bạn đang làm_gì vậy , tại_sao muốn dùng Facebook ?
+Phía dưới là một khung cho bạn trả_lời và dù đáp_án nào , tiện_ích này cũng nhắc_nhở cần rời xa mạng xã_hội để quay lại tập_trung làm_việc .
+Nếu là một người dùng " cứng_đầu " vẫn cố_gắng lướt Facebook , bảng thông_báo màu xám trên   Focusbook sẽ mở_rộng thêm và tràn toàn_bộ màn_hình .
+Lúc này , bảng tin bị che_phủ hoàn_toàn .

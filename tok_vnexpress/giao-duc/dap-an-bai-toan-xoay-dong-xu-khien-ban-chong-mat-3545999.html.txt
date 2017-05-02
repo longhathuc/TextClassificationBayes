@@ -1,0 +1,13 @@
+Đáp_án bài_toán ' xoay đồng xu ' khiến bạn chóng_mặt
+Nhiều người không_thể đưa ra câu trả_lời chính_xác cho bài_toán " xoay đồng xu " của học_sinh lớp 5 - 6 này .
+Hyax cùng xem lời_giải để tìm_hiểu cách suy_luận .
+Đề_bài :
+Đồng xu ở phía trên được xoay ( không trượt ) xuống vị_trí cạnh đồng xu phía dưới .
+Hãy cho_biết vị_trí của hai đồng xu sau khi được xoay ?
+Ta ký_hiệu điểm tiếp_xúc giữa hai đồng xu ban_đầu là A .
+Điểm tiếp_xúc khi 2 đồng xu lăn xong là B như hình_vẽ .
+Độ dài từ A đến B là 1/4 cung tròn và do đồng xu trên quay theo chiều kim_đồng hồ nên vị_trí ban_đầu của B là điểm nằm ngang bên phải .
+Khi đồng xu ở trên lăn xuống vị_trí như yêu_cầu của đề_bài thì điểm A cách điểm B 1/4 cung theo chiều kim_đồng hồ nên vị_trí lúc sau của điểm A chính giữa phía trên .
+Theo suy_luận trên , đáp_án là A .
+Trần_Phương
+> > Thử tài suy_luận với bài_toán về những chú sóc > > Thử_thách suy_luận của bạn với bài_toán tính nhanh lớp 5

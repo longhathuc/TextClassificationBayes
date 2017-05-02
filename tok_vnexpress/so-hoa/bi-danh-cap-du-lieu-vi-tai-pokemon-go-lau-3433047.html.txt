@@ -1,0 +1,27 @@
+Bị đánh_cắp dữ_liệu vì tải Pokemon_Go lậu
+Việc chưa chính_thức hỗ_trợ tại Việt_Nam đã giúp kẻ xấu đánh_lừa những người yêu_thích tựa game Pokemon_Go tải về phần_mềm độc_hại để đánh_cắp dữ_liệu , thậm_chí là khóa máy để đòi tiền chuộc .
+Sáng 6/7 , Nintendo và Niantic_Labs bất_ngờ cho ra_mắt chính_thức trò Pokemon_Go dành cho các thiết_bị chạy i OS và Android .
+Tựa game nhanh_chóng tạo nên cơn_sốt ở nhiều nơi trên thế_giới , trong đó có Việt_Nam .
+Pokemon đang tạo nên " cơn_sốt " trên thế_giới .
+Tuy_nhiên , việc chỉ thử_nghiệm giới_hạn tại một_số khu_vực , cụ_thể là Australia , New_Zealand và Mỹ đã khiến người chơi ở các quốc_gia khác đành phải tìm_kiếm các tập_tin hoặc thủ_thuật cài_đặt trên mạng nếu muốn trải_nghiệm Pokemon_Go .
+Và đây cũng là khi   các thiết_bị của họ   đứng trước nguy_cơ tấn_công cao nhất .
+Nếu gõ cụm_từ " cách chơi Pokemon_Go tại Việt_Nam " , lập_tức có gần 400.000 kết_quả được hiển_thị .
+Trong các bài viết , đa_phần đều hướng_dẫn tải trò_chơi từ bên thứ_ba ( tập_tin * . apk hoặc một_số cửa_hàng ứng_dụng ) nếu smartphone đó đang chạy Android , hoặc hướng_dẫn chuyển vùng sang các khu_vực hỗ_trợ , thậm_chí là cho " mượn " tài_khoản Apple ID để đăng_nhập App_Store đối_với i Phone .
+Thế_nhưng , trên mạng xã_hội , bên_cạnh hình_ảnh về những chú Pokemon bắt được hay những câu_chuyện hài_hước khi đi săn_lùng Pokemon , một_số chủ_nhân smartphone Android bắt_đầu cảm_thấy những dấu_hiệu xấu trên thiết_bị của mình , như chạy chậm bất_thường , máy nóng , nhanh hết pin , màn_hình tự_động sáng … Nhiều người cho_biết tình_trạng trên xảy_ra sau khi cài tập_tin * . apk , nhưng kể_cả khi đã gỡ bỏ thì tình_trạng trên vẫn không chấm_dứt .   Có_thể những người này đã tải về những bản Pokemon_Go đã bị gắn kèm phần_mềm độc_hại .
+Các tập_tin * . apk Pokemon_Go tiềm_ẩn nguy_cơ bảo_mật .
+Thông_thường , smartphone Android sẽ ngăn không cho cài_đặt tập_tin * . apk này .
+Tuy_nhiên , người dùng có_thể hủy chặn thông_qua việc chọn cài Ứng_dụng không rõ nguồn_gốc .
+Ngay sau khi đột_nhập được vào máy , mã độc sẽ chiếm quyền quản_trị cao nhất của thiết_bị , sau đó tự_động chạy quảng_cáo , kích_hoạt tải ứng_dụng mà không cần xin_phép , thậm_chí là thu_thập dữ_liệu người dùng và gửi về máy_chủ của tin_tặc .
+Đó cũng là lý_do vì_sao mà máy có các biểu_hiện trên .
+Trong khi đó , nghiêm_trọng hơn là một_vài người dùng i Phone đã bị khóa máy do " xin " hoặc " mượn " các tài_khoản Apple ID được chia_sẻ trên mạng xã_hội để " lách luật " nhằm tải Pokemon_Go ở các khu_vực được hỗ_trợ .
+Dù số_lượng không nhiều , bởi hầu_hết người dùng i OS đã phân_biệt được Apple ID ( tài_khoản đăng_ký thiết_bị và sử_dụng dịch_vụ của Apple ) và i Cloud ( thiết_lập bảo_mật , sao lưu dữ_liệu , tìm_kiếm thiết_bị bị thất_lạc ) , nhưng vẫn có một_số người nhầm tưởng chúng là một và " vô_tư " đăng_nhập i Cloud bằng Apple ID để tải game .
+Cuối_cùng , tin_tặc nghiễm_nhiên dùng các tài_khoản đó để khóa i Cloud từ xa thông_qua tính_năng Find my i Phone , biến i Phone thành vật vô_dụng , sau đó đòi tiền chuộc .
+Trong trường_hợp này , người dùng chỉ còn cách đưa tiền cho chúng hoặc chịu mất máy , bởi Apple cũng không_thể can_thiệp được .
+Một hội nhóm đăng_tải tài_khoản và mật_khẩu cho các thành_viên tải Pokemon_Go .
+Một nạn_nhân bị khóa i Phone .
+Như_vậy , bằng cách này hay cách khác , người dùng cũng sẽ phải đối_mặt với nguy_cơ bảo_mật nếu " lách luật " để chơi Pokemon_Go .
+Do_đó , cách tốt nhất_là hãy chờ_đợi phiên_bản chính_thức của tựa game này phát_hành tại Việt_Nam trên Play_Store hoặc App_Store rồi mới tải về , nếu_không muốn thiết_bị của mình gặp sự_cố .
+Còn nếu quá " nóng_lòng " muốn trải_nghiệm , người dùng phải tìm_hiểu kỹ cách cài_đặt Pokemon_Go .
+Với smartphone Android , hãy lựa_chọn các nguồn cung_cấp tập_tin * . apk uy_tín , nơi được những người dùng khác đánh_giá tốt .
+Còn nếu chơi bằng i Phone/iPad , cách tốt nhất_là nên đăng xuất Apple ID hiện_tại ( trong App_Store ) , chuyển đến vùng có hỗ_trợ game , tự_tạo cho mình một Apple ID mới tại vùng đó và đăng_nhập để tải trò_chơi về , tránh trường_hợp " mượn " tài_khoản trên mạng và " đăng_nhập nhầm ” " vào i Cloud gây hậu_quả đáng tiếc .
+Bảo_Lâm

@@ -1,0 +1,5 @@
+Ôtô đi được bao_nhiêu km khi đèn báo xăng sáng ?
+Khi đèn báo hết xăng sáng , trong bình vẫn còn một lượng xăng đủ để đi thêm quãng đường nhất_định .
+Nhiều tài_xế có thói_quen , đi " liều " khi đèn báo xăng sáng .
+Theo lẽ thông_thường , khi kim xăng gần về E , người dùng phải chủ_động đổ xăng trở_lại .
+Nhưng có_thể do công_việc bận_rộn hoặc vì lý_do nào_đó bạn không_thể đổ , như_vậy khi đó trong bình còn bao_nhiêu xăng ?

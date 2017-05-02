@@ -1,0 +1,24 @@
+Vệ_sĩ bảo_vệ loài voi khỏi bệnh ung_thư
+Dù to_lớn hơn con_người rất nhiều , loài voi lại có tỷ_lệ mắc bệnh ung_thư thấp hơn hẳn nhờ sở_hữu số_lượng gene TP53 nhiều hơn .
+Theo Washington_Post , tỷ_lệ voi chết do mắc bệnh ung_thư khoảng 4,8% , trong khi tỷ_lệ này ở con_người lên tới 11-25 % .
+Đây là điều khá kỳ_lạ vì voi có số_lượng tế_bào gấp 100 lần con_người , trong khi hai loài có tuổi_thọ trung_bình tương_đương , khoảng 70 năm .
+Thông_thường , càng nhiều tế_bào thì khả_năng các tế_bào biến_đổi và chuyển thành ác_tính càng cao , nghĩa_là voi phải có tỷ_lệ mắc ung_thư cao hơn con_người .
+Nhưng thực_tế hoàn_toàn ngược_lại .
+Nhiều thập_kỷ qua , các nhà_khoa_học tự hỏi tại_sao voi và động_vật_có_vú lớn khó mắc ung_thư hơn so với động_vật_có_vú nhỏ .
+Câu_hỏi trên còn được gọi_là " nghịch_lý của Peto " .
+Trong bài báo đăng trên Tạp_chí của Hiệp_hội Y_khoa Mỹ cuối tháng 7 , nhóm nghiên_cứu đứng đầu là Joshua_Schiffman , bác_sĩ chuyên_khoa ung_thư tại Viện_Ung thư Huntsman , Mỹ , chỉ ra những con voi châu Phi có 20 bản_sao ( 40 alen ) của gene TP53 .
+TP53 tạo ra một loại protein có khả_năng ngăn_chặn các khối_u .
+Con_người chỉ có một bản_sao ( 2 alen ) của gene này .
+Các nhà_khoa_học gọi TP53 là " vệ_sĩ của bộ gene " .
+Trong số 20 bản_sao gene TP53 , 19 gene trong số đó là retrogene ( ADN tạo ra từ ARN nhờ quá_trình sao_chép ngược ) .
+Các gene bổ_sung này được chọn_lọc thông_qua quá_trình tiến_hóa của voi nhằm chống lại ung_thư .
+Để tìm_hiểu cách_thức gene TP53 hoạt_động , nhóm nghiên_cứu thu_thập tế_bào máu_trắng ( bạch_cầu ) từ voi và người .
+Sau đó , họ cho tế_bào bạch_cầu tiếp_xúc với tia bức_xạ , khiến chuỗi   xoắn   kép ADN bị phá vỡ .
+Nhóm nghiên_cứu dự_đoán , tế_bào voi chứa nhiều gene TP53 có khả_năng tự sửa_chữa nhanh hơn so với tế_bào người sau khi chiếu tia bức_xạ .
+Nhưng kết_quả thu được hoàn_toàn khác .
+Số_lượng tế_bào voi chết đi chiếm tỷ_lệ cao hơn nhiều so với tế_bào người .
+Gene TP53 khiến các tế_bào đột_biến tự tiêu_hủy , không cho_phép chúng kịp biến_đổi thành tế_bào ung_thư .
+" Nếu tiêu_diệt các tế_bào hỏng , chúng sẽ biến_mất và không_thể trở_thành tế_bào ung_thư .
+Đây có_thể là cách tiếp_cận hiệu_quả để chống ung_thư thay_vì cố_gắng ngăn_chặn một tế_bào đột_biến từ quá_trình phân_chia tế_bào và không_thể tự sửa_chữa " , Schiffman cho_biết .
+Xem thêm :   Voi nhỏ chiến_đấu giữa vòng_vây của 14 con sư_tử
+Lê_Hùng

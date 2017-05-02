@@ -1,0 +1,12 @@
+Apple sửa lỗi tin nhắn khiến i Phone bị ' đơ '
+Phiên_bản i OS 10.2.1 giúp sửa lỗi gửi tin nhắn với các ký_tự hình_ảnh khiến thiết_bị nhận được ngừng hoạt_động trong vài phút .
+Chỉ cần i Phone nhận được tin nhắn với các ký_tự hình_ảnh lập_tức bị " đơ " trong vài phút .
+Bản cập_nhật hệ_điều_hành mới được Apple ghi_chú ngắn_gọn về sự thay_đổi là " sửa lỗi và cải_thiện tính bảo_mật của i Phone hoặc i Pad " .
+Theo Phonearena , đây thực_chất là bản vá lỗi cho hiện_tượng được nhắc đến khoảng một tuần trước .
+Khi i Phone hoặc i Pad nhận được một chuỗi ký_tự , thiết_bị sẽ " đơ " trong từ 3 đến 5 phút trước khi trở_lại hoạt_động bình_thường .
+iOS 10.2.1 cho tải về qua giao_thức OTA .
+Người dùng có_thể vào mục Cài_đặt / Cài_đặt chung / Cập_nhật phần_mềm .
+Dung_lượng cho tập_tin tải về khoảng 72,2 MB .
+Đây có_thể coi là bản nâng_cấp nằm ngoài dự_tính của Apple .
+Bởi trước đó , hãng dự_kiến sẽ chỉ tung ra phiên_bản mới khi i OS 10.3 đã sẵn_sàng .
+Video lỗi tin nhắn trên i OS :

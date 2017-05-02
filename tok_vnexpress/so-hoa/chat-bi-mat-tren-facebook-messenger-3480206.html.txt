@@ -1,0 +1,15 @@
+Chat bí_mật trên Facebook_Messenger
+Facebook đã hoàn_tất việc triển_khai tính_năng mã_hóa tin nhắn cho hơn 900 triệu thành_viên trên toàn_cầu trong tuần này .
+Người dùng Messenger hiện có_thể tán_gẫu một_cách bí_mật nhờ tính_năng Secret_Conversations .
+Công_cụ này được công_bố giữa năm 2016 và đến nay Facebook mới triển_khai xong , cho_phép thành_viên tránh nguy_cơ bị xem trộm nội_dung từ những người tò_mò hay các dịch_vụ bên thứ_ba .
+Secret   Conversations   hoạt_động tương_tự chức_năng tin nhắn tự hủy trên các ứng_dụng như WhatsApp , iMessage , Telegram , Snapchat và Incognito của Google_Allo .
+Người dùng chỉ có_thể đăng_ký một thiết_bị ( điện_thoại , tablet ... ) để dùng công_cụ   Secret   Conversations .
+Sau khi chọn thiết_bị , bạn mở   ứng_dụng Messenger , chọn phần Soạn tin nhắn mới ( New_Message ) , bật khóa ở góc phải phía trên màn_hình rồi chọn người muốn nhắn_tin .
+Bật mã khóa ở góc phải màn_hình rồi chọn người muốn gửi tin nhắn bí_mật .
+Giao_diện Messenger chuyển sang màu đen thay cho màu xanh .
+Tại cửa_sổ chat , bấm vào biểu_tượng đồng_hồ ở bên phải ô soạn tin nhắn .
+Chọn thời_gian tin nhắn tồn_tại sau khi được xem , từ 5 giây cho tới 1 ngày .
+Tin nhắn_gửi đi hiển_thị thời_gian đếm ngược bên trái .
+Tin nhắn mờ dần cho_đến khi người nhận đọc được thì sẽ biến_mất .
+Nội_dung tin nhắn không được hiển_thị như các đoạn chat thông_thường , cạnh avatar của người nhận có biểu_tượng khóa .
+Nếu nhận được tin nhắn bí_mật từ một người bạn , phần nhắc báo sẽ chỉ ghi " Ai đó đã gửi tin nhắn cho bạn " chứ không tiết_lộ tên người gửi .

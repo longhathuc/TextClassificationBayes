@@ -1,0 +1,36 @@
+Cuộc đua tìm vật_chất tối
+Giới khoa_học đang trong cuộc chạy_đua tìm ra vật_chất tối , được cho là quan_trọng hơn cả việc phát_hiện sóng hấp_dẫn .
+Theo Guardian , đây là phát_biểu của nhà vũ_trụ học Carlos_Frenk tại cuộc họp thường_niên của Hiệp_hội tiến_bộ khoa_học Mỹ ( AAAS ) diễn ra từ 11 - 15/2 tại thủ_đô Washington .
+Phát_biểu dựa trên kết_quả thu được từ các máy dò vật_chất tối nhạy nhất trên thế_giới tháng 12 năm_ngoái .
+Nhà_vật_lý Alex_Murphy đã thí_nghiệm đưa một thùng xenon lỏng xuống một mỏ vàng ở Nam_Dakota , Mỹ , khoảng 1,5 km .
+Đây là thùng chứa 1/3 tấn xenon ở nhiệt_độ - 65 độ C , có khả_năng phát_hiện các sự_kiện hiếm_hoi khi một nguyên_tử xenon va_chạm với một hạt vật_chất tối , tạo ra một chớp sáng nhỏ .
+Murphy hiện cộng_tác với các nhà_khoa_học khác tại phòng_thí_nghiệm LUX , Đại_học Nam_Dakota .
+Tuy_nhiên , Murphy chia_sẻ , nhóm của ông thực_sự vẫn chưa phát_hiện ra loại vật_chất bí_ẩn tạo nên khoảng 1/4 vũ_trụ này .
+" Dù_vậy , tin tốt là vùng tìm_kiếm đã được thu_hẹp lại , ông nói , ám_chỉ đến nhiều nơi khác_nhau đã được các nhà_khoa_học tìm_kiếm vật_chất tối .
+" Có quá nhiều mô_hình được kỳ_vọng .
+Nghĩa_là có_thể chúng_tôi sẽ sớm tìm ra vật_chất tối , nhưng cũng có_thể phải mất thêm một khoảng thời_gian rất dài nữa " .
+Các nhà_vật_lý tin rằng một_số loại vật_chất tối tồn_tại do các nhà thiên_văn có_thể phát_hiện lực hấp_dẫn mà nó tác_động lên các ngôi_sao và thiên_hà .
+Tuy_nhiên , bản_thân nó không_chỉ vô_hình , mà_còn chưa bao_giờ được các máy dò phát_hiện trực_tiếp hoặc gián_tiếp .
+Họ cho rằng vật_chất tối bao_gồm các " hạt nặng tương_tác yếu " – Wimps , là vật_chất còn lại sau Big_Bang , có_thể đi xuyên qua vật_chất thường mà không để lại dấu_vết gì , trừ hấp_dẫn .
+" Có một nhiệm_vụ to_lớn hơn là chỉ cố_gắng tìm_kiếm vật_chất tối .
+Đây sẽ là chìa_khóa để mở ra các lý_thuyết vật_lý sâu_sắc hơn , một nhiệm_vụ dài_hơi " .
+LUX không phải là nơi duy_nhất truy_tìm vật_chất tối .
+Một nhóm nghiên_cứu khác tại Australia đang xây_dựng một hệ_thống dò vật_chất tối mới nhất thế_giới , nằm bên dưới một mỏ vàng ( các hang_động giúp che_chắn thiết_bị khỏi bức_xạ vũ_trụ làm sai_lệch kết_quả đo được ) .
+Một máy dò khác được gắn trên trạm vũ_trụ quốc_tế ISS với hy_vọng tìm thấy các dấu_hiệu gián_tiếp về vật_chất tối .
+Ngoài_ra còn một_số thí_nghiệm với thùng chứa xenon và va_chạm giữa các hạt tương_tự của LUX hy_vọng sẽ cho kết_quả vào năm sau , 2017 .
+" Thực_sự công_việc không có tính cạnh_tranh lắm .
+Nếu một trong những đối_thủ của chúng_tôi thu được tín_hiệu rõ_ràng về đặc_trưng của vật_chất tối , tôi nghĩ ai cũng vui_mừng " , Murphy nói .
+Cũng theo Murphy , trong vài năm tới , LUX sẽ tiếp_tục cải_tiến hệ_thống và nhận thêm khoảng 10 tấn xenon lỏng , về cơ_bản trở_thành một thiết_bị dò_tìm mới có tên LUX_ Zeplin .
+Nhưng các kết_quả có_thể sẽ phải chờ tới năm 2018 do các thách_thức về kỹ_thuật .
+" Chúng_tôi phải giữ 10 tấn xenon lỏng sâu dưới lòng đất 1,5 km ; đảm_bảo không làm thất_thoát vì nó rất đắt ; mà lượng chất_khí làm lạnh lớn như_vậy luôn tiềm_tàng rủi_ro cao .
+Vì_vậy tuyệt_đối không được thất_bại " .
+Trong khi đó , tại AAAS , các nhà_nghiên_cứu đang còn một mối bận_tâm khác , tìm_kiếm một loại hạt bí_ẩn .
+Đây là loại neutrino thứ 4 , được gọi_là " vô_trùng " , vì thậm_chí nó còn không có cả các điện_tích yếu như ở các neutrino thông_thường .
+Kam-Biu Luk , một nhà_vật_lý tại Đại_học California , Berkeley , công_bố số_liệu mới cho thấy một " bất_đồng bất_ngờ giữa các quan_sát và dự_đoán của chúng_tôi " trong việc tìm_kiếm các hạt này .
+Ông và các cộng_sự trong một thí_nghiệm tại Trung_Quốc đã tìm thấy một sự dư_thừa bất_thường của các phản neutrino , phù_hợp với hai thí_nghiệm khác .
+Họ công_bố kết_quả vào hôm 13/2 trên tạp_chí Physical_Review_Letters .
+Nhà vũ_trụ học Olga_Mena_Requejo cho rằng các neutrino mới cần phải được tìm thấy , từ đó các nhà_khoa_học có_thể tìm_hiểu thêm về mối quan_hệ giữa vật_chất và phản vật_chất , và trả_lời một câu_hỏi về vật_lý kể từ những năm 1950 : " Đặc_tính của neutrino là gì ?
+Nó thực_sự rất lạ_thường và tối quan_trọng " .
+Sau khi tìm ra hạt boson Higgs vào năm 2012 , các nhà_khoa_học đã trải qua một cuộc " khủng_hoảng hiện_sinh " , theo Tim_Andeen , một trong hàng trăm nhà_khoa_học tham_gia cuộc tìm_kiếm này .
+Nhưng hiện_nay , các lĩnh_vực nghiên_cứu đã rộng_lớn hơn : dấu_hiệu của siêu đối_xứng , các chiều không_gian khác , vật_chất tối … " Chúng_tôi không còn hạt Higgs để tìm_kiếm , nhưng chúng_tôi biết chắc đó không phải là sự kết_thúc " , Andeen nói .
+Nguyễn_Thành_Minh

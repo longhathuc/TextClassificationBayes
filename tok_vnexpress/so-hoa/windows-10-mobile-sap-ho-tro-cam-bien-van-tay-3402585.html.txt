@@ -1,0 +1,12 @@
+Windows 10 Mobile sắp hỗ_trợ cảm_biến vân tay
+Các thiết_bị chạy Windows 10 Mobile có tích_hợp máy_quét vân tay sẽ được Microsoft hỗ_trợ phần_mềm tương_thích thông_qua bản cập_nhật mới .
+Microsoft sẽ tung   cập_nhật phần_mềm hỗ_trợ cảm_biến vân tay cho các máy Windows 10 Mobile .
+Trên hệ_điều_hành   của Microsoft   dành cho các thiết_bị di_động , hãng tập_trung nhấn_mạnh đến tính_năng mở khóa nhờ nhận_dạng khuôn_mặt , Windows_Hello .
+Tuy_nhiên , công_ty công_nghệ Mỹ đang lên kế_hoạch hỗ_trợ cảm_biến vân tay cho Windows 10 Mobile trong mùa_hè này .
+Tại hội_nghị WinHEC , Microsoft cho_biết sắp triển_khai Anniversary_Update cho các máy Windows 10 và Windows 10 Mobile , trong đó thêm tính_năng mở máy với cảm_biến vân tay .
+Một trong những smartphone mới nhất hiện_nay chạy nền_tảng của hãng có trang_bị phần_cứng để quét vân tay là mẫu Elite x 3 của HP .
+Tuy_nhiên , Microsoft lưu_ý rằng phần_mềm mới sẽ giúp thiết_bị hoạt_động hiệu_quả hơn và tương_thích với Windows_Hello .
+Dự_kiến bản cập_nhật Anniversary_Update sẽ được công_ty công_nghệ Mỹ tung ra_vào tháng 7 tới , dành cho cả máy_tính và điện_thoại thông_minh .
+Xem thêm :
+>   Nhiều smartphone đời cũ được nâng_cấp Windows 10 Mobile
+>   Microsoft chuyển trọng_tâm khỏi smartphone

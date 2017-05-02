@@ -1,0 +1,10 @@
+Bài_toán chia táo có_thể khiến bạn nhầm_lẫn
+Với một số_lượng táo và cách chia nhất_định , bạn có_thể tìm ra được ông bố trong bài_toán dành cho học_sinh lớp 5-6 này có bao_nhiêu người con_trai ?
+Một ông bố chia táo cho các con_trai .
+Ông cho người con_trai thứ nhất 1 quả táo và 1/9 số táo còn lại .
+Sau đó , ông cho người con_trai thứ_hai 2 quả táo và 1/9 số táo còn lại , rồi tiếp_tục cho người con_trai thứ_ba 3 quả táo và 1/9 số táo còn lại ...
+Ông cứ chia như_vậy cho_đến người con cuối_cùng .
+Biết tất_cả con_trai ông nhận được số táo như nhau .
+Hỏi ông có bao_nhiêu người con_trai và bao_nhiêu quả táo ?
+Thanh_Tâm
+> > Bài_toán điện_thoại thử tài suy_luận nhanh của bạn > > Đố bạn giải nhanh bài_toán ' bắt_tay ' lớp 9

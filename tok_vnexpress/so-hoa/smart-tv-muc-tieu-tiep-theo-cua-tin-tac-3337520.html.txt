@@ -1,0 +1,19 @@
+Smart TV - mục_tiêu tiếp_theo của tin_tặc
+Các dòng TV thông_minh - vốn thiếu những tính_năng bảo_mật so với smartphone và máy_tính - có_thể sẽ dễ bị kẻ xấu tấn_công trong tương_lai gần .
+Trong khi đã có vô_số vụ tấn_công vào smartphone và máy_tính , Smart TV chưa phải mục_tiêu chính của hacker .
+Tuy_nhiên , các chuyên_gia an_ninh mạng khuyến_cáo , Smart TV chưa bị tấn_công không có nghĩa_là điều đó sẽ không xảy_ra trong tương_lai .
+Không_chỉ hiện_diện trong các gia_đình , Smart TV còn được sử_dụng rộng_rãi tại nhiều công_ty , trong phòng họp , phòng trưng_bày ...
+Hãng nghiên_cứu   Research and Markets dự_đoán TV thông_minh sẽ đạt tốc_độ tăng_trưởng hàng năm về doanh_số   là 20,37% trong giai_đoạn 2014-2019 .
+Dòng sản_phẩm này được trang_bị cổng USB , chạy hệ_điều_hành và có khả_năng kết_nối mạng như trên smartphone .
+Nhưng khác với smartphone và các thiết_bị thông_minh khác , Smart TV không được trang_bị các cơ_chế xác_thực như yêu_cầu nhập mật_khẩu , quét vân tay ... trước khi truy_cập .
+Hacker có_thể cài mã độc hoặc dùng webcam theo_dõi mà người dùng TV không hay_biết .
+Ảnh minh_họa : HackersNews .
+Chia_sẻ với CSO Online ,   Craig_Young , chuyên_gia bảo_mật của   Tripwire , cho_biết một_số mẫu Smart TV không đưa ra thông_báo nếu nó bị ai đó kiểm_soát và gửi lệnh kết_nối qua mạng .
+Có_nghĩa , hacker có_thể sử_dụng Smart TV để khám_phá những gì đang diễn ra trong phòng họp của một công_ty .
+" Nếu một người_ở trong phòng đang thuyết_trình , hacker có_thể đùa_cợt , tạo ra những tình_huống đáng xấu_hổ mà chúng_ta chưa ngờ tới " , Young nhận_định .
+Trong khi đó , Candid_Wueest , chuyên_gia tại Symantec đã tìm cách kiểm_soát một chiếc TV chạy hệ_điều_hành Android và cài_đặt phần_mềm tống_tiền .
+Một_số dòng TV không sử_dụng SSL - công_nghệ mã_hóa giữa máy_chủ và máy_khách , giúp các thông_tin như thẻ_tín_dụng , mật_khẩu và các dữ_liệu cá_nhân khác được truyền đi một_cách bảo_mật .
+Ông cho rằng cài_đặt mã độc lên TV có_thể là một_cách để hacker kiếm lời thời_gian tới .
+Hiện các Smart TV không có phần_mềm diệt virus và cơ_chế bảo_mật còn lỏng_lẻo .
+Các chuyên_gia cho rằng , tạm_thời người dùng nên   phòng_tránh bằng cách tắt TV hoặc che webcam khi_không sử_dụng .
+Minh_Minh

@@ -1,0 +1,11 @@
+80% điện_thoại , máy_tính bảng Android dễ bị theo_dõi
+Lỗi tồn_tại trong nhiều phiên_bản hệ_điều_hành của Google , khiến khoảng 1,4 tỷ người dùng có nguy_cơ bị tấn_công .
+Theo The NextWeb , một lỗ_hổng lần đầu_tiên được tìm thấy trong nhân Linux phiên_bản 3.6 , cho_phép kẻ tấn_công chấm_dứt kết_nối trên thiết_bị đến máy_chủ và ứng_dụng .
+Lỗi này còn được khai_thác như phần_mềm gián_điệp để đọc các thông_tin không bị mã_hóa , " tiêm " mã độc vào máy người dùng .
+Lỗ_hổng mới được phát_hiện trong nhân hệ_điều_hành Android có_thể ảnh_hưởng tới 1,4 tỷ người dùng .
+Đáng lo_ngại , sự_cố bảo_mật nêu trên tồn_tại trên Android 4.4 và các phiên_bản mới hơn .
+Điều này có_nghĩa khoảng 80% trong tổng_số các thiết_bị chạy hệ_điều_hành di_động của Google , hay khoảng 1,4 tỷ người dùng , bị ảnh_hưởng và dễ bị tấn_công .
+Bằng cách khai_thác lỗ_hổng , tin_tặc có_thể nghe lén mọi thông_tin của người dùng .
+Tuy_nhiên , lỗi này không dễ bị khai_thác và mất khoảng một phút để tấn_công một người .
+Như_vậy , sự_cố tiềm_ẩn nhưng không lan_rộng mà chủ_yếu nhắm vào những cá_nhân nhất_định .
+Google cho_biết họ đã biết về lỗ_hổng bảo_mật này và sẽ sớm ra bản cập_nhật .

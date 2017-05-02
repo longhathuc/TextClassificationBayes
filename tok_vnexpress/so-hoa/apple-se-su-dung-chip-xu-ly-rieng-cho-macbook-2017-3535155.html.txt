@@ -1,0 +1,14 @@
+Apple sẽ sử_dụng chip xử_lý riêng cho MacBook 2017
+Dòng chip với tên mã T310 sẽ hoạt_động với mức điện áp_thấp , giúp MacBook mới vẫn đồng_bộ email , các dữ_liệu nền ở chế_độ ngủ .
+MacBook Pro 2017 sẽ sử_dụng chip thứ cấp do chính Apple phát_triển .
+Theo   Bloomberg ,   Apple sẽ nâng_cấp MacBook vào cuối năm nay   với thay_đổi đáng chú_ý về cấu_hình phần_cứng .
+Các dòng MacBook Pro được trang_bị chip xử_lý mới do chính Apple phát_triển với ưu_điểm tiết_kiệm điện_năng sử_dụng .
+Tuy_nhiên , đây chỉ là chip thứ cấp trong khi chip xử_lý chính vẫn được cung_cấp bởi Intel .
+Apple trước đó đã thành_công với việc áp_dụng chip xử_lý thứ cấp cho i Phone .
+Việc sử_dụng ít năng_lượng hơn ở chế_độ ngủ khiến i Phone tối_ưu được hiệu_năng và thời_lượng pin so với các đối_thủ chạy Android .
+Báo_cáo cho thấy chip xử_lý thứ cấp do Apple phát_triển có tên mã T310 và sử_dụng trước_tiên với mẫu MacBook Pro có Touch_Bar .
+Năm_ngoái , hãng cũng đã sử_dụng riêng một chip xử_lý cho Touch_Bar và Touch ID .
+Trong phiên_bản mới năm 2017 , chip xử_lý thứ cấp sẽ hoạt_động ở chế_độ ngủ giúp máy vẫn đồng_bộ email và các dữ_liệu nền .
+Các dòng MacBook vẫn tiếp_tục sử_dụng chip xử_lý từ Intel .
+Nhiều khả_năng sẽ là thế_hệ thứ 7 Kaby_Lake hoặc mới hơn .
+Kiểu_dáng của các dòng máy này cũng sẽ không có sự thay_đổi sau đợt nâng_cấp lớn trong năm 2016 .

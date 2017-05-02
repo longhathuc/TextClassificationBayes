@@ -1,0 +1,38 @@
+Đổi_mới cách ra đề thi sẽ tránh được dạy thêm
+Dẫn hai câu_chuyện ra đề thi Toán , độc_giả Phạm_Xuân_Anh cho rằng trong các kỳ kiểm_tra nên ra đề hoàn_toàn trong sách_giáo_khoa để học_sinh không cần học thêm , không cần vắt kiệt_sức mà vẫn hiểu tốt được kiến_thức phổ_thông .
+Để nói_chuyện về việc ra đề thi , ở đây minh_họa bằng đề thi môn Toán , tôi xin kể hai câu_chuyện :
+Chuyện thứ nhất , năm thứ nhất của sinh_viên Khoa_Toán , Đại_học Khoa_học Tự_nhiên , Đại_học Quốc_gia Hà_Nội , có môn Đại_số đại_cương .
+Đây là môn khó vì rất trừu_tượng .
+Năm đó thầy dạy môn này của lớp chúng_tôi là giáo_sư Toán nổi_tiếng .
+Ngoài việc giảng_dạy ở Việt_Nam , thầy còn giảng_dạy tại một trường đại_học lớn tại Nhật_Bản .
+Khi học rất khó nhưng khi thầy ra đề thi thì lại có_vẻ … đơn_giản , toàn nêu định_nghĩa , chứng_minh định_lý rồi áp_dụng để giải bài_tập .
+Tuy_nhiên , vấn_đề chính lại ở đó , muốn làm được bài thì sinh_viên phải hiểu sâu vấn_đề ; nếu học_gạo , học mì_ăn_liền chỉ cần nhớ công_thức rồi áp_dụng vào để giải các bài_tập thì sẽ không_thể làm được .
+Nghĩa_là đề thi kiểu này lại hoàn_toàn không hề đơn_giản .
+Trong đề thi có câu , đại_ý : “ Hãy định_nghĩa phần_tử trung_hòa của một không_gian toán E .
+Ký_hiệu phần_tử trung_hòa là 0 , dùng định_nghĩa để chứng_minh rằng a * 0 = 0 ; a + 0 = a với a thuộc E” .
+Lấy ví_dụ số 0 chẳng_hạn , chúng_ta vẫn dùng một_cách tự_nhiên , nhưng sâu_xa hơn , ví_dụ với những người nghiên_cứu Toán thì cần định_nghĩa rồi mới được sử_dụng .
+Ở đây có một_chút về chuyên_môn nghe có_vẻ khó hiểu , nhưng thực_tế không đến_nỗi khó hiểu lắm .
+Cụ_thể để minh_họa cho điều này số 0 là một phần_tử trung_hòa trên tập_hợp số_tự_nhiên ; hiển_nhiên a + 0 = a ; a * 0 = 0 với bất_cứ số_tự_nhiên a nào .
+Câu_hỏi này nghe thì đơn_giản nhưng lại rất bất_ngờ và khó với đa_số sinh_viên lớp chúng_tôi .
+Nếu_như áp_dụng ngay công_thức thì sẽ có ngay kết_quả a + 0 = a ; a * 0 = 0 , tuy_nhiên để xây_dựng công_thức này , tức_là hiểu thật sâu vấn_đề thì lại không hề đơn_giản .
+Trong đề thi còn nhiều câu khác hoàn_toàn trong những phần đã học , không đánh_đố , nhưng như đã nói ở trên để làm được thì sinh_viên phải hiểu rất sâu vấn_đề , tức_là phải chịu học , chịu_khó tìm_tòi .
+Kết_quả là số sinh_viên lớp chúng_tôi bị rớt môn này rất cao , chiếm đến 2/3 .
+Qua thời_gian chúng_tôi nhận thấy rằng đạt điểm tốt môn này là những người thành_công trong cuộc_sống sau_này : ở nước_ngoài nhiều người là giáo_sư , tiến_sĩ tại những trường đại_học hàng_đầu của Mỹ , Pháp , Nhật ; ở trong nước thì_có người làm_chủ doanh_nghiệp , có tài_sản rất lớn dù tuổi_đời còn trẻ .
+Câu_chuyện thứ_hai , những năm trước khi mà các trường đại_học tổ_chức đề thi riêng_biệt thì đề thi của Đại_học Y_Hà_Nội là một trong những đề khó nhất .
+Với đề thi Toán năm 2000 của trường này toàn là những câu trong sách_giáo_khoa , mang tính lý_thuyết nhưng để làm được thì thí_sinh cần hiểu rất sâu về kiến_thức .
+Trong đề thi có câu : “ Hãy tính đạo_hàm theo định_nghĩa của hàm_số y = 2000 mũ x ” - hoàn_toàn trong sách_giáo_khoa , không đánh_đố , không cần … đi học thêm vẫn có_thể làm được .
+Tuy_nhiên lại không hề đơn_giản như_vậy .
+Nếu áp_dụng công_thức thì chỉ đúng một dòng .
+Nhưng ở đây không được áp_dụng công_thức mà cần xây_dựng công_thức đó , tức_là cần hiểu rất sâu vấn_đề .
+Và chỉ những thí_sinh với tư_duy sâu_sắc , suy_luận logic … mới có_thể giải được .
+Kết_quả là sinh_viên Y_Hà_Nội thường là những thí_sinh giỏi nhất .
+Từ năm 2017 này , Bộ Giáo dục và Đào_tạo đã đổi_mới hình_thức thi đối_với môn Toán , chuyển từ tự luận thành trắc_nghiệm .
+Qua hai câu_chuyện trên và qua đề thi môn Toán THPT quốc_gia năm 2016 , thì có_lẽ Bộ phải cải_tiến việc ra đề thi môn Toán hơn_nữa dù hình_thức thi là trắc_nghiệm .
+Không cần đánh_đố , không cao_siêu chỉ cần trong sách_giáo_khoa với những câu_hỏi kiểu : chứng_minh định_lý ; giải bài_toán theo định_nghĩa … thì chúng_ta vẫn có_thể tuyển_chọn được những thí_sinh có lực học tốt , đồng_thời vẫn có_thể phân_loại thí_sinh được .
+Không phải cứ áp_dụng công_thức vào giải được bài_toán mới là người giỏi , người giỏi cần hiểu sâu_sắc vấn_đề ( ở Khoa_Toán_Đại học Khoa_học Tự_nhiên , Đại_học Quốc_gia Hà_Nội , những người dạy lý_thuyết Toán đều là giáo_sư , tiến_sĩ Toán nổi_tiếng , dạy bài_tập thường là những trợ_giảng ) .
+Với đề thi hoàn_toàn trong sách_giáo_khoa thì tình_trạng học thêm , dạy thêm sẽ hạn_chế rất nhiều ( mà nếu có tình_trạng học thêm thì học_sinh sẽ được học kỹ về định_nghĩa , định_lý trong sách_giáo_khoa , tức_là sẽ hiểu sâu kiến_thức gốc chẳng phải là tốt lắm sao ) .
+Điều quan_trọng hơn là giúp học_sinh chúng_ta phải hiểu sâu kiến_thức Toán phổ_thông - gốc của mục_đích giảng_dạy môn Toán cho học_sinh .
+Khi hiểu sâu_sắc kiến_thức Toán phổ_thông sẽ giúp cho học_sinh có tư_duy logic , suy_luận sắc_bén , giúp các em có nền_tảng , kỹ_năng tốt để bước vào đời .
+Tóm_lại , với môn Toán ( ở tất_cả cấp học chứ không riêng gì năm cuối cấp THPT ) , trong các kỳ kiểm_tra , chúng_ta nên ra đề thi hoàn_toàn trong sách_giáo_khoa để học_sinh không cần phải đi học thêm , không cần vắt kiệt_sức mà vẫn hiểu tốt được kiến_thức Toán phổ_thông .
+Và các môn khác cũng vậy !
+Phạm_Xuân_Anh

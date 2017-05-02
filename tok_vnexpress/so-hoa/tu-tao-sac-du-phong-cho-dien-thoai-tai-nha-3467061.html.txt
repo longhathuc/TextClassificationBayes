@@ -1,0 +1,20 @@
+Tự_tạo sạc dự_phòng cho điện_thoại tại nhà
+Với sự khéo_tay cộng với một_chút hiểu_biết , bạn có_thể tự_tạo cho mình một pin sạc dự_phòng với dung_lượng tùy_ý , hoặc kính thực_tế ảo , máy_chiếu mini ...
+Với các dụng_cụ đơn_giản và dễ mua , bao_gồm cổng cắm USB , 4 viên pin AA , khay đựng pin , chip IC 7805 ( nhằm ổn_định dòng_điện ) và cáp micro USB , bạn có_thể kết_hợp để tạo thành một thiết_bị sạc dự_phòng với giá chưa tới 100.000 đồng .
+Có_thể tính di_động của nó không cao , nhưng cục sạc tự chế này là giải_pháp " chữa_cháy " trong trường_hợp không có nguồn điện để cắm bộ sạc chuẩn .
+Bộ_khuếch_đại âm_thanh cho điện_thoại
+Một trong những tính_năng được nhiều người dùng ưa_thích trên smartphone là nghe nhạc .
+Tuy_nhiên , đa_phần nghe nhạc thông_qua tai_nghe , hoặc kết_nối với loa , bởi âm_thanh phát ra từ thiết_bị khá nhỏ .
+Nhưng nếu_không có cả 2 thứ trên , một công_cụ tự chế với 2 ly nước_dùng một lần và một tờ giấy bìa là giải_pháp tạm_thời .
+Bạn có_thể thay 2 ly nước bằng vật_dụng có hình_dáng tương_tự , như lon nước cắt miệng , chai nhựa ...
+Máy_chiếu mini
+Nếu bạn là một người thích xem phim trên smartphone , nhưng thiết_bị lại có màn_hình quá nhỏ , một chiếc máy_chiếu mini tự chế là giải_pháp .
+Với các dụng_cụ dễ kiếm , gồm thấu_kính ( có_thể dùng kính_lúp ) , hộp giấy , keo dán ... và một_chút khéo_tay , bạn dễ_dàng tạo ra một chiếc máy_chiếu hỗ_trợ phóng to màn_hình điện_thoại trong thời_gian chưa đến 30 phút .
+Kính thực_tế ảo tương_tự Google_Cardboard
+Thực_tế ảo là công_nghệ mới phát_triển , được xem là xu_hướng của tương_lai , nhưng chưa nhiều người tiếp_cận do các thiết_bị hỗ_trợ có_giá khá đắt .   Google
+Cardboard là lựa_chọn rẻ nhất ( chưa tới 100.000 đồng ) , nhưng bạn có_thể chế_tạo ra nó bằng giấy bìa và 2 thấu_kính .
+Nếu khéo_tay , chỉ khoảng nửa giờ là bạn đã có một chiếc kính thực_tế ảo để xem phim , chơi game ...
+Lăng_kính chiếu video 3D
+Kim_tự_tháp ảnh ảo đa_chiều ( Pyramid_Hologram ) với hiệu_ứng hình_ảnh lơ_lửng   trên không_trung và có_thể xem ở nhiều chiều khác_nhau được ứng_dụng ở nhiều lĩnh_vực , đặc_biệt là quảng_cáo sản   phẩm , hoặc biểu_diễn nghệ_thuật , hòa_nhạc ...
+Nếu thích , bạn cũng có_thể tự_tạo ra thiết_bị trình_chiếu hình_ảnh tương_tự , đơn_giản với các tấm nhựa từ đĩa CD cũ , keo dán , kéo ... và một chiếc smartphone làm màn chiếu .
+Bảo_Lâm

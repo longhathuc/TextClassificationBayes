@@ -1,0 +1,10 @@
+Bài_toán Olympic trại_hè gây hứng_thú
+Bài_toán số 3 trong đề thi Olympic toán của trại_hè Phương_Nam ( Tiền_Giang ) diễn ra cách đây một tuần gây chú_ý vì tính thực_tế thú_vị .
+Một nhà địa_chất đang ở vị_trí A trong sa_mạc , cách con đường_thẳng 10km ( AN = 10km ) .
+Trên con đường thì xe của nhà địa_chất có_thể chạy với vận_tốc 50km / h nhưng trên sa_mạc thì nó chỉ chạy được với vận_tốc 30km giờ .
+Nhà địa_chất đang rất khát nước và ông biết rằng có một trạm xăng P ở vị_trí xuôi theo đường 25 km ( NP = 25 km ) và ở đó có xá_xị Chương_Dương ướp_lạnh .
+a ) Nhà địa_chất tốn bao_nhiêu phút để đi từ A đến P theo đường sa_mạc ?
+b ) Nếu nhà địa_chất đi từ A đến N , sau đó sử_dụng con đường để đến P thì_có nhanh hơn không ?
+c ) Hãy tìm một_cách đi nhanh hơn cho nhà địa_chất .
+Cách của bạn đã là nhanh_nhất chưa ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

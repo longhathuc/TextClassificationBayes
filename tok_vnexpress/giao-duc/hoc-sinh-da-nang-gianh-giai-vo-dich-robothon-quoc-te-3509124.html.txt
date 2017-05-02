@@ -1,0 +1,13 @@
+Học_sinh Đà_Nẵng giành giải vô_địch Robothon quốc_tế
+Hai đội_tuyển Robothon với học_sinh đến từ_trường Trần_Cao_Vân và trường Lê_Quý_Đôn ( Đà_Nẵng ) đã giành hai giải nhất ở hạng_mục Sơ_cấp và Trung_cấp tại Cuộc_thi Robothon quốc_tế 2016 .
+Ngày 4/12 , cuộc_thi Robothon quốc_tế 2016 diễn ra tại Đại_học Tunku_Abdul ( Malaysia ) .
+Đây là cuộc_thi dành cho học_sinh tiểu_học và trung_học tham_gia môn_học Robotics , là hoạt_động thường_niên được tổ_chức luân_phiên tại các nước trong khu_vực Đông_Nam Á .
+Hai đội_tuyển Robothon với học_sinh đến từ Trường_Trần_Cao_Vân và Trường_Lê_Quý_Đôn của thành_phố Đà_Nẵng đã giành hai giải vô_địch ở hạng_mục Sơ_cấp và Trung_cấp .
+Ngoài_ra , đội_tuyển Việt_Nam còn giành hai giải nhì và hai giải ba bởi nhóm học_sinh đến từ Trường_Hoa_Lư ( Đà_Nẵng ) , Trường_Lê_Quý_Đôn ( Đà_Nẵng ) , Trường_Đinh_Tiên_Hoàng ( TP_HCM ) và Trường_Nguyễn_Tất_Thành ( Hà_Nội ) .
+Chủ_đề của cuộc_thi năm nay là " Internet of Things " ( IoT ) - Mạng_lưới vạn_vật kết_nối Internet .
+Các thí_sinh tham_gia sẽ lắp_ghép và lập_trình robot để thực_hiện các nhiệm_vụ mô_phỏng như thu_nhận , trích xuất và phân_phối dữ_liệu , trích xuất thông_tin , tích_hợp hệ_thống .
+Tại cuộc_thi năm nay , Việt_Nam có 53 đội_tuyển tham_dự , đều từng đạt giải cao trong cuộc_thi Robothon quốc_gia .
+Trước khi lên_đường thi_đấu , các em đã tham_gia những khóa đào_tạo chuyên_biệt , rèn_luyện ngoại_ngữ và kỹ_năng cần_thiết cho cuộc_thi .
+Cuộc_thi Robothon quốc_tế là sân_chơi cho học_sinh , bước đệm mang các em đến gần hơn với khoa_học cộng nghệ tương_lai .
+Những năm qua , bộ_môn Robotics đã được đưa vào hơn 100 trường_học , đào_tạo cho hơn 30.000 lượt học_sinh tại Hà_Nội , Đà_Nẵng và TP_HCM .
+Thanh_Tâm

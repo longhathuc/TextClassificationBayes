@@ -1,0 +1,27 @@
+Kiếm hàng trăm_nghìn USD mỗi tháng nhờ bán lượt ' thích ' giả
+Các nữ diễn_viên , ca_sĩ , người_mẫu được cho là khách_hàng chính của ngành công_nghiệp mua lượt " thích " giả thông_qua mạng botnet .
+Các nhà_nghiên_cứu bảo_mật cho_biết tội_phạm mạng đang sở_hữu mạng botnet quy_mô lớn bao_gồm các thiết_bị IoT ( Internet_Of_Things ) bị hack .
+Đây là công_cụ để các doanh_nghiệp cung_cấp lượt thích giả cho những người , tổ_chức có nhu_cầu nổi_tiếng trên mạng xã_hội .
+Việc   tìm mua các lượt " thích " , " theo_dõi " giả trên Instagram rất đơn_giản .
+Trình_bày tại hội_nghị Black_Hat 2016 tại châu Âu , công_ty   an_ninh mạng GoSecure từ   Canada   cho_biết có hàng nghìn người đã chấp_nhận bỏ tiền để mua các lượt thích , xác_nhận trên trang cá_nhân hoặc fan page thời_gian qua .
+Số này bao_gồm những MC truyền_hình , những người có tham_vọng trở_thành diễn_viên , ca_sĩ , người_mẫu nổi_tiếng .
+Các blogger , trang đại_diện của các doanh_nghiệp nhỏ hoặc những người muốn tăng_cường nhận_diện thương_hiệu cho bán hàng trực_tuyến cũng là khách_hàng quen_thuộc của dịch_vụ kiểu này .
+Báo_cáo cũng cho thấy 10.000 lượt theo_dõi mới trên Instagram có_giá khoảng 112,67 USD và 158,99 USD cho 10.000 lượt thích ảnh .
+Các nhà_nghiên_cứu tính_toán mỗi bot ( một thiết_bị trong mạng botnet ) thực_hiện khoảng 1.186 tác_vụ trên Instagram mỗi tháng .
+Điều này đồng_nghĩa với việc mỗi bot có_thể tạo ra 13,05 USD một tháng .
+Nếu hoạt_động hết công_suất , mạng botnet có_thể tạo ra 700.000 USD doanh_thu mỗi tháng .
+Điều gây bất_ngờ với GoSecure là mạng botnet thông_qua các thiết_bị IoT nhiễm mã độc   Linux/Moose không tạo ra các cuộc tấn_công mạng khủng_khiếp .
+Mạng_lưới này chỉ đơn_giản sử_dụng bởi các doanh_nghiệp hợp_pháp và gửi hàng ngàn yêu_cầu tới các mạng xã_hội khác_nhau để tạo tài_khoản mới cũng_như thực_hiện thao_tác theo_dõi ( follow ) .
+Đây được coi là hành_vi gian_lận trên mạng xã_hội .
+Sự nổi_tiếng trên   mạng xã_hội là ước_mơ của nhiều người .
+Để tránh bị coi là spam bởi các mạng xã_hội , các botnet sử_dụng router IoT để giao_tiếp qua proxy .
+Chúng có_thể thực_hiện giao_diện yêu_cầu như được gửi đến từ một DSL , một đường cáp và ẩn mình dưới hàng nghìn địa_chỉ IP khác_nhau .
+Đây là cách_thức tấn_công rất mới bởi trước_đây các mạng botnet thường được dùng để tấn_công DDoS hoặc gian_lận quảng_cáo bằng cách tự click vào các banner quảng_cáo .
+Theo IBTimes , các dịch_vụ bán lượt " thích " và " theo_dõi " được bán_công_khai .
+Họ có các trang_web để cung_cấp dịch_vụ và thậm_chí hỗ_trợ các cổng thanh_toán phổ_biến như PayPal hoặc thẻ_tín_dụng .
+" Những gì chúng làm có_vẻ là hợp_pháp .
+Những tên tội_phạm kiếm được tiền và thậm_chí có_thể kê_khai thuế qua việc đó " , Bilodeau - trưởng nhóm nghiên_cứu của   GoSecure cho_biết .
+" Không có nạn_nhân trực_tiếp của các hành_động này khiến chúng ít có nguy_cơ bị bắt .
+Ngay cả khi bị bắt , thiệt_hại cũng rất khó được xác_định .
+Đây là một cách_thức thông_minh của loại tội_phạm mới này " , ông   Bilodeau chia_sẻ .
+Cách_thức tốt nhất hiện_nay được đưa ra là người dùng cần dừng việc mua các lượt thích giả , tránh làm_giàu bất_chính cho kiểu gian_lận mới trên mạng xã_hội này .

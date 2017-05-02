@@ -1,0 +1,19 @@
+Vì_sao áo_choàng tàng_hình khó thành hiện_thực
+Một nghiên_cứu mới của các nhà_khoa_học Đức và New_Zealand   chỉ ra áo_khoác tàng_hình rất dễ bị phát_hiện khi tốc_độ tương_đối giữa chiếc áo và người quan_sát thay_đổi .
+Hai nhà_vật_lý , Jad_Halimeh tại Đại_học Munich , Đức , và Robert_Thompson tại Đại_học Otago , New_Zealand , công_bố nghiên_cứu về những hạn_chế của áo_choàng tàng_hình trên tạp_chí Physical_Review A hôm 10/3 .
+Về nguyên_tắc , áo_choàng tàng_hình có khả_năng bẻ cong tia_sáng chiếu tới và dẫn những tia_sáng này đi vòng qua cơ_thể con_người mà không gặp trở_ngại .
+Tuy_nhiên , theo Halimeh và Thompson , một chiếc áo_choàng tàng_hình tốt nhất cũng chỉ có_thể giúp cơ_thể trở_nên trong_suốt một phần .
+Phần còn lại sẽ bị lộ_diện do chuyển_động .
+Ánh_sáng trực_tiếp của hình_ảnh ở sau áo đến với mắt người quan_sát theo khoảng_cách và thời_gian ngắn hơn các tia_sáng bẻ cong khi đi qua lớp áo tàng_hình .
+Sự chênh_lệch này có_thể dẫn đến những biến_dạng dễ nhận thấy .
+" Nói một_cách cơ_bản , kết_quả nghiên_cứu của chúng_tôi cho thấy áo_choàng tàng_hình không_thể vô_hình với mọi người quan_sát " , Phys.org dẫn lời Halimeh .
+" Áo_choàng tàng_hình Harry_Potter chỉ tồn_tại trong tiểu_thuyết .
+Chiếc áo_khoác tàng_hình nếu có thật trong thực_tế sẽ để lộ những gì ẩn phía sau khi bạn di_chuyển tương_đối với nó " .
+Nguyên_nhân của hiện_tượng này là do hiệu_ứng Fresnel - Fizeau .
+Vào thế_kỉ 19 , các nhà_khoa_học phát_hiện ánh_sáng truyền trong môi_trường dịch_chuyển cũng sẽ bị môi_trường đó kéo_theo .
+Vì_vậy , đối_với một người quan_sát đứng yên , chiếc áo_khoác tàng_hình di_chuyển sẽ kéo sóng ánh_sáng tới các khu_vực khác_nhau trong không_gian , làm cho hình_ảnh bị bóp_méo .
+Những biến_dạng hình_ảnh gây ra bởi hiệu_ứng Fresnel - Fizeau sẽ tỷ_lệ_thuận với tốc_độ tương_đối của chiếc áo tàng_hình và người quan_sát .
+Tuy_nhiên , ngay cả ở tốc_độ chậm nhất và biến_dạng hình_ảnh khó nhận thấy bằng mắt người , thiết_bị cảm_biến ánh_sáng vẫn có_thể phát_hiện sự bất_thường .
+" Dù kết_quả của chúng_tôi có_thể gây thất_vọng cho các nhà ảo_thuật , nhận_thức về những hạn_chế của thiết_bị tàng_hình có ý_nghĩa rất quan_trọng trong thực_tế " , Thompson nói .
+" Với những công_nghệ hiện_đại ngày_nay , chúng_tôi sẽ tìm_kiếm hiệu_ứng có_thể cải_tiến tính_năng của áo_choàng tàng_hình , hoặc khai_thác nó cho một_số mục_đích thực_tiễn trong tương_lai " .
+Thanh_Tùng

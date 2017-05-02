@@ -1,0 +1,23 @@
+5 bước để trở_thành nhà_khoa_học dữ_liệu
+Tự tìm_hiểu kiến_thức trên mạng , tham_gia khóa đào_tạo trực_tuyến chuyên_sâu , tích_lũy kinh_nghiệm ... sẽ giúp giới trẻ có cơ_hội trở_thành nhà_khoa_học dữ_liệu .
+Khoa_học dữ_liệu là một trong những ngành công_nghệ có công_việc tốt nhất tại Mỹ , theo công_bố của trang_web tuyển_dụng Glassdoor .
+Tuy_nhiên có khả_năng đến năm 2018 , Mỹ sẽ thiếu_hụt khoảng 1,5 triệu nhà quản_lý và chuyên_viên phân_tích khoa_học dữ_liệu .
+Nhu_cầu rất lớn nên nhân_sự ngành này không lo rơi vào tình_trạng thất_nghiệp .
+Dưới đây là các bước mà giới trẻ có_thể tham_khảo để bước vào ngành khoa_học dữ_liệu .
+Trên trang_web của mình , Microsoft đã công_bố 5 video ngắn với tựa_đề " Data_Science for Beginners - Khoa_học dữ_liệu cho người mới bắt_đầu " .
+Tại đây , người dùng sẽ tiếp_cận loạt phim ngắn và những câu hỏi_đáp về khái_niệm cơ_bản khoa_học dữ_liệu .
+Những thắc_mắc thường gặp của những_ai mới nhập_môn ngành khoa_học này được nêu chi_tiết và trả_lời tường_tận .
+Kiến_thức sắp_xếp theo độ khó tăng dần , từ quy_trình khoa_học dữ_liệu , các thuật_toán , xây_dựng mô_hình , làm_việc với dữ_liệu , mở_rộng cùng R và Python , triển_khai dịch_vụ web , xây_dựng giải_pháp ...
+Để nuôi_dưỡng niềm đam_mê về khoa_học dữ_liệu , bạn có_thể tham_gia cộng_đồng rộng_lớn trên mạng .
+Ví_dụ như trang Data_Science_Central , OpenDataScience.com hay KDnuggets sẽ mang đến nhiều kiến_thức hữu_ích , trao_đổi thông_tin về kỹ_năng , nghề_nghiệp ...
+Những nguồn tài_nguyên này chuyên cung_cấp các giáo_trình điện_tử để người dùng nghiên_cứu tùy theo trình_độ .
+Ông Adam_Flugel - nhà tuyển_dụng chuyên_viên khoa_học dữ_liệu tại Burtch_Works cho_biết để trở_thành một nhà_khoa_học dữ_liệu chuyên_nghiệp cần có nhiều kỹ_năng từ các quá_trình đào_tạo .
+Đơn_cử có_thể tìm_hiểu trang_web DataCamp cung_cấp nền_tảng học_tập trực_tuyến từ căn_bản cho_đến những khóa học nâng cao có tính phí với hơn 9 triệu bài giảng , đã đào_tạo hơn 500.000 nhà_khoa_học dữ_liệu trên 150 quốc_gia .
+DataCamp thiết_lập quan_hệ đối_tác với những hãng công_nghệ   hàng_đầu như Microsoft , IBM , Kaggle , Pluralsight và RStudio cùng các học_viện đào_tạo uy_tín như Princeton , Duke và Đại_học Washington .
+Khoảng 70% học_viên là các chuyên_gia làm_việc trong ngành công_nghệ , tài_chính và chăm_sóc sức_khỏe .
+Khoa_học dữ_liệu là một trong những ngành công_nghệ có nhu_cầu nhân_lực cao vào thời_điểm hiện_tại và cả tương_lai .
+Có_thể dễ_dàng tìm_kiếm nhiều vị_trí tuyển_dụng trên OpenDataScience.com , Kaggle , hay Glassdoor và Indeed.com .
+Trong khi đó , trang One đóng vai_trò như một sàn giao_dịch việc_làm giúp các nhà_khoa_học dữ_liệu và doanh_nghiệp đăng_tải nhu_cầu và tìm đối_tác phù_hợp .
+Sau khi nhận được lời mời phỏng_vấn , cần chuẩn_bị bộ hồ_sơ " đẹp " và những kiến_thức chuyên_ngành để trao_đổi cùng nhà tuyển_dụng .
+Trên trang KDnuggets có xây_dựng riêng đề_tài về câu_hỏi phỏng_vấn và phần trả_lời cho quá_trình xin việc nên_người dùng có_thể tham_khảo để có thêm kinh_nghiệm thực_tế .
+Minh_Trí

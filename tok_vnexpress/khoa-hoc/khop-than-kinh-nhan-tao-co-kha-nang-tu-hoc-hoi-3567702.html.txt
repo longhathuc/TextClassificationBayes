@@ -1,0 +1,18 @@
+Khớp thần_kinh nhân_tạo có khả_năng tự học_hỏi
+Các nhà_khoa_học Pháp_chế tạo thành_công khớp thần_kinh nhân_tạo có khả_năng tự học_hỏi như ở trong não người .
+Sự phát_triển và tiến_bộ trong lĩnh_vực trí thông_minh nhân_tạo ( AI ) phần_lớn là các công_nghệ bắt_chước hoạt_động của não người .
+Những hệ_thống AI như_vậy được gọi_là mạng_lưới thần_kinh , theo Science_Alert .
+Chúng bao_gồm thuật_toán để nhận_dạng lời_nói và hình_ảnh , nhưng chạy một mạng_lưới thần_kinh tốn rất nhiều năng_lượng .
+Hiện_tại , các nhà_khoa_học tại Trung_tâm Nghiên_cứu Khoa_học Quốc_gia ( CNRS ) và Đại_học Bordeaux , Pháp , phát_triển thành_công một khớp nối thần_kinh nhân_tạo gọi_là điện_trở nhớ ( memristor ) trực_tiếp trên một con chip .
+Nó mở_đường cho nhiều hệ_thống thông_minh trong tương_lai , đòi_hỏi ít thời_gian và năng_lượng để tự_động học_hỏi .
+Kết_quả nghiên_cứu được công_bố trên tạp_chí Nature_Communications hôm 3/4 .
+Trong não người , khớp nối thần_kinh đóng vai_trò liên_kết giữa các nơron .
+Những kết_nối này càng được củng_cố và cải_thiện thì càng có nhiều khớp thần_kinh bị kích_thích .
+Memristor hoạt_động theo cách_thức tương_tự .
+Nhóm nghiên_cứu chế_tạo memristor từ một lớp sắt điện ( ferroelectric ) bọc giữa hai điện_cực .
+Khi sử_dụng xung_điện áp , điện_trở của chúng thay_đổi giống như nơron sinh_học .
+Kết_nối giữa các khớp thần_kinh sẽ tăng lên khi điện_trở giảm xuống và ngược_lại .
+Khả_năng học_tập của memristor dựa trên sự thay_đổi của điện_trở .
+Các nhà_nghiên_cứu hiện_nay đã xây_dựng thành_công mô_hình vật_lý dự_đoán hoạt_động của memristor .
+Trong tương_lai , memristor hứa_hẹn sẽ là công_nghệ làm tăng khả_năng tự học_hỏi của trí thông_minh nhân_tạo .
+Lê_Hùng

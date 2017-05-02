@@ -1,0 +1,51 @@
+Cách viết đúng nhất mẫu phiếu xác_minh nhân_khẩu
+Phiếu xác_minh hộ_khẩu , nhân_khẩu chính là mẫu HK03 ban_hành theo Thông_tư số 36/2014/TT-BCA ngày 9/9/2014 của Bộ công_an được dùng để xác_minh cho trường_hợp có những thông_tin chưa rõ , chưa thống_nhất …
+PHIẾU_XÁC_MINH_HỘ_KHẨU , NHÂN_KHẨU
+Kính gửi : … … … … … … ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
+Đề_nghị xác_minh trường_hợp :
+1 . Họ và tên ( 1 ) : … … … … … … ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . … … … … … … ... ... ... ... ... ... ... ... ... ... ... .
+2 . Họ và tên gọi khác ( nếu có ) : ... ... ... ... ... … … … … … … ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . … … … … … … ... ...
+3 . Ngày , tháng , năm sinh : ... ... ... ... ... … … … … … … ... ... ... ... ... ... ... ... ... ... ... . 4 .
+Giới_tính : ... ... ... ... ... … … … ... .
+5 .
+Nơi sinh : ... ... ... ... ... … … … … … … ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . … … … … … … ... ... ... ... ... ... ... ... ... ... ...
+6 . Quê_quán : ... ... ... ... ... … … … … … … ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . … … … … … … ... ... ... ... ... ... ... ... ... ... .
+7 .
+Dân_tộc : ... ... ... ... ... … … … … …   8 .
+Tôn_giáo : … ... ... ... ... ... ... ... ... ... ... ... . 9 .
+Quốc_tịch : … ... ... ... ... ... ... ... ... ...
+10 . CMND số : … ... ... ... ... ... ... ... ... ... ... ... . … ... ... ... . . 11 .
+Hộ_chiếu số : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . .
+12 . Họ tên cha : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 13 .
+Họ tên mẹ : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+14 .
+Họ và tên chủ_hộ : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . 15 .
+Quan_hệ với chủ_hộ : ... ... ... ... ... ... ... ... ... ... ... ... ... .
+16 .
+Nơi thường_trú : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
+17 .
+Địa_chỉ chỗ ở hiện_nay : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . .
+18 . Nghề_nghiệp , nơi làm_việc : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
+NỘI_DUNG_XÁC_MINH ( 2 )
+Kết_quả xác_minh gửi về : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... trước ngày … … tháng … … . năm … … .
+Cách ghi thông_tin về cá_nhân :
+- Mục “ Họ và tên ” : Ghi bằng chữ in hoa , đủ dấu ;
+- Mục “ Ngày , tháng , năm sinh ” : Xác_định theo ngày , tháng , năm_dương_lịch và được ghi đầy_đủ 02 chữ_số cho ngày_sinh , 02 chữ_số cho các tháng sinh là tháng 01 và tháng 02 , 04 chữ_số cho năm sinh ;
+- Mục “ CMND số ” và mục “ Hộ_chiếu số ” : Ghi đầy_đủ số CMND và số hộ_chiếu ( nếu có cả hai giấy_tờ này ) ;
+- Mục “ Giới_tính ” : Nếu giới_tính Nam thì ghi là Nam , nếu giới_tính Nữ thì ghi là Nữ ;
+- Mục “ Nơi sinh ” : Ghi nơi sinh theo giấy khai_sinh ;
+- Mục “ Quê_quán ” : Ghi quê_quán theo giấy khai_sinh .
+Nếu giấy khai_sinh không có mục này thì ghi theo quê_quán của cha hoặc quê_quán của mẹ theo tập_quán hoặc theo thỏa_thuận của cha , mẹ .
+Trường_hợp con_ngoài_giá_thú , nếu_không có quyết_định công_nhận cha cho con thì quê_quán của con được xác_định theo quê_quán của mẹ .
+Phải ghi cụ_thể địa_danh hành_chính cấp xã , cấp huyện , cấp tỉnh .
+Trường_hợp địa_danh hành_chính đã có thay_đổi thì ghi theo địa_danh hành_chính hiện_tại ;
+- Mục “ Quốc_tịch ” : Ghi quốc_tịch Việt_Nam , quốc_tịch khác ( nếu có ) ;
+- Mục “ Dân_tộc ” và “ Tôn_giáo ” : Ghi dân_tộc , tôn_giáo theo giấy khai_sinh .
+Trường_hợp không có giấy khai_sinh thì ghi theo sổ_hộ_khẩu , chứng_minh nhân_dân hoặc giấy_tờ khác do cơ_quan có thẩm_quyền cấp ;
+- Mục " Nghề_nghiệp , nơi làm_việc " : Ghi rõ hiện_nay làm nghề gì và tên cơ_quan , đơn_vị , tổ_chức , địa_chỉ nơi làm_việc .
+Cách ghi thông_tin về địa_chỉ cư_trú
+- Ghi cụ_thể , đầy_đủ số nhà , phố , đường_phố ; tổ , thôn , xóm , làng , ấp , bản , buôn , phum , sóc ; xã , phường , thị_trấn ; huyện , quận , thị_xã , thành_phố thuộc tỉnh ; tỉnh , thành_phố trực_thuộc Trung_ương .
+- Trường_hợp ở nước_ngoài về đăng_ký cư_trú thì ghi rõ địa_chỉ cư_trú ở nước_ngoài ( ghi rõ tên nước phiên_âm bằng tiếng Việt ) .
+Cách ghi thông_tin về cơ_quan có thẩm_quyền đăng_ký , quản_lý cư_trú :   Dòng trên ghi cơ_quan Công_an cấp trên trực_tiếp , dòng dưới ghi tên cơ_quan Công_an có thẩm_quyền đăng_ký , quản_lý cư_trú .
+Luật_sư Lê_Minh_Trường
+Giám_đốc Công_ty Luật_Minh_Khuê , Hà_Nội

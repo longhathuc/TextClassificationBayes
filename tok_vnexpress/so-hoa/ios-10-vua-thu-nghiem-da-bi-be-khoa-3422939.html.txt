@@ -1,0 +1,12 @@
+iOS 10 vừa thử_nghiệm đã bị bẻ_khóa
+Tung bản beta đầu_tiên nhưng hệ_điều_hành mới dành cho i Phone , iPad đã bị hacker jailbreak thành_công .
+Giao_diện i OS 10 beta 1 .
+Việc bẻ_khóa i OS 10 beta được thực_hiện bởi   iH8sn0w , hacker nổi_tiếng với nhiều lần jailbreak phần_mềm của Apple .
+Tuy_nhiên , lần bẻ_khóa này được thực_hiện trên i Phone 5 , một thiết_bị sử_dụng chip 32-bit .
+Nhiều khả_năng phương_pháp jailbreak của   iH8sn0w không hỗ_trợ các máy đời cao hơn như i Phone 5s , iPhone 6 hay 6s .
+Các sản_phẩm này dùng bộ_xử_lý 64-bit , từng gây nhiều khó_khăn cho hacker ngay cả với phiên_bản i OS 9 .
+Trong video chứng_minh ,   iH8sn0w cho thấy chiếc i Phone 5 sử_dụng đang chạy i OS 10 khi có_thể xóa ứng_dụng Mail mặc_định , màn_hình khóa kiểu mới .
+Công_cụ bẻ_khóa là loại   untether , tức_là người dùng có_thể khởi_động lại thiết_bị mà không phải kết_nối với máy_tính .
+Video bẻ_khóa i OS 10 :
+Xem thêm :
+>   iOS 10 cho người dùng xóa nhiều ứng_dụng mặc_định >   iOS 10 beta đã cho tải về , hỗ_trợ từ i Phone 5

@@ -1,0 +1,20 @@
+Việt - Hàn phối_hợp đối_phó ăn_cắp bản_quyền môi_trường số
+Diễn_đàn bản_quyền Hàn_Quốc - Việt_Nam 2016 chỉ ra diễn_biến mới trong vấn_đề vi_phạm tác_quyền thời công_nghệ số và chia_sẻ cách hạn_chế tình_trạng này .
+Hôm 2/6 , Cục Bản quyền_tác_giả Việt_Nam và Văn_phòng đại_diện Ủy_ban bản_quyền tác_giả Hàn_Quốc tại Việt_Nam tổ_chức Diễn_đàn bản_quyền Hàn_Quốc - Việt_Nam 2016 .
+Cả hai bên trình_bày về hiện_trạng và xu_hướng ngành công_nghiệp bản_quyền tác_giả của mỗi nước .
+Việt_Nam , Hàn_Quốc đều nằm trong xu_hướng chung của thế_giới là chứng_kiến sự phát_triển mạnh_mẽ của công_nghệ số , đặc_biệt là mạng Internet trên di_động .
+Việc sử_dụng tivi ngày_càng giảm xuống , sử_dụng điện_thoại thông_minh và các phương_tiện như máy_tính bảng kết_nối mạng để xem các chương_trình truyền_hình , phim_ảnh , nghe nhạc ngày_càng nhiều .
+Tuy_nhiên , điều đó cũng mang đến nguy_cơ các đối_tượng sử_dụng nội_dung một_cách bất_hợp_pháp đưa lên mạng nhiều hơn .
+Phía_Hàn_Quốc chia_sẻ về công_nghệ lọc Fingerprint_Filtering nhằm ngăn_chặn lan_truyền bất_hợp_pháp nội_dung .
+Đây là phương_pháp nhận_dạng bằng cách đối_chiếu với nguyên_bản và lọc ra những đặc_trưng cố_hữu ( còn gọi_là DNA kỹ_thuật_số ) của các tập_tin kỹ_thuật_số như audio , video .
+Để sử_dụng công_nghệ này , các đơn_vị sản_xuất nội_dung cần cung_cấp cho công_ty công_nghệ lọc DNA gốc , tức chiết_xuất một đoạn file gốc để làm cơ_sở_dữ_liệu .
+Hệ_thống lọc sẽ chạy trên nhiều website để lọc xem có sản_phẩm nào chứa nội_dung trùng với DNA lưu_trữ .
+Phía_Hàn_Quốc cũng cho rằng cách lọc này cũng thường gặp xung_đột vì đơn_vị sản_xuất nội_dung hay tác_giả thường không muốn thực_hiện xuất DNA gốc vì mất một khoản tiền lớn .
+Tuy_nhiên , nó giúp tìm ra khá nhiều trường_hợp sử_dụng , qua đó có biện_pháp xử_lý thích_hợp .
+Phía_Việt_Nam tham_gia diễn_đàn có đại_diện kênh_truyền_hình vệ_tinh K+ , đại_diện Trung_tâm bảo_vệ quyền_tác_giả âm_nhạc Việt_Nam và công_ty chuyên sản_xuất chương_trình truyền_hình BHD .
+Các đơn_vị cho_biết việc ăn_cắp sản_phẩm đăng_tải trên môi_trường số xảy_ra thường_xuyên , gây tốn_kém nhiều cho các đơn_vị sản_xuất .
+Đại_diện K+ cho_biết chính vì nạn ăn_cắp sóng phát trên mạng đã khiến nhiều đơn_vị truyền_hình mất quyền tường_thuật nhiều trận bóng_đá quan_trọng của nước_ngoài , gần đây nhất_là chung_kết Champions_League .
+Bước_đầu , các đơn_vị của Việt_Nam đã sử_dụng kỹ_thuật để tìm ra những tổ_chức , cá_nhân vi_phạm nhưng công_nghệ còn khá đơn_giản .
+Ngoài_ra , cách ăn_cắp ngày_càng tinh_vi như đặt trang_chủ ở nước_ngoài khiến dù có tìm ra người thực_hiện hành_vi đó cũng khó có_thể xử_lý họ .
+Các đơn_vị đều mong_muốn việc vi_phạm tác_quyền ở Việt_Nam sẽ được xử_lý mạnh hơn , đặc_biệt có_thể dùng đến pháp_luật thay_vì chỉ phạt hành_chính .
+Đại_diện Trung_tâm bảo_vệ quyền_tác_giả âm_nhạc Việt_Nam - nhạc_sĩ Phó_Đức_Phương - bày_tỏ Nhà_nước cần có sự quan_tâm đúng_mực hơn , các văn_bản quy_định pháp_luật và hướng_dẫn thực_thi cần không được " đá " nhau để việc giám_sát , thực_hiện tác_quyền dễ_dàng và nghiêm_túc hơn .

@@ -1,0 +1,4 @@
+Bài_toán điền số lớp 3 khiến thầy_cô phải đau_đầu
+Bài_toán dành cho đội_tuyển lớp 3-4 của một trường tiểu_học ở Hà_Nội khiến nhiều giáo_viên tiểu_học và phụ_huynh phải đau_đầu .
+Sau một tuần , chỉ một học_sinh giải được .
+Hãy điền các số 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 vào 9 ô trong bảng :

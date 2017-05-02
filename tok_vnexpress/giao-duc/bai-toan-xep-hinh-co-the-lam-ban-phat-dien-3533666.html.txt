@@ -1,0 +1,7 @@
+Bài_toán xếp hình có_thể làm_bạn ' phát điên '
+Bài_toán xếp những que gỗ với kích_thước khác_nhau theo yêu_cầu của đề_bài nằm trong bộ đề Olympic_Toán học châu Á - Thái_Bình_Dương .
+Có 50 que gỗ với chiều dài lần_lượt tăng dần là 1 cm , 2 cm , 3 cm , 4 cm , 5 cm , 6 cm ... , 49 cm , 50 cm .
+Không được cắt que gỗ , không được bỏ que nào , bạn có_thể xếp được bao_nhiêu hình_vuông và bao_nhiêu hình_chữ_nhật được tạo thành từ 50 que gỗ đã cho ?
+Thanh_Tâm
+> > Bài_toán tư_duy cấp tiểu_học khiến người_lớn đau_đầu
+> > Bài_toán về người say rượu khiến bạn chóng_mặt

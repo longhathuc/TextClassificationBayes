@@ -1,0 +1,10 @@
+Ứng_dụng Paint mới trên Windows sẽ hỗ_trợ vẽ 3D
+Microsoft đang thiết_kế lại phần_mềm Paint cho Windows 10 , hỗ_trợ vẽ các đối_tượng trong không_gian ba chiều .
+Theo The_Verge , ứng_dụng đồ_họa Paint phiên_bản mới được xây_dựng với các tính_năng quen_thuộc và giao_diện không khác nhiều so với phần_mềm hiện_nay .
+Nâng_cấp đáng chú_ý là Microsoft bổ_sung bộ công_cụ 3D , cho_phép người dùng tương_tác với các đối_tượng theo không_gian ba chiều .
+Công_ty công_nghệ Mỹ thêm vào Paint mới một loạt nhãn và bút để vẽ 3D .
+Những thành_phần này được thiết_kế tương_thích với màn_hình cảm_ứng và bút cảm_ứng , có_thể chuyển_đổi hay kết_hợp giữa hình 2D và 3D .
+Trong video mà người dùng được trải_nghiệm sớm , phần_mềm của Micosoft tỏ ra khá thân_thiện và không quá khó sử_dụng so với các ứng_dụng đồ_họa chuyên_nghiệp khác .
+Phần_mềm Paint mới rò_rỉ chỉ vài giờ sau khi Microsoft tiết_lộ hãng sẽ tổ_chức một sự_kiện đặc_biệt tại New_York ( Mỹ ) vào ngày 26/10 .
+Công_ty được cho là sẽ ra_mắt sản_phẩm Surface mới , có_thể là máy_tính_để_bàn tất_cả trong một .
+Model sắp trình_làng hứa_hẹn đồng_bộ giữa phần_mềm và phần_cứng , thúc_đẩy sử_dụng màn_hình cảm_ứng và bút stylus .

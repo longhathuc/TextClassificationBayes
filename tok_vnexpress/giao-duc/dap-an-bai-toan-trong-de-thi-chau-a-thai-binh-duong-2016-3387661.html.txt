@@ -1,0 +1,21 @@
+Đáp_án bài_toán trong đề thi châu Á_Thái_Bình_Dương 2016
+Nhiều độc_giả đã tìm ra đáp_án đúng với từ POAMSP ở vị_trí 230 .
+Bài_toán sau đây được ra trong cuộc_thi AMOPS 2016 ( dành cho học_sinh lớp 6 ) diễn ra_vào ngày 9/4 vừa_qua .
+Đề_bài :
+Có 6 chữ A , P , M , O , P , S .
+Một cái máy_tính sắp_xếp các từ theo thứ_tự trong từ_điển : AMOPPS , AMOPSP , AMOSPP ... , SPPOMA
+Hỏi từ POAMSP ở vị_trí thứ bao_nhiêu ?
+Đáp_án :
+Đây là một bài_toán khá khó , đặc_biệt là đối_với trình_độ lớp 6 .
+Việc liệt_kê cũng gặp khó_khăn vì có đến 360 từ .
+Để cho tiện , ta sẽ thay các chữ_cái bằng các chữ_số , đương_nhiên là giữ thứ_tự của chúng : A , M , O , P , P , S lần_lượt được thay bằng 1 , 2 , 3 , 4 , 4 , 5 .
+Ta sắp các số có 6 chữ_số lập từ các chữ_số trên theo thứ_tự tăng dần .
+Cần biết số 431254 nằm ở vị_trí thứ mấy ?
+Nói cách khác , ta cần tìm số các số có 6 chữ_số lập từ các chữ_số nói trên và nhỏ hơn hay bằng 434521 .
+Giả_sử các số đó có dạng abcdef .
+Nếu a
+Nếu a = 4 và b
+Nếu a = 4 , b = 3 thì do số 431254 là số thứ nhì sau số 431245 bắt_đầu bằng 43 nên trường_hợp này chỉ có thêm hai số .
+Như_vậy tổng lại ta có 180 + 48 + 2 = 230 .
+Vậy từ POAMSP ở vị_trí 230 .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

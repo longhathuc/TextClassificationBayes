@@ -1,0 +1,17 @@
+Android 8.0 với nhiều cải_tiến có_thể ra_mắt tháng 5
+Hệ_điều_hành mới cho di_động của Google sẽ được bổ_sung tính_năng sao_chép thông_minh , nhận_dạng thông_tin hay vẽ lên màn_hình để thực_hiện tác_vụ .
+Theo   VentureBeat , Copy_Less là một trong những tính_năng có_thể xuất_hiện trên Android O ( 8.0 ) .
+Nó cho_phép điện_thoại tự_động phát_hiện những thông_tin liên_quan khi người dùng sao_chép , đọc thông_tin từ một nguồn văn_bản hay email .
+Android 8.0 có_thể được Google   giới_thiệu vào tháng 5 .
+Chẳng_hạn , người dùng đang nói_chuyện với bạn_bè về việc ăn tối và tìm thấy một cửa_hàng thông_qua ứng_dụng gợi_ý quán_ăn ( tương_tự Foody , Lozi ... ) .
+Khi quay trở_lại đoạn hội_thoại , bạn chỉ cần gõ từ " ăn tại ... " thì Android 8.0 sẽ tự_động gợi_ý người dùng điền tên cửa_hàng mà bạn vừa xem .
+Trong khi đó với tính_năng nhận_dạng thông_tin , những địa_chỉ , số điện_thoại mà người dùng trao_đổi bằng email hay tin nhắn sẽ được gắn liên_kết tự_động .
+Ví_dụ , một người gửi cho bạn tin nhắn với nội_dung chứa địa_chỉ đường , hệ_điều_hành Android mới sẽ " hiểu " và khi bấm vào thì ứng_dụng Google_Maps sẽ mở địa_điểm .
+Khả_năng nhận_dạng địa_điểm trong các cuộc hội_thoại đã xuất_hiện trên i OS từ nhiều năm trước nên nó sẽ sớm xuất_hiện trên Android .
+Tuy_nhiên tính_năng này của Apple chưa làm_việc tốt với ngôn_ngữ tiếng Việt .
+Một concept màn_hình khởi_động trên Android O .
+Android 8.0 còn có_thể hỗ_trợ nhận_dạng cử_chỉ viết_tay .
+Chẳng_hạn bạn vẽ lên màn_hình chữ " M " thì điện_thoại sẽ mở ứng_dụng máy_ảnh , hay gõ chữ " T " sẽ bật phần_mềm nhắn_tin .
+Nguồn tin cho_biết tính_năng này có_thể bị trì_hoãn hoặc loại_bỏ .
+Google dự_kiến công_bố Android O tại sự_kiện dành cho các nhà_phát_triển vào tháng 5 , sau đó sẽ tung bản thử_nghiệm vào mùa thu .
+Chuẩn_bị ra phiên_bản mới nhưng hệ_điều_hành Android 7.0 hiện_nay chỉ có 2% người dùng nâng_cấp .

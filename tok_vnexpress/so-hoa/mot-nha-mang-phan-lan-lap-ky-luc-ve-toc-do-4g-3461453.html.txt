@@ -1,0 +1,19 @@
+Một nhà mạng Phần_Lan lập kỷ_lục về tốc_độ 4G
+Hãng cung_cấp dịch_vụ di_động Elisa ( Phần_Lan ) vừa tuyên_bố phá vỡ kỷ_lục truyền_tải dữ_liệu 4G với 1,9 Gb/giây và đây là tốc_độ nhanh_nhất lịch_sử trên mạng di_động này .
+Elisa vừa thiết_lập kỷ_lục mới về tốc_độ mạng 4G .
+" Từ các số_liệu về mạng di_động mà chúng_tôi biết , chưa có nhà mạng nào tuyên_bố tốc_độ 4G mà họ cung_cấp đạt 1,9 Gb/giây .
+Với tốc_độ đó , bạn có_thể tải về một bộ phim Blu-ray chỉ trong vòng 44 giây " , Veli-Matti Mattila , Giám_đốc điều_hành Elisa , cho_biết .
+Theo Mattila , đây là kết_quả hợp_tác giữa Elissa với nhà_cung_cấp viễn_thông Huawei của Trung_Quốc .
+Ông kỳ_vọng , tốc_độ này sẽ hỗ_trợ tốt cho sự phát_triển của các nội_dung như thực_tế ảo , thực_tế ảo tăng_cường , video 4K , video 360 độ … vốn cần dữ_liệu truyền cao .
+Đồng_thời , đây cũng là bước_tiến xa , cho thấy 4G có_thể được cải_thiện tốc_độ hơn_nữa trong tương_lai , từ đó tạo đà phát_triển mạng 5G .
+Tuy_nhiên , tốc_độ trên lại không nhận được các phản_ứng tích_cực của các nhà_phân_tích .
+Theo chuyên_gia Nick_Wood của Total_Telecom ( Anh ) , khách_hàng sẽ khó nhận ra những thay_đổi dù con_số   1,9 Gb/giây   thực_sự ấn_tượng .
+" Việc triển_khai mạng di_động có tốc_độ 1,9 Gb/giây không có nghĩa_là khách_hàng sẽ hưởng trọn 1,9 Gb/giây băng_thông , bởi lưu_lượng mạng được chia_sẻ đều cho toàn_bộ thành_viên đang truy_cập .
+Như_vậy , người dùng chỉ nhận được sự cải_thiện khá khiêm_tốn về tốc_độ tổng_thể và độ tin_cậy mà thôi " , Wood nhận_định .
+Trong khi đó , Ernest_Doku , một chuyên_gia về viễn_thông của u Switch ( Anh ) , chỉ ra rằng , tốc_độ này chỉ có_thể cải_thiện băng_thông so với hiện_tại , nhưng chưa_thể tạo đà để phát_triển mạng 5G .
+Theo ông , tốc_độ của 5G trên lý_thuyết nhanh hơn 50 lần so với tốc_độ 4G mà Elisa công_bố , tức 1 Tb/giây , và 4G còn lâu mới có_thể tiệm_cận mức đó .
+Tuy_vậy , ông đồng_ý với nhận_định tốc_độ 4G sẽ còn được cải_thiện trong tương_lai .
+Theo số_liệu từ OpenSignal , Phần_Lan đang đứng thứ 7 thế_giới về hiệu_suất dữ_liệu di_động ( bao_gồm 3G và 4G ) .
+Riêng_Elisa là số_ít trong những nhà mạng cho_phép các thuê_bao có_thể sử_dụng băng_thông tối_đa 300 Mb/giây .
+Hiện hãng có kế_hoạch cung_cấp gói tốc_độ cao 1 Gb/giây trong khoảng 2-3 năm cho khách_hàng của mình .
+Bảo_Lâm

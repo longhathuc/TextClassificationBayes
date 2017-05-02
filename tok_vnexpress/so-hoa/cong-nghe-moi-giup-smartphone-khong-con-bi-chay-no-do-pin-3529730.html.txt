@@ -1,0 +1,14 @@
+Công_nghệ mới giúp smartphone không còn bị cháy nổ do pin
+Phương_pháp " chống cháy do nhiệt kích_hoạt " giúp khắc_phục tình_trạng cháy nổ pin từng xảy_ra trên Galaxy_Note 7 , iPhone cũng_như các điện_thoại khác dùng pin Li-ion .
+Chất   triphenyl phosphate sẽ bao_phủ những khu_vực nguy_cơ gây cháy trên pin .
+Được công_bố trên Science_Advances , phương_pháp mới gọi_là " chống cháy do nhiệt kích_hoạt " .
+Theo mô_tả , các nhà_khoa_học thuộc Đại_học Stanford đã sử_dụng sợi nhựa để tạo khoảng_cách giữa cực âm và cực dương của pin Li-ion , đồng_thời phủ lên một hợp_chất chống cháy gọi_là triphenyl phosphate .
+Trong điều_kiện thường , hợp_chất này không tạo phản_ứng với vật_chất trong pin .
+Nhưng nếu nhiệt_độ viên pin trên 150 độ C , lúc này viên pin sẽ phình to và có các phản_ứng gây cháy .
+Triphenyl phosphate sẽ làm nhiệm_vụ ngăn không cho điều đó xảy_ra bằng cách phủ lên khu_vực sắp tạo tia lửa điện .
+Thử_nghiệm cho thấy , triphenyl phosphate đã ngăn_chặn viên pin bốc cháy thành_công chỉ trong 0,4 giây .
+Đây   không phải lần đầu các nhà_khoa_học phát_hiện ra phương_pháp này , nhưng việc ứng_dụng nó còn gặp rất nhiều khó_khăn .
+Theo Giáo sư Yi_Cui , người đứng đầu dự_án , trước_đây , các thử_nghiệm công_nghệ chống cháy dùng   triphenyl phosphate   đều gặp phải tình_trạng pin bị giảm hiệu_suất hoạt_động nên việc nghiên_cứu bị dừng lại .
+Tuy_nhiên , các nhà_khoa_học của Đại_học   Stanford đã có cách để giải_quyết vấn_đề trên .
+Hiện nhóm nghiên_cứu đang hoàn_thiện công_nghệ chống cháy cho pin này và sẽ sớm áp_dụng trong tương_lai gần , giúp những sự_cố như Galaxy_Note 7 không bị lặp lại .
+Bảo_Lâm

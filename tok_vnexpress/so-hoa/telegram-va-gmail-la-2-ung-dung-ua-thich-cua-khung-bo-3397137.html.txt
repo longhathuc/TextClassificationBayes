@@ -1,0 +1,23 @@
+Telegram và Gmail là 2 ứng_dụng ưa_thích của khủng_bố
+IS thường trao_đổi thông_tin bí_mật bằng Telegram , trong khi ứng_dụng ưa_thích của chúng để gửi email là Gmail , theo báo_cáo từ công_ty an_ninh mạng Trend_Micro ( TMICF ) .
+Telegram và Gmail là 2 ứng_dụng được khủng_bố sử_dụng nhiều nhất .
+Tổng_hợp từ hơn 2.300 tài_khoản được thu_thập trên các diễn_đàn ngầm của những phần_tử khủng_bố chiến_binh thánh chiến , TMICF cho_biết có tới 34% trong số đó sử_dụng Telegram , một ứng_dụng chat miễn_phí , cho_phép trò_chuyện ẩn_danh và được mã_hóa dữ_liệu .
+Theo một nghiên_cứu trước đó , ứng_dụng này cũng đã được ISIS dùng để trao_đổi các thông_tin mật với nhau .
+Theo CNN , sở_dĩ Telegram được những kẻ khủng_bố lựa_chọn là bởi nó “ nhanh và an_toàn hơn ” so với các ứng_dụng nhắn_tin khác .
+Thế mạnh của nó là cơ_chế mã_hóa 2 lớp , tốc_độ gửi tin nhắn , tập_tin , hình_ảnh … cực nhanh , tin nhắn tự hủy sau một thời_gian nhất_định , cho_phép trò_chuyện nhóm với số thành_viên tối_đa lên đến 200 người …
+Cũng từ số_liệu thống_kê , WhatsApp của Facebook và Wickr là 2 cái tên tiếp_theo được các chiến_binh thánh chiến ưu_tiên , mỗi ứng_dụng chiếm 15% .
+Các nhà_chức_trách từng ngăn_chặn 16 kế_hoạch khủng_bố đang được trao_đổi trên WhatsApp .
+Một kênh của các phần_tử khủng_bố thánh chiến .
+Ngoài_ra , các chiến_binh thánh chiến còn sử_dụng các ứng_dụng nhắn_tin ít tiếng_tăm khác , như Surespot hay Threema .
+Tất_cả đều có điểm chung là sự đơn_giản , được mã_hóa nội_dung và người_ngoài khó có_thể tiếp_cận .
+Trong khi đó , Gmail là cái tên được những kẻ khủng_bố ưa_thích .
+Hiện có tới 34% các chiến_binh thánh chiến đang sử_dụng dịch_vụ email phổ_biến nhất thế_giới với hơn 1 tỷ người dùng này .
+Đứng thứ 2 và thứ 3 là dịch_vụ email Mail2Tor và SIGAINT , mỗi cái tên chiếm 20% , cuối_cùng là RuggedInbox và Yahoo .
+Trình_duyệt mà những kẻ khủng_bố yêu_thích nhất để kiểm_tra email là Tor .
+Các phần_tử khủng_bố còn tự phát_triển một ứng_dụng mã_hóa email mang tên Mujahideen_Secrets từ năm 2007 nhằm thay_thế các phần_mềm bảo_mật PGP ( Pretty_Good_Privacy - một chương_trình mã khóa công_cộng ) vốn phổ_biến từ trước và theo chúng là kém an_toàn .
+Ứng_dụng   Mujahideen_Secrets .
+Kẻ khủng_bố cũng đã tạo ra một loạt các công_cụ mã_hóa mới nhằm ngăn_chặn sự nhòm_ngó của phương Tây và phe đối_địch , như Asrar al - Dardashah , cho_phép mã_hóa nội_dung trò_chuyện trên AIM , Google_Talk , MSN , Yahoo … Năm 2013 , một nhóm có tên Truyền_thông Hồi_giáo toàn_cầu ( Global_Islamic_Media_Front , thuộc Al-Quaeda ) đã tạo ra ứng_dụng mang tên Tashfeer al - Jawwal với tính_năng mã_hóa các thiết_bị di_động .
+Cũng trong năm này , Amn al - Mujahed , ứng_dụng mã_hóa email và tin nhắn văn_bản đã được tạo bởi Bộ_phận kỹ_thuật Al-Fajr – ( một nhóm chủ_đạo của tổ_chức Al-Qaeda ) .
+“ Những công_cụ mã_hóa mới của khủng_bố có_vẻ như đơn_giản nhưng lại thực_sự nguy_hiểm và ngày_càng khó tiếp_cận .
+Ngay cả chuyên_gia hàng_đầu thế_giới về bảo_mật cũng không dễ_dàng làm điều đó ” , Robert_Graham , chuyên_gia của hãng bảo_mật Errata_Security ( Mỹ ) , nhấn_mạnh .
+Bảo_Lâm

@@ -1,0 +1,18 @@
+Làm thế_nào FBI đọc 650.000 email của Hillary_Clinton trong 8 ngày
+Những người phản_đối Hillary_Clinton cho rằng quyết_định mới nhất của FBI là vô_lý vì họ không_thể đọc 650.000 email chỉ trong vỏn_vẹn 8 ngày .
+Ngày 6/11 , Cục Điều tra Liên_bang Mỹ đưa ra kết_luận   bà Clinton không bị truy_tố hình_sự sau cuộc điều_tra diễn ra từ ngày 28/10 về việc bà sử_dụng máy_chủ email cá_nhân cho việc công khi còn làm ngoại_trưởng Mỹ .
+Ảnh : Global_Truth
+Các đồng_minh và cố_vấn của Hillary_Clinton cho_biết họ thấy nhẹ_nhõm trước thông_tin trên , nhưng thiệt_hại từ vụ điều_tra vẫn quá lớn , vì tính đến 4/11 đã có 37 triệu người Mỹ đi bỏ_phiếu sớm trước khi có kết_luận của FBI .
+Trong khi đó , Donald_Trump lại tỏ ý không hài_lòng .
+" Chúng_ta không_thể đọc 650.000 e-mail trong 8 ngày được " , ứng_viên Đảng_Cộng hòa nói tại Michigan .
+" Hillary phạm_tội , bà ấy biết_điều đó , FBI biết_điều đó , mọi người biết_điều đó .
+Và giờ là lúc người Mỹ thực_hiện công_lý qua hòm phiếu vào ngày 8/11 " .
+Tám ngày có tổng_cộng 691.200 giây và FBI đã duyệt 650.000 thư , có_nghĩa họ phải đọc thư với tốc_độ mỗi e - mail một giây không ngừng_nghỉ .
+Các chuyên_gia cho_biết họ chỉ mất 2 phút để viết một đoạn mã có_thể lọc những email trùng nhau hay trong cùng một luồng .
+Ảnh : BBC
+Tuy_nhiên , theo BBC , các chuyên_gia máy_tính cho rằng đó là điều bình_thường .
+" Dĩ_nhiên các điều_tra_viên chẳng bao_giờ đọc email một_cách thủ_công " , Adam_Woodward tại Đại_học   Surrey phản_bác ý_kiến của Trump .
+Trong khi đó , nhà_nghiên_cứu   Steven_Murdoch tại Đại_học London cho rằng FBI chỉ duyệt chứ không " đọc " nên không nhất_thiết cần quá nhiều thời_gian cho từng email .
+Họ cũng có_thể dùng thuật_toán để xác_định e - mail nào do bà Hillary gửi đi , thư nào bị trùng_lặp ...
+Trong khi đó , một cựu nhân_viên FBI chia_sẻ với Wired rằng họ có các kỹ_năng và công_cụ để xử_lý khối_lượng thông_tin lớn một_cách nhanh_chóng .
+" Chúng_tôi thường phải thu_thập hàng   terabyte dữ_liệu trong mỗi cuộc điều_tra và tôi biết những gì là quan_trọng trước cả khi tôi rời căn nhà vừa bị khám_xét " .

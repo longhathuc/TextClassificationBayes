@@ -1,0 +1,16 @@
+Đáp_án bài_toán ' chim_sẻ ' của trẻ lớp 1
+Bài_toán ' chim_sẻ ' cho trẻ lớp 1-2 đơn_giản nhưng đã làm_khó nhiều người_lớn .
+Chỉ cần suy_luận một_chút và sử_dụng những phép cộng trừ , bạn có_thể giải bài_toán này .
+Đề_bài :
+Chú chim_sẻ Jack đang nhảy từ cây cột_trụ này sang một cây cột_trụ khác trên một tấm rào .
+Mỗi lần nhảy như_vậy , Jack phải mất một giây .
+Nó cứ nhảy về phía trước 4 lần , rồi lại nhảy lùi lại 1 lần và lại nhảy tiến 4 lần rồi nhảy lùi lại 1 lần , và cứ như_vậy .
+Hỏi_Jack tốn bao_nhiêu giây để nhảy được từ cột_trụ START đến cột_trụ FINISH ?
+Đánh_dấu số thứ_tự các cột_trụ trong tấm rào lần_lượt từ trái sang phải bằng các số 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 .
+- Từ cột START , Jack sẽ nhảy đến cột thứ 4 ( khi tiến 4 lần ) rồi nhảy lùi lại ở cột thứ 3 , Jack mất 5 giây .
+- Tiếp đó , Jack lại tiến 4 lần rồi nhảy lùi 1 lần nên Jack ở cột_số : 3 + 4 – 1 = 6 , chú mất tiếp 5 giây .
+- Lần tiếp_theo , chú nhảy tiến 4 lần và đến luôn cột FINISH , Jack không mất_công nhảy lùi lại_nữa , lần này chú mất 4 giây .
+Như_vậy , để nhảy từ cột START đến cột FINISH , Jack mất   5 + 5 + 4 = 14 ( giây ) .
+Trần_Phương
+> > Bài_toán lớp 6 có_thể làm_khó bạn
+> > Đố bạn giải nhanh bài_toán ' bắt_tay ' lớp 9

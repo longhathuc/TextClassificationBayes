@@ -1,0 +1,4 @@
+Chọn người đi du_lịch cùng mạng nào hợp_nhất
+Người mạng Thổ khi đi cùng người mạng Hỏa thì_có chuyến đi tốn ít chi_phí , thậm_chí miễn_phí một_số dịch_vụ .
+Còn người mạng Kim có sự độc_đoán sẽ không làm người mạng Mộc thấy thoải_mái khi đi chung .
+Hãy click vào mạng của mình để xem bạn hợp hoặc không hợp với người có mạng gì khi đi cùng nhau trong những chuyến du_lịch .

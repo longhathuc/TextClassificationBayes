@@ -1,0 +1,17 @@
+Bài_toán xác_suất lấy bi trong 2017 hộp
+Có 2017 hộp đựng bi được xếp thẳng hàng .
+Hộp thứ nhất chứa 1 viên bi màu đỏ và 1 viên bi màu xanh .
+Hộp thứ 2 chứa 1 viên bi màu đỏ và 2 viên bi màu xanh …
+Xác_suất là ngành toán_học ứng_dụng liên_quan đến rất nhiều lĩnh_vực trong đời_sống .
+Ở Mỹ , người_ta bắt_đầu dạy khái_niệm xác_suất từ bậc tiểu_học , dạy chính_thức từ lớp 8 , còn ở Việt_Nam tới lớp 12 mới được học .
+Xác_suất cổ_điển chính là toán tổ_hợp số_học .
+Dưới đây là một bài_toán xác_suất đo_lường sự thông_minh của bạn .
+Đề_bài :
+Có 2017 hộp đựng bi được xếp thẳng hàng .
+Hộp thứ nhất chứa 1 viên bi màu đỏ và 1 viên bi màu xanh .
+Hộp thứ 2 chứa 1 viên bi màu đỏ và 2 viên bi màu xanh … Hộp thứ k chứa 1 viên bi màu đỏ và k viên bi màu xanh .
+Thực_hiện các bước lấy bi lần_lượt theo thứ_tự đánh_số của các hộp , mỗi bước chỉ được lấy 1 viên bi trong 1 hộp .
+Phép lấy bi sẽ dừng lại cho_đến khi lấy_được viên bi màu đỏ đầu_tiên .
+Gọi n là số bước thực_hiện và P ( n ) là xác_suất lấy_được viên bi màu đỏ đầu_tiên .
+Tìm số n nhỏ nhất để P ( n )
+Trần_Phương Phó_giám_đốc Trung_tâm hỗ_trợ phát_triển tài_năng

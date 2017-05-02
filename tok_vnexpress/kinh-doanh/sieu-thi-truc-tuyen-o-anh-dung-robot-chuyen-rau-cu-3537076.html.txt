@@ -1,0 +1,19 @@
+Siêu_thị trực_tuyến ở Anh dùng robot chuyển rau củ
+Hệ_thống robot sẽ đảm_nhận việc chọn và đóng_gói các mặt_hàng trong kho một_cách nhanh_chóng .
+Ocado - một trong những siêu_thị trực_tuyến lớn nhất tại Anh , đang thử_nghiệm mô_hình robot hình người đảm_nhận việc vận_chuyển hàng_hóa trong kho .
+Đây là một phần trong dự_án phát_triển cánh_tay robot SoMA - chương_trình nghiên_cứu được tài_trợ bởi Liên_minh châu Âu .
+Bộ_phận phát_triển công_nghệ robot của Ocado đã tạo nên một cánh_tay người_máy mang tên " SecondHands " , trong đó ứng_dụng trí thông_minh nhân_tạo và công_nghệ_học máy để hiểu những gì con_người nói ra , kèm theo khả_năng thị_giác 3D .
+Thiết_bị có_thể xử_lý các vật_thể mỏng_manh và có hình_dạng không cố_định như các loại trái_cây và rau_quả , vốn dễ bị tổn_hại hay dập nát nếu dùng các cánh_tay robot kiểu cũ .
+Vấn_đề này được giải_quyết tốt nhờ ứng_dụng cánh_tay RBO Hand 2 do hãng Technische_Universit ä t Berlin phát_triển , chuyên để cầm_nắm rau củ .
+Graham_Deacon - trưởng Bộ_phận phát_triển công_nghệ robot của Ocado cho_biết , kết_quả ban_đầu bàn_tay nắm linh_hoạt nhiều loại vật_thể đa hình_dạng , có_thể ứng_dụng trong nhiều môi_trường và cách_thức di_chuyển .
+Các cánh_tay robot sử_dụng vật_liệu cao_su mềm_dẻo và áp_suất không_khí để điều_khiển động_tác cầm_nắm .
+Hiện_Ocado xử_lý khoảng một_triệu sản_phẩm mỗi ngày tại kho của hãng và cần đến 10.000 lao_động cho việc này .
+Matt_Soane - Tổng_giám_đốc Công_nghệ Ocado hy_vọng cánh_tay robot sẽ triển_khai trong kho từ năm 2020 .
+Tuy_nhiên điều này sẽ không khiến người lao_động thất_nghiệp mà sẽ giúp họ tăng năng_suất hơn_nữa .
+" Qua quá_trình thử_nghiệm , chúng_tôi cảm_thấy công_nghệ khiến người lao_động làm_việc dễ_dàng và thú_vị hơn .
+Do_đó tự_động_hóa sẽ không khiến ai bị mất việc_làm cả " , ông Soane nói .
+Nhưng giới công_nghệ nhìn_nhận tự_động_hóa không_ít_thì_nhiều sẽ ảnh_hưởng đến công_ăn_việc_làm trong tương_lai xa .
+Các nghiên_cứu gần đây cho thấy rằng 59% hoạt_động sản_xuất có_thể thực_hiện bằng máy_móc .
+Robot có_thể dễ_dàng làm được 90% kỹ_năng của một thợ hàn , thợ cắt hay cơ_khí .
+73% các hoạt_động phục_vụ đồ_ăn hay dịch_vụ khách_sạn có_thể thay_thế bằng robot .
+Minh_Trí

@@ -1,0 +1,14 @@
+Căn phòng có_thể sạc không dây 320 smartphone cùng lúc
+Công_nghệ sạc qua sóng_điện_từ giúp người dùng có_thể sạc mọi thiết_bị khi chỉ cần đặt chúng trong một căn phòng thay_vì dock sạc như hiện_nay .
+Sạc không dây được ứng_dụng nhiều cho smartphone khoảng vài năm trở_lại đây .
+Nhưng dù mang tên không dây , các thiết_bị như_vậy vẫn cần đặt lên trên một dock sạc liên_tục .
+Công_nghệ này chủ_yếu giải_quyết việc người dùng không phải cắm cáp trực_tiếp và dễ_dàng lấy thiết_bị khi cần .
+Các nhà_khoa_học tại phòng nghiên_cứu   Disney_Research mới_đây đã tạo ra công_nghệ ấn_tượng hơn nhiều cho công_nghệ sạc .
+Một căn phòng_thí_nghiệm có_thể cấp năng_lượng cho nhiều thiết điện_tử mà không cần đến một sợi dây_cáp nào .
+Nhóm nghiên_cứu đã sử_dụng sóng_điện_từ để đưa điện không dây vào trong không_gian phòng có diện_tích 4,8 x 4,8 mét .
+Bên trong phòng được đặt thêm ghế_tựa và bảng_biểu , những sản_phẩm được sử_dụng như một khoang cộng_hưởng ( QSCR ) .
+Công_nghệ sạc qua sóng_điện_từ hứa_hẹn là tương_lai của các thiết_bị dùng pin .
+Theo   Disney_Research , bằng phương_pháp này , hệ_thống có_thể truyền_tải 1,9 kW điện vào trong phòng những vẫn giữ ở mức an_toàn cho con_người .
+Nguồn năng_lượng này tương_đương với việc sạc đồng_thời 320 chiếc điện_thoại thông_minh cùng lúc .
+Các nhà_khoa_học cũng hứa_hẹn sẽ phát_triển công_nghệ tương_tự cho những căn phòng với diện_tích lớn hơn .
+Nếu thành_công , đây sẽ là công_nghệ mang tính đột_phá cho nhiều thiết_bị điện khác như xe_điện , tai_nghe , các dụng_cụ DIY ...

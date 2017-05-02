@@ -1,0 +1,13 @@
+145 đội tham_gia thi lập_trình điều_khiển xe không người lái
+Sau một tháng phát_động , chương_trình Cuộc đua số 2016 đã thu_hút hơn 500 sinh_viên của 145 đội đến từ 26 trường Đại_học đăng_ký tham_gia .
+Cuộc đua số , do tập_đoàn FPT tổ_chức ,   là cuộc_thi lập_trình điều_khiển xe không người lái và đua xe trên sa hình mô_phỏng đường_phố thật tại Việt_Nam .
+Bắt_đầu phát_động từ tháng 11/2016 , hiện có 26 trường tham_gia , trong đó   Đại_học CNTT - Đại_học Quốc_gia TP_HCM là trường có số đội đăng_ký nhiều nhất ( 22 đội ) , tiếp đến là Đại_học Bách_Khoa TP_HCM ( 17 đội ) , ĐH Bách_Khoa_Hà_Nội ( 13 đội ) , Học_viện Bưu_chính viễn_thông ( 11 đội ) , Đại_học FPT ( 9 đội ) , Đại_học Công_nghệ - Đại_học Quốc_gia Hà_Nội ( 9 đội ) ...
+Sáu   trường đại_học có số sinh_viên đăng_ký nhiều nhất sẽ tổ_chức 6 trận đấu để tìm ra 6 đại_diện tham_dự Chung_kết toàn_quốc .
+Ngoài_ra , Ban tổ_chức sẽ tổ_chức hai trận sơ loại để tìm ra hai ứng_cử_viên còn lại tranh tài tại_trận chung_kết .
+Mẫu xe không người lái được FPT cung_cấp cho các đội lọt vào vòng chung_kết .
+Ảnh : Ngọc_Thành
+PGS Trần_Xuân_Tú , Trưởng_phòng Khoa_học Công_nghệ và Hợp_tác quốc_tế thuộc Đại_học Công_nghệ - Đại_học Quốc_gia Hà_Nội , nhận_định , Cuộc đua số sẽ giúp sinh_viên áp_dụng lý_thuyết học trong nhà_trường vào thực_tiễn , đồng_thời cung_cấp nhiều kiến_thức mới như xe không người lái , lập_trình nhúng , nhận_dạng vật_thể trên các đường đua , xử_lý ảnh theo thời_gian_thực … .
+Ngoài_ra , sinh_viên cũng được thực_hành các kỹ_năng cần_thiết cho quá_trình làm_việc như điều_hành và làm_việc nhóm , lập kế_hoạch , quản_trị dự_án ...
+Cuộc đua số_là cuộc_thi công_nghệ thường_niên được FPT tổ_chức dành cho sinh_viên , diễn ra từ tháng 11/2016 đến tháng 4/2017 .   Mỗi đội thi lọt vào chung_kết sẽ được ban tổ_chức cung_cấp xe ôtô mô_hình đã được thiết_lập sẵn và bộ thư_viện mã nguồn mở để tham_gia thi_đấu .
+Tổng   giá_trị giải_thưởng của cuộc_thi lên tới 700 triệu đồng , trong đó giải Nhất_là 450 triệu đồng ( gồm một chuyến trải_nghiệm 7 ngày tại Mỹ cho các thành_viên đội thi và 3 laptop ) .
+Trường đại_học có đội đạt giải nhất cũng sẽ nhận được 50 triệu đồng .

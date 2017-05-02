@@ -1,0 +1,10 @@
+Đáp_án bài_toán lấy bi trong hộp
+Chỉ cần suy_luận đơn_giản và viết ra trong vài dòng , bạn có_thể đưa ra đáp_án cho bài_toán lấy bi trong hộp này .
+Hỏi_Peter cần lấy ít_nhất bao_nhiêu viên bi để chắc_chắn có được 3 viên bi cùng màu ?
+Trường_hợp xấu nhất Peter có_thể gặp phải là không có 3 quả bóng nào cùng màu nhau .
+Ở trường_hợp đó , Peter đã lấy 2 viên bi đỏ , 2 viên bi trắng , 2 viên bi vàng , 2 viên bi xanh và 1 viên bi đen .
+Tổng là 9 viên bi .
+Nhận thấy Peter chỉ cần lấy thêm một viên bi nữa_là sẽ luôn có 3 viên cùng màu vì chắc_chắn viên bi đó sẽ có màu đỏ , trắng hoặc vàng .
+Như_vậy , Peter phải lấy ít_nhất 10 viên bi để chắc_chắn có 3 viên cùng màu trong mọi trường_hợp .
+Thanh_Tâm
+> > Thể_dục trí_não với bài_toán lấy bi trong hộp

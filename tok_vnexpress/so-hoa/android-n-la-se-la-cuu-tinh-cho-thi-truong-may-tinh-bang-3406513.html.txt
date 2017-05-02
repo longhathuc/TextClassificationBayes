@@ -1,0 +1,39 @@
+Android N là sẽ là cứu_tinh cho thị_trường máy_tính bảng
+Nhiều tính_năng hỗ_trợ cho công_việc và hoạt_động tốt trên các sản_phẩm giá rẻ là hai yếu_tố giúp Android N mang đến cuộc cách_mạng cho thị_trường máy_tính bảng .
+Tốc_độ phát_triển ở mức âm
+Năm 2011 , máy_tính bảng đã tạo ra cuộc “ lật_đổ ” ngoạn_mục máy_tính_xách_tay .
+Khi đó , nhiều chuyên_gia của Gartner dự_đoán , dòng sản_phẩm này mới tạo nên " cuộc cách_mạng di_động " chứ không phải là smartphone hay bất_cứ thiết_bị nào khác .
+Thậm_chí , họ còn cho rằng đến 2015 , lượng máy_tính bảng bán ra sẽ vượt ngưỡng 300 triệu chiếc , trong đó một_nửa là i Pad .
+Thị_trường máy_tính bảng đang " đi lùi " .
+Sau 5 năm , các dự_đoán đều đã được kiểm_chứng là sai_lầm .
+Số_liệu của IDC cho thấy , chỉ có 207 triệu thiết_bị bán ra trong 2015 .
+Riêng trong quý 1/2016 , toàn thị_trường giảm 14,7% so với cùng kỳ năm trước , 2 " ông lớn " Apple và Samsung cũng đã sụt_giảm doanh_số lần_lượt là 18,8% và 28,1% .
+Theo Gartner , hiện hãng đã điều_chỉnh lại dự_báo , trong đó cho_biết máy_tính bảng chỉ còn là " tiện_ích di_động cơ_bản " và giai_đoạn 2015 - 2018 , thị_trường này đạt khoảng 196 triệu đơn_vị .
+Tablet_Android thiếu yếu_tố chất_lượng , bị smartphone xóa_nhòa ranh_giới
+Apple dù giảm doanh_số nhưng hãng vẫn đang tạo bản_sắc bằng cách sản_phẩm chất_lượng ( như mới_đây là i Pad_Pro ) đi kèm nền_tảng ổn_định và nhiều tính_năng ( iOS 9 ) .
+Chiếc_Surface_Pro của Microsoft cũng đang được nhiều người tin_dùng nhờ cấu_hình mạnh và nền_tảng Windows 10 .
+Tuy_nhiên , với các thiết_bị chạy Android , chỉ có Samsung là làm tốt dòng Tab S cho phân khúc cao_cấp .
+Gần đây , Google_Pixel C cũng đã nhận phản_hồi tích_cực , nhưng vì sinh_sau_đẻ_muộn nên chưa_thể tạo ra điểm nhấn .
+Google_Pixel C chưa tạo ra sự đột_phá .
+Khi mới ra_đời , máy_tính bảng Android cũng chỉ được xem là thiết_bị giúp người dùng thoải_mái hơn so với các mẫu smartphone dưới 4 – 4,5 inch phổ_biến lúc đó .
+Mục_đích mua chủ_yếu là để xem video , đọc sách , duyệt web và e - mail , hoặc chỉnh_sửa tài_liệu ở mức cơ_bản thoải_mái hơn .
+Nhưng hiện_nay , xu_thế đang là các mẫu 5 – 5,5 inch , thậm_chí có các mẫu smartphone lên tới 7 inch , như MediaPad X2 của Huawei .
+Khi mà ranh_giới kích_thước màn_hình giữa điện_thoại thông_minh và máy_tính bảng bị xóa_nhòa , người dùng thường có xu_thế lựa_chọn smartphone bởi nó có nhiều tính_năng hơn , hiệu_suất cao hơn so với tablet nếu cùng tầm giá .
+Có_thể có các mẫu 8 , 9.7 , và 10,1 inch , nhưng Android gần_như chưa hỗ_trợ để chúng đạt hiệu_quả tối_đa .
+Xu_thế mới của thị_trường   máy_tính bảng
+Theo Slashgear , kể từ khi chiếc Surface_Pro kèm bút cảm_ứng ra_mắt , người dùng đã không còn xem máy_tính bảng là thiết_bị giải_trí đơn_thuần nữa , mà đòi_hỏi nó phải làm được nhiều việc hơn .
+Apple đã lập_tức “ " học_hỏi " điều đó bằng cách cho ra_mắt chiếc i Pad_Pro và Apple_Pencil .
+Trong khi đó , máy_tính bảng Android vẫn gần_như " giậm chân tại_chỗ " , ngoại_trừ mẫu Note của Samsung được trang_bị bút cảm_ứng từ lâu nhưng không thành_công , còn Google_Pixel C chưa đủ để   cộng_đồng   phải phát cuồng .
+Vậy nguyên_nhân do đâu ?
+Câu trả_lời là : nền_tảng Android có quá ít tính_năng hỗ_trợ cho công_việc .
+Thị_trường tablet thay_đổi khi Android N ra_mắt ?
+Sau rất nhiều phản_hồi từ cả nhà_sản_xuất , nhà_phát_triển cũng_như người dùng , có_vẻ như Google bắt_đầu biết lắng_nghe hơn .
+Bằng_chứng là tại Google I / O 2016 , gã khổng_lồ tìm_kiếm đã hé lộ nền_tảng Android N với hàng_loạt tính_năng mới rất hữu_ích , đặc_biệt là cho máy_tính bảng :
+Đa_nhiệm nhiều cửa_sổ là điểm nhấn của Android N .
+Đầu_tiên là tính_năng đa_nhiệm , chia màn_hình để mở nhiều ứng_dụng cùng lúc .
+Trước_đây , mặc_dù rất tiện_dụng nhưng nếu muốn sở_hữu , người dùng chỉ biết mua tablet của Samsung ( TouchWiz hỗ_trợ ) , hoặc root và cài ứng_dụng từ bên thứ_ba vốn tiềm_ẩn những nguy_cơ bảo_mật .
+Điều quan_trọng nhất mà tính_năng này mang lại là cho_phép thao_tác chuyển qua_lại tập_tin , hình_ảnh , video … hoàn_toàn dễ_dàng , tương_tự như đang thực_hiện trên máy_tính chạy Windows hay Mac .
+Trước_đây , việc di_chuyển tập_tin trên Android cực_kì khó_khăn , và có_lẽ nó kém hấp_dẫn với những người sử_dụng máy_tính bảng cũng vì lý_do này .
+Ngoài_ra , với việc hỗ_trợ trả_lời trực_tiếp thông_báo , gộp thông_báo từ một ứng_dụng , chế_độ sử_dụng ban_đêm , cho_phép hình_ảnh được hiển_thị ở khung nhỏ trên màn_hình … đồng_thời tối_ưu hệ_thống , tiết_kiệm pin … Android N đang được kỳ_vọng sẽ tạo nên sức hấp_dẫn mới , trở_thành một thiết_bị phục_vụ công_việc đúng nghĩa thay_vì chỉ dùng để giải_trí đơn_thuần như hiện_tại .
+Các nhà_phân_tích dự_đoán , nếu nó hỗ_trợ tốt đối_với máy_tính bảng tầm trung và giá rẻ , thời_điểm thị_trường tablet “ hồi_sinh ” sẽ không còn xa .
+Bảo_Lâm

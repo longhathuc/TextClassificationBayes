@@ -1,0 +1,19 @@
+Mã độc mạo_danh cảnh_sát để tống_tiền trên Smart TV
+Lây_lan thông_qua các thiết_bị Android trong đó có cả TV thông_minh , mã độc_giả làm cảnh_sát , đòi người dùng phải trả hàng trăm USD để được mở khóa .
+Theo công_ty bảo_mật Trend_Micro , mã độc tống_tiền ( ransomware ) đang trở_thành nỗi lo với nhiều người dùng và các công_ty .
+Một trong số đó là FLocker , ransomware lần đầu được phát_hiện vào tháng 5/2015 , nhưng đã có hơn 7.000 biến_thể khác_nhau .
+Màn_hình TV khi nhiễm   ransomware .
+Mã độc tống_tiền này trên lây_lan trên các thiết_bị Android , trong đó có cả Smart TV .
+FLocker mạo_danh cảnh_sát hoặc các cơ_quan thực_thi pháp_luật , sau đó thông_báo người dùng phạm_tội .
+Tiếp_theo , mã tống_tiền đòi gửi thẻ quà tặng ( iTunes gift card ) trị_giá 200 USD nếu_không sẽ " chuyển_giao cho tòa_án " .
+Sau khi người dùng đáp_ứng yêu_cầu , thiết_bị mới có_thể truy_cập bình_thường trở_lại .
+FLocker được tìm thấy trên các sản_phẩm ở Đông_Âu như Nga , Hungary , Ukraina , Belarus ...
+Để tránh bị phát_hiện , mã độc tống_tiền thường " núp_bóng " dưới các file thực_thi .
+FLocker còn chờ khoảng 30 phút sau khi lây_nhiễm mới tiến_hành tấn_công .
+Nguy_hiểm hơn ,   ransomware này có_thể lây_lan cho các thiết_bị khác trong cùng một hệ_thống mạng .
+Điều này có_nghĩa nếu smartphone của bạn dính FLocker thì rất có_thể máy_tính bảng hay TV của bạn cũng bị nhiễm .
+Thông_báo đòi tiền chuộc trên smartphone Android .
+Ransomware thường tiếp_cận người dùng thông_qua tin nhắn rác hay gửi các liên_kết độc_hại .
+Đó là lý_do các chuyên_gia bảo_mật khuyến_cáo nên thận_trọng khi dùng Internet , nhất_là tin nhắn hay email không rõ nguồn_gốc .   Riêng với FLocker lây_lan trên Smart TV , người dùng có_thể liên_hệ nhà_sản_xuất thiết_bị để được giúp gỡ mã độc này .
+Xem thêm :
+>   Smart TV - mục_tiêu tiếp_theo của tin_tặc >   Mã độc mới chuyên tống_tiền xuất_hiện tại Việt_Nam

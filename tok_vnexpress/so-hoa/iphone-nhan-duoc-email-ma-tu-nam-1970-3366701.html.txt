@@ -1,0 +1,15 @@
+iPhone nhận được email ' ma ' từ năm 1970
+Thư_điện_tử chính_thức xuất_hiện từ những năm 1990 nhưng một_số người dùng điện_thoại của Apple lại nhận được email gửi từ 1/1/1970 .
+Theo   Telegraph , những bức thư này không có thông_tin người gửi , chủ_đề và nội_dung để trống .
+Thực_tế , đây là trục_trặc trong hệ_thống trên i Phone , iPad dẫn đến xuất_hiện những email trắng_xóa từ đầu năm 1970 , chứ không phải mã độc hay thư phát_tán nội_dung quảng_cáo .
+Nhiều người nhận được " email ma " từ năm 1970 với nội_dung trắng .
+Một_số người dùng lại nhận được gợi_ý , chỉnh ngày_giờ trên thiết_bị i OS về mốc 1/1/1970 và nếu thực_hiện sẽ gặp rắc_rối với vấn_đề này .
+Mội lỗi trong hệ_điều_hành của Apple sẽ khiến i Phone , iPad thành " cục gạch " khi đưa máy trở_lại thời_gian trên .
+Về bản_chất , iOS được xây_dựng dựa trên nền_tảng UNIX và hệ_thống này lấy thời_điểm 1/1/1970 là mốc thời_gian 0 .
+Bởi_vậy , khi email được gửi đi mà không có mốc thời_gian , hoặc múi_giờ bị lỗi , thì máy sẽ tự mặc_định không có dữ_liệu .
+Quy_ước thời_gian trên UNIX cũng là nguyên_nhân khiến một_số người dùng i Phone chỉnh thời_gian về năm 1970 thì máy thành " cục gạch " .
+Thiết_lập thời_gian trên i Phone về mốc 1/1/1970 sẽ khiến máy thành " cục gạch " .
+Nếu người dùng thấy xuất_hiện những email " ma " , hãy tắt ứng_dụng thư_điện_tử sau đó khởi_động lại điện_thoại bằng cách giữ đồng_thời phím Home và nút nguồn cho_đến khi máy bật lên .
+Dĩ_nhiên , việc xuất_hiện email từ năm 1970 là điều không_thể bởi thư_điện_tử chỉ mới xuất_hiện từ năm 1971 và mãi đến năm 1990 mới phổ_biến .
+Cha_đẻ của email là ông   Ray_Tomlinson , người đã qua_đời vào cuối tuần trước ở tuổi 74 .
+Đình_Nam

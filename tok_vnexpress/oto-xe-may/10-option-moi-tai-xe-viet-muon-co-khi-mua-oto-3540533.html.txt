@@ -1,0 +1,26 @@
+10 ' option ' mọi tài_xế Việt muốn có_khi mua ôtô
+Camera lùi , hỗ_trợ khởi_hành ngang dốc hay cảnh_báo áp_suất lốp là những công_nghệ hỗ_trợ giúp_ích hữu_hiệu cho tài_xế .
+Bộ 3 công_nghệ phanh thường xuất_hiện trên những xe hiện_đại là chống bó cứng phanh ABS , phân_bổ lực phanh điện_tử EBD và hỗ_trợ phanh khẩn_cấp BA , trong đó đáng chú_ý nhất_là ABS .
+ABS là công_nghệ xe sẽ tự_động nhấp nhả phanh liên_tục khi phát_hiện có khả_năng bó cứng phanh .
+ABS giúp bánh không bị khóa cứng gây trượt ngang , văng đuôi , mất khả_năng kiểm_soát .
+Cân_bằng điện_tử ( VSC ) cũng cơ_bản dựa trên cách phanh bánh_xe nhưng khác_biệt ở chỗ , ABS kích_hoạt khi tài_xế đạp phanh có khả_năng bó cứng còn VSC kích_hoạt khi đánh lái gấp dễ mất lái .
+Cụ_thể , khi tài_xế đánh lái quá gấp để vào cua , tránh chướng_ngại_vật ở tốc_độ cao , xe sẽ tự_động phanh một bánh nào_đó để đảm_bảo xe không bị mất lái .
+Camera lùi là giải_pháp giúp giảm rủi_ro điểm_mù khi lùi .
+Tài_xế có_thể quan_sát hết không_gian phía sau ở các góc xa_gần khác_nhau , rất hữu_ích với lái mới hoặc phụ_nữ .
+Để bổ_trợ cho camera còn có cảm_biến khoảng_cách trước , sau thậm_chí xung_quanh xe .
+Khi xe tiến hay lùi hoặc có xe khác đi qua đầu , đuôi xe ở khoảng_cách quá gần , trong xe sẽ phát tiếng kêu " beep " , càng gần âm_thanh càng to và dồn_dập .
+Camera 360 độ cho tài_xế góc nhìn từ trên cao xuống , thấy tổng_thể mọi góc xung_quanh xe .
+Công_nghệ này không phải có một camera trên cao bay theo mà xe dựa trên các camera xung_quanh xe để tạo nên một góc nhìn giả_lập .
+Trên gương chiếu hậu bên ngoài có ký_hiệu hình_tam_giác hoặc hình hai xe cạnh nhau , đèn này sẽ sáng nháy khi có xe đi vào vùng điểm_mù .
+Cảnh_báo áp_suất lốp TPMS ( Tire_Pressure_Monitoring_System ) là công_nghệ giúp tài_xế luôn kiểm_soát áp_suất lốp trong tình_trạng ổn_định nhất .
+Nếu phát_hiện có lốp nào_đó quá căng hay non hơn tiêu_chuẩn , đèn cảnh_báo như trong ảnh phát sáng , một_số xe kèm dòng nhắc_nhở kiểm_tra lốp .
+Trên thị_trường có nhiều hãng độ cung_cấp những bộ cảnh_báo áp_suất lốp với con_số chính_xác cho từng bánh , tuy_nhiên vẫn có_thể có sai_số so với công_nghệ tiêu_chuẩn của hãng .
+Khi tài_xế đạp phanh sâu để xe dừng giữa dốc , khi thả_phanh , xe tự_động giữ phanh thêm khoảng 3 giây , đủ thời_gian để tài_xế chuyển đạp chân ga và di_chuyển mà không bị tụt_dốc .
+Kiểm_soát hành_trình giúp tài_xế không phải đạp ga mà xe vẫn duy_trì tốc_độ như mong_muốn .
+Như video dưới đây , tài_xế đạp ga lên 80 km / h , sau đó nhấn phím Cruise_Control và phím Set .
+Lúc này xe tự_động ga ở 80 km / h .
+Tài_xế có_thể chỉnh nhanh hơn hoặc chậm hơn tùy điều_kiện thực_tế trên đường thông_qua hai nút Accel và Decel , ở một_số xe khác là ( + ) và ( - ) .
+Điều_hòa tự_động là loại điều_hòa có_thể đặt một mức nhiệt_độ nhất_định , sau đó xe sẽ duy_trì nhiệt_độ này .
+Nếu_không muốn đặt , chỉ cần nhấn nút Auto , xe tự chỉnh nhiệt_độ .
+> > Xem những lưu_ý khi sử_dụng điều_hòa_nhiệt_độ trên ôtô
+Đức_Huy

@@ -1,0 +1,28 @@
+Doanh_nghiệp bắt_đầu ' biết sợ ' bị tấn_công mạng
+Nhiều doanh_nghiệp đã bắt_đầu để_ý đến việc tăng_cường các biện_pháp an_toàn thông_tin trước hàng_loạt sự_cố tấn_công mạng khiến nhiều đơn_vị bị mất tiền , mất uy_tín và đình_đốn công_việc .
+Số_liệu khảo_sát khu_vực phía Nam do Chi_hội An_toàn thông_tin VNISA phía Nam vừa công_bố cho_biết , mức_độ quan_tâm của cộng_đồng doanh_nghiệp đối_với vấn_đề an_ninh mạng đã có sự thay_đổi vượt_bậc , thậm_chí là đột_biến trong năm 2016 .
+65% doanh_nghiệp được hỏi cho_biết đã có cán_bộ lãnh_đạo phụ_trách về an_toàn thông_tin trong khi tỷ_lệ của năm 2015 chưa đầy 30% .
+78% có bộ_phận chuyên_trách về an_toàn thông_tin , tăng hơn gấp đôi so với mức 34,6% của năm_ngoái .
+Tỷ_lệ các tổ_chức có xây_dựng , ban_hành các chính_sách về an_toàn thông_tin thậm_chí còn tăng đột_biến .
+83,5% tổ_chức có chính_sách về an_toàn thông_tin ; 79,9% có chính_sách bảo_vệ thông_tin cá_nhân .
+Trong khi đó , vào năm 2015 , tỷ_lệ này chỉ đạt lần_lượt là 23,7% và 22,7% .
+“ Trong các chương_trình đào_tạo , tập_huấn về an_ninh mạng , tôi thấy tỷ_lệ lãnh_đạo cấp cao của công_ty trực_tiếp tham_gia đã nhiều hơn , giảm bớt việc cử người đi thay .
+Ngay tại TP_HCM , tôi từng chứng_kiến nhiều lãnh_đạo còn ngồi lại nghe hết buổi ” , Tiến_sĩ Võ_Văn_Khang - Phó_chủ_tịch VNISA phía Nam cho_biết .
+Số vụ tấn_công mạng tăng cao khiến các doanh_nghiệp bắt_đầu chú_trọng hơn đến việc đề_phòng .
+Không_chỉ có các doanh_nghiệp , theo ông Nguyễn_Trọng_Đường - Giám_đốc Trung_tâm ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) , các lãnh_đạo cấp cao cũng đang dõi theo tình_hình an_ninh mạng trong nước , nhất_là khả_năng đề_kháng và xử_lý sự_cố của các doanh_nghiệp lớn , doanh_nghiệp nhà_nước .   “ Ngay hồi sự_cố Vietnam_Airlines xảy_ra thì lãnh_đạo chính_phủ cũng họp mấy lần và thường_trực ban_bí_thư cũng ngồi nghe báo_cáo về vụ này .
+Điều đó cho thấy các lãnh_đạo cấp cao cũng đang rất quan_tâm đến vấn_đề an_ninh mạng ” , ông Đường chia_sẻ .
+Theo các chuyên_gia , những thay_đổi đột_biến trong kết_quả khảo_sát năm nay tuy có phần bất_ngờ nhưng hoàn_toàn có_thể lý_giải được , xuất_phát từ tình_hình an_ninh mạng ngày_càng phức_tạp và tổn_thất ngày_càng dễ trông thấy .
+Cụ_thể , lượng mã độc trên thế_giới đã tăng đến 36% trong năm qua và đạt 430 triệu mã độc không trùng_lắp .
+Cùng_với đó , tấn_công mã_hóa dữ_liệu đòi tiền chuộc ( ransomware ) và các dịch_vụ tấn_công doanh_nghiệp đối_thủ đang thi nhau " đua nở " .
+Báo_cáo của VNISA phía Nam dẫn theo các nghiên_cứu cho_biết , thu_nhập từ loại_hình tấn_công ransomware chỉ đối_với một loại kit ( bộ khai_thác ) đã lên đến 60 triệu đôla một năm .
+Tin_tặc chỉ cần đầu_tư 5.900 đôla là có_thể thu về đến 84.100 đôla sau 30 ngày .
+Các doanh_nghiệp tham_gia khảo_sát cho_biết , tấn_công từ các đối_thủ cạnh_tranh cũng tăng đột_biến trong năm nay , đến hơn 40% so với mức chưa đầy 14% của năm_ngoái .
+Và đó chính là lý_do mà họ bắt_đầu " biết sợ " và thấy rằng nên có hành_động cụ_thể .
+“ Chi_phí để thuê tấn_công mạng ngày_càng rẻ .
+Tấn_công mạng đang trở_thành một dịch_vụ phổ_biến với giá_cả phải_chăng hơn .
+Các nhóm cung_cấp dịch_vụ này không_chỉ tấn_công trực_tiếp vào doanh_nghiệp mục_tiêu do khách_hàng thuê mà_còn có_thể tấn_công bằng các hình_thức gián_tiếp , thông_qua các khách_hàng hay đối_tác của doanh_nghiệp đó ” , ông Stefanus_Natahusada - kỹ_sư của Kaspersky_Lab_Singapore nhận_định .
+Ông Nguyễn_Trọng_Đường nhận_xét , dù tỷ_lệ doanh_nghiệp tham_gia đầu_tư cho an_toàn thông_tin năm 2016 tăng mạnh thì vẫn còn khá nhiều vấn_đề đáng lo .
+Ví_dụ như nhiều doanh_nghiệp chi tiền đầu_tư cho phần_cứng rất mạnh , nhưng lại thiếu huấn_luyện về con_người và hoàn_thiện quy_trình , vốn là những điểm yếu mà tin_tặc thường lợi_dụng .
+Cùng_với đó , không ít doanh_nghiệp khi gặp sự_cố thì lúng_túng , không biết liên_hệ đến đâu để nhờ ứng_cứu .
+Ngoài_ra , số_liệu của VNISA phía Nam cho_biết thêm , hiện còn đến 43,7% tổ_chức không rõ mình có bị tấn_công hay không và chỉ chưa đầy 19% doanh_nghiệp tự_tin là các tấn_công được theo_dõi đầy_đủ .
+Viễn_Thông

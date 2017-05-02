@@ -1,0 +1,21 @@
+Đáp_án bài_toán cuộc_thi trắc_nghiệm của các nhân_vật hoạt_hình
+Đa_số độc_giả tham_gia giải bài_toán đã tìm ra đáp_án .
+Đề_bài :
+Sói , thỏ , vịt Donald , mèo Tom và chuột Jerry đi thi .
+Đề thi gồm 4 câu_hỏi trắc_nghiệm với 5 phương_án trả_lời là A , B , C , D , E với duy_nhất một đáp_án đúng .
+Jerry vào thi cuối và trước khi vào thi , cậu tranh_thủ hỏi xem các anh_chị trả_lời thế_nào , được bao_nhiêu điểm , thì được biết các phương_án trả_lời của sói , thỏ , vịt và mèo lần_lượt là : DDAE , CBAD , CDAC và BBCC .
+Tất_cả 4 bạn này đều vừa đủ điểm đạt , tức_là mỗi bạn đều có 2 câu đúng .
+Hỏi với những thông_tin này , Jerry có_thể trả_lời thế_nào để có cả 4 câu đều đúng ?
+Đáp_án :
+Ta lập bảng các câu trả_lời của 4 bạn thi trước :
+Ta thấy theo đề_bài thì tổng_cộng các bạn trả_lời đúng 8 lượt .
+Nhưng do ở các câu 1 , 2 , 4 số lượt trả_lời đúng tối_đa là 2 , nên ở câu 3 số lượt đúng tối_thiểu là 2 .
+Vậy A là đáp_án đúng ở câu_hỏi số 3 .
+Nếu D là đáp_án đúng ở câu_hỏi 2 thì B là đáp_án sai ở đâu hỏi này và do vịt Donald đã trả_lời đúng ở các câu 2 , 3 nên C là đáp_án sai cho câu_hỏi 4 .
+Suy ra mèo Tôm trả_lời sai ở 3 câu 2 , 3 , 4 , mâu_thuẫn với giả_thiết .
+Vậy ở câu_hỏi 2 , B là đáp_án đúng .
+Khi đó thỏ trả_lời đúng 2 câu 2 và 3 , suy ra các câu 1 và 4 thỏ trả_lời sai , tức_là C là đáp_án sai cho câu 1 và D là đáp_án sai cho câu 4 .
+Như_thế , ở câu 1 chỉ có 1 lượt trả_lời đúng , suy ra ở câu 4 phải có 2 lượt trả_lời đúng , suy ra đáp_án đúng ở câu 4 là C .
+Cuối_cùng dễ_dàng suy ra đáp_án đúng ở câu 1 là D .
+Vậy nếu Jerry trả_lời DBAC sẽ có cả 4 câu đều đúng .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TPHCM

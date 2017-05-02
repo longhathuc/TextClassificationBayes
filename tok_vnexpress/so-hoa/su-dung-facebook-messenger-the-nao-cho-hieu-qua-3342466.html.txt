@@ -1,0 +1,28 @@
+Sử_dụng Facebook_Messenger thế_nào cho hiệu_quả
+Ứng_dụng tin nhắn của Facebook chứa nhiều tính_năng thú_vị mà người sử_dụng vẫn chưa khai_thác hết .
+Facebook_Messenger hiện đã có 800 triệu người dùng mỗi tháng và đang trên hành_trình trở_thành nền_tảng với một tỷ thành_viên .
+Facebook đã trang_bị cho dịch_vụ này không ít các tiện_ích nhưng dường_như mọi người ít chú_ý tới :
+Sử_dụng Messenger trên trang_web riêng
+Ngoài ứng_dụng di_động cũng_như được tích_hợp trong phiên_bản web của Facebook.com , người dùng còn có_thể đăng_nhập Messenger trên website có địa_chỉ Messenger.com .
+Trang này có giao_diện tối_giản , giúp duy_trì việc trao_đổi với bạn_bè mà không bị xao_lãng bởi các cập_nhật mới trên News_Feed .
+Dùng_Messenger không cần tài_khoản Facebook
+Messenger được phát_triển như một nền_tảng độc_lập .
+Do_đó , bất_cứ ai cũng có_thể đăng_ký thành_viên thông_qua số điện_thoại mà không cần phải có tài_khoản Facebook .
+Những gì họ cần là cài_đặt ứng_dụng , chọn mục " Not on Facebook " và sau đó đăng_ký tham_gia .
+' Ghim ' nhóm chat
+Người dùng có_thể ghim ( pin ) hoặc bỏ ghim ( unpin ) các nhóm chat , đồng_thời sắp_xếp các nhóm quan_trọng lên đầu ( pin to top ) .
+Không ít người chat với quá nhiều nhóm khác_nhau và những nhóm này lại lẫn trong danh_sách chat với từng người riêng_lẻ , khiến họ phải cuộn thanh cuốn để tìm đến nhóm mình cần .
+Hãy nhấn vào biểu_tượng Group ở phía trên ứng_dụng Android hoặc phía dưới ứng_dụng i OS , người dùng sẽ thấy hình chiếc ghim để gom các nhóm chat quan_trọng vào một nơi , giúp họ thuận_tiện tra_cứu và tùy biến hơn .
+Tắt thông_báo chat
+Bấm vào Notifications và chọn thời_gian tắt thông_báo .
+Đôi_khi , bạn cần tập_trung làm_việc nhưng tin nhắn chat xuất_hiện dồn_dập ( nhất_là trong các Group ) khiến bạn xao_lãng .
+Nhấn vào tên người / nhóm đang chat trên ứng_dụng i OS , hoặc biểu_tượng " i " trên ứng_dụng Android , tìm đến mục Notification và chọn thời_gian tắt thông_báo theo ý_muốn .
+Với phiên_bản web , bấm vào biểu_tượng bánh_xe trên cửa_sổ chat và chọn mục " Mute   Conversation " .
+Chia_sẻ vị_trí
+Để gửi cho ai đó vị_trí của mình trên bản_đồ , bạn chỉ cần bấm vào biểu_tượng Location , sau đó điền_địa điểm và gửi đi .
+Bấm vào biểu_tượng Location ( khoanh đỏ ) để chia_sẻ vị_trí .
+Gửi ảnh GIF
+Bấm vào nút More ( ba dấu_chấm ở cuối màn_hình ) và cài_đặt GIPHY để chia_sẻ ảnh GIF ngay trong Messenger .
+Tùy biến cuộc trò_chuyện
+Khi chat với ai đó , bạn có_thể làm cho cuộc trò_chuyện sinh_động hơn bằng cách bấm vào tên người đó ở phía trên ( bản i OS ) hoặc bấm vào nút " i " ở góc phải ( bản Android ) để đặt nickname cho người chat , đổi màu tin nhắn hay gửi emoji ... ( Xem chi_tiết )
+Minh_Minh

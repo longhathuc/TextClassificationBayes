@@ -1,0 +1,21 @@
+Văn_phòng điện_tử tiết_kiệm cho Cục Thuế TP_HCM hơn 20 tỷ đồng
+Sau 3 năm đi vào vận_hành , văn_phòng điện_tử của Cục Thuế TP_HCM đã vận_hành   hơn 3,5 triệu văn_bản đến và đi , tiết_kiệm   hơn 20 tỷ đồng chi_phí giấy và mực in .
+Được sự hỗ_trợ của Sở Thông tin và Truyền_thông , UBND_TP_HCM , Ban lãnh_đạo Cục Thuế thành_phố đã triển_khai văn_phòng điện_tử trong công_tác điều_hành nội_bộ cơ_quan từ năm 2013 .
+Đây là phần_mềm cho_phép gửi nhận , xử_lý công_việc , điều_hành , thống_kê báo_cáo và lưu_trữ dữ_liệu trên hệ_thống .
+Khi bên gửi bấm chuyển thì lập_tức bên nhận sẽ nhận được và lưu_trữ trên hệ_thống nhắc việc , thống_kê , kiểm_đếm hàng ngày .
+Ngoài các chức_năng trên , văn_phòng điện_tử còn có_thể thông_báo lịch công_tác , nhắn_tin SMS đồng_loạt hàng nghìn số điện_thoại để thông_báo họp , thông_báo khẩn .
+Bên_cạnh đó , chức_năng thư_viện có tất_cả các thông_tin chung , mỗi cán_bộ khi xử_lý công_việc tự sao lưu , hệ_thống sẽ sắp_xếp trình_tự , khoa_học để khi cần người dùng có_thể vào xem .
+Văn_phòng điện_tử đã tiết_kiệm lượng tiền khá lớn cho Cục Thuế TP_HCM .
+Song_song đó , ứng_dụng này còn cho_phép người nộp thuế gửi văn_bản qua mạng , thay_vì phải đi nộp trực_tiếp ; đồng_thời cho_phép cán_bộ thuế cập_nhật , chuyển và xử_lý các văn_bản xác_minh hóa_đơn của các doanh_nghiệp ...
+Theo Cục_Thuế TP_HCM , với một văn_phòng cục và 24 chi_cục thuế trực_thuộc , 240 đội và trên 4.000 cán_bộ công_chức , chỉ cần một thông_báo của Cục Thuế gửi đến 24 chi_cục thuế quận , huyện đã có ít_nhất 240 bản giấy được in ra , chưa kể đến từng cán_bộ công_chức tự in ra khi có nhu_cầu .
+Trong khi đó trung_bình mỗi năm Cục Thuế có trên 10.000 văn_bản gửi đến 24 chi_cục thuế quận huyện .
+Điều này dẫn đến chi_phí cho giấy mực văn_phòng_phẩm hàng năm rất lớn .
+Mặt_khác , với diện_tích trên 2.000 km2 , việc di_chuyển từ quận này đến quận khác , hoặc từ các chi_cục thuế đến Cục Thuế trên địa_bàn TP_HCM mất từ một đến 2 giờ đi xe .
+Do_đó , việc vận_chuyển một văn_bản giấy ( theo đường bưu_điện hoặc đường_bộ ) đến các chi_cục thuế có_thể mất từ một buổi , một ngày hoặc 2 ngày .
+Điều này đã gây tốn nhiều sức_lực , thời_gian và vật_chất cho việc luân_chuyển văn_bản , đặc_biệt là các văn_bản khẩn rất khó có_thể truyền_đạt nhanh_chóng đến người nhận .
+Cục Thuế TP_HCM cho_biết , sau khi áp_dụng mô_hình này , số_lượng giấy_tờ , công_văn luân_chuyển trong nội_bộ giảm rõ_rệt .
+Đến nay , đã có hơn 3,5 triệu văn_bản đến và đi đã được vận_hành trên văn_phòng điện_tử thay_thế cho hình_thức sử_dụng văn_bản giấy .
+Nếu tính sơ_bộ từ con_số file văn_bản nhân bình_quân cho các phòng , chi_cục và lãnh_đạo các đơn_vị này thì số_lượng lên tới gần nửa triệu gram giấy ( tính mức tối_thiểu một file văn_bản chỉ một tờ giấy ) , tương_đương với số tiền_giấy trị_giá khoảng 20 tỷ đồng .
+Đó là chưa kể tiền mực in , photocopy cho từng đội , phát chuyển nhanh , phí lưu kho … cũng tốn_kém rất nhiều chi_phí .
+Theo Cục_Thuế TP_HCM , trong thời_gian tới , cơ_quan này sẽ cập_nhật lại quy_trình theo chuẩn ISO , triển_khai chữ_ký số cho các đơn_vị ; kết_nối liên_thông văn_bản với các sở , ban , ngành ...
+Hoài_Thu

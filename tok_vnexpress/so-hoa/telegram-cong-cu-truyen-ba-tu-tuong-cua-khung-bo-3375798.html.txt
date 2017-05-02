@@ -1,0 +1,26 @@
+Telegram - công_cụ truyền_bá tư_tưởng của khủng_bố
+Ứng_dụng hoạt_động trên i OS và Android này là công_cụ giúp IS lên_tiếng nhận trách_nhiệm trong loạt vụ đánh bom khủng_bố tại Brussels ( Bỉ ) đầu tuần làm hơn 30 người thiệt_mạng .
+Kể từ sau vụ tấn_công nhằm vào thủ_đô Paris ( Pháp )   hồi cuối năm_ngoái , IS đã tăng_cường sử_dụng ứng_dụng nhắn_tin Telegram để truyền_bá những tư_tưởng cực_đoan của mình .
+Telegram được cho là công_cụ truyền_thông hữu_ích của IS .
+Telegram đang được cho là công_cụ truyền_thông hữu_ích của những tên khủng_bố .
+Bằng_chứng là chỉ vài giờ sau vụ tấn_công tại Brussels , những tin nhắn trên Telegram bị rò_rỉ lên mạng với những lời khuyên gửi đến IS .
+Một tài_khoản Telegram có tên Information_Security yêu_cầu các IS tránh xa các mạng xã_hội như Facebook và Twitter , thay_đổi địa_điểm ngay_lập_tức , mã_hóa tài_liệu khủng_bố và chỉ truy_cập web dựa vào trình_duyệt giấu tên Tor .
+Tuy_nhiên , theo chuyên_gia an_ninh mạng với biệt_danh Grugq , đây không phải là tin nhắn từ những tên khủng_bố , mà chỉ là thông_điệp của một_số kẻ ủng_hộ IS .
+“ Những gì bị rò_rỉ trên Telegram không nằm trong kế_hoạch hoạt_động của IS .
+Đó là những hướng_dẫn mơ_hồ , thiếu thực_tế và đi ngược_lại lý_tưởng của chính bọn khủng_bố .
+Đây có_lẽ là các thông_điệp được gửi đi từ cộng_đồng những người ủng_hộ IS” , Grugq nhận_định trong một bài đăng trên trang Medium .
+Tài_khoản Information_Security cũng kêu_gọi IS bình_tĩnh , không manh_động đến khi tình_hình tại Brussels hạ nhiệt và tập_trung vào những nhiệm_vụ tiếp_theo .
+Tài_khoản này cũng cảnh_báo các thành_viên IS không được tiếp_cận Internet , trừ khi họ sử_dụng những phần_mềm mã_hóa như Tor_Network , i2P và VPN .
+Tuy_nhiên , Grugq đã chỉ_trích rằng : “ Tor , i2P hay VPN không phải là những công_cụ mã_hóa .
+Chúng là những công_cụ quyền riêng_tư cho_phép người dùng giấu tên .
+Sự thiếu hiểu_biết căn_bản về kỹ_thuật này đã thể_hiện người viết không hiểu gì về vấn_đề ” .
+“ Bài viết không đưa ra bất_kỳ lời khuyên có_ích nào cho những kẻ khủng_bố .
+Nó chỉ là những lời phát_biểu khờ_khạo của một nhóm ủng_hộ IS , mà khả_năng là đến từ Bỉ .
+Có_vẻ nhóm này đã đăng_ký theo_dõi một kênh Telegram tiếng Anh mà không hề hay biết_điều đó ” , Grugq nói thêm .
+Kể từ vụ tấn_công tại Paris , Telegram đã đánh sập 78 tài_khoản và kênh truyền_thông liên_quan đến IS .
+Mặc_dù Telegram đã cho_phép người dùng báo_cáo vi_phạm nếu họ phát_hiện hoạt_động khủng_bố tình_nghi , nhưng IS vẫn sử_dụng ứng_dụng này một_cách thường_xuyên .
+Thống_kê cho_hay , IS đã thu_nạp được 10 nghìn người theo_dõi thông_qua hơn 50 kênh trên Telegram .
+Trong số này có tài_khoản mang tên Amaq_Agency – tài_khoản đầu_tiên đưa tin về việc IS nhận trách_nhiệm vụ tấn_công tại Brussels .
+Mặc_dù Amaq_Agency tự nhận mình là một kênh báo_chí , nhưng nó đã bị chỉ_trích vì trở_thành một phát_ngôn_viên trá_hình cho IS .
+Hiện_Telegram chưa đưa ra bình_luận về vụ_việc .
+Nguyễn_Mai_Đức

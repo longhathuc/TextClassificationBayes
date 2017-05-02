@@ -1,0 +1,17 @@
+Công_nghệ ôtô ngăn người lái tiến , lùi sai cách
+Hãng_Ford cho_biết sẽ áp_dụng hệ_thống hỗ_trợ người lái với các tính_năng tự_động mới giúp ngăn các va_chạm xảy_ra ngoài ý_muốn .
+Công_nghệ nhận_diện điểm_mù , cảnh_báo va_chạm và hỗ_trợ phanh khẩn_cấp đang dần phổ_biến trên ôtô ngày_nay .
+Nhưng phần_lớn công_nghệ áp_dụng chỉ dừng ở mức cảnh_báo bằng tiếng " bíp " .
+Ford phát_triển hệ_thống mới không_chỉ cảnh_báo mà tự_động ngăn xe di_chuyển khi các yếu_tố an_toàn không đảm_bảo .
+Khi lùi xe ở những góc hẹp , camera phát_hiện người hoặc phương_tiện ở điểm_mù tài_xế không quan_sát được .
+Đồng_thời khoảng_cách quá gần cho phản_ứng của người lái đạp phanh đúng lúc và đủ lực , hệ_thống hỗ_trợ tự_động ngăn xe di_chuyển nhằm tránh va_chạm với người hoặc phương_tiện khác .
+Công_nghệ trên hoạt_động nhờ hệ_thống camera , radar hồng_ngoại gắn trên xe .
+Thiết_kế áp_dụng hiệu_quả cho đường đô_thị lẫn cao_tốc .
+Trường_hợp người lái muốn quay đầu xe nhưng hệ_thống nhận thấy có xe muốn vượt lên phía trên mà tài_xế không thấy .
+Hoặc người đi bộ nằm trong khoảng_cách có_thể va_chạm , công_nghệ hỗ_trợ phát tiếng " bíp " cảnh_báo .
+Nếu người và xe khác không chủ_động dừng lại , hệ_thống tự_động phanh xe .
+Sử_dụng hệ_thống định_vị GPS và camera quanh xe , Ford muốn ôtô cảnh_báo người lái tốt hơn khi nhận thấy xe đi vào đường một_chiều sai luật hoặc bắt_đầu vào đoạn xuống_dốc trên đường_cao_tốc , nơi các phương_tiện khác di_chuyển với tốc_độ cao .
+Tính_năng hỗ_trợ người lái mà Ford đang phát_triển còn áp_dụng trong tình_huống kẹt xe , giúp duy_trì làn_đường , mức phanh và tăng_tốc với khoảng_cách an_toàn với xe phía trước .
+Công_nghệ mà nhiều hãng cũng đang áp_dụng cho sản_phẩm của mình .
+Ford cho_biết đang trong giai_đoạn phát_triển các công_nghệ mới hỗ_trợ người lái với kế_hoạch áp_dụng trên sản_phẩm của hãng trong vòng hai năm tới .
+Phạm_Trung

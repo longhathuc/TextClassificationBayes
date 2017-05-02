@@ -1,0 +1,43 @@
+Phôi_thai loài lai người - lợn được tạo thành_công
+Các nhà_khoa_học Mỹ lần đầu_tiên tạo thành_công phôi_thai loài lai người - lợn bằng cách nuôi bào_thai lợn chứa tế_bào người , mở ra hy_vọng sản_xuất nội_tạng người_ở những loài khác trong tương_lai .
+Trong nghiên_cứu mới công_bố trên tạp_chí Cell , các nhà_khoa_học ở Viện_Nghiên cứu Sinh_học ở Salk , California , Mỹ , báo_cáo tạo thành_công phôi_thai lợn chứa tế_bào gốc đa_năng của người , International_Business_Times hôm 26/1 đưa tin .
+Cho ra_đời loài lai giữa người và động_vật thu_hút   nhiều sự quan_tâm trong những năm gần đây .
+Đây là quá_trình tạo phân_tử AND với các đoạn lấy từ hai tổ_chức sinh_vật khác_nhau trở_lên trong phòng_thí_nghiệm .
+Mục_đích cuối_cùng của nghiên_cứu này là sản_sinh những cơ_quan nội_tạng hoạt_động được ở động_vật với kích_thước , đặc_điểm giải_phẫu và hình_dáng gần giống con_người .
+Các nhà_nghiên_cứu hy_vọng có_thể sử_dụng chúng trong cấy_ghép để đối_phó với tình_trạng thiếu nội_tạng hiến tặng trên toàn_cầu .
+Tuy_nhiên , quá_trình lai_tạo vẫn còn phải trải qua một chặng đường dài .
+Những thí_nghiệm chủ_yếu hướng đến giải_quyết các trở_ngại kỹ_thuật và hiểu rõ vai_trò của tế_bào gốc đa_năng trong quá_trình đó .
+Trước khi quyết_định tạo loài lai giữa người và lợn , lúc đầu các nhà_khoa_học thí_nghiệm trên chuột_nhắt và chuột_cống , hai loài họ_hàng gần .
+" Chúng_tôi muốn tạo ra vật lai chuột_nhắt - chuột_cống để tìm_hiểu nhiều nguyên_tắc cơ_bản về loài lai .
+Chuột_nhắt và chuột_cống có họ_hàng gần với nhau và chia tách trong quá_trình tiến_hóa cách đây 15 - 20 triệu năm , nhưng giữa con_người và lợn , khoảng_cách rộng hơn " , Juan_Carlos_Izpisua_Belmonte , người đứng đầu nhóm nghiên_cứu cho_biết .
+" Do_đó trước khi chuyển sang con_người , thu_thập thêm thông_tin về loài lai và chuột_nhắt - chuột_cống là một khởi_đầu hoàn_hảo " .
+Nhóm nghiên_cứu ở Viện_Salk tạo thành_công loài lai chuột_nhắt - chuột_cống bằng cách đưa một_số loại tế_bào gốc đa_năng khác_nhau của chuột_cống vào phôi_thai chuột_nhắt .
+Sau đó , họ theo_dõi tế_bào gốc chuột_cống có_thể phát_triển thành những cơ_quan nội_tạng hoạt_động được bên trong con chuột hay không .
+Để làm_vậy , họ sử_dụng kỹ_thuật chỉnh_sửa gene để xóa những gene chuột_nhắt đóng vai_trò quan_trọng trong việc phát_triển cơ_quan nội_tạng như tim , tuyến tụy hoặc mắt , qua đó ngăn các cơ_quan này hình_thành .
+Tuy_nhiên , tế_bào gốc đa_năng phát_huy vai_trò và phân_tách thành những cơ_quan nội_tạng còn thiếu .
+" Đối_với tuyến tụy , kỹ_thuật tỏ ra hiệu_quả .
+Con lai chuột_nhắt - chuột_cống với tuyến tụy chuột_cống ra_đời và sống tới thời_kỳ trưởng_thành .
+Tuyến tụy của con vật hoạt_động tốt .
+Đối_với tim , chúng_tôi chỉ có_thể tạo ra tim ở giai_đoạn phôi_thai , chưa phải quả tim trưởng_thành , có_thể do đây là cơ_quan nội_tạng phức_tạp hơn " , Izpisua_Belmonte nói .
+Trong giai_đoạn thứ_hai của nghiên_cứu , các nhà_khoa_học tiến tới đưa tế_bào người vào phôi_thai lợn .
+Dù loài khỉ gần_gũi hơn với con_người , luật_pháp Mỹ cấm tiêm tế_bào người vào phôi_thai của các loại linh_trưởng khác .
+Ở giai_đoạn này , một_số dạng tế_bào gốc khác_nhau của người được tiêm vào và tồn_tại , dẫn tới sự ra_đời của phôi_thai loài lai người - lợn .
+Tuy_nhiên , những tế_bào gốc đa_năng của người đóng vai_trò rất ít trong quá_trình phát_triển phôi_thai .
+" Chúng_tôi có_thể phát_hiện tế_bào người_ở phôi_thai lợn , nhưng sự đóng_góp thấp hơn nhiều so với nghiên_cứu chuột_cống - chuột_nhắt " , Izpisua_Belmonte chia_sẻ .
+Nhóm nghiên_cứu vẫn chưa rõ liệu tế_bào gốc đa_năng của người thực_sự có_thể tạo thành cơ_quan nội_tạng người hoạt_động được bên trong cơ_thể lợn hay không .
+" Chúng_tôi đang tiến_hành những thí_nghiệm bằng cách kết_hợp chỉnh_sửa gene CRISPR-CAS9 ở lợn với i PSC ở người , tương_tự như đối_với loài lai chuột_nhắt - chuột_cống , để xem_xét liệu tế_bào người có dồi_dào trong một cơ_quan nội_tạng hay không .
+Ở giai_đoạn này , do mức_độ đóng_góp của tế_bào người rất thấp , chúng_tôi hy_vọng có_thể thực_hiện nhiều thử_nghiệm hơn trước khi chứng_kiến điều đó xảy_ra " , Izpisua_Belmonte giải_thích .
+Izpisua_Belmonte ước_tính cần ít_nhất 5 - 10 năm trước khi việc tạo ra cơ_quan nội_tạng người_ở động_vật thành hiện_thực .
+Trong lúc đó , các loài lai có_thể được sử_dụng để nghiên_cứu sự phát_triển phôi_thai , và có tiềm_năng áp_dụng lâm_sàng như lập mô_hình dịch_bệnh hoặc liệu_pháp thay_thế tế_bào .
+Chúng cũng cung_cấp nền_tảng mới để hiểu rõ quá_trình tiến_hóa giữa hai loài .
+Nghiên_cứu làm dấy lên nhiều câu_hỏi về đạo_đức và pháp_lý .
+Những người phản_đối lo_ngại nó sẽ dẫn đến việc tạo ra những con vật nửa người nửa lợn .
+Tuy_nhiên , khả_năng này rất khó xảy_ra .
+" Chúng_tôi dừng thai kỳ của lợn trong khoảng 21 - 28 ngày , thời_điểm rất sớm trong quá_trình phát_triển .
+Trong thời_gian này , những cơ_quan nội_tạng quan_trọng bắt_đầu hình_thành , và chúng_tôi có_thể phân_tích cách tế_bào người tương_tác với tế_bào lợn , cũng_như tế_bào người có_thể góp_phần hình_thành mô và cơ_quan nào .
+Những thông_tin này sẽ giúp_ích nhiều cho chúng_tôi trong các nghiên_cứu tương_lai nhằm phát_triển phương_pháp tránh tạo ra tế_bào não và tế_bào vi_trùng " , Izpisua_Belmonte nhấn_mạnh .
+Cộng_đồng nghiên_cứu đặc_biệt quan_tâm liệu tế_bào người có_thể góp_phần hình_thành bộ_não hay không .
+Đây là một trong những thách_thức quan_trọng nhất về mặt đạo_đức đối_với nghiên_cứu kiểu này .
+Trong báo_cáo , các nhà_khoa_học chứng_minh điều này không xảy_ra bởi tế_bào gốc đa_năng của người không_thể phân_tách thành tế_bào não .
+Tuy_nhiên , trong các thí_nghiệm tương_lai , họ vẫn cần cẩn_trọng để đảm_bảo khả_năng trên không xảy_ra .
+Phương_Hoa

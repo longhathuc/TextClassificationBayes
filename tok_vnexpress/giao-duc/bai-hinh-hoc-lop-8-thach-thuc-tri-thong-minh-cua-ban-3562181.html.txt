@@ -1,0 +1,6 @@
+Bài hình_học lớp 8 thách_thức trí thông_minh của bạn
+Chỉ với ba dữ_kiện được đưa ra trong đề_bài , liệu bạn có_thể giải được bài_toán hình_học trong đề thi đánh_giá năng_lực tư_duy toán_học quốc_tế dành cho học_sinh lớp 7-8 ?
+Cho hình_thang ABCD như hình_vẽ dưới đây :
+Biết diện_tích tam_giác AFD = 10   cm2   và F là trung_điểm BC .
+Hỏi diện_tích hình_thang ABCD là bao_nhiêu ?
+Thanh_Tâm

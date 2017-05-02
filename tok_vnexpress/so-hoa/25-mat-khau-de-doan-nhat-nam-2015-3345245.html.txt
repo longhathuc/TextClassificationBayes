@@ -1,0 +1,33 @@
+25 mật_khẩu dễ đoán nhất năm 2015
+Dù đã cảnh_báo nhưng rất nhiều người vẫn đặt mật_khẩu là chuỗi ký_tự dễ đoán như : 123456 , password , 12345678 hay qwerty ...
+Theo số_liệu từ SplashData , " 123456 " tiếp_tục là mật_khẩu phổ_biến nhất năm 2015 , thứ_hạng không thay_đổi so với năm 2014 .
+Ngoài_ra , danh_sách còn có những mật_khẩu được cho là " tệ_hại " gồm các dãy số liên_tiếp , những từ rất dễ đoán ...
+So với năm 2014 , danh_sách 25 mật_khẩu phổ_biến nhất có thêm một_số cụm_từ mới như " welcome " , " dragon " , " 1234567890 " hay những từ theo xu_hướng chẳng_hạn " solo " , " passw0rd " , " starwars " ...
+Bảng thống_kê có được nhờ việc thu_thập hàng triệu mật_khẩu bị rò_rỉ trong 4 năm của hãng nghiên_cứu đến từ Mỹ .
+Dưới đây là 25 mật_khẩu phổ_biến nhất 2015 , so_sánh thứ_hạng với 2014 :
+1 . 123456 ( không thay_đổi )
+2 . password ( không thay_đổi )
+3 . 12345678 ( tăng 1 bậc )
+4 . qwerty ( tăng 1 bậc )
+5 . 12345 ( giảm 2 bậc )
+6 . 123456789 ( không thay_đổi )
+7 . football ( tăng 3 bậc )
+8 . 1234 ( giảm 1 bậc )
+9 . 1234567 ( tăng 2 bậc )
+10 . baseball ( giảm 2 bậc )
+11 . welcome ( mới )
+12 . 1234567890 ( mới )
+13 . abc123 ( tăng 1 bậc )
+14 . 111111 ( tăng 1 bậc )
+15 . 1qaz2wsx ( mới )
+16 . dragon ( giảm 7 bậc )
+17 . master ( tăng 2 bậc )
+18 . monkey ( giảm 6 bậc )
+19 . letmein ( giảm 6 bậc )
+20 . login ( mới )
+21 . princess ( mới )
+22 . qwertyuiop ( mới )
+23 . solo ( mới )
+24 . passw0rd ( mới )
+25 . starwars ( mới )
+Bảo_Anh

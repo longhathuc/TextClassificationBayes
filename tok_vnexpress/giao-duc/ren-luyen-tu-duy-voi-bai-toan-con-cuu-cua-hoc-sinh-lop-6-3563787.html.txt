@@ -1,0 +1,9 @@
+Rèn_luyện tư_duy với bài_toán ' con cừu ' của học_sinh lớp 6
+Bài_toán về con cừu đang ăn cỏ trong đề thi đánh_giá năng_lực tư_duy Toán quốc_tế dành cho học_sinh lớp 5-6 yêu_cầu khả_năng tư_duy nhanh của bạn .
+Hãy đưa ra đáp_án trong thời_gian sớm nhất có_thể .
+Sợi dây dài 10 m .
+Thanh sắt nơi cố_định sợi dây buộc con cừu dài 3 m .
+Coi chiều dài của con cừu là không đáng_kể .
+Lấy π = 3,14 .
+Diện_tích cỏ lớn nhất mà con cừu ăn được là bao_nhiêu ?
+Thanh_Tâm

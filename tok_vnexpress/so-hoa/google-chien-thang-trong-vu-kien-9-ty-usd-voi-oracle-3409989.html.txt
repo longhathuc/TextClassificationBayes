@@ -1,0 +1,21 @@
+Google chiến_thắng trong vụ_kiện 9 tỷ USD với Oracle
+Oracle cho rằng Google vi_phạm bản_quyền trong việc sử_dụng các API Java cho hệ_điều_hành Android và đòi số tiền bồi_thường lên đến 9 tỷ USD , nhưng Tòa_án Mỹ không chấp_thuận .
+Google đã giành   thắng_lợi   trong cuộc_chiến pháp_lý với Oracle .
+Năm 2011 , Oracle đệ đơn_kiện Google khi công_ty này sử_dụng trái_phép API ( giao_diện lập_trình ứng_dụng ) cho_phép các chương_trình có_thể giao_tiếp với nhau qua nền_tảng Java .
+Cụ_thể , Oracle cáo_buộc Google đã lấy 11.500 đoạn mã của hãng cho 37 API trên Android .
+Nhưng khi đó , tòa_án liên_bang đã bác đơn Oracle vì lý_do : các API không được bảo_vệ theo luật bản_quyền của Mỹ .
+Đến năm 2014 , Oracle tiếp_tục gửi đơn phúc_thẩm và giành chiến_thắng .
+Phán_quyết cho rằng Google đã vi_phạm bản_quyền đối_với các API Java , khiến gã khổng_lồ tìm_kiếm đối_mặt với khoản bồi_thường lên đến 9 tỷ USD .
+Nhưng quan_trọng hơn , quyết_định của tòa khiến ngành công_nghiệp di_động lo_ngại , bởi sẽ có hàng triệu thiết_bị chạy Android và phần_mềm chạy trên nền_tảng này bị ảnh_hưởng .
+Google đã kháng_cáo .
+Đến 27/5/2016 , thẩm_phán tòa_án Northern_District ( California , Mỹ ) tiếp_tục đưa ra phán_quyết .
+Theo đó , tòa cho rằng việc Google đưa vào các dòng mã lệnh có bản_quyền của Oracle cho nền_tảng Android là " sử_dụng hợp_lý " ( fair use ) .
+" Google có đủ bằng_chứng để thuyết_phục tòa , rằng mục_đích sử_dụng các API là hợp_lý .
+Theo luật bản_quyền Mỹ , một_số thành_phần vẫn có_thể được sử_dụng lại ' giới_hạn ' và ' có mục_đích ' cho một công_việc cụ_thể mà không cần xin_phép chủ_sở_hữu tác_quyền " , thẩm_phán tòa_án tuyên_bố .
+Ngay sau chiến_thắng lịch_sử , Google đã hoan_nghênh phán_quyết của tòa , đồng_thời cho rằng mọi người sẽ hưởng lợi từ nó .
+" Chiến_thắng hôm_nay dành cho tất_cả chúng_ta , những_ai đang sử_dụng hệ_sinh_thái Android cũng_như cộng_đồng lập_trình Java .
+Nó sẽ là bước giúp các nhà_phát_triển có_thể xây_dựng nên những sản_phẩm sáng_tạo hơn_nữa để phục_vụ cho mọi người trong tương_lai " , đại_diện Google cho_biết .
+Oracle cho_biết sẽ kháng_cáo .
+" Chúng_tôi tin rằng Google đã vi_phạm bản_quyền sáng_chế .
+Công_ty sẽ làm mọi cách để chấm_dứt những hành_vi bất_hợp_pháp của Google " , Dorian_Daley , đại_diện Oracle , nhấn_mạnh .
+Bảo_Lâm ( Theo IBTimes )

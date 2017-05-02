@@ -1,0 +1,15 @@
+Lý_do MacBook Pro không có tùy chọn RAM 32 GB
+Có_giá bán khởi_điểm lên tới hơn 40 triệu đồng nhưng MacBook Pro mới vẫn không sở_hữu RAM tối_đa 32 GB do những lo_ngại về pin .
+MacBook có giới_hạn tùy chọn RAM 16 GB .
+16 GB_RAM có_thể là đủ với đa_số khách_hàng nhưng con_số này chưa làm thỏa_mãn những người dùng chuyên_nghiệp .
+Với mức khởi_điểm lên tới gần 2.000 USD , tùy chọn cấu_hình tối_đa RAM chỉ 16 GB được cho là không tương_xứng với MacBook Pro_Retina có TouchBar .
+Theo   Phó_chủ_tịch cấp cao phụ_trách marketing của Apple - Phil_Schiller , tăng dung_lượng RAM sẽ ảnh_hưởng đến nhiều kết_cấu khác của máy .
+" Để hỗ_trợ bộ_nhớ 32 GB , sẽ cần sử_dụng bộ_nhớ DDR không phải loại điện áp_thấp và cũng đòi_hỏi thiết_kế khác cho bảng mạch .
+Không_gian dành cho pin cũng bị giảm đi .
+Cả hai yếu_tố này đều tác_động trực_tiếp đến tuổi_thọ pin " , ông phát_biểu .
+Theo   Foxbusiness , một nguyên_nhân khác có_thể đến từ đối_tác sản_xuất vi_xử_lý Intel .
+MacBook có_thể dùng RAM lớn hơn nhưng vẫn tiết_kiệm điện_năng với loại bộ_nhớ   LPDDR4 .
+Tuy_nhiên , bảng mạch điều_khiển bộ_nhớ được tích_hợp cùng bộ_xử_lý nên cần sự hỗ_trợ qua_lại .
+Trong khi đó , chip Intel_Core i thế_hệ 6 trong MacBook Pro lại không hỗ_trợ   LPDDR4 .
+Kết_quả là dù rất muốn nhưng Apple buộc phải sử_dụng công_nghệ   LPDDR3 cũ .
+Để chờ_đợi nền_tảng xử_lý mới của Intel hỗ_trợ , Apple có_thể phải chờ tới Core i thế_hệ thứ 8 trình_làng .

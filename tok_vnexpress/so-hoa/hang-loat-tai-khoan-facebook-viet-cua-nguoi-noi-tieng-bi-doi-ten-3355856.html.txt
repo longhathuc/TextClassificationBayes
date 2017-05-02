@@ -1,0 +1,23 @@
+Hàng_loạt tài_khoản Facebook_Việt của người nổi_tiếng bị đổi tên
+Nhiều tài_khoản Facebook có lượng người theo_dõi lớn như Sơn_Tùng MTP , Gào ... đã bất_ngờ bị đổi sang những cái tên lạ mà không nhận được thông_báo nào từ Facebook .
+Tài_khoản Gào ( Vũ_Phương_Thanh ) , với hơn 350.000 người theo_dõi , đã bị đổi thành " Vũ_Đình_Dũng " mà không rõ nguyên_nhân , cũng_như không để lại dấu_vết ở phần lịch_sử thao_tác cá_nhân trên Facebook .
+Gào khẳng_định trên Facebook rằng tài_khoản của mình bị hack từ ngày 14/2 .
+Cô nhận được khá nhiều tin nhắn của những người tự_xưng là hacker , đề_nghị trả tiền để nhận hỗ_trợ .
+Tuy_nhiên , thay vào đó , cô đã liên_hệ trực_tiếp với Facebook để thông_báo về sự_cố và hiện tài_khoản đã được trả lại đúng tên .
+Trong khi đó , trang Sơn_Tùng MTP bị chuyển sang_tên lạ không kém là " Đạo_Đan_Lê " .
+Ngoài_ra , nhiều thành_viên Facebook , phần_lớn đều có lượng người theo_dõi đông_đảo , cũng bị đổi một_cách vô_lý và chưa lấy lại được tên cũ .
+Tài_khoản của ca_sĩ Sơn_Tùng với hơn 1,1 triệu người theo_dõi bị đổi thành Đạo_Đan_Lê .
+Hiện chưa rõ tình_trạng bị đổi tên này là do tài_khoản của người dùng bị hack , hay do kẻ xấu đã lợi_dụng sơ_hở trong cơ_chế đổi tên của Facebook .
+Mạng xã_hội lớn nhất thế_giới có cung_cấp tiện_ích " Changing_Your_Language - Specific_Name " nhằm giúp các thành_viên đến từ những nước sử_dụng chữ tượng_hình như Trung_Quốc , Nhật_Bản ... có_thể nhập chính_xác tên của họ .
+Lợi_dụng điều này , kẻ xấu có_thể thực_hiện một_số bước như giả_mạo IP sang các địa_chỉ như Nhật_Bản , tìm_kiếm e - mail đăng_nhập của nạn_nhân , tải một chứng_minh_thư có tên như Vũ_Đình_Dũng và yêu_cầu Facebook đổi tên .
+Để tránh rơi vào tình_trạng trên , người dùng Facebook cần thực_hiện các bước để bảo_mật tài_khoản của mình .
+Thứ nhất , để tránh bị mất tài_khoản , người dùng nên thận_trọng khi bấm vào đường link lạ , không nên tải phần_mềm không rõ nguồn_gốc cũng_như cần đặt mật_khẩu hai lớp cho Facebook .
+Khi đặt mật_khẩu hai lớp , mỗi lần đăng_nhập tài_khoản , Facebook sẽ gửi mã đến điện_thoại của người dùng và họ phải nhập mã này mới có_thể truy_cập .
+Do_đó , nếu mật_khẩu rơi vào tay người lạ , người đó cũng không_thể sử_dụng tài_khoản của bạn vì thiếu mã bảo_mật .
+Thứ_hai , nhiều khả_năng địa_chỉ e - mail mà các thành_viên sử_dụng để đăng_ký Facebook đã lọt vào tay kẻ xấu .
+Bạn nên đổi sang một e - mail khác bảo_mật hơn và ít người biết đến hơn .
+Để thực_hiện đổi , bạn truy_cập mục Settings > General > Email .
+Tại đây , bấm vào phần " Add another e - mail " để nhập địa_chỉ mới .
+Facebook sẽ gửi mã_số đến hòm_thư mới này để người dùng tiến_hành xác_thực .
+Sau đó , chọn Primary_Contact ( Thông_tin liên_hệ chính ) là địa_chỉ thư_điện_tử mới này và xóa địa_chỉ e - mail cũ .
+Châu_An

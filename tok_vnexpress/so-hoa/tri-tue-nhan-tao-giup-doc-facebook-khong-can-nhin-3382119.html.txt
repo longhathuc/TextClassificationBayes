@@ -1,0 +1,15 @@
+Trí_tuệ_nhân_tạo giúp ' đọc ' Facebook không cần nhìn
+Facebook triển_khai hệ_thống AI ( trí_tuệ_nhân_tạo ) có_thể mô_tả chi_tiết các bức ảnh để giúp người khiếm_thị có_thể tiếp_cận mạng xã_hội dễ_dàng hơn .
+" Trên toàn thế_giới , có hơn 39 triệu người mù và hơn 246 triệu người khiếm_thị .
+Chúng_tôi hy_vọng công_nghệ thay_thế hình_ảnh dưới dạng text sẽ giúp họ trải_nghiệm mạng xã_hội như bao thành_viên khác " , chuyên_gia   Jeffrey_Wieland của Facebook chia_sẻ trên blog .
+Facebook AI đọc thông_tin về ảnh cho người dùng .
+Mỗi ngày , người dùng đăng trung_bình 2 tỷ bức ảnh lên Facebook , Instagram , Messenger và WhatsApp .
+Sử_dụng công_nghệ nhận_diện vật_thể , khi bắt_gặp một bức ảnh , hệ_thống AI sẽ chuyển_đổi thông_tin về tấm hình dưới dạng văn_bản , lời_nói .
+Người có thị_lực kém sẽ nghe nội_dung mô_tả , chẳng_hạn : " Trong ảnh có hai người đeo kính , mỉm cười , bầu_trời , bên ngoài , nước " .
+Công_nghệ này chưa hoạt_động tốt nhưng có cơ_chế học_hỏi để tiến_bộ theo thời_gian .
+Hiện_Facebook mới thử_nghiệm trên các thiết_bị i OS và sử_dụng ngôn_ngữ tiếng Anh .
+Saqib_Shaikh ( trái ) có_thể đi_lại , biết ai đang đứng đối_diện , đọc menu ... nhờ sự   hỗ_trợ từ   Seeing AI của Microsoft .
+Tại sự_kiện Build 2016 diễn ra tuần trước , Microsoft cũng giới_thiệu công_nghệ Seeing AI : một cặp kính kết_nối với smartphone để giúp người khiếm_thị , như Saqib_Shaikh , có_thể chụp ảnh và biết anh đang nhìn gì , ví_dụ biểu_hiện nét_mặt của người đối_diện ...
+Seeing AI cũng giúp Shaikh " đọc " các món ăn trong nhà_hàng kể_cả khi thực_đơn không dùng chữ_nổi .
+Chiếc kính sẽ chụp ảnh menu và tả lại các thông_tin trên đó .
+Châu_An

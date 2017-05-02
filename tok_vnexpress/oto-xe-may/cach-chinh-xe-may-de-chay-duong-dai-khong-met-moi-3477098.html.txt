@@ -1,0 +1,5 @@
+Cách chỉnh xe_máy để chạy đường dài không mệt_mỏi
+Lái_xe cần biết cách điều_chỉnh tay_lái , tay côn , phanh , yên xe thậm_chí gác chân cho phù_hợp với tư_thế và tầm_vóc cơ_thể .
+Chạy xe_máy đường dài khiến thân người luôn ở trong một tư_thế , gây mệt_mỏi .
+Để hạn_chế tình_trạng này , người lái phải tạo cho mình tư_thế phù_hợp , thoải_mái khi lái đồng_thời khả_năng vận_hành xe tốt nhất .
+Dưới đây là cách thiết_lập các bộ_phận theo Cycleworld .

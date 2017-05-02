@@ -1,0 +1,15 @@
+Pin_Mặt_Trời nhẹ như bong_bóng xà_phòng
+Các nhà_khoa_học Mỹ phát_minh loại pin quang_điện siêu mỏng và siêu nhẹ , có_thể đặt trên đỉnh những bong_bóng xà_phòng mà không làm vỡ chúng .
+Trong nghiên_cứu công_bố trên tạp_chí Organic_Electronics , các nhà_khoa_học cho_biết chìa_khóa để tạo ra loại pin mới là kết_hợp sản_xuất pin , chất_xúc_tác hóa_học và lớp phủ bảo_vệ trong cùng một quá_trình .
+" Tấm pin nhẹ đến mức bạn thậm_chí không biết đến sự tồn_tại của nó trên áo_quần hay sổ_tay " , Science_Alert dẫn lời Vladimir_Bulovi ć , nhà_nghiên_cứu ở Viện_Công nghệ Massachusetts .
+Một lợi_ích khi kết_hợp pin Mặt_Trời và chất_xúc_tác hóa_học là tác_dụng bảo_vệ trước bụi và ô_nhiễm .
+Nhóm nghiên_cứu sử_dụng một polymer dẻo tên parylene để làm chất_xúc_tác hóa_học và chất phủ , trong khi vật_liệu hữu_cơ DBP ( dibutyl phthalate ) được dùng để tạo lớp hấp_thụ ánh_sáng cơ_bản .
+Khác với những phương_pháp sản_xuất pin Mặt_Trời thông_thường , quá_trình mới diễn ra trong một buồng chân_không ở nhiệt_độ phòng mà không cần sử_dụng dung_dịch hòa_tan hoặc chất hóa_học khác .
+Nhóm nghiên_cứu vận_dụng kỹ_thuật kết_tủa hơi , trong đó nhiệt_độ , áp_suất , phản_ứng_hóa_học cho ra_đời lớp phủ rất mỏng trên một vật_liệu cụ_thể , để cùng lúc sản_xuất pin Mặt_Trời và chất_xúc_tác .
+Các nhà_nghiên_cứu cho_biết kỹ_thuật này tạo nên bước đột_phá vô_cùng quan_trọng .
+Kết_quả là những tấm pin siêu mỏng và linh_hoạt , chỉ dày bằng 1/5 sợi tóc người và bằng 1/1000 loại pin thủy_tinh hiện_nay ( khoảng hai micromet ) , nhưng vẫn có_thể chuyển ánh_sáng Mặt_Trời thành điện một_cách hiệu_quả .
+" Nếu thở quá mạnh , bạn có_thể thổi bay nó " , Joel_Jean , một thành_viên nhóm nghiên_cứu , nói .
+Theo các nhà_phát_minh , phương_pháp sản_xuất mới giúp đặt pin Mặt_Trời trên các vật_liệu như vải và giấy .
+Các tấm pin kiểu này cũng hữu_dụng ở trong vũ_trụ hoặc trên độ cao_lớn , nơi yếu_tố khối_lượng rất quan_trọng .
+Tuy_nhiên , loại pin Mặt_Trời mới cần thêm vài năm để hoàn_thiện trước khi sản_xuất hàng_loạt .
+Phương_Hoa

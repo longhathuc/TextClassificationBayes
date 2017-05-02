@@ -1,0 +1,12 @@
+Đáp_án bài_toán đón con thử_thách khả_năng của bạn
+Bài_toán tính thời_gian David đi bộ chỉ được giải_quyết khi bạn tìm ra thời_điểm hai bố_con cậu_bé gặp nhau trên đường .
+Đề_bài :
+David được bố đón từ trường_học về vào 6h chiều mỗi ngày .
+Để đón được con , bố David phải đi từ nhà đến trường và đèo con từ_trường về nhà .
+Một ngày , David được cô_giáo cho về sớm lúc 5h chiều .
+David đi bộ trên con đường mà bố thường đi đón cậu .
+Đi được một đoạn thì David gặp bố và được bố đèo về trên quãng đường còn lại .
+Kết_quả , David về nhà sớm hơn 50 phút so với mọi ngày .
+Coi như bố của David không biết cậu về sớm nên vẫn đi đón như mọi_khi với tốc_độ không đổi .
+Hỏi_David đã đi bộ được bao_nhiêu phút trước khi gặp bố ?
+> > Bài_toán đón con thử_thách khả_năng tính_toán của bạn

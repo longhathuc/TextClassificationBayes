@@ -1,0 +1,36 @@
+Điểm nổi_bật của smartphone Obi MV1
+Smartphone mới ra_mắt của Obi_Worldphone chạy hệ_điều_hành Cyanogen tối_ưu_hóa hiệu_suất và mang đến nhiều trải_nghiệm mới_mẻ .
+Cyanogen là một trong những bản ROM tùy biến thông_dụng được phát_triển dựa trên bộ nguồn Android .
+Bản ROM này được đánh_giá cao bởi khả_năng cải_thiện hiệu_suất , nâng cao trải_nghiệm Android cho người dùng .
+Trên smartphone Obi MV1 RAM 2GB , hệ_điều_hành Cyanogen thể_hiện đậm_nét trong phần thiết_lập cũng_như tinh_chỉnh trong hệ_thống , cho_phép thay_đổi rất nhiều thiết_lập so với phiên_bản Android thông_thường .
+Thông_tin sản_phẩm xem tại đây .
+Sau khi nhận phản_hồi tích_cực từ người dùng cho bản thử_nghiệm tại MWC 2016 , MV1 RAM 2GB ra_mắt bản thương_mại .
+Việt_Nam là thị_trường đầu_tiên hãng Obi_Worldphone chọn giới_thiệu mẫu sản_phẩm này .
+Dưới đây là những điểm nổi_bật của Obi MV1 RAM 2GB chạy hệ_điều_hành Cyanogen .
+Cá_nhân hóa thiết_bị
+Khả_năng tùy biến giao_diện giúp tạo nên dấu_ấn cá_nhân trên thiết_bị .
+Người dùng thoải_mái lựa_chọn font chữ , biểu_tượng ứng_dụng , âm báo , cách hiển_thị thông_báo hay thậm_chí điều_chỉnh các nút vật_lý .
+Tính_năng Live_Display giúp tùy chỉnh ánh_sáng màn_hình dựa trên thời_gian hiện_tại , sáng hơn dưới ánh nắng rực_rỡ và giảm sáng khi trong bóng_tối .
+Điều này phần_nào làm bớt đi ảnh_hưởng của ánh_sáng phát ra từ thiết_bị đến mắt người dùng .
+Khả_năng bảo_mật
+Hệ_điều_hành Cyanogen nâng độ bảo_mật cho người dùng Obi MV1 RAM 2GB bằng cách tăng cường_độ phức_tạp cho kiểu mật_khẩu dạng hình_vẽ ( pattern ) .
+Nhờ vậy , các tài_liệu riêng_tư sẽ được bảo_vệ ở mức cao hơn .
+Tính_năng Privacy_Guard cho quyền kiểm_soát với các ứng_dụng đã cài_đặt hoặc lựa_chọn những quyền mặc_định cho các ứng_dụng sắp cài_đặt trong tương_lai .
+Với tính_năng này , người dùng sẽ chủ_động lựa_chọn thông_tin cá_nhân , xem_xét việc có cho_phép các ứng_dụng truy_cập vị_trí , danh_bạ hay các thông_tin khác ngay trên màn_hình ứng_dụng .
+Nhờ vậy Obi MV1 RAM 2GB hạn_chế được khả_năng người dùng bị đánh_cắp thông_tin cá_nhân qua các ứng_dụng lạ .
+Điều này khác_biệt với smartphone chạy Android gốc .
+Trong khi Android không hỗ_trợ tính_năng chặn cuộc_gọi , tin nhắn thì Cyanogen cải_tiến hơn ở điểm này .
+Người dùng có_thể lựa_chọn một_số nào_đó trong danh_bạ ( hoặc cả số mới ) để chặn hoàn_toàn cả cuộc_gọi lẫn tin nhắn hay chỉ chặn cuộc_gọi hoặc tin nhắn tùy theo yêu_cầu .
+Hoạt_động êm mượt , tiết_kiệm năng_lượng
+Một ưu_điểm khác của Cyanogen là khả_năng tự loại_bỏ những phần_mềm rác hay các tác_vụ " thừa_thãi " gây chậm máy , giúp cho thiết_bị hoạt_động hiệu_quả , êm mượt hơn .
+Nhờ vậy , thời_lượng pin cải_thiện đáng_kể .
+Nhờ đó dung_lượng pin Obi MV1 RAM 2GB chỉ 2.500 mAh nhưng vẫn đảm_bảo cho máy thời_gian hoạt_động lâu_dài .
+Thiết_kế
+Obi MV1 RAM 2GB tiếp_tục trung_thành với phong_cách thiết_kế bất đối_xứng đặc_trưng của Obi với cạnh kim_loại trên cứng_cáp và cạnh dưới bo tròn .
+Máy sở_hữu màn_hình nổi 5 inch HD_IPS cho góc nhìn rộng và màu_sắc hiển_thị tốt , kính cường_lực Corning_Gorilla_Class 3 chống trầy hiệu_quả .
+Chip_Qualcomm_Snapdragon 212 1,3 Hz_Quad - core cho khả_năng xử_lý mạnh_mẽ .
+Công_nghệ DTS Sound cho chất_lượng âm_thanh sống_động , chất_lượng âm_thanh được khôi_phục ngay cả khi nén file .
+Hệ_thống loa cải_thiện giúp tránh tình_trạng rè nhiễu , đảm_bảo âm_thanh chuẩn dù ở bất_cứ nơi đâu .
+Obi MV1 RAM 2GB có_giá bán_lẻ 3,499 triệu đồng .
+Digiworld là nhà phân_phối chính_thức duy_nhất và phát_triển cho Obi_Worldphone tại thị_trường Việt_Nam .
+Minh_Trí

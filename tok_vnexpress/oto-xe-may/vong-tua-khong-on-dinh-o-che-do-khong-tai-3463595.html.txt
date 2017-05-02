@@ -1,0 +1,2 @@
+Vòng tua không ổn_định ở chế_độ không tải ?
+Ở chế_độ chạy không tải , khi mới khởi_động buổi_sáng , số vòng quay ban_đầu lớn để nhanh làm nóng máy sau đó tự_động về ở vòng tua thấp hơn ( Kim_Quyên ) .

@@ -1,0 +1,7 @@
+Facebook lại đổi trật_tự News_Feed
+Mạng xã_hội lớn nhất thế_giới đang triển_khai thuật_toán mới để theo_dõi các hoạt_động của người dùng trên News_Feed ( Dòng tin_tức ) .
+Các kỹ_sư   Cheng_Zhang và Si_Chen chia_sẻ trên blog của Facebook rằng : " News_Feed sẽ bắt_đầu tính đến những khả_năng như có_thể bạn muốn thấy câu_chuyện này ở vị_trí đầu trên News_Feed hay có_thể bạn sẽ like , bình_luận và chia_sẻ nội_dung này hơn nội_dung khác " .
+Nói cách khác , Facebook sẽ cố_gắng phân_tích thói_quen của các thành_viên để hiển_thị thông_tin mà mạng xã_hội nghĩ là người dùng muốn đọc và dự_kiến tương_tác nhiều nhất .
+Trong những năm qua , Facebook đã vài lần thay_đổi thuật_toán để giúp thành_viên không bỏ lỡ những thông_tin quan_trọng và hạn_chế các nội_dung rác .
+Tuy_nhiên , người dùng đôi_khi vẫn bị quá_tải khi trên News_Feed của họ tràn_ngập các đường link đang gây xôn_xao nào_đó dù họ không hề có hoạt_động tương_tác với những nội_dung đó .
+Minh_Minh

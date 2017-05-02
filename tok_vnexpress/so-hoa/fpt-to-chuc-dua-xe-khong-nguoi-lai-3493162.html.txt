@@ -1,0 +1,16 @@
+FPT tổ_chức đua xe không người lái
+Cuộc_thi lập_trình ứng_dụng của Tập_đoàn FPT năm nay có chủ_đề Xe không người lái và sẽ diễn ra từ tháng 11/2016 đến tháng 4/2017 .
+Cuộc_Đua_Số là cuộc_thi công_nghệ dành cho sinh_viên các trường đại_học Việt_Nam .
+Các đội tham_gia sẽ lập_trình điều_khiển xe mô_hình và   đua với nhau trên sa hình mô_phỏng đường_phố Việt_Nam .   Mỗi đội lọt vào vòng chung_kết được cung_cấp ôtô mô_hình đã được thiết_lập sẵn và bộ thư_viện mã nguồn mở để thi_đấu .
+Xe không người lái với sự hỗ_trợ của công_nghệ kết_nối được đánh_giá sẽ thay_đổi cách con_người tham_gia giao_thông chứ không đơn_thuần là thú tiêu_khiển hạng sang của giới nhà giàu .
+Elon_Musk của Tesla hay Larry_Page của Google đều tin đây là tương_lai của giao_thông .   Khi
+được lập_trình điều_khiển , xe sẽ lưu_thông theo trật_tự cũng_như biết tính_toán đường đi hơn so với con_người , nhờ đó tiết_kiệm năng_lượng và chi_phí .
+Chủ_đề các cuộc_thi công_nghệ của FPT tập_trung vào những xu_hướng mới nhất trên thế_giới như lập_trình robot , điều_khiển bằng giọng nói , trí_tuệ_nhân_tạo … Công_nghệ tự_động , trong đó có xe không người lái , đang thu_hút sự tham_gia của nhiều ông lớn trên thế_giới như Google , Tesla , Uber .
+" Mục_tiêu lớn nhất của các cuộc_thi công_nghệ do FPT tổ_chức là giúp các bạn trẻ xây_dựng nền_tảng vững_chắc để đón_nhận cơ_hội và thành_công trong cuộc cách_mạng số đang diễn ra mạnh_mẽ trên toàn thế_giới .
+Chúng_tôi kỳ_vọng cuộc_thi sẽ giúp phát_hiện những sinh_viên tiềm_năng cùng FPT tiên_phong trong cuộc cách_mạng số " , ông Bùi_Quang_Ngọc , Tổng_giám_đốc FPT , chia_sẻ .
+Tổng giá_trị giải_thưởng của Cuộc đua số 2016-2017 là 700 triệu đồng .
+Trong đó , giải nhất trị_giá 450 triệu đồng , gồm hiện_vật và một chuyến tham_quan thung_lũng Silicon ( Mỹ ) cho các thành_viên đội thi , giải nhì trị_giá 30 triệu đồng , hai giải ba mỗi giải trị_giá 20 triệu đồng và 8 giải cho đội về nhất trong các trận sơ loại , mỗi giải 10 triệu đồng .
+Để tham_gia , sinh_viên cần có kiến_thức xử_lý ảnh ADAS , học máy thống_kê , lập_trình nhúng , trí_tuệ_nhân_tạo , lập_trình trên Linux , sử_dụng ngôn_ngữ_lập_trình C / C+ + .
+Từ ngày 1/11 đến 30/11 , sinh_viên có_thể lập đội 3-5 thành_viên và gửi hồ_sơ qua trang_web   cuocduaso.fpt.com.vn .   Ban tổ_chức sẽ thực_hiện 8 trận sơ loại tại các trường để tìm ra đội đại_diện cho từng trường vào vòng chung_kết .
+Các đội thi lọt vào chung_kết ( từ   16/1 đến tháng 4/2017 )   sẽ được đào_tạo , cung_cấp xe ôtô mô_hình và bộ mã nguồn mở để thi_đấu .
+Dự_kiến trận chung_kết sẽ diễn ra_vào trung_tuần tháng 4/2017 .

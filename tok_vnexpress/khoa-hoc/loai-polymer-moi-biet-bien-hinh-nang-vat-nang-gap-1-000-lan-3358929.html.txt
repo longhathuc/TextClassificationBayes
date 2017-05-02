@@ -1,0 +1,17 @@
+Loại polymer mới biết biến_hình , nâng vật nặng gấp 1.000 lần
+Các nhà_khoa_học Mỹ đã phát_triển thành_công một loại polymer nhạy nhiệt đặc_biệt , có_thể thay_đổi hình_dạng theo nhiệt_độ và nâng được vật nặng gấp 1.000 lần trọng_lượng của nó .
+Theo Science_Alert , phạm_vi ứng_dụng của loại vật_liệu này rất rộng , từ các thiết_bị y_tế làm_việc theo thân_nhiệt , tới quần_áo tự_động co lại cho vừa với cơ_thể và các ứng_dụng cơ_học .
+" Điều_chỉnh nhiệt_độ kích_hoạt chỉ là một khía_cạnh " , Mitch_Anthamatten , một trong những nhà_nghiên_cứu ở đại_học Rochester cho_biết .   " Chúng_tôi sẽ thiết_kế các vật_liệu có khả_năng lưu_trữ nhiều năng_lượng đàn_hồi để thực_hiện nhiều công_việc cơ_khí hơn trong quá_trình trở_lại hình_dạng ban_đầu " .
+Hiện thiết_kế của một mạng_lưới polymer có_thể lưu_trữ đủ năng_lượng đàn_hồi để nâng được một lon soda , chỉ cần một đoạn vật_liệu bằng sợi dây giày .
+" Loại vật_liệu mới này của chúng_tôi giống như một dây cao_su có_thể giữ nguyên hình_dạng sau khi bị kéo giãn " , Anthamatten nói .
+" Nhưng chỉ cần một cái chạm nhẹ bằng ngón_tay là nó trở_về hình_dạng ban_đầu .
+Hầu_hết các ứng_dụng của polymer ghi_nhớ hình_dạng hiện_nay đều yêu_cầu vật_liệu phải tác_động lên môi_trường xung_quanh , nhưng rất hiếm nghiên_cứu đo_đạc cụ_thể năng_lượng cơ_học mà polymer nhớ hình_dạng có_thể sinh_ra " .
+Nó có_thể được lập_trình để giữ một hình_dạng tạm_thời nào_đó , trước khi các kích_thích nhiệt đưa nó về hình_dạng ban_đầu .
+Các nhà_phát_minh coi đây là một loại " nhựa có não và cơ_bắp " – cách nó kiểm_soát quá_trình kết_tinh xảy_ra khi được làm lạnh hoặc kéo giãn .
+Khi vật_liệu thông_thường bị biến_dạng , các chuỗi polymer được kéo_dài tại_chỗ để tạo thành các vi tinh_thể , và các vùng polymer nhỏ được sắp_xếp thẳng theo cùng một hướng .
+Khi số_lượng vi tinh_thể tăng lên , hình_dạng mới trở_nên bền_vững hơn .
+Do_đó , nhựa thông_thường khó lấy lại hình_dáng cũ sau khi bị biến_dạng .
+Bằng cách sử_dụng các lớp lót phân_tử ức_chế ( không làm dừng hẳn ) quá_trình tinh_thể hóa này , các nhà_nghiên_cứu có_thể thiết_lập một " điểm nóng_chảy " mà tại đó sự thay_đổi hình_dạng được kích_hoạt .
+Nhóm điều_chỉnh số_lượng và loại lót được sử_dụng , cũng_như thử_nghiệm các mô_hình phân_phối của họ thông_qua các polymer , để đạt được kết_quả cuối_cùng .
+Nghiên_cứu này được công_bố hồi đầu tháng 2 .
+Nguyễn_Thành_Minh   ( Video : Đại_học Rochester )

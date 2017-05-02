@@ -1,0 +1,14 @@
+1.220 ứng_dụng i OS dính lỗi làm lộ ảnh cá_nhân
+Có tới hơn 1.000 ứng_dụng trên Apple_Store bị ảnh_hưởng bởi lỗ_hổng có_thể tiếp_tay cho kẻ xấu mở cộng hậu trên i Phone , iPad .
+Hãng bảo_mật FireEye ( Mỹ ) phát_hiện rất nhiều ứng_dụng được phát_hành trên kho ứng_dụng của Apple có_thể mở_đường cho kẻ tấn_công truy_cập thư_viện ảnh , dữ_liệu clipboard , microphone và nhiều thông_tin cá_nhân khác trên thiết_bị di_động .
+Nguyên_nhân là do hệ_thống JSPatch mà các nhà_phát_triển vẫn sử_dụng để " đi_tắt " , nhằm tránh quá_trình kiểm_duyệt kéo_dài lê_thê của Apple , đã gặp lỗi bảo_mật nghiêm_trọng .
+Ảnh minh_họa : V3 .
+Apple có những tiêu_chuẩn nghiêm_ngặt đối_với các ứng_dụng trên App_Store .
+Kể_cả khi các nhà_phát_triển muốn phát_hành phiên_bản mới hoặc vá lỗi trên ứng_dụng thì họ cũng phải chờ_đợi khá lâu .
+Do_đó , cộng_đồng các nhà_phát_triển đã tìm_kiếm những giải_pháp thay_thế , " đi vòng " qua quá_trình kiểm_tra của Apple .
+Trong số này có JSPatch giúp họ cập_nhật ứng_dụng nhanh_chóng .
+Tuy_nhiên , JSPatch tồn lại một lỗ_hổng mà kẻ xấu có_thể lợi_dụng để chỉnh_sửa trạng_thái của dịch_vụ di_động cũng_như truy_cập từ xa nhằm lấy ảnh cá_nhân từ những chiếc i Phone có cài_đặt các ứng_dụng bị ảnh_hưởng .
+FireEye không công_bố tên của các ứng_dụng được phát_triển thông_qua JSPatch mà chỉ khẳng_định số_lượng là 1.220 .
+" Lời khuyên muôn_thuở là người dùng chỉ nên cài những ứng_dụng thực_sự cần_thiết và đáng tin_cậy .
+Hãy thận_trọng trước những phần_mềm đòi bạn phải cho_phép tiếp_cận quá nhiều thông_tin " , đại_diện FireEye nhấn_mạnh .
+Châu_An

@@ -1,0 +1,10 @@
+Trang_web Tòa trọng_tài bị sập sau phán_quyết ' đường lưỡi bò '
+Sau khi   Tòa_Trọng tài Thường_trực ( PCA ) ra phán_quyết về vụ tranh_chấp ở biển Đông giữa Trung_Quốc và Philippines , website của cơ_quan này đã không_thể truy_cập được .
+Website của PCA đã gặp sự_cố   và mất khả_năng truy_cập sau phán_quyết " đường lưỡi bò " .
+Tòa_Trọng tài Thường_trực đã tuyên_bố Trung_Quốc không có cơ_sở pháp_lý để đòi quyền lịch_sử với các nguồn tài_nguyên bên trong " đường lưỡi bò " .
+Không lâu sau khi phán_quyết được đưa ra , người dùng không_thể truy_cập đến website của PCA tại địa_chỉ   http : / / www.pcacases.com .
+Cụ_thể , đến khoảng 20h30 , website Tòa_Trọng tài Thường_trực liên_tục hiện thông_báo " 500 - Internal_Server_Error " .
+Theo các chuyên_gia công_nghệ đó có_thể là lỗi trên server hay có quá nhiều người truy_cập cùng một lúc .
+Một_số trường_hợp , khi truy_cập địa_chỉ trên sẽ tự_động tải về một file có tên " download " , dung_lượng khoảng 70 byte nhưng không có phần đuôi mở_rộng .
+Trang   Inquirer ghi_nhận , website của Tòa_Trọng tài Thường_trực đã gặp hiện_tượng khó truy_cập một_vài giờ trước khi phán_quyết " đường lưỡi bò " được đưa ra .
+Còn_Bloomberg cho_biết vào tháng 10/2015 , khi diễn ra phiên_tòa kéo_dài một tuần trong vụ tranh_chấp ở Biển_Đông , trang_web của PCA cũng từng bị sập .

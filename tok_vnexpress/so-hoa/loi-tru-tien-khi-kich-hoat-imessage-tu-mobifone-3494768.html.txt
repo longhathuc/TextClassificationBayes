@@ -1,0 +1,12 @@
+Lỗi trừ tiền khi kích_hoạt i Message từ MobiFone
+Anh Hoàng_Trọng_Tài ( Bình_Thạnh , TP_HCM ) sau khi reset i Phone , kích_hoạt i Message hơn 10 lần liên_tục mà không được nhưng tài_khoản điện_thoại mạng MobiFone lại bị trừ vài chục nghìn đồng .
+Trên một_số diễn_đàn công_nghệ trong nước , nhiều người gặp trường_hợp như anh Tài .
+Nhiều người cho_hay , họ không biết đã kích_hoạt i Message thành_công hay chưa nhưng vẫn bị trừ tiền trong tài_khoản và số tiền lên tới cả trăm_nghìn đồng .
+Tuy_nhiên , những trường_hợp này chỉ gặp trên mạng MobiFone .
+iMessage và Facetime là hai tính_năng được yêu_thích của người dùng i Phone .
+Khi người dùng kích_hoạt i Message và Facetime , điện_thoại sẽ tự_động nhắn một bản tin đến hệ_thống tiếp_nhận đăng_ký dịch_vụ của Apple .
+Theo Mobi Fone , thời_gian qua , do Apple bị lỗi gửi tin nhắn phản_hồi để xác_nhận đăng_ký dịch_vụ i Message về các nhà mạng tại Việt_Nam , do_vậy các thuê_bao di_động không_thể kích_hoạt i Message .
+Hiện_tại , lỗi này đã được Apple xử_lý và người dùng có_thể kích_hoạt i Message và Facetime bình_thường .
+Với các trường_hợp bị trừ tiền trong trường_hợp trên , nhà mạng này sẽ kiểm_tra và xử_lý cho từng trường_hợp một .
+Tình_trạng này cũng từng diễn ra trước_đây đối_với các nhà mạng tại Việt_Nam , do_đó , nếu_không cần_thiết , người dùng nên tránh reset máy hay tháo sim vì sau mỗi lần làm_vậy đều phải kích_hoạt lại tin nhắn i Message .
+Trong trường_hợp kích_hoạt có thành_công hay không thì vẫn bị trừ 2.500 đồng cho mỗi lần kích_hoạt .

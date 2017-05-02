@@ -1,0 +1,35 @@
+Ứng_dụng đặt vé máy_bay , khách_sạn tiện_lợi cho tín_đồ du_lịch
+Traveloka cho_phép người dùng trải_nghiệm tối_đa các tiện_ích như so_sánh , đối_chiếu , đặt vé máy_bay và khách_sạn , thanh_toán an_toàn trên cùng một giao_diện .
+Nhiều du_khách cho_biết thủ_tục check - in ở sân_bay và khách_sạn luôn mang đến sự phiền_toái bởi nhiều giấy_tờ hay email .
+Để cải_thiện điều này , ứng_dụng Traveloka ra_đời , cho_phép du_khách quản_lý cụ_thể quá_trình đặt vé máy_bay và khách_sạn toàn_cầu trên cùng một giao_diện .
+Đặt vé máy_bay và khách_sạn ' 2 trong 1 '
+Traveloka cung_cấp hơn 100.000 chuyến bay của hơn 70 hãng hàng_không nội_địa và quốc_tế .
+Thiết_kế thân_thiện của ứng_dụng cũng giúp bạn tra_cứu và so_sánh chặng bay theo hãng , giá vé , thời_gian bay một_cách dễ_dàng hơn .
+Bạn sẽ không cần tốn công lướt qua website của các hãng bay để tìm_kiếm và so_sánh giá .
+Chỉ với 3 bước , bạn sẽ dễ_dàng tìm_kiếm và so_sánh các chuyến bay và khách_sạn phù_hợp .
+Ngoài_ra , ứng_dụng còn có lựa_chọn đặt phòng tại hơn 70.000 khách_sạn trên toàn_cầu , từ 5 sao sang_trọng đến các homestay , hostel bình_dân .
+Dù vi_vu đến đâu , ngân_sách thế_nào , ứng_dụng này đều có_thể đáp_ứng mọi nhu_cầu du_lịch của bạn .
+Quản_lý đặt chỗ , check-in không cần in vé
+Chỉ cần đăng_nhập vào tài_khoản Traveloka , tất_cả thông_tin sẽ được đồng_hóa trên các thiết_bị của bạn .
+Vì_thế , bạn có_thể xem_lại những thông_tin đặt chỗ mọi lúc , mọi nơi , trên mọi thiết_bị .
+Trong mục " My booking " ( Đặt chỗ của tôi ) trên ứng_dụng , đặt chỗ của bạn được lưu_giữ trong 2 mục " Vé máy_bay " và " Khách_sạn " , được sắp_xếp theo thời_gian .
+Không_chỉ quản_lý đặt chỗ , bạn còn có_thể thay_đổi lịch_trình bay với tính_năng " Easy_Reschedule " , hủy đặt chỗ , gọi điện tới khách_sạn , thậm_chí có cả hướng_dẫn đường tới khách_sạn bằng tiếng bản_địa .
+Trước chuyến đi , ứng_dụng còn thông_báo để bạn không quên chuẩn_bị cho chuyến bay ngày hôm_sau đó .
+Đặc_biệt , bạn vẫn có_thể xem vé điện_tử hoặc phiếu thanh_toán khách_sạn trên ứng_dụng ngay cả khi_không có kết_nối Internet .
+Bạn không phải tốn công in ra giấy_tờ như trước_đây , cũng không cần vào mail tìm lại mã đặt chỗ , tất_cả thông_tin đều nằm tại mục " Đặt chỗ của tôi " trên ứng_dụng tiện_ích này .
+Ngoài_ra , nếu muốn gửi những thông_tin đặt chỗ cho người_thân , bạn_bè , ứng_dụng sẽ cho_phép bạn chia_sẻ vé máy_bay điện_tử và phiếu thanh_toán khách_sạn tới email người nhận hoặc qua các ứng_dụng nhắn_tin phổ_biến ( Facebook_Messenger , Viber , Whatsapp , Zalo … ) với thao_tác đơn_giản .
+Chia_sẻ thông_tin đặt chỗ với bạn_bè , người_thân dễ_dàng hơn qua Traveloka .
+Thay_đổi lịch bay , hoàn tiền vé ngay trên ứng_dụng
+Traveloka giúp bạn đổi hoặc huỷ lịch bay mà không cần liên_hệ hãng bay thông_qua 2 tính_năng Easy_Reschedule ( Đổi lịch bay ) và Refund ( Hoàn tiền ) .
+Tuy_nhiên , 2 tính_năng này phụ_thuộc vào chính_sách hoàn tiền_của hãng hàng_không và loại vé của bạn ( có được hoàn tiền hay không ) .
+Vì_thế , bạn hãy kiểm_tra kỹ thông_tin này khi đặt vé .
+Sau khi thực_hiện thao_tác , ứng_dụng sẽ gửi mail và liên_hệ để xác_nhận , hướng_dẫn bạn hoàn_tất quá_trình này .
+Bạn nên cân_nhắc thật kỹ vì khi yêu_cầu hoàn tiền được gửi đi sẽ không được thay_đổi .
+Bạn sẽ tìm thấy 2 tính_năng " Đổi lịch bay " và " Hoàn tiền " ở phần " Quản_lý đặt chỗ " .
+Tại_Việt_Nam , tính_năng Easy_Reschedule ( Đổi lịch bay ) chỉ mới áp_dụng cho hãng hàng_không Vietnam_Airlines .
+Với tính_năng này , bạn chỉ cần chọn “ Đổi lịch bay ” , chọn ngày , giờ bay mới và đợi xác_nhận giá được gửi qua email .
+Bước cuối_cùng , bạn chỉ cần tiến_hành thanh_toán .
+Nếu cần trợ_giúp , bộ_phận hỗ_trợ khách_hàng luôn có_mặt 24/7 qua hotline 1900-6978 , chat trực_tiếp trên trang_web của ứng_dụng , email cs@traveloka.com hoặc nhắn inbox cho fanpage của Traveloka_Việt_Nam trên Facebook .
+Hiện ứng_dụng đạt hơn 10 triệu lượt tải .
+Tiến_Dũng
+Từ ngày 12 đến 14/4 , Traveloka sẽ giảm_giá lên tới 40% cho các khách_sạn tại Việt_Nam cùng nhiều ưu_đãi khác tại đây .

@@ -1,0 +1,13 @@
+Samsung ra ổ SSD dung_lượng 512 GB nặng chỉ một gram
+PM971-NVMe sử_dụng chuẩn kết_nối PCIe cũng là ổ SSD có kích_thước nhỏ nhất thế_giới hiện_nay .
+Bộ_nhớ SSD siêu nhỏ của Samsung .
+Samsung tiếp_tục thể_hiện là nhà_sản_xuất đi đầu trong lĩnh_vực ổ_cứng thể rắn ( SSD ) khi ra_mắt phiên_bản mới sử_dụng chuẩn giao_tiếp   NVMe PCIe .
+Thiết_bị có tên   PM971-NVMe với kích_thước chỉ 20 x 16 x 1,5 mm , bé hơn cả một con tem theo tiêu_chuẩn Mỹ .
+Đây cũng là ổ SSD nhỏ nhất thế_giới hiện_tại , theo Computerworld .
+Cân nặng chỉ một gram , nhẹ hơn nhiều các ổ SSD 2,5 inch thông_thường nhưng thiết_bị mới của Samsung vẫn cho hiệu_năng tốt .
+Tốc_độ đọc và ghi lần_lượt lên đến 1.500 MB/giây và 900 MB/giây , vượt qua chuẩn SATA 6 Gb/giây .
+Theo Samsung , ổ_cứng này có_thể chuyển một bộ phim Full HD dung_lượng 5 GB chỉ trong vòng 3 giây , nhanh gấp 1.500 lần so với ổ_cứng thông_thường .
+Samsung PM971-NVMe sẽ có các phiên_bản 128 , 256 và 512 GB .
+Tuy_nhiên , hãng điện_tử Hàn_Quốc chưa công_bố giá .
+Thiết_bị sử_dụng 18 chip nhớ Samsung cho dung_lượng 512 GB .
+Tuấn_Hưng - Bảo_Lâm

@@ -1,0 +1,24 @@
+Nhầm_lẫn hài_hước về hacker trong phim_ảnh
+Can_thiệp hệ_thống mạng bằng Paint , Excel , file nhạc MP4 hay hơ lửa ổ_cứng để cứu dữ_liệu là những điều kỳ_quặc mà các đạo_diễn phim có_thể nghĩ ra .
+Hai hacker dùng chung bàn_phím
+Rõ_ràng việc bốn bàn_tay cùng thao_tác trên một bàn_phím không làm cho tốc_độ xử_lý hay đơn_giản là việc gõ chữ nhanh hơn .
+Đấy là chưa   đề_cập đến số_lượng các cửa_sổ pop - up xuất_hiện liên_tục trên màn_hình .
+Cũng khá ngạc_nhiên khi cả hai đều tập_trung nhìn vào màn_hình trong khi những ngón_tay vẫn đang bay trên bàn_phím chật_chội .
+Cảnh trong series phim NCIS của Mỹ .
+Hack bằng công_cụ Paint
+Trong phim White_Collar , nam diễn_viên tìm thấy một file Excel chứa nội_dung là bảng danh_sách các tài_khoản với số tiền khổng_lồ .
+Nhưng điều kỳ_diệu là anh_ta có_thể mở nó ra bằng công_cụ vẽ Paint và xử_lý tất_cả trên một chiếc máy_tính chạy hệ_điều_hành Linux , vốn không hề có Paint .
+Hacker sử_dụng trình chơi nhạc Windows_Media_Player
+Một phát_kiến kinh_điển của các đạo_diễn phim Ấn Độ nhằm khiến cho nhân_vật chính của bộ phim thêm phần chuyên_nghiệp và nguy_hiểm .
+Giao_diện phần_mềm với phông_chữ đậm chất công_nghệ , các dòng thông_tin hiện ra mang lại cảm_giác hacker đang gõ code và nhận được trả kết_quả về .
+Danh_sách tên các bài hát được thay bằng tên người .
+Dù không nhìn rõ tên phần_mềm bên trên nhưng nút Now_Playing bên cột trái đã đủ nói lên tất_cả .
+Điều_khiển đèn giao_thông bằng file MP4
+Chỉ cần mở smartphone lên , bấm vào một file video đuôi mp 4 có độ dài chỉ 5 giây , hacker trong   series SHIELD đã xâm_nhập thành_công hệ_thống đèn giao_thông để gây ra sự hỗn_loạn nhằm tẩu_thoát khi bị truy_đuổi .
+Không cần đăng_nhập , không cần vượt tường lửa , không phải chọn vị_trí hay đặt thời_gian , mọi việc cần làm là mở thư_mục chứa file nhạc trong điện_thoại lên và chọn tệp có tên Gridlook ( một từ tiếng Anh mang hàm_nghĩa tắc_nghẽn giao_thông ) .
+Gỡ bom bằng Excel
+Trong phim Unthinkable ( 2010 ) , chuyên_viên gỡ bom của đội đặc_nhiệm đã hoàn_thành nhiệm_vụ một_cách xuất_sắc nhờ công_cụ Microsoft_Excel .
+Anh bấm một loạt các ký_tự vô_nghĩa trên màn_hình rồi cắt dây .
+Quả bom đã bị vô_hiệu ngay sau đó .
+Hơ lửa , dấp nước để cứu dữ_liệu ổ_cứng
+Trong tập 12 của bộ phim Chạy_án ( phần 2 ) , ra_mắt năm 2008 trên đài_truyền_hình Việt_Nam , một kỹ_sư công_nghệ tên Lâm đã thể_hiện kỹ_thuật cứu dữ_liệu ổ_cứng khá đặc_biệt bằng cách hơ lửa rồi hạ nhiệt dùng khăn ướt , trước khi thao_tác gõ phím liên_hồi trên máy_tính .

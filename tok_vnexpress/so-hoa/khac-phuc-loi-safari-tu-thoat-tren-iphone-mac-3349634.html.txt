@@ -1,0 +1,12 @@
+Khắc_phục lỗi Safari tự thoát trên i Phone , Mac
+Một_số người dùng cho_biết họ gõ bất_kỳ thông_tin nào vào thanh địa_chỉ của trình_duyệt Safari thì ứng_dụng này tự_động bị thoát ra ( crash ) .
+Theo IBTimes , nguyên_nhân được xác_định là do tính_năng gợi_ý tìm_kiếm mà Apple trang_bị cho trình_duyệt của mình .
+Vấn_đề này xảy_ra không_chỉ với Safari trên i Phone , iPad mà_còn ảnh_hưởng tới trình_duyệt trên máy_tính .
+Tình_trạng Safari bị crash có_thể khắc_phục tạm_thời bằng cách mở chế_độ Riêng_tư .
+Mỗi khi nhập địa_chỉ hay tìm_kiếm thông_tin , Safari bất_ngờ thoát ra , máy trở_về màn_hình Home .
+Ngay cả khi khởi_động lại thiết_bị , xóa bộ_nhớ cache , lịch_sử duyệt web ... thì tình_trạng này cũng không được cải_thiện .
+Apple cho_biết đã tiến_hành khắc_phục lỗi này nhưng không nêu rõ nguyên_nhân của sự_cố .
+Tắt tính_năng Safari suggestions trên i OS .
+Nếu trình_duyệt của vẫn bị thoát ra , bạn có_thể khắc_phục tạm_thời là duyệt web trong chế_độ   Private mode   ( Riêng_tư ) .
+Hoặc bạn có_thể tắt tính_năng   Safari suggestions , bằng cách trên i Phone vào   Settings > Safari   và chuyển sang trạng_thái   Off ; với máy_tính có_thể tìm thấy tùy chọn trong   Preferences > Search .
+Bảo_Anh

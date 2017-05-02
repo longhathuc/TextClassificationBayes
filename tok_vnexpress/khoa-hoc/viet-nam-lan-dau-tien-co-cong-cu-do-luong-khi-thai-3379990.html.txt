@@ -1,0 +1,21 @@
+Việt_Nam lần đầu_tiên có công_cụ đo lượng khí_thải
+Đại_sứ_quán Anh và Bộ Công thương Việt_Nam vừa công_bố bộ công_cụ hỗ_trợ hoạch_định chính_sách năng_lượng và giảm_phát thải khí nhà_kính bằng tiếng Việt .
+Với tên gọi   Vietnam 2050 Calculator_Pathways , bộ công_cụ này cho_phép người sử_dụng hiểu về các kịch_bản lựa_chọn năng_lượng , mối tương_quan giữa các kịch_bản này với định_hướng lựa_chọn mức phát thải khí nhà_kính của Việt_Nam , thông_cáo Đại_sứ_quán Anh cho_biết .
+Đây là một mô_hình tính_toán chạy trên nền web mô_tả bức tranh cung - cầu năng_lượng của Việt_Nam , với các tổ_hợp kịch_bản phát_triển năng_lượng và tính_toán mức giảm_phát thải khí nhà_kính của Việt_Nam tương_ứng từ nay đến năm 2050 .
+Đây là một công_cụ thân_thiện với người sử_dụng , bất_kỳ ai cũng có_thể truy_cập và khám_phá các kịch_bản năng_lượng từ nay đến năm 2050 chỉ cần có kết_nối Internet .
+Cách đây một năm ,   với sự hỗ_trợ kỹ_thuật của Bộ Năng lượng và Biến_đổi khí_hậu Anh ( DECC ) , cùng hỗ_trợ tài_chính thông_qua Quỹ_Biến đổi khí_hậu Quôc tế ( ICF ) của nước này , các nhà làm chính_sách tại các bộ ngành liên_quan của Viêt_Nam đã tiếp_nhận phiên_bản Calculator 2050 , được xây_dựng dựa trên phiên bản_gốc của DECC .
+Tuy_nhiên do hạn_chế về thời_gian , phiên_bản Vietnam 2050 Calculator chưa được hoàn_thiện về ngôn_ngữ đan_xen cả tiếng Anh và Việt , cũng_như chưa có một_số kịch_bản chi_tiết cho các phân ngành kinh_tế .
+Trong khi đó , Việt_Nam có mối quan_tâm lớn đến mô_hình 2050 Calculator về tính khoa_học và minh_bạch , cũng_như tính hữu_dụng trong việc tham_khảo trong quá_trình xây_dựng các chính_sách liên_quan tới năng_lượng và phát thải khí nhà_kính .
+Vì_vậy Quỹ_Thịnh vượng thuộc Bộ Ngoại giao Anh đã hỗ_trợ tài_chính cho Bộ Công_Thương_Việt_Nam tiếp_tục nâng_cấp công_cụ này .
+Hiện công_cụ đã được cập_nhật và phản_ánh các chính_sách mới được ban_hành của Việt_Nam về năng_lượng , bổ_sung và chi_tiết hóa các dữ_liệu về tiêu_thụ năng_lượng các ngành công_nghiệp , hộ gia_đình và thương_mại .
+Các ước_tính chi_phí cho các kịch_bản và giải_pháp giảm_phát thải khí nhà_kính cũng được thể_hiện trong mô_hình .
+Ông Vũ_Đình_Duy , Phó cục_trưởng Cục Kỹ thuật an_toàn và môi_trường công_nghiệp , Bộ Công_Thương , đánh_giá mô_hình 2050 Calculator của Việt_Nam không_chỉ dùng cho các nhà hoạch_định chính_sách mà công_chúng , giới học_thuật , mà các nhà hoạt_động xã_hội cũng có_thể dùng được .
+Hiện dự_án đang hỗ_trợ để xây_dựng phiên_bản Calculator 2050 cho cấp tỉnh , lựa_chọn Đà_Nẵng là thành_phố được thí_điểm xây_dựng mô_hình này .
+Dự_kiến đến tháng 3 năm sau , phiên_bản Calculator 2050 của Đà_Nẵng sẽ được hoàn_tất .
+Công_cụ này sẽ hỗ_trợ Đà_Nẵng thiết_lập các kế_hoạch hành_động và mục_tiêu liên_quan đến giảm_phát thải khí nhà_kính và tăng_trưởng xanh , từ đó kết_nối với các chính_sách và mục_tiêu của quốc_gia .
+Đại_diện các bộ ngành tham_dự lễ ra_mắt hôm 30/3 bày_tỏ mong_muốn mô_hình được tiếp_cận và sử_dụng lâu_dài trong quá_trình tham_khảo xây_dựng chính_sách về năng_lượng của Việt_Nam .
+Công_cụ này cũng được trông_đợi sẽ hỗ_trợ việc Việt_Nam tham_vấn và chia_sẻ với các bên liên_quan trong quá_trình đề_xuất các giải_pháp , các mục_tiêu về giảm_phát thải khí nhà_kính hướng tới các mục_tiêu đề ra trong   Báo_cáo đóng_góp dự_kiến cho quốc_gia tự quyết_định ( INDC ) ,   thực_hiện Thỏa_thuận Paris và được tham_khảo trong quá_trình chuẩn_bị Thông_báo quốc_gia lần thứ 3 .
+Anh là quốc_gia đầu_tiên thông_qua Luật_Biến đổi khí_hậu vào năm 2008 , đưa ra nhiều mục_tiêu đầy tham_vọng như đạt mức giảm_phát thải là 36% vào năm 2020 và giảm 80% vào năm 2050 so với mức phát thải của năm 1990 .
+Anh cũng đồng_thời đưa ra kế_hoạch để đạt được các mục_tiêu đó .
+Bộ Năng lượng và biến_đổi khí_hậu Anh đã công_bố " 2050 Calculator " hồi 2010 để mời_gọi tranh_biện cách_thức đạt được các mục_tiêu đề ra .
+Việt_Anh

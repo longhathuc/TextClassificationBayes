@@ -1,0 +1,21 @@
+Ngân_hàng Nhà_nước siết an_toàn giao_dịch điện_tử
+Các tài_khoản phải được xác_thực tối_thiểu bằng tên đăng_nhập và mã khoá bí_mật có độ dài tối_thiểu 6 ký_tự , ... là một trong những yêu_cầu về đảm_bảo an_toàn cung_cấp dịch_vụ ngân_hàng điện_tử .
+Thông_tư 35 vừa được Ngân_hàng Nhà_nước ban_hành sẽ thay_thế Thông_tư 29 , quy_định về an_toàn , bảo_mật cho việc cung_cấp dịch_vụ ngân_hàng trên Internet .
+Theo đó , nội_dung thông_tư yêu_cầu các tài_khoản phải được xác_thực tối_thiểu bằng tên đăng_nhập và mã khoá bí_mật .
+Yêu_cầu đối_với tên đăng_nhập là có độ dài tối_thiểu 6 ký_tự , không được sử_dụng toàn_bộ ký_tự trùng nhau hoặc liên_tục theo thứ_tự trong bảng_chữ_cái , chữ_số .
+Các tài_khoản phải được xác_thực tối_thiểu bằng tên đăng_nhập và mã khoá bí_mật .
+Mã khoá bí_mật cũng phải có độ dài tối_thiểu 6 ký_tự , bao_gồm chữ và số , chứa chữ hoa có ký_tự đặc_biệt .
+Thời_gian hiệu_lực của mã khoá bí_mật tối_đa là 12 tháng kể từ ngày lập .
+Đồng_thời , văn_bản cũng nhắc tới việc sử_dụng mã OTP gửi qua tin nhắn SMS hoặc thư_điện_tử để xác_thực các giao_dịch ngân_hàng của người_dân .
+Cụ_thể , người   dân thực_hiện các giao_dịch ngân_hàng cần sử_dụng mã OTP gửi qua tin nhắn SMS , các ngân_hàng sẽ phải gửi kèm thông_tin cảnh_báo để người dùng nhận_biết được mục_đích của mã OTP trong các giao_dịch ngân_hàng .
+Sau 5 phút không được sử_dụng , mã OTP sẽ không có hiệu_lực .
+Đối_với việc thực_hiện các giao_dịch ngân_hàng và xác_thực bằng thẻ , OTP sẽ có thời_hạn sử_dụng tối_đa một năm kể từ ngày đăng_ký thẻ , và mã OTP khi được cung_cấp cũng chỉ có hiệu_lực trong vòng 2 phút .
+Đối_với mã OTP được tạo từ phần_mềm cài_đặt trên thiết_bị di_động , các ngân_hàng cũng phải cung_cấp rõ dường dẫn trên website hoặc kho ứng_dụng để người_dân tải và cài_đặt phần_mềm tạo OTP .
+Theo Ngân hàng Nhà_nước , việc này sẽ giúp tránh trường_hợp kẻ_gian lợi_dụng tạo các website giả_mạo lừa_đảo chiếm_đoạt thông_tin khách_hàng .
+Phần_mềm tạo OTP phải sử_dụng mã khoá do đơn_vị cung_cấp để kích_hoạt trước khi sử_dụng .
+Một mã khoá chỉ được sử_dụng cho một máy di_động .
+Phần_mềm tạo OTP phải được kiểm_soát truy_cập .
+Nếu xác_thực truy_cập sai 5 lần liên_tiếp , ngân_hàng phải tự_động khoá không cho khách_hàng sử_dụng tiếp .
+Khi đã được cung_cấp , mã OTP sẽ có hiệu_lực trong vòng 2 phút .
+Trường_hợp người_dân xác_thực giao_dịch chuyển , rút_tiền bằng chữ_ký số , phải sử_dụng chữ_ký số và dịch_vụ chứng_thực chữ_ký số của ngân_hàng cung_cấp dịch_vụ theo quy_định của pháp_luật về chữ_ký số và dịch_vụ chứng_thực .
+Thanh_Lê

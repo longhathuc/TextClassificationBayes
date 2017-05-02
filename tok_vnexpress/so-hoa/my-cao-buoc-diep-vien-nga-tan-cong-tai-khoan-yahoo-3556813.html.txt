@@ -1,0 +1,19 @@
+Mỹ cáo_buộc điệp_viên Nga tấn_công tài_khoản Yahoo
+Bộ Tư pháp Mỹ xác_định có hai điệp_viên người Nga và hai tin_tặc tham_gia vào vụ khống_chế hơn 500 triệu tài_khoản của người dùng Yahoo năm 2014 .
+Hồ_sơ tòa_án Mỹ cho_biết có bốn người tham_gia vào vụ đánh_cắp thông_tin thuộc loại lớn nhất trong lịch_sử Internet là điệp_viên Nga_Dmitry_Dokuchaev và Igor_Sushchin ( thuộc Tổng_cục An_ninh Liên_bang Nga FSB ) và hai hacker được thuê khác là Karim_Baratov và Alexsey_Belan .
+Ảnh truy_nã Dmitry_Dokuchaev được Bộ Tư pháp Mỹ đặt trong buổi họp_báo ngày 15/3 .
+Ảnh : CNN
+Belan , biệt_danh Magg và nằm trong danh_sách truy_nã của FBI , sống tại Nga và được FSB chiêu_mộ .
+Người này đã thâm_nhập hệ_thống máy_chủ của Yahoo đầu năm 2014 và từ đó khống_chế công_cụ mà công_ty này dùng để quản_lý những thay_đổi trên tài_khoản email của người dùng , như đổi mật_khẩu mới ... .
+Nhóm hacker đã sử_dụng những dữ_liệu thu được để truy_cập vào tài_khoản của những cá_nhân cụ_thể như các nhà_lãnh_đạo , nhà ngoại_giao , cán_bộ chính_phủ , nhân_viên công_ty công_nghệ và nhà_báo điều_tra .
+Những người này cũng tìm_kiếm thông_tin thẻ_tín_dụng , tài_liệu tài_chính , thông_tin đăng_nhập vào những tài_khoản cá_nhân khác như Gmail .
+Belan còn khai_thác hơn 30 triệu tài_khoản Yahoo để tiến_hành chiến_dịch spam nhằm kiếm tiền bằng cách điều hướng người dùng   tới một trang dược_phẩm online ( trang này trả tiền cho những bên thu_hút người dùng tới site của mình ) .
+" Dmitry_Dokuchaev và Igor_Sushchin thuộc FSB đã trả tiền và tạo điều_kiện cho các hacker thu_thập thông_tin thông_qua các vụ xâm_nhập máy_tính ở Mỹ và những nơi khác " , trợ_lý Bộ_trưởng Tư_pháp Mary_Mc Cord cho_hay .
+Trong khi đó , Nga chưa đưa ra bình_luận nào về cáo_buộc của Mỹ .
+Tháng 9/2016 , Yahoo thừa_nhận vụ hack từ giữa năm 2014 đã khiến 500 triệu tài_khoản thành_viên bị rò_rỉ .
+Khi đó họ nói rằng vụ tấn_công có liên_quan tới yếu_tố chính_trị , nhưng không nói quốc_gia nào chịu trách_nhiệm .
+Đến tháng 12/2016 , Yahoo tiếp_tục cho_hay một tỷ tài_khoản người dùng , bao_gồm tên_tuổi , số điện_thoại , câu_hỏi bảo_mật , mật_khẩu và địa_chỉ email , có_thể đã bị lấy cắp trong một cuộc tấn_công khác của hacker diễn ra từ tháng 8/2013 .
+Hai vụ hack bị phanh_phui liên_tiếp đã làm tổn_hại nghiêm_trọng đến hình_ảnh của Yahoo .
+" Con_số này vượt xa những vụ vi_phạm dữ_liệu lớn nhất mà chúng_tôi từng chứng_kiến .
+500 triệu rồi đến 1 tỷ người dùng - đây là điều chưa từng có " , chuyên_gia an_ninh mạng Troy_Hunt nhấn_mạnh .
+Yahoo đã phải hạ giá bán bộ_phận email và các dịch_vụ số khác cho Verizon từ 4,83 tỷ USD xuống còn 4,48 tỷ USD .

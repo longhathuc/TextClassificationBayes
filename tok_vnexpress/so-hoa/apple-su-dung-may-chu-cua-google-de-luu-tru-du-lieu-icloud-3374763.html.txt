@@ -1,0 +1,20 @@
+Apple sử_dụng máy_chủ của Google để lưu_trữ dữ_liệu i Cloud
+Đây là một quyết_định lạ_lùng khi mà thực_tế Apple và Google được xem là hai đối_thủ đáng gờm trên đấu_trường công_nghệ thế_giới .
+Hiện_nay cả Apple và Google đều chưa đưa ra bình_luận về vụ_việc , mặc_dù trang BBC của Anh khẳng_định họ đã xác_minh được_việc Apple lưu_trữ dữ_liệu i Cloud trên dịch_vụ Google_Cloud_Platform là có thật .
+Trước_đây , Apple từng thừa_nhận việc sử_dụng hai nền_tảng Amazon_Web_Services và Microsoft_Azure để lưu_trữ dữ_liệu của khách_hàng .
+Tuy_nhiên , Google , Amazon hay Microsoft sẽ chỉ là nơi lưu_trữ thông_tin liên_quan đến khách_hàng Apple sử_dụng i Cloud , chứ không_thể truy_cập trực_tiếp vào dữ_liệu của người dùng .
+“ Dữ_liệu i Cloud sẽ không_thể tiếp_cận bởi nhà_cung_cấp dịch_vụ lưu_trữ vì Apple đã sử_dụng công_nghệ mã_hóa hiện_đại ” , chuyên_gia công_nghệ Chris_Green đánh_giá .
+Hiện_nay trên thị_trường dịch_vụ dữ_liệu và máy_tính online , Google bị hai đối_thủ Amazon và Microsoft bỏ xa về thị_phần và doanh_số .
+Doanh_thu từ Google_Cloud_Platform trong quý IV/2015 chỉ bằng một phần bảy doanh_thu kiếm được từ Amazon_Web_Services .
+Sự hợp_tác với Apple lần này là tiền_đề để Google tăng_cường cung_cấp dịch_vụ web và lưu_trữ cho những công_ty khác .
+CRN , trang tin lần đầu đưa tin về thương_vụ giữa Apple và Google , cho_hay Apple đã đạt được thỏa_thuận với Google_Cloud_Platform về việc lưu_trữ dữ_liệu i Cloud hồi cuối năm_ngoái .
+Nhiều người có_thể cho rằng việc Apple sử_dụng dịch_vụ của Google là một quyết_định lạ khi đây là hai công_ty đối_thủ .
+Nhưng theo CRN , bức tranh giá_cả của thị_trường mới là nhân_tố quyết_định .
+Apple đang muốn giảm sự phụ_thuộc của mình vào Amazon_Web_Services , khi mà trong tháng 2 , hãng được cho là đã dành khoảng 1 tỷ USD cho dịch_vụ web này .
+Trong khi đó , nếu sử_dụng Google_Cloud_Platform , Apple sẽ chỉ phải trả từ 400 đến 600 triệu USD , mặc_dù mức giá này chưa được chính_thức xác_nhận .
+Trao_đổi với CRN , chuyên_gia công_nghệ Michael_Freaser cho rằng mặc_dù vẫn là một cái tên chưa mạnh trong thị_trường cung_cấp dịch_vụ lưu_trữ , Google lại cung_cấp dịch_vụ ở mức giá rẻ nhất và với chất_lượng tốt nhất .
+Sở_dĩ Amazon nắm 31% thị_phần trong khi Google chỉ nắm 4% thị_phần là vì rất nhiều doanh_nghiệp chọn Amazon_Web_Services với lý_do không muốn hoặc không có đủ kinh_phí tự xây_dựng hệ_thống cơ_sở_dữ_liệu cho mình .
+Tuy_vậy , Google_Cloud_Platform đang thu_hút được nhiều khách_hàng tiềm_năng như Coca_Cola , HTC và Best_Buy .
+Về phía Apple , việc đạt được thỏa_thuận với Google sẽ giúp hãng đặt áp_lực giảm_giá dịch_vụ lên Amazon và Microsoft .
+Một sự giảm_giá dịch_vụ i Cloud cho khách_hàng Apple , theo nhiều chuyên_gia , là hoàn_toàn có_thể xảy_ra .
+Nguyễn_Mai_Đức

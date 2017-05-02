@@ -1,0 +1,11 @@
+Thử tài nhìn món ăn , đoán địa_danh
+Hãy thử tài nhìn bức ảnh check in cùng đồ_ăn để đoán xem tác_giả đang ở địa_danh nào .
+Cô_gái Melissa với tài_khoản Girl_Eats_World nổi_tiếng trên Instagram bởi thói_quen check in các địa_điểm nổi_tiếng cùng món ăn , thay_vì chụp ảnh bản_thân hay cảnh đẹp , từ đó tạo ra trào_lưu hashtag # girleatsworld phủ khắp các mạng xã_hội .
+Mời các bạn nhìn đồ_ăn để đoán xem Melissa đang có_mặt ở địa_danh nào bằng cách trả_lời các câu_hỏi sau đây :
+Câu số 1 :
+Món ăn này được chụp tại ?
+-   Bắc_Kinh ( Trung_Quốc )
+-   Hong_Kong
+-   Đài_Bắc ( Đài_Loan )
+( Click vào đáp_án bạn chọn để biết kết_quả và trả_lời câu_hỏi tiếp_theo )
+Theo Ngoisao

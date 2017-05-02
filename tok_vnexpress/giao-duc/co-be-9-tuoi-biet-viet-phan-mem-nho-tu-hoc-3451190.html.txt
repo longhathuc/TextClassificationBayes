@@ -1,0 +1,19 @@
+Cô bé 9 tuổi biết viết phần_mềm nhờ tự học
+Mới chỉ học lớp 4 tại trường tiểu_học Mount_View ở Melbourne , Australia nhưng Anvitha_Vijay đã viết được ứng_dụng di_động hữu_ích cho trẻ_em .
+Ngay từ khi 7 tuổi , Anvitha đã bắt_đầu làm_quen với lập_trình .
+Khi đó , cô bé mày_mò viết một ứng_dụng để giúp em_gái 5 tuổi của mình tìm_hiểu về thế_giới động_vật .
+Khoảng 2 năm sau , ứng_dụng giáo_dục Smartkins   Animals dành cho trẻ_em dưới 5 tuổi đã xuất_hiện trên App_Store của Apple .
+Ứng_dụng i OS đó cũng giúp Anvitha đoạt một trong 350 suất học_bổng cho các lập_trình_viên trẻ tham_dự WWDC - sự_kiện quan_trọng nhất trong năm của Apple .
+Em cũng là một trong 8 người tại Australia có được vinh_dự này .
+Chỉ qua con đường tự học lập_trình từ những video hướng_dẫn trên YouTube , nhưng niềm đam_mê tìm_tòi kiến_thức đã giúp em có được nền_tảng công_nghệ vững_chắc .
+Ban_đầu , Anvitha mày_mò thử_nghiệm ứng_dụng trên Photoshop rồi chuyển sang thiết_kế giao_diện bằng công_cụ Sketch .
+Tiếp đến , em thực_hiện mã_hóa trong Xcode - môi_trường phát_triển i OS của Apple .
+Anvitha cho_biết , khó_khăn không đến từ quá_trình mã_hóa mà trong việc thực_thi ứng_dụng .
+Như với phần_mềm đầu_tiên , nó có quá nhiều màn_hình và nội_dung khiến cô em_gái không_thể sử_dụng dễ_dàng , đôi_lúc vượt quá khả_năng hiểu của một đứa trẻ lên 5 .
+Do_đó , em đã nghiên_cứu cải_tiến giao_diện và cách vận_hành để ứng_dụng trở_nên đơn_giản hơn , giúp cho em_gái của mình có_thể sử_dụng một_cách độc_lập mà không cần suốt ngày phải theo hỏi chị .
+Sau đó , Anvitha mạnh_dạn tung phần_mềm lên App_Store và đón_nhận hàng trăm lượt tải .
+Tiếp đến , cô bé bắt_tay vào dự_án thứ_hai là ứng_dụng GoalsHi giúp trẻ_em có được sự tự_tin và hứng_khởi trong lớp_học .
+Anvitha sử_dụng ngôn_ngữ Swift của Apple để lập_trình , tạo giao_diện cảm_ứng thuận_tiện cho người dùng .
+Khi được hỏi về độ tuổi liệu có là rào_cản để trở_thành một lập_trình_viên chuyên_nghiệp , cô bé vui_vẻ nói chỉ cần có niềm đam_mê và luôn theo_đuổi nó , bạn hoàn_toàn có_thể thành_công .
+" Tất_nhiên rất cần những ý_tưởng tốt cùng nền_tảng kiến_thức vững_vàng để hiện_thực hóa ý_tưởng thành những ứng_dụng thiết_thực và hấp_dẫn trong đời_sống công_nghệ " , Anvitha nói .
+Minh_Trí

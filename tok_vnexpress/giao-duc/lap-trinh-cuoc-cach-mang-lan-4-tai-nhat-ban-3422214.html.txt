@@ -1,0 +1,33 @@
+Lập_trình - cuộc cách_mạng lần 4 tại Nhật_Bản
+Quốc_gia này mong_muốn đào_tạo nên thế_hệ nhân_lực dẫn_đầu cuộc cách_mạng_công_nghiệp thế_giới lần thứ 4 , khi trí_tuệ_nhân_tạo và robot sẽ lên_ngôi .
+Cuộc_sống của nữ_sinh 17 tuổi Emi_Morikawa đã có một bước_ngoặt lớn kể từ khi cô học lập_trình máy_tính .
+Trước_đây , Morikawa cũng_như nhiều học_sinh khác đều có sở_thích cho môn tiếng Anh .
+Nhưng bây_giờ , sau khi tốt_nghiệp cấp ba , nhà_lập_trình trẻ tuổi lại đam_mê với công_việc tự vận_hành website do mình   lập nên hơn .
+" Suốt quá_trình học lập_trình , tôi nhận ra việc tự_lập công_ty riêng là một lựa_chọn tốt hơn so với thi vào đại_học .
+Nhiều bạn_bè cùng lứa tuổi của tôi vào đại_học mà không biết mình thích cái gì .
+Tôi nghĩ theo_đuổi đam_mê của mình mới là điều quan_trọng hơn " , Emi_Morikawa chia_sẻ .
+Trong một thế_giới luôn thay_đổi nhanh_chóng , nơi mà mọi thứ gần_như đều được số_hóa , lập_trình được nhiều người quan_tâm học_hỏi và xem đây là cơ_hội nghề_nghiệp lớn .
+Đầu tháng 6 , chính_phủ Nhật đã thông_qua chính_sách giáo_dục mới , trong đó bao_gồm nội_dung lập_trình máy_tính sẽ là môn_học bắt_buộc cho các trường tiểu_học công_lập từ năm 2020 .
+Mục_tiêu của chương_trình này là để chuẩn_bị nhân_lực sẵn_sàng cho một sự_kiện được Nhật_Bản gọi_là " cuộc cách_mạng_công_nghiệp lần thứ 4 " - một sự thay_đổi sâu_sắc của ngành công_nghiệp thế_giới khi trí_tuệ_nhân_tạo và robot phát_triển không ngừng .
+Theo kết_quả của một chương_trình thử_nghiệm của bộ giáo_dục quốc_gia này , dạy lập_trình giúp học_sinh học cách tự tư_duy , đặt mục_tiêu phấn_đấu tốt hơn .
+Morikawa chính là trường_hợp điển_hình mà chính_phủ mong_đợi - một doanh_nhân được học lập_trình sớm ,   tìm thấy sở_thích và mạnh_dạn theo_đuổi đam_mê của mình .
+Nữ_sinh này bắt_đầu học lập_trình từ tháng 6 năm_ngoái tại trường trung_học_phổ_thông ở Turlock , California .
+Chính tại đây , cô được truyền cảm_hứng từ những người bạn cùng trang_lứa sớm đạt những thành_công khi trở_thành các nhà_khoa_học máy_tính .
+" Lúc đầu , mọi thứ đều lạ_lẫm với tôi .
+Nhưng một_khi học đến trình_độ có_thể tự viết ra chương_trình của riêng mình , tôi nhận ra lập_trình thú_vị hơn nhiều so với việc phải học thuộc sách_vở " .
+Sau đó , cô được khuyến_khích để trở_thành một nhà_lập_trình web tự_do - công_việc mà Morikawa tin rằng hấp_dẫn hơn so với đến trường đại_học .
+Nhiều công_ty tư_nhân đang bắt kịp làn_sóng học lập_trình này bằng việc mở ra những lớp_học cấp_tốc cho người trưởng_thành .
+Một trong số đó có_thể kể đến ngôi trường Tech_Camp ở Tokyo khi đã nhanh tay tung ra nhiều khóa dạy lập_trình ngắn_hạn .
+Tính_từ tháng 11/2014 , ngôi trường này đã đào_tạo hơn 3.000 lập_trình_viên và số người theo học hiện_tại là 400 người - tăng gấp đôi so với tháng 6 năm_ngoái , bao_gồm các sinh_viên lẫn các doanh_nhân .
+" Có kiến_thức trong lập_trình hoặc ít_nhất là hiểu các phần_mềm hoạt_động như_thế_nào sẽ là yêu_cầu cơ_bản trong thời_buổi công_nghệ_thông_tin này khi mà rất nhiều thứ được vận_hành tự_động " , ông Yukinari_Mako - hiệu_trưởng Tech_Camp cho_biết .
+Cũng theo ông , nhiều công_việc trong tương_lai sẽ được số_hóa .
+Những công_ty dịch_vụ lớn nhất thế_giới như Google , Twitter hay Facebook … đều là sản_phẩm của người Mỹ .
+Điều này có_nghĩa , khoản doanh_thu quảng_cáo sẽ đổ vào nước Mỹ mà không đóng_góp cho kinh_tế Nhật_Bản .
+Vì_vậy , từ góc_độ của chính ông là một lập_trình_viên , việc dạy lập_trình cho trẻ_em ở trường_học là điều cần_thiết để biến nền công_nghiệp web của đất_nước này vươn tầm thế_giới .
+Giáo_sư ngành sư_phạm lập_trình của Đại_học Aoyama_Gakui - Kazuhiro_Abe   phân_tích : " Học viết code lập_trình chính là quá_trình tìm ra giải_pháp tốt nhất cho vấn_đề không có một câu trả_lời tuyệt_đối .
+Đây chính là điểm khác_biệt cơ_bản tuyệt_vời so với những bài kiểm_tra trên giấy khi mà mỗi học_sinh đều phải tự mình tìm ra câu trả_lời tốt nhất có_thể " .
+Tuy_nhiên , ông Abe cũng bày_tỏ những lo_lắng khi sáng_kiến này có_thể dẫn tới việc giáo_viên quá áp_lực trong việc dạy học_sinh biết viết các chương_trình mà không để các em được tìm ra giải_pháp của chính mình .
+Theo ông , trẻ_em ngày_nay còn hiểu_biết về các thiết_bị công_nghệ hơn cả người_lớn .
+Các em có_thể tự mình tìm ra những giải_pháp hay nếu được giáo_viên cho_phép thỏa sức sáng_tạo .
+Vì_vậy , thầy_cô chỉ nên hỗ_trợ , để các em là trung_tâm của lớp_học thay_vì áp_đặt công_thức lên học_sinh của mình .
+Thu_Ngân ( theo Japan_Times )

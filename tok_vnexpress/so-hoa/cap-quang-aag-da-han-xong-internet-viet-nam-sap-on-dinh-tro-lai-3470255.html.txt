@@ -1,0 +1,15 @@
+Cáp_quang AAG đã hàn xong , Internet_Việt_Nam sắp ổn_định trở_lại
+Việc hàn cáp_quang biển AAG đã hoàn_tất từ rạng sáng nay ( 19/9 ) nhưng dự_kiến đến sáng_mai ( 20/9 ) thì kênh truyền mới được khôi_phục hoàn_toàn .
+Theo một đơn_vị khai_thác tuyến cáp_quang biển AAG , nhánh cáp S1I đã hoàn_tất mối hàn cuối_cùng và được cấp nguồn trở_lại từ 4h sáng nay , sau đợt bảo_trì bắt_đầu_từ 15/9 .
+Tuy_nhiên , sẽ mất thêm một ngày để thực_hiện việc chôn cáp và khôi_phục cấu_hình nguồn ban_đầu cho hệ_thống .
+Việc hàn cáp AAG đã hoàn_tất nhưng đến ngày 20/9 thì kênh truyền mới được khôi_phục hoàn_toàn .
+Ảnh minh_họa .
+Đáng lưu_ý , quá_trình trả về cấu_hình nguồn cho hệ_thống AAG sẽ khiến toàn_bộ kênh truyền của các nhà khai_thác Internet trên đó bị mất liên_lạc trong khoảng 2 giờ .
+Dự_kiến , việc này sẽ được thực_hiện từ 2h đến gần 4h sáng ngày 20/9 , giờ Việt_Nam .
+Nếu đúng kế_hoạch ,   toàn_bộ lưu_lượng Internet trên tuyến cáp AAG sẽ được khôi_phục hoàn_toàn   từ sau 4h ngày 20/9 .
+Cũng sau mốc thời_gian trên ,   đường truyền Internet từ Việt_Nam đi quốc_tế qua kênh AAG sẽ bình_thường trở_lại .
+Tuyến cáp_quang biển AAG liên_tục gặp sự_cố và lần gần nhất_là đợt sửa_chữa bắt_đầu_từ 15/9 .
+Mặc_dù   một_số đơn_vị cung_cấp Internet tiến_hành chuyển các kết_nối sang kênh khác để đảm_bảo phần_nào chất_lượng đường truyền nhưng vẫn ảnh_hưởng tới người dùng .
+Đầu tháng 8 , cáp_quang biển AAG đã gặp sự_cố kép khiến việc truy_cập Internet từ Việt_Nam ra nước_ngoài bị chậm trong hơn nửa tháng .
+Trước đó , tuyến cáp_quang biển này còn bị đứt hồi tháng 3 và tháng 6/2016 , ảnh_hưởng đến kết_nối mạng trong nhiều ngày .
+Còn trong năm 2015 , AAG cũng gặp sự_cố ít_nhất ba lần .

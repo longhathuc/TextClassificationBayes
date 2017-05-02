@@ -1,0 +1,12 @@
+Game xếp bài kinh_điển lần đầu có trên i Phone và Android
+Trò_chơi Solitaire đã ra_đời cách đây hơn 25 năm nhưng phải tới giờ , Microsoft mới quyết_định đưa nó ra khỏi môi_trường Windows .
+Người dùng i OS và Android có_thể tải miễn_phí bộ sưu_tập Solitaire_Collection về thiết_bị với năm trò_chơi Klondike , Spider , FreeCell , Pyramid và Tripeaks .
+Họ có_thể chơi riêng hoặc so tài cùng bạn_bè .
+Nếu trả phí 1,99 USD , người chơi có cơ_hội tiếp_cận những tính_năng khác_biệt cũng_như không phải xem quảng_cáo .
+Ảnh : Verge
+Ra_đời từ năm 1990 nhưng cho tới tận năm 2010 , Windows_Solitaire vẫn là trò_chơi máy_tính phổ_biến nhất thế_giới trước khi bị Microsoft đưa ra khỏi hệ_điều_hành Windows 8 .
+Phiên_bản đầu_tiên của Solitaire là Klondike , do chuyên_gia Susan_Kare thiết_kế còn người viết code là Wes_Cherry .
+Ngay khi đang phát_triển , Cherry đã dự_đoán game này sẽ được nhân_viên văn_phòng yêu_thích nên đã chèn mã " boss key " trong game để khi nhấn nút , bộ bài sẽ biến_mất và màn_hình hiển_thị vài đoạn mã . C ( giả_vờ như đang làm_việc ) .
+Tuy_nhiên , sau đó Microsoft đã yêu_cầu ông gỡ bỏ tính_năng này .
+Windows_Solitaire đã thu_hút gần 120 triệu người chơi và theo Gizmodo , đây là game hiếm_hoi được nhân_viên văn_phòng ưa_chuộng đến vậy vì nó không chứa yếu_tố bạo_lực hay sex .
+Xem thêm :   Câu_chuyện về game máy_tính phổ_biến nhất thế_giới

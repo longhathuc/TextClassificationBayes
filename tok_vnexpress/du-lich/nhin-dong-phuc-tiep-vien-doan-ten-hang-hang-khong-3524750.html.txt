@@ -1,0 +1,6 @@
+Nhìn đồng_phục tiếp_viên , đoán tên hãng hàng_không
+Mỗi hãng bay đều mong_muốn tạo dấu_ấn riêng với hành_khách bằng chính những bộ đồng_phục của tiếp_viên trong phi_hành_đoàn .
+Thử xem bạn sẽ nhận ra được không ?
+Câu 1 :
+A . Malaysia_Airlines ( Malaysia )
+B . Singapore_Airlines ( Singapore )

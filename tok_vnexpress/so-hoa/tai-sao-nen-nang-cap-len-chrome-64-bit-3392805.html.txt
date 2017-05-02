@@ -1,0 +1,32 @@
+Tại_sao nên nâng_cấp lên Chrome 64-bit
+Lướt web an_toàn hơn , nhanh hơn và ổn_định hơn là lý_do những_ai chưa hoặc đang sử_dụng Google_Chrome 32-bit nên nâng_cấp trình_duyệt này lên phiên_bản 64-bit .
+Bạn có_thể kiểm_tra hệ_thống của mình đang chạy Windows 32-bit hay 64-bit bằng cách bấm chuột phải vào My_Computer , chọn Properties và tìm đến dòng System_Type .
+Chrome 64-bit an_toàn , nhanh và ổn_định hơn so với phiên_bản 32-bit .
+Theo Google , so với bản 32-bit , bản 64-bit của Chrome được bổ_sung nhiều tính_năng bảo_mật hơn .
+Trên một bài đăng blog , hãng nhấn_mạnh “ Chrome 64-bit đặc_biệt hiệu_quả trong việc chống lại các lỗ_hổng bảo_mật dựa trên khả_năng kiểm_soát và bố_trí bộ_nhớ của các đối_tượng mà nó đang duyệt ” .
+Cũng theo Google , các lỗ_hổng trên Adobe_Flash đang được tin_tặc lợi_dụng để nhắm vào người dùng nhiều nhất .
+Tuy_nhiên , việc Chrome 64-bit đi kèm Flash 64-bit sẽ giúp người dùng an_tâm hơn nhờ cơ_chế giảm_thiểu các loại_hình tấn_công , đồng_thời tăng hiệu_suất ứng_dụng nền web .
+Chrome 64-bit còn mang rất nhiều ưu_điểm , dù “ cha_đẻ ” của nó không giải_thích tất_cả với người dùng .
+Cách đây ít_lâu , một bình_luận trên trang báo cáo_lỗi của Google đã phát_hiện Chrome 64-bit có_mặt của tính_năng cho_phép tăng khả_năng bảo_mật từ bên thứ_ba ( giống như các trình diệt virus ) .
+Tất_nhiên , phiên_bản 32-bit không có_mặt của kỹ_thuật tương_tự .
+Ngoài_ra , một lý_do nữa để chọn Chrome 64-bit là bởi nó cho tốc_độ nhanh hơn trên các chuẩn web khác_nhau .
+Theo Google , mức ổn_định của nó cũng gấp đôi so với phiên_bản 32-bit .
+Chrome 64-bit có nhược_điểm không ?
+Năm 2014 , Google đã chỉ ra rằng : “ Chrome 64-bit đã gặp phải một_vài vấn_đề quan_trọng , trong đó có việc hỗ_trợ trình cắm ( plug-in ) dùng NPAPI” .
+Tức_là , một_số trình cắm dùng Java hoặc tương_tự sẽ không hoạt_động trên phiên_bản trình_duyệt này .
+Tuy_nhiên , kể từ Chrome 42 , Google đã không còn hỗ_trợ bất_kỳ trình cắm NPAPI nào nữa , kể_cả phiên_bản 32-bit lẫn 64-bit .
+Chrome 64-bit không hỗ_trợ Windows 32-bit , đó là điều chắc_chắn .
+Đây cũng là hạn_chế của trình_duyệt , tức bạn phải cài_đặt hệ_điều_hành lên 64-bit mới có_thể sử_dụng được nó .
+Ngoài_ra , việc " ngốn " RAM cũng là nhược_điểm " kinh_niên " của không_chỉ trên Chrome 64-bit mà_còn cả 32-bit .
+Hiện_Google vẫn đang nỗ_lực nhằm hạn_chế điều này .
+Cách kiểm_tra phiên_bản đang sử_dụng
+Nếu bạn đang sử_dụng bản 64-bit , sẽ có dòng “ ( 64-bit ) ” đi kèm phiên_bản ( như trên video ) .
+Nếu là phiên_bản 32-bit , nó sẽ không hiển_thị gì thêm ngoài số phiên_bản .
+Cách chuyển sang phiên_bản 64-bit
+Với_Mac và Linux ?
+Với người dùng Mac OS X , kể từ phiên_bản 39 ( 2014 ) , Chrome 64-bit đã được cài mặc_định .
+Như_vậy , chỉ cần bạn không dùng máy Mac quá “ cổ ” thì chắc_chắn Chrome trên máy là 64-bit .
+Chrome trên Mac OS X .
+Còn với Linux , do mới ra_mắt phiên_bản Chrome 64-bit vào đầu tháng 3/2016 nên nếu đang dùng bản 32-bit , hãy vào trang download của Chrome để tải về .
+Lưu_ý , máy của bạn cũng phải cài hệ_điều_hành Linux 64-bit .
+Bảo_Lâm

@@ -1,0 +1,22 @@
+Các loại pin khác_nhau cho laptop
+Trước khi pin Lithium-ion ra_đời , các nhà_sản_xuất đã sử_dụng pin NiCad và pin NiMH để trang_bị cho laptop .
+Hãy thử làm một bài trắc_nghiệm để xem bạn hiểu về các loại pin laptop đến đâu .
+Các loại pin khác_nhau cho laptop .
+1 . Loại pin nào được sử_dụng phổ_biến trong laptop hiện_nay ?
+A . Pin_Lithium - ion
+B . Pin_Ni Cad
+C . Pin_Ni MH
+2 . Hiệu_ứng bộ_nhớ pin xảy_ra trên các loại pin nào ?
+A . Pin_Ni Cad
+B . Pin_Ni MH
+C . Cả hai loại trên
+3 . Điều nào sau đây là đúng về pin NiMH ?
+A . Pin_Ni MH vẫn được sử_dụng cho một_số laptop hiện_nay
+B . Pin_Ni MH không bị ảnh_hưởng bởi Hiệu_ứng bộ_nhớ pin
+C . Cả hai đáp_án trên đều không đúng
+4 . Những quan_niệm nào sau đây là sai ?
+A . Không có cách nào để kiểm_tra loại pin laptop của bạn
+B . Ngoài pin chính , không còn pin phụ nào bên trong máy nữa
+C . Sử_dụng loại pin không phù_hợp gây ra tác_hại không đáng_kể
+D . Tất_cả những ý trên đều sai
+Phương_Dung

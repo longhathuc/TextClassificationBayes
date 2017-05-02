@@ -1,0 +1,17 @@
+Kỹ_sư lập_trình có_thể nhận lương hơn 2.000 USD mỗi tháng
+Một kỹ_sư lập_trình tại Việt_Nam có_thể đạt mức thu_nhập hằng tháng từ 1.300 lên đến hơn 2.000 USD nếu bắt kịp kiến_thức về những công_nghệ mới , theo báo_cáo của VietnamWorks .
+VietnamWorks - trang_web việc_làm thuộc Tập_đoàn Navigos_Group_Việt_Nam - vừa phát_hành báo_cáo về lương , phúc_lợi nhân_viên và kỹ_năng ngành công_nghệ_thông_tin năm 2017 .
+Báo_cáo cho_hay , trong khoảng 3 năm trở_lại đây ( 2013 - 2016 ) , số việc_làm trong ngành này được đăng_tải đã tăng gấp đôi , từ 6.800 lên gần 15.000 lượt nhu_cầu mỗi năm .
+" Nếu_như cách đây 15 năm , nhu_cầu tuyển_dụng nhân_sự ngành công_nghệ_thông_tin chủ_yếu phục_vụ cho mảng gia_công phần_mềm , thì hiện_nay xu_hướng này đang chuyển_dịch sang mảng dịch_vụ .
+Hiện có khá nhiều các công_ty phát_triển sản_phẩm phần_mềm đã xây_dựng văn_phòng làm_việc và trung_tâm phát_triển phần_mềm tại Việt_Nam " , báo_cáo nhận_định .
+Tuy_nhiên , 80% việc_làm IT được đăng_tải yêu_cầu hơn 2 năm kinh_nghiệm .
+Nhu_cầu tuyển_dụng nhân_sự ngành công_nghệ_thông_tin tăng gấp đôi trong vòng 3 năm qua .
+Ảnh minh_họa : AFP
+Thống_kê dữ_liệu việc_làm đăng_tải trên trang VietnamWorks trong năm 2016 , và theo thông_tin khảo_sát từ các ứng_viên trong ngành , một kỹ_sư lập_trình tại Việt_Nam có_thể đạt mức thu_nhập từ 1.300 lên đến hơn 2.000 USD mỗi tháng ( khoảng 29,6 đến 45,5 triệu đồng ) nếu bắt kịp kiến_thức về những công_nghệ mới nhất trên thị_trường hiện_nay .
+Trong đó , đứng đầu là ứng_viên có kinh_nghiệm với ngôn_ngữ_lập_trình Objective - C .
+" 81% nhà tuyển_dụng tham_gia khảo_sát đã có kế_hoạch tăng lương cho nhân_viên trong năm 2017 , mức tăng sẽ vào_khoảng 6% - 20% " , báo_cáo cho_hay .
+Top 5 kỹ_năng được nhà tuyển_dụng cần nhất ở nhân_sự ngành IT trong năm 2017 bao_gồm JavaScript , PHP , C# , HTML5 và Java .
+Trong đó , nhu_cầu về JavaScript đang tăng mạnh – hơn 50% các công_ty tham_gia khảo_sát đều đã đưa yêu_cầu về ngôn_ngữ này vào kế_hoạch tuyển_dụng năm nay .
+Bên_cạnh đó , nhân_sự IT có kiến_thức và kỹ_năng về Angular.JS là một web framework mở dựa trên JavaScript , kỹ_năng về Mobile_Native_Platforms đang được các nhà tuyển_dụng “ săn_đón ” nhiều nhất trong năm nay .
+" Ngoài_ra , trong năm 2017 , các trào_lưu công_nghệ trên thế_giới sẽ có những tác_động đến thị_trường IT tại Việt_Nam , bao_gồm điện_toán đám mây , JavaScript , An_ninh mạng , Big_Data , Internet of Things và Docker .
+Nhân_sự làm trong ngành IT nắm được thông_tin về các trào_lưu công_nghệ này sẽ có những lợi_thế nhất_định khi tìm_kiếm việc_làm mới trong năm 2017 " , báo_cáo nhận_định .

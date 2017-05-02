@@ -1,0 +1,16 @@
+Abacus - lý_do để người dùng i Phone chuyển sang Android
+Với những tính_năng như loại_bỏ mật_khẩu và thay_thế bằng thói_quen sử_dụng để mở khóa thiết_bị , dự_án Project_Abacus được kỳ_vọng sẽ lôi_kéo những người đang dùng i Phone chuyển sang Android .
+Đã từ lâu , tranh_luận xung_quanh việc hệ_sinh_thái Android hay i OS tốt hơn luôn nhận được rất nhiều ý_kiến trái_ngược .
+Riêng với " tín_đồ " iPhone , họ tự_hào thiết_bị của mình hấp_dẫn bởi sự đơn_giản , đẹp , thân_thiện và tiện_dụng .
+Việc cố_gắng thuyết_phục họ chuyển qua sử_dụng Android cũng khó như kêu_gọi người dùng Windows hay Mac OS_X sang dùng Linux vậy .
+Với_Project_Abacus , việc mở khóa smartphone sẽ đơn_giản hơn rất nhiều .
+Ảnh : Digital_Trends .
+Tuy_nhiên , giới phân_tích nhận_định , có một thứ sẽ khiến họ thay_đổi suy_nghĩ , đó là Abacus , một dự_án táo_bạo của Google , cho_phép mở khóa điện_thoại dựa trên thói_quen người dùng thay_vì sử_dụng mật_khẩu rườm_rà .
+Theo Google , Project_Abacus là hệ_thống bảo_mật sinh trắc học   tiên_tiến .
+Nó sẽ dựa theo thói_quen gõ phím của mỗi cá_nhân , nhận_biết chủ_nhân qua gương_mặt , giọng nói , địa_điểm thường_xuyên sử_dụng … và lưu lại dưới dạng " điểm tin_tưởng " ( Trust_Score ) .
+Hệ_thống sẽ tính trên điểm tin_tưởng và mức_độ quan_trọng của ứng_dụng để mở khóa .
+Ví_dụ , điểm ưu_tiên để mở một trò_chơi thấp hơn mở thư_viện ảnh và thấp hơn rất nhiều so với mở ứng_dụng giao_dịch ngân_hàng .
+Trang công_nghệ   TechInsider   cho rằng , nếu ra_mắt , Abacus sẽ giúp hầu_hết các smartphone Android hiện_nay từ giá rẻ đến cao_cấp hấp_dẫn hơn nhờ tính_năng đặc_biệt mà các nền_tảng khác không có .
+Đó là loại_bỏ sự phiền_hà khi sử_dụng mật_khẩu , thậm_chí là loại cả cảm_biến vân tay đang thịnh_hành , hay cảm_biến mống mắt đang được phát_triển ...
+Đây cũng là yếu_tố giúp điện_thoại Android thu_hút người dùng i OS , Windows_Phone ... về phía mình .
+Bảo_Lâm

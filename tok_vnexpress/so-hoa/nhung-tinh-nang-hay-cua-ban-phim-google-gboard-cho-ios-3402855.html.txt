@@ -1,0 +1,20 @@
+Những tính_năng hay của bàn_phím Google GBoard cho i OS
+Tìm_kiếm , gửi ảnh động , video ngay trên bàn_phím , tra_cứu emoji nhanh , nhập liệu bằng thao_tác vuốt ... là những tính_năng đáng chú_ý mà GBoard mang lại cho người dùng i OS .
+Với ứng_dụng bàn_phím thông_thường , nếu muốn gửi cho người_thân , bạn_bè các địa_điểm ăn_uống , du_lịch hay đơn_giản là một bức ảnh động ... , người dùng phải thoát ra ngoài , sử_dụng trình_duyệt để tìm_kiếm , sao_chép liên_kết trước khi quay lại , dán và gửi .
+Nhưng với Google GBoard , điều đó được thực_hiện ngay trên bàn_phím .
+Sau khi tải về   từ App_Store , người dùng phải mất thêm vài giây   để cài_đặt GbBoard là   bàn_phím mặt định .
+Sau khi cài_đặt , sẽ có một biểu_tượng hình_tròn có chữ G nhiều màu_sắc xuất_hiện .
+Khi nhấn vào , bạn có_thể tìm_kiếm thứ mình cần .
+Điểm đặc_biệt của Gboard là khả_năng tìm_kiếm ngay trên   bàn_phím .
+Chỉ cần gõ tên nhà_hàng , khách_sạn , địa_điểm vui_chơi ... thì thông_tin liên_quan   sẽ hiện ra lập_tức .
+Tất_nhiên , điện_thoại của bạn phải được kết_nối Internet .
+Tính_năng tìm_kiếm ảnh động .
+Tìm_kiếm video .
+Việc tìm emoji cũng   dễ_dàng hơn nhiều so với bàn_phím truyền_thống .
+Chỉ cần nhập vào cụm_từ cảm_xúc , emoji sẽ hiện ra để bạn lựa_chọn .
+Ngoài   nhập liệu thông_thường , bàn_phím của Google có_thể giúp người dùng thao_tác nhanh hơn thông_qua việc vuốt qua những chữ_cái .
+Đây là tính_năng từng xuất_hiện trên một_số bàn_phím trước đó .
+Google GBoard mới chỉ có_mặt trên nền_tảng i OS , hỗ_trợ tiếng Anh .
+Theo Bri_Connelly , một kỹ_sư làm_việc trong nhóm GBoard , bàn_phím đang tiếp_tục được phát_triển cho Android và sẽ sớm có_mặt trên nền_tảng này trong tương_lai gần , cũng_như hỗ_trợ nhiều ngôn_ngữ khác .
+Trải_nghiệm nhanh bàn_phím Google GBoard cho i OS
+Bảo_Lâm

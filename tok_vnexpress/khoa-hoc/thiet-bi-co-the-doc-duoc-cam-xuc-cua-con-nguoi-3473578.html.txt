@@ -1,0 +1,13 @@
+Thiết_bị có_thể đọc được cảm_xúc của con_người
+EQ-Radio có_thể dựa vào nhịp tim và hơi thở để dự_đoán cảm_xúc của con_người , mở ra khả_năng ứng_dụng trong nhiều lĩnh_vực .
+Nhóm nghiên_cứu đến từ Phòng_thí_nghiệm Trí_tuệ_nhân_tạo và Khoa_học máy_tính ( CSAIL ) của Viện_Công nghệ Massachusetts , Mỹ chế_tạo thiết_bị có_thể đọc cảm_xúc của con_người mà không cần dựa vào lời_nói hay hành_động của họ , IFL Science hôm 21/9 đưa tin .
+Thiết_bị mang tên EQ-Radio , phát ra tín_hiệu vô_tuyến lên cơ_thể đối_tượng , sau đó các cảm_biến sẽ thu_nhận tín_hiệu phản_xạ để ghi lại thông_tin về hơi thở và nhịp tim của họ .
+Bằng cách sử_dụng thuật_toán phân_tích những dữ_liệu này , EQ-Radio có_thể xác_định những thay_đổi nhỏ trong các khoảng nhịp tim .
+Qua đó , nó có_thể dự_đoán đối_tượng đang hạnh_phúc , buồn_rầu , tức_giận hay kích_động với độ_chính_xác 87% .
+Thiết_bị này có khả_năng ứng_dụng trong nhiều lĩnh_vực .
+Các hãng phim và công_ty quảng_cáo có_thể dùng nó để thu_thập thông_tin về phản_ứng của người xem .
+Ngoài_ra , những ngôi nhà thông_minh có_thể sử_dụng dữ_liệu từ thiết_bị để điều_chỉnh ánh_sáng và nhiệt_độ theo cảm_giác của con_người .
+Dina_Katabi , người đồng phát_triển , cũng chỉ ra khả_năng ứng_dụng EQ-Radio trong chăm_sóc sức_khỏe .
+" Kết_quả nghiên_cứu của chúng_tôi có_thể mở_đường cho các công_nghệ trong tương_lai , giúp giám_sát và chẩn_đoán các căn_bệnh như trầm_cảm hay rối_loạn lo_âu " , Dina chia_sẻ .
+Xem thêm :   Công_nghệ xe ôtô tự lái tương_lai
+Hiền_Anh

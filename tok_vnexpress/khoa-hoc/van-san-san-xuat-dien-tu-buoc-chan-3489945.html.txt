@@ -1,0 +1,17 @@
+Ván sàn sản_xuất điện_từ bước chân
+Loại ván sàn mới có_thể sản_xuất ra lượng điện đủ để thắp sáng 35 đèn LED từ một bước chân của con_người .
+Xudong_Wang , đến từ_trường Đại_học Wisconsin-Madison , Mỹ , và các đồng_nghiệp vừa chế_tạo loại ván sàn có_thể sản_xuất điện_từ bước chân của con_người , New_Scientist hôm 26/10 đưa tin .
+Nhóm nghiên_cứu chế_tạo ván sàn bằng cách lấy các sợi nano cellulose từ bột gỗ và tách chúng thành hai lớp , trong đó một lớp được xử_lý hóa_học để trở_thành lớp tích điện dương .
+Sau đó , họ bọc hai lớp vào bìa các_tông và nén chúng thành tấm ván cứng .
+Dưới áp_lực của bước chân , hai lớp cellulose tiếp_xúc với nhau và trao_đổi electron .
+Khi nhấc chân lên , các electron chạy qua một_mạch điện bên ngoài , sản_sinh ra điện_năng .
+Một bước chân trên tấm ván tạo ra nguồn điện 10-30 volt , có khả_năng thắp sáng 35 đèn LED .
+Chi_phí_sản_xuất loại ván sàn này tương_đương với ván gỗ thông_thường , tuy_nhiên cần thêm chi_phí cho việc bóc tách sàn cũ và kết_nối sàn mới với thiết_bị tích_trữ năng_lượng .
+Nhóm nghiên_cứu đang lên kế_hoạch thử_nghiệm sàn mẫu ở khu_vực đông người qua_lại trong trường đại_học .
+Họ hy_vọng có_thể sử_dụng loại ván sàn này để cung_cấp năng_lượng cho hệ_thống đèn và cảm_biến trong các ga tàu hoặc trung_tâm thương_mại .
+" Ý_tưởng của chúng_tôi là sản_xuất điện_từ nguồn năng_lượng có_thể bị lãng_phí .
+Phương_pháp này là nguồn bổ_sung cho năng_lượng Mặt_Trời .
+Nó có_thể hoạt_động trong tòa nhà và cả dưới mặt_đất , nơi ánh_sáng Mặt_Trời có_thể không đủ hoặc không tới được .
+Chúng_tôi tin rằng đây là phương_pháp mang hiệu_quả kinh_tế nhất so với các công_nghệ khác để thu năng_lượng từ bước chân " , Wang cho_biết .
+Xem thêm :   Chất_xúc_tác có_thể biến khí_thải thành nhiên_liệu
+Hiền_Anh

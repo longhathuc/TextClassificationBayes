@@ -1,0 +1,17 @@
+Mất hơn một tháng để sửa cáp_quang AAG
+Dự_kiến đến ngày 27/3 , sự_cố đứt cáp_quang biển AAG mới được khắc_phục , đưa Internet đi quốc_tế qua kênh này trở_lại bình_thường .
+Tuyến cáp Asia - America_Gateway ( AAG ) gặp sự_cố chiều_tối 18/2 , ở hướng kết_nối cập bờ khu_vực Hong_Kong , ảnh_hưởng tới kết_nối Internet từ Việt_Nam đi quốc_tế .
+Đơn_vị điều_hành AAG xác_định vị_trí lỗi cách trạm Sounth_Lantau , Hong_Kong , khoảng 87km .
+Vị_trí này nằm trong vùng_biển của Trung_Quốc .
+Cáp_quang AAG dự_kiến sửa trong hơn một tháng .
+Ảnh minh_họa .
+Thông_tin đến các nhà_cung_cấp dịch_vụ Internet ( ISP ) tại Việt_Nam , bên điều_hành AGG cho_biết dự_kiến đến 23/3 tàu sửa_chữa mới di_chuyển đến điểm gặp sự_cố và mối hàn đầu_tiên sẽ hoàn_tất vào ngày 25/3 .
+Trong khi đó mối hàn cuối được thực_hiện ngày 27/3 , sau đó tàu sửa_chữa sẽ tiến_hành chôn cáp .
+Như_vậy , sẽ mất hơn một tháng để hoàn_tất sửa cáp_quang AAG .
+Đánh_giá về sự_cố , ông Vũ_Thế_Bình , Tổng_thư_ký Hiệp_hội Internet_Việt_Nam ( VIA ) , nhận_định lần này người dùng trong nước có bị ảnh_hưởng nhưng thời_gian ảnh_hưởng ít hơn trước nhiều .
+Lý_do là tuyến cáp_quang biển châu Á - Thái_Bình_Dương ( APG ) được đưa vào khai_thác từ cuối năm 2016 , giảm sự phụ_thuộc vào AAG so với trước_đây .
+Trong khi đó , một_số nhà mạng tại Việt_Nam tuyên_bố   không bị ảnh_hưởng bởi sự_cố đứt cáp AAG nêu trên .
+Lý_do , họ đã bổ_sung và nâng_cấp dung_lượng kết_nối trên tuyến APG và cả hướng kết_nối Internet trên đất_liền .
+Sự_cố ngày 18/2 là lần thứ_hai trong năm 2017 tuyến cáp_quang biển AAG trục_trặc .
+Trước đó , hôm 8/1 , tuyến cáp này đã gặp sự_cố rò điện khiến sụt nguồn , hệ_thống phải sửa_chữa .
+Ngoài AAG , tính_từ đầu 2017 , Internet tại Việt_Nam cũng bị ảnh_hưởng bởi sự_cố kép của tuyến cáp IA ( Liên Á ) vào ngày 10/1 và 11/1 , với lỗi tương_tự nhưng ở gần nhánh đi Singapore .

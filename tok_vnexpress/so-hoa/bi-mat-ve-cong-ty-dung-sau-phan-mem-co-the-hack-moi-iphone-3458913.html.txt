@@ -1,0 +1,24 @@
+Bí_mật về công_ty đứng sau phần_mềm có_thể hack mọi i Phone
+Tập_đoàn NSO Group   có trụ_sở tại Israel nhưng lại thuộc sở_hữu của một công_ty đầu_tư đến từ Mỹ có_thể viết công_cụ đột_nhập i Phone với 3 lỗi zero - day .
+Theo BBC , nhà hoạt_động về nhân_quyền ,   Ahmed_Mansoor mới_đây đã phát_hiện mình là mục_tiêu của một cuộc tấn_công mạng khi nhận được tin nhắn vào chiếc i Phone .
+Trong đó , người gửi giấu tên đưa ra thông_điệp đầy hứa_hẹn sẽ cung_cấp bí_mật về những cuộc tra_tấn xảy_ra trong nhà_tù ở   các nước Tiểu_Vương quốc Ả Rập thống_nhất ( UAE ) .
+Nếu nhấn vào liên_kết , ông sẽ bị lộ lượng lớn dữ_liệu cá_nhân , tin nhắn , hình_ảnh , email , dữ_liệu vị_trí và thậm_chí là tự_động ghi_âm cuộc_gọi , hình_ảnh và gửi đi .
+Điều may_mắn là   Ahmed_Mansoor đã không làm_vậy và chuyển ngay thông_điệp đến các chuyên_gia về an_ninh mạng của công_ty   Lookout và nhóm giám_sát Internet , Citizen_Lab .
+Kết_quả xác_định ban_đầu về cách_thức thực_hiện cho thấy , tập_đoàn NSO chính là những người đứng sau vụ_việc .
+NSO Group được thành_lập vào năm 2010 , từng_trải qua nhiều tên gọi khác_nhau .
+Công_ty này có trụ_sở tại   Herzliya , Israel nhưng lại thuộc sở_hữu của một công_ty đầu_tư đến từ Mỹ là   Francisco_Partners .   NSO hiện được định_giá vào_khoảng một tỷ USD .
+Công_ty này   chuyên tạo ra các công_cụ mà họ gọi_là chống tội_phạm và khủng_bố .
+Tuy_nhiên , các nghiên_cứu an_ninh lại gọi đây là một " đại_lý bán các vũ_khí trên không_gian mạng " .
+Ngoài_ra , theo Forbes , NSO cũng được đầu_tư bởi   8200 Intelligence_Unit , chương_trình tài_trợ cho các start - up quân_sự của Israel .
+NSO từng tự_hào có_thể tung ra các công_cụ đột_nhập không để lại dấu_vết .
+Sau khi bị cáo_buộc có liên_quan đến việc đột_nhập vào điện_thoại của   Ahmed_Mansoor , người_phát_ngôn của tập_đoàn này cho_biết : " Công_ty chỉ bán công_cụ cho các cơ_quan chính_phủ có thẩm_quyền và tuân_thủ đầy_đủ , nghiêm_ngặt luật kiểm_soát , quy_định về xuất_khẩu " .
+Cuộc tấn_công vào các máy i Phone vừa_qua được thực_hiện thông_qua tới 3 lỗi zero - day .
+Thuật_ngữ zero - day nhằm ám_chỉ các lỗ_hổng chưa từng biết đến trước_đây của ngành công_nghiệp an_ninh , giúp các tin_tặc đột_nhập vào hệ_thống đó .
+Để khám_phá ra một lỗi hiện_nay đã là quá hiếm , vì_vậy , việc tìm tới được 3 lỗi zero - day được coi là rất xuất_sắc , BBC nhấn_mạnh .
+Manh_mối về nguồn_gốc tấn_công được các chuyên_gia tìm được khi xem kỹ thông_điệp mà ông Mansoor nhận được trong điện_thoại .
+Liên_kết trong tin nhắn đưa đến một tên_miền web với các máy_chủ được thành_lập bởi tập_đoàn NSO phục_vụ cho các khách_hàng .
+Ngoài_ra , việc phân_tích phần_mềm gián_điệp cũng cho thấy tài_liệu tham_khảo có mã Pegasus , cái tên được NSO sử_dụng cho một trong các sản_phẩm phần_mềm gián_điệp của mình .
+Trong khi đó , Apple tiến_hành vá lỗi bằng việc phát_hành i OS 9.3.5 .
+Công_ty công_nghệ Mỹ tuyên_bố lỗ_hổng đã được xem_xét ngay sau khi hãng có thông_tin .
+Apple khuyến_cáo khách_hàng luôn cập_nhật i OS mới nhất để tự bảo_vệ trước các mối nguy_hiểm tiềm_ẩn .
+Để kiểm_tra và tiến_hành nâng_cấp trên i OS , người dùng truy_cập mục Settings > General > Software_Update .

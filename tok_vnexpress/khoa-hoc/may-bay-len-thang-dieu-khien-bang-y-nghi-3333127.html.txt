@@ -1,0 +1,13 @@
+Máy_bay_lên_thẳng điều_khiển bằng ý_nghĩ
+Các nhà_khoa_học Nga tạo ra chiếc máy_bay_lên_thẳng 4 cánh có_thể điều_khiển_từ_xa bằng ý_nghĩ .
+The_Sputnik_News , để vận_hành chiếc máy_bay , người sử_dụng chỉ cần đội một chiếc mũ có khả_năng đọc ý_nghĩ và biến chúng thành tín_hiệu điều_khiển chiếc trực_thăng vận_hành ở độ cao và khoảng_cách mong_muốn .
+Dự_án được cấp ngân_sách bởi Tổ_chức Nghiên_cứu Cao_cấp của Nga , đơn_vị chuyên hỗ_trợ những chương_trình liên_quan đến quốc_phòng .
+Neurobotics , công_ty ở Zelenograd , Nga , đã thiết_kế chiếc máy_bay trong nhiều năm trước khi cho ra_đời mẫu thử_nghiệm thành_công .
+" Các lệnh được sản_sinh bởi cảm_biến gắn trên đầu người điều_khiển .
+Khi người này nghĩ về hành_động nào_đó tại một thời_điểm , hệ_thống sẽ nhận_biết và xác_định lệnh " , Vladimir_Konyshev , giám_đốc công_ty Neurobotics , giải_thích .
+Một trong những đặc_điểm nổi_bật nhất của công_nghệ này là nó cho_phép người sử_dụng thực_hiện nhiều nhiệm_vụ cùng lúc .
+" Người điều_khiển máy_bay có_thể làm một việc khác ở cùng thời_điểm " , Konyshev nói .
+Theo Vitaliy_Davidov , đại_diện Quỹ_Phát triển Nghiên_cứu Triển_vọng của Nga , công_nghệ có tầm quan_trọng lớn bởi nó có nhiều ứng_dụng khác ngoài kiểm_soát máy_bay_không_người_lái .
+Hiện_nay , các nhà_nghiên_cứu đang lên kế_hoạch áp_dụng công_nghệ trên chiến_trường .
+Ví_dụ , chiếc máy_bay có thể_theo sát một người lính đang chiến_đấu để cung_cấp hình_ảnh theo thời_gian_thực về mọi diễn_biến ở trận_địa .
+Phương_Hoa

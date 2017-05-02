@@ -1,0 +1,41 @@
+Bộ đôi thiết_bị phát 3G di_động qua Wi-Fi của TP-Link
+TP-Link M5350 và M7350 cho_phép kết_nối từ 10-15 thiết_bị cùng lúc vào Internet ổn_định trong khoảng_cách vài chục mét .
+Kết_nối mạng trong lúc di_chuyển hiện_nay là một nhu_cầu thiết_yếu và người dùng thường sử_dụng điện_thoại kết_nối 3G hoặc phát Wi-Fi cho các thiết_bị khác .
+Nếu thời_gian sử_dụng ngắn thì đây là giải_pháp phù_hợp .
+Tuy_nhiên , trong trường_hợp phải sử_dụng kết_nối Internet lâu_dài , cách dùng này không_chỉ làm nóng điện_thoại mà_còn gây sụt_giảm pin nghiêm_trọng .
+M7350 ( trái ) và M5350 ( phải ) .
+Vì_thế , phương_pháp tối_ưu là sử_dụng thiết_bị phát Wi-Fi di_động .
+Dưới đây là 2 sản_phẩm Mi-Fi M5350 và M7350 của TP-Link đảm_bảo kết_nối Internet di_động hữu_hiệu .
+TP-Link M5350
+Đây là thiết_bị phát Wi-Fi di_động thông_qua kết_nối 3G cho_phép kết_nối 10 thiết_bị di_động cùng lúc vào Internet khi đang di_chuyển .
+Sản_phẩm thiết_kế theo dạng hòn sỏi , kích_thước nhỏ gọn và lớp vân giả_da ở mặt trước sang_trọng .
+M5350 có khe cắm SIM hỗ_trợ kết_nối 3G , trang_bị thêm khe cắm thẻ nhớ micro SD , hỗ_trợ mức dung_lượng tối_đa 32GB .
+Nhờ vậy , bạn có_thể mở_rộng không_gian lưu_trữ , biến thiết_bị thành một ổ_cứng di_động gọn_nhẹ , giải_quyết nhu_cầu lưu_trữ cá_nhân và làm_việc khi đang di_chuyển .
+TP-Link M5350 thiết_kế nhỏ gọn trong lòng bàn_tay .
+Thiết_lập M5350 tương_đối đơn_giản , tương_tự như trên điện_thoại_di_động .
+Người dùng chỉ cần tháo nắp lưng ra , cắm SIM vào là mọi thứ đã sẵn_sàng .
+Để kích_hoạt M5350 , cần giữ nút nguồn 5 giây .
+Việc này tránh được hiện_tượng thiết_bị bật ngẫu_nhiên , giảm_thiểu tiêu tốn năng_lượng và mức dung_lượng kết_nối mạng không cần_thiết .
+Màn_hình OLED đơn_sắc của M5350 hiển_thị các thông_tin hữu_ích như độ mạnh tín_hiệu di_động , tên của nhà mạng di_động , dung_lượng đã sử_dụng ...
+Các biểu_tượng thể_hiện rõ_ràng trên màn_hình , dễ hiểu cho quá_trình thao_tác .
+Khoảng_cách kết_nối của M5350 đến các thiết_bị di_động khác là khoảng 25m .
+M5350 hỗ_trợ tốc_độ download tối_đa 21MB một giây .
+Đây là tốc_độ tương_đối cao để sử_dụng cho các nhu_cầu cá_nhân như truy_cập web , mạng xã_hội hoặc stream YouTube .
+Thiết_bị sử_dụng pin dung_lượng 2.000mAh , có_thể hoạt_động 6-7 giờ khi sử_dụng liên_tục .
+TP-Link M7350
+Nếu M5350 hỗ_trợ kết_nối 3G di_động thì phiên_bản M7350 có thêm kết_nối 4G cho kết_nối Wi-Fi nhanh và mạnh hơn .
+Sản_phẩm thiết_kế nhỏ gọn , vuông_vắn với 2 phím cứng bật nguồn và menu .
+Màn_hình kích_thước 1,4 inch của M7350 hiển_thị đầy_đủ thông_tin như loại_hình mạng , tín_hiệu sóng , kết_nối Internet , tốc_độ tải về , tải lên , dung_lượng đã sử_dụng … Màn_hình sẽ tắt sau 15 giây để tiết_kiệm pin .
+Để kích_hoạt màn_hình , chỉ cần nhấn nút nguồn hay menu .
+M7350 có màn_hình 1,4 inch hiển_thị đầy_đủ thông_tin cần_thiết .
+M7350 hỗ_trợ gồm có 2,4 GHz và 5GHz , cho_phép tối_đa 15 thiết_bị kết_nối cùng lúc với băng_thông tổng_cộng 300MB một giây .
+Ngoài_ra , thiết_bị còn hỗ_trợ chuyển vùng dữ_liệu .
+Người dùng có_thể lựa_chọn mạng ưu_tiên như trên điện_thoại ( ưu_tiên 4G , hoặc chỉ 4G hay chỉ 3G ) .
+Đây là tính_năng thú_vị nếu thường_xuyên phải sử_dụng thiết_bị trong môi_trường liên_tục chuyển_đổi từ 3G sang 4G , tránh gây ảnh_hưởng đến pin .
+M7350 hoạt_động trên các băng tầng 4G 800 - 900 - 1.800 - 2100 - 2.600MHz , nên có_thể sử_dụng thiết_bị rộng_rãi ở nhiều quốc_gia .
+Tốc_độ tải về 4G tối_đa của thiết_bị là 150MB một giây và tải lên tối_đa 50MB một giây .
+Dung_lượng pin 2.550mAh của M7350 có_thể sử_dụng liên_tục khoảng 7-8 giờ sử_dụng trước khi được thông_báo " pin yếu " .
+Người dùng có_thể sử_dụng pin sạc dự_phòng để sạc M7350 khi đang di_chuyển .
+Sau 5 phút không có kết_nối hay tín_hiệu mạng nào , thiết_bị sẽ tự_động được chuyển vào trạng_thái nghỉ ( thời_gian chờ kết_nối có_thể tùy chỉnh ) .
+Storage_Sharing ( chia_sẻ lưu_trữ ) là tính_năng hữu_ích của M7350 giúp người dùng kết_nối với thẻ nhớ bên trong thiết_bị như một USB không dây để lưu_trữ và chia_sẻ thông_tin , tiện_lợi khi di_chuyển .
+Minh_Trí

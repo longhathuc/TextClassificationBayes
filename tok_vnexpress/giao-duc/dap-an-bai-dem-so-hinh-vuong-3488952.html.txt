@@ -1,0 +1,3 @@
+Đáp_án bài đếm số hình_vuông
+Nhiều độc_giả đã trả_lời đúng , đáp_số là 40 .
+Để không bị sót bất_kỳ hình_vuông nào , hãy đếm theo từng kích_cỡ từ bé đến lớn .

@@ -1,0 +1,10 @@
+Chuyển làn qua vạch liền - tình_huống bạn có_thể nhầm
+Với loại vạch song_song một đứt , một liền , xe được chuyển_hướng từ bên nào sang hay cả hai hướng đều được ?
+Tại_Hà_Nội xuất_hiện một_số đoạn đường trong khu dân_cư có kẻ vạch một đứt một liền nằm cạnh nhau như hình_vẽ dưới đây , để phân_chia các làn_đường cùng chiều chứ không phải phân_chia hai làn ngược chiều .
+Trong ảnh dưới đường có 3 làn , vạch màu đậm bên trái là dải_phân_cách cứng .
+Nếu xe ôtô chuyển_hướng như trong ảnh , tài_xế sẽ bị phạt lỗi gì ?
+A . Lỗi không tuân_thủ vạch kẻ đường
+B . Lỗi đi sai làn_đường
+C . Lỗi chuyển làn ở nơi không được phép
+D . Không bị phạt
+Minh_Hy

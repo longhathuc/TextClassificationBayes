@@ -1,0 +1,10 @@
+Hàng_loạt website bị rò_rỉ dữ_liệu
+Một lỗi bảo_mật của   Cloudflare đã khiến rất nhiều website như Uber , Fitbit hay OkCupid ... nguy_cơ lộ tài_khoản và mật_khẩu người dùng .
+Cloudflare là một công_ty bảo_mật và tối_ưu nội_dung trên Internet , cung_cấp dịch_vụ cho rất nhiều website lớn trên thế_giới .
+Lỗ_hổng được công_ty công_bố có_thể làm rò_rỉ dữ_liệu nhạy_cảm bao_gồm các tập_tin cookie ( đoạn ghi_nhớ những thông_tin như tên đăng nhâp , mật_khẩu ... ) , khóa API và cả mật_khẩu .
+Lỗi trong hệ_thống của Cloudflare khiến mất an_toàn thông_tin   cho   nhiều website .
+Nhà_nghiên_cứu bảo_mật   Tavis_Ormandy của Google là người đã xác_định được lỗ_hổng trên và đã liên_hệ với   Cloudflare .
+Khoảng 7 giờ sau , lỗ_hổng đã được khắc_phục và hiện công_ty đang liên_hệ với các bên quản_lý bộ_máy tìm_kiếm để gỡ bỏ các dữ_liệu lỗi .
+Ormandy cho_biết ông đã tìm thấy mã đặt phòng khách_sạn , mật_khẩu vả cả_tin nhắn không mã_hóa của các dịch_vụ hẹn_hò trực_tuyến .
+Sự_cố bảo_mật trên tạm được gọi với tên   Cloudbleed , gợi nhớ đến lỗ_hổng bảo_mật " Trái_tim rỉ máu " ( Heartbleed ) nổi_tiếng trước đó .
+Theo công_ty bảo_mật   Alvasky , có khoảng 10.000 website của Việt_Nam nằm trong danh_sách bị ảnh_hưởng bởi   Cloudbleed , trong đó có những trang sử_dụng tên_miền dành cho cơ_quan giáo_dục , các doanh_nghiệp .

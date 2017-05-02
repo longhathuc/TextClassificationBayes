@@ -1,0 +1,9 @@
+Bài_toán kiểm_tra bạn có thông_minh hơn học_sinh lớp 5
+Nếu_không giải được bài_toán ' bánh_xe ' nhằm đánh_giá năng_lực tư_duy của học_sinh lớp 5-6 này , bạn nên rèn khả_năng toán_học nhiều hơn_nữa .
+Bài_toán được lấy từ đề thi đánh_giá năng_lực tư_duy toán_học IMAS dành cho học_sinh lớp 5-6 đã khiến rất nhiều người_lớn đầu_hàng .
+Đề_bài cho một hệ_thống 3 bánh_xe màu xám được bao quanh bởi một dây curoa như sau :
+Biết mỗi bánh_xe có bán_kính 10 cm .
+Lấy_Pi = 3,14 .
+Hỏi phần diện_tích màu trắng còn lại phía trong phần được bao_bọc bởi dây curoa là bao_nhiêu ?
+Thanh_Tâm
+> > Bài_toán ' con kiến ' thách_thức suy_luận của bạn > > Đố bạn giải được bài_toán ' đồng_hồ cát '

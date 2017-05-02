@@ -1,0 +1,10 @@
+Apple ngưng cho hạ_cấp từ i OS 10.2 xuống các bản thấp hơn
+Người dùng i OS sau khi nâng_cấp thiết_bị lên phiên_bản 10.2 sẽ không_thể hạ_cấp xuống 10.1 , 10.1.1 hoặc thấp hơn được nữa .
+Người dùng i OS 10.2 không_thể hạ_cấp xuống i OS 10.1 và 10.1.1 .
+Theo thông_lệ , Apple vẫn cấp phép ( sign ) cho một bản firmware i OS cụ_thể , và khi có được điều này , người dùng i Phone , iPad vẫn dễ_dàng hạ_cấp ( downgrade ) .
+Ví_dụ , người dùng có_thể hạ_cấp từ i OS 10.2 mới nhất xuống i OS 10.1 và i OS 10.1.1 khi 2 phiên_bản này còn được cấp phép .
+Tuy_nhiên , trong thông_báo mới nhất , Apple đã chặn hạ_cấp từ i OS 10.2 xuống phiên_bản thấp hơn .
+Theo Macrumors , động_thái của Apple là dễ hiểu , khi i OS 10.2 đã ra_mắt được hơn một tuần , và hãng cũng luôn có thói_quen chặn downgrade sau một_vài tuần nhằm khuyến_khích người dùng cập_nhật phần_mềm cho thiết_bị lên phiên_bản mới nhất .
+Apple hiện đã thử_nghiệm i OS 10.2.1 beta với một_số thay_đổi nhỏ , chủ_yếu sửa lỗi i Phone bị tụt pin và tắt nguồn đột_ngột , cũng_như cải_thiện hiệu_năng và tăng độ ổn_định cho thiết_bị .
+Phiên_bản này có_thể được trình_làng trong vài tuần nữa .
+Bảo_Lâm

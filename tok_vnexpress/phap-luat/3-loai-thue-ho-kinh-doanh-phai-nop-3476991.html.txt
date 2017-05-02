@@ -1,0 +1,24 @@
+3 loại thuế hộ kinh_doanh phải nộp
+Thuế_môn_bài nộp theo mức thu_nhập tháng , thuế_thu_nhập cá_nhân và thuế_giá_trị_gia_tăng nộp căn_cứ doanh_thu hàng năm .
+1 . Thuế_môn_bài
+Theo khoản 2 Điều 1 Nghị_định 75/2002 / NĐ - CP về việc điều_chỉnh mức thuế Môn_bài và quy_định tại mục I . 2
+Thông_tư số 96/2002/TT-BTC về việc hướng_dẫn thực_hiện Nghị_định số 75/2002 / NĐ - CP ( sửa_đổi , bổ_sung theo Thông_tư số 42/2003/TT-BTC ) , hộ kinh_doanh nộp thuế_môn_bài theo 6 mức sau đây :
+Cơ_sở kinh_doanh đang kinh_doanh hoặc mới thành_lập , được cấp đăng_ký thuế và mã_số thuế trong thời_gian của 6 tháng đầu năm thì nộp mức Môn_bài cả năm , nếu thành_lập , được cấp đăng_ký thuế và mã_số thuế trong thời_gian 6 tháng cuối năm thì nộp 50% mức thuế Môn_bài cả năm .
+Cơ_sở đang sản_xuất kinh_doanh nộp thuế Môn_bài ngay tháng đầu của năm_dương_lịch ; cơ_sở mới ra kinh_doanh nộp thuế Môn_bài ngay trong tháng được cấp đăng_ký thuế và cấp mã_số thuế .
+Cơ_sở kinh_doanh đăng_ký nộp thuế với cơ_quan thuế cấp nào thì nộp thuế Môn_bài tại cơ_quan thuế cấp đó .
+2 . Thuế_giá_trị_gia_tăng
+Theo Điều 4 Luật_Thuế giá_trị gia_tăng , tổ_chức , cá_nhân sản_xuất , kinh_doanh hàng_hóa , dịch_vụ chịu thuế_giá_trị_gia_tăng ( sau đây gọi_là cơ_sở kinh_doanh ) phải nộp thuế_giá_trị_gia_tăng .
+Hầu_hết hàng_hóa , dịch_vụ sử_dụng cho sản_xuất , kinh_doanh và tiêu_dùng ở Việt_Nam là đối_tượng chịu thuế_giá_trị_gia_tăng , trừ các đối_tượng không chịu thuế_giá_trị_gia_tăng theo quy_định tại Điều 5 Luật_Thuế giá_trị gia_tăng .
+Theo khoản 25 điều 5 Luật_Thuế giá_trị gia_tăng , hàng_hóa , dịch_vụ của hộ , cá_nhân kinh_doanh có mức doanh_thu hàng năm từ một_trăm triệu đồng trở xuống thuộc đối_tượng không chịu thuế_giá_trị_gia_tăng .
+Như_vậy , hộ kinh_doanh có mức doanh_thu hằng năm trên 100 triệu đồng thì_phải nộp thuế_giá_trị_gia_tăng theo quy_định .
+3 . Thuế_thu_nhập cá_nhân
+Theo khoản 1 Điều 2 và Điều 3 Luật_Thuế thu_nhập cá_nhân hiện_hành , cá_nhân cư_trú có thu_nhập chịu thuế quy_định tại Điều 3 của Luật này phát_sinh trong và ngoài lãnh_thổ Việt_Nam và cá_nhân không cư_trú có thu_nhập chịu thuế quy_định tại Điều 3 của Luật này phát_sinh trong lãnh_thổ Việt_Nam phải nộp thuế_thu_nhập cá_nhân .
+Theo khoản 1 Điều 3 , thu_nhập từ kinh_doanh bao_gồm : thu_nhập từ hoạt_động sản_xuất , kinh_doanh hàng_hóa , dịch_vụ ; thu_nhập từ hoạt_động hành_nghề độc_lập của cá_nhân có giấy_phép hoặc chứng_chỉ hành_nghề theo quy_định của pháp_luật là thu_nhập phải chịu thuế_thu_nhập cá_nhân .
+Quy_định này cũng quy_định rõ : “ Thu_nhập từ kinh_doanh quy_định tại khoản này không bao_gồm thu_nhập của cá_nhân kinh_doanh có doanh_thu từ 100 triệu đồng / năm trở xuống ” .
+Như_vậy , cá_nhân kinh_doanh theo mô_hình hộ kinh_doanh có doanh_thu từ 100 triệu đồng / năm trở xuống không phải nộp thuế thua nhập cá_nhân ; nếu doanh_thu thu trên 100 triệu đồng / năm thì_phải nộp thuế_thu_nhập cá_nhân theo quy_định .
+Ngoài các loại thuế nêu trên , hộ kinh_doanh còn có_thể phải nộp thuế bảo_vệ môi_trường , thuế tài_nguyên , … nếu kinh_doanh hàng_hóa thuộc đối_tượng chịu thuế của các luật này .
+Luật_sư Kiều_Anh_Vũ Văn_phòng Luật_sư Lê_Nguyễn
+Xem thêm :
+> > 10 loại thu_nhập phải nộp thuế
+> > Những loại thuế phải nộp khi bán nhà
+> > Thuế_giá_trị_gia_tăng là gì ?

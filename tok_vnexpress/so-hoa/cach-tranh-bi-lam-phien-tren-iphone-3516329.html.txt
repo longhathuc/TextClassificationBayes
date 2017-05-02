@@ -1,0 +1,15 @@
+Cách tránh bị làm_phiền trên i Phone
+Người dùng có_thể sử_dụng tính_năng không làm_phiền được tích_hợp bên trong i Phone hoặc ứng_dụng bên thứ_ba để ngăn_chặn những cuộc_gọi làm_phiền trong trường_hợp cần yên_tĩnh .
+Trong một_số trường_hợp , ví_dụ trong giờ họp , khi muốn nghỉ_ngơi ... nhiều người thường có thói_quen tắt điện_thoại .
+Tuy_nhiên , với i Phone , kể_cả khi để ở chế_độ im_lặng , thiết_bị vẫn rung và sáng màn_hình khi có cuộc_gọi đến .
+Để hạn_chế điều này , Apple đã tích_hợp tính_năng " Không làm_phiền " ( Do not Disturb ) .
+Các bước kích_hoạt chế_độ Không làm_phiền trên i Phone .
+Để kích_hoạt , người dùng vào Settings > Do_Not_Disturb > Manual , sau đó chọn khoảng thời_gian phù_hợp .
+Nếu đã cài_đặt sẵn thời_gian từ trước , có_thể kích_hoạt nhanh bằng cách vuốt từ dưới mép màn_hình lên để mở ra giao_diện Control_Center , sau đó chọn vào biểu_tượng trăng_lưỡi_liềm để bật tính_năng này .
+Nếu kích_hoạt thành_công , biểu_tượng mặt_trăng sẽ xuất_hiện trên thanh trạng_thái , đồngthời thiết_bị sẽ giữ im_lặng khi có cuộc_gọi   đến .
+Bên_cạnh đó , trong giao_diện Do_Not_Disturb , bạn chọn Allow_Calls_From để chặn cuộc_gọi từ Tất_cả ( Everyone ) , Không ai ( None ) Nhóm người thường_xuyên liên_lạc ( Favorites ) và Tất_cả danh_bạ ( All_Contacts ) .
+Để vẫn nhận được các cuộc_gọi mang tính_chất khẩn_cấp , quan_trọng , người dùng có_thể kích_hoạt tính_năng Repeated_Calls .
+Lúc này , nếu số điện_thoại nào có 2 lần gọi liên_tiếp nhau trong vòng 3 phút thì lần gọi đó sẽ được bật tiếng .
+Ngoài_ra , người dùng có_thể chặn cuộc_gọi bằng các ứng_dụng hỗ_trợ từ bên thứ_ba , ví_dụ Truecaller ( miễn_phí ) , WhoCalls ( miễn_phí ) , Who_Called ( 0,99 USD ) , CallBlock ( 3,99 USD ) ...
+Cách kích_hoạt tính_năng tránh bị các cuộc_gọi làm_phiền :
+Bảo_Lâm

@@ -1,0 +1,11 @@
+Apple dùng máy Canon chụp ảnh nền cho OS_X El_Capitan
+Nhà_sản_xuất MacBook đã quên xóa thông_tin EXIF của một trong số các ảnh nền cài_đặt sẵn cho hệ_điều_hành OS_X mới .
+Ảnh nền còn lưu EXIF trong OS_X El_Capitan .
+Nhiếp_ảnh_gia   Omi_Manav_Choudhar đã vô_tình phát_hiện máy_ảnh mà Apple sử_dụng để chụp loạt hình nền cho OS_X El_Capitan .
+Sau khi xem_xét 49 ảnh chụp trong tổng_cộng 51 lựa_chọn hình nền của máy , ông phát_hiện có một ảnh Apple quên chưa xóa thông_tin EXIF .
+Các thông_tin của bức ảnh này bao_gồm được chụp vào ngày 6/8/2013 lúc 9h sáng .
+Model sử_dụng là Canon 5D Mark III , ống_kính 17-40 mm f / 4L .
+Các thông_số chụp là tiêu_cự 17 mm , f / 4 , ISO 1600 , chế_độ Manual và tốc_độ màn trập là 30 giây .
+Nhiếp_ảnh_gia   Sungjin_Ahn là người thực_hiện .
+Sau khi mổ_xẻ ,   Choudhar còn phát_hiện ảnh đã qua xử_lý trên phần_mềm   Photoshop CS6 .
+Các thao_tác được thực_hiện có_thể bao_gồm giảm nhiễu và làm tối bầu_trời và chỉnh méo cho các cành cây xuất_hiện ở góc bức hình .

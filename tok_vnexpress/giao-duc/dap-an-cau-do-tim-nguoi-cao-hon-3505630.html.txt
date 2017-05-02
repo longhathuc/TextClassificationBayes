@@ -1,0 +1,9 @@
+Đáp_án câu_đố tìm người cao hơn
+Mặc_dù chỉ có đáp_án duy_nhất nhưng để chính_xác và đầy_đủ nhất người giải phải xét 3 trường_hợp .
+Đề_bài :
+200 học_sinh được xếp thành 10 hàng ngang , mỗi hàng 20 em .
+Như_vậy , có 20 hàng dọc được tạo ra .
+Chọn một em thấp nhất từ mỗi hàng dọc sẽ được 20 em , gọi người cao nhất trong 20 em này là X .
+Sau khi những em vừa được chọn ra trở_về vị_trí ban_đầu , tiếp_tục chọn học_sinh cao nhất từ mỗi hàng ngang sẽ được 10 em , gọi em thấp nhất trong 10 em này là Y .
+Theo bạn , trong hai người ( X và Y ) , ai cao hơn ?
+Hãy lý_giải vì_sao nếu bạn hiểu chi_tiết câu_đố này .

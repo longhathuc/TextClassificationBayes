@@ -1,0 +1,12 @@
+Công_nghệ bọc đường biến máy_bay vô_hình
+Các nhà_khoa_học đã tìm cách phát_triển một loại lớp sơn phủ máy_bay có cấu_trúc gồm hàng triệu quả cầu carbon nhỏ , rỗng , xếp chặt thành một hình lục_giác đơn lớp , làm từ_đường carbon hóa , có_thể làm cho máy_bay vô_hình với radar .
+Theo Science_Daily , những quả cầu này sẽ hấp_thụ hết bức_xạ trong vùng Ka ( tần_số 26,5 – 37 GHz hay bước_sóng 7,5 – 10 mm ) , dải tần thường được quân_đội sử_dụng cho radar .
+Ngoài máy_bay và các thiết_bị quân_sự , cũng có_thể sử_dụng lớp phủ chống phản_xạ cho nhiều bề_mặt khác bao_gồm máy_tính và màn_hình điện_thoại .
+Dựa trên các kết_quả thực_nghiệm và mô_hình , các nhà_khoa_học thấy rằng việc sử_dụng các quả cầu carbon rỗng với đường_kính lớn hơn cấu_trúc hình_cầu trong mắt bướm đêm và độ dày tối_ưu , sắp_xếp theo hình lục_giác có_thể đạt được sự hấp_thụ vi_sóng gần_như hoàn_hảo .
+Trong tự_nhiên , nhờ cặp mắt đặc_biệt này , bướm đêm có_thể hấp_thụ ánh_sáng để nhìn rõ hơn trong đêm_tối và né_tránh loài dơi ăn thịt chúng .
+Để làm ra lớp phủ , các nhà_khoa_học từ Viện_Nghiên cứu các vấn_đề hạt_nhân tại Đại_học quốc_gia Belarus bọc các hạt làm_bằng nhựa biopolymer với đường sucrose ( đường_kính ) , một dạng đường rất dễ chiết_xuất từ các nguồn tự_nhiên .
+Sau đó , các hạt này được đốt bằng một quy_trình đặc_biệt , gọi_là nhiệt phân_hóa , biến phần nhựa bên trong thành_khí thoát ra ngoài , đồng_thời đốt cháy đường thành carbon .
+Kết_quả là thu được những quả cầu carbon rỗng .
+Sau đó , tiếp_tục nhiệt phân những quả cầu này ở nhiệt_độ 900 độ C , trong môi_trường khí nitơ để tạo ra một loại vật_liệu giống thủy_tinh .
+Sử_dụng lớp sơn phủ chế_tạo theo cách này , sẽ giúp hấp_thụ khoảng 95% bức_xạ tần_số 30GHz , theo Dzmitry_Bychanok , tác_giả chính của nghiên_cứu .   Kế_hoạch tiếp_theo của nhóm nghiên_cứu là phát_triển vật_liệu từ hai chiều sang các cấu_trúc ba chiều .
+Nguyễn_Thành_Minh

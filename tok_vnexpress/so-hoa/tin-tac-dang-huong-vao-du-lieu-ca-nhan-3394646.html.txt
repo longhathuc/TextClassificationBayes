@@ -1,0 +1,31 @@
+Tin_tặc đang hướng vào dữ_liệu cá_nhân
+Dữ_liệu cá_nhân , thói_quen hàng ngày đang là mục_tiêu mới của tin_tặc nhắm vào , thay_vì chỉ các vấn_đề tài_chính như trước .
+Theo ZDNet , trong khi mọi người đang lo_lắng thông_tin thẻ_tín_dụng của mình bị đánh_cắp , thì những kẻ lừa_đảo đang nhắm vào mục_tiêu xa hơn , đó là dữ_liệu cá_nhân , bao_gồm tên , địa_chỉ , ngày_sinh … và những thứ liên_quan khác .
+Sau đó , chúng sử_dụng nó vào mục_đích xấu như lừa_đảo , tống_tiền …
+Tin_tặc đang nhắm vào nhiều mục_tiêu hơn so với lĩnh_vực tài_chính như   trước_đây .
+“ Một_khi tin_tặc nắm được số thẻ_tín_dụng , cộng với việc đánh_cắp hồ_sơ thông_tin cá_nhân , tài_liệu có tên vợ , chồng , cha_mẹ ... của bạn , chúng đã có_thể dùng nó làm công_cụ đoán mật_khẩu .
+Bên_cạnh đó , dữ_liệu này còn được dùng cho mục_đích lừa_đảo ngoài đời thực ” , Apolline_Aigueperse , nhà_phân_tích của công_ty an_ninh mạng CybelAngel , phát_biểu tại Security & Counter_Terror_Expo diễn ra ở London ( Anh ) .
+Aigueperse cũng nhấn_mạnh rằng , tin_tặc đang ngày_càng quan_tâm hơn về dữ_liệu cá_nhân , bởi đó là “ công_cụ cung_cấp thông_tin chính_xác về nạn_nhân , giúp kẻ_gian có_thể nhanh_chóng đạt được mục_đích trước mục_tiêu của chúng ” .
+Hiện_nay , việc trao_đổi thông_tin cá_nhân được thực_hiện hầu_hết trên các diễn_đàn tội_phạm ngầm , đặc_biệt là ở Nga .
+CybelAngel đã thử tìm_hiểu thông_tin của vài ngàn diễn_viên bằng cách nhắn hơn 44.000 tin nhắn trên 4.000 bài viết khác_nhau .
+Kết_quả cho thấy , nhu_cầu trao_đổi , mua_bán đang rất cao .
+Tin_tặc có_thể đánh_cắp cả dữ_liệu của thú cưng .
+Vậy tại_sao lại có_điều này ?
+“ Bởi khi kết_hợp thông_tin tài_chính với thông_tin cá_nhân , về cơ_bản bạn đã có trên tay kịch_bản đầy_đủ nhất để lừa_đảo mục_tiêu , gồm cả cơ_quan chính_phủ , công_ty hoặc cá_nhân ” , Aigueperse cho_biết .
+Kẻ_cắp và bán dữ_liệu cá_nhân đang ngày_càng chuyên_nghiệp hơn .
+Từ các bài viết trên diễn_đàn ngầm , vị chuyên_gia trên rút ra kết_luận rằng , tội_phạm ảo cũng có những luật_lệ , quy_tắc riêng và thực_hiện một_cách bài_bản .
+Trong trường_hợp xấu nhất_là thông_tin sai_lệch , chưa đầy_đủ hoặc không sử_dụng được , chúng lập_tức trả lại tiền cho người mua .
+Mặc_dù nguy_cơ bị đánh_cắp thông_tin cao , người dùng lại đang có xu_hướng để chúng “ hớ_hênh ” hơn .
+“ Hiện_tại , mọi người quá dễ_dãi với những gì mình chia_sẻ trên mạng , trong đó có thông_tin cá_nhân , đặc_biệt là những_ai đang sử_dụng các thiết_bị Internet of Things .
+Chúng dễ đánh_cắp đến_nỗi , ngay cả những tay hacker mới vào nghề cũng có_thể làm được ” , Aigueperse cảnh_báo .
+Còn theo tiến_sĩ Scott_Mc Vicar , Giám_đốc bộ_phận giải_pháp thương_mại của BAE Systems_Applied_Intelligence , con_người đang hưởng rất nhiều lợi_ích từ Internet of Things nhưng đây cũng là nguy_cơ .
+“ Sẽ có cái gọi_là dữ_liệu ‘ khuôn_mẫu của cuộc_sống ’ bao_gồm chi_tiết nơi ở , thói_quen và cả tài_sản hiện có .
+Dữ_liệu này sẽ biến tội_phạm mạng lên cấp_độ hoàn_toàn mới , nguy_hiểm hơn so với hiện_tại ” , McVicar nói .
+Ông giải_thích rằng , tin_tặc có_thể đánh_cắp dữ_liệu từ các thiết_bị Internet of Things có kết_nối không an_toàn .
+Từ dữ_liệu này , chúng có_thể thực_hiện các vụ trộm ngoài đời thực .
+Ví_dụ , chủ_nhân một ngôi nhà đang có chiếc xe_hơi thể_thao trị_giá hàng trăm_ngàn đôla .
+Chiếc xe này được để trong một gara với cửa tự_động cùng hệ_thống bảo_mật kết_nối Internet of Things .
+Nếu hệ_thống này kém an_toàn , hacker dễ_dàng đột_nhập và lấy các thông_tin , sau đó vô_hiệu_hóa camera an_ninh , hệ_thống báo_động … cuối_cùng mở gara và chiếc xe biến_mất .
+“ Đây chỉ là kịch_bản đơn_giản nhất , bởi sẽ có rất nhiều mục_tiêu khác tin_tặc hướng tới .
+Giờ_đây , chúng không còn giới_hạn ở việc đánh_cắp thông_tin thẻ_tín_dụng nữa , mà sẽ có nhiều thứ hơn , tất_nhiên là các tài_sản có giá_trị ” , McVicar nói thêm .
+Bảo_Lâm

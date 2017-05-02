@@ -1,0 +1,22 @@
+Vietnam_Airlines : ' Mua vé trực_tuyến vẫn an_toàn sau vụ tin_tặc '
+Lãnh_đạo Vietnam_Airlines và đại_diện Vietcombank - ngân_hàng cung_cấp dịch_vụ thanh_toán cho hãng cùng khẳng_định điều này trong thông_cáo phát đi chiều 5/8 .
+Theo thông_cáo , các giao_dịch đặt chỗ và thanh_toán vé trực_tuyến trên website www . vietnamairlines.com được thực_hiện trực_tiếp giữa khách_hàng với hệ_thống đặt vé máy_bay trực_tuyến ( internet booking engine ) và cổng thanh_toán ( payment gateway ) của đối_tác cung_cấp hệ_thống chủ đặt tại Mỹ , không đi qua hệ_thống công_nghệ_thông_tin của Vietnam_Airlines .   Sau sự_cố tin_tặc tấn_công hệ_thống thông_tin ngành_hàng không hôm 29/7 , Vietnam_Airlines đã phối_hợp cùng đối_tác tổ_chức rà_soát , kiểm_tra và đánh_giá hệ_thống không bị ảnh_hưởng , hoạt_động bình_thường .
+" Việc lưu_trữ các thông_tin đặt chỗ và thanh_toán của khách_hàng phục_vụ đối_chiếu thanh_toán đảm_bảo an_toàn , an_ninh theo chuẩn quốc_tế .
+Mã_số bảo_mật thẻ_thanh_toán ( CVC , CSC , CVV , … ) khách_hàng sử_dụng khi giao_dịch trực_tuyến không được lưu_trữ tại bất_kỳ hệ_thống nào của Vietnam_Airlines " , thông_cáo viết .
+Ông Trịnh_Ngọc_Thành , Phó_tổng giám_đốc Vietnam_Airlines cho_biết , hiện_nay giao_dịch trực_tuyến mua vé máy_bay của hãng vẫn được thực_hiện thông_suốt .
+Hãng cùng_với các đối_tác tiếp_tục theo_dõi và áp_dụng các biện_pháp cần_thiết để bảo_vệ quyền_lợi của khách_hàng .
+Trao_đổi với VnExpress , ông Đào_Minh_Tuấn - Phó_tổng giám_đốc Vietcombank cũng khẳng_định thông_tin thanh_toán khách_hàng cung_cấp trong quá_trình mua vé trực_tuyến trên website Vietnam_Airlines đến nay vẫn được đảm_bảo an_toàn .
+Sau sự_cố tin_tặc tấn_công , trong 16 nhà_băng tham_gia cung_cấp dịch_vụ thanh_toán trực_tuyến cho Vietnam_Airlines , chỉ có 3 ngân_hàng khóa thẻ khách_hàng bởi lo_ngại rủi_ro .
+Vietcombank không khóa mà mọi giao_dịch vẫn diễn ra bình_thường .
+" Thực_tế , chúng_tôi có lên các phương_án đề phong các rủi_ro phát_sinh .
+Tuy_nhiên , sau khi làm_việc với Vietnam_Airlines và theo_dõi sát_sao từ ngày xảy_ra sự_cố đến nay , các giao_dịch tra soát khiếu_nại liên_quan đến rủi_ro của chủ thẻ tại ngân_hàng không có gì bất_thường .
+Là ngân_hàng cung_cấp dịch_vụ thanh_toán trực_tuyến cho Vietnam_Airlines , chúng_tôi khẳng_định thông_tin thanh_toán của khách_hàng cung_cấp trong quá_trình mua vé trực_tuyến trên website Vietnam_Airlines đến nay vẫn được đảm_bảo an_toàn " , ông nói .
+Thời_gian tới , Vietcombank cam_kết cùng_với Vietnam_Airlines tiếp_tục theo_dõi đồng_thời vẫn cung_cấp dịch_vụ thanh_toán thẻ trực_tuyến an_toàn bảo_mật cho mọi khách_hàng .
+" Chúng_tôi rất tiếc và gửi lời xin_lỗi khách_hàng vì những phiền_toái và tâm_lý lo_ngại nhất_định liên_quan đến sự_cố này .
+Sau khi nỗ_lực phối_hợp với các đối_tác liên_quan , chúng_tôi khẳng_định với sự lựa_chọn giải_pháp công_nghệ tiên_tiến có tính bảo_mật cao của đối_tác cung_cấp hệ_thống chủ đặt tại Mỹ , Vietnam_Airlines vẫn tiếp_tục phục_vụ khách_hàng khi mua vé trực_tuyến trên website của hãng vẫn an_toàn và ổn_định ” , ông Trịnh_Ngọc_Thành nói .
+Chiều 29/7 , hàng_loạt màn_hình hiển_thị thông_tin chuyến bay cùng hệ_thống phát_thanh của sân_bay bất_ngờ bị chèn nội_dung kích_động , xuyên_tạc về Biển_Đông .
+Cùng thời_điểm , trên website của hãng hàng_không Việt_Nam cũng bị tấn_công , người dùng khi truy_cập nhận được thông_báo website đã bị hack , nội_dung trang_chủ được thay_đổi hoàn_toàn .
+Trên trang xuất_hiện các ngôn_ngữ kích_động và để lại thông_tin rằng nhóm hacker 1937cn đã thực_hiện vụ tấn_công này .
+Sau đó một ngày , Vietnam_Airlines đã gửi lời xin_lỗi khách_hàng vì sự_cố và cho_biết hệ_thống thông_tin đã được khôi_phục .
+Đến nay , sự_cố trên không làm ảnh_hưởng đến an_toàn khai_thác bay , công_tác phục_vụ hành_khách trong thời_gian sự_cố không bị ảnh_hưởng lớn nhờ nỗ_lực triển_khai kịch_bản dự_phòng và sẵn_sàng đầy_đủ phương_tiện , nhân_lực .
+Thanh_Thư

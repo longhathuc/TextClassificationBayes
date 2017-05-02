@@ -1,0 +1,21 @@
+Xu_hướng quay video theo chiều dọc
+Thiết_bị di_động khiến số_lượng video bùng_nổ , tuy_nhiên , để tối_ưu trải_nghiệm , mỗi khi xem những nội_dung này , người dùng lại phải xoay ngang màn_hình .
+Những người quay video ở chế_độ màn_hình dọc thường bị nhắc_nhở và bị chê là " nghiệp_dư " , nhưng hầu_hết người dùng thiết_bị di_động có thói_quen cầm máy theo chiều dọc , vậy_sao lại bắt họ xoay ngang để ghi_hình ?
+Câu_hỏi này đã được mổ_xẻ trên nhiều diễn_đàn công_nghệ .
+Trước_đây , đa_số các phương_tiện phát video có màn_hình ngang , như trong rạp chiếu_phim , TV , máy_tính , laptop ...
+Những video quay dọc khi hiển_thị trên các thiết_bị này sẽ có viền đen gây khó_chịu .
+Không ít người dùng di_động được nhắc_nhở phải xoay ngang điện_thoại khi quay video , để tránh hai viền đen   xấu_xí khi xem video đó trên máy_tính , TV .
+Tuy_vậy , sự ra_đời của điện_thoại thông_minh , tablet khiến số_lượng ảnh và video được chia_sẻ trên Internet tăng vọt .
+Đa_phần người dùng di_động ít khi xoay điện_thoại khi quay video , chụp ảnh .
+Họ   cảm_thấy thoải_mái nhất khi cầm smartphone dọc bằng một tay .
+Họ cũng thích nội_dung phù_hợp với màn_hình họ đang xem .
+Với video ngang , người xem chỉ thấy được những khung hình nhỏ_xíu ( vừa với chiều rộng của điện_thoại ) , còn khoảng_trống phía trên và dưới quá nhiều .
+Trong khi đó , xoay ngang điện_thoại sẽ đi ngược với thói_quen cầm thiết_bị di_động của họ , chưa kể không ít người đã mặc_định khóa chế_độ xoay màn_hình ( màn_hình luôn hiển_thị nội_dung theo chiều dọc ) .
+Video dọc phù_hợp với thói_quen cầm điện_thoại của người dùng .
+Ảnh : Natcomglobal
+Nhận thấy xu_hướng này , một loạt dịch_vụ như Snapchat , Periscope , Meerkat , Vervid , Facebook , Twitter , YouTube ... đã quyết_định loại_bỏ phần viền đen khi người dùng xem video quay ở chế_độ dọc trên các ứng_dụng di_động .
+Smartphone đang ngày_một thịnh_hành , dự_kiến có khoảng 70% dân_số , tương_đương 6,1 tỷ người , sẽ sử_dụng smartphone vào năm 2020 .
+Họ đã được " rèn_luyện " để cảm_thấy   thoải_mái với việc đọc e - mail , xem ảnh , video theo chiều dọc .   Do_đó , ngành công_nghiệp đang quan_tâm đến vấn_đề này một_cách nghiêm_túc hơn và thừa_nhận đây sẽ là xu_hướng của tương_lai .
+Tất_nhiên , các chuyên_gia nội_dung số cho rằng người dùng chưa đón_nhận việc xem những bộ phim dài tới hơn tiếng đồng_hồ ở chế_độ dọc .
+Nhưng giới phát_triển website , ứng_dụng ... nên cởi_mở hơn để phục_vụ người dùng di_động .
+Chẳng_hạn , khi nhận thấy họ đang xem video dọc trên điện_thoại , hệ_thống cần tự_động điều_chỉnh để phát video đó ở chế_độ toàn màn_hình thay_vì mặc_định hiển_thị ở chế_độ ngang kèm hai viền đen khó_chịu .

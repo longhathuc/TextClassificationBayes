@@ -1,0 +1,19 @@
+Đáp_án bài_toán ' cánh_quạt ' kiểm_tra kiến_thức hình_học lớp 8
+Bài_toán về chiếc cánh_quạt không quá khó , chỉ mang tính_chất kiểm_tra kiến_thức cơ_bản về hình_học cấp trung_học nhưng nhiều người_lớn vẫn bị nhầm .
+Đề_bài :
+Một cánh_quạt được cho như hình_vẽ :
+Biết cấu_tạo của cánh_quạt này gồm 4 phần bằng nhau ( 3 cánh và một trục giữa ) , mỗi phần là một tam_giác_đều cạnh 6 cm .
+Khi cánh_quạt quay , nó tạo thành một hình_tròn có diện_tích X    cm2 .
+Hỏi   diện_tích X này bằng bao_nhiêu ?
+( Biểu_diễn kết_quả dưới dạng A x π , trong đó A là một_số ) .
+Đáp_án : 84 x     π cm2 .
+Xác_định tâm O là tâm của tam_giác_đều ở chính giữa , đồng_thời là tâm hình_tròn .
+Kẻ thêm bán_kính OA và đường_cao OH như sau :
+Cạnh của tam_giác_đều bằng   6 cm .
+Nhìn vào hình_vẽ ta có độ dài AH bằng
+6 x 3/2 = 9 cm .
+Trong tam_giác_đều chính giữa , ta tính được độ dài OH bằng [ √ ( 62 - 32 ) ] / 3 = √ 3 cm .
+Xét tam_giác OAH vuông tại H và OA là bán_kính hình_tròn .
+Theo Pytago , ta có OA = √ ( AH2 + OH2 ) = √ [ 92 + ( √ 3 ) 2 ]   =   √ ( 81 + 3 ) =   √ 84 cm .
+Từ đó suy ra diện_tích hình_tròn bằng   OA2   x   π   = 84 x π cm2 .
+Thanh_Tâm

@@ -1,0 +1,16 @@
+Lắp bộ_máy tính 700 triệu đồng để làm khoa_học
+Chiếc PC đắt_đỏ được một vị đại_gia lắp_ráp để làm các công_việc văn_phòng , đồng_thời âm_thầm hỗ_trợ các nghiên_cứu khoa_học .
+Linh_kiện đắt nhất trong cỗ máy này là card đồ_họa chuyên_nghiệp   Quadro M6000 , có_giá 130 triệu đồng .
+Phần còn lại cũng là những sản_phẩm đắt tiền , như bộ_vi_xử_lý lõi kép ( Dual CPU Intel_Xeon ) giá 100 triệu đồng , dàn linh_kiện tản nhiệt nước 82 triệu đồng , vỏ case 40 triệu đồng , hai card đồ_họa GTX 1080 40 triệu đồng , hai   bộ nguồn 20 triệu đồng ...
+Một điểm nhấn khác trong chiếc PC này cũng khiến nhiều người ngạc_nhiên là 10 TB ổ SSD giá hơn 90 triệu đồng .
+Chưa kể , màn_hình máy_tính đi kèm cũng là chiếc Dell_Ultrasharp 27 inch 40 triệu đồng , với độ_phân_giải 5K cao_cấp .
+Cấu_hình bộ_máy tính 700 triệu đồng
+Chiếc PC trị_giá 700 triệu đang được nhân_viên   lắp_đặt tại nhà vị đại_gia .
+Cỗ máy này đáp_ứng mọi yêu_cầu về kỹ_thuật , đồ_họa , chơi game khủng ... nhưng trên thực_tế , chủ_nhân của nó , một doanh_nhân 40 tuổi ở Hà_Nội , chỉ dùng để xử_lý công_việc với mức_độ khiêm_tốn và chạy một ứng_dụng phân_tích các tế_bào ung_thư .
+Ứng_dụng ông chạy là Folding @ home , một dự_án xây_dựng các mô_hình cấu_trúc protein .
+Thuật_toán này tiêu tốn nhiều tài_nguyên máy_tính nên_người dùng máy_tính trên khắp thế_giới đã chung tay hỗ_trợ bằng cách cài Folding , một ứng_dụng ẩn chạy nền , cho_phép   tận_dụng những lúc CPU rảnh_rỗi hoặc dùng không hết hiệu_năng   để xử_lý việc mô_phỏng các tế_bào protein .
+Đó cũng là lý_do mà dàn máy 700 triệu đồng được xây_dựng dựa trên giải_pháp   CPU 22 nhân và 44 luồng .
+Hai card đồ_họa GTX 1080 sẽ phục_vụ làm_việc và chơi game , còn   chiếc Quadro M6000 được dành riêng để hỗ_trợ quá_trình xử_lý nền cho ứng_dụng Folding luôn được đặt ở cấu_hình tối_đa .
+Giá_trị và quy_mô của bộ_máy này quá lớn khiến những người chịu trách_nhiệm thiết_kế và lắp_đặt ban_đầu rất bất_ngờ .   " Chúng_tôi chưa từng làm dự_án nào lớn thế_này và tin rằng ở Việt_Nam chưa có ai từng ráp một chiếc PC khủng như_vậy với mục_đích sử_dụng cá_nhân " , anh Đức_Tiến đại_diện công_ty An_Phát , đơn_vị lắp_ráp chiếc máy chia_sẻ .
+" Việc xây_dựng cấu_hình được dựa trên tiêu_chí về hiệu_năng và mức_độ phù_hợp của linh_kiện , chứ không phải cứ mang những thứ đắt nhất ráp vào với nhau là xong " , anh tiết_lộ .
+Nói về hệ_thống PC khủng của mình , chủ_nhân của chiếc máy chỉ mong_muốn " sẽ có thêm nhiều người cùng   hỗ_trợ các cộng_đồng nghiên_cứu , chỉ đơn_giản bằng việc nhỏ là chia_sẻ hiệu_năng hệ_thống " .

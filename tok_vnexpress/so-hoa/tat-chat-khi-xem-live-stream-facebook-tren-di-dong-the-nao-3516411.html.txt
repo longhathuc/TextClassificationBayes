@@ -1,0 +1,12 @@
+Tắt chat khi xem live stream Facebook trên di_động thế_nào
+Chỉ cần vuốt ngang phần chat , toàn_bộ nội_dung trò_chuyện sẽ biến_mất , giúp tăng thêm không_gian trải_nghiệm khi xem trực_tiếp ( live stream ) Facebook trên điện_thoại .
+Trên máy_tính ( PC ) hoặc máy_tính bảng , việc xem live stream Facebook khá dễ_dàng , bởi phần nội_dung chat sẽ hiển_thị một bên ( hoặc phía dưới ) .
+Tuy_nhiên , các thiết_bị di_động có màn_hình nhỏ hơn như điện_thoại_di_động , nội_dung chat sẽ " đè " lên video , nhất_là khi xoay ngang thiết_bị , điều này khiến không_gian xem video giảm xuống , làm giảm trải_nghiệm người dùng .
+Vẫn có_thể đặt dọc để_phần chat hiển_thị bên dưới , nhưng như_vậy nội_dung hiển_thị sẽ nhỏ đi và cũng khiến không_gian trải_nghiệm giảm đi đáng_kể .
+Tuy_vậy , người dùng vẫn có_thể khắc_phục điều này này bằng thủ_thuật nhỏ .
+Cụ_thể , khi điện_thoại đang ở chế_độ màn_hình dọc , ở phần nội_dung chat , người dùng vuốt ngang sang phải để ẩn chúng , sau đó xoay ngang màn_hình để xem .
+Nếu muốn hiện lại , xoay dọc màn_hình và vuốt sang trái .
+Vuốt ngang để ẩn bình_luận , biểu_tượng cảm_xúc .
+Giao_diện trước khi ẩn bình_luận ...
+... và   giao_diện sau khi ẩn bình_luận .
+Bảo_Lâm

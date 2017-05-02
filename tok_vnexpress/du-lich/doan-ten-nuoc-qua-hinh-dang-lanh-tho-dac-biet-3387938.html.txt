@@ -1,0 +1,22 @@
+Đoán tên nước qua hình_dáng lãnh_thổ đặc_biệt
+Bạn có biết quốc_gia nào có lãnh_thổ giống hình kền_kền và cây_cọ không ?
+Lãnh_thổ hình chú kền_kền
+1 . Estonia
+2 . Belarus
+3 . Latvia
+Lãnh_thổ hình người đàn_ông với chiếc mũi dài
+1 . Argentina
+2 . Chile
+3 . Uruguay
+Lãnh_thổ hình chú cá_sấu chui ra từ vỏ trứng
+1 . Thụy_Điển
+2 . Phần_Lan
+3 . Na_Uy
+Lãnh_thổ hình viên cảnh_sát
+1 . Tây_Ban_Nha
+2 . Bồ_Đào_Nha
+3 . Thổ_Nhĩ_Kỳ
+Lãnh_thổ hình cây_cọ
+1 . Lào
+2 . Campuchia
+3 . Myanmar

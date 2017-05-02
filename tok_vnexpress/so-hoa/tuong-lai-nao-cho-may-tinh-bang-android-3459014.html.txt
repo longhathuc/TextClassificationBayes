@@ -1,0 +1,45 @@
+Tương_lai nào cho máy_tính bảng Android
+Doanh_số giảm , nhiều hãng ngừng sản_xuất ... khiến thị_trường máy_tính bảng Android trở_nên bấp_bênh .
+Từng được kỳ_vọng
+Năm 2010 , Apple trình_làng chiếc i Pad đầu_tiên .
+Máy_tính bảng Android chậm chân hơn do phải đợi sự chấp_nhận của Google về các vấn_đề liên_quan đến nền_tảng này .
+Tuy_nhiên , ngay khi ra_mắt , thiết_bị lập_tức tạo nên cơn_sốt nhờ tiện_dụng , nhiều mẫu_mã lựa_chọn và đặc_biệt là mức giá phải_chăng hơn so với tablet của Apple .
+Thậm_chí , đã có dự_đoán cho rằng nó sẽ tạo nên cuộc cách_mạng mới thay_thế máy_tính_xách_tay .
+Thị_trường máy_tính bảng đang rất ảm_đạm .
+Không phải ngẫu_nhiên dự_đoán này được đưa ra , bởi máy_tính bảng rất phù_hợp cho các nhu_cầu thực_tế .
+Bên_cạnh tính di_động , với kích_thước màn_hình từ 7 inch , thiết_bị tạo không_gian duyệt web , xem video , gửi/nhận email , xem ảnh … thoải_mái hơn .
+Đây là điều mà laptop dù làm được nhưng lại quá cồng_kềnh , trong khi màn_hình smartphone quá nhỏ .
+Bị đe_dọa bởi smartphone màn_hình lớn
+Tuy_nhiên , 2010 – 2013 là giai_đoạn smartphone có kích_thước màn_hình bé ( dưới 5 inch ) .
+Những năm sau đó , màn_hình 5 - 5,5 inch đã rất phổ_biến , thậm_chí nhiều điện_thoại còn có màn_hình lên tới 6,6 inch như Honor_Note 8 của Huawei .
+Đây là kích_thước đủ để có_thể đảm_nhiệm hầu_hết các công_việc mà máy_tính bảng làm như đã đề_cập và việc thiết_bị này bị lép_vế là điều dễ hiểu .
+Việc người dùng không còn mặn_mà với máy_tính bảng Android như trước đã khiến một_số nhà_sản_xuất đi đến quyết_định giã_từ nó , điển_hình là Dell .
+Hãng đã thông_báo sẽ ngừng phát_triển dòng Venue chạy nền_tảng của Google vào tháng 7 để tập_trung cho phân khúc máy_tính bảng lai laptop chạy hệ_điều_hành Windows 10 .
+Trong khi đó , nhiều hãng   khác chỉ sản_xuất cầm_chừng , đồng_thời nghe_ngóng thị_trường .
+Đến những thay_đổi
+Giữa một rừng sản_phẩm thiết_kế dạng   " tấm bảng " không hơn , nhiều nhà_sản_xuất bắt_đầu đổi_mới nhằm tránh sự nhàm_chán .
+Đã có các mẫu máy_tính bảng kèm bút stylus như Galaxy_Note của Samsung , máy_tính bảng chuyển_đổi thành máy_tính_xách_tay như Venue_Pro 11 7000 của Dell , hay máy_tính bảng kết_hợp điện_thoại Padfone S của Asus … Thế_nhưng , mọi thứ chỉ dừng lại ở đó .
+Với những gì đã thể_hiện , có_thể thấy máy_tính bảng Android được sử_dụng cho giải_trí nhiều hơn dù thường_xuyên được nâng_cấp cấu_hình cũng_như cải_thiện thiết_kế .
+Nhìn qua Surface của Microsoft và i Pad_Pro của Apple , đây đều là những thiết_bị phù_hợp với nhiều đối_tượng khác_nhau , từ nhân_viên văn_phòng , nghệ_sĩ , chuyên_viên thiết_kế , người_làm kỹ_thuật … Để làm được điều đó , ngoài cấu_hình mạnh , chúng còn có hệ_sinh_thái tuyệt_vời và các phụ_kiện hỗ_trợ tối_đa cho công_việc .
+Android 7.0 Nougat là " cứu_cánh " ?
+Android là nền_tảng di_động có khả_năng tùy biến cao và thường_xuyên được ca_ngợi trên smartphone chạy nó , nhưng lại tụt_hậu trong việc tối_ưu cho máy_tính bảng so với i OS của Apple .
+iOS 9 trên i Pad_Pro không_chỉ cho hiệu_năng cao mà_còn hỗ_trợ các tính_năng cần_thiết cho một chiếc tablet , như Split_View cho_phép chạy song_song hai ứng_dụng trên màn_hình thay_vì chuyển_đổi ứng_dụng , hoặc Slide_Over cho_phép người dùng bật ứng_dụng thứ_hai mà không cần đóng ứng_dụng đang chạy …
+Tính_năng đa_nhiệm chia đôi màn_hình rất cần_thiết đối_với các thiết_bị có màn_hình lớn , khi có_thể làm_việc trên nhiều cửa_sổ hơn mà không cần chuyển_đổi qua_lại hết_sức phiền_hà .
+Nhưng trước Nougat , nó chỉ xuất_hiện trên một_số máy_tính bảng của Samsung , LG với giao_diện do họ phát_triển riêng và đó được xem là chức_năng khác_biệt so với những máy dùng Android khác .
+Với việc có_mặt trên Nougat ( và được cho là sẽ cập_nhật cho Android 6.1 Marshmallow ) , tính_năng chia đôi màn_hình cùng_với việc hỗ_trợ các thiết_bị_ngoại_vi sẽ là điểm nhấn giúp máy_tính bảng Android hấp_dẫn hơn trong mắt người dùng .
+Tuy_nhiên , Google cần làm nhiều điều hơn_nữa , bởi đó chỉ là bước khởi_đầu , chưa_thể gọi_là sự đột_phá , khi mà nó từng xuất_hiện trên Windows 8 cách đây 3 năm , iOS 9 cách đây hơn một năm .
+Cần một máy_tính bảng Android đột_phá
+Có một thực_tế là nhiều nhà_sản_xuất tablet Android ngày_càng không mặn_mà với thiết_bị mà họ " đẻ " ra .
+Với_Apple , qua mỗi phiên_bản i Pad , ít_nhất họ cũng nâng_cấp phần_cứng , bổ_sung chức_năng mới … nhưng vấn_đề tưởng_chừng như hiển_nhiên này lại ít được lưu_ý trên máy_tính bảng chạy hệ_điều_hành của Google .
+Điều đó trái_ngược với thị_trường smartphone , khi cuộc đua về độ_phân_giải màn_hình , cảm_biến vân tay , sạc nhanh , cảm_biến camera … liên_tục tiếp_diễn .
+Theo Slashgear , những gì thị_trường tablet Android đang mong_muốn là một thiết_bị mà khi xuất_hiện , người dùng phải thốt lên rằng : " Đây mới là máy_tính bảng mà tôi cần ! " .
+Đó là một sản_phẩm hội đủ các yếu_tố : thiết_kế đẹp , cấu_hình mạnh , nhiều tính_năng cho công_việc và giải_trí , nguồn pin lớn , các phụ_kiện hỗ_trợ đi kèm … và hơn hết là thường_xuyên được cập_nhật phần_mềm .
+Pixel C chưa đủ để vực dậy thị_trường máy_tính bảng .
+Google_Pixel C có_thể xem là chiếc máy_tính bảng Android tốt nhất hiện_nay khi sở_hữu thông_số cấu_hình đáng mơ_ước ( CPU Nvidia_Tegra X1 , GPU Maxwell , RAM 3GB ) cùng nền_tảng được cập_nhật 6 tháng_một lần .
+Với việc tự phát_triển , Google cũng sẽ tối_ưu hơn cho tablet của mình tốt hơn , bởi hãng biết sẽ phải làm những gì .
+Pixel C là điểm sáng hiếm_hoi , nhưng trên thực_tế , nó vẫn chưa thành_công dù ra_mắt gần 1 năm ( 10/2015 ) .
+Không phải chỉ tablet Android , iPad của Apple hay các mẫu chạy Windows đều đang tăng_trưởng âm .
+Theo số_liệu quý II/2016 của IDC , doanh_số máy_tính bảng đã giảm 12,3% so với cùng kỳ năm_ngoái .
+Rất nhiều doanh_nghiệp đang dần chuyển sang các thiết_bị lai 2-trong - 1 để cạnh_tranh với máy_tính_xách_tay và đó là chiến_lược mới , tuy ngắn_hạn nhưng thiết_thực trước khi các hãng cho ra sản_phẩm đột_phá hơn .
+Nhưng cũng có_thể , đây là cố_gắng cuối_cùng trước khi máy_tính bảng lùi vào " hậu_trường " để nhường chỗ cho các thiết_bị khác trong tương_lai .
+Bảo_Lâm

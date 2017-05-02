@@ -1,0 +1,11 @@
+Một_số ứng_dụng i Phone âm_thầm làm lộ thông_tin người dùng
+iPhone được đánh_giá bảo_mật hơn các sản_phẩm đối_thủ , nhưng không có_nghĩa các ứng_dụng trên đó sẽ tránh được nguy_cơ bị hack .
+Theo BGR , chuyên_gia bảo_mật Will_Strafach đã phát_hiện một lỗ_hổng tồn_tại trong 76 ứng_dụng trên App_Store với tổng_số 18 triệu lượt tải .
+Lỗi này nảy_sinh có_thể do giao_thức truyền dữ_liệu   TLS  trên một_số ứng_dụng bị cấu_hình sai , tạo cơ_hội cho kẻ xấu chụp lại thông_tin nhất_định trên i Phone của người cài ứng_dụng .
+Apple không tự xử_lý được lỗi do nó nằm trong đoạn mã của ứng_dụng và các nhà_phát_triển cần dò lại và chỉnh_sửa mã nguồn .
+Ảnh minh_họa : AppleInsider
+Strafach chia 76 ứng_dụng thành ba loại : nguy_cơ thấp ( 33 ứng_dụng ) , nguy_cơ trung_bình ( 24 ứng_dụng ) và nguy_cơ cao ( 19 ứng_dụng ) .
+Trong đó , những phần_mềm có nguy_cơ cao có_thể làm lộ dữ_liệu đăng_nhập các dịch_vụ tài_chính còn với ứng_dụng nguy_cơ thấp , người dùng có_thể bị đánh_cắp thông_tin như địa_chỉ email , tên tài_khoản ...
+Trong số 33 ứng_dụng nguy_cơ thấp có   Snap_Upload for Snapchat , có_thể trao cho hacker tên truy_cập và mật_khẩu Snapchat .   Strafach không tiết_lộ những ứng_dụng có nguy_cơ trung_bình và nguy_cơ cao nhưng cho_biết đã liên_hệ với các nhà_phát_triển ứng_dụng " cho ngân_hàng và y_tế " để xác_định và thay_đổi mã lỗi .
+iPhone cài_đặt một trong 76 ứng_dụng trên có_thể bị đánh_cắp dữ_liệu khi kết_nối mạng Wi-Fi thiếu an_toàn .
+Do_đó ,   Strafach khuyến_cáo người sử_dụng tránh thực_hiện giao_dịch quan_trọng khi đang truy_cập mạng Wi-Fi mà họ không biết rõ ( như Wi-Fi công_cộng ) mà nên chuyển sang kết_nối 3G/4G .

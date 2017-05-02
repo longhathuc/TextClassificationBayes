@@ -1,0 +1,24 @@
+Nâng_cấp chất_lượng Wi-Fi tại nhà với 300.000 đồng
+Nhiều người dùng thường nghi lỗi do nhà_cung_cấp dịch_vụ khi kết_nối mạng chậm nhưng trong một_số trường_hợp là do sóng Wi-Fi tại nơi sử_dụng không ổn_định .
+Càng ở xa và bị vật cản với bộ phát , chất_lượng kết_nối càng giảm .
+Trong thời_đại của smartphone , thói_quen sử_dụng mạng Internet của người dùng tại nhà đã có nhiều thay_đổi khi phần_lớn sử_dụng điện_thoại , máy_tính bảng .
+So với việc dùng mạng có dây trên máy_tính_để_bàn , kết_nối không dây tiện_lợi hơn nhưng độ ổn_định còn phụ_thuộc vào nhiều yếu_tố .
+Chưa kể , điện_thoại , máy_tính bảng thường bắt sóng Wi-Fi yếu hơn so với máy_tính_xách_tay thông_thường .
+Về nguyên_tắc , sóng Wi-Fi từ thiết_bị phát đến thiết_bị nhận càng gặp ít vật cản nhất sẽ cho tín_hiệu tốt nhất , song điều_kiện lý_tưởng này rất khó xảy_ra .
+Trong nhiều gia_đình , bộ phát thường để ở tầng một với nhà_đất hoặc ở phòng khách ngoài với nhà chung_cư .
+Qua nhiều lớp vật cản bao_gồm cả tường , tủ , các vật_dụng hay cả bê_tông khiến sóng bị yếu đi nhiều khi truy_cập mạng từ các phòng , vị_trí khác .
+Kết_nối Internet do_vậy sẽ bị chậm và chập_chờn khi thiết_bị chỉ còn bắt được một vạch sóng .
+Nhiều hộ gia_đình hiện_nay cũng thường chỉ sử_dụng bộ phát Wi-Fi do nhà_cung_cấp Internet trang_bị sẵn .
+Với chất_lượng ở mức trung_bình , các thiết_bị này không_thể đảm_bảo độ phủ và cường_độ sóng tốt để phục_vụ ở tất_cả các phòng trong gia_đình .
+Ngoài giải_pháp tình_thế là thay_đổi vị_trí đặt thiết_bị , cách hiệu_quả và ít tốn_kém là trang_bị các bộ tiếp sóng không dây Wi-Fi ( repeater ) .
+Các thiết_bị tiếp sóng chỉ cần cài_đặt một lần và cắm điện để hoạt_động .
+Cách_thức hoạt_động của các thiết_bị dạng này là thu sóng Wi-Fi từ bộ phát chính sau đó phát lại nhằm tăng cường_độ phủ và thường được đặt ở các vị_trí trung_gian trong nhà .
+Người dùng có_thể đặt tên mạng Wi-Fi mới do thiết_bị này phát ra cùng hoặc khác tên so với bộ phát chính .
+Thiết_bị chỉ cần cắm điện và cài_đặt lần đầu là có_thể hoạt_động bình_thường .   Thị
+trường hiện_nay rất phong_phú về hãng sản_xuất như Cisco_Linksys , Buffalo , Draytek , TP-Link , Totolink , Tenda … với giá từ 300 nghìn đến vài triệu đồng .
+Với những người dùng không có yêu_cầu cao , thị_trường vẫn có một_số lựa_chọn bộ tiếp sóng với giá chỉ khoảng trên_dưới 300.000 đồng .
+Có_thể kể đến như Totolink   N100RE ,   N151RA , N200RE ,   TP Link TL-WR702N ,   Tenda W311R ...
+Để đạt hiệu_quả tốt nhất , nên sử_dụng cùng chủng_loại với bộ phát Wi-Fi có sẵn .
+Vị_trí đặt nên ở điểm giữa bộ phát chính và các phòng cần sử_dụng nhiều .
+Sóng_Wi - Fi bản_chất là truyền thẳng nên cần tránh tối_đa các vật cản để tạo hiệu_quả tốt nhất .
+Hoài_Anh

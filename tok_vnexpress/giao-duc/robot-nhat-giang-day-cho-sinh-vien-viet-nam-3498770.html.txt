@@ -1,0 +1,9 @@
+Robot_Nhật giảng_dạy cho sinh_viên Việt_Nam
+Hai con robot Nao tiên_tiến của Nhật_Bản được Đại_học Lạc_Hồng ( Đồng_Nai ) đầu_tư trong công_tác giảng_dạy cho sinh_viên kỹ_thuật , ngoại_ngữ và công_nghệ_thông_tin .
+Sáng 14/11 , Đại_học Lạc_Hồng tổ_chức buổi giao_lưu với 2 con robot Nao đến từ Nhật_Bản .
+Đây là công_nghệ robot hiện_đại bậc nhất , với các ứng_dụng thực_tiễn trong cuộc_sống hiện_nay như dạy_học , lễ_tân , lao_động sản_xuất ...
+Robot_Nao được trang_bị 25 động_cơ mô_tơ điện ở các khớp cổ , tay , gối , háng ; có camera với độ_phân_giải cao ; có cảm_biến ở đầu , chân_tay ...   Tại buổi giao_lưu , 2 chú robot đã biểu_diễn dịch_thuật 21 thứ tiếng , chào_hỏi , đi_lại , diễn_thuyết , hát ...
+Theo tiến_sĩ Lâm_Thành_Hiển , Phó hiệu_trưởng Đại_học Lạc_Hồng , việc đầu_tư 2 chú robot ( mỗi con 10.000 USD ) nằm trong kế_hoạch đưa công_nghệ kỹ_thuật tiên_tiến vào giảng_dạy trong nhà_trường , giúp sinh_viên đam_mê sáng_tạo robot có điều_kiện thực_hành nghiên_cứu tốt hơn .
+Đặc_biệt phục_vụ cho công_tác dạy_học ở các môn kỹ_thuật , ngoại_ngữ và công_nghệ_thông_tin .
+" Đây chỉ là những ý_tưởng bước_đầu , trong thời_gian tới chúng_tôi sẽ thử_nghiệm việc đưa robot ứng_dụng trong việc dạy và học của nhà_trường , hướng tới tự chế_tạo robot để dự thi robocup quốc_tế cũng_như ứng_dụng thực_tiễn " , thầy Hiển nói .
+Phước_Tuấn

@@ -1,0 +1,62 @@
+4 mẫu_đơn người muốn ly_hôn cần biết
+Bốn mẫu_đơn cơ_bản khi một người muốn ly_hôn gồm : Đơn xin ly_hôn , Đơn thuận_tình ly_hôn , Đơn xin đơn_phương ly_hôn , Mẫu giấy xác_nhận mâu_thuẫn vợ_chồng .
+Một_số điều cần lưu_ý khi viết các loại đơn này :
++ Tình_trạng hôn_nhân : Có đang chung_sống cùng nhau hay không , phần này cần thể_hiện tình_trạng mâu_thuẫn vợ_chồng và nguyên_nhân mâu_thuẫn ...
+Làm đơn này đề_nghị tòa giải_quyết việc ly_hôn .
++ Phần con chung : Nếu đã có con chung ghi thông_tin các con ( tên , ngày_tháng năm sinh … ) , nguyện_vọng và để nghị nuôi con ...
++ Phần tài_sản chung : Nếu có tài_sản ghi thông_tin về tài_sản ( liệt_kê toàn_bộ ) , trị_giá thực_tế , đề_nghị phân_chia ...
++ Phần nợ chung : Nếu có nợ chung ghi cụ_thể số nợ , ( tiền hay tài_sản , chủ_nợ là ai , thời_gian trả nợ … ) và đề_nghị phân nghĩa_vụ trả nợ trong đơn .
+Nếu_không có nợ chung ghi không có ...
+Dưới đây là mẫu_đơn cụ_thể , cùng cách viết ví_dụ chi_tiết :
+ĐƠN_LY_HÔN_ĐƠN_PHƯƠNG
+Kính gửi :                     TÒA_ÁN_NHÂN_DÂN_QUẬN ... ... ... ...
+Tôi tên là : ... ... ... ... ... ... ... ... ... ... ... ... , sinh năm : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . .
+CMND số : ... ... ... ... ... ... ... ... ... ... ... . , cấp ngày ... ... ... ... ... ... ... . . tại ... ... ... ... ... ... ... ... ... . .
+Hộ_khẩu thường_trú : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
+Hiện cư_trú tại : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . .
+Nay tôi làm đơn này xin được Tòa giải_quyết ly_hôn với :
+Ông : ... ... ... ... ... ... ... ... ... ... ... ... ... ... . . , sinh năm : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... . .
+CMND số : ... ... ... ... ... ... ... ... ... ... ... . , cấp ngày ... ... ... ... ... ... ... . . tại ... ... ... ... ... ... ... ... ... .
+Hộ_khẩu thường_trú : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+Hiện cư_trú tại : ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
+Vì hai vợ_chồng có nhiều mâu_thuẫn nghiêm_trọng , hạnh_phúc gia_đình không có , không_thể tiếp_tục chung_sống .
+Cụ_thể như sau :
+Ngày ... ... . . tháng ... ... . năm 20 ... ... . . , tôi và anh ... ... ... ... ... ... ... ... ... . . kết_hôn .
+Được UBND ... ... ... ... . . Quận ... ... ... . . cấp Giấy chứng_nhận đăng_ký kết_hôn ngày ... ... . / ... ... / 20 / ... ... ... ...
+Sau khi kết_hôn , tôi về chung_sống với gia_đình chồng tại nhà ... ... ... ... ... ... , Quận ... ... ... ... . , thành_phố ... ... ... ...
+Thời_gian đầu , vợ_chồng tôi mở sạp bán quần_áo .
+Qua đầu năm 2006 , vợ_chồng tôi chuyển sang làm trà .
+Công_việc chính là mua trà khô về pha_chế , đóng_gói và bán với nhãn_hiệu KA_KA và bỏ_mối cho các quán cà_phê .
+Số vốn ban_đầu bỏ ra khoảng 100 triệu đồng .
+Từ đó đến nay , việc kinh_doanh dần ổn_định .
+Chúng_tôi đã có khoảng trên 100 mối bán hàng .
+Tiền lãi hàng tháng khoảng 20 triệu đồng .
+Việc kinh_doanh do tôi trực_tiếp điều_hành , quản_lý .
+Tuy công_việc kinh_doanh suôn_sẻ nhưng cuộc_sống vợ_chồng của chúng_tôi lại nảy_sinh nhiều mâu_thuẫn và ngày_càng nghiêm_trọng , không_thể hàn_gắn .
+Cụ_thể anh Quốc ngoại_tình , bỏ_bê , không quan_tâm đến vợ_con , lấy tiền nhà ăn_xài phung_phí .
+Gần đây anh Quốc đã chung_sống công_khai với người khác .
+Ngoài_ra anh Quốc liên_tục về kiếm cớ chửi_mắng tôi , có lần còn hành_hung tôi .
+Từ tháng 9/2009 , do quá bất_mãn với cuộc_sống vợ_chồng như_vậy , tôi đã phải bỏ về nhà má tôi .
+Từ đó đến nay , vợ_chồng tôi sống ly_thân .
+* Con chung :
+Tháng 8-2004 , tôi sinh con_trai đầu_lòng – bé …
+* Tài_sản chung :
+Trong quá_trình chung_sống , vợ_chồng tôi đã tạo_lập ( mua ) được một_số tài_sản như sau :
+- Một xe ô_tô hiệu Toyota 7 chỗ , đã qua sử_dụng ( từ đầu năm 2013 ) .
+Biển_số : 52V – XXX .
+Trị_giá khi mua : 290 triệu đồng .
+Tôi đứng_tên trên giấy sở_hữu xe .
+- Mối khách_hàng và nhãn_hiệu trà KAKA .
+Trị_giá ước đoán 500 triệu đồng .
+Nay tôi làm đơn này đề_nghị Quí tòa xem_xét giải_quyết việc ly_hôn với anh Trương_Quốc_Quốc vì xét thấy không có hạnh_phúc , mục_đích hôn_nhân không đạt .
+Bản_thân anh Quốc cũng đồng_ý ly_hôn .
+Yêu_cầu của tôi như sau :
+1 . Về tài_sản :
+- Chiếc xe Toyota 52V-xxx bán chia đôi , mỗi người một_nửa .
+- Mối trà và nhãn_hiệu trà KAKA chia đôi mối khách_hàng , mỗi người một_nửa .
+2 . Về nuôi con :
+Tôi chịu trách_nhiệm nuôi con .
+Hàng tháng , anh Quốc cấp_dưỡng một_số tiền là 3 triệu đồng , cho_đến khi con đủ 18 tuổi .
+Tôi đồng_ý nhận tiền cấp_dưỡng một lần .
+Kính mong Quý_Tòa xem_xét , giải_quyết nguyện_vọng của tôi , theo quy_định của pháp_luật .
+Tôi xin chân_thành cảm_ơn .

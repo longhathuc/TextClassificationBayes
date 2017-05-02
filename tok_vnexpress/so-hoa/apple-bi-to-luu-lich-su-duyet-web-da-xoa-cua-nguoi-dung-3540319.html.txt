@@ -1,0 +1,11 @@
+Apple bị ' tố ' lưu lịch_sử duyệt web đã xóa của người dùng
+Khi thực_hiện thao_tác xóa trên trình_duyệt Safari , người dùng tin rằng lịch_sử duyệt web của họ sẽ không còn tồn_tại , nhưng thực_tế không phải vậy .
+Nghiên_cứu mới của hãng Elcomsoft ( Nga ) cho thấy tính_năng đồng_bộ trình_duyệt của Apple sẽ khiến i Cloud tiếp_tục lưu lại những hoạt_động trên web của người sử_dụng hơn một năm .
+Thông_thường , một hoạt_động web được xóa trên thiết_bị này thì cũng sẽ biến_mất trên các thiết_bị đồng_bộ khác có dùng chung Apple ID chỉ sau vài giây hay vài phút .
+Tuy_nhiên , nếu được lưu trên đám mây , nó vẫn nằm trong máy_chủ của Apple hàng tháng mà người dùng không hề hay_biết .
+Lịch_sử trình_duyệt đã xóa trên thiết_bị Apple vẫn có_thể được khôi_phục lại .
+Ảnh minh_họa : Indabaa
+Chia_sẻ với Forbes , Vladimir_Katalov , CEO Elcomsoft cho_hay ông vô_tình phát_hiện ra_điều này khi cài_đặt công_cụ khôi_phục dữ_liệu của công_ty trên một chiếc i Phone có kết_nối tài_khoản i Cloud .
+Ông ngạc_nhiên nhận thấy hàng nghìn hoạt_động trình_duyệt như các trang_web , từ_khóa tra_cứu trên Google ... , vốn được ông xóa từ lâu , vẫn còn tồn_tại .
+Một chuyên_gia độc_lập khác đã thực_hiện thử_nghiệm tương_tự và khôi_phục được 125.000 hoạt_động trên trình_duyệt từ năm 2015 .
+Theo 9to5Mac , Apple đã khắc_phục vấn_đề này trong bản i OS 9.3 , tức người dùng đã cập_nhật thiết_bị lên hệ_điều_hành mới sẽ không bị ảnh_hưởng .

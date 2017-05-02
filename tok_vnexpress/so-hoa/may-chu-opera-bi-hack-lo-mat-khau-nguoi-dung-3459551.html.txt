@@ -1,0 +1,12 @@
+Máy_chủ Opera bị hack , lộ mật_khẩu người dùng
+Công_ty phát_triển trình_duyệt Opera cho_biết dịch_vụ của họ đã bị tin_tặc tấn_công , có_thể làm lộ thông_tin thành_viên bao_gồm tên đăng_nhập và mật_khẩu .
+Opera cho_biết hacker đã chiếm được quyền truy_cập Opera_Sync , một dịch_vụ cho_phép đồng_bộ dữ_liệu trình_duyệt trên các nền_tảng khác_nhau .
+Công_ty đang tiếp_tục điều_tra , nhưng nhận_định ban_đầu thì cuộc tấn_công này có_thể ảnh_hưởng đến dữ_liệu người dùng .
+Opera_Sync bị tấn_công , nguy_cơ lộ thông_tin người dùng .
+Opera hiện có khoảng 350 triệu thành_viên , nhưng công_ty cho_biết chỉ có một phần nhỏ trong số đó sử_dụng dịch_vụ đồng_bộ .
+Tháng trước , hãng ước_tính khoảng 1,7 triệu người dùng Opera_Sync , song số_lượng thành_viên đăng_ký có_thể nhiều hơn thế .
+Opera đã thiết_lập lại toàn_bộ mật_khẩu và gửi mail thông_báo tới tất_cả người dùng có đăng_ký dịch_vụ đồng_bộ .
+" Mặc_dù chúng_tôi chỉ lưu_thông tin dưới dạng mã_hóa và có yếu_tố xác_thực , nhưng công_ty vẫn đặt lại toàn_bộ mật_khẩu của người dùng Opera_Sync để phòng_ngừa " .
+Công_ty nói rằng vụ hack chỉ ảnh_hưởng đến một dịch_vụ độc_lập trong nền_tảng của họ .
+Trước đó , dịch_vụ điện_toán đám mây Dropbox đã tiến_hành thiết_lập lại mật_khẩu của các tài_khoản không đổi mật_khẩu từ năm 2012 .
+Nhà_cung_cấp dịch_vụ nói rằng động_thái của mình nhằm hạn_chế các tác_động trong vụ LinkedIn bị hack , khiến 117 triệu tài_khoản nguy_cơ lộ thông_tin .

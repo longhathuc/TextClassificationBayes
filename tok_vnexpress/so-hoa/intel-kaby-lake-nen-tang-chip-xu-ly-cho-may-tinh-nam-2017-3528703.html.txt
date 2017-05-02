@@ -1,0 +1,19 @@
+Intel_Kaby_Lake - nền_tảng chip xử_lý cho máy_tính năm 2017
+Thế_hệ Core i thứ 7 của Intel vẫn sản_xuất trên chu_trình 14 nm nhưng thay_đổi kiến_trúc giúp tăng hiệu_năng nhưng vẫn giữ mức tiêu_thụ năng_lượng như thế_hệ thứ 6 .
+Acer_Aspire E5 575G sử_dụng chip Intel_Core i7-7500U .
+Intel_Core i nền_tảng Kaby_Lake bắt_đầu " đổ_bộ " trên hàng_loạt mẫu laptop , PC mới tại CES 2017 .
+Tuy_nhiên , một số_ít laptop đã sớm trang_bị dòng vi_xử_lý này từ cuối năm 2016 .
+Có_thể kể đến như   Acer_Aspire E5 575G ,   Lenovo_Idea Pad_Yoga 510-15IKB ,   HP Probook 440 G4-15IKB hay   Dell_Vostro 15 5568 .
+Đáng chú_ý trong số này là model   Acer_Aspire E5 575G với vi_xử_lý Intel_Core i7-7500U với mức giá khá tốt , chưa tới 20 triệu đồng .
+Các thông_số khác của máy bao_gồm RAM_DDR4 dung_lượng 8 GB , card đồ_họa Nvidia_Ge Force 940MX và ổ_cứng dung_lượng 1 TB .
+Intel_Core i7-7500U .
+So với dòng chip xử_lý tiền_nhiệm là Core i 7-6500U ( tốc_độ 2,5 GHz cơ_sở , 3,1 GHz cho một lõi và 3 GHz cho lõi kép ) , dòng chip mới Core i 7-7500U có tốc_độ cơ_sở 2,7 GHz , một lõi tốc_độ 3,5 GHz và lõi kép là 3,5 GHz .
+Mức tăng so của phiên_bản thế_hệ thứ 7 là khoảng 10 đến 15% .
+Thậm_chí , còn vượt qua mẫu Skylake hàng_đầu là Core i 7-6600U .
+Các thử_nghiệm ban_đầu của Notebookcheck cho thấy Intel_Core i7-7500 có_thể hoạt_động với các ứng_dụng đơn luồng ở tốc_độ 3,5 GHz ổn_định trong_suốt thời_gian sử_dụng .
+Nhưng khi sử_dụng đa lõi , xung nhịp giảm từ 3,5 GHz ban_đầu xuống còn từ 3,2 đến 3,3 GHz sau khoảng 30 giây .
+Con_số này lợi_thế hơn 15% so với chip tiền_nhiệm Core i 7-6500U .
+Điểm đánh_giá Cinebench R11 . 5 .
+Những đánh_giá ở chế_độ Turbo_Boost cũng cho thấy hiệu_suất dòng chip mới cao hơn 3% so với Core i 7-6600U nhưng lại tiết_kiệm điện_năng hơn tới_tới 20% .   Kết_quả thử_nghiệm bằng Cinebench R15 cho thấy   Intel_Core i7-7500U hiệu_quả hơn khoảng 15-25 % khi benchmark đa_luồng so với dòng chip cũ .
+Nền_tảng Intel_Kaby_Lake ban_đầu gây một_chút thất_vọng bởi vẫn sử_dụng chu_trình 14 nm như Skylake và là thế_hệ thứ 3 liên_tiếp như_vậy .
+Tuy_nhiên , các đánh_giá cho thấy Intel đã tối_ưu rất tốt dòng chip mới với khả_năng tiêu_thụ điện ít hơn , hiệu_quả hơn từ 15 đến 25% , khá đáng_kể với các dòng laptop siêu di_động .

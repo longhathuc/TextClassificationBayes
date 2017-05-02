@@ -1,0 +1,17 @@
+Đột_nhập camera an_ninh trong 30 giây
+Kể_cả khi đặt mật_khẩu mạnh , camera an_ninh vẫn dễ_dàng bị kẻ_gian đột_nhập thông_qua một_vài thao_tác cơ_bản .
+Camera an_ninh , đặc_biệt là các sản_phẩm giá rẻ luôn tiềm_ẩn những mối nguy khó lường , trong đó có việc chiếm quyền điều_khiển , từ đó có_thể theo_dõi người dùng , đánh_cắp dữ_liệu hình_ảnh cho các mục_đích xấu hoặc lợi_dụng để thực_hiện các cuộc tấn_công từ_chối dịch_vụ ( DDoS ) .   Thế
+nhưng , dù nguy_cơ an_ninh cao , người dùng lại chưa ý_thức được tầm quan_trọng của việc bảo_vệ camera an_ninh trước sự tấn_công của tin_tặc .
+" Tâm_lý của những người sử_dụng camera an_ninh rất chủ_quan , họ chỉ yêu_cầu hình_ảnh có được chất_lượng không , giá_thành thế_nào mà không chịu quan_tâm đến vấn_đề bảo_mật .
+Chính vì_thế , họ bị tấn_công và bị theo_dõi bất_kỳ lúc_nào mà không hề hay_biết " ,   Tiến_sĩ Nguyễn_Anh_Tuấn , Trưởng khoa Mạng máy_tính và Truyền_thông Đại_học Công_nghệ_thông_tin TP_HCM , cho_biết .
+Ông giải_thích , chỉ cần biết được địa_chỉ IP của camera , kẻ_gian dễ_dàng đột_nhập vào hệ_thống và theo_dõi thiết_bị đang ghi lại những hình_ảnh gì , ở đâu .
+" Ngay cả một hacker ' gà_mờ ' cũng có_thể tìm thấy địa_chỉ IP của camera trên các trang_web , diễn_đàn , hội nhóm của chúng .
+Những ' tên ' chuyên_nghiệp hơn sẽ tự đánh_cắp địa_chỉ IP .
+Từ đó , trong vòng chưa tới 30 giây , kẻ_gian không_chỉ biết được camera đang quay gì , mà_còn có_thể biết modem kết_nối với camera là loại gì , không dây hay có dây , mật_khẩu là gì ... " , ông Tuấn nói .
+Video minh_họa cách đột_nhập vào camera trong vòng 30 giây :
+" Ngay cả camera từ thương_hiệu uy_tín nếu_không có lớp bảo_mật mạnh cũng dễ_dàng bị hacker tấn_công , do_đó , người dùng cần tỉnh_táo ngay từ khi mua .
+Việc đầu_tiên cần làm là hỏi xem camera đó có những tính_năng bảo_mật gì , mức_độ an_toàn ra_sao , khả_năng cập_nhật phần_mềm trong tương_lai ...
+Nếu_không chắc_chắn , hãy tìm một người am_hiểu camera an_ninh cùng đi mua sẽ tốt hơn " , ông Thắng cho_biết .
+Ngoài_ra , trong quá_trình sử_dụng , người dùng nên hạn_chế chia_sẻ mật_khẩu Wi-Fi nếu mạng đó có kết_nối với camera , bởi nó có_thể gián_tiếp giúp kẻ xấu đánh_cắp được địa_chỉ IP của camera và xâm_nhập bất_hợp_pháp .
+Trong trường_hợp nghi_ngờ bị xâm_nhập , nên ngắt kết_nối camera , sau đó liên_hệ với công_ty thi_công để được hỗ_trợ .
+Bảo_Lâm

@@ -1,0 +1,2 @@
+Đáp_án bài_toán điền số vào ô vuông
+Để tìm được con_số tương_ứng theo yêu_cầu của đề_bài , ta chỉ cần chú_ý đến vị_trí ô vuông theo hàng và cột .

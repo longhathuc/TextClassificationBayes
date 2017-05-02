@@ -1,0 +1,5 @@
+Nguyên_tắc chỉnh gương chiếu hậu đúng cách
+Vật_thể xuất_hiện trong gương chiếu hậu ở ngoài và trong xe khác_nhau về khoảng_cách , hay làm cách nào chỉnh độ chói cho gương chiếu hậu bên trong xe .
+Gương chiếu hậu như đôi mắt phía sau gáy của tài_xế , tuy_nhiên vì " đôi mắt " này nhân_tạo , lại nhìn ngược nên phát_sinh nhiều vấn_đề .
+Dưới đây là những vấn_đề như_vậy , độc_giả click từng trường_hợp để xem giải_thích .
+Minh_Hy

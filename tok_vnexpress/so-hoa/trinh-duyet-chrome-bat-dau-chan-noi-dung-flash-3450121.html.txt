@@ -1,0 +1,16 @@
+Trình_duyệt Chrome bắt_đầu chặn nội_dung Flash
+Phiên_bản Google_Chrome 53 phát_hành tháng 9 tới sẽ bắt_đầu không cho hiển_thị Flash và tiến_hành " mạnh_tay " hơn trong các phiên_bản tiếp_theo .
+Tháng 5/2016 , Google cho_biết   sẽ dần mặc_định chặn Flash trên website từ quý IV/2016 .
+Tuy_nhiên trong thông_báo mới nhất , tiến_độ đã được công_ty công_nghệ Mỹ đẩy sớm lên từ tháng sau , với Chrome 53 .
+HTML5 sẽ thay_thế Flash , ưu_điểm là tốn ít tài_nguyên xử_lý , giúp tải trang nhanh hơn , từ đó tăng tuổi_thọ pin với các thiết_bị di_động , tăng tốc_độ đáp_ứng trang .
+Chrome 53 sẽ bắt_đầu chặn Flash .
+Ảnh : Engadget .
+Đến phiên_bản Chrome 55 , Google sẽ mặc_định hiển_thị HTML5 , ngoại_trừ những website chỉ hỗ_trợ Flash .
+Người dùng sẽ được cung_cấp tùy chọn nếu muốn bật Flash và đây là bước đệm để bạn dần làm_quen .
+Năm_ngoái , Google đã bắt_đầu chặn quảng_cáo Flash nên có_thể người dùng đã biết đến thay_đổi này .
+Flash là phần_mềm của Adobe , cho_phép các trang_web hiển_thị video , âm_thanh , game , ứng_dụng trực_tuyến ...
+Tuy_nhiên , để xem nội_dung Flash , người sử_dụng phải cài Flash player .
+Bên_cạnh đó , chương_trình này làm nặng website và tồn_tại nhiều lỗ_hổng , dễ bị tin_tặc khai_thác nhằm tấn_công thiết_bị của người dùng .
+Sau khi Apple kiên_quyết không dùng Flash mà chuyển sang HTML5 , nhiều hãng công_nghệ khác cũng bắt_đầu từ_bỏ chuẩn này .
+Tuy_nhiên , quá_trình khai_tử diễn ra chậm_chạp vì có tới 75% video trên web được hiển_thị qua Flash .
+Từ_bỏ Flash đồng_nghĩa với việc phải thiết_kế lại web với đủ mọi khó_khăn và tốn_kém .

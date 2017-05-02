@@ -1,0 +1,12 @@
+Đáp_án bài_toán ' khối lập_phương ' của học_sinh lớp 5
+Có người cho rằng bài_toán ' khối lập_phương ' trong đề thi quốc_tế này quá đơn_giản , trong khi đó , một_số khác không_thể đưa ra câu trả_lời chính_xác .
+Đề_bài :
+Trên mỗi mặt của khối lập_phương ABCD.EFGH , Mary đều viết một_số .
+Sau đó , với mỗi đỉnh của khối lập_phương , cô ấy đã cộng các số được điền trên ba mặt của khối lập_phương có cùng đỉnh đó ( ví_dụ , với đỉnh B , cô ấy cộng các số được viết ở mặt BCDA , BAEF và BFGC ) .
+Biết rằng các kết_quả mà Mary nhận được sau khi cộng ở đỉnh C , D và E lần_lượt là 14 , 16 và 24 .
+Hỏi kết_quả mà Mary nhận được ở đỉnh F là bao_nhiêu ?
+Nhận thấy tổng_số ứng với đỉnh C và đỉnh E chính là tổng 6 số viết trên 6 mặt hình_lập_phương và bằng 14 + 24 = 38 .
+Tổng các số ứng với đỉnh D và F cũng bằng tổng 6 số ở 6 mặt và bằng 38 .
+Nên tổng các số trên ba mặt kề với F bằng 38 - 16 = 22 .
+Trần_Phương
+> > Thử tài suy_luận với bài_toán về những chú sóc > > Bài_toán ' lát sàn ' lớp 7 có_thể khiến bạn gặp khó

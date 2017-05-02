@@ -1,0 +1,12 @@
+Facebook thử_nghiệm tính_năng dò Wi-Fi ' chùa '
+Facebook đang âm_thầm thử_nghiệm tính_năng hỗ_trợ tìm_kiếm các điểm phát Wi-Fi miễn_phí xung_quanh vị_trí đang đứng cho người dùng di_động .
+Tính_năng " Find_Wi - Fi " đang được Facebook thử_nghiệm .
+Mới_đây , The_Next_Web đã phát_hiện tính_năng có tên gọi " Find_Wi - Fi " nằm ẩn sâu bên trong menu Tùy chọn trên ứng_dụng Facebook cho i OS  phiên_bản mới nhất .
+Khi truy_cập vào tính_năng này , một bản_đồ với các địa_điểm , doanh_nghiệp , cửa_hàng ... cung_cấp Wi-Fi miễn_phí sẽ hiện lên .
+Những nơi có Wi-Fi miễn_phí sẽ hiện lên biểu_tượng cột sóng màu đỏ .
+Tất_nhiên ,   người dùng phải bật định_vị GPS nhằm giúp ứng_dụng lấy vị_trí chính_xác .
+Dù_vậy , tính_năng này vẫn đang trong giai_đoạn thử_nghiệm ở một_số khu_vực .
+Chưa rõ thời_điểm phát_hành rộng_rãi , nhưng theo một đại_diện Facebook tiết_lộ với VentureBeat , Find_Wi - Fi sẽ " có_mặt sớm " .
+Phonearena nhận_định , tính_năng tìm Wi-Fi là bước_đi tiếp_theo của Facebook trong việc thu_hút người dùng mới , giữ_chân người dùng hiện_tại , cũng_như hỗ_trợ mọi người có_thể truy_cập Internet mọi lúc mọi nơi .
+Tuy_nhiên , việc kết_nối vào Wi-Fi công_cộng cũng tiềm_ẩn các nguy_cơ bảo_mật , khi người dùng dễ_dàng bị kẻ xấu đột_nhập vào thiết_bị và đánh_cắp thông_tin bất_cứ lúc_nào .
+Bảo_Lâm

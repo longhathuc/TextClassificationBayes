@@ -1,0 +1,19 @@
+Mật_khẩu tài_khoản mạng của ông chủ Facebook là dadada
+Mark_Zuckerberg từng nói về việc các thành_viên Facebook đặt mật_khẩu dễ_dãi , nhưng vụ lộ thông_tin mới nhất cho thấy ông cũng nằm trong số đó .
+Cuối tuần qua , nhóm tin_tặc OurMine đã tìm thấy thông_tin đăng_nhập của CEO Facebook trong cơ_sở_dữ_liệu bị rò_rỉ của mạng xã_hội LinkedIn từ năm 2012 .
+Từ thông_tin này , OurMine đã truy_cập được vào tài_khoản Twitter cũng_như Pinterest của Zuckerberg và đăng thông_điệp rằng : " Tài_khoản bị hack bởi nhóm OurMine " .
+Phát_hiện của hacker cho thấy người đứng đầu mạng xã_hội lớn nhất thế_giới lại mắc những lỗi sơ_đẳng khi tham_gia các dịch_vụ Internet .
+Thứ nhất , ông dùng chung một mật_khẩu cho nhiều tài_khoản khác_nhau .
+Thứ_hai , mật_khẩu của ông quá đơn_giản : dadada .
+Ông chủ Facebook cũng thường " đặt bừa " mật_khẩu giống nhiều người dùng .
+Ảnh : Blick .
+Kiểu đặt password này vẫn bị các chuyên_gia bảo_mật coi là ác_mộng bởi kẻ tấn_công có chủ_đích , bằng những thủ_thuật riêng , chỉ mất chưa đến 25 giây để lần ra .
+Nó không chứa chữ_cái được viết hoa , không có số hay bất_cứ ký_tự đặc_biệt nào .
+Trên bảng xếp_hạng mật_khẩu dễ đoán , password này nằm giữa dạng abcdf và p 4ssw0rd .
+Mark_Zuckerberg không phải người dùng Internet duy_nhất " chủ_quan " khi chọn mật_khẩu .
+Theo số_liệu từ SplashData , 123456 là mật_khẩu phổ_biến nhất năm 2015 .
+Ngoài_ra , danh_sách còn có những lựa_chọn được cho là tệ_hại gồm dãy số liên_tiếp , những từ rất dễ đoán như password , 12345678 , qwerty , welcome ...
+Trong khi đó , sau nhiều năm " đào_tạo " người dùng đặt mật_khẩu đúng cách nhưng không thành_công , một_số hãng công_nghệ quyết_định tìm cách loại_bỏ mật_khẩu .
+Chẳng_hạn ,   Mastercard muốn dùng ảnh selfie để thay cho mật_khẩu .
+Còn_Google cũng đang triển_khai dự_án Project_Abacus - hệ_thống bảo_mật sinh trắc học tiên_tiến dựa trên thói_quen gõ phím của mỗi cá_nhân , nhận_biết chủ_nhân qua gương_mặt , giọng nói , địa_điểm thường_xuyên sử_dụng … và lưu lại dưới dạng " điểm tin_tưởng " ( Trust_Score ) .
+Hệ_thống sẽ tính trên điểm tin_tưởng và mức_độ quan_trọng của ứng_dụng để mở khóa .

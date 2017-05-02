@@ -1,0 +1,46 @@
+Đáp_án bài_toán lớp 2 gây tranh_cãi ở Anh
+Khi đã xác_định đúng cách hiểu đề , việc giải bài_toán còn lại rất đơn_giản , kể_cả với học_sinh lớp 2 và đáp_số cần tìm là 65 .
+Đề_bài :
+Louise_Bloxham ( Anh ) chia_sẻ bài_toán này trên mạng Twitter ngày 8/5 và nhận được rất nhiều câu trả_lời kể từ khi cô bình_luận : “ Nếu bạn nghĩ đáp_số là 65 thì bạn sai rồi ” .
+Một bài_toán lớp 2 hỏi về số người đã có_mặt trên tàu đang gây tranh_cãi lớn trên mạng xã_hội .
+Nội_dung bài_toán như sau :
+“ There were some people on a train .
+19 people get off the train at the first stop .
+17 people get on the train .
+Now there are 63 people on the train .
+How many people were on the train to begin with ? ”
+Đề_bài có_thể được dịch là :
+“ Đã ( từng ) có một_số người ( nhất_định ) trên tàu .
+19 người xuống tàu ở ga đầu_tiên .
+17 người lên tàu .
+Hiện_tại có 63 người trên tàu .
+Hỏi lúc đầu trên tàu có bao_nhiêu người ? ” .
+Louise_Bloxham chia_sẻ bài_toán này trên mạng Twitter ngày 8/5 và nhận được rất nhiều câu trả_lời kể từ khi cô bình_luận : “ Nếu bạn nghĩ đáp_số là 65 thì bạn sai rồi ” .
+Trên mạng nước_ngoài tranh_cãi đáp_số là 46 hay 65 .
+Mấu_chốt sự khác_nhau giữa 2 đáp_số chính là cách hiểu đề_bài .
+Theo bạn , đáp_án nào_là đúng ?
+Phân_tích :
+Phần_đông độc_giả nêu đáp_án là 65 .
+Những người này cùng hiểu câu_hỏi với nội_dung tìm số người có_mặt trên tàu trước khi 19 người xuống tàu ở ga đầu_tiên .
+Cách giải là lần ngược_lại từ cuối lên đầu .
+Trước_hết trong số 63 người hiện_tại phải trừ đi 17 người đã lên tàu , như_vậy là có 46 người .
+Sau đó , phải cộng thêm 19 người đã xuống tàu ở ga đầu_tiên , tức_là tổng_cộng ban_đầu có 65 người trên tàu .
+Ủng_hộ quan_điểm này , độc_giả Robyn_Duckworth bình_luận : “ Không có mẹo lừa gì ở đây cả .
+Có 65 người trên tàu .
+Tàu dừng .
+19 người xuống .
+17 người lên .
+Còn 63 người_ở lại trên tàu . ”
+Độc_giả Neil_Hughes khẳng_định : Không có đáp_án nào khác trừ đáp_án là 65 .
+Câu_hỏi khó ( với học_sinh lớp 2 ) , nhưng không hề gây nhầm_lẫn .
+Độc_giả Rachael_Pickering cũng đồng_tình : Không có gì sai hay buồn_cười ở đây cả !
+Nếu đáp_án đưa ra khác ( 65 ) thì đó là câu trả_lời sai , nếu_không thì con_số “ 19 ” đưa ra ở đề_bài chẳng có ý_nghĩa gì cả ” .
+Trái với quan_điểm nêu trên , Louise_Bloxham , người đăng bài_toán trên bình_luận : “ Tôi cho rằng ( con_số 19 ) ở đó để gây bối_rối và là mẹo lừa ( người giải ) . ”
+Những người đưa ra đáp_số 46 cùng hiểu câu_hỏi là tìm số người trên tàu lúc tàu khởi_hành trước khi có 17 người lên tàu .
+Chẳng_hạn , độc_giả Emma_Forbes biện_luận : “ Dòng cuối_cùng là rất quan_trọng , vì nó hỏi có bao_nhiêu người trên tàu khi tàu khởi_hành ” ( how many on the train to start off . ) Độc_giả này khẳng_định : “ Điều đó có nghĩa_là 19 người xuống tàu ở ga thứ nhất chẳng có ý_nghĩa gì vì sau đó tàu đã khởi_hành , do_đó về cơ_bản câu trả_lời là 63 – 17 = 46 ” .
+Trên đà suy_diễn , nhiều độc_giả còn vui_tính bình_luận : “ Đáp_số phải là zero .
+Chẳng có ai trên tàu lúc ban_đầu cho tới khi người lái tàu bước lên . ” ( thetigeri ) “ Rất có_thể là chuyến tàu bị hoãn và tất_cả mọi người sẽ phải xuống tất … ” ( Pauline )
+Tóm_lại , việc nắm vững tiếng Anh để hiểu rõ câu_hỏi trong đề toán tiếng Anh là vô_cùng quan_trọng .
+Với đề_bài trong bối_cảnh như trên , theo thiển_ý của người viết , câu_hỏi “ How many people were on the train to begin with ? ” cần phải được hiểu là : “ Hỏi lúc đầu trên tàu có bao_nhiêu người ? ”
+Khi đã xác_định đúng cách hiểu đề , việc giải bài_toán còn lại rất đơn_giản , kể_cả với học_sinh lớp 2 và đáp_số cần tìm là 65 .
+Trần_Phương - Lê_Hương

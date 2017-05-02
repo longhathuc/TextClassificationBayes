@@ -1,0 +1,12 @@
+Lý_do i Phone vẫn bắt nhập mật_khẩu dù có vân tay
+Nhằm nâng cao khả_năng bảo_mật , iPhone và i Pad bắt_buộc người dùng nhập passcode để mở khóa thiết_bị trong một_số trường_hợp , thay_vì xác_thực bằng vân tay .
+Touch ID - mở khóa bằng vân tay là phương_thức bảo_mật được nhiều người yêu_thích trên các thiết_bị di_động của Apple .
+Nó cho_phép giữ các dữ_liệu riêng_tư , ngăn người khác truy_cập trái_phép và thực_hiện nhanh gọn hơn so với việc nhập mật_khẩu .
+Tuy_nhiên trong quá_trình sử_dụng , nhiều người thắc_mắc vì_sao i Phone , iPad vẫn yêu_cầu nhập passcode ( mã mở khóa màn_hình ) mà không cho dùng vân tay .
+Trang_Mac World đã tìm_hiểu điều này và lý_do Apple làm_vậy là để nâng cao tính bảo_mật cho thiết_bị .
+Nhiều trường_hợp , iPhone buộc nhập passcode để mở khóa thiết_bị chứ không cho dùng Touch ID .
+Cụ_thể , người dùng buộc phải nhập passcode chứ không_thể xác_thực bằng vân tay khi i Phone , iPad lần đầu bật lên hoặc sau khi khởi_động lại .
+Trường_hợp khác là thiết_bị không được mở khóa trong 48 giờ trở_lên , passcode không được dùng trong 6 ngày qua hoặc Touch ID không mở khóa thiết_bị trong 8 giờ .
+Ngoài_ra , khi i Phone , iPad bị khóa từ xa hoặc   sau khi nhập vân tay 5 lần mà không khớp   thì người dùng buộc phải mở thiết_bị bằng passcode chứ không_thể dùng vân tay .
+Theo thiết_lập của Apple , khi người dùng cài hoặc thêm vân tay mới cho Touch ID , bạn cũng cần nhập mật_khẩu .
+Với hàng_rào bảo_vệ nêu trên , người dùng khóa i Phone hay i Pad sau đó đi ngủ thì nhiều khả_năng khi thức_dậy bạn sẽ buộc phải nhập mật_khẩu , nếu Touch ID không được dùng trong hơn 8 giờ .

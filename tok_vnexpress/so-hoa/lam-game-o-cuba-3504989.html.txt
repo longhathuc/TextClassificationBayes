@@ -1,0 +1,27 @@
+Làm game ở Cuba
+Josuhe H . Pagliery , một nhà_phát_triển game độc_lập tại Cuba đã chia_sẻ về những khó_khăn của mình trong công_việc tại quốc_gia vừa thoát khỏi sự kìm_kẹp về cấm_vận kinh_tế hơn 50 năm .
+Mang tên gọi Savior ( Vị cứu_tinh ) , trò_chơi mà nhóm của anh đang phát_triển một game platform với đồ_họa 2D sở_hữu phong_cách đồ_họa đậm chất nghệ_thuật với với nhân_vật chính là Little_God .
+Nội_dung game là câu_chuyện chiến_đấu chống các thế_lực hắc_ám để giúp thế_giới không bị sụp_đổ , thông_qua hành_trình tìm_kiếm Great_God .
+Platform là hình_thức game trong đó nhân_vật được điều_khiển với tác_động nhảy là chính .
+Nó bao_gồm yếu_tố trọng_lực và người chơi có_thể nhảy hụt ...
+Mario là một trong những game platform điển_hình .
+Savior dự_kiến sẽ được giới_thiệu vào tháng 3/2017 .
+Chia_sẻ với Kotaku , Pagliery và đồng_sự của anh là Johann_Armenteros đã cho_biết phần_nào những khó_khăn mà họ đã phải vượt qua để phát_triển sản_phẩm này .
+Bởi tại Cuba , Internet chỉ có sẵn tại các điểm phát Wi-Fi được chính_phủ phê_chuẩn và người sử_dụng phải mua thẻ để truy_cập với mức giá khá đắt , khoảng 2 USD mỗi giờ .
+Nhiều trang_web được kiểm_duyệt và máy_tính hay các thiết_bị chơi game hiện_đại không_thể mua dễ_dàng tại các cửa_hàng ở Cuba .
+Đội của anh đã phải nhờ tới sự trợ_giúp từ bên ngoài để có_thể sắm_sửa các trang_thiết_bị cần_thiết cho công_việc .
+Ngoài_ra , các công_cụ để phát_triển game cũng đều là sản_phẩm đi_sau vài năm so với tiêu_chuẩn quốc_tế .
+Cộng_đồng game , bao_gồm cả người chơi và nhà_phát_triển ở Cuba khá ít .
+Trên thị_trường trò_chơi , hiện chỉ có một_vài game nhỏ liên_quan tới cuộc cách_mạng Cuba và một_vài trò_chơi giáo_dục do chính_phủ tài_trợ được phổ_biến rộng_rãi .
+Năm 2015 , sau tuyên_bố tái_lập mối quan_hệ ngoại_giao từ Mỹ , dòng_chảy công_nghệ mới đang dần chảy vào đất_nước này .
+Tuy_nhiên , cơ_sở_hạ_tầng và nền_tảng văn_hóa của Cuba vẫn chưa thực_sự thúc_đẩy việc phát_triển các trò_chơi .
+Các điểm truy_cập WiFi công_cộng tại Cuba luôn dễ tìm ra bởi có hàng chục người ngồi thành hàng trước cửa .   Pagliery
+đang ngồi ngoài cùng bên tay_phải .
+Tuy_nhiên , những khó_khăn này vẫn không_thể ngăn_cản được giấc_mơ phát_triển game độc_lập ( Indie ) đầu_tiên cho đất_nước mình của Pagliery .
+Savior vẫn đang hoàn_thiện và đã nhận được sự đánh_giá cao từ cộng_đồng làm game quốc_tế .
+Dự_án huy_động vốn trên trang Indiegogo của sản_phẩm này đã đạt được 10.000 USD chỉ sau sáu ngày huy_động và Pagliery gọi đây là một thành_công " siêu đặc_biệt " .
+Phong_cách nghệ_thuật , tạo_hình đồ_họa của game được đánh_giá là có nét riêng và khá cuốn_hút .
+Pagliery nói anh lấy cảm_hứng từ những trò_chơi cổ_điển yêu_thích của mình từ thập_niên 90 như Final_Fantasy , Super_Castlevania   hay Super_Metroid .
+Và mặc_dù tên gọi nhân_vật có liên_quan nhưng trò_chơi không bao_hàm ý_nghĩa tôn_giáo .
+" Đối_với chúng_tôi , đây không phải chỉ là một trò_chơi " , anh nói .
+" Đó là cơ_hội để thiết_lập các khóa học phát_triển game tại Cuba và tạo ra một mô_hình sáng_tạo công_nghệ trong nước " .

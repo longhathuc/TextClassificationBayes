@@ -1,0 +1,21 @@
+Yêu_cầu rà_soát quy_trình mở tài_khoản sau nhiều vụ mất tiền
+Ngân_hàng Nhà_nước vừa yêu_cầu các nhà_băng xem_lại quy_trình mở và sử_dụng tài_khoản thanh_toán ( theo cả phương_thức truyền_thống lẫn điện_tử ) để hạn_chế những rủi_ro , gian_lận như vừa_qua .
+Thống_đốc Ngân_hàng Nhà_nước vừa có văn_bản yêu_cầu các tổ_chức cung_ứng dịch_vụ thanh_toán , Hiệp_hội Ngân_hàng , Cơ_quan Thanh_tra , giám_sát ngân_hàng , Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố tăng_cường các biện_pháp phòng , chống rủi_ro , gian_lận trong hoạt_động thanh_toán .
+Chỉ_đạo này được đưa ra sau hàng_loạt vụ báo mất tiền trong tài_khoản thanh_toán của cá_nhân và doanh_nghiệp xảy_ra gần đây .
+Cụ_thể , riêng đối_với các tổ_chức cung_ứng dịch_vụ thanh_toán ( ngân_hàng ) , nhà_điều_hành yêu_cầu rà_soát , đánh_giá lại toàn_bộ quy_trình , thủ_tục , hồ_sơ và hợp_đồng mở , sử_dụng tài_khoản thanh_toán ( bao_gồm cả phương_thức truyền_thống và điện_tử ) .
+Nếu có vướng_mắc , các nhà_băng cần phản_ánh để phối_hợp xử_lý .
+Đối_với hoạt_động thanh_toán thẻ , thanh_toán trực_tuyến , các nhà_băng cần triển_khai hình_thức bảo_mật cho hệ_thống như phát_hiện , giám_sát , ngăn_chặn các giao_dịch gian_lận , đáng ngờ về thời_gian , vị_trí địa_lý , tần_suất giao_dịch , hạn_mức thanh_toán , số lần xác_thực sai hoặc các dấu_hiệu bất_thường khác .
+Các nhà_băng cũng cần có giải_pháp phát_hiện sớm các trang_web lừa_đảo trực_tuyến để khuyến_cáo cho khách_hàng .   Bên_cạnh đó , nhà_điều_hành cũng chỉ_đạo không bớt_xén các công_đoạn , quy_trình nghiệp_vụ .
+" Khi có các rủi_ro , gian_lận xảy_ra phải báo_cáo Ngân_hàng Nhà_nước và phối_hợp với khách_hàng , các cơ_quan bảo_vệ pháp_luật và các đơn_vị liên_quan xử_lý nhanh , chính_xác , đúng quy_định và sớm thông_tin cho khách_hàng .
+Quyền_lợi của người_dân , của khách_hàng phải được đảm_bảo theo đúng quy_định của pháp_luật " , văn_bản của Thống_đốc cho_hay .
+Sau một loạt vụ báo mất tiền trong tài_khoản , Ngân_hàng nhà_nước yêu_cầu các nhà_băng xem_lại quy_trình mở và sử_dụng tài_khoản thanh_toán .
+Đối_với Cơ_quan Thanh_tra , giám_sát ngân_hàng và Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố , Thống_đốc cũng yêu_cầu đưa nội_dung thanh_tra về công_nghệ_thông_tin trong hoạt_động thanh_toán vào chương_trình thanh_tra , kiểm_tra định_kỳ .
+Cơ_quan Thanh_tra , giám_sát ngân_hàng phải thường_xuyên phối_hợp với Vụ_Thanh toán và Cục Công nghệ tin_học nắm_bắt thông_tin về các thủ_đoạn gian_lận và kịp_thời chỉ_đạo các tổ_chức cung_ứng dịch_vụ thanh_toán nâng cao cảnh_giác , phối_hợp chặt_chẽ với cơ_quan bảo_vệ pháp_luật trong việc phòng , chống tội_phạm trong hoạt_động thanh_toán nói_chung , thanh_toán thẻ , thanh_toán điện_tử .
+Chỉ_đạo này được đưa ra sau hàng_loạt vụ báo mất tiền trong tài_khoản thanh_toán của cá_nhân và doanh_nghiệp xảy_ra gần đây .
+Giữa tháng 8 , một khách_hàng của Ngân_hàng Ngoại_thương ( Vietcombank ) thông_báo về việc mất nửa tỷ đồng trong tài_khoản ngân_hàng sau một đêm dù không hề thực_hiện một giao_dịch chuyển_tiền , rút_tiền nào .
+Trong khi khách_hàng cho rằng quy_trình của ngân_hàng có sơ_hở thì phía nhà_băng cho_biết một trong những nguyên_nhân chính xảy_ra sự_cố là do khách_hàng truy_cập vào đường link giả_mạo website của Vietcombank .
+Hiện cơ_quan điều_tra đang xử_lý vụ_việc này .
+Tương_tự , gần đây một nữ giám_đốc ở TP_HCM cũng báo mất 26 tỷ đồng trong tài_khoản VPBank .
+Theo nữ khách_hàng này , kế_toán của bà đã làm hồ_sơ giả_mạo để mở tài_khoản ngân_hàng bằng chữ_ký của chính người này thay_vì của bà - giám_đốc , người chịu trách_nhiệm trước pháp_luật của công_ty .
+Sau đó , số tiền hàng chục tỷ đồng lần_lượt được rút qua séc với đầy_đủ hồ_sơ hợp_lệ theo quy_định của ngân_hàng , tuy_nhiên , chủ doanh_nghiệp vẫn cho rằng mình không hề hay_biết gì .
+Sự_việc này hé lộ rất nhiều mâu_thuẫn trong lời khai của các bên và đã được chuyển lên cơ_quan điều_tra xử_lý .

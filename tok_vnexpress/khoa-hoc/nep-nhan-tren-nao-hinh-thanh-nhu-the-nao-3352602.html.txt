@@ -1,0 +1,22 @@
+Nếp nhăn trên não hình_thành như_thế_nào
+Các nhà_nghiên_cứu tại Đại_học Harvard đã xây_dựng một mô_hình não bằng kỹ_thuật in 3D theo lớp để mô_phỏng quá_trình tạo thành các nếp nhăn trên vỏ_não .
+Theo   Science_Aleart , giới   khoa_học cho rằng nếp nhăn trên vỏ_não cho_phép não có diện_tích lớn hơn và thể_tích nhỏ hơn , giảm chiều dài các dây_thần_kinh truyền_dẫn tín_hiệu và cải_thiện chức_năng nhận_thức .
+Trước_đây , cơ_chế vật_lý hình_thành các nếp nhăn vẫn chưa được làm rõ .
+Nếp nhăn trên não chỉ xuất_hiện ở một_số loài động_vật , chẳng_hạn như các loài động_vật linh_trưởng , cá_heo , cá_voi và lợn .
+Các nhà_khoa_học mới chỉ ghi_nhận mối liên_kết giữa các nếp nhăn của vỏ_não với chức_năng nhận_thức tương_đối cao của động_vật , chứ chưa hoàn_toàn hiểu hết về nó .
+Ở người , nếp nhăn bắt_đầu hình_thành vào_khoảng tuần thứ 20 của thai kỳ và tiếp_tục cho tới khi đứa trẻ được 18 tháng tuổi .
+Cùng_với sự hình_thành nếp nhăn , bộ_não cũng phát_triển , về số_lượng , kích_thước , hình_dạng , và vị_trí của các tế_bào thần_kinh .
+Tất_cả đóng_góp vào việc mở_rộng của vỏ_não - còn được gọi_là chất_xám - liên_quan đến chất trắng nằm bên dưới .
+Để mô_phỏng quá_trình này với một cấu_trúc não nhân_tạo , các nhà_nghiên_cứu đã chụp ảnh cộng_hưởng từ MRI bào_thai người .
+Với các dữ_liệu này , họ đã xây_dựng một mô_hình 3D bằng gel một bộ_não của thai_nhi mịn , chưa có nếp nhăn .
+Bề_mặt mô_hình này sau đó được phủ một lớp mỏng gel đàn_hồi , đóng vai_trò vỏ_não .
+Để tái_tạo quá_trình tự_nhiên của sự mở_rộng vỏ_não , mô_hình được nhúng trong một dung_môi , làm cho phần vỏ phình ra và mở_rộng .
+Các nếp gấp tự_nhiên sẽ hình_thành trên phần vỏ_não mô_hình , như mô_tả trong hình dưới đây .
+" Chúng_tôi thấy rằng có_thể bắt_chước quá_trình hình_thành nếp gấp vỏ_não , sử_dụng một nguyên_tắc vật_lý rất đơn_giản và có được kết_quả tương_tự như những gì chúng_ta thấy trong não của thai_nhi thực_sự " , nhà_nghiên_cứu L .
+Mahadevan nói .
+Theo các nhà_nghiên_cứu , hình_dạng và vị_trí của các nếp gấp , kết_quả từ việc mở_rộng vỏ_não rất quan_trọng với sức_khỏe , hình_dạng của não liên_quan đến chức_năng của nó .
+" Dạng_hình học của não bộ là thực_sự quan_trọng , bởi nó định_hướng các nếp gấp theo các hướng nhất_định " , nhà_nghiên_cứu Jun_Young_Chung cho_biết .
+" Não bộ của mỗi người đều khác_nhau , nhưng đều phải có những nếp gấp lớn để được khỏe_mạnh " .
+Nghiên_cứu này được công_bố trên tạp_chí Nature_Physics hôm 1/2 , có_thể giúp các nhà_khoa_học hiểu rõ hơn về sự liên_quan giữa hình_dáng bên ngoài và hoạt_động bên trong của bộ_não .
+" Nghiên_cứu của chúng_tôi cho thấy rằng nếu một phần của bộ_não không phát_triển đúng cách , hoặc nếu dạng_hình học bộ_não bị phá vỡ , chúng_ta có_thể không có những nếp nhăn lớn ở đúng nơi , có nguy_cơ gây ra rối_loạn_chức_năng " , Chung cho_biết .
+Nguyễn_Thành_Minh

@@ -1,0 +1,20 @@
+38 mẫu điện_thoại bị cài mã độc trước khi bán
+Hai công_ty chưa được xác_định danh_tính đã cài mã độc đánh_cắp thông_tin và quảng_cáo trên các thiết_bị Android trong đó có những mẫu nổi_tiếng như Galaxy S7 , Note 5 , LG_G4 .
+Theo Arstechnica , một loạt phần_mềm độc_hại được tìm thấy trên 38 smartphone Android được bán ra từ   hai công_ty chưa được tiết_lộ danh_tính .   Các
+ứng_dụng này xuất_hiện trong phần_mềm hệ_thống ( ROM ) nhưng không phải do các nhà_sản_xuất thiết_bị cài sẵn mà được thêm vào bởi một bên thứ_ba trong chuỗi cung_ứng .
+Do tích_hợp vào ROM và sử_dụng các quyền hệ_thống nên để loại_bỏ mã độc người dùng phải cài lại toàn_bộ bằng một bản ROM " sạch " .
+Galaxy S7 và LG_G4 nằm trong danh_sách những thiết_bị dính mã độc .
+Check_Point_Software_Technologies , nhà_phát_triển phần_mềm bảo_mật cho các thiết_bị di_động , là đơn_vị đã phát_hiện thông_tin này .
+" Phát_hiện này cho thấy ngay cả khi người dùng cực_kỳ cẩn_thận , không_bao_giờ cài_đặt hay nhấn vào liên_kết độc_hại , vẫn có nguy_cơ bị nhiễm malware mà không hề hay_biết " , nhà_nghiên_cứu   Daniel_Padon của Check_Point_Mobile nói .
+" Đây điều tất_cả người dùng di_động cần quan_tâm " .
+Các phần_mềm độc_hại vừa bị phát_hiện có tính_năng đánh_cắp thông_tin và hiển_thị quảng_cáo .
+Chẳng_hạn ứng_dụng mang tên " Loki " , có đặc_quyền hệ_thống mạnh_mẽ , sẽ kiếm tiền từ việc hiển_thị quảng_cáo trên máy bị lây_nhiễm .
+Hay phần_mềm tống_tiền " Slocker " sử_dụng mạng ẩn_danh Tor để che_giấu danh_tính khi hoạt_động .
+Trong các thiết_bị bị nhiễm có Galaxy_Note 2 , Note 3 , Note 4 , Note 5 , Note edge , Galaxy S4 , S7 , Galaxy A5 ,   Galaxy_Tab S2 , Tab 2 ,   LG_G4 ,   Xiaomi_Mi 4i , Redmi , ZTE x500 , Oppo N3 , R7 plus , Vivo X6 Plus , Nexus 5 , 5X , Asus_Zenfone 2 , Lenovo S90 , A850 .
+Video một_cách gỡ mã độc trên máy Android .
+Nguồn :   GadgetHacks .
+Check_Point không tiết_lộ tên của hai công_ty sở_hữu những mẫu điện_thoại bị dính mã độc .
+Chưa rõ họ là mục_tiêu của tội_phạm mạng hay đây là một phần trong chiến_dịch cài cắm phần_mềm độc_hại trên diện rộng của họ .   Một trong hai công_ty là " hãng viễn_thông lớn " , còn lại là " công_ty công_nghệ đa quốc_gia " .
+Đây không phải lần đầu điện_thoại Android bị phát_hiện cài sẵn phần_mềm độc_hại .
+Tháng 11/2016 , các nhà_nghiên_cứu đã tìm thấy cửa hậu ( backdoor ) bí_mật được cài trên hàng trăm_nghìn thiết_bị Android của BLU .
+Ngay sau đó , các chuyên_gia độc_lập cũng tìm thấy một backdoor khác trên hơn 3 triệu máy Android .

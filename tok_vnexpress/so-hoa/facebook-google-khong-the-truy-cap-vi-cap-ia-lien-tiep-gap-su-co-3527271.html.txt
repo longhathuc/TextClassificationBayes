@@ -1,0 +1,14 @@
+Facebook , Google không_thể truy_cập vì cáp IA liên_tiếp gặp sự_cố
+Chỉ một ngày_sau khi bị lỗi tại vị_trí gần Hong_Kong , tuyến cáp_quang biển Liên Á ( IA ) tiếp_tục gặp sự_cố sụt nguồn ở phía Singapore .
+Nhiều người dùng phàn_nàn không_thể truy_cập Internet chiều_qua .
+Sáng ngày 10/1/2017 , tuyến cáp_quang biển Liên Á ( IA ) gặp sự_cố đầu_tiên trong năm là đứt cáp theo hướng kết_nối đi Hong_Kong .
+Đến chiều cùng ngày , toàn_bộ tuyến cáp IA đã được khôi_phục , hoạt_động ổn_định trở_lại .
+Nhưng trong ngày   hôm_qua , 11/1 , khả_năng truy_cập Internet đi quốc_tế lại gần_như bị tê_liệt với một_số nhà_cung_cấp , đặc_biệt là Viettel .
+Nhiều người dùng tại Việt_Nam cho_biết không_thể vào các dịch_vụ phổ_biến như Facebook , Youtube hay Google .
+Hầu_hết đều phải chuyển qua sử_dụng kết_nối 3G/4G nhưng tốc_độ cũng khá chậm .
+Theo đại_diện của Viettel , lý_do cho tình_trạng hôm_qua là bởi tuyến cáp_quang quốc_tế IA tiếp_tục gặp sự_cố lúc 16h15 , chỉ một ngày_sau khi mới được khôi_phục .
+Nguyên_nhân là do đường cáp bị sụt nguồn tại phía Singapore làm giảm dung_lượng kết_nối quốc_tế của nhà_cung_cấp trong nước đi 3 hướng là Hong_Kong , Singapore và Mỹ .
+Cáp IA gặp sự_cố trong 2 ngày liên_tiếp khiến mạng Internet đi quốc_tế bị tê_liệt .
+Giải_pháp tạm_thời được đưa ra là nhà_cung_cấp định_tuyến , san tải dung_lượng kết_nối sáng hướng cáp biển APG và 2 hướng đất_liền .
+Viettel cho_biết sẽ lắp_đặt thêm các bộ cache dung_lượng   ( lưu_trữ dữ_liệu ) cho hệ_thống máy_chủ của Google , Facebook tại Việt_Nam để đảm_bảo dịch_vụ của các hãng này do không cần kết_nối ra quốc_tế .
+Trước đó , sáng ngày 8/1/2017 , tuyến cáp_quang biển AAG cũng gặp sự_cố gây gián_đoạn liên_lạc trên 3 hướng kết_nối đi Hong_Kong , Singapore và Mỹ .   Vị_trí lỗi được xác_định cách trạm cập bờ Vũng_Tàu khoảng 98 km .   Trong năm 2016 , đã có bốn lần tuyến cáp_quang biển AAG gặp trục_trặc và phải tiến_hành bảo_trì , vào các tháng 3 , 6 , 8 và tháng 9 .

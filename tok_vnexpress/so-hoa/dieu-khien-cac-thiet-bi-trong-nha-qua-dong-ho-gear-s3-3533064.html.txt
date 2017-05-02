@@ -1,0 +1,9 @@
+Điều_khiển các thiết_bị trong nhà qua đồng_hồ Gear S3
+Samsung trình_diễn khả_năng sử_dụng đồng_hồ thông_minh để bật_tắt TV , chỉnh nhiệt_độ , ra_lệnh cho máy_hút_bụi hoạt_động ...
+Tại triển_lãm CES 2017 , Samsung hợp_tác với tổ_chức Open_Connectivity_Foundation ( OCF ) thực_hiện chủ_đề " All_Things_Connected " ( Vạn_vật kết_nối ) , trong đó các thiết_bị đến từ các nhà_sản_xuất khác_nhau vẫn có_thể tương_tác với nhau trên một nền_tảng hợp_nhất .
+Trong video , đồng_hồ Gear S3 hay máy_tính bảng chạy Windows có_thể điều_khiển các đồ_vật từ TV , tủ_lạnh , máy_giặt cho tới xe_hơi .
+Internet of Things được đánh_giá là xu_hướng của ngành công_nghệ khi gần_như mọi tên_tuổi lớn đều tham_gia .   Về lý_thuyết , thế_giới kết_nối là nơi hàng tỷ thiết_bị có_thể tương_tác với nhau mà không cần quan_tâm đến nhà_sản_xuất , nền_tảng hay chipset .
+Tuy_nhiên , trên thực_tế ,   lĩnh_vực này đang có sự phân mảnh do tồn_tại quá nhiều chuẩn do các liên_minh khác_nhau đưa ra .
+Tổ_chức OFC , hiện có hơn 300 thành_viên , đang kêu_gọi các công_ty cùng tham_gia dự_án mở_mang tên IoTivity để tạo nên một nền_tảng kết_nối chung , giúp các lập_trình_viên dễ_dàng hơn trong việc tạo ra những ứng_dụng IoT hoạt_động trên mọi thiết_bị .
+Đại_diện Samsung nhận_định : " Internet of Things có khả_năng làm thay_đổi nền_tảng kinh_tế , xã_hội và cách sống của chúng_ta .
+Dù ở bất_kỳ lĩnh_vực nào , trách_nhiệm của chúng_ta là hợp_tác như người trong cùng một ngành để hiện_thực hóa tiềm_năng của Internet of Things " .

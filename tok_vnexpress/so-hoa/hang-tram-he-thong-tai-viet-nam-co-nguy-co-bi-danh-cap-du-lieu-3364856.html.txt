@@ -1,0 +1,12 @@
+Hàng trăm hệ_thống tại Việt_Nam có nguy_cơ bị đánh_cắp dữ_liệu
+Một lỗ_hổng an_ninh nghiêm_trọng được phát_hiện trong OpenSSL , ảnh_hưởng hơn 11 triệu trang_web và các dịch_vụ e - mail , trong đó có cả ở Việt_Nam .
+Theo diễn_đàn bảo_mật WhiteHat của Bkav , lỗ_hổng mang tên   Drown   khai_thác điểm yếu của giao_thức SSLv2 , ảnh_hưởng tới các kết_nối có mã_hóa như HTTPS và các dịch_vụ khác dựa trên giao_thức SSL và TLS .
+Đây là giao_thức được dùng để mã_hóa dữ_liệu trong các dịch_vụ như ebanking , thương_mại_điện_tử ... cũng_như được nhiều cơ_quan sử_dụng để cho_phép nhân_viên có_thể truy_cập vào các ứng_dụng nội_bộ của cơ_quan , làm_việc từ xa qua Internet .
+Lỗ_hổng được các chuyên_gia bảo_mật mô   tả như một cuộc tấn_công chi_phí thấp , tạo cơ_hội cho   tội_phạm mạng lấy_được thông nhạy_cảm của người dùng như mật_khẩu , dữ_liệu cá_nhân , tài_khoản ngân_hàng , truy_cập hộp_thư hoặc xâm_nhập trái_phép vào mạng nội_bộ của cơ_quan .
+Nguồn : Thehackernews , Bkav .
+Bkav đã tiến_hành kiểm_tra các hệ_thống quan_trọng tại Việt_Nam và nhận thấy hàng trăm hệ_thống có_thể bị tấn_công , đặt người dùng trước nguy_cơ bị đánh_cắp các thông_tin quan_trọng như mật_khẩu , thông_tin cá_nhân , tài_khoản ngân_hàng ...
+Trong số này có   58% thuộc lĩnh_vực tài_chính , 21% thuộc lĩnh_vực dầu_khí , 11% thuộc lĩnh_vực công_nghiệp , hàng_tiêu_dùng , 5% thuộc lĩnh_vực công_nghệ , viễn_thông và 5% thuộc lĩnh_vực vận_tải , du_lịch .   Bkav đã gửi cảnh_báo và   hướng_dẫn cách khắc_phục lỗ_hổng   đến các bên_bị ảnh_hưởng .
+Ông Ngô_Tuấn_Anh , Phó_chủ_tịch phụ_trách An_ninh mạng của Bkav , cho_biết : " Lỗ_hổng Drown khó khai_thác hơn Heartbleed do tin_tặc phải đứng giữa kết_nối của máy_chủ và người dùng .
+Tuy_nhiên , nguy_cơ khai_thác lỗ_hổng để đánh_cắp thông_tin người sử_dụng hoàn_toàn có_thể xảy_ra .
+Các quản_trị hệ_thống cần vô_hiệu_hóa giao_thức SSLv2 để bảo_vệ an_toàn cho hệ_thống của mình và người dùng " .
+Châu_An

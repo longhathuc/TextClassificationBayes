@@ -1,0 +1,16 @@
+Đáp_án bài_toán ' rạp chiếu_phim ' của học_sinh lớp 8
+Bài_toán ' rạp chiếu_phim ' trong đề thi đánh_giá năng_lực tư_duy Toán_học dành cho học_sinh lớp 7-8 là dạng bài khá quen_thuộc .
+Tuy_nhiên , không phải ai cũng đưa ra được đáp_án cho bài_toán này .
+Trong một rạp chiếu_phim , có hai người ngồi ở hàng ghế đầu_tiên , 3 người ngồi ở hàng ghế thứ_hai , 4 người ngồi ở hàng ghế thứ_ba .
+Cứ như_vậy , hàng ghế sau có nhiều hơn hàng ghế trước một người .
+Có tất_cả 2015 người .
+Hỏi rạp chiếu_phim có bao_nhiêu hàng ghế ?
+Đáp_án : 62 hàng .
+Theo bài ra , có hai người ngồi ở hàng ghế đầu_tiên , 3 người ngồi ở hàng ghế thứ_hai , cứ như_vậy sẽ có n + 1 người ngồi ở hàng ghế thứ n .
+Lấy số người_ở hàng ghế đầu_tiên cộng với số người_ở hàng ghế thứ n .
+Lấy số người_ở hàng ghế thứ_hai cộng với số người_ở hàng ghế thứ n - 1 .
+Cứ như vật ta sẽ có n / 2 cụm n + 3 người .
+Tổng_số người trong rạp chiếu_phim là 2015 nên ta có ( n + 3 ) x n / 2 = 2015 , tương_đương với n x ( n + 3 ) = 4030 .
+Từ đó suy ra n = 62 .
+Vậy rạp chiếu_phim có 62 hàng ghế .
+Thanh_Tâm

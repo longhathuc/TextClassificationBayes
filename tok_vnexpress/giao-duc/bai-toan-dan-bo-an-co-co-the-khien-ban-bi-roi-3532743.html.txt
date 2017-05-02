@@ -1,0 +1,10 @@
+Bài_toán đàn bò ăn cỏ có_thể khiến bạn bị rối
+Bài_toán tìm số ngày bò ăn hết cỏ trên cánh đồng trong đề thi quốc_tế có_thể làm_khó bạn .
+Cỏ trên đồng mọc với tốc_độ đều_đặn mỗi ngày .
+Có rất nhiều bò ăn cỏ , số bò càng ít thì cỏ càng lâu hết .
+200 con bò ăn hết đồng_cỏ trong 100 ngày .
+150 con bò ăn hết đồng_cỏ trong 150 ngày .
+Hỏi 100 con bò ăn hết đồng_cỏ trong bao_nhiêu ngày ?
+Thanh_Tâm
+> > Bài_toán kiểm_tra độ ghi_nhớ kiến_thức tiểu_học
+> > Bài_toán tìm số trong đề thi châu Á - Thái_Bình_Dương

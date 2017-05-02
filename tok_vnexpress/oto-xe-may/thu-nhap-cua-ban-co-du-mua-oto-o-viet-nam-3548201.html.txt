@@ -1,0 +1,7 @@
+Thu_nhập của bạn có đủ mua ôtô ở Việt_Nam ?
+Hai người có cùng thu_nhập 20 triệu nhưng điều_kiện sinh_hoạt và làm_việc khác_nhau thì có_thể một người mua được ôtô , một người không .
+Giá xe ôtô cao hơn nhiều lần so với thu_nhập trung_bình của người Việt khiến phương_tiện 4 bánh trở_thành giấc_mơ xa_vời với nhiều người .
+Để có_thể mua xe , ngoài khoản tiết_kiệm vài trăm triệu , người mua có_thể vay ngân_hàng trả_góp .
+Vậy mức thu_nhập bao_nhiêu thì đủ để trang_trải chi_phí mua và nuôi ôtô hàng tháng ?
+Mức thu_nhập hàng tháng tính riêng từng người nếu còn độc_thân và tính chung cả hai vợ_chồng khi đã lập gia_đình .
+Độc_giả click vào từng mức thu_nhập dưới đây để biết mình có nên mua ôtô hay không .

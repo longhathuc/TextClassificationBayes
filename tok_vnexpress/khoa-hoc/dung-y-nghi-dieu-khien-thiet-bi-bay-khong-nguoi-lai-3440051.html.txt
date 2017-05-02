@@ -1,0 +1,8 @@
+Dùng ý_nghĩ điều_khiển thiết_bị bay không người lái
+Các nhà_khoa_học Mỹ đã phát_triển thiết_bị bay không người lái được điều_khiển thông_qua suy_nghĩ của con_người thay_vì một bộ_điều_khiển thông_thường .
+Theo Seeker_Network , hồi tháng 5 , một cuộc_thi quốc_tế được tổ_chức tại Đại_học Floria , Mỹ nhằm giới_thiệu khả_năng điều_khiển thiết_bị bay không người lái thông_qua suy_nghĩ của người điều_khiển .
+Kỹ_thuật này có tên gọi BCI ( brain-computer interface ) , sử_dụng một đầu_đọc sóng não và chuyển tín_hiệu tới một phần_mềm xử_lý thông_tin trên máy_tính để ra_lệnh cho thiết_bị bay .
+BCI đã được ứng_dụng cho các bộ_phận chân_tay giả và đây là lần đầu_tiên được dùng để điều_khiển những thiết_bị không dây .
+Kỹ_thuật này hứa_hẹn sẽ đem đến những tiện_ích thông_minh giúp điều_khiển các thiết_bị xung_quanh ta giống như trong các bộ phim khoa_học_viễn_tưởng .
+Xem thêm : Phương_tiện bay hỗ_trợ cứu đắm trong 30 giây
+Thanh_Tùng

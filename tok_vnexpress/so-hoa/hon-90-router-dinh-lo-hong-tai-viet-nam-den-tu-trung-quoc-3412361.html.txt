@@ -1,0 +1,18 @@
+Hơn 90% router dính lỗ_hổng tại Việt_Nam đến từ Trung_Quốc
+Chỉ qua một_vài hướng_dẫn , người sử_dụng với ít kiến_thức về an_ninh mạng cũng có_thể tấn_công một bộ định_tuyến Internet có lỗ_hổng mà không gặp bất_kỳ khó_khăn nào .
+Thống_kê cho thấy có hơn 300 nghìn thiết_bị định_tuyến Internet ( router ) tại Việt_Nam đang chứa lỗ_hổng , trong đó tới 93% được sản_xuất tại Trung_Quốc .
+Thông_tin này đã được Bkav công_bố vào tháng 6/2016 nhưng đang gây chú_ý trở_lại sau sự_cố tin_tặc kiểm_soát hệ_thống âm_thanh , màn_hình và Wi-Fi tại sân_bay quốc_tế Nội_Bài và Tân_Sơn_Nhất chiều ngày 29/7 .
+Từ năm 2014 , nhiều lỗ_hổng an_ninh trên router - được coi là cửa_ngõ kết_nối Internet của hệ_thống - đã   được phát_hiện và công_bố rộng_rãi .
+Trong số này có những lỗi cho_phép tin_tặc dễ_dàng chiếm quyền điều_khiển hệ_thống từ xa ,   được Bkav gọi chung là Pet_Hole .
+Tuy_nhiên , hiện chưa có một bản vá toàn_diện nào được đưa ra và việc cập_nhật bản vá cho router cũng khó_khăn hơn nhiều so với vá lỗi phần_mềm .
+Cách hacker tấn_công thông_qua router bị lỗi .
+Công_ty Bkav đã tiến_hành khảo_sát ,   thực_hiện nghiên_cứu trên diện rộng nhằm kiểm_tra mức_độ an_ninh của 21 triệu router có nguy_cơ dính lỗi trên thế_giới .   Kết_quả là có hơn 5,6 triệu router đang tồn_tại lỗ_hổng .
+Ấn Độ là nước có số_lượng router chứa lỗ_hổng nhiều nhất_là 565.000 .
+Đứng thứ_hai và thứ_ba lần_lượt là Indonesia ( 503.000 ) và Mexico ( 439.000 ) còn   Việt_Nam đứng thứ_tư với   332.440 thiết_bị tồn_tại Pet_Hole .
+10 quốc_gia dẫn_đầu về số_lượng router tồn_tại lỗ_hổng .
+Trong số các router này , có tới 93% được sản_xuất tại Trung_Quốc , từ các hãng như TP-Link , ZTE , Huawei và D-Link ...
+Bkav cho_biết , lỗ_hổng Pet_Hole nguy_hiểm hơn Heartbleed , một trong những lỗ_hổng bảo_mật lớn nhất trong lịch_sử Internet vì Heartbleed đòi_hỏi người có trình_độ bảo_mật mới có_thể khai_thác thành_công , thì khai_thác Pet_Hole chỉ cần kỹ_năng cơ_bản .
+Một hacker nghiệp_dư cũng có_thể thông_qua router có lỗ_hổng để chặn thông_tin trao_đổi của người dùng , chuyển_hướng truy_cập DNS để điều hướng đến website mà chúng mong_muốn ...
+" Router giống như cánh cửa kết_nối người dùng đến Internet .
+Việc hàng trăm_nghìn hệ_thống có lỗ_hổng tiềm_ẩn nguy_cơ đối_với an_ninh quốc_gia .
+Nếu một nước có mưu_đồ gián_điệp nước khác , họ hoàn_toàn có_thể thực_hiện thông_qua cửa_ngõ router " , ông Ngô_Tuấn_Anh , Phó_giám_đốc Bkav , nhận_định .

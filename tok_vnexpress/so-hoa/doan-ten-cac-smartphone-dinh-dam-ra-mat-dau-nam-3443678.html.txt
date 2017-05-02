@@ -1,0 +1,23 @@
+Đoán tên các smartphone đình_đám ra_mắt đầu năm
+Theo thống_kê của Gsmarena , trong nửa đầu năm 2016 đã có tới gần 40 mẫu smartphone ra_mắt đến từ đầy_đủ các thương_hiệu lớn .
+Bạn hãy nhìn hình và đoán , đây là những smartphone nào :
+- Galaxy S7 edge Injustice
+- Galaxy S7 Active
+-   Galaxy S7 Olympic_Games_Limited_Edition
+- LG_G5
+-   Nexus 6P
+- HTC 10
+- Huawei P9
+-   Honor V8
+- Honor 8
+- Xiaomi_Mi 5
+- Xiaomi_Redmi_Pro
+- Xiaomi_Mi_Max
+- Samsung_Galaxy A5 ( 2016 )
+- Samsung_Galaxy A7
+- Samsung_Galaxy A9 Pro
+- Zenfone 3 Laser
+- Zenfone 3 Max
+- Meizu M3 Note
+- Coolpad_Note 3 Lite
+- Vivo V3Max

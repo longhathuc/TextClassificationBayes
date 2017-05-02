@@ -1,0 +1,23 @@
+Internet of Things hữu_dụng trong đời_sống thường_ngày
+Những công_nghệ dựa trên Internet of Things sẽ hỗ_trợ đắc_lực cho việc vận_hành các ngôi nhà thông_minh , mang tới nhiều tiện_ích cho người dùng .
+Từ năm 1982 , Internet of Things - IoT ( Internet vạn_vật ) đã được ứng_dụng vào chiếc máy bán hàng tự_động Coca-Cola và đến nay đã phủ_sóng mạnh_mẽ nhiều thiết_bị khác như máy_rửa_bát , xe_hơi , robot , đèn giao_thông ...
+Các chuyên_gia cho rằng vào năm 2020 sẽ có 50 thiết_bị sử_dụng nền_tảng chia_sẻ dữ_liệu IoT để hoạt_động , trong đó nổi_bật là các thiết_bị điện_tử đeo tay và nhà thông_minh .
+Chính_phủ Anh dự_đoán đến năm 2019 sẽ có 69% nhà_ở tại đây được trang_bị các thiết_bị kết_nối và đã đầu_tư hơn 40 triệu bảng cho nghiên_cứu ứng_dụng Internet of Things .
+Giải_pháp không có gì là quá cao_siêu , tập_trung đưa ra những ứng_dụng hữu_ích trong cuộc_sống thường_nhật như dùng điện_thoại_di_động để điều_khiển hệ_thống chiếu sáng trong nhà , bật máy pha cà_phê , lò_vi_sóng ...
+Đơn_cử như với một ấm đun nước bình_thường , chỉ cần tích_hợp bộ mạch rẻ_tiền , bộ cảm_biến cùng ứng_dụng cho điện_thoại , các nhà_sản_xuất sẽ cung_cấp một bình đun nước thông_minh .
+Nhờ đó người dùng không_chỉ nấu nước sôi ngay cả khi ra khỏi nhà mà_còn kiểm_tra được liệu còn bao_nhiêu nước trong bình , nhiệt_độ nước hiện_tại .
+Hệ_thống thiết_bị IoT còn hữu_ích cho việc kiểm_soát hệ_thống máy_lạnh , máy sưởi , quạt lúc gia_chủ vắng nhà .
+Trong trường_hợp xảy_ra hỏa_hoạn , các cảm_biến sẽ thu_thập dữ_liệu về gia_tăng nhiệt_độ , khói , tiến_hành gửi tin nhắn cảnh_báo đến điện_thoại chủ nhà và tự_động tắt gas cùng các thiết_bị có khả_năng gây nhiệt .
+Để làm được điều này , cần xây_dựng một " hệ_sinh_thái " các thiết_bị có khả_năng tương_thích với nhau .
+Ví_dụ bộ cảm_biến nhiệt_độ Nest_Learning_Thermostat hoạt_động tốt cùng máy báo_động khói Nest_Protect , hay các bóng_đèn thông_minh Lifx đồng_bộ được với Nest .
+Không nằm ngoài cuộc_chơi IoT , Apple đã tạo ra hệ_sinh_thái HomeKit cho_phép dùng i Phone để điều_khiển các thiết_bị nhà thông_minh .
+Samsung cũng phát_triển nền_tảng Arctic hỗ_trợ sử_dụng điện_thoại Galaxy để vận_hành đèn và hệ_thống an_ninh trong nhà .
+Trong khi đó , Microsoft , Sony , Philips và một_số thương_hiệu điện_tử lớn khác sử_dụng hệ_thống AllJoyn của Qualcomm .
+Các chuyên_gia cho rằng với sự phổ_biến của điện_thoại thông_minh thì việc ứng_dụng IoT sẽ giúp cuộc_sống chúng_ta dễ_dàng , tiện_nghi hơn .
+Điều này thể_hiện rõ qua các thiết_bị nhà_bếp , mà nổi_bật là tủ_lạnh .
+Trước_kia , chẳng ai biết tủ_lạnh còn gì khi chưa mở_cửa ra .
+Nhưng hiện_tại chỉ cần liếc qua màn_hình smartphone là biết ngay còn sản_phẩm nào , được đặt ở đâu nhờ tích_hợp camera bên trong kết_nối đến ứng_dụng di_động .
+Tủ_lạnh còn được trang_bị màn_hình cho_phép hiển_thị hình_ảnh bên trong tủ , đưa ra nhắc_nhở những thực_phẩm đang thiếu , kết_nối Internet , nghe nhạc , hỗ_trợ giải_trí đa_dạng .
+Các thương_hiệu như Miele và Bosch cũng đang khám_phá Internet of Things , nghiên_cứu phát_triển hệ_thống máy_giặt thông_minh hỗ_trợ thực_hiện các quy_trình giặt_giũ qua điện_thoại .
+Khi đã hoàn_tất việc giặt hay có những sự_cố về mất nước , ngưng hoạt_động ... , máy sẽ tự_động gửi tin nhắn thông_báo đến cho người dùng .
+Minh_Trí

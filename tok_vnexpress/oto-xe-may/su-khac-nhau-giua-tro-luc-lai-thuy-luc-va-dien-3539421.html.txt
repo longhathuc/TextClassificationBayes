@@ -1,0 +1,49 @@
+Sự khác_nhau giữa trợ_lực lái thủy_lực và điện
+Sinh_ra với mục_đích giúp tài_xế dễ_dàng đánh lái , nhưng do cơ_cấu hoạt_động khác_nhau , trợ_lực lái thủy_lực và điện lại có những ưu , nhược_điểm riêng_biệt .
+Tay_lái trợ_lực là một trong những bước_tiến quan_trọng của ngành công_nghiệp xe_hơi .
+Thuở ban_đầu , tay_lái chỉ đơn_thuần tác_động lên trục lái .
+Muốn chiếc xe chuyển_hướng đều phụ_thuộc cả vào lực tay của tài_xế .
+Do_vậy , nhược_điểm là tay_lái nặng , thôi_thúc các nhà_sản_xuất đi tìm lời_giải .
+Giải_pháp đầu_tiên là tăng thêm bánh_răng , giảm lực tác_động đến tay_lái , nhưng lại kéo_theo hệ_quả là số vòng quay nhiều , tài_xế gặp khó_khăn và mất thời_gian bẻ_lái kịp mỗi khi cần chuyển_hướng .
+Ngày_nay có nhiều loại trợ_lực lái xuất_hiện , nhưng 2 cột mốc lớn nhất_là khi trợ_lực lái thủy_lực và trợ_lực lái điện ra_đời .
+Đúng như tên gọi , hệ_thống trợ_lực lái thủy_lực dùng áp_suất dầu để hỗ_trợ việc đánh lái .
+Các bộ_phận chính của hệ_thống bao_gồm bơm trợ_lực , bình chứa dầu , van phân_phối , và pít - tông gắn vào thanh răng .
+Bơm trợ_lực nhận công_suất từ động_cơ qua một dây đai ( có_thể thấy điều này khi đánh lái , kim_đồng hồ vòng tua máy sẽ nhích lên một_chút ) , tạo ra áp_suất dầu cần_thiết .
+Khi đánh vô - lăng , van phân_phối đưa áp_suất dầu qua đường cấp dầu cao_áp vào pít - tông để đẩy thanh răng theo hướng xoay vô - lăng .
+Chênh_lệch áp_suất giữa hai đầu pít - tông tạo ra lực đẩy , giảm tác_động của người lái lên vô - lăng .
+Hệ_thống trợ_lực điện hoạt_động theo cơ_cấu đơn_giản hơn .
+Một cảm_biến mô - men xoắn đặt ở trục lái sẽ gửi tín_hiệu về góc đánh lái đến ECU để xử_lý và tính_toán rồi truyền dòng_điện thích_hợp đến mô - tơ điện để đẩy thanh răng , hỗ_trợ việc xoay trục tay_lái theo chiều của tài_xế mong_muốn .
+Tay_lái trợ_lực điện sử_dụng điện_năng do động_cơ sinh_ra .
+Trợ_lực lái thủy_lực đã tồn_tại hơn nửa thế_kỷ , nên hẳn_nhiên vẫn giữ những ưu_điểm mà trợ_lực điện không có , dù không_thể phủ_nhận trợ_lực điện đang là bước_đi tương_lai , đe_dọa sự tồn_tại của trợ_lực thủy_lực .
+* Video minh_họa cơ_cấu hoạt_động của trợ_lực thủy_lực :
+Ưu_điểm đầu_tiên của trợ_lực lái thủy_lực là cảm_giác lái .
+Hệ_thống này có kết_cấu hoàn_toàn bằng cơ_khí nên phản_ứng với mặt_đường chân_thực nhất .
+Tài_xế có_thể cảm_nhận được lực dội ngược lên vô - lăng .
+Tuy_nhiên , sự phát_triển mạnh của hệ_thống trợ_lực lái điện giúp cảm_giác lái ngày_một chân_thực .
+Nhiều mẫu xe đắt tiền dùng trợ_lực điện và không nhiều người phàn_nàn về chúng .
+Thậm_chí tay_đua giải LeMans còn không nhận ra sự khác_biệt nào với trợ_lực lái thủy_lực khi điều_khiển Bugatti_Veyron .
+Bên_cạnh đó , chi_phí bảo_dưỡng hệ_thống trợ_lực lái thủy_lực thấp hơn vì đã thông_dụng từ lâu .
+Chỉ thường gặp một_số hỏng_hóc như rò_rỉ dầu , hay hỏng van phân_phối .
+Tuy_nhiên , cần thường_xuyên kiểm_tra bảo_dưỡng , kiểm_tra dầu trợ_lực lái .
+* Video minh_họa cơ_cấu hoạt_động của trợ_lực lái điện :
+Hệ_thống trợ_lực điện ít phải kiểm_tra , dễ_dàng sửa_chữa , nhưng nếu hỏng_hóc phần_cứng , các gara thường khuyên nên thay toàn_bộ , kéo_theo chi_phí lớn .
+Vì sửa_chữa không_thể đảm_bảo tuyệt_đối , gây sự_cố ở hệ_thống lái , thậm_chí có tình_huống vô - lăng quay liên_tục không_thể kiểm_soát .
+Trợ_lực lái thủy_lực phức_tạp hơn , nặng hơn và chiếm nhiều không_gian hơn .
+Cộng với cơ_cấu nhận công_suất từ động_cơ nên lúc_nào cũng trong trạng_thái hoạt_động , nên tiêu_hao nhiên_liệu nhiều hơn .
+Còn hệ_thống trợ_lực điện chỉ hoạt_động khi nào nhận được tín_hiệu từ cảm_biến .
+Theo tính_toán của các chuyên_gia , trợ_lực điện giúp tiết_kiệm hơn 2% - 3% nhiên_liệu so với trợ_lực lái thủy_lực .
+Trợ_lực lái điện rất được_lòng khách_hàng .
+Bởi lẽ , do hoạt_động theo cơ_cấu điện_tử nên được kết_nối với cảm_biến tốc_độ , cảm_biến trượt ở bánh_xe , cảm_biến va_chạm và con_quay hồi chuyển để điều_chỉnh lực vô - lăng phù_hợp .
+Chính vì_thế , khi xe di_chuyển chậm hay vào bãi đỗ xe , vô-lăng nhẹ_nhàng và dễ_dàng đánh lái .
+Khi đi tốc_độ cao , vô-lăng tự_động trở_nên nặng hơn .
+Trợ_lực lái thủy_lực ngược_lại , nặng ở tốc_độ thấp và nhẹ ở tốc_độ cao ( do áp_suất dầu lớn ) .
+Tuy_nhiên , trợ_lực lái thủy_lực lại có tốc_độ trả vô - lăng về trung_tâm nhanh hơn , đồng_nghĩa với việc giữ xe đi thẳng tốt hơn .
+Vào những năm 2000 , tay_lái trợ_lực điện dần phổ_biến .
+Theo khảo_sát lượng xe mới bán ra năm 2005 , trợ_lực lái điện chiếm 25,8% , trợ_lực lái thủy_lực chiếm 56,3% và còn lại 17,9% thị_phần đối_với xe không có trợ_lực lái .
+Đến 2011 , cuộc lật_đổ rõ_ràng hơn , trợ_lực lái điện vươn lên 58,2% , trợ_lực lái thủy_lực chỉ 30,9% và 10,9% đối_với xe không có trợ_lực .
+Nhìn_chung , dù trợ_lực lái thủy_lực vẫn còn chỗ_đứng ở thời_đại điện_tử_hóa , nhưng trợ_lực lái điện mới là lựa_chọn của các nhà_sản_xuất trong tương_lai .
+Vì chúng là tiền_đề để phát_triển những hệ_thống trợ_lực lái sau_này .
+Điển_hình như mới_đây là hệ_thống trợ_lực lái dạng steer - by-wire , loại_bỏ hoàn_toàn liên_kết cơ_khí giữa trục lái và thanh răng .
+Chỉ kết_nối duy_nhất dây_dẫn nhận tín_hiệu từ vô - lăng đi thẳng đến ECU , sau đó mới truyền dòng_điện đến mô - tơ đẩy thanh răng .
+Bên_cạnh đó , trợ_lực lái điện còn có_thể hỗ_trợ tạo ra các tính_năng an_toàn như hỗ_trợ giữ làn_đường , đỗ xe tự_động , thậm_chí là tự lái - điều mà hệ_thống trợ_lực lái thủy_lực không_thể làm được .
+Thế_Anh

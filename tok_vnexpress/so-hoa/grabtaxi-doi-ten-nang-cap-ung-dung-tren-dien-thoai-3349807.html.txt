@@ -1,0 +1,24 @@
+GrabTaxi đổi tên , nâng_cấp ứng_dụng trên điện_thoại
+Ứng_dụng đặt xe GrabTaxi sẽ thành Grab và nâng_cấp để tăng_cường GrabPay và GrabWork .
+Khi mới bắt_đầu , GrabTaxi là dịch_vụ đón xe taxi qua ứng_dụng di_động , phổ_biến tại các nước Đông_Nam Á .
+Sau đó hãng mở_rộng thêm các dịch_vụ gồm GrabCar là dịch_vụ xe riêng , GrabBike - dịch_vụ đón xe_ôm , GrabHitch - đi nhờ xe và GrabExpress dùng để giao hàng .
+Với việc ra_đời nhiều dịch_vụ như_vậy , tên GrabTaxi như lúc mới ra ban_đầu không còn phù_hợp .
+GrabTaxi đổi thương_hiệu thành Grab cho tất_cả các dịch_vụ đặt xe của mình .
+Ngoài tên , ứng_dụng di_động cũng được nâng_cấp , tăng_cường tính GrabPay và GrabWork .
+GrabPay hỗ_trợ thanh_toán qua thẻ_tín_dụng , người gọi xe không cần mang tiền_mặt .
+Tuy_nhiên , người đi vẫn có_thể tự chọn giữa phương_thức thanh_toán bằng tiền_mặt hoặc thẻ nếu muốn .
+Người đi sẽ nhận được xác_nhận giá tiền qua ứng_dụng và email .
+Tính_năng này giồng như Uber , nhưng người dùng có_thể sử_dụng nhiều thẻ_tín_dụng và dễ_dàng chuyển_đổi cho các mục_đích sử_dụng khác_nhau .   GrabPay hoạt_động tại Singapore , Indonesia , Philippines và Malaysia , và hỗ_trợ thẻ_tín_dụng đa_năng .
+GrabPay dự_kiến sẽ hoạt_động được tại Thái_Lan và Việt_Nam vào đầu năm 2016 nhưng chưa xác_định thời_điểm .
+GrabWork dành cho các doanh_nghiệp thường_xuyên sử_dụng Grab để di_chuyển và có_thể đánh_dấu riêng chuyến đi cho mình .
+Doanh_nghiệp có_thể sử_dụng các loại mã chi_phí để dễ_dàng kiểm_tra , đối_chiếu và làm minh_bạch công_tác_phí .
+Người đi thì đăng_nhập trực_tuyến vào Grab_Passenger_Hub để tải các thông_tin về chuyến đi cá_nhân hay công_việc cho việc thanh_toán tiền .
+GrabWork cũng hỗ_trợ thẻ_tín_dụng đa_năng , nên_người đi có_thể thêm thẻ công_ty và dễ_dàng chuyển_đổi giữa các thẻ .
+Dịch_vụ đã triển_khai luôn tại Việt_Nam , Thái_Lan , Singapore , Indonesia và Philippines   từ hôm_qua .
+Bên_cạnh đó , ứng_dụng Grab trên thiết_bị cầm tay có_thể được cá_nhân hóa , điểm đi và điểm đến được tự_động điền dựa trên những địa_điểm hay lui_tới của người đi .
+Vị_trí thường đến của bạn sẽ được xếp theo ngày , giờ .
+Việc này sẽ giúp phần_lớn người dùng đặt xe chỉ với 2 lần nhấp chọn .
+Ứng_dụng còn sẽ   hiển_thị lộ_trình tài_xế bằng cách theo_dõi lộ_trình đến đón bạn của phương_tiện Grab trên bản_đồ .
+Người dùng có_thể ước_tính thời_gian đi của tài_xế và chắc_chắn được khi nào họ đến điểm đón .
+Ngoài_ra , tính_năng flash còn giúp người đi tìm một chiếc GrabCar hay taxi truyền_thống gần với họ nhất giúp người dùng tìm được xe trong thời_gian ngắn nhất có_thể .
+Huy Đứchuyduc @ vnexpress.net

@@ -1,0 +1,12 @@
+13 ứng_dụng Android với hàng trăm_nghìn lượt tải nhiễm mã độc
+Mã độc Brain_Test đã xuất_hiện trong 13 ứng_dụng Android trên Play_Store và có khả_năng đã lây_nhiễm trên 500.000 đến 1 triệu thiết_bị của người dùng .
+" Ngày 29/12 , chúng_tôi đã xác_định có tới 13 mẫu_mã độc   Brain_Test trong các ứng_dụng khác_nhau trên Google_Play và đều do một nguồn viết ra .
+Chúng_tôi đã liên_hệ với Google và hãng này đã nhanh_chóng gỡ 13 ứng_dụng khỏi Play_Store " , công_ty bảo_mật Lookout cho_biết .
+Những ứng_dụng chứa mã độc và đã bị Google xóa_bỏ là   Cake_Blast , Jump_Planet , Honey_Comb , Crazy_Block , Crazy_Jelly , Tiny_Puzzle , Ninja_Hook , Piggy_Jump , Just_Fire , Eat_Bubble , Hit_Planet , Cake_Tower và Drag_Box .
+Ảnh minh_họa : AndroidHeadlines .
+Các ứng_dụng trên sẽ tự_động cài_đặt nhiều phần_mềm độc khác lên thiết_bị mà chủ_sở_hữu không hề hay_biết .
+Người dùng sau đó dù có chọn cách reset máy thì cũng không_thể gỡ chương_trình khỏi thiết_bị Android mà phải dùng   bản firmware từ nhà_sản_xuất để cài_đặt lại .
+Phiên_bản mã độc này tương_tự như bản_gốc từng được công_ty an_ninh mạng Check_Point   phát_hiện hồi tháng 9/2015 .
+Khi đó ,   Brain_Test lây_nhiễm trên các ứng_dụng thu_hút tổng_cộng khoảng 200.000 đến một_triệu lượt tải .
+Còn lần này , mã độc ước_tính được tải về 500.000 đến một_triệu lần , thậm_chí có những ứng_dụng còn được người dùng chấm điểm 4,5 / 5 sao .
+Minh_Minh

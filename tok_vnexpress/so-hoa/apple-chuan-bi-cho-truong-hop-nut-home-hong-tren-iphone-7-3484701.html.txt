@@ -1,0 +1,13 @@
+Apple chuẩn_bị cho trường_hợp nút Home hỏng trên i Phone 7
+Máy sẽ tự_động bật phím Home ảo ngay phía trên màn_hình để người dùng sử_dụng thay_thế .
+Thông_báo của i Phone 7 khi nút Home gặp vấn_đề .
+Một trong những thay_đổi lớn nhất của i Phone 7 là việc chuyển từ nút Home vật_lý sang dạng cảm_ứng lực .
+Nhưng điều này cũng gây ra nhiều lo_ngại về tính ổn_định cũng_như cách sử_dụng trong trường_hợp xảy_ra hỏng hoặc lỗi phần_mềm .
+Theo Phonedog , khi nút Home trên i Phone 7 bị lỗi , iOS 10 sẽ hiển_thị một nút Home ảo trên màn_hình để sử_dụng thay_thế .
+Một người dùng trên diễn_đàn của Macrumors vô_tình phát_hiện điều này khi không_thể nhấn được nút Home .
+Màn_hình trên máy khi đó hiển_thị thông_điệp " The home button may need service " kèm hướng_dẫn người dùng có_thể dùng tạm phím Home hiển_thị ở ngay bên dưới .
+Chủ_sở_hữu chiếc i Phone 7 này sau đó đã khởi_động lại thì nút Home chưa hoạt_động nhưng máy vẫn phản_hồi rung vài lần .
+Cho tới lần khởi_động lại thứ 3 , phím Home đã sử_dụng được bình_thường .
+Trước_đây , nếu phím Home gặp trục_trặc , người dùng vẫn có_thể dùng nút nguồn để mở máy sau đó vuốt sang bên để mở khóa .
+Tuy_nhiên , thao_tác mở mới trên i OS 10 đòi_hỏi một lần chạm nút Home mới có_thể mở khóa .
+Đây có_thể là lý_do Apple chuẩn_bị khá kỹ_càng cho tình_huống nút Home gặp trục_trặc .

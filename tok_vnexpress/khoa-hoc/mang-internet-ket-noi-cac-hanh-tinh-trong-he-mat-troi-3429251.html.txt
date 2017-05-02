@@ -1,0 +1,16 @@
+Mạng_Internet kết_nối các hành_tinh trong hệ Mặt_Trời
+NASA dự_kiến phát_triển hệ_thống thông_tin liên_lạc giữa các hành_tinh trong hệ Mặt_Trời , có chức_năng giống như mạng Internet trên Trái_Đất .
+Theo UPI , Cơ_quan Hàng_không Vũ_trụ Mỹ   ( NASA ) đang cài_đặt phần_mềm trên Trạm_Vũ trụ Quốc_tế   ( ISS ) giúp_việc trao_đổi thông_tin nhanh hơn và dễ_dàng hơn .
+Điều này cũng tạo tiền_đề để thiết_lập hệ_thống Internet bao_phủ toàn_bộ hệ Mặt_Trời trong tương_lai .
+Giao_thức truyền thông_tin mới gọi_là Mạng_lưới Chống_Gián đoạn ( Disruption_Tolerant_Networking - DTN ) được bổ_sung vào hệ_thống TReK ( Telescience_Resource_Kit ) của ISS .
+TreK là hệ_thống phần_mềm ứng_dụng cho_phép người dùng gửi và nhận thông_tin từ một cơ_sở dưới mặt_đất đến điểm chuyển_giao tín_hiệu ISS ở khoảng_cách 400 km so với Trái_Đất .
+Ở Trái_Đất , thông_tin được lan_truyền từ điểm này đến điểm khác trên mạng Internet thông_qua một loạt các nút ( node ) , hay giao_điểm truyền_tải thông_tin .
+Chúng cần được kết_nối liên_tục và bền_vững trong quá_trình truyền dữ_liệu .
+Trong vũ_trụ , quá_trình truyền dữ_liệu có_thể bị gián_đoạn bởi sự chuyển_động liên_tục của các hành_tinh và vệ_tinh .
+Đối_với hệ_thống DTN , dữ_liệu di_chuyển theo những bước nhảy ngắn giữa các nút có_thể là vệ_tinh hoặc trạm chuyển_tiếp .
+DTN lưu lại dữ_liệu và chỉ gửi đi khi một nút có_thể thiết_lập liên_kết an_toàn với nút kế_tiếp .
+Chính vì_thế các gói dữ_liệu không bị mất đi , lỗi phát_sinh cũng được giảm_thiểu .
+Phương_pháp truyền thông_tin mới hứa_hẹn có_thể áp_dụng trên Trái_Đất , nơi liên_kết truyền tin có_thể không ổn_định , chẳng_hạn tại hiện_trường một thảm_họa .
+" Những kinh_nghiệm của chúng_tôi đối_với DTN trên Trạm_Vũ trụ Quốc_tế   ( ISS ) dẫn đến nhiều ứng_dụng khác trên đất_liền , đặc_biệt là cho truyền_thông di_động , trong đó các kết_nối có_thể không ổn_định và thiếu liên_tục " , Vinton_Gray_Cerf , Phó_chủ_tịch của Google , cho_biết .
+Xem thêm :   Nhà xây trong vách núi lấy ý_tưởng từ Internet
+Lê_Hùng

@@ -1,0 +1,14 @@
+Đáp_án bài_toán về người say rượu khiến bạn chóng_mặt
+Bài_toán về quãng đường đi của người say rượu dành cho học_sinh lớp 7 thực_sự làm_khó nhiều người .
+Tuy_nhiên , một_số độc_giả đã trả_lời đúng , đáp_án là 20 m .
+Một người say rượu đi từ điểm xuất_phát về phía Đông một mét và dừng lại .
+Sau đó , anh_ta quay 90 độ cùng chiều hoặc ngược chiều kim_đồng hồ và đi thêm 2 mét nữa rồi lại dừng lại .
+Tiếp đó , anh_chàng này quay 90 độ cùng chiều hoặc ngược chiều kim_đồng hồ và đi thêm 3 mét nữa .
+Anh_ta cứ làm như_vậy 7 lần và mỗi lần quay 90 độ , anh_ta lại đi thêm quãng đường nhiều hơn một mét so với lần đi trước đó .
+Hỏi , khi dừng lại lần thứ 7 , anh cách xa điểm xuất_phát nhiều nhất bao_nhiêu mét ?
+Để khi dừng lại ở lần thứ 7 , người say rượu cách xa điểm xuất_phát nhất thì anh_ta phải đi theo đường ziczac .
+Có_nghĩa là anh_ta phải quay 90 độ lần_lượt theo chiều kim_đồng hồ rồi lại ngược chiều kim_đồng hồ ( hay theo hướng Đông rồi hướng Bắc rồi lại hướng Đông , cứ như_vậy cho_đến khi hết 7 lần ; hoặc lần_lượt theo hướng Nam và hướng Tây ) .
+Quãng đường xa nhất người say rượu đi được lúc này là một đường_chéo , đồng_thời là cạnh_huyền của tam_giác_vuông có hai cạnh với độ dài lần_lượt là 1 + 3 + 5 + 7 = 16 ( mét ) và 2 + 4 + 6 = 12 ( mét ) .
+Theo định_lý Pitago ta có quãng đường xa nhất người say rượu đi được là   √ ( 16 ² + 12 ² ) = √ 400   = 20 ( mét ) .
+Thanh_Tâm
+> > Bài_toán về người say rượu khiến bạn chóng_mặt

@@ -1,0 +1,2 @@
+' Ảo_thuật ' dùng vỏ cam làm nổ bóng_bay
+Không cần dùng vật nhọn hay tác_động một lực lớn , quả bóng_bay vẫn có_thể bị nổ tung chỉ bằng tinh_dầu từ vỏ cam .

@@ -1,0 +1,135 @@
+Đáp_án bài_toán lớp 5 về World_Cup
+Đây là World_Cup   2014 và đội vô_địch là đội_tuyển Đức .
+Đề_bài :
+Ngày 11/6 tới đây , vòng chung_kết Euro 2016 khai_mạc tại thủ_đô Paris , Pháp .
+Cùng khởi_động trước một_chút về kiến_thức bóng_đá cũng_như khả_năng tư_duy logic với bài_toán bóng_đá - logic sau .
+Bài_toán được kỹ_sư phần_mềm Vũ_Hoàng_Nam sáng_tác dựa trên thực_tiễn bóng_đá và dạng bài_toán logic của Albert_Eistein .
+Tại vòng chung_kết của một World_Cup , có tất_cả 32 đội tham_gia , được chia làm 8 bảng như sau :
+Bảng A : Braxin , Cameroon , Croatia , Mexico
+Bảng B : Chile , Hà_Lan , Tây_Ban_Nha , Australia
+Bảng C : Bờ_Biển_Ngà , Colombia , Hy_Lạp , Nhật_Bản
+Bảng D : Anh , Costa_Rica , Uruguay , Italy
+Bảng E : Ecuador , Honduras , Pháp , Thụy_Sĩ
+Bảng F : Argentina , Bosnia-Herzegovina , Iran , Nigeria
+Bảng G : Bồ_Đào_Nha , Đức , Ghana , Mỹ
+Bảng H : Algeria , Bỉ , Hàn_Quốc , Nga
+Ban_đầu , mỗi đội đấu 3 trận với các đội khác cùng bảng .
+Trong mỗi trận , đội thắng được 3 điểm , hòa 1 điểm , thua 0 điểm .
+Tiếp đó , 16 đội nhất và nhì được chia làm 8 cặp để đấu_loại trực_tiếp trong “ vòng 16 ” như sau : A1-B2 ( nghĩa_là đội nhất bảng A gặp đội nhì bảng B ) , B1-A2 , C1-D2 , D1-C2 .
+Những đội thắng được vào tứ_kết .
+Được biết :
+- Số điểm của các đội trong các bảng ( không theo thứ_tự ) là : 7-4 - 4-1 , 7-6 - 3-1 , 7-6 - 4 - 0 , 7-7 - 3 - 0 , 9-4 - 2-1 , 9-4 - 3-1 , 9-4 - 3-1 , 9-6 - 3 - 0 .
+- Tây_Ban_Nha ( đương_kim vô_địch thế_giới và châu Âu ) đã thua Hà_Lan và Chile ngay trong hai trận đầu .
+- Tổng_số điểm của ba đội châu Á ( Nhật_Bản , Hàn_Quốc và Iran ) không quá số điểm mà một đội có_thể nhận được chỉ sau một trận đấu .
+- Cả ba đội Cameroon , Honduras , Australia đều không hơn bất_cứ đội châu Á nào .
+- Trước trận cuối_cùng của vòng bảng , Hy_Lạp chỉ có 1 điểm .
+- Có 2 cặp bằng số điểm : Braxin và Mexico , Mỹ và Bồ_Đào_Nha , nên phải dùng chỉ_số phụ là hiệu_số bàn thắng - bàn thua để xác_định vị_trí của những đội này .
+- Mặc_dù bốc_thăm được vào “ bảng sống ” , thành_tích của các chú gấu Nga chỉ là hai trận hòa .
+- Anh và Ghana chỉ có điểm nhờ hòa với đội nhất bảng .
+- Tuy thua những trận cuối của vòng bảng , Nigeria và Mỹ vẫn được vào vòng 16 .
+- Bồ_Đào_Nha và Ecuador không thua số điểm hai đội trên mà vẫn phải khăn_gói về nước sớm .
+- Các trận đấu vòng 16 đã diễn ra hết_sức căng_thẳng : Hà_Lan , Pháp thắng nhờ ghi_bàn ở phút cuối trận đấu ; Argentina , Bỉ , Đức thắng trong hiệp phụ ; còn Braxin , Costa_Rica chỉ thắng nhờ may_mắn trong lượt phạt_đền luân_lưu .
+Duy_nhất có Colombia thắng Uruguay một_cách dễ_dàng .
+- Không đội nào nhì bảng nào vào tới tứ_kết .
+Chỉ sử_dụng các dữ_liệu trên hãy :
+- Xác_định chính_xác vị_trí và số điểm của mỗi đội ( nêu rõ lập_luận ) .
+- Xác_định kết_quả các trận đấu trực_tiếp tại vòng 16 ( ghi tên đội thắng và thua ) .
+- Thử đoán đây là World_Cup năm nào và đội nào đã vô_địch .
+Lời_giải :
+Đề_bài quá dài nên rất ít bạn_đọc đủ kiên_nhẫn để đọc hết đề_bài , chưa nói đến chuyện giải .
+Tuy_vậy , chỉ cần qua thông_tin về các đội tham_gia và câu_chuyện về Tây_Ban_Nha cũng đủ để đoán được đây là World_Cup 2014 và đội vô_địch là đội_tuyển Đức .
+Tuy_nhiên , nếu buộc phải giải những bài như_thế_này ( đề thi SAT , GRE vẫn thường_xuyên có những bài phân_tích dữ_liệu kiểu như_vậy , đề_bài có_khi nửa trang A4 ) thì chiến_lược của chúng_ta là :
+1 ) Tóm_tắt lại các điều_kiện
+2 ) Xử_lý từng bước
+3 ) Tổng_hợp và đưa ra kết_luận .
+Đầu_tiên , ta tóm_tắt lại các điều_kiện được cho bằng cách lược bỏ những thông_tin không cần_thiết :
+( a ) Có 7 trường_hợp phân điểm khác_nhau : 7-4 - 4-1 , 7-6 - 3-1 , 7-6 - 4 - 0 , 7-7 - 3 - 0 , 9-4 - 2-1 , 9-4 - 3-1 ( hai lần ) , 9-6 - 3 - 0
+( b ) Tây_Ban_Nha ≤ 3đ
+( c ) Nhật_Bản + Hàn_Quốc + Iran ≤ 3đ
+( d ) max ( Cameroon , Honduras , Úc ) ≤ min ( Nhật_Bản , Hàn_Quốc , Iran )
+( e ) Hy_Lạp = 1đ , 2đ hoặc 4đ
+( f ) Braxin = Mexico
+( g ) Hoa_Kỳ = Bồ_Đào_Nha
+( h ) Nga = 2đ
+( i ) Anh = 1đ .
+D1 ≤ 7đ .
+( j ) Ghana = 1đ .
+G1 ≤ 7đ .
+( k ) Nigeria = F1 hoặc F2 .
+Hoa_Kỳ = G1 hoặc G2 .
+( l ) Ecuador = E3 hoặc E4 , Ecuador ≥ max ( Mỹ , Nigeria )
+( m ) Hà_Lan , Pháp , Argentina , Bỉ , Đức , Braxin , Costa_Rica , Colombia đều vào tới tứ_kết .
+( n ) Uruguay = D1 hoặc D2 , nhưng thua ở vòng 16 .
+( o ) Các đội nhất bảng đều vào tới tứ_kết .
+Tiếp đó , ta lập_luận như sau :
+Xét 8 đội nhất bảng .
+Họ đều vào tới tứ_kết ( o ) , mà trong danh_sách liệt_kê ở điều ( m ) có vừa đủ 8 đội , nên những đội này đều nhất bảng :
+( p ) Braxin = A1 , Hà_Lan = B1 , Colombia = C1 , Costa_Rica = D1 , Pháp = E1 , Argentina = F1 , Đức = G1 , Bỉ = H1 .
+Nigeria , Mỹ ( k ) và Uruguay ( n ) có tham_gia vòng 16 , nhưng không nằm trong số 8 đội trên , nên đều nhì bảng :
+( q ) Uruguay = D2 .
+Nigeria = F2 .
+Hoa_Kỳ = G2 .
+Xét bảng H . Nga được 2 điểm ( h ) , nên chỉ duy_nhất có bảng với số điểm 9-4 - 2-1 là phù_hợp .
+Bỉ nhất ( p ) , Hàn_Quốc không quá 3đ ( c ) .
+Nên :
+( r ) Bảng H : Bỉ = 9đ , Algeria = 4đ , Nga = 2đ , Hàn_Quốc = 1đ .
+Xét các đội châu Á .
+Tổng_số điểm của họ không quá 3đ ( c ) , Hàn_Quốc được 1đ ( r ) , nên :
+( s ) Nhật_Bản ≤ 1đ .
+Iran ≤ 1đ
+Xét bảng A .
+Braxin nhất bảng ( p ) , bằng số điểm với Mexico ( f ) , nên chỉ có bảng với số điểm là 7-7 - 3 - 0 là phù_hợp .
+Cameroon không_thể có 3đ vì ít điểm hơn các đội châu Á ( d ) :
+( t ) Bảng A : Braxin = 7đ , Mexico = 7đ , Croatia = 3đ , Cameroon = 0đ .
+Xét bảng G .
+Mỹ bằng điểm Bồ_Đào_Nha ( g ) , nên chỉ còn lại bảng với số điểm 7-4 - 4-1 .
+Đức nhất ( p ) , Mỹ nhì ( q ) , Ghana chỉ có 1đ ( j ) , suy ra :
+( u ) Bảng G : Đức = 7đ , Hoa_Kỳ = 4đ , Bồ_Đào_Nha = 4đ , Ghana = 1đ .
+Xét bảng D .
+Costa_Rica nhất ( p ) , Uruguay nhì ( q ) .
+Anh có 1đ , đội nhất bảng D ≤ 7đ ( i ) .
+Chỉ còn lại duy_nhất một trường_hợp phù_hợp là 7-6 - 3-1 .
+Như_vậy :
+( v ) Bảng D : Costa rica = 7đ , Uruguay = 6đ , Ý= 3đ , Anh = 1đ .
+Đến giờ còn lại các bảng B , C , E , F vàcác trường_hợp 7-6 - 4 - 0 , 9-4 - 3-1 ( hailần ) , 9-6 - 3 - 0 .
+Như_vậy , chỉ có 2 đội có 0 đ .
+Nhật_Bảnvà_Iran đều không quá 1đ ( s ) , nhưng không_thể có 0đ , bởi_vì lúc đó Honduras hoặc Úc sẽ hơn 0đ và hơn điểm của một đội châu Á , mâu_thuẫn với điều ( d ) .
+Do_đó :
+( w ) Nhật_Bản = Iran = 1đ .
+Honduras = Australia = 0đ .
+Xét bảng C .
+Bảng này có số điểm là 9-4 - 3-1 vì Nhật_Bản có 1đ ( w ) .
+Colombia nhất ( p ) .
+Hy_Lạp chỉ có_thể có 1đ , 2đ hoặc 4đ ( e ) .
+Suy ra :
+( x ) Bảng C : Colombia = 9đ , Hy_Lạp 4đ , Bờ_Biển_Ngà = 3đ , Nhật_Bản = 1đ .
+Xét bảng F . Bảng này cũng có số điểm 9-4 - 3-1 .
+Argentina nhất ( p ) .
+Iran 1đ ( w ) .
+Nigeria nhì ( q ) :
+( y ) Bảng F : Argentina = 9đ , Nigeria = 4đ , Bosnia-Herzegovina = 3đ , Iran = 1đ .
+Xét bảng B .
+Hà_Lan nhất ( p ) .
+Australia 0đ ( w ) .
+Tây_Ban_Nha không quá 3đ ( b ) .
+Nên bảng này có số điểm là 9-6 - 3 - 0 :
+( z ) Bảng B : Hà_Lan = 9đ , Chile = 6đ , Tây_Ban_Nha = 3đ , Australia = 0đ .
+Xét bảng E .
+Bảng này chỉ còn trường_hợp 7-6 - 4 - 0 .
+Pháp nhất ( p ) .
+Honduras 0đ ( w ) .
+Ecuador ba hoặc bét bảng ( l ) :
+( aa ) Bảng E : Pháp = 7đ , Thụy_Sĩ = 6đ , Ecuador = 4đ , Honduras = 0đ .
+Tổng_kết :
+Bảng A : Braxin = 7đ , Mexico = 7đ , Croatia = 3đ , Cameroon = 0đ .
+Bảng B : Hà_Lan = 9đ , Chile = 6đ , Tây_Ban_Nha = 3đ , Úc = 0đ .
+Bảng C : Colombia = 9đ , Hy_Lạp 4đ , Bờ_Biển_Ngà = 3đ , Nhật_Bản = 1đ .
+Bảng D : Costa_Rica = 7đ , Uruguay = 6đ , Ý= 3đ , Anh = 1đ .
+Bảng E : Pháp = 7đ , Thụy_Sĩ = 6đ , Ecuador = 4đ , Honduras = 0đ .
+Bảng F : Argentina = 9đ , Nigeria = 4đ , Bosnia-Herzegovina = 3đ , Iran = 1đ .
+Bảng G : Đức = 7đ , Hoa_Kỳ = 4đ , Bồ_Đào_Nha = 4đ , Ghana = 1đ .
+Bảng H : Bỉ = 9đ , Algeria = 4đ , Nga = 2đ , Hàn_Quốc = 1đ .
+Kết_quả các trận đấu vòng 16 là :
+Braxin thắng Chile , Hà_Lan thắng Mexico , Colombia thắng Uruguay , Costa_Rica thắng Hy_Lạp , Pháp thắng Nigeria , Argentina thắng Thụy_Sĩ , Đức thắng Algeria , Bỉ thắng Mỹ .
+Tây_Ban_Nha tham_dự giải World_Cup này với tư_cách đương_kim vô_địch , mà họ chỉ vô_địch duy_nhất vào năm 2010 , nên đây là giải World_Cup 2014 , còn đội vô_địch là Đức .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

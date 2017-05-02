@@ -1,0 +1,13 @@
+500 triệu tài_khoản Yahoo bị đánh_cắp thông_tin
+Yahoo xác_nhận ít_nhất 500 triệu tài_khoản thành_viên của hãng đã bị tin_tặc tấn_công và yêu_cầu người dùng đổi mật_khẩu ngay .
+Điều_tra ban_đầu , Yahoo cho rằng thủ_phạm đánh_cắp thông_tin trong mạng_lưới của công_ty từ năm 2014 là " một đội_ngũ do nhà_nước bảo_trợ " , nằm bên ngoài Mỹ .
+Hãng dịch_vụ Internet cho_biết một_số dữ_liệu người dùng đã bị sử_dụng , nhưng không ước_tính có bao nhiều thành_viên thật_sự bị ảnh_hưởng .
+Yahoo xác_nhận hơn 500 triệu tài_khoản người dùng đã bị tấn_công .
+Vụ tấn_công Yahoo lần này được xem là đợt đánh_cắp thông_tin lớn nhất nhằm vào một doanh_nghiệp Mỹ .
+Các dữ_liệu mà hacker lấy_được có_thể bao_gồm họ tên , địa_chỉ email , số điện_thoại , ngày_sinh , câu_hỏi và câu trả_lời bí_mật .
+Yahoo cho rằng thông_tin thẻ_tín_dụng , tài_khoản ngân_hàng hay các mật_khẩu không mã_hóa vẫn được bảo_vệ bởi nó được lưu trên một hệ_thống khác .
+Tháng 8/2016 ,   một tin_tặc có biệt_danh " Peace " đã đăng_tải hơn 200 triệu tài_khoản người dùng Yahoo !
+lên một Dark_Web ( trang_web có_thể truy_cập công_khai nhưng ẩn địa_chỉ IP máy chủ_chứa trang_web đó ) có tên The_Real_Deal .
+Dữ_liệu bị rò_rỉ bao_gồm tên người dùng , mật_khẩu được mã_hóa MD5 và ngày_sinh đang được bán với giá 3 Bitcoins , tương_đương 1.838 USD .
+Yahoo nói đã thực_hiện một_số biện_pháp an_ninh nhằm bảo_vệ dữ_liệu của người dùng .
+Tuy_nhiên , công_ty Internet vẫn khuyến_cáo thành_viên cần đổi mật_khẩu ngay_lập_tức , đặc_biệt với những người chưa làm điều đó từ năm 2014 .

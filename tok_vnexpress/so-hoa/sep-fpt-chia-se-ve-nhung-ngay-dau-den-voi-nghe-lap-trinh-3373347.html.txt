@@ -1,0 +1,29 @@
+' Sếp ' FPT chia_sẻ về những ngày đầu đến với nghề lập_trình
+Với chủ_đề " You_Can_Make_It " ( Bạn cũng làm được ) , các lãnh_đạo của FPT đã chia_sẻ với sinh_viên về giai_đoạn mới vào nghề bỡ_ngỡ nhưng đầy đam_mê .
+Nhằm khuyến_khích sinh_viên tự_tin và mạnh_dạn đi theo con đường trở_thành kỹ_sư CNTT ,   Tập_đoàn FPT đa ̃ phối_hợp cùng Học_viện Công_nghệ Bưu_chính Viễn_thông ( PTIT ) tổ_chức chương_trình FPT_CEO Talk với chủ_đề " You_Can_Make_It " , thu_hút gâ ̀ n 700 sinh_viên tham_gia , vào cuối tuần qua .
+Ông Lê_Hồng_Hải , cựu sinh_viên khóa 1 khoa CNTT của   Học_viện Bưu_chính Viễn_thông ( PTIT ) , hiện là Phó_Giám đốc Đơn_vị phần_mềm chiến_lược số_một ( FSU1 ) thuộc FPT Software .
+Ông cho_biết mình cũng từng_trải qua những cảm_xúc giống như bao sinh_viên khác : " liều " thi vào PTIT nhưng nghĩ là sẽ trượt vì phải 27/30 điểm mới đỗ .
+Sau khi đỗ thì lại lo không biết ra trường có việc_làm không , các bưu_điện có nhận không ...
+" Sau khi ra trươ ̀ ng , tôi la ̀ m ơ ̉ mô ̣ t sô ́ công_ty nhỏ rồi va ̀ o FPT Software .
+Nga ̀ y đâ ̀ u tiên , tôi thực_sự sô ́ c khi nghe ca ́ c anh chi ̣ đi la ̀ m viê ̣ c ta ̣ i Anh vê ̀ kể chuyê ̣ n công viê ̣ c , cuô ̣ c sô ́ ng ở nước_ngoài , nghe mo ̣ i ngươ ̀ i trao đô ̉ i vơ ́ i kha ́ ch ha ̀ ng qua Skype bă ̀ ng tiê ́ ng Anh ' như gio ́ ' .
+Lu ́ c đo ́ , tôi cũng lo liê ̣ u mình la ̀ m đươ ̣ c không vi ̀ tiê ́ ng Anh không tô ́ t lă ́ m .
+Khi sê ́ p yêu_cầu viê ́ t ba ́ o ca ́ o tiê ́ ng Anh , tôi pha ̉ i mâ ́ t đến 2 nga ̀ y nên đã quyê ́ t tâm mô ̃ i nga ̀ y da ̀ nh mô ̣ t tiê ́ ng đê ̉ ho ̣ c ngoại_ngữ " , ông Hải kể lại .
+Ông Hải đặt mục_tiêu sau 3 năm đi làm phải được cử đi nước_ngoài , sau 5 năm trở_thành quản_lý dự_án .
+" Dù có_vẻ hơi liều , nhưng cách tôi đạt được là chia mục_tiêu lớn thành các mục_tiêu nhỏ theo khung thời_gian sáu tháng đến một năm và hoàn_thành mọi công_việc được giao .
+Giao gì cũng làm " , ông Hải nói .
+Nhờ vậy , chỉ sau một năm rưỡi gia_nhập FPT , ông đã là một trong ba người xuất_sắc tham_gia phỏng_vấn với khách_hàng để sang Anh làm_việc .
+Các " sếp " thuộc thế_hệ 7x của FPT chia_sẻ với sinh_viên Học_viện Bưu_chính Viễn_Thông .
+Trong khi đó , ông   Nguyễn_Quang_Hưng , Giám_đốc Trung_tâm phần_mềm số 2 ( BU2 ) của FPT Software , chia_sẻ vui rằng động_lực để ông thi vào Học_viện Bưu_chính Viễn_thông không phải độ " hot " của trường mà vì thấy bác hàng_xóm làm nghề đưa thư xây được nhà ba tầng nên tin rằng học PTIT cũng giúp mình được như_thế .
+Đồng quan_điểm với Lê_Hồng_Hải , ông Hưng cho rằng các sinh_viên muốn thành_công cần học tốt ngoại_ngữ , sự tự_tin , học thêm các kỹ_năng mềm và   ca ́ ch xư ̉ ly ́ ca ́ c ti ̀ nh huô ́ ng trong cuô ̣ c sô ́ ng như thê ́ na ̀ o .
+Ông Trần_Xuân_Khôi , Giám_đốc Phát_triển nguồn nhân_lực FPT Software , lại nhấn_mạnh về cơ_hội " không giới_hạn " của các kỹ_sư CNTT Việt_Nam tại Nhật .
+Doanh sô ́ FPT Software năm 2015 đa ̣ t 181 triê ̣ u USD thi ̀ co ́ đến 90 triê ̣ u USD la ̀ tư ̀ thi ̣ trươ ̀ ng Nhâ ̣ t .
+" Nhâ ̣ t Ba ̉ n đang thiê ́ u nhân lư ̣ c CNTT và họ cần tới 60.000 người_làm CNTT tính đến năm 2020 .
+Ho ̣ xa ́ c đi ̣ nh Việt_Nam va ̀ Ấ n Đô ̣ la ̀ hai thi ̣ trươ ̀ ng cung câ ́ p nhân lư ̣ c chi ́ nh và FPT đang tâ ̣ n dụng cơ hô ̣ i này nhưng lại thiê ́ u ngươ ̀ i đê ̉ đưa sang Nhâ ̣ t " , ông Khôi cho_biết .
+" Nhâ ̣ t Ba ̉ n co ́ điê ̉ m hay la ̀ không đo ̀ i ho ̉ i ba ̣ n pha ̉ i la ̀ siêu_nhân , họ châ ́ p nhâ ̣ n ngươ ̀ i co ́ kinh nghiê ̣ m vư ̀ a pha ̉ i .
+Chỉ cần biết tiê ́ ng Nhâ ̣ t tư ̀ khi còn học trong trươ ̀ ng thi ̀ cơ hô ̣ i sang Nhâ ̣ t thâ ̣ t sư ̣ sa ́ ng " .
+FPT Software hiện co ́ hơn 9.000 người la ̀ m viê ̣ c ta ̣ i Viê ̣ t Nam va ̀ ca ́ c nươ ́ c kha ́ c như My ̃ , Nhâ ̣ t Ba ̉ n , Singapore , Đư ́ c , Slovakia , Pha ́ p , Anh , Ha ̀ n Quô ́ c ...
+Dự_kiến , trong 3 năm tơ ́ i , FPT Software cần tuyển mới 10.000 nhân_lực và 50% trong số đó là sinh_viên các ngành CNTT và ngoại_ngữ mới ra trường .
+FPT_CEO Talk tại PTIT là sự_kiện thứ 14 của chuỗi chương_trình giao_lưu giữa FPT và sinh_viên .
+Chương_trình FPT_CEO Talk muốn khích_lệ sinh_viên chấp_nhận thử_thách , nỗ_lực theo_đuổi đam_mê để sớm đạt được thành_công như những diễn_giả của sư ̣ kiê ̣ n .   FPT
+CEO Talk tại PTIT là sự_kiện thứ 14 của chuỗi chương_trình giao_lưu giữa lãnh_đạo , ca ́ c nha ̀ qua ̉ n ly ́ tre ̉ cu ̉ a Tập_đoàn FPT với sinh_viên các trường đại_học trên toàn_quốc .
+Châu_An

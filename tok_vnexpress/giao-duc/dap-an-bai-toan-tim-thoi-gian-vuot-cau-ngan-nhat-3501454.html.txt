@@ -1,0 +1,7 @@
+Đáp_án bài_toán tìm thời_gian vượt cầu ngắn nhất
+Nhiều độc_giả chưa đưa ra được câu trả_lời đúng vì không đọc kỹ đề_bài .
+Dù phải tìm thời_gian ngắn nhất để 4 người vượt qua cầu nhưng hãy đảm_bảo họ không được cõng nhau .
+Cầu rất yếu nên mỗi lượt_đi chỉ được 2 người .
+Tuy_nhiên , thời_gian 4 người ( A , B , C , D ) qua cầu không giống nhau .
+Thời_gian để A qua cầu_là 1 phút , B là 2 phút , C là 7 phút và D là 10 phút .
+Hỏi thời_gian ngắn nhất để 4 người đàn_ông qua cầu_là bao_lâu ?

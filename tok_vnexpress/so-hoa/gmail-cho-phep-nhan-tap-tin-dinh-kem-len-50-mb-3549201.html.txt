@@ -1,0 +1,11 @@
+Gmail cho_phép nhận tập_tin đính kèm lên 50 MB
+Thay_vì giới_hạn 25 MB trong hộp_thư đến như trước , người dùng Gmail đã có_thể nhận file đính kèm lên tới 50 MB .
+Gmail đã có_thể đính kèm tập_tin lên 50MB .
+Trước đó , Google chỉ cho_phép tải lên và nhận tập_tin có dung_lượng từ 25 MB trở xuống .
+Nếu vượt qua dung_lượng này , bắt_buộc phải tải lên và nhận gián_tiếp qua Google_Drive .
+Một_số người dùng cho rằng cách làm này khá bất_tiện , tốn thời_gian .
+Vì_vậy ,   Google cho_biết , người dùng dịch_vụ thư_điện_tử sẽ có_thể nhận   tập_tin   đính kèm với dung_lượng lớn gấp đôi .   Tuy_nhiên , việc tải lên tập_tin vẫn bị giới_hạn ở mức 25 MB .
+Gmail là một trong những dịch_vụ thư_điện_tử phổ_biến nhất hiện_nay .
+Đầu tháng 2/2016 , Google cho_biết số người dùng Gmail mỗi tháng đã vượt qua con_số 1 tỷ .
+Giới_thiệu giao_diện hộp_thư đến của Gmail :
+Bảo_Lâm

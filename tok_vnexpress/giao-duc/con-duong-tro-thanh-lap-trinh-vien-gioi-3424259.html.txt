@@ -1,0 +1,21 @@
+Con đường trở_thành lập_trình_viên giỏi
+Tối học lý_thuyết , ngày thực_hành không_chỉ dành cho công_việc lao_động chân_tay mà_còn hiệu_quả với các lập_trình_viên .
+Chuyên_gia công_nghệ người Mỹ_Jeff_Atwood , trong một bài viết trên blog cá_nhân của mình đã phân_tích hiệu_quả của phương_pháp dạy nghề vốn tưởng như chỉ áp_dụng cho các công_nhân lao_động chân_tay .
+Theo ông , học lý_thuyết và thực_hành luôn mang lại hiệu_quả hai chiều khi giúp lý_thuyết mới nhanh_chóng được kiểm nghiệp ở thực_tế và mang lại cảm_hứng khám_phá cho người học .
+Giáo_dục truyền_thống mất hàng năm trời để cung_cấp kiến_thức lý_thuyết cho một người nhưng không đảm_bảo người đó sẽ ngay_lập_tức làm được công_việc đó mà khi đi làm phải làm_quen từ đầu với các máy_móc , thiết_bị , kỹ_năng để kiểm_chứng , so_sánh và điều_chỉnh so với những gì từng được học .
+Trong khi đó , việc dạy nghề lại áp_dụng phương_pháp vừa học vừa làm rất nhiều năm nay lại cho thấy hiệu_quả , tính khoa_học hơn nhiều .
+Lấy ví_dụ công_ty điện_lực của Mỹ_International_Brotherhood of Electrical_Workers ( I . B . E . W . ) đào_tạo thành_công hàng nghìn thợ_điện mỗi năm bằng phương_pháp này .
+Các buổi tối trong tuần , công_nhân - học_viên của họ tham_gia các buổi học lý_thuyết về điện và buổi ngày được làm_việc trực_tiếp trên công_trường xây_dựng để nghiệm_thu , áp_dụng lý_thuyết vào thực_hành .
+Để có_thể học_hỏi và làm_việc trên công_trường , những người thợ mới này sẽ được một người có kinh_nghiệm hướng_dẫn , làm mẫu và nhận_xét về mức_độ " hiểu bài " của người này .
+Quá_trình học_hỏi bao_gồm 4 bước : nghe - xem - thực_hành - nhận góp_ý .
+Atwood cho rằng mọi công_việc nên được giáo_dục , đào_tạo theo cách này thay cho việc dạy lý_thuyết trước , thực_hành để sau .
+Quy_trình nêu trên với nghề phần_mềm có_thể được thể_hiện như sau : mentor ( người hướng_dẫn ) lựa_chọn một nhiệm_vụ phù_hợp với trình_độ học_viên ; trao_đổi , thảo_luận về cách thực_hiện ; làm mẫu , chẳng_hạn như viết một code minh_họa để người học dễ hình dùng và để học_viên thử tự làm .
+Cuối_cùng , mentor sẽ nhận_xét về sự thể_hiện của học_viên , bao_gồm những ưu_điểm , khuyết_điểm và gợi_ý để tiến_bộ hơn .
+Chìa_khóa của bất_kỳ hình_thức đào_tạo nào cũng luôn là bước " thực_hành " .
+  Phần_lớn các khóa đào_tạo lập_trình_viên chỉ cung_cấp cho người học các bước " nghe " và " xem " , nhưng các bước " thực_hành " và " nhận góp_ý " mới thực_sự là phần truyền cảm_hứng giúp bạn tiến_bộ và phát_triển các kỹ_năng của mình .
+Học nghề có một điểm thu_hút là kết_hợp được vận_dụng lý_thuyết vào những trải_nghiệm thực_tế với nhau .
+Việc kết_hợp này vốn không khó .
+Thay_vì để các nội_dung dạy_học liên_kết lỏng_lẻo với nhau , một hình_thức giáo_dục mới như việc dạy nghề nêu trên nên được áp_dụng với nghề lập_trình .
+Sự kết_hợp của việc học lý_thuyết buổi tối , thực_hành gõ code ban_ngày thực_sự hấp_dẫn .
+Bản_thân Jeff_Atwood cũng chứng_kiến nhiều thực_tập_sinh tài_năng trở_thành các lập_trình_viên giỏi nhờ duy_trì ngày làm , đêm vẫn tham_gia các khóa học về máy_tính để bổ_sung kiến_thức lý_thuyết .
+Thu_Ngân ( theo Coding_Horror )

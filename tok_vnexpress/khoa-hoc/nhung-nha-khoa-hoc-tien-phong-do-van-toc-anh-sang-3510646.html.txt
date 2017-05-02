@@ -1,0 +1,21 @@
+Những nhà_khoa_học tiên_phong đo vận_tốc ánh_sáng
+Nhà thiên_văn Ole_Roemer là người đầu_tiên chứng_tỏ ánh_sáng truyền với vận_tốc hữu_hạn   khi nghiên_cứu chuyển_động của vệ_tinh sao Mộc .
+Năm 1676 , Ole_Roemer , nhà thiên_văn_học người Đan_Mạch , là người đầu_tiên phát_hiện tốc_độ ánh_sáng có giới_hạn , nhưng ông không phải người đầu_tiên cố_gắng thử_nghiệm đo vận_tốc ánh_sáng , theo Telegraph .
+Năm 1638 , Galileo_Galilei , nhà thiên_văn , vật_lý , toán_học và triết_học   thiên_tài người Italy ,   thiết_lập thí_nghiệm để đo vận_tốc ánh_sáng .
+Phương_pháp của Galilei như sau : hai người đứng trên đỉnh của hai ngọn đồi cách xa nhau vài km , và mỗi người cầm theo một chiếc đèn .
+Một trong hai người nháy đèn vào người còn lại .
+Người này sẽ phản_ứng lại bằng cách nháy đèn trở_lại ngay_lập_tức .
+Nhưng dù khoảng_cách hai người nháy đèn có cách xa nhau thế_nào thì Galilei cũng không_thể xác_định thời_gian ánh_sáng truyền giữa hai người , do_đó ông kết_luận rằng vận_tốc ánh_sáng quá nhanh để có_thể đo_đạc theo cách trên .
+Tuy không đưa ra được con_số chính_xác , nhưng Galilei cho rằng , ánh_sáng di_chuyển nhanh hơn âm_thanh 10 lần .
+Roemer bắt_đầu quá_trình nghiên_cứu kể từ năm 1673 , ông xem_xét thời_gian trôi qua giữa các lần mặt_trăng Io của sao Mộc bị che_khuất ( eclipse ) .
+Mặt_Trăng này do Galilei phát_hiện vào năm 1610 .
+Bằng cách định_lượng sự khác_biệt về thời_gian , Roemer ước_tính ánh_sáng dường_như mất khoảng 10 tới 11 phút để di_chuyển qua một khoảng_cách bằng một_nửa đường_kính quỹ_đạo của Trái_Đất quanh Mặt_Trời .
+Do_đó , ánh_sáng truyền đi với vận_tốc khoảng 200.000.000 m / s .
+Năm 1728 , James_Bradley sử_dụng phương_pháp đo quang_sai của ánh_sáng sao đã xác_định vận_tốc ánh_sáng bằng 295.000.000 m / s .
+Năm 1975 , Hội_nghị toàn_thể về cân_đo ( CGPM ) công_bố con_số chính_thức cho vận_tốc ánh_sáng bằng 299.792.458 m / s .
+Vận ánh_sáng được ký_hiệu bằng chữ " c " .
+Đây là một hằng_số vật_lý quan_trọng để xây_dựng nhiều lý_thuyết vật_lý khác_nhau .
+Nhưng theo kết_quả nghiên_cứu công_bố trên tạp_chí Physical_Review D hôm 18/11/2016 , João_Magueijo , giáo_sư tại Đại_học   Hoàng_gia London , Anh , và Niayesh_Afshordi , tiến_sĩ tại Viện_Perimeter , Canada , đề_xuất ý_tưởng cho rằng tốc_độ ánh_sáng khi vũ_trụ mới hình_thành   cao hơn nhiều so với hiện_nay , và tính đúng_đắn của lý_thuyết này có_thể kiểm_tra được thông_qua chỉ_số quang_phổ .
+Trước đó vào năm 2011 , Antonio_Ereditato , người_phát_ngôn của Tổ_chức Nghiên_cứu Nguyên_tử châu Âu ( CERN ) , nói rằng các phép đo trong khoảng thời_gian 3 năm cho thấy các hạt neutrino trong Máy_Gia tốc hạt Lớn ( LHC ) di_chuyển nhanh hơn vận_tốc ánh_sáng 60 nano giây .
+Xem thêm :   Einstein có_thể đã sai về vận_tốc ánh_sáng
+Lê_Hùng

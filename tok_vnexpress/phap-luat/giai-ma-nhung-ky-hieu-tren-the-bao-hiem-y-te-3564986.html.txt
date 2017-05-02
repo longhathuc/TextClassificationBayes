@@ -1,0 +1,60 @@
+Giải_mã những ký_hiệu trên Thẻ bảo_hiểm_y_tế
+Đọc_Thẻ bảo_hiểm_y_tế có_thể biết bạn làm_việc ở ngành_nghề nào , mức hưởng hỗ_trợ thanh_toán , nơi sinh_sống và bệnh_viện đăng_ký điều_trị ... ra_sao .
+Mã thẻ bảo_hiểm_y_tế gồm 15 ký_tự , chia thành 6 ô :
+Hai ký_tự đầu ( ô thứ nhất ) : Được ký_hiệu bằng chữ , là mã đối_tượng tham_gia bảo_hiểm_y_tế , bao_gồm :
+- DN : Người lao_động làm_việc trong các doanh_nghiệp thành_lập , hoạt_động theo Luật_Doanh nghiệp , Luật_Đầu tư .
+- HX : Người lao_động làm_việc trong các hợp_tác_xã , liên_hiệp hợp_tác_xã thành_lập và hoạt_động theo Luật_Hợp tác xã .
+- CH : Người lao_động làm_việc trong các cơ_quan nhà_nước , đơn_vị sự_nghiệp , lực_lượng_vũ_trang , tổ_chức chính_trị , tổ_chức chính_trị - xã_hội , tổ_chức chính_trị - xã_hội - nghề_nghiệp , tổ_chức xã_hội - nghề_nghiệp và tổ_chức xã_hội khác .
+- NN : Người lao_động làm_việc trong các cơ_quan , tổ_chức nước_ngoài hoặc tổ_chức quốc_tế tại Việt_Nam , trừ trường_hợp Điều_ước quốc_tế mà nước Cộng_hòa xã_hội_chủ_nghĩa Việt_Nam là thành_viên tham_gia có quy_định khác .
+- TK : Người lao_động làm_việc trong các tổ_chức khác có sử_dụng lao_động được thành_lập và hoạt_động theo quy_định của pháp_luật .
+- HC : Cán_bộ , công_chức , viên_chức theo quy_định của pháp_luật về cán_bộ , công_chức , viên_chức .
+- XK : Người hoạt_động không chuyên_trách ở xã , phường , thị_trấn theo quy_định của pháp_luật về cán_bộ , công_chức ;
+- HT : Người hưởng lương hưu , trợ_cấp mất_sức lao_động hàng tháng ;
+- TB : Người đang hưởng trợ_cấp bảo_hiểm_xã_hội hàng tháng do bị tai_nạn lao_động , bệnh_nghề_nghiệp ;
+- NO : Người lao_động nghỉ_việc đang hưởng chế_độ ốm_đau theo quy_định của pháp_luật về bảo_hiểm_xã_hội do mắc bệnh thuộc danh_mục bệnh cần chữa_trị dài ngày theo quy_định của Bộ_trưởng Bộ Y_tế ;
+- CT : Người từ đủ 80 tuổi trở_lên đang hưởng trợ_cấp tuất hàng tháng ;
+- XB : Cán_bộ xã , phường , thị_trấn đã nghỉ_việc đang hưởng trợ_cấp bảo_hiểm_xã_hội hàng tháng ;
+- TN : Người đang hưởng trợ_cấp thất_nghiệp theo quy_định của pháp_luật về bảo_hiểm thất_nghiệp ;
+- CS : Công_nhân cao_su nghỉ_việc đang hưởng trợ_cấp hàng tháng theo Quyết_định số 206/CP ngày 30/5/1979 của Hội_đồng Chính_phủ ( nay là Chính_phủ ) về chính_sách đối_với công_nhân mới giải_phóng làm nghề nặng_nhọc , có hại sức_khỏe nay già_yếu phải thôi_việc ;
+- QN : Sỹ quan , quân_nhân chuyên_nghiệp , hạ sỹ quan , binh sỹ quân_đội đang tại_ngũ ; người_làm công_tác cơ_yếu hưởng lương như đối_với quân_nhân ; học_viên cơ_yếu được hưởng chế_độ , chính_sách theo chế_độ , chính_sách đối_với học_viên ở các trường quân_đội ;
+- CA : Sỹ quan , hạ sỹ quan nghiệp_vụ và sỹ quan , hạ sỹ quan chuyên_môn , kỹ_thuật đang công_tác trong lực_lượng công_an nhân_dân , học_viên công_an nhân_dân , hạ sỹ quan , chiến sỹ phục_vụ có thời_hạn trong công_an nhân_dân ; học_viên cơ_yếu được hưởng chế_độ , chính_sách theo chế_độ , chính_sách đối_với học_viên ở các trường công_an ;
+- CY : Người_làm công_tác cơ_yếu hưởng lương như đối_với quân_nhân do các Bộ , Ngành và Ủy_ban_nhân_dân các cấp quản_lý , trừ người_làm công_tác cơ_yếu được cấp mã đối_tượng QN và CA ;
+- XN : Cán_bộ xã , phường , thị_trấn đã nghỉ_việc đang hưởng trợ_cấp hàng tháng từ Ngân_sách Nhà_nước ;
+- MS : Người đã thôi hưởng trợ_cấp mất_sức lao_động đang hưởng trợ_cấp hàng tháng từ ngân_sách nhà_nước ;
+- CC : Người có công với cách_mạng , bao_gồm : Người hoạt_động cách_mạng trước ngày 1/1/1945 ; người hoạt_động cách_mạng từ ngày 1/1/1945 đến ngày khởi_nghĩa tháng 8/1945 ; Bà_mẹ Việt_Nam anh_hùng ; thương_binh , người hưởng chính_sách như thương_binh , thương_binh loại B , bệnh_binh suy_giảm khả_năng lao_động từ 81% trở_lên ;
+- CK : Người có công với cách_mạng theo quy_định pháp_luật về người có công với cách_mạng , trừ các đối_tượng được cấp mã CC ;
+- CB : Cựu_chiến_binh theo quy_định pháp_luật về cựu_chiến_binh ;
+- KC : Người tham_gia kháng_chiến theo quy_định pháp_luật về người có công với cách_mạng được quy_định tại các Quyết_định của Thủ_tướng Chính_phủ .
+- HD : Đại_biểu Quốc_hội , đại_biểu Hội_đồng_nhân_dân các cấp đương_nhiệm ;
+- TE : Trẻ_em dưới 6 tuổi , kể_cả trẻ đủ 72 tháng tuổi mà trong năm đó chưa đến kỳ nhập_học ;
+- BT : Người thuộc diện hưởng trợ_cấp bảo_trợ xã_hội hàng tháng theo quy_định của pháp_luật ;
+- HN : Người thuộc hộ gia_đình nghèo ;
+- DT : Người dân_tộc_thiểu_số đang sinh_sống tại vùng có điều_kiện kinh_tế - xã_hội khó_khăn , đặc_biệt khó_khăn ;
+- DK : Người đang sinh_sống tại vùng có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn ;
+- XD : Người đang sinh_sống tại xã đảo , huyện đảo ;
+- TS : Thân_nhân của người có công với cách_mạng là cha_đẻ , mẹ đẻ , vợ hoặc chồng , con của liệt sỹ ; người có công nuôi_dưỡng liệt sỹ ;
+- TC : Thân_nhân của người có công với cách_mạng , trừ các đối_tượng được cấp mã TS ;
+- TQ : Thân_nhân của đối_tượng được cấp mã QN ;
+- TA : Thân_nhân của đối_tượng được cấp mã CA ;
+- TY : Thân_nhân của đối_tượng được cấp mã CY ;
+- HG : Người đã hiến bộ_phận cơ_thể người theo quy_định của pháp_luật ;
+- LS : Người nước_ngoài đang học_tập tại Việt_Nam được cấp học_bổng từ Ngân_sách của Nhà_nước Việt_Nam ;
+- CN : Người thuộc hộ gia_đình cận nghèo ;
+- HS : Học_sinh đang theo học tại các cơ_sở giáo_dục và đào_tạo thuộc hệ_thống giáo_dục quốc_dân ;
+- SV : Sinh_viên đang theo học tại các cơ_sở giáo_dục và đào_tạo , cơ_sở dạy nghề thuộc hệ_thống giáo_dục quốc_dân ;
+- GB : Người thuộc hộ gia_đình làm nông_nghiệp , lâm_nghiệp , ngư_nghiệp và diêm_nghiệp có mức_sống trung_bình theo quy_định của pháp_luật ;
+- GD : Người tham_gia bảo_hiểm_y_tế theo hộ gia_đình gồm những người thuộc hộ gia_đình , trừ đối_tượng quy_định tại các điểm a , b , c , d nêu trên .
+Ký_tự tiếp_theo ( ô thứ 2 ) : Được ký_hiệu bằng số ( theo số thứ_tự từ 1 đến 5 ) là mức hưởng bảo_hiểm_y_tế .
+Trường_hợp một người thuộc nhiều đối_tượng tham_gia bảo_hiểm_y_tế thì mức hưởng bảo_hiểm_y_tế ghi trên thẻ là mức hưởng của đối_tượng có quyền_lợi cao nhất .
+Hai ký_tự tiếp_theo ( ô thứ 3 ) : Được ký_hiệu bằng số ( từ 01 đến 99 ) là mã tỉnh , thành_phố trực_thuộc Trung_ương , nơi phát_hành thẻ bảo_hiểm_y_tế .
+Riêng mã của bảo_hiểm_xã_hội của Bộ Quốc phòng được ký_hiệu bằng số 97 , Công_an nhân_dân được ký_hiệu bằng số 98 .
+Hai ký_tự tiếp_theo ( ô thứ 4 ) : Được ký_hiệu bằng số ( từ 00 đến 99 ) hoặc bằng chữ ( theo bảng_chữ_cái latinh , từ AA đến ZZ ) hoặc bằng tổ_hợp giữa số và chữ , là mã quận , huyện , thị_xã , thành_phố trực_thuộc tỉnh , nơi quản_lý và phát_hành thẻ bảo_hiểm_y_tế .
+Ba ký_tự tiếp_theo ( ô thứ 5 ) : Được ký_hiệu bằng số ( từ 001 đến 999 ) là mã đơn_vị quản_lý , theo địa_giới hành_chính và theo loại đối_tượng .
+Trong đó , đối_tượng do xã quản_lý lấy ký_tự đầu ký_hiệu bằng số 9 ( 901 , 999 ) .
+Năm ký_tự cuối ( ô thứ 6 ) : Được ký_hiệu bằng số ( theo số_tự_nhiên từ 00001 đến 99999 ) , là số thứ_tự của người tham_gia bảo_hiểm_y_tế trong 1 đơn_vị .
+Mã cơ_sở khám chữa bệnh được thể_hiện bằng 5 ký_tự số in sau nơi đăng_ký khám chữa bệnh được hiểu như sau :   Hai ký_tự đầu   được ký_hiệu bằng số ( từ 01 đến 99 ) là mã tỉnh , thành_phố trực_thuộc Trung_ương , nơi cơ_sở khám chữa bệnh ban_đầu đóng trụ_sở .   Ba ký_tự cuối được ký_hiệu bằng số ( từ 001 đến 999 ) hoặc bằng tổ_hợp giữa số và chữ , là số thứ_tự cơ_sở khám chữa bệnh bảo_hiểm_y_tế .
+Mã nơi đối_tượng sinh_sống được thể_hiện bằng hai ký_tự , ký_hiệu gồm cả chữ và số tại điều 4 , cụ_thể :
+Ký_hiệu K1 là mã nơi người dân_tộc_thiểu_số và người thuộc hộ gia_đình nghèo tham_gia bảo_hiểm_y_tế , đang sinh_sống tại vùng có điều_kiện kinh_tế - xã_hội khó_khăn theo quy_định của pháp_luật .
+Ký_hiệu K2   là mã nơi người dân_tộc_thiểu_số và người thuộc hộ gia_đình nghèo tham_gia bảo_hiểm_y_tế , đang sinh_sống tại vùng có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn theo quy_định của pháp_luật .
+Ký_hiệu K3   là mã nơi người tham_gia bảo_hiểm_y_tế đang sinh_sống tại xã đảo , huyện đảo theo quy_định của pháp_luật .
+Thục_Linh

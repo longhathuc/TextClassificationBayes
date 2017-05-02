@@ -1,0 +1,19 @@
+Vật_liệu giúp điện_thoại không cần sạc pin
+Các nhà_khoa_học Nhật_Bản và Trung_Quốc đã tìm ra vật_liệu chế_tạo thiết_bị điện_tử tiêu tốn rất ít năng_lượng , điện_thoại_di_động làm_bằng vật_liệu này có_thể không cần sạc pin .
+Theo   Phys ,   nhóm nghiên_cứu thuộc đại_học Hiroshima , Nhật_Bản , đã tìm ra cách để tạo ra dòng_điện ở nhiệt_độ phòng mà không hao_phí năng_lượng hoặc cần phải có nguồn điện ngoài   nhờ vật_liệu có tên " chất cách_điện topo " .
+Các nghiên_cứu từ trước tới nay cho thấy , dòng_điện có_thể được tạo ra nhờ tính_chất sắt từ hoặc độ nhạy từ cao của vật_liệu mà không cần nguồn điện ngoài .
+Hiện_tượng này lần đầu_tiên được phát_hiện vào những năm 1980 , được đặt tên là " Hiệu_ứng Hall lượng_tử " ( theo tên nhà_vật_lý người Mỹ phát_hiện ra hiệu_ứng , Edwin_Hall ) .
+Tuy_nhiên , để đạt được yêu_cầu tạo ra dòng_điện mà không mất_mát năng_lượng , cho tới nay hệ_thống vẫn cần phải đặt trong một môi_trường rất lạnh với một từ_trường ngoài lớn .
+Để giải_quyết vấn_đề này , các nhà_khoa_học Nhật_Bản đã sử_dụng vật_liệu cách_điện topo sắt từ , có công_thức dạng " Cr ( Sb/Bi ) 2Te3 " ( Cr : Crom , Sb : Antimony , Te : Tellurium , Bi : Bismuth ) .
+Loại vật_liệu này có tính_chất kim_loại ở vỏ ngoài , và cách_điện ở lớp trong .
+Một màng mỏng nhỏ chế_tạo từ vật_liệu này sẽ phát ra một dòng_điện trên bề_mặt hoặc dọc theo các cạnh mà không cần nguồn điện ngoài .
+Năm 2007 , khi lần đầu quan_sát thấy hiện_tượng này xảy_ra ở nhiệt_độ thấp mà không mất_mát năng_lượng , các nhà_khoa_học đã rất ngạc_nhiên .
+Họ không lý_giải được tại_sao nó lại trở_thành vật_liệu sắt từ để từ đó tự_phát ra dòng_điện .
+" Đây là lý_do vì_sao chúng_tôi chọn vật_liệu này làm đối_tượng nghiên_cứu " , Giáo_sư Akio_Kimura , Đại_học Hiroshima , thành_viên của nhóm nghiên_cứu cho_biết .
+Trong hợp_chất Cr ( Sb/Bi ) 2Te3 , Cr có tính sắt từ , hoạt_động như một nam_châm siêu nhỏ , kích_thước nguyên_tử .
+Thông_thường , các nguyên_tử này sẽ tương_tác để định_hướng sắp_xếp theo chiều Bắc – Nam , nhưng do cấu_tạo phân_tử Cr ( Sb/Bi ) 2Te3 , các nguyên_tử Cr ở quá xa nhau để thực_hiện điều này .
+Tuy_nhiên , các nhà_nghiên_cứu phát_hiện ra rằng , các nguyên_tử phi từ_tính như Sb hay Te sẽ đóng vai_trò cầu_nối để tương_tác này xảy_ra , làm cho toàn_bộ vật_liệu có tính sắt từ .
+Phát_hiện này rất quan_trọng trong việc phát_triển các thiết_bị điện_tử tiêu_thụ ít năng_lượng .
+Hiện các kết_quả mới chỉ đạt được ở nhiệt_độ rất thấp , nhóm nghiên_cứu đang tìm cách để tăng nhiệt_độ chuyển pha từ_tính này .
+" Chúng_tôi hy_vọng rằng thành_tựu này sẽ làm tiền_đề cho việc tạo ra các vật_liệu mới hoạt_động ở nhiệt_độ phòng trong tương_lai " , Kimura nói .   Nghiên_cứu đã được công_bố trên tạp_chí Nature_Communication hôm 19/11/2015 .
+Nguyễn_Thành_Minh

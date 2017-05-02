@@ -1,0 +1,14 @@
+Hack mật_khẩu i Phone , MacBook chỉ bằng một file ảnh
+Thông_tin truy_cập trên thiết_bị của Apple có_thể bị đánh_cắp thông_qua một tập_tin ảnh .
+Lỗ_hổng được phát_hiện bởi nhóm nghiên_cứu của Cisco trên các thiết_bị chạy hệ_điều_hành mà Apple xây_dựng .
+Theo đó , tin_tặc có_thể truy_cập vào dữ_liệu nội_bộ sau đó đánh_cắp mật_khẩu i Phone , iPad , máy_tính Mac ... mà chỉ cần gửi cho nạn_nhân một ảnh chứa mã độc .
+Máy_tính Mac , iPhone , iPad cần cập_nhật lên phiên_bản mới nhất để vá lỗ_hổng .
+Chuyên_gia bảo_mật của Cisco cho_biết , bằng cách gửi file ảnh định_dạng TIFF qua email hay tin nhắn đa_phương_tiện MMS , hoặc đặt trên website mà nạn_nhân có_thể truy_cập đến , phần_mềm độc_hại có_thể tự_động chạy mà không bị phát_hiện .
+Ngoài việc đánh_cắp thông_tin trên i OS , Mac OS X , tvOS và watch OS , kẻ tấn_công có_thể lợi_dụng lỗ_hổng để điều_khiển máy_tính Mac từ xa .
+Tuy_nhiên , vấn_đề này đã được Apple khắc_phục thông_qua bản cập_nhật mới nhất .
+Trên i Phone , iPad , người dùng cần nâng_cấp lên i OS 9.3.3 , máy_tính Mac là   El_Capitan 10.11.6 ,
+tvOS 9.2.2 và watch OS 2.2.2 .
+Theo TNW , lỗ_hổng trên nghe khá lạ nhưng nó tương_tự vấn_đề mà Android gặp phải khi một tỷ thiết_bị chạy hệ_điều_hành của Google có nguy_cơ bị hack chỉ bằng một bài hát .
+Xem thêm :
+>   Hàng triệu smartphone Android nhiễm phần_mềm độc_hại từ Trung_Quốc
+>   Phần_mềm thu_thập dữ_liệu cá_nhân tấn_công gần 1 triệu thiết_bị Android

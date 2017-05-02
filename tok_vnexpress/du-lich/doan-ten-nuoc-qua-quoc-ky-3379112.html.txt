@@ -1,0 +1,23 @@
+Đoán tên nước qua quốc_kỳ
+Hãy thử xem bạn biết được quốc_kỳ của bao_nhiêu nước dưới đây .
+Câu 1
+1 . Italy
+2 . Bolivia
+3 . Mexico
+Câu 2
+1 . New_Zealand
+2 . Australia
+3 . Anh
+Câu 3
+1 . Liberia
+2 . Cuba
+3 . Cộng_hòa Dominica
+Câu 4
+1 .   Qatar
+2 .   Bahrain
+3 .   Bhutan
+Câu 5
+1 . Guyana
+2 . Guiea_Bissau
+3 . Brazil
+Theo Roughguide

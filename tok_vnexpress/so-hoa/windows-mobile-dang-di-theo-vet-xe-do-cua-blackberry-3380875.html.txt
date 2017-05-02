@@ -1,0 +1,39 @@
+Windows_Mobile đang đi theo vết_xe_đổ của BlackBerry ?
+Hiện_nay , thị_phần của Windows_Mobile toàn_cầu chỉ khoảng dưới 3% , một con_số tệ_hại khi Apple và Goolge chỉ mất 2 năm để chiếm_lĩnh thị_trường với thị_phần bằng hai con_số .
+Ba_tháng cuối_cùng của năm 2010 , BlackBerry đã bán ra hơn 14,5 triệu smartphone , nhưng đó cũng là lần đạt đỉnh cuối_cùng trước khi bước vào thoái_trào .
+5 năm sau , tức ba_tháng cuối_cùng của năm 2015 , CEO John_Chen đã không_thể đưa ra con_số cho doanh_thu smartphone của mình .
+Nhưng theo các nhà_phân_tích thị_trường , sự sụt_giảm của nó đã đến mức không ngờ : khoảng 570.000 máy được bán ra .
+BlackBerry - tượng_đài một thời trong làng điện_thoại .
+Sự sụp_đổ của một thương_hiệu được coi là biểu_tượng thế_giới đã và đang là bài_học cảnh_tỉnh các hãng smartphone khác , trong đó có Microsoft .
+Đã sở_hữu nền_tảng Windows_Mobile cùng việc mua lại bộ_phận di_động của Nokia ( với giá 7,2 tỷ USD ) , nhưng có_vẻ gã khổng_lồ phần_mềm đang thất_bại .
+Tuần trước , Microsoft đã tổ_chức hội_nghị Build 2016 tại San_Francisco ( Mỹ ) .
+Đây là sự_kiện thường_niên dành cho các nhà_phát_triển và phần_mềm tự_động_hóa ( bot ) , HoloLens , Windows 10 cho máy_tính_để_bàn là những gì được công_bố .
+Vậy_Windows 10 Mobile đang ở đâu ?
+Từ khi được khai_sinh với cái tên Windows_Phone vào năm 2010 , Microsoft đã dành nhiều năm nghiên_cứu với mong_muốn sẽ đe_dọa hai nền_tảng i OS của Apple và Android của Google .
+Tuy_nhiên đến nay , theo IDC , thị_phần của nền_tảng chỉ khoảng dưới 3% - một con_số quả_thực tệ_hại , nhất_là khi nhìn qua Google và Apple chỉ mất 2 năm để chiếm_lĩnh thị_trường với tỷ_lệ % được tính bằng hai chữ_số .
+Sau những phát_biểu quan_trọng tại Build 2016 , người đứng đầu của Windows , Terry_Myerson , đã thừa_nhận rằng điện_thoại thông_minh không phải là mục_tiêu mà công_ty tập_trung vào năm 2016 .
+" Chúng_tôi khẳng_định smartphone màn_hình 4 inch sẽ được chú_trọng , nhưng không phải bây_giờ .
+Và_Windows_Phone cũng không phải là trọng_tâm để chúng_tôi tìm_kiếm khách_hàng ” , Myerson nói với The_Verge .
+Tại_Build 2016 , Microsoft công_bố smartphone sẽ   không được chú_trọng trong năm nay .
+Phát_biểu này cũng thừa_nhận ngầm rằng nền_tảng Windows cho điện_thoại đã thất_bại .
+“ Như bạn đã thấy , không hề có chiếc smartphone nào tại MWC 2016 , khác với các năm trước đó .
+Ở thời_điểm này , tôi nghĩ rằng họ nên tập_trung tối_đa cho Windows_Mobile hướng đến doanh_nghiệp .
+Đó mới là con đường mang lại thành_công , hơn là đi theo Android hay i OS vốn đã chiếm quá nhiều thị_phần ” , Jan_Dawson , Giám_đốc phân_tích tại Viện nghiên_cứu Jackdaw , nói với IBTimes .
+Không giống như i OS và Android , Windows 10 Mobile không hoàn_toàn là một hệ_sinh_thái độc_lập mà là sự kế_thừa những tinh_túy của Windows .
+Điều đó khiến nền_tảng này có_vẻ hấp_dẫn đối_với người dùng doanh_nghiệp .
+Ví_dụ , người dùng có_thể mở một ứng_dụng trên máy_tính_để_bàn chạy Windows và khi rời khỏi văn_phòng , họ có_thể tiếp_tục thao_tác trên smartphone chạy Windows_Mobile và ngược_lại .
+Khi đó , chiếc smartphone trở_thành một chiếc máy_tính với đầy_đủ chức_năng cần_thiết .
+Bên_cạnh đó , Windows 10 Mobile đang được tích_hợp sẵn hệ_thống bảo_mật doanh_nghiệp , cho_phép quản_lý ứng_dụng dễ_dàng , đặc_biệt là khả_năng tự nhận_diện và quét tất_cả các ứng_dụng nhằm ngăn_chặn phần_mềm độc_hại .
+Office 365 được phát_hành kèm với nền_tảng này là công_cụ văn_phòng không_thể bỏ_qua .
+Hơn hết , chúng_ta thấy rằng thiết_bị mới nhất của Microsoft , Lumia 650 , đang được bán trên thị_trường chủ_yếu như_là một thiết_bị nhằm vào doanh_nghiệp .
+“ Tôi tin rằng Windows 10 Mobile sẽ chinh_phục khách_hàng doanh_nghiệp bằng các tính_năng hữu_ích .
+Nó sẽ là sự thay_thế xứng_đáng cho nền_tảng BlackBerry cũ_kỹ và không được nâng_cấp ” , Daniel_Gleeson , nhà_phân_tích cao_cấp của hãng nghiên_cứu thị_trường IHS , nhận_định . " Đây thực_sự là chiến_lược tốt nhất cho Microsoft ở thời_điểm hiện_tại để biến Windows 10 Mobile thành một sản_phẩm có lợi_nhuận và bền_vững trong thời_gian dài " .
+Windows 10 sẽ dành cho khách_hàng doanh_nghiệp .
+Ở thời_điểm này , có_vẻ Microsoft đã thất_bại hoàn_toàn khi chấp_nhận mua lại Nokia .
+Tuy_nhiên , với nhiều bài_học được rút ra , hãng phần_mềm lớn nhất thế_giới đang có những bước_đi tốt hơn .
+“ Năm 2013 , khi còn tại_vị , CEO Nokia lúc đó là Steve_Balmer từng nhấn_mạnh rằng Windows_Phone sẽ chiếm 15% thị_phần vào năm 2018 .
+Tham_vọng đó chắc_chắn không_thể xảy_ra nếu căn_cứ vào tình_hình hiện_tại .
+Nhưng nếu thêm vào yếu_tố doanh_nghiệp ( bao_gồm cả Windows lẫn Office ) , Microsoft sẽ có cơ_hội thành_công cao hơn , dù thị_trường mà hãng đánh chiếm tương_đối nhỏ ” , Dawson nói .
+“ Tất_nhiên , tập_trung hoàn_toàn vào thị_trường này chưa chắc đã thành_công .
+Nhưng so với BlackBerry , Microsoft đang có tiềm_lực tài_chính , con_người cao hơn nên khả_năng hãng ‘ làm_nên chuyện ’ cũng cao hơn rất nhiều ” , Gleeson nhấn_mạnh .
+Thu_Hằng

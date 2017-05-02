@@ -1,0 +1,18 @@
+Snapdragon 820 là bộ_xử_lý smartphone mạnh nhất thế_giới
+Theo xếp_hạng của AnTuTu , thế_hệ chip mới nhất của Qualcomm cho điểm hiệu_năng cao hơn bộ_xử_lý Apple A9 dùng trên i Phone 6s hay Exynos 8890 của Samsung .
+Phần_mềm đo hiệu_năng nổi_tiếng trên smartphone AnTuTu đã đưa ra bản xếp_hạng 10 chip có kết_quả benchmark cao nhất hiện_nay .
+Đứng đầu trong danh_sách là Qualcomm_Snapdragon 820 với 136.383 điểm .
+Vi_xử_lý này được trang_bị trên LG_G5 , một_số mẫu Galaxy S7 , S7 edge hay Xiaomi_Mi 5 ...
+Thứ   hạng 10 bộ_xử_lý mạnh nhất trên smartphone theo đánh_giá của AnTuTu .
+Apple A9 đạt 132.657 điểm xếp ngay sau , đây là chip mới nhất được công_ty công_nghệ Mỹ dùng trên i Phone 6s và 6s Plus .
+Cách_biệt không quá lớn , bộ_xử_lý Exynos 8890 của Samsung ở hạng ba với 129.865 điểm .
+Nhà_sản_xuất Hàn_Quốc đã trang_bị dòng chip này cho một_số mẫu Galaxy S7 và S7 edge .
+Những vị_trí tiếp_theo lần_lượt là Kirin 950 , Exynos 7420 , Snapdragon 810 , 652 , Apple A8 , Snapdragon 650 và 808 .
+10 GPU trên smartphone có điểm AnTuTu cao nhất .
+AnTuTu cũng đưa ra đánh_giá khả_năng xử_lý đồ_họa trên các dòng chip .
+Theo đó , GPU Adreno 530 tích_hợp trên bộ_xử_lý Snapdragon 820 cho kết_quả cao nhất với 55.098 điểm .
+Ở khoảng_cách khá xa ,   PowerVR GT7600 của Apple A9 cho 39.104 điểm .
+Thứ_hạng ba thuộc về Mali-T880 MP12 trên Samsung_Exynos 8890 với 37.545 điểm .
+Thứ_hạng trên được AnTuTu tổng_hợp từ kết_quả trung_bình của các lần thử_nghiệm .
+Có_thể thấy , sau khi Snapdragon 810 không tạo được nhiều tiếng_vang , Qualcomm đã thể_hiện sự trở_lại đầy ấn_tượng với thế_hệ Snapdragon 820 .
+Đình_Nam

@@ -1,0 +1,19 @@
+' Vua đầu_bếp ' để khách tự sáng_tạo món ăn
+Thay_vì chọn tên món , khách đến nhà_hàng của Minh_Nhật ở Hà_Nội được yêu_cầu đánh_dấu vào những nguyên_liệu yêu_thích trên thực_đơn , để đầu_bếp chế_biến với thời_gian nấu không quá 2 phút .
+Vua đầu_bếp mùa thứ 2 vừa giới_thiệu một_cách thưởng_thức đồ xào mới đến thực_khách Hà_Nội .
+Mỗi thực_khách sẽ được phát một tờ thực_đơn nhỏ , trong ghi 3 nhóm nguyên_liệu để chọn .
+Bước đầu_tiên bạn sẽ chọn " nền " gồm mì , bún , miến , phở , nui .
+Tiếp đến bạn chọn thịt và rau gồm cá tôm viên hỗn_hợp , thịt gà , bạch_tuộc , thanh cua , thịt bò , cật , tim , tôm ; cải thảo , giá , cà_rốt , cà_chua , hành_tây , cải xanh , đậu , nấm .
+Cuối_cùng là nước sốt gồm sốt tiêu đen , sốt dầu hào , sốt chua_ngọt .
+Theo đó , thực_khách được trải_nghiệm cảm_giác sáng_tạo công_thức món ăn của riêng mình bằng các bước đơn_giản .
+Khách có_thể tùy_ý lựa_chọn các nguyên_liệu yêu_thích , loại_bỏ những thứ không_mấy_khi ăn và tự định_lượng được giá_cả cho món theo nhu_cầu .
+Một suất ăn tự chọn với hai loại thịt có_giá trung_bình 60.000 - 70.000 đồng .
+Chủ nhà_hàng chia_sẻ , có rất nhiều nguyên_liệu và loại sốt nhưng sau một thời_gian cân_nhắc , cô quyết_định chỉ chọn những thứ trên bởi chúng có_thể kết_hợp được với nhau .
+" Ví_dụ như sốt cà_ri không_thể ăn kèm với phở .
+Với thực_đơn này , khách có_thể thoải_mái lựa_chọn , mix các nguyên_liệu với nhau " , Vua đầu_bếp chia_sẻ .
+Thực_đơn của nhà_hàng cũng có 3 món nấu theo công_thức có sẵn của Vua đầu_bếp gồm cơm_rang pháo_hoa , mì vịt tiềm ngũ_vị và mì udon cá_hồi .
+Ngoài_ra , nhà_hàng còn có đồ_ăn kèm như canh , salad , đồ tráng_miệng gồm bánh_bao nhỏ , caramen , sữa_chua và các loại nước uống như soda , hoa_quả mix .
+' Vua đầu_bếp '   vào trổ_tài làm đồ_ăn cho khách .
+Nhà_hàng mới này có không_gian không quá lớn , nằm trong khu_vực đông dân công_sở ở Bà Triệu .
+Một điểm thú_vị ở đây là bếp được thiết_kế với không_gian mở , nằm ngay mặt_tiền của quán , cho_phép thực_khách giám_sát quy_trình chế_biến món ăn và xem đầu_bếp biểu_diễn tay_nghề .   ' Vua đầu_bếp ' mong_muốn nhà_hàng này sẽ là điểm dừng chân cho các tín_đồ của món xào đường_phố .
+Xem thêm : Quán bánh_mì của Vua đầu_bếp ở Hà_Nội

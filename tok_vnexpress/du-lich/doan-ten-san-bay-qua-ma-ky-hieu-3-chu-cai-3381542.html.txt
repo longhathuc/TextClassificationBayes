@@ -1,0 +1,25 @@
+Đoán tên sân_bay qua mã ký_hiệu 3 chữ_cái
+Thử tài hiểu_biết của bạn bằng việc đoán chính_xác tên các sân_bay trên thế_giới qua 3 chữ_cái ký_hiệu .
+Câu 1 : SFO
+1 . Sân_bay Phoenix , Arizona , Mỹ
+2 . Sân_bay San_Francisco , Mỹ
+3 . Sân_bay thành_phố Portland , bang Oregon , Mỹ
+Câu 2 : SPU
+1.St .
+Petersburg , Florida , Mỹ
+2 . Sân_bay Split , Croatia
+3 . Sân_bay Changi , Singapore
+Câu 3 : SEX
+1 . Sân_bay quốc_tế Sharm el - Sheikh , Ai_Cập
+2 . Sân_bay quốc_tế Seychelles
+3 . Sân_bay Sembach , Đức
+4 : CAT
+1 . Sân_bay đảo Mèo , Bahamas
+2 . Sân_bay quốc_tế Cape_Town , Nam_Phi
+3 . Sân_bay quốc_tế Chiang_Mai , Thái_Lan
+5 : BAL
+1 . Sân_bay Barretos , Brazil
+2 . Sân_bay Batman , Thổ_Nhĩ_Kỳ
+3 . Sân_bay Bert_Mooney , Montana , Mỹ
+Thử tài : Đoán tên nước qua quốc_kỳ
+Theo Telegraph

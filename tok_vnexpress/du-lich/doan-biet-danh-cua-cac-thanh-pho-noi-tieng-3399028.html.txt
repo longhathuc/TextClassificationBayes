@@ -1,0 +1,7 @@
+Đoán biệt_danh của các thành_phố nổi_tiếng
+Bạn có biết biệt_danh Tiểu_Paris hay Thành_phố Vàng là của địa_danh nào ?
+Windy_City - thành_phố của gió ?
+1 . Chicago
+2 . Berlin
+3 . Shanghai
+Theo Roughguides

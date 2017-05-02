@@ -1,0 +1,29 @@
+Điều gì sẽ xảy_ra nếu Mỹ bỏ tiền_mặt
+Mỹ tốn tới 200 tỷ USD để giữ tiền_mặt được lưu_thông , do_đó nằm trong nhóm đầu những quốc_gia có nhiều khả_năng bỏ dùng tiền_mặt .
+Dù thẻ_tín_dụng và trả trước được sử_dụng rất phổ_biến , thanh_toán di_động cũng đang tăng nhanh nhưng hơn 80% giao_dịch trên toàn thế_giới vẫn ở dạng tiền_mặt .
+Theo nghiên_cứu gần đây của Harvard_Business_Review và các chuyên_gia từ Đại_học Tufts , việc chuyển sang giao_dịch kỹ_thuật_số sẽ mang lại nhiều lợi_ích , do việc lưu_trữ và vận_chuyển tiền_mặt khá tốn_kém .
+Để xác_định xem quốc_gia nào sẽ hưởng lợi nhiều nhất từ việc chuyển sang thanh_toán kỹ_thuật_số , các nhà_nghiên_cứu xem_xét chi_phí sử_dụng tiền_mặt từ bốn khía_cạnh : người tiêu_dùng , doanh_nghiệp , ngân_hàng và Chính_phủ .
+Đối_với người tiêu_dùng , chi_phí bao_gồm phí ATM , phí di_chuyển tới ATM hoặc ngân_hàng để rút_tiền và nguy_cơ đánh mất tiền .
+Đối_với doanh_nghiệp , chi_phí bao_gồm phí lưu_trữ , bảo_vệ và vận_chuyển tiền_mặt tới ngân_hàng khi cần_thiết .
+Với ngân_hàng , chi_phí bao_gồm phí nạp tiền cho ATM , lưu_trữ và vận_chuyển tiền_mặt .
+Đối_với Chính_phủ , chi_phí bao_gồm phí in tiền , thâm_hụt thuế hoặc những khoản không thu được từ những giao_dịch không được ghi lại .
+Dùng tiền_mặt tốn nhiều chi_phí hơn so với sử_dụng các giao_dịch điện_tử
+Báo_cáo này cũng chỉ ra rằng Mỹ tốn tới 200 tỷ USD hàng năm để giữ tiền_mặt được lưu_thông và kết_luận những quốc_gia có nhiều khả_năng sẽ bỏ dùng tiền_mặt nhất_là Mỹ , Hà_Lan , Nhật , Đức , Pháp , Bỉ , Tây_Ban_Nha , Cộng_hòa Séc , Trung_Quốc và Brazil .
+Ngoài việc định_hướng người_dân sử_dụng ví điện_tử , Trung_Quốc còn áp phí cao cho các giao_dịch bằng tiền_mặt .
+Tuy_nhiên vẫn còn nhiều việc phải làm trước để thực_hiện hóa ý_tưởng về một xã_hội không tiền_mặt .
+Bản_thân việc chuyển_đổi này cũng khá tốn_kém bởi giao_dịch điện_tử sẽ cần tới sự hỗ_trợ của cơ_sở_hạ_tầng tiên_tiến .
+" Thay_đổi một thói_quen không phải là điều dễ .
+Nhiều người đã quen với việc mua_bán và quản_lý chi_tiêu bằng tiền_mặt " , Mark_Ranta , trưởng bộ_phận giải_pháp ngân_hàng kỹ_thuật_số tại ACI Worldwide cho_biết .
+Dù giao_dịch điện_tử mang lại sự minh_bạch trong kinh_doanh bởi chúng rất dễ theo_dõi , nhưng không phải ai cũng cho đây là điều tích_cực .
+Nhiều người chọn tiền_mặt chính bởi sự mập_mờ của nó .
+Ngoài_ra , rất nhiều giao_dịch kỹ_thuật_số phải tốn hàng giờ liền hoặc lâu hơn để thực_hiện .
+Các quốc_gia nếu muốn ngưng dùng tiền_mặt thì_phải khắc_phục được điểm này .
+Bên_cạnh đó , người dùng muốn sử_dụng ngân_hàng điện_tử cũng cần_thiết bị hỗ_trợ , chủ_yếu là smartphone .
+Xã_hội không tiền_mặt cũng nảy_sinh một_vài vấn_đề hoặc rủi_ro .
+Trong những hệ_thống tài_chính kém ổn_định , người tiêu_dùng có_thể thoải_mái với tiền_mặt hơn là giữ tiền trong ngân_hàng .
+Ngoài_ra , các công_ty thẻ_tín_dụng cũng thu phí từ giao_dịch trong giao_dịch qua thẻ của người dùng .
+Ở châu Âu cũng xuất_hiện một_số ý_kiến phản_đối khi Chính_phủ tiến_hành hạn_chế các giao_dịch bằng tiền_mặt .
+Các vấn_đề khác về an_ninh mạng có_thể xảy_ra nhưng hacker liên_tục đột_nhập vào hệ_thống thanh_toán của các cửa_hàng bán_lẻ cũng_như ngân_hàng , trộm hàng triệu USD .
+Dù_vậy , vấn_đề an_ninh cũng sẽ không ngăn_cản được quá_trình chuyển_đổi sang sử_dụng tiền điện_tử .
+Chúng_ta buộc phải đánh_đổi , chấp_nhận nguy_cơ thông_tin cá_nhân bị tiết_lộ và ăn_cắp để có_thể mua đồ trực_tuyến , đặt_hàng giao tới tận nhà hay hưởng các ưu_đãi khác từ Internet .
+Hà_Trường

@@ -1,0 +1,15 @@
+Điện_thoại lén gửi dữ_liệu về Trung_Quốc bắt_đầu được vá lỗi
+Công_ty BLU đã tung cập_nhật để chặn phần_mềm bí_mật lấy dữ_liệu người dùng , còn Huawei khẳng_định smartphone của họ không cài phần_mềm này .
+Theo các nhà bảo_mật Kryptowire , một_số điện_thoại thông_minh hiện_nay có chứa cửa hậu ( backdoor ) theo_dõi người dùng , lấy thông_tin cuộc_gọi và các nội_dung tin nhắn rồi bí_mật gửi dữ_liệu đến máy_chủ ở Trung_Quốc .
+Phần_mềm này do Shanghai_Adups_Technology viết , chạy trên hơn 700 triệu thiết_bị thông_minh .
+BLU cho_biết phía Adups đã cập_nhật ứng_dụng   để không theo_dõi người dùng , đồng_thời tung bản cập_nhật phần_mềm cho các điện_thoại của hãng .
+Trong số đó , công_ty điện_thoại BLU nói rằng đã phát_hiện backdoor lén lấy liệu trên 120.000 điện_thoại thông_minh của hãng , bao_gồm các model BLU_R1 HD , Energy X_Plus 2 ,   Advance 4.0 L2 , Neo XL và Energy_Diamond .
+Hiện phần_mềm của Adups đã tự cập_nhật và được xác_nhận không còn thu_thập hay gửi thông_tin .
+Cùng_với đó , nhà_sản_xuất BLU đã đưa ra cập_nhật phần_mềm cho các điện_thoại của hãng nhằm nâng cao bảo_mật .
+Để kiểm_tra , người dùng vào Settings > Apps rồi chọn menu Show system .
+Tìm ứng_dụng Wireless_Update ,   nếu phiên_bản của nó là 5.4 thì thiết_bị đã an_toàn , các phiên_bản khác cần liên_hệ với BLU để được hỗ_trợ .
+Theo   New_York_Times , Adups , công_ty viết ứng_dụng chứa backdoor trên , nói rằng họ là đối_tác của một_số hãng di_động khác trong đó có Huawei .
+Tuy_nhiên , Huawei khẳng_định Adups không nằm trong danh_sách các nhà_cung_cấp đã được phê_duyệt và tuyên_bố " không_bao_giờ hợp_tác kinh_doanh với họ dưới bất_kỳ hình_thức nào " .
+Xem thêm :
+> Smartphone giá rẻ lén gửi dữ_liệu người dùng về Trung_Quốc
+> Smartphone giá rẻ bí_mật gửi những gì về Trung_Quốc

@@ -1,0 +1,15 @@
+Dùng_Wi - Fi miễn_phí có_thể biến i Phone thành ' cục gạch '
+Người dùng cần nâng_cấp lên phiên_bản i OS 9.3.1 mới nhất để tránh các tin_tặc khai_thác lỗ_hổng qua việc tự kết_nối Wi-Fi .
+iPhone có_thể bị vô_hiệu_hóa nếu_không cập_nhật bản phần_mềm mới nhất .
+Trong tháng 2 vừa_qua , iPhone từng dính lỗi bị vô_hiệu_hóa chỉ bằng cách đơn_giản là đổi ngày_giờ về khoảng những năm 1970 .
+Lỗi này sau đó được khắc_phục nhưng nhiều người dùng vẫn cho rằng mình khó_lòng mắc phải lỗ_hổng được cho là " ngớ_ngẩn " này nên chủ_quan không nâng_cấp .
+Tuy_nhiên , theo Slashgear , kẻ_gian hoàn_toàn có_thể phá_hoại i Phone của bạn từ xa .
+Thông_thường , khi kết_nối vào mạng Wi-Fi nào_đó , máy sẽ lưu lại các thông_số của mạng này và tự kết_nối trong các lần sau .
+Không_chỉ vậy , máy cũng sẽ tự_động kết_nối với các các mạng có cùng tên gọi và cùng thông_số bảo_mật ( cùng mật_khẩu hoặc không có ) .
+Mạng_Wi - Fi miễn_phí khá phổ_biến tại Việt_Nam cũng_như nhiều nước trên thế_giới .
+Các hệ_thống siêu_thị , cửa_hàng dù ở các thành_phố khác_nhau nhưng cũng thường đặt tên và mật_khẩu giống nhau giúp khách_hàng không cần phải thao_tác lại .
+Tuy_nhiên , điều này cũng tiềm_ẩn nhiều rủi_ro khi kẻ_gian sử_dụng một mạng Wi-Fi giả có cùng thông_số với các mạng Wi-Fi miễn_phí phổ_biến .
+Theo hai nhà_nghiên_cứu an_ninh   Patrick_Kelly và Matt_Harringan , các thiết_bị của Apple kết_nối với máy_chủ Network_Time_Protocol để cập_nhật chính_xác thời_gian .
+Nhưng khi máy kết_nối vào một mạng Wi-Fi độc_hại , kẻ_gian sẽ " đánh_lừa " hệ_thống để khiến các máy tự cập_nhật thời_gian về những năm 1970 khiến chúng bị vô_hiệu_hóa .
+Để đảm_bảo an_toàn , người dùng cần chắc_chắn máy đã được nâng_cấp lên phiên_bản hệ_điều_hành i OS 9.3.1 hoặc mới hơn sau_này .
+Tuấn_Hưng

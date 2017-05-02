@@ -1,0 +1,13 @@
+Khách_sạn hoàn tiền phòng cho các cặp vợ_chồng ly_hôn
+Các cặp vợ_chồng sẽ được hoàn_trả tối_đa 2 đêm tiền phòng nếu ly_hôn sau một năm nghỉ tại chuỗi khách_sạn ở Thụy_Điển .
+Chuỗi khách_sạn Countryside ở Thụy_Điển vừa cho ra_mắt “ gói quà tặng ” dành cho các cặp đôi tan_vỡ .
+Theo đó , những cặp vợ_chồng đã đặt phòng ở một trong những khách_sạn của Countryside , nếu năm sau họ ly_hôn thì tiền đặt phòng sẽ được hoàn_trả .
+Chương_trình hoàn phí thuê phòng này bắt_đầu_từ cuối tháng 3 vừa_qua .
+Ảnh : Countryside_Hotels .
+Để giải_thích cho “ gói quà tặng ” này , lãnh_đạo khách_sạn cho_biết họ muốn nhấn_mạnh ý_nghĩa của việc ly_hôn khi mối quan_hệ trở_nên tồi_tệ .
+Các cặp đôi ly_hôn trong vòng một năm sau đó muốn hoàn tiền đặt phòng phải gửi đơn phán_quyết ly_dị của toà_án và mã_số đặt phòng tới chuỗi khách_sạn Countryside .
+Họ sẽ được hoàn lại tối_đa phí cho hai đêm nghỉ tại khách_sạn .
+Để có_thể hưởng “ gói quà tặng ” này , các cặp đôi phải có giấy đăng_ký kết_hôn hợp_pháp trong thời_gian nghỉ tại khách_sạn và ngủ chung phòng .
+Countryside hiện có hơn 40 khách_sạn tại Thụy_Điển , đất_nước có tỷ_lệ ly_hôn tới 50% .
+Năm 2014 có hơn 47.000 đám_cưới nhưng có tới 24.000 vụ ly_hôn .
+Theo Easy_Voyage

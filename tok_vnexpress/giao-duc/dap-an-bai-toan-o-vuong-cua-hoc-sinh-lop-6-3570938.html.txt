@@ -1,0 +1,25 @@
+Đáp_án bài_toán ' ô vuông ' của học_sinh lớp 6
+Nhiều người không_thể đưa ra câu trả_lời đúng cho bài_toán dành cho học_sinh lớp 5-6 này .
+Phải chia từng trường_hợp cẩn_thận nếu_không muốn bị nhầm_lẫn .
+Đề_bài :
+Có bao_nhiêu cặp ô vuông trong bảng 3x6 tách rời hoàn_toàn ( không có bất_kỳ một điểm hay một cạnh chung ) , ví_dụ cặp ô vuông màu xám ở hình trên ?
+Đáp_án :
+Bảng 3x6   có tổng_cộng 18 ô vuông , mỗi ô vuông sẽ ghép cặp với 17 ô vuông còn lại .
+Tuy_nhiên , mỗi cặp xuất_hiện hai lần .
+Suy ra , số cặp ô vuông ta có là
+18 x 17/2 = 153 ( cặp ) .
+Theo bài ra , các cặp ô vuông không được chung cạnh hoặc chung_đỉnh .
+Chia bài_toán làm hai trường_hợp :
+Trường_hợp 1 : Các ô vuông chung cạnh .
+- Có 6 cột chiều dọc , mỗi cột có hai cặp ô vuông chung cạnh .
+Suy ra có 6 x 2 = 12 cặp chung cạnh .
+- Có 3 hàng , mỗi hàng có 5 cặp ô vuông chung cạnh .
+Suy ra có 5 x 3 = 15 cặp chung cạnh .
+Vậy tổng_số cặp ô vuông chung cạnh là 15 + 12 = 27 ( cặp ) .
+Trường_hợp 2 : Các ô vuông chung_đỉnh và không chung cạnh .
+Có 10 đỉnh ô vuông nằm trong bảng ( không xét đỉnh nằm trên 4 cạnh của bảng vì cặp ô vuông khi đó rơi vào trường_hợp 1 ) .
+Mỗi đỉnh này có 2 cặp ô vuông chung_đỉnh và không chung cạnh .
+Suy ra số cặp ô vuông trong trường_hợp này là 10 x 2 = 20 ( cặp ) .
+Để tính số cặp ô vuông tách rời nhau hoàn_toàn , ta chỉ cần lấy tổng_số cặp ô vuông có trong bảng trừ đi số cặp ô vuông ở hai trường_hợp 1 và 2 .
+Vậy , số cặp ô vuông tách rời nhau hoàn_toàn là : 153 - 27 - 20 = 106 ( cặp ) .
+Thanh_Tâm

@@ -1,0 +1,48 @@
+Những điện_thoại pin lớn kiêm sạc dự_phòng
+Thị_trường dần phổ_biến dòng điện_thoại pin lớn , không_chỉ cho thời_gian dùng dài ngày mà có_thể được sử_dụng như pin dự_phòng sạc cho smartphone khác , kể_cả i Phone .
+Dòng sản_phẩm này khá đa_dạng khi có cả điện_thoại tính_năng cơ_bản ( feature phone ) cho tới smartphone chạy Android , với giá từ vài trăm_nghìn đồng đến vài triệu đồng .
+Để nạp pin cho máy khác , một_vài sản_phẩm tích_hợp sẵn cổng USB kích_thước tiêu_chuẩn , nhưng đa_phần đều cần jack chuyển USB_OTG .
+Philips E180 ( 790.000 đồng )
+E180 là model rẻ nhất nhờ nằm trong phân khúc điện_thoại cơ_bản .
+Với viên pin dung_lượng 3.100 mAh , thời_gian chờ của điện_thoại 2 sim này lên tới cả tháng .
+Còn tính_năng sạc pin trên E180 khá tiện_dụng khi cổng USB tiêu_chuẩn được tích_hợp sẵn ở cạnh_đáy .
+Người dùng chỉ cần cắm cáp micro USB hay Lightning để sạc cho smartphone Android hay i Phone , như cách dùng với pin dự_phòng thông_thường .
+Ảnh thực_tế Phillips E180
+Philips E330 ( 1,29 triệu đồng )
+Cũng là feature phone nhưng E330 mới và có_giá bán đắt hơn khá nhiều so với E180 .
+Mẫu của Philips có pin được tăng lên 4.050 mAh và cho thời_gian chờ về lý_thuyết lên tới 4 tháng .
+E330 cũng có_thể dùng được như pin dự_phòng để nạp điện cho smartphone khác .
+Tuy_vậy , máy cần có thêm jack chuyển cổng USB_OTG .
+Ảnh thực_tế Philips E330
+Mobiistar_Lai_Yollo ( 2,39 triệu đồng )
+So với điện_thoại cơ_bản , smartphone pin " khủng " kiêm pin dự_phòng đem tới nhiều lựa_chọn hơn .
+Lai_Yollo là model rẻ nhất , chạy Android với cấu_hình phổ_thông khi dùng chip MediaTek 4 nhân 1,3 GHz , RAM 1 GB .
+Tuy_nhiên , pin của máy lên tới 4.000 mAh và có_thể dùng để sạc lại đầy một lần pin cho phablet cỡ như Galaxy_Note 5 hay i Phone 6s Plus .
+Ảnh thực_tế Mobiistar_Lai_Yollo
+Lenovo_Vibe P1m ( 3,19 triệu đồng )
+Vibe P1m được trang_bị cấu_hình tốt hơn Lai_Yollo khi dùng chip 4 nhân 64-bit cùng_với RAM 2 GB và màn_hình IPS 5 inch chuẩn HD .
+Viên pin dung_lượng 4.000 mAh trên máy ngoài việc kéo_dài thời_gian sử_dụng còn cho_phép dùng để sạc pin cho i Phone hay smartphone Android bất_kỳ .
+Tuy_nhiên , tốc_độ sạc pin của Vibe P1m chậm khi chỉ hỗ_trợ dòng ra 0,5 A .
+Đánh_giá Lenovo_Vibe P1m
+Gionee M5 mini ( 3,3 triệu đồng )
+M5 mini có hiệu_năng và thời_lượng pin tương_đương Vibe P1m khi cũng dùng chip 4 nhân 1,3 GHz , RAM   2GB cùng_với màn_hình HD 5 inch công_nghệ IPS .
+Pin đi kèm với sản_phẩm này cũng không khác khi có dung_lượng 4.000 mAh .
+So với đối_thủ tới từ Lenovo , Gionee M5 mini cũng sạc được pin cho điện_thoại khác nhưng cho tốc_độ nhanh hơn .
+Đánh_giá Gionee M5 mini
+Asus_Zenfone_Max ( 4,49 triệu đồng )
+Với lợi_thế về kích_thước của một phablet màn_hình 5,5 inch , Zenfone_Max được trang_bị pin lên tới 5.000 mAh , gấp đôi i Phone 6s Plus của Apple .
+Thời_gian chờ lý_thuyết của sản_phẩm này lên tới hơn 1 tháng , còn thời_gian hoạt_động liên_tục 2 ngày .
+Với đầu chuyển USB_OTG , Zenfone_Max có_thể nạp pin cho smartphone như pin dự_phòng .
+Đánh_giá Asus_Zenfone_Max
+Lenovo_Vibe P1 ( 6,69 triệu đồng )
+Vibe P1 có_thể coi là viên pin dự_phòng cao_cấp nhất khi sở_hữu màn_hình Full HD 5,5 inch , cấu_hình cao chạy Android_Lollipop với chip 8 nhân 1,5 GHz .
+Thậm_chí , sản_phẩm còn được trang_bị cảm_biến vân tay và thiết_kế vỏ kim_loại nguyên khối .
+So với " đàn_em " Vibe P1m , pin của P1 lớn hơn khi có dung_lượng 5.000 mAh và thời_gian dùng tới 3 ngày .   Ngoài việc sạc cho điện_thoại khác , Vibe P1 còn có_thể dùng cáp để sao_chép hình_ảnh video hay dữ_liệu từ smartphone Android khác cũng_như i Phone
+Đánh_giá Lenovo_Vibe P1
+Outkitel K10000 ( 4,9 triệu đồng )
+Xét về dung_lượng , K10000 là smartphone có pin lớn nhất trên thị_trường khi lên tới 10.000 mAh , gấp ba lần i Phone 6s Plus hay Galaxy_Note 5 .
+Thậm_chí , 10 chiếc Outkitel K10000 được nối_ghép lại có_thể đủ điện cho một chiếc bếp lẩu đun sôi nước nấu mỳ .
+Pin lớn khiến sản_phẩm rất dày và nặng_nề .
+Bù lại , máy có khung vỏ bằng thép cứng và thiết_kế góc_cạnh trông khá giống dòng smartphone hạng sáng Vertu .
+OutKitel K10000 mới có_mặt ở Việt_Nam theo đường xách tay và phải tới tháng 6 sản_phẩm mới được phân_phối chính hãng .
+Video đun sôi nước nấu mỳ bằng Outkitel K10000

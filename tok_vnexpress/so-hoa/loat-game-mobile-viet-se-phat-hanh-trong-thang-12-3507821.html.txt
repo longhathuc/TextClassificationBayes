@@ -1,0 +1,38 @@
+Loạt game mobile Việt sẽ phát_hành trong tháng 12
+Nhiều công_ty game thường tránh việc phát_hành game vào cuối năm , nhưng trong tháng này người chơi vẫn còn không ít lựa_chọn ở các thể_loại nhập_vai và chiến_thuật .
+Tiểu lý phi_đao ( phát_hành ngày 2/12 )
+Có tên gốc là Phi_đao vấn tình , trò_chơi thẻ_bài kết_hợp yếu_tố hành_động nhập_vai có nội_dung ăn_theo câu_chuyện kiếp hiệp nổi_tiếng Trung_Quốc .
+Sử_dụng công_nghệ Unity 3D , game có đồ_họa bắt_mắt và các hiệu_ứng sống_động , các nhân_vật được thiết_kế theo phong_cách hoạt_hình ngộ_nghĩnh .
+Về cách chơi , thay_vì những nút ấn cố_định như nhiều game khác trên thị_trường , người dùng sẽ di_chuyển , né_tránh và tấn_công bằng cách lướt ngón_tay trên màn_hình cảm_ứng .
+Vua chiến_hạm ( dự_kiến phát_hành   6/12 )
+Game có đề_tài về thủy_chiến , cho_phép game thủ tiếp_xúc với rất nhiều các chủng_loại tàu_chiến và lớp tàu khác_nhau kể từ thời chiến_tranh thế_giới cho_đến hiện_tại .
+Phần_nhiều trong số này có phiên_bản thực ngoài đời .
+Trò_chơi có tên gọi khác là Clash of Battleships , từng được phát_hành tại Đức với phiên_bản Android .
+Cách chơi của game thiên về yếu_tố chiến_thuật , khám_phá và nghiên_cứu , phù_hợp với những người đam_mê vũ_khí và các phương_tiện chiến_tranh .
+TOP - Đấu_trường sinh_tử ( dự_kiến phát_hành   15/12 )
+Game thuộc thể_loại nhập_vai hành_động có đồ_họa 3D do công_ty Supreme_Games ( Hàn_Quốc ) phát_triển .
+Người chơi nhập_vai một trong ba lớp nhân_vật là chiến_binh thích_khách và phù_thủy , đại_diện cho ba thế_lực chiến_đấu chống lại cái ác .
+Game có lối chơi chặt chém ( hack & slash ) quen_thuộc , đậm chất hành_động và chiến_đấu .
+Với đồ_họa được chăm_chút , game mang lại các màn chiến_đấu đã mắt với hiệu_ứng hình_ảnh và âm_thanh đặc_sắc , phong_phú .
+Minh châu tam quốc ( dự_kiến phát_hành trong khoảng 14-20/12 )
+Game là phiên_bản nâng_cấp với đồ_họa 3D của trò_chơi cùng tên từng ra_mắt và rất thành_công tại Việt_Nam trên nền_tảng java , với lối chơi gần_như nguyên_vẹn so với phiên bản_gốc .
+Người chơi sẽ được quay trở_về thời Tam_Quốc , thời_điểm phân_tranh loạn_lạc Ngụy_Thục_Ngô với các nhân_vật tạo_dáng Chibi ( cách_điệu theo hình_tượng trẻ_con ) khá đáng yêu .
+Giang_hồ kỳ hiệp ( Dự_kiến phát_hành cuối tháng 12 )
+Trò_chơi thuộc thể_loại nhập_vai với lối chơi đánh theo lượt ( turn-based ) truyền_thống .
+Theo đó , người chơi được trải_nghiệm cuộc_chiến giữa các nhân_sĩ võ_lâm trung_nguyên và thế_lực ma_giáo tây vực .
+Game vấn mang những nét đặc_trưng như trang_bị , cường hóa , bang hội , thú nuôi … Tuy_nhiên , sản_phẩm có điểm nhấn ở hệ_thống chiến_đấu , chế_độ phụ_bản , công thành chiến và một_số tính_năng mới .
+Nền đồ_họa của trò_chơi cũng khá bắt_mắt và có độ   chi_tiết cao .
+Nhân_vật game được thiết_kế theo lối Chibi .
+Vạn vương chi vương ( Dự_kiến phát_hành trong tháng 12 )
+Đây là   game chiến_thuật đề_tài Tam_Quốc sở_hữu đồ_họa bắt_mắt , tươi_sáng .
+Lối chơi của sản_phẩm này theo hướng thẻ_bài chiến_thuật , yêu_cầu game thủ xây_dựng đội_hình hoàn_hảo để thi_đấu và xưng bá võ_lâm .
+Những nhân_vật quen_thuộc như Lưu_Bị , Tào_Tháo , Lữ_Bố ... được tạo_hình đẹp_mắt hứa_hẹn sẽ thu_hút được sự quan_tâm của đông_đảo game thủ .
+Một điểm đặc_biệt của game là những trận đấu 9vs9 , trong đó một nhóm 9 người chơi sẽ thi_đấu với 9 game thủ khác trong một trận hỗn_chiến đông_đúc .
+Tạo_hình đồ_họa nhân_vật trong game Vạn vương chi vương .
+Nhật_ký tình_yêu ( Dự_kiến phát_hành cuối tháng 12 )
+Game lấy cảm_hứng từ cốt_truyện “ xuyên không ” , cho người chơi phiêu_lưu ở thế_giới song_song với hiện_tại .
+Tràn_ngập trong đó là những bộ_cánh thời_trang cùng âm_nhạc nhẹ_nhàng bay_bổng .
+Cốt_truyện game xoay quanh câu_chuyện tình_yêu ngọt_ngào của những cặp đôi mỹ nam mỹ_nữ tuyệt_sắc .
+Các tính_năng của sản_phẩm hướng tới việc tương_tác giữa người chơi với nhau , thể_hiện qua các cảm_xúc yêu , ghét , giận_hờn , ghen_tuông . .
+Mang yếu_tố âm_nhạc và thời_trang , game thủ cũng được sáng_tạo ra những bộ quần_áo độc_đáo , trong khi lắng_nghe những bản_nhạc lãng_mạn .
+Người chơi cũng có_thể kết đôi , bói bài Tarot và tham_gia các đấu_trường thi tài_năng thiết_kế trang_phục .

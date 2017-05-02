@@ -1,0 +1,12 @@
+Microsoft từng bước khai_tử Windows 7 và Windows 8.1
+Công_ty phần_mềm Mỹ đã dừng bán Windows 8.1 và 7 cho các nhà_sản_xuất thiết_bị gốc ( OEM ) , động_thái đặt dấu_chấm hết cho hai hệ_điều_hành .
+Hai năm trước , Microsoft đã ngừng bán Windows 7 phiên_bản Home_Basic , Home_Premium và Ultimate .
+Bây_giờ , hãng tiếp_tục dừng cung_cấp Windows 7 Professional và Windows 8.1 tới các OEM như Asus , Acer , HP , Dell , Lenovo ...
+Như_vậy , sẽ không có thêm các mẫu máy_tính mới của những thương_hiệu này bán ra cài sẵn Windows 8.1 hay Windows 7 .
+Microsoft ngừng bán Windows 7 và 8 cho các nhà_sản_xuất thiết_bị gốc .
+Thông_tin được Microsoft đưa ra không quá bất_ngờ với giới công_nghệ , bởi năm 2015 công_ty đã ngừng hỗ_trợ chính với Windows 7 , nhưng sẽ tiếp_tục hỗ_trợ mở_rộng đến năm 2020 .
+Còn với Windows 8 và 8.1 , gã phần_mềm khổng_lồ sẽ kết_thúc hỗ_trợ chính vào năm 2018 và hoàn_tất hỗ_trợ mở_rộng vào năm 2023 .
+Ra_mắt lần đầu năm 2009 , Windows 7 đã đạt doanh_số bán hàng mạnh_mẽ trong_suốt bảy năm , còn với Windows 8 hay 8.1 chỉ kéo_dài bốn năm .
+Điều này phần_nào phản_ánh sức hấp_dẫn của các phiên_bản hệ_điều_hành với người dùng .
+Động_thái ngừng bán hệ_điều_hành cũ của Microsoft nhằm thúc_đẩy khách_hàng chuyển sang Windows 10 .
+Tuy_nhiên , sức tăng_trưởng của hệ_điều_hành mới nhất bị giảm kể từ khi công_ty dừng chương_trình nâng_cấp miễn_phí từ Windows 7 và Windows 8 lên Windows 10 .

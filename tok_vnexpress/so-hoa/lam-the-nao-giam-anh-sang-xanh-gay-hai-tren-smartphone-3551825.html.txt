@@ -1,0 +1,22 @@
+Làm thế_nào giảm ánh_sáng xanh gây hại trên smartphone
+Ánh_sáng xanh phát ra từ màn_hình thiết_bị điện_tử như điện_thoại , tivi ... được các nhà_khoa_học khuyến_cáo là gây ảnh_hưởng tiêu_cực đến sức_khỏe .
+Theo Tech Insider , khi tiếp_xúc nhiều với ánh_sáng xanh từ màn_hình điện_thoại vào ban_đêm , não sẽ tự_động ngưng sản_xuất melatonin - nội_tiết_tố giúp cơ_thể nhanh_chóng đi vào giấc_ngủ .
+Như_vậy , nếu càng thường_xuyên sử_dụng thiết_bị di_động về đêm , nguy_cơ rối_loạn giấc_ngủ càng tăng , khiến người dùng dễ mắc các triệu_chứng như ngủ ít , tỉnh_giấc giữa_chừng , khó ngủ , ngủ không sâu … ảnh_hưởng đến sức_khỏe .
+Nguồn : TechInsider
+Ánh_sáng màu xanh được tìm thấy ở mọi nơi và vô_tình con_người tiếp_xúc với chúng cả ngày dài .
+Máy_tính , TV , điện_thoại_di_động , máy_tính bảng , đèn LED , đèn_huỳnh_quang đều phát ra ánh_sáng màu xanh .
+Vì_vậy , vào ban_đêm , người dùng nên tắt hoàn_toàn các thiết_bị điện_tử để tránh những ảnh_hưởng tiêu_cực từ chúng .
+Hiện_nay , một_số nhà_sản_xuất điện_thoại cũng đang áp_dụng một_số biện_pháp để giúp người dùng bảo_vệ đôi mắt và giấc_ngủ .
+Chế_độ Eye_Protection của Oppo
+Hệ_điều_hành ColorOS của hãng điện_thoại đến từ Trung_Quốc có cơ_chế Eye_Protection ( màn_hình bảo_vệ mắt ) .
+Khi bật tính_năng này lên , màn_hình của máy sẽ ngả sang màu vàng hồng nhằm hạn_chế tác_hại của ánh_sáng xanh đến mắt .
+Tính_năng này cũng giúp người dùng không bị mỏi_mắt , ảnh_hưởng xấu đến võng_mạc khi sử_dụng về đêm .
+Tuy_nhiên , khi sử_dụng chế_độ này , màu_sắc trên màn_hình sẽ bị sai_lệch đôi_chút , gây khó_chịu khi xem phim , ảnh .
+Chế_độ Night_Shift của Apple
+Từ i OS 10 , Apple cũng mang tính_năng bảo_vệ mắt lên i Phone , iPad với tên gọi " Night_Shift " .
+Nguyên_lý hoạt_động tương_tự với điện_thoại Oppo khi cố_gắng loại_bỏ ánh_sáng màu xanh , giúp người dùng thoải_mái hơn khi sử_dụng máy trong thời_gian dài hoặc vào ban_đêm .
+Khi bật   Nigh_Shift , màn_hình sẽ hơi ngả sang màu vàng ( ấm hơn ) hoặc xanh ( lạnh hơn ) tuỳ theo điều_chỉnh của người dùng .
+Công_nghệ SoftBlue của Philips
+Philips khẳng_định   màn_hình áp_dụng công_nghệ SoftBlue có_thể giảm được đến 86% các bước_sóng nguy_hại của ánh_sáng xanh , tránh các tác_động tiêu_cực lên mắt và cải_thiện thị_lực .
+Khác với giải_pháp dùng phần_mềm kể trên , hãng   thay_đổi blue - chip bên trong đèn LED nền , nhờ đó   không làm thay_đổi hay suy_giảm màu_sắc tự_nhiên của màn_hình , giúp trải_nghiệm hình_ảnh được giữ nguyên_vẹn .
+Một_số điện_thoại của   Philips đã được trang_bị công_nghệ này tại Việt_Nam như     V787 và S616 .

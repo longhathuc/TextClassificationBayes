@@ -1,0 +1,27 @@
+Trí_tuệ_nhân_tạo ' chat bot ' có_mặt trên Facebook_Messenger
+Bên_cạnh trợ_lý ảo M , Facebook còn có các " bot " để cơ_quan báo_chí , doanh_nghiệp và nhà_phát_triển độc_lập ... tạo phần_mềm tự_động tương_tác thông_minh với người dùng .
+Tại sự_kiện F8 đang diễn ra ở San_Francisco ( Mỹ ) , Facebook khẳng_định , thời của trí_tuệ_nhân_tạo , của ứng_dụng tự_động đã tới .
+David_Marcus , phụ_trách Facebook_Messenger , đã công_bố nền_tảng Messenger platform - công_cụ cho_phép các chuyên_gia phát_triển toàn_cầu xây_dựng chat bot cho ứng_dụng nhắn_tin hiện có hơn 900 triệu người dùng   của Facebook .
+Bot hiện_diện trên Messenger như một người bạn , hỗ_trợ người dùng mua_sắm , đặt vé máy_bay , thậm_chí giúp họ đọc và tóm_tắt bản tin .
+Chẳng_hạn , khi Marcus bấm vào   CNN Bot , ông có_thể nói cho bot này biết mình quan_tâm đến chủ_đề gì và nó sẽ lập_tức lọc các thông_tin đó trên CNN để gửi cho ông .
+Nhờ đó , ông sẽ không mất thời_gian truy_cập mà vẫn không bỏ sót bài báo nào .
+Các bot như CNN , Spring nằm trong danh_sách bạn_bè của người dùng và tự_động phản_hồi các thắc_mắc của họ .
+Hay bot của trang thương_mại Spring tự_động hỏi người dùng muốn mua mặt_hàng nào , như giày_dép , tầm giá ... và sẽ hiển_thị hàng_loạt lựa_chọn cho họ .   " Bot hoạt_động hoàn_toàn tự_động .
+Nhiều nhân_viên Facebook đã dùng thử vài ngày qua và tốn rất nhiều tiền mua hàng " ,   Marcus tiết_lộ .   Các bot cũng ghi_nhớ và học thói_quen , sở_thích của người dùng để đưa ra các gợi_ý phù_hợp hơn trong những lần sau .
+Bên_cạnh đó , Facebook cũng đang thử_nghiệm trợ_lý ảo mang tên M , tích_hợp trong dịch_vụ Messenger tại Mỹ .
+M là một AI ( trí_tuệ_nhân_tạo ) hiểu ngôn_ngữ_tự_nhiên , đóng vai_trò như một trợ_lý thông_minh , hỗ_trợ người dùng làm mọi tác_vụ như mua hàng , gửi quà tặng , đặt chỗ nhà_hàng , lên lịch_trình đi_lại ...
+Facebook công_bố " bot builder " , cho_phép nhà_phát_triển xây_dựng các bot dành riêng cho M . Ví_dụ , nếu muốn trợ_lý M nhắc báo thời_tiết và tình_hình giao_thông buổi_sáng , họ có_thể dễ_dàng tạo một bot có chức_năng như_thế trên M .
+Với_Messenger , người dùng sẽ không cần đến những ứng_dụng ( app ) riêng_lẻ nữa mà họ có_thể thực_hiện nhiêm vụ đơn_giản qua những dòng chat , bởi các chat bot đã tích_hợp sẵn trong đó .
+" Hội_thoại tốt hơn là ứng_dụng " ,   Marcus nhấn_mạnh .
+Câu nói này cũng phản_ánh những gì mà Microsoft đang hướng đến .
+Trong sự_kiện Build hồi cuối tháng 3 , CEO Microsoft_Satya_Nadella cho rằng trí_tuệ_nhân_tạo và hội_thoại sẽ là nền_tảng lập_trình kế_tiếp .   " Chúng
+ta đang ở biên_giới nơi phải kết_nối giữa sức_mạnh của ngôn_ngữ_tự_nhiên với trí_tuệ tiên_tiến của máy_móc .
+Chúng_tôi gọi đây là Hội_thoại như một nền_tảng ( Conversations as a Platform ) " , Nadella chia_sẻ .
+Microsoft cũng hỗ_trợ các nhà_phát_triển xây_dựng chat bot tương_tự Facebook .
+nhưng hãng này mong_muốn phát_triển công_nghệ có_thể học_hỏi những điều tốt_đẹp nhất của con_người , chứ không phải những mặt xấu .
+Microsoft đề_cập đến sự_cố xảy_ra với phiên_bản chat bot thử_nghiệm của họ mang tên Tay .
+Tay là chatbot tích_hợp trí_tuệ_nhân_tạo có khả_năng trò_chuyện với người dùng Twitter thông_qua tin nhắn .
+Nó ra_đời với mục_đích đem lại trải_nghiệm vui_vẻ khi tương_tác với thanh_niên trong độ tuổi 18 - 24 ở Mỹ .   Tay bắt_đầu hoạt_động như một thiếu_niên háo_hức , nhưng rồi tình_hình nhanh_chóng xấu đi khi nó bày_tỏ sự ủng_hộ phát_xít , phủ_nhận cuộc diệt_chủng người Do_Thái , ghét người đòi bình_đẳng giới ...
+Tài_khoản Twitter của Tay đã bị Microsoft " xoá_sổ " sau chưa đầy 24 giờ xuất_hiện .
+Trước đó , hãng này cũng tạo ra Xiaoice , trợ_lý " bạn_gái " có khả_năng trò_chuyện vui_vẻ và đưa ra tư_vấn hẹn_hò cho những người cô_đơn ở Trung_Quốc .
+Châu_An

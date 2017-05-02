@@ -1,0 +1,12 @@
+Viber thêm tính_năng mã_hóa và chat ẩn
+Dịch_vụ trò_chuyện trực_tuyến Viber đã cập_nhật chức_năng mã_hóa đầu_cuối , đồng_thời thêm tùy chọn ẩn các cuộc trò_chuyện nhằm nâng cao tính riêng_tư cho người dùng .
+Đầu tháng 4 , WhatsApp bắt_đầu kích_hoạt mã_hóa đầu_cuối cho toàn_bộ người dùng và bây_giờ đối_thủ của hãng cũng cập_nhật tính_năng này .
+Hơn 700 triệu thành_viên dùng phần_mềm Viber đã có_thể cập_nhật phiên_bản mới trên App_Store và Play_Store để các cuộc trò_chuyện được bảo_vệ tốt hơn .
+Biểu_tượng cho_biết cuộc trò_chuyện trên Viber được mã_hóa đầu_cuối .
+Mã_hóa đầu_cuối giúp thông_tin chỉ có người gửi và người nhận_biết , ngay cả nhà_sản_xuất ứng_dụng cũng không_thể xem các nội_dung này .
+Theo Viber , việc triển_khai tính_năng mới sẽ được hoàn_thành trong hai tuần .
+Những cuộc trò_chuyện được mã_hóa đầu_cuối sẽ có thêm biểu_tượng ổ_khóa trong giao_diện chat .
+Cũng trong lần cập_nhật , Viber bổ_sung tính_năng chat ẩn cho_phép người dùng ẩn những cuộc trò_chuyện nhất_định trên màn_hình chính của ứng_dụng .
+Bạn có_thể cài_đặt mã pin hoặc xác_thực vân tay để mở các đoạn chat này .
+Việc áp_dụng mã_hóa đầu_cuối được các nhà_sản_xuất đưa ra sau vụ Cục Điều tra Liên_bang Mỹ ( FBI ) yêu_cầu Apple hỗ_trợ mở khóa chiếc i Phone của kẻ khủng_bố .
+Hầu_hết các công_ty và người dùng đều không ủng_hộ việc cài_đặt cổng hậu ( backdoor ) và giải_mã các thông_tin của khách_hàng .

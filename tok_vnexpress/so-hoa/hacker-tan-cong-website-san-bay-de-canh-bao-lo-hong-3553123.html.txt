@@ -1,0 +1,17 @@
+Hacker tấn_công website sân_bay để cảnh_báo lỗ_hổng
+Không nhằm mục_đích lấy cắp dữ_liệu , hacker đã để lại địa_chỉ email để quản_trị trang_web sân_bay Tân_Sơn_Nhất có_thể liên_lạc .
+22h45 ngày 8/3 , trang_web của sân_bay Tân_Sơn_Nhất ( tansonnhatairport.vn ) bất_ngờ không_thể truy_cập .
+Đến chiều 9/3 , tới lượt website của Cảng_hàng_không Rạch_Giá bị tấn_công thay_đổi giao_diện ( deface ) .
+Một_số website khác như của Cảng_Hàng không Tuy_Hòa , Cảng_hàng_không Côn_Đảo ... cũng đang tạm ngừng hoạt_động .
+Lời nhắn của hacker trên trang_web của Cảng_hàng_không Tân_Sơn_Nhất .
+Trong vụ tấn_công đầu_tiên vào web của sân_bay Tân_Sơn_Nhất , tin_tặc để lại lời nhắn trên trang rằng vụ tấn_công không phải trò_đùa mà chỉ muốn cảnh_báo về tình_trạng website có nhiều lỗ_hổng chưa được khắc_phục .
+Người này cho_biết mình có_thể thâm_nhập cả vào máy_chủ hệ_thống nhưng không làm thế , nếu cần quản_trị website có_thể liên_hệ qua địa_chỉ email được để lại trên web .   Một lãnh_đạo Cục Hàng không cũng xác_nhận hacker không đánh_cắp dữ_liệu hay phá_hoại hệ_thống thông_tin sân_bay .
+Ông Ngô_Tuấn_Anh , Phó_chủ_tịch Bkav , khẳng_định đợt tấn_công mới có bản_chất khác hoàn_toàn với sự_cố của   Vietnam_Airlines hồi tháng 7/2016 .
+Các vụ tấn_công website kể trên có hình_thức giống nhau là khai_thác lỗ_hổng web .   " Điều trùng_hợp là những trang này thuộc hệ_thống của hàng_không nên nhiều người lo_ngại lặp lại sự_cố như năm_ngoái .
+Thực_tế , số_lượng website bị tấn_công hàng ngày tại Việt_Nam rất nhiều , trung_bình hàng tháng lên tới 300 trang , trong đấy có tới khoảng 20 trang của chính_phủ " , đại_diện Bkav nhấn_mạnh .
+Ông Tuấn_Anh cho rằng , với việc tấn_công qua lỗ_hổng , việc khắc_phục khá đơn_giản là xác_định và vá lỗi .
+Còn trong vụ tấn_công vào Vietnam_Airlines cuối tháng 7/2016 , hacker sử_dụng virus cài phần_mềm gián_điệp vào máy của quản_trị , từ đó thay_đổi giao_diện website , tấn_công vào hệ_thống âm_thanh , màn_hình thông_báo tại nhà_ga .
+Các phần_mềm gián_điệp này không phải là những virus lây_nhiễm một_cách   ngẫu_nhiên vào hệ_thống mà   được phát_tán một_cách có chủ_đích ( tấn_công APT ) .
+Kết_quả phân_tích khi đó cho thấy mã độc được dùng để tấn_công hệ_thống thông_tin của Vietnam_Airlines cũng xuất_hiện tại nhiều cơ_quan , doanh_nghiệp khác .
+Sau khi xâm_nhập vào máy_tính , nó sẽ ẩn mình dưới vỏ bọc là phần_mềm diệt virus , nhờ đó có_thể nằm yên trong thời_gian dài mà không bị phát_hiện .
+Mã độc này kết_nối thường_xuyên , gửi các dữ_liệu về máy_chủ điều_khiển thông_qua tên_miền Name.dcsvn.org , trong đó Name là tên được sinh_ra theo đặc_trưng của cơ_quan , doanh_nghiệp mà mã độc nhắm tới .

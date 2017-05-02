@@ -1,0 +1,17 @@
+iMac giá hơn 4.000 USD có hiệu_năng thua xa PC cùng giá
+Trong phép thử với phần_mềm chỉnh_sửa ảnh Lightroom , mẫu i Mac thường chậm hơn từ 26% đến 114% so với máy_tính tùy chỉnh cấu_hình ngang giá .
+So_sánh giữa máy_tính Mac và Windows luôn là đề_tài nóng_bỏng .
+Chuyên_gia   Joseph_Wu của SLR Lounge đã thử so_sánh hiệu_năng giữa máy_tính Mac và PC với cùng số tiền bỏ ra .
+Các đánh_giá dựa trên Lightroom , phần_mềm chỉnh_sửa ảnh nổi_tiếng thường được các nhiếp_ảnh_gia sử_dụng .
+Máy i Mac được thử_nghiệm là loại có màn_hình 27 inch độ_phân_giải đạt chuẩn 5K Retina .
+Cấu_hình gồm chip Intel_Core i7 lõi tứ tốc_độ 4 GHz , RAM 32 GB , ổ flash 1 TB , card đồ_họa AMD Radeon R9 M395X dung_lượng 4 GB_VRAM .
+Giá bán cho sản_phẩm này là 4.431 USD ( gồm thuế tại Mỹ ) .
+Trong khi đó , mẫu máy PC được đem ra so_sánh có chip Core i 7-5960X tốc_độ 3 GHz ( ép xung lên 4,5 GHz ) giá 1.025 USD , bo_mạch Asus ROG Rampage VExtreme ( 480 USD ) , RAM 64 GB ( 350 USD ) , card đồ_họa Evga_Nvidia_Ge Force GTX 980 Ti ( 630 USD ) , ổ flash Samsung 850 Evo 1 TB ( 300 USD ) , vỏ case Corsair 450D ( 125 USD ) , nguồn Corsair AX860 ( 140 USD ) , hệ_thống làm mát chất_lỏng Corsair_Hydro H110 ( 120 USD ) , bản_quyền Windows 10 Pro ( 200 USD ) và màn_hình Eizo_Flex Scan 27 inch độ_phân_giải 2.560 x 1.440 pixel ( 1.000 USD ) .
+Tổng_số tiền là 4.370 USD .
+Joseph_Wu sử_dụng rất nhiều phép thử trên Lightroom giống các thao_tác mà người dùng sử_dụng hàng ngày .
+Ví_dụ , việc nhập 1.121 ảnh trực_tiếp từ ổ_cứng SSD trong máy thì thời_gian trên i Mac là 26,81 giây còn trên PC chỉ là 12,51 giây .
+Trong các phép thử còn lại , iMac với màn_hình 5K đều chậm hơn từ 26% đến 114% so với máy PC tự tùy biến cấu_hình .
+Các bài kiểm_tra được làm lại nhiều lần để cho ra kết_quả chính_xác nhất .
+Pye_Jirsa , người thực_hiện bài viết trên   SLR Lounge   cho_biết ông rất bất_ngờ khi cùng tham_gia quá_trình thử_nghiệm .
+" Tôi yêu sản_phẩm Apple và triết_lý thiết_kế của họ , đặc_biệt khi còn Steve_Jobs .
+Tuy nghiên , kết_quả này thực_sự gây sốc và tôi đã phải thực_hiện nhiều lần để chắc_chắn rằng nó chính_xác " ,   Jirsa kết_luận .

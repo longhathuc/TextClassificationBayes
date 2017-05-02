@@ -1,0 +1,21 @@
+iPhone thành ' cục gạch ' nếu bị can_thiệp vào phím Home
+Nhiều i Phone sửa_chữa phím Home và các thành_phần liên_quan tại các trung_tâm không được Apple ủy_quyền đã bị khóa mọi chức_năng .
+Theo   Guardian , những thiết_bị này xuất_hiện thông_báo " Error 53 " , iPhone liên_tục khởi_động lại và điểm chung là chúng đều được sửa tại các cửa_hàng không do Apple ủy_quyền .
+Trả_lời cho vấn_đề này , Apple cho_biết lỗi xuất_hiện khi người dùng tự_ý can_thiệp vào phím Home , nơi tích_hợp cảm_biến vân tay Touch ID .
+Một chiếc i Phone 6 gặp lỗi " Error 53 " .
+Cụ_thể , dữ_liệu vân tay của người dùng có một cơ_chế bảo_mật riêng_biệt , liên_kết với cảm_biến Touch ID .
+Khi phím Home trên i Phone bị can_thiệp bởi một bên thứ_ba không do Apple ủy_quyền , máy khởi_động cơ_chế kiểm_tra và nếu phát_hiện những linh_kiện không hợp_lệ sẽ khóa thiết_bị .
+Không_chỉ Touch ID và các thành_phần liên_quan trực_tiếp đến cơ_chế bảo_mật vân tay , mà ngay cả thay_thế màn_hình cũng có_thể phát_sinh lỗi tương_tự .
+Điều này nhằm đảm_bảo dữ_liệu vân tay của người dùng không bị giả_mạo , đặc_biệt khi hãng triển_khai dịch_vụ thanh_toán Apple_Pay .
+Thực_tế , những mẫu i Phone sửa_chữa ở cửa_hàng ngoài vẫn dùng bình_thường cho_đến khi máy được nâng_cấp lên i OS 9 .
+Trong khi đó , Apple không đưa ra bất_kỳ cảnh_báo nào về vấn_đề này và những người gặp lỗi " Error 53 " sẽ mất hoàn_toàn dữ_liệu .
+Một trường_hợp cụ_thể là Antonio_Olmos , làm nghề nhiếp_ảnh tự_do .
+Ông cho_biết trong một lần đi chụp ở Macedonia , quốc_gia thuộc khu_vực đông_nam châu Âu , chiếc i Phone bị rơi và hỏng .
+Tại đây không có cửa_hàng ủy_quyền nào của Apple nên Antonio_Olmos chẳng còn lựa_chọn nào khác ngoài việc sửa ở ngoài .
+Nhiều tuần sau , chiếc i Phone của ông vẫn hoạt_động bình_thường .
+Tuy_nhiên , lần máy có bản i OS mới thì ngay_lập_tức xuất_hiện thông_báo " Error 53 " , rồi i Phone liên_tục khởi_động lại .
+Khi trở_về Anh , ông tìm đến Apple_Store và các nhân_viên nói rằng ông phải trả khoảng 400 USD để thay_thế .
+Trên diễn_đàn và trang hỗ_trợ của Apple , các thành_viên đang thảo_luận sôi_nổi xung_quanh " Error 53 " .
+Nhiều người cho rằng , không phải lúc_nào khách_hàng cũng có_thể dễ_dàng tìm thấy cửa_hàng sửa_chữa do Apple ủy_quyền gần khu mình sống .
+Ý_kiến khác lại nói , sửa_chữa ở ngoài có chi_phí thấp hơn , các thủ_tục thực_hiện đơn_giản , song với động_thái này thì họ buộc phải tìm đến trung_tâm của Apple .
+Đình Namdinhnam@vnexpress.net

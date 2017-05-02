@@ -1,0 +1,22 @@
+Đoán địa_danh qua món ăn đường_phố
+Đôi_khi chỉ cần nhắc tên món ăn với hương_vị khó quên , du_khách có_thể nhớ ngay đến một miền đất mình từng đặt_chân qua .
+Cuy ( chuột_lang nướng )
+1 . Hawaii
+2 . Peru
+3 . Philippine
+Nasi_Lemak ( Cơm dừa )
+1 . Malaysia
+2 . Ấn Độ
+3 . Nepal
+Num_Sang_Khya I’ peou ( Bánh bí_ngô )
+1 . Việt_Nam
+2 . Campuchia
+3 . Lào .
+Bungeoppang ( Bánh cá )
+1 . Hàn_Quốc
+2 . Trung_Quốc
+3 . Nhật_Bản
+Masala ( Trà cay )
+1 . Myanmar
+2 . Indonesia
+3 . Ấn Độ

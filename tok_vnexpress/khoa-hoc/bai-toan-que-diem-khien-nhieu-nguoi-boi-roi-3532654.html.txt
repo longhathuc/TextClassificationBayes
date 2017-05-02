@@ -1,0 +1,9 @@
+Bài_toán que diêm khiến nhiều người bối_rối
+Bài_toán xếp hình yêu_cầu biến hai hình_tam_giác từ 6 que diêm thành 4 hình bằng cách dịch_chuyển duy_nhất hai que nhưng không phải ai cũng có_thể tìm ra ngay đáp_án .
+Bài_toán xếp hình khiến nhiều người bối_rối trích từ cuốn sách " Can_You_Solve_My_Problems ? " của Alex_Bellos , bao_gồm 125 câu_đố khó nhất trong vòng 2.000 năm qua , Sun hôm 20/1 đưa tin .
+Bài_toán cho trước 6 que diêm xếp thành hai tam_giác như hình .
+Người giải được yêu_cầu di_chuyển hai que diêm để biến chúng thành 4 tam_giác và có_thể xếp diêm chồng lên nhau .
+Xem   đáp_án
+Phiên_bản khó hơn của bài_toán yêu_cầu xếp 6 que diêm thành 4 hình_tam_giác với điều_kiện người giải không được phép xếp chồng các que diêm lên nhau .
+Xem   đáp_án
+Phương_Hoa

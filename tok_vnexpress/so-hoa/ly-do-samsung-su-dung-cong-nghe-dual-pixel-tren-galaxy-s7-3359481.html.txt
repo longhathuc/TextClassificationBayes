@@ -1,0 +1,17 @@
+Lý_do Samsung sử_dụng công_nghệ Dual_Pixel trên Galaxy S7
+Cảm_biến ảnh sử_dụng công_nghệ mới cho_phép 100% số điểm_ảnh có khả_năng lấy nét trong khi trên các dòng smartphone khác con_số này là dưới 5% .
+So_sánh công_nghệ Dual_Pixel so với PDAF thông_thường .
+Xem chi_tiết .
+Ngoài giảm độ_phân_giải để tăng kích_thước điểm_ảnh lên 56% giúp thu_nhận ánh_sáng tốt hơn , Samsung còn gây ngạc_nhiên khi_không còn sử_dụng công_nghệ lấy nét theo pha ( PDAF ) trên Galaxy S7 .
+Thay vào đó , hãng tích_hợp hệ_thống Dual_Pixel tương_tự như Canon đang dùng trên các mẫu DSLR đời_mới của hãng .
+PDAF vốn được sử_dụng trong nhiều smartphone cao_cấp hiện_nay do ưu_điểm của cơ_chế lấy nét theo pha tốt hơn nhiều so với lấy nét theo tương_phản .
+Công_nghệ này có khoảng 10% số điểm_ảnh trang_bị các   photodiode hỗ_trợ khả_năng lấy nét .
+Apple cũng đang sử_dụng công_nghệ này trên bộ đôi i Phone 6s và 6s Plus và gọi tên là Focus_Pixels .
+So_sánh công_nghệ lấy nét Dual_Pixel với PDAF thông_thường
+Với công_nghệ Dual_Pixel mới trên Galaxy S7 và S7 edge , cảm_biến ảnh khi đó sử_dụng tới hai   photodiode cho mỗi điểm_ảnh duy_nhất .
+Nhờ vậy , thay_vì chỉ có 5 đến 10% số điểm_ảnh được sử_dụng để lấy nét , cảm_biến trên bộ đôi di_động mới của Samsung sử_dụng 100% số điểm_ảnh để lấy nét .
+Hiệu_quả mang lại máy hoạt_động nhanh và chính_xác ở cả các trường_hợp có đối_tượng chuyển_động hoặc trong điều_kiện ánh_sáng yếu .
+Công_nghệ Dual_Pixel vì_vậy được đánh_giá cao hơn so với PDAF nói_chung và Focus_Pixel của Apple nói_riêng .
+Để hỗ_trợ cho cảm_biến mới , Samsung cũng tích_hợp ống_kính với độ mở lên tới f / 1.7 cho_phép máy chụp nhanh hơn và nhận ánh_sáng tốt hơn nhiều so với các mẫu smartphone thông_thường .
+Theo các đánh_giá ban_đầu của Phonearena tại MWC 2016 , quá_trình lấy nét diễn ra nhanh tới mức người dùng không_thể cảm_nhận được độ trễ khi chuyển cảnh .
+Video so_sánh khả_năng lấy nét của Galaxy S7 với Galaxy S6 :

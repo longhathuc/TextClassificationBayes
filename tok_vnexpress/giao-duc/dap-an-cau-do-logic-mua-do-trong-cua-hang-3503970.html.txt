@@ -1,0 +1,16 @@
+Đáp_án câu_đố logic mua đồ trong cửa_hàng
+Hầu_hết độc_giả không lý_giải được câu_đố logic yêu_cầu lý_giải về giá tiền hàng_hóa trong cửa_hàng .
+Bước vào cửa_hàng tạp_hóa , Rose được người bán hàng đưa bảng báo_giá :
+Mua 1 giá 10 đôla .
+Mua 10 giá 20 đôla .
+Mua 100 giá 30 đôla .
+Rose cần mua 740 mà vẫn chỉ trả 30 đôla .
+Hỏi vì_sao người bán hàng đồng_ý bán cho Rose mà vẫn có lợi_nhuận ?
+Lý_giải :
+Ở đây , chủ cửa_hàng đưa đơn_giá của các chữ_số , chẳng_hạn đó là nến số để cắm lên bánh sinh_nhật .
+Một chữ_số giá 10 đôla .
+Hai chữ_số giáo 20 đôla .
+Ba chữ_số giá 30 đôla .
+Nếu hiểu như_vậy thì số 740 bao_gồm 3 chữ_số và nó chỉ có giá_như số 100 .
+Vì_vậy số 100 có_giá 30 đôla thì số 740 cũng có_giá 30 đôla .
+Thanh_Tâm   ( theo   funthingstodowhenbored )

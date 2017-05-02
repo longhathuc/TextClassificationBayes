@@ -1,0 +1,62 @@
+Ba cách tìm đáp_án cho câu_hỏi tìm từ_đồng_nghĩa , trái_nghĩa trong tiếng Anh
+Nếu biết nghĩa của từ gạch chân và 4 đáp_án , học_sinh dễ_dàng tìm được từ_đồng_nghĩa / trái_nghĩa .
+Nếu_không biết nghĩa của từ , hãy áp_dụng 3 cách tìm đáp_án theo hướng_dẫn dưới đây .
+Từ_đồng_nghĩa / trái_nghĩa thường chiếm khoảng 5 câu trong đề thi .
+Từ được gạch chân trong dạng bài này đa_phần là từ mới , từ khó hoặc là cụm Idiom hoặc Phrasal_Verb mang tính thách_thức .
+Với dạng bài này , không biết nghĩa của từ được gạch chân là “ chuyện bình_thường ở huyện ” .
+Vì_thế , đừng quá lo_lắng khi gặp một từ lạ_hoắc mà mình chưa gặp bao_giờ .
+Học_sinh cũng cần nhớ rằng câu dài không có nghĩa_là câu khó .
+Ngược_lại một điều dễ thấy là ngoại_trừ   từ được gạch chân , hầu_hết từ còn lại rất gần_gũi , dễ hiểu nghĩa , được thiết_kế để hỗ_trợ thêm thông_tin cho việc đoán nghĩa của từ_khóa .
+Các từ gạch chân luôn được đặt trong một câu , một văn_cảnh nhất_định , mà khi phân_tích ngữ_cảnh ấy ta hoàn_toàn có manh_mối để đoán ra nghĩa của từ .
+Quan_sát kỹ các từ quan_trọng trong câu để đoán nghĩa của từ gạch chân
+Ví_dụ 1 : Tìm từ_đồng_nghĩa
+His greatest triumph was undoubtedly his achievement in training Laos ladies to win the All_Ireland senior title three years ago .
+A . failure                                         B . victory                                         C . contribution                       D . devotion
+Nếu_như không biết triumph là “ chiến_thắng ” thì dựa vào những từ_vựng lân_cận , học_sinh vẫn có_thể đoán nghĩa được nhờ các thông_tin quan_trọng bài đưa .
+Cụ_thể :
+- Tính_từ greatest ( vĩ_đại nhất , to_lớn nhẩt ) đi ngay trước triumph thể_hiện sự tích_cực của   danh_từ triumph .
+-   His greatest triumph was … chứng_tỏ thông_tin đằng sau chính là phần giải_thích trực_tiếp cho từ_khóa triumph .
+Danh_từ achievement ( thành_tích ) và động_từ win : chiến_thắng có gợi ra_điều gì không ?  
+Có chứ , chúng đều ám_chỉ sự “ chiến_thắng ” của danh_từ triumph đang được hỏi , và đáp_án chọn là B . victory có_nghĩa tương_tự .
+  Các phương_án khác : A .
+failure : thất_bại , C . contribution : sự đóng_góp .
+D . devotion : sự cống_hiến .
+Ví_dụ 2 : Tìm từ_đồng_nghĩa ( Đề thi 2015 )
+She simply took it for granted that the check was good and did not ask him any questions about it .
+A . look it over               B .
+accepted it without investigation         C .
+objected to it               D .
+permitted it
+Cụm_Idiom take it for granted ( nghĩa_là coi một điều gì đó là lẽ tất_nhiên ) có_lẽ sẽ khó hiểu đối_với nhiều học_sinh có ít vốn kiến_thức về Idioms .
+Tuy_nhiên , học_sinh có_thể đoán được nghĩa nhờ các gợi_ý trong bài : the check was good and did not ask him any questions about it sẽ trực_tiếp gợi_ý cho Idiom mà chúng_ta đang tìm nghĩa .
+“ Cô ấy đơn_giản là took it for granted   rằng tấm séc là đúng và không hỏi anh_ta bất_cứ câu_hỏi nào về nó ” sẽ đưa chúng_ta đi tới đáp_án B . accepted it without investigation ( nghĩa_là đồng_ý mà không tìm_hiểu / điều_tra gì )
+Ví_dụ 3 : Tìm từ_đồng_nghĩa
+Suddenly , it began to rain heavily , so all the summer hikers got drenched all over .
+A . very tired       B . refreshed         C . completely wet             D . cleansed
+“ Suddenly , it began to rain heavily ” đột_nhiên trời đổ mưa to nên những người đi bộ bị “ drenched ” không khó để suy_luận là họ bị C . completely wet ( ướt hết ) .
+Sử_dụng kiến_thức của bản_thân để đoán nghĩa từ
+Ví_dụ : Tìm từ_trái_nghĩa
+We have to husband our resources to make sure we make it through these hard times .
+A . spend                                         B . manage                                                           C . use up                                                               D . marry
+Husband thường được biết đến nhiều với nghĩa_là chồng ( danh_từ ) , ít người biết nó còn có_thể là động_từ với nghĩa “ tiết_kiệm , dè xẻn ” .
+Tuy_nhiên ở đây chúng_ta hoàn_toàn có_thể đoán nghĩa qua kiến_thức của bản_thân .
+Trong thời_kì hard times ( khoảng thời_gian khó_khăn ) chúng_ta phải husband các nguồn tài_nguyên , không khó để đoán được là chúng_ta phải “ tiết_kiệm ” tài_nguyên , và chọn C . use up : sử_dụng hết , làm phương_án đối nghĩa với husband
+I find it hard to work at home because there are too many   distractions .
+A . attention B . unawareness C . unconcern D . carelessness .
+Tôi thấy khó mà làm_việc ở nhà được bởi_vì có quá nhiều distractions .
+Qua kinh_nghiệm của bản_thân chúng_ta cũng dễ hiểu được rằng ở nhà có rất nhiều việc có_thể gây xao_nhãng cho công_việc : TV , điện_thoại , tiếng ồn … để khẳng_định cho những suy_đoán về distraction ( sự làm sao_nhãng ) và chọn A .
+attention ( sự tập_trung ) .
+Một_số mẹo để chọn đáp_án
+Nếu không_thể suy_luận được nghĩa của từ gạch chân để chọn ra đáp_án , học_sinh có_thể áp_dụng mẹo nhỏ sau để suy_đoán đáp_án đúng / gần đúng nhất .
+-   Với bài tìm từ đối nghĩa , nếu quan_sát thấy có 1 từ trong 4 phương_án đã cho khác nghĩa với cả 3 phương_án còn lại thì rất có_thể đó là từ cần chọn .
+Rất có_thể thôi , bởi_vì đây chỉ là một_phép suy_đoán .
+Televisions are a   standard   feature in most hotel rooms .
+A . abnormal                         B . common                                           C . customary                                         D . typical
+Chọn A . abnormal ( bất_thường ) vì đối nghĩa với cả 3 phương_án B . common ( phổ_biến ) , C . customary ( thông_lệ ) , D . typical ( đặc_trưng , tiêu_biểu ) và đối nghĩa luôn với từ gạch chân standard ( tiêu_chuẩn ) .
+-   Nếu từ đã cho là 1 từ khó thì đáp_án thường rơi vào những từ dễ hiểu chứ không hay rơi vào các phương_án là các từ mới khác .
+Tóm_lại , với dạng bài từ_đồng_nghĩa / trái_nghĩa , chúng_ta có_thể tìm ra đáp_án đúng theo 2 cách sau :
+Cách 1 : Sử_dụng các gợi_ý trong bài để đoán nghĩa từ cần tìm sau đó so_sánh nghĩa mình đoán với các phương_án đã cho_rồi lựa_chọn sát nghĩa hoặc đối nghĩa theo đề_bài .
+Cách 2 : Trực_tiếp thay_thế các phương_án đã cho lên phần gạch chân , thấy cái nào logic nhất thì chọn .
+Một lưu_ý nhỏ là rất nhiều học_sinh không đọc kỹ đề_bài hoặc không để_ý nên đã chọn phương_án đồng_nghĩa với từ được gạch chân trong khi đề_bài yêu_cầu tìm từ_trái_nghĩa .
+Đây là trường_hợp mất điểm đáng tiếc các em nên cẩn_thận để tránh .
+Cô_giáo Nguyễn_Thanh_Hương H​ ệ thống giáo_dục HOCMAI

@@ -1,0 +1,12 @@
+Lần đầu_tiên robot sinh_thái xuất_hiện trong cuộc_thi Robocon
+Robot sinh_học không có cơ_chế tự chuyển_động mà hoạt_động gián_tiếp nhờ lực tác_động bởi sức gió , từ_tính ... từ robot tự_động .
+Robocon năm nay có nhân_tố công_nghệ mới khi lần đầu_tiên các đội sẽ sử_dụng Eco_Robot , hay còn gọi_là Robot sinh_thái .
+Eco_Robot không có cơ_chế để tự chuyển_động mà hoạt_động gián_tiếp nhờ lực tác_động từ Hybrid_Robot ( Robot tự_động hoặc bán_tự_động ) như bằng sức gió , từ_tính hoặc dựa trên độ dốc của sân thi_đấu .
+Mỗi đội chơi sẽ có một Eco_Robot và một Hybrid_Robot .
+32 đội chơi năm nay đến từ nhiều trường như : Đại_học Lạc_Hồng , Cao_đẳng Nghề_Công nghệ Hà_Tĩnh , Cao_đẳng nghề Cơ_điện Hà_Nội , Đại_học Sư_phạm kỹ_thuật Hưng_Yên , Đại_học Công_nghiệp Hà_Nội , Đại_học Giao_thông vận_tải Hà_Nội ... , tuy_nhiên thiếu_vắng những đội " tên_tuổi " như Đại_học Bách_khoa Hà_Nội , Bách_khoa TP_HCM , Bách_khoa Đà_Nẵng , Học_viện Kỹ_thuật quân_sự .
+Đội vô_địch sẽ đại_diện cho Việt_Nam tham_gia Cuộc_thi sáng_tạo Robot_Châu Á - Thái_Bình_Dương 2016 tổ_chức tại Thái_Lan vào tháng 8 tới .
+Tại cuộc_thi Robocon 2015 , đội_tuyển Robocon_Hungyen_Techedu ( Đại_học Sư_phạm kỹ_thuật Hưng_Yên ) đại_diện cho Việt_Nam đã đánh_bại đội FR1 của Hong_Kong ( Trung_Quốc ) với tỷ_số 5 - 1 , mang về ngôi vô_địch trong cuộc tranh tài ABU Robocon 2015 tại Indonesia .
+Đây là năm thứ 15 cuộc_thi sáng_tạo Robot châu Á - Thái_Bình_Dương ( gọi tắt là Robocon ) được tổ_chức , dành cho sinh_viên đại_học và cao_đẳng khối kỹ_thuật các nước trong khu_vực .
+Năm 2002 , Robocon lần đầu_tiên được tổ_chức tại Tokyo ( Nhật_Bản ) với chức vô_địch thuộc về đội_tuyển Telematic của Đại_học Bách_khoa TP_HCM .
+Trải qua 14 lần tham_dự , Việt_Nam có 5 lần vô_địch , Trung_Quốc 5 lần , Nhật_Bản 2 lần và Thái_Lan 2 lần .
+Thái_Mạc

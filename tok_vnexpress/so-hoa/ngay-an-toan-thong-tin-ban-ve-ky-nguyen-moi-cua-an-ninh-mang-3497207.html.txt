@@ -1,0 +1,11 @@
+Ngày_An toàn thông_tin bàn về kỷ_nguyên mới của an_ninh mạng
+Tấn_công mạng hiện_nay đã thay_đổi cả về lượng và chất , mở ra kỷ_nguyên mới của các cuộc chiến_tranh trên không_gian số .
+Sự_kiện " Ngày ATTT Việt_Nam " , được tổ_chức vào 17/11 tại TP_HCM và 2/12 tại Hà_Nội ,   diễn ra trong bối_cảnh gia_tăng các nguy_cơ trên mạng kết_nối .
+Trong số đó có_thể kể đến hệ_thống cung_cấp điện của Ucraina bị tấn_công hồi tháng 1/2016 , hệ_thống mạng của hãng hàng_không Delta_Airline bị sập vào tháng 8/2016 , hệ_thống thông_tin của cảng sân_bay Nội_Bài và Tân_Sơn_Nhất bị gián_đoạn cuối tháng 7/2016 .   Cũng trong năm nay , chính_phủ Mỹ chính_thức tuyên_bố chiến_tranh mạng chống lại nhà_nước Hồi_giáo tự_xưng IS .
+Các chuyên_gia bảo_mật đánh_giá đây là thời_điểm bắt_đầu của một thập_kỷ mới trên không_gian mạng thay_vì thập_kỷ phá_hoại trên Internet ( những năm 90 của thế_kỷ trước ) hay thập_kỷ tội_phạm công_nghệ_cao ( những năm 2000 ) .
+" Các cuộc tấn_công mạng đã có sự thay_đổi về chất , buộc chúng_ta không_thể không phòng_vệ .
+An_toàn thông_tin ( ATTT ) đã trở_thành vấn_đề chung của toàn xã_hội " ,   ông Vũ_Quốc_Thành ,   Phó_chủ_tịch   Hiệp_hội An_toàn thông_tin Việt_Nam ( VNISA ) , nhận_định .
+Nhiều   cuộc tấn_công trên mạng hiện_nay là do chính_phủ một nước nào_đó hậu_thuẫn .
+Ngày_An toàn thông_tin Việt_Nam là sự_kiện thường_niên do VNISA ,   Cục An toàn thông_tin , Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) và Cục Công nghệ thông_tin - Bộ Quốc phòng ,   tổ_chức nhằm chia_sẻ   kinh_nghiệm , giải_pháp , công_cụ trong việc đảm_bảo ATTT cho các hệ_thống thông_tin quan_trọng .
+VNISA sẽ báo_cáo tổng_hợp kết_quả điều_tra , đánh_giá thực_trạng ATTT tại Việt_Nam và công_bố Chỉ_số ATTT Việt_Nam ( Vietnam_Information_Security_Index ) năm 2016 .
+Cũng trong khuôn_khổ sự_kiện sẽ diễn ra cuộc_thi toàn_quốc " Sinh_viên với ATTT " lần thứ 9 với sự tham_gia của   59 đội đến từ 29 trường Đại_học có khoa CNTT trên cả nước .

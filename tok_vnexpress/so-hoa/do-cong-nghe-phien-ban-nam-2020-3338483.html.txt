@@ -1,0 +1,37 @@
+Đồ công_nghệ phiên_bản năm 2020
+Màn_hình smartphone hiển_thị trên tay người dùng , TV tương_tác với bộ phim đang chiếu ... là những ý_tưởng có_thể trở_thành hiện_thực trong tương_lai .
+Ở tương_lai , điện_thoại_di_động có_thể có kích_thước nhỏ và hình_dáng tùy biến như móc chìa_khóa , vòng đeo tay , cây_bút .
+Màn_hình có_thể được trình_chiếu trên bất_kỳ bề_mặt nào và người dùng thực_hiện các thao_tác trên màn_hình ảo đó .
+Thiết_bị không thấm nước
+Máy_chiếu nhỏ sẽ gửi hình_ảnh từ điện_thoại đến bề_mặt , các bộ cảm_biến nhận_diện , tính_toán vị_trí đầu ngón_tay người dùng để “ hiểu ” các lệnh đưa ra .
+Vì_thế , người dùng có_thể gửi , nhận email , duyệt web , trả_lời cuộc_gọi và thực_hiện những chức_năng của một điện_thoại thông_minh trên bất_kỳ bề_mặt nào như trang giấy , mặt_nước , túi_xách thậm_chí cổ_tay mình .
+Tủ_lạnh giống một trung_tâm thông_tin , giải_trí
+Tủ_lạnh thông_minh trong tương_lai được trang_bị camera , người dùng không cần mở mà vẫn có_thể nhìn thấy và kiểm_tra được đồ_ăn bên trong .
+Điện_thoại cũng được kết_nối với tủ_lạnh , để trong lúc đi chợ hay siêu_thị , người dùng vẫn xem trong tủ có gì như khi đang ở nhà để kiểm_tra còn hay thiếu món nào .
+Sản_phẩm cũng có khả_năng nhắc_nhở chủ_nhân đã đến lúc bổ_sung đồ_ăn , xử_lý đồ sắp hết hạn sử_dụng , đưa ra các công_thức nấu_ăn gợi_ý .
+Tủ_lạnh cũng gửi thông_tin khuyến_mãi của các siêu_thị , giúp người dùng đặt_hàng trực_tiếp từ màn_hình tích_hợp sẵn .
+Nếu muốn nghe nhạc trong lúc làm_bếp , viết ghi_chú , lời dặn đính lên trên cửa tủ hay liên_lạc , nhắn_tin với các thành_viên khác của gia_đình , thiết_bị cũng đáp_ứng .
+Đây không hẳn là một tương_lai xa , tại Triển_lãm công_nghệ điện_tử tiêu_dùng CES 2016 , chiếc tủ_lạnh thông_minh Family_Hub của Samsung đã được trình_làng và thực_hiện được hầu_hết các mong_muốn trên .
+Tivi thông_minh ( IoT TV ) tương_tác với bộ phim đang xem
+Thời_đại của tivi thông_minh IoT ( Internet of Things ) đã đến .
+Mỗi buổi_sáng thức_dậy , tin buổi_sáng , dự_báo thời_tiết và tình_hình giao_thông sẽ có trên màn_hình TV , người dùng có_thể sử_dụng bộ_điều_khiển giọng nói của IoT TV để bật máy_điều_hòa , mở rèm cửa_sổ .
+Khi trở_về nhà từ cơ_quan , tivi và hệ_thống âm_thanh sẽ tự_động kích_hoạt , bài hát yêu_thích sẽ vang lên ...
+Truyền_hình tương_lai cũng là công_cụ giao_tiếp trong gia_đình .
+Khi các bà_mẹ nói “ Bữa tối đã sẵn_sàng ” thì hệ_thống âm_thanh của tivi sẽ báo_hiệu cho thành_viên trong gia_đình biết .
+Một tính_năng khác là tivi sẽ xác_định chương_trình người dùng đang xem và tạo ra môi_trường phù_hợp với nội_dung ấy .
+Nếu TV chiếu một bộ phim , đèn trong nhà sẽ mờ đi , âm_thanh chuyển sang chế_độ phim_ảnh khiến tiếng_động sẽ to hơn , sống_động hơn , tạo một trải_nghiệm điện_ảnh khiến người dùng có cảm_giác như họ đang “ sống ” cùng bộ phim ấy .
+Kết_thúc một ngày , khi tiếng “ Good night ” vang lên , hệ_thống âm_thanh của IoT TV sẽ tự_động tắt đèn và máy_điều_hòa sẽ chuyển sang nhiệt_độ thoải_mái cho giấc_ngủ .
+Xe_hơi thông_minh tự_động lái_xe đến đón chủ
+Không_chỉ điện_thoại , tivi , xe_hơi trong tương_lai cũng thông_minh , có_thể hiểu ông chủ muốn gì dù không thao_tác trực_tiếp trên buồng_lái .
+Theo lời của CEO Samsung BK Yoon phát_biểu tại Consumer_Electronics_Show ( CES ) 2015 ở Las_Vegas ( Mỹ ) , BMW và Samsung đã hợp_tác để đưa ra những mô_hình xe_hơi công_nghệ giúp cuộc_sống con_người trở_nên tiện_nghi hơn .
+Khi người dùng đang mắc_kẹt trong một bãi đậu xe , thay_vì phải đi bộ qua hàng dài những chiếc xe khác để tìm xe của mình , chỉ cần nói “ Xe ơi , đến đón tôi ” , xe sẽ tự_động đến đón .
+Camera , cảm_biến radar hay tia laser tích_hợp trên xe sẽ hỗ_trợ phương_tiện nhìn thấy các vật phía trước như biển_báo giao_thông , làn_đường , người đi bộ , đi xe_đạp hay các loại phương_tiện khác khác để cảnh_báo tài_xế trong trường_hợp họ buồn_ngủ hay lơ_là .
+Trong tương_lai , con_người có_thể chụp một bức ảnh sống_động như thật , lưu lại từng cử_động , chi_tiết rõ nét như_thể người trong ảnh đang ở rất gần .
+Những thiết_bị thông_minh có_thể nhận_biết mắt người dùng đang mệt_mỏi và tự điều_chỉnh ánh_sáng để nhìn rõ hơn hoặc sẽ bật một bài hát , kể câu_chuyện hài khi bạn đang buồn .
+Tương_lai smartphone và người dùng là một , điện_thoại sẽ trò_chuyện khi chủ_nhân cô_đơn , tự trả_lời cuộc_gọi khi người dùng bận ...
+Những ngôi nhà tương_lai sẽ có căn phòng duy_nhất nhưng có_thể chuyển thành phòng bếp , ngủ hay toilet chỉ bằng một nút nhấn .
+Trên thực_tế , công_nghệ ngày_nay được phát_triển dựa trên những ý_muốn nhân_văn của con_người .
+Một chiếc xe_hơi có_thể cảnh_báo vật phía trước xuất_phát từ ước_muốn giảm tai_nạn giao_thông .
+Smartphone giúp tìm đường về nhà xuất_phát từ mong_muốn giải_quyết vấn_nạn kẹt xe .
+Một tương_lai tốt_đẹp sẽ trở_thành hiện_thực nếu con_người dám nghĩ và chia_sẻ ước_mơ của mình về tương_lai .
+Thu_Ngân

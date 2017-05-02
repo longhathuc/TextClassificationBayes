@@ -1,0 +1,29 @@
+Khách_hàng của Vietnam_Airlines có_thể bị lộ thông_tin gì sau khi tin_tặc tấn_công
+Một_số khách_hàng lo_ngại thông_tin về giao_dịch , thanh_toán có_thể bị lộ sau vụ tấn_công của tin_tặc vào hệ_thống của Vietnam_Airlines , song hãng hàng_không khẳng_định những dữ_liệu này vẫn an_toàn .
+Trong danh_sách trên 400.000 tài_khoản khách_hàng thuộc chương_trình Bông sen vàng của Vietnam_Airlines bị hacker tung trên mạng ngày 29/7 không_chỉ có người Việt_Nam mà có cả khách đến từ Nga , Đức , Canada , Nhật_Bản , Hàn_Quốc ...
+Theo tìm_hiểu của VnExpress , phần_lớn trong số họ là lãnh_đạo , quản_lý cơ_quan Nhà_nước , ngân_hàng , doanh_nghiệp lớn trong nhiều lĩnh_vực ...
+Những thông_tin trong file dữ_liệu bao_gồm họ tên , ngày_sinh , địa_chỉ thường_trú , đơn_vị làm_việc , số điện_thoại , quốc_tịch , ngày tham_gia chương_trình , điểm tích_lũy , mật_khẩu tài_khoản GLP… Trong đó , địa_chỉ email của khách_hàng đã được thay_thế bằng các ký_tự xxxxx .
+Theo chuyên_gia bảo_mật Phạm_Hồng_Phúc , khi tấn_công vào website của Vietnam_Airlines , hacker đã chia_sẻ ba liên_kết dẫn đến tập_tin chứa dữ_liệu khách_hàng .
+Tài_khoản ở đây được tạo ngày 25/7 , bốn ngày_trước khi xảy_ra cuộc tấn_công .
+Do_đó , ông Phúc nhận_định , thông_tin của hơn 400.000 người có_thể đã bị tin_tặc khai_thác 4 ngày_trước khi thực_hiện hack   vào trang_web của hãng .
+Về nghi_vấn này , phía Vietnam_Airlines cho_biết , cơ_quan điều_tra   vẫn đang xác_minh và chưa có kết_luận cuối_cùng .
+Tuy_nhiên , trao_đổi với VnExpress , ông Nguyễn_Hải_Tùng -   Trưởng_ban Công_nghệ_thông_tin ( Vietnam_Airlines ) xác_nhận việc   tin_tặc tấn_công vào hệ_thống mạng Vietnam_Airlines có chủ_đích , virus xâm_nhập trước thời_điểm xảy_ra vụ_việc   một ngày .
+Ngay sau khi được cảnh_báo , hãng có một_số biện_pháp ứng_phó , ngăn_chặn virus phát_tán .
+Với các dữ_liệu của khách_hàng bị tin_tặc đánh_cắp , hãng đã cô_lập và phong_tỏa tận nguồn , phối_hợp với các đơn_vị an_ninh công_nghệ bảo_đảm an_toàn .
+Đại_diện Vietnam_Airlines cũng khẳng_định , mọi thông_tin giao_dịch và thanh_toán khách_hàng cung_cấp trong quá_trình đặt chỗ , mua vé trên website của hãng tại địa_chỉ www . vietnamairlines.com cũng được đảm_bảo an_toàn .
+Hãng đã có thông_báo đề_nghị hội_viên thay_đổi ngay mật_khẩu của tài_khoản Bông sen vàng sau khi hệ_thống được khắc_phục và đang tiếp_tục triển_khai các biện_pháp đảm_bảo lợi_ích cho khách_hàng .
+Vietnam_Airlines khẳng_định các thông_tin về giao_dịch và thanh_toán của khách_hàng vẫn an_toàn .
+Điều khách_hàng lo_lắng nhất hiện_nay là trong file dữ_liệu 400.000 khách_hàng Vietnam_Airlines hacker đăng_tải trên Internet không thấy có thông_tin thẻ_tín_dụng .
+" Tôi lo rằng thông_tin thẻ có_thể bị lấy cắp nhưng hacker không công_bố mà để sử_dụng vào mục_đích khác .
+Do_đó , tôi đã thông_báo các ngân_hàng khóa thẻ và vài ngày tới sẽ đến để làm lại thẻ " , một khách_hàng bị lộ thông_tin cho_hay .
+Vị này cũng cho_biết , ông đã nhận được email thông_báo của hãng hàng_không quốc_gia ngay sau khi xảy_ra sự_cố nên tìm cách truy_cập vào website để thay_đổi mật_khẩu tài_khoản .
+Tuy_nhiên , phải mất một ngày_sau sự_cố , ông mới truy_cập được vào hệ_thống để thay_đổi các thông_tin .
+Khách_hàng này cũng cho_biết trước đó đã liên_hệ với Vietnam_Airlines để đề_nghị hỗ_trợ khóa chức_năng giao_dịch online , đồng_thời gọi đến các ngân_hàng để thông_báo khóa thẻ_tín_dụng cũng_như thay_đổi mật_khẩu các tài_khoản thanh_toán có liên_quan .
+Ông Vũ_Ngọc_Sơn - Phó_Chủ tịch Phụ_trách mảng chống mã độc của BKAV , cũng cho rằng , những gì hacker đăng_tải công_khai trên mạng chỉ là " phần nổi " trong số dữ_liệu mà tin_tặc nắm được .
+" Việc chia_sẻ thông_tin của hơn 400.000 khách_hàng Golden_Lotus , hacker muốn cho thấy chúng đã xâm_nhập được sâu vào hệ_thống của Vietnam_Airlines thế_nào .
+Nhưng chắc_chắn chúng sẽ không đưa hết lên mạng và sẽ giữ lại các thông_tin nhạy_cảm , có_thể là thông_tin thẻ ngân_hàng , cho mục_đích riêng " .
+Dù chưa_thể kết_luận nhóm hacker có_thể lấy cắp thông_tin thẻ của hàng trăm_nghìn khách_hàng Vietnam_Airlines hay không , nhưng một_số nhà_băng đã chủ_động khoá chiều thanh_toán online của chủ thẻ từng giao_dịch với hãng hàng_không này .
+Đại_diện ngân_hàng cho_biết , sự_việc trên tiềm_ẩn rủi_ro đối_với những khách_hàng từng phát_sinh giao_dịch thanh_toán online qua website Vietnam_Airlines khi tin_tặc có_thể sử_dụng một_số dữ_liệu thu được ( nếu có ) như số thẻ , ngày đến hạn … để thực_hiện các giao_dịch giả_mạo tại một_số web thanh_toán chưa có tính_năng bảo_mật 3D Security - dịch_vụ xác_thực giao_dịch thẻ trực_tuyến quốc_tế bằng một mật_khẩu ( OTP ) .
+Bông sen vàng là chương_trình khách_hàng thường_xuyên của Vietnam_Airlines .
+Bằng cách đăng_ký chương_trình trên website , các hội_viên sẽ được cộng điểm khi thực_hiện các chuyến bay và trên hạng ghế được cộng điểm của hãng hàng_không này .
+Cùng quá_trình tích_lũy điểm cộng sau mỗi chuyến bay , các hành_khách này sẽ được nâng hạng hội_viên cũng_như tăng các ưu_đãi như sử_dụng phòng chờ hạng thương_gia , các dịch_vụ ưu_tiên tại quầy làm thủ_tục , cửa lên máy_bay , quầy nối chuyến , khu_vực an_ninh và khu_vực xuất_nhập_cảnh , được ưu_tiên chọn trước chỗ ngồi , thêm tiêu_chuẩn hành_lý miễn cước ...

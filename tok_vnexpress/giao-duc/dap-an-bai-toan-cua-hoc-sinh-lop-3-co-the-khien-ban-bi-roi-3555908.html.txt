@@ -1,0 +1,18 @@
+Đáp_án bài_toán của học_sinh lớp 3 có_thể khiến bạn bị rối
+Bài_toán trong đề thi đánh_giá năng_lực tư_duy dành cho học_sinh lớp 3-4 đã thực_sự khiến nhiều người_lớn bị rối trong việc sắp_xếp , tính_toán và đưa ra câu trả_lời .
+Học_sinh cố_định tranh lên bảng bằng nam_châm .
+Biết mỗi bức tranh cần 4 cục nam_châm gắn ở 4 góc .
+Và các bức tranh liền kề có_thể xếp chồng phần rìa lên nhau sao cho một cục nam_châm cố_định được cả hai bức tranh .
+Một ví_dụ được cho như hình , 4 bức tranh cần 9 cục nam_châm để cố_định .
+Hỏi với 10 bức tranh , học_sinh cần ít_nhất bao_nhiêu cục nam_châm để cố_định chúng ?
+Đáp_án : 18 cục nam_châm .
+Với 10 bức tranh , ta có_thể chia hai trường_hợp như sau :
+- Trường_hợp 1 : Cố_định 10 bức tranh trên một hàng ngang ( hoặc một hàng dọc ) .
+Như_vậy có 11 cạnh cần cố_định và mỗi cạnh cần hai cục nam_châm .
+Suy ra , số nam_châm cần dùng trong trường_hợp này là 11 x 2 = 22 cục .
+- Trường_hợp 2 : Cố_định thành hai hàng , mỗi hàng 5 bức tranh hoặc 5 hàng , mỗi hàng hai bức tranh .
+Như_vậy , có 6 cạnh cần cố_định , mỗi cạnh cần 3 cục nam_châm .
+Suy ra , số nam_châm cần dùng trong trường_hợp này là 6 x 3 = 18 cục .
+Đề_bài yêu_cầu tính số nam_châm cần dùng ít_nhất nên đáp_án là 18 cục nam_châm .
+> > Xem đáp_án gốc_từ cuộc_thi IMAS
+Thanh_Tâm

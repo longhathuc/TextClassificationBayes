@@ -1,0 +1,9 @@
+Câu_đố logic về những chiếc áo sơ_mi
+Câu_đố về ba người có tên giống với tên của các màu_sắc khá đơn_giản này liệu có làm_bạn rối trí ?
+Hãy xem bạn có_thể đưa ra đáp_án và lời giải_thích trong một phút hay không .
+Trong một nhà_hàng ở trung_tâm thành_phố , ông Đỏ , ông Xanh và ông Trắng gặp nhau để cùng ăn trưa .
+Ba người đang mặc ba chiếc áo sơ_mi màu đỏ , màu xanh và màu trắng .
+Ông Xanh nói : " Này , các bạn có nhận thấy chúng_ta đang mặc áo sơ_mi có màu khác với tên của chúng_ta không " ?
+Người đàn_ông mặc áo sơ_mi trắng nói : " Wow , phát_hiện của bạn rất đúng " .
+Bạn hãy đoán từng người đang mặc áo sơ_mi màu gì ?
+Thanh_Tâm ( theo Math is fun )

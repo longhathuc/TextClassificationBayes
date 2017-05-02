@@ -1,0 +1,11 @@
+' Thanh chức_năng ' trên i Phone 8 sẽ như_thế_nào
+Nút_Home luôn là đặc_điểm dễ nhận_biết trên i Phone từ thế_hệ đầu đến nay , nhưng có_thể nó sẽ không tồn_tại trên i Phone 8 mà thay bằng thanh chức_năng " function bar " .
+Nút_Home vật_lý quen_thuộc đến mức nút bấm thang_máy ở trụ_sở mới Apple_Park cũng được khẳng_định có thiết_kế tương_tự .
+Tuy_nhiên , nó chiếm diện_tích ở mặt trước , khiến viền máy dày và nếu loại_bỏ sẽ tăng không_gian hiển_thị cho thiết_bị .
+Chuyên_gia Ming-Chi Kuo của   KGI Securities cho_biết trên i Phone 8 sẽ không còn nút Home , kể_cả là nút Home cảm_ứng như trên i Phone 7 .
+Thay vào đó , Apple sẽ giới_thiệu một khu_vực cuối màn_hình OLED , gọi_là thanh chức_năng ( function bar ) .
+Phần viền dành cho nút Home vật_lý   được thay bằng màn_hình cảm_ứng để hiển_thị các ứng_dụng cùng nút Home ảo .
+Thành_viên deuxani trên diễn_đàn MacRumors chia_sẻ một_số hình_ảnh concept mô_tả ý_tưởng thanh công_cụ có_thể hoạt_động thế_nào trên i Phone 8 .
+Bên trên nút Home ảo sẽ là vị_trí cho các ứng_dụng như   Bluetooth , App_Switcher , Camera và Siri .
+Nút_Home ảo vẫn hiện rõ trên màn_hình Always-on Display .
+Trong khi đó , các thành_viên tại Tech_Driven_Times cũng có ý_tưởng riêng về i Phone 8 màn_hình siêu mỏng với thanh chức_năng có khả_năng mở khóa màn_hình , điều_chỉnh video khi đang phát ...

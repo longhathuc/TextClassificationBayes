@@ -1,0 +1,15 @@
+Mã độc tống_tiền sẽ sớm xuất_hiện trên thiết_bị đeo
+Không dừng lại ở máy_tính hay smartphone , khả_năng cao hacker sẽ dùng mã độc tống_tiền ( ransomware ) tấn_công người dùng thiết_bị đeo , thiết_bị theo_dõi sức_khỏe , tivi thông_minh …
+Cơ_quan Tội_phạm Quốc_gia Anh ( NCA – cơ_quan tương_đương FBI của Mỹ ) vừa lên_tiếng cảnh_báo về nguy_cơ đồng_hồ thông_minh , thiết_bị theo_dõi tập_thể_dục , theo_dõi sức_khỏe , tivi thông_minh … sẽ trở_thành mục_tiêu tấn_công bằng ransomware của tội_phạm mạng trong tương_lai gần .
+Những loại mã độc này từng gây " ác_mộng " cho những người dùng máy_tính , điện_thoại thông_minh bằng hình_thức mã_hóa tập_tin , khiến nạn_nhân chỉ còn cách đưa tiền chuộc mới mong lấy lại dữ_liệu .
+Thiết_bị đeo đang trở_thành mục_tiêu tấn_công tống_tiền của hacker .
+" Thiết_bị đeo , thiết_bị tiêu_dùng có kết_nối chứa một lượng lớn dữ_liệu cá_nhân , và nó có_thể là mục_tiêu của bọn tội_phạm mạng tìm cách tống_tiền người dùng bằng mã độc sắp tới " , NCA cảnh_báo .
+Theo NCA , việc đánh_cắp dữ_liệu trên thiết_bị đeo hay smart TV không có nhiều giá_trị với hacker , bởi giá bán của nó trên web đen rất thấp .
+Tuy_nhiên , dữ_liệu này sẽ có ý_nghĩa với từng người dùng , và họ sẵn_sàng bỏ tiền để chuộc lại nếu_như chúng bị khống_chế .
+Cơ_quan của Anh cũng cho rằng , việc bảo_mật trên thiết_bị đeo hay smart TV chưa cao , trong khi các nhà_sản_xuất lại đang tập_trung chủ_yếu vào phần tính_năng .
+Do_đó , việc tấn_công thiết_bị này dễ_dàng hơn nhiều , nhất_là khi chúng được kết_nối Internet , dù trực_tiếp hay gián_tiếp .
+NCA dự_báo , các cuộc tấn_công nhắm vào các thiết_bị này sẽ tăng vọt trong thời_gian tới .
+" Việc tấn_công những thiết_bị này khó_khăn hơn so với tiếp_cận một chiếc máy_tính , nhưng hacker vẫn sẽ tiếp_cận mục_tiêu bằng các cách truyền_thống , như dùng một tập_tin cài_đặt của phần_mềm phổ_biến có chèn mã độc và lừa người dùng cài_đặt chẳng_hạn " , NCA cho_biết .
+Nội_dung trên là một phần nằm trong báo_cáo bảo_mật thường_niên của NCA , Trụ_sở Truyền_thông Chính_phủ Anh ( GCHQ ) và các đối_tác an_ninh mạng trọng_điểm của Anh .
+Nguy_cơ nhiễm ransomware khi truy_cập các website khiêu_dâm :
+Bảo_Lâm ( theo IBTimes )

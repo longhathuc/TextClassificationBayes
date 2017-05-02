@@ -1,0 +1,25 @@
+Cơ_chế hoạt_động của máy_quét mống mắt trên Galaxy_Note 7
+Sử_dụng máy_quét riêng_biệt giúp Iris_Scanner có tính bảo_mật tốt hơn , tỷ_lệ nhận_diện sai ít hơn so với cảm_biến vân tay_trong khi vẫn đảm_bảo an_toàn cho mắt .
+Vị_trí của mống mắt ( iris ) trên mắt người .
+Galaxy_Note 7 ra_mắt đầu tháng này với trang_bị rất đáng chú_ý là bảo_mật bằng khả_năng quét mống mắt đầy lạ_lẫm trong làng di_động .
+Cùng một cách_thức để mở khóa là nhìn vào camera trên máy nhưng tính Iris_Scanner được đánh_giá là tính_năng hoàn_thiện hơn hẳn so với nhận_dạng khuôn_mặt dễ_dàng bị đánh_lừa trước_đây .
+Iris_Scanner là phương_pháp sinh trắc học sử_dụng nhận_dạng mẫu toán_học hình_ảnh mống mắt của một cá_nhân từ một hoặc cả hai mắt .
+Để có được những hình_ảnh này , thiết_bị sử_dụng một máy xác_thực quét mống mắt của người dùng .
+Mống mắt của người có hình_dạng giống như một chiếc nhẫn màu mỏng được mở ra và đóng lại như một màn trập của máy_ảnh , giúp điều_tiết lượng ánh_sáng tới võng_mạc .
+Mỗi người đều có một mẫu mống mắt độc_đáo khác_nhau và rất phức_tạp ở mỗi mắt .
+Mống mắt phát_triển hoàn_toàn ở độ tuổi rất trẻ và không thay_đổi trong_suốt cả đời .
+Y_học hiện_nay cũng chưa_thể tái_tạo chính_xác một mẫu mống mắt của cá_nhân bất_kỳ .
+Chính vì_vậy , quét mống mắt được coi là kỹ_thuật sinh trắc học an_toàn và đáng tin_cậy hàng_đầu hiện_nay .
+Quá_trình nhận_dạng , phân_tích , mã_hóa và lưu_trữ dữ_liệu mống mắt người dùng .
+Công_nghệ nhận_dạng mống mắt vì_vậy được sử_dụng rộng_rãi để kiểm_soát truy_cập trong pha_chế dược_phẩm , kiểm_soát an_ninh sân_bay , biên_giới ...
+Trước đó , Samsung từng đưa công_nghệ này vào Galaxy_Tab_Iris , được sử_dụng trong các tổ_chức , doanh_nghiệp nhà_nước tại Ấn Độ .
+Người dùng sử_dụng tính_năng Iris_Scanner trên Galaxy_Note 7 sẽ được mã_hóa và lưu_trữ các nhận_dạng cá_nhân .
+Khi cần mở khóa hoăc mở một ứng_dụng được bảo_vệ , các tia_hồng_ngoại IR_LED và máy_ảnh Iris sẽ chụp lại mẫu mống mắt sau đó so_sánh với các dữ_liệu đã lưu_trữ trước đó để xác_minh truy_cập .
+Note 7 sử_dụng một cảm_biến ảnh đặc_biệt để tiếp_nhận và xác_thực các hình_ảnh phản_chiếu của tròng_đen với ánh_sáng từ mắt hồng_ngoại LED .
+Hình_ảnh hồng_ngoại loại_bỏ tác_động của màu mống mắt hay tác_động ánh_sáng môi_trường xung_quanh và cho ra kết_quả chính_xác nhất .
+Vị_trí máy_ảnh Iris và đèn IR_LED trên Note 7 .
+Trong thực_tế sử_dụng Iris_Scanner không cần phải qua nhiều lần nhận_dạng và cũng ít gặp tình_trạng không_thể đọc dữ_liệu chính_xác như cảm_biến vân tay .
+Các dữ_liệu về mống mắt được mã_hóa và lưu_trữ an_toàn trong phần_cứng của nền_tảng bảo_mật Knox giống như với dữ_liệu vân tay .
+Ngoài_ra , đèn hồng_ngoại IR_LED của Galaxy_Note 7 cũng được đánh_giá là an_toàn , có chứng_chỉ từ Ủy_ban Kỹ_thuật Điện quốc_tế ( IEC ) .
+Ngoài_ra , thiết_bị cũng sẽ tự_động tắt nếu phát_hiện mắt người là quá gần hoặc đã tiếp_xúc quá lâu với cảm_biến IR_LED .
+Video tính_năng Iris_Scanner trên Galaxy_Note 7 :

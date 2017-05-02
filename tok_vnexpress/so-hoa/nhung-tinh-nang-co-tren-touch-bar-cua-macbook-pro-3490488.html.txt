@@ -1,0 +1,27 @@
+Những tính_năng có trên Touch_Bar của MacBook Pro
+Với khả_năng thay_đổi chức_năng tùy theo ngữ_cảnh , màn_hình phụ Touch_Bar có_thể hỗ_trợ phím tắt trong chỉnh_sửa ảnh , thêm biểu_tượng cảm_xúc khi chat hay tìm địa_điểm nhanh trên bản_đồ .
+Touch_Bar có_thể hỗ_trợ khả_năng chỉnh_sửa video nhanh hơn .
+Chỉnh_sửa hình_ảnh : Khi chỉnh_sửa hình_ảnh bằng Apple_Photo , Touch_Bar sẽ hiển_thị các phím như tăng giảm độ sáng , xoay , điều_chỉnh độ nghiêng , chọn nhanh bộ lọc … Người dùng có_thể chỉnh_sửa ảnh ngay cả khi ở chế_độ toàn màn_hình .
+Ngoài_ra , nó   có_thể chỉnh cỡ bút , độ sáng , màu hay gán các chức_năng hay dùng trên Photoshop .
+Chỉnh_sửa video : Trong_Final_Cut_Pro , người dùng có_thể cắt , ghép , quản_lý timeline … nhanh video chỉ bằng vài thao_tác chạm .
+Gợi_ý từ : Tương_tự tính_năng autosuggest trong i OS , Touch_Bar sẽ giúp người dùng các từ_ngữ khi họ nhập vào chữ_cái đầu_tiên .
+Chỉnh_sửa tài_liệu : Khi bật Word hay phần_mềm chỉnh_sửa tài_liệu , Touch_Bar sẽ hiển_thị các tùy chọn định_dạng như in đậm , in nghiêng , gạch dưới ...
+Theo tiết_lộ , Microsoft cũng sẽ phát_triển API cho Touch_Bar để hỗ_trợ cho Office trên Mac .
+Điều_khiển chơi nhạc : Hỗ_trợ phím chơi , tạm dừng , bài tiếp_theo , bài phía trước , tăng/giảm tốc_độ chơi nhạc …
+Thêm biểu_tượng cảm_xúc : Khi sử_dụng các ứng_dụng như Messages   hay Mail , Touch_Bar sẽ hiển_thị nhanh các biểu_tượng cảm_xúc cho người dùng lựa_chọn .
+Thậm_chí , nó còn có_thể hiểu nội_dung đang chat và đưa ra emoji gợi_ý .
+Người dùng không cần phải nhớ các ký_tự emoji , hoặc vào bảng emoji để chọn , bởi nó đã hiển_thị sẵn trên Touch_Bar khi chat .
+Duyệt web :   Khi sử_dụng Safari hoặc trình_duyệt bất_kỳ , Touch_Bar sẽ hiển_thị các nút như thêm tab mới , bắt_đầu tìm_kiếm , trang_chủ , trang trước đó .
+Quản_lý email : Trong_Mail , bạn có_thể sử_dụng Touch_Bar để tạo tin nhắn mới , trả_lời email , di_chuyển thư vào thùng rác , hoặc lưu_trữ chúng .
+Thuyết_trình :   Trong_Keynote ,   Touch_Bar có_thể hỗ_trợ điều_chỉnh nhanh hình_ảnh , định_dạng văn_bản , hoặc điều hướng slide .
+Truy_cập nhanh Siri .
+Duyệt ảnh nhanh : Bên_cạnh duyệt ảnh theo chiều ngang , Touch_Bar còn hỗ_trợ các nút yêu_thích , xóa , phóng to / thu nhỏ hình_ảnh .
+Chấp_nhận hoặc từ_chối cuộc_gọi FaceTime : Để sử_dụng tính_năng này , người dùng cần kết_nối i Phone với Macbook_Pro .
+Tìm địa_điểm trên bản_đồ : Touch_Bar sẽ hiển_thị nhanh phím tắt tìm_kiếm nhà_hàng , rạp chiếu_phim , cửa_hàng cà_phê …
+Thao_tác trên lịch : Người dùng có_thể tìm_kiếm nhanh ngày trên lịch , thêm sự_kiện …
+Hỗ_trợ mã lệnh : Touch_Bar có_thể gợi_ý các mã lệnh ( code ) cơ_bản cho Terminal và Xcode .
+Touch ID : Không xuất_hiện trên Touch_Bar nhưng nằm pử phía phải màn_hình phụ này .
+Tương_tự trên i Phone , Touch ID có_thể mở khóa nhanh thiết_bị , đăng_nhập vào tài_khoản , giao_dịch tài_chính …
+Có_thể tùy chỉnh : Touch_Bar hỗ_trợ tùy biến theo sở_thích người dùng .
+Touch_Bar dễ_dàng tùy biến theo sở_thích .
+Bảo_Lâm ( theo The_Verge ) Video :   Circuit_Breaker

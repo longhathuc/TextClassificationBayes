@@ -1,0 +1,2 @@
+Câu_đố logic cho trẻ_con khiến người_lớn phải ' đau_đầu '
+Trẻ mẫu_giáo có_thể tìm ra kết_quả của câu_đố này trong 5 hoặc 10 phút , nhưng một lập_trình_viên có_thể phải mất hàng giờ .

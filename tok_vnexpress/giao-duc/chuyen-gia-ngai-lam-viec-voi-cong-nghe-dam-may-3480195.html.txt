@@ -1,0 +1,16 @@
+Chuyên_gia ngại làm_việc với công_nghệ đám mây
+Hơn một_nửa các chuyên_gia công_nghệ_thông_tin cho rằng các ứng_dụng điện_toán đám mây khiến cho công_việc của họ trở_nên khó_khăn hơn .
+Hãng cung_cấp dịch_vụ đám mây BetterCloud ( Mỹ ) vừa công_bố báo_cáo xu_hướng công_nghệ đám mây , trong đó tập_trung nhận_định G_Suite ( ứng_dụng văn_phòng trực_tuyến của Google ) và Office 365 sẽ là yếu_tố thúc_đẩy tăng_trưởng điện_toán đám mây lai XaaS ( mọi thứ đều có_thể trở_thành dịch_vụ ) .
+Báo_cáo chỉ ra bức tranh toàn_cảnh khá triển_vọng của thị_trường , tuy_nhiên kèm theo đó là trở_ngại khi chính các chuyên_gia công_nghệ_thông_tin lại không muốn sử_dụng đám mây vì nó khiến cho họ khó xử_lý công_việc hơn .
+Scott_Solomon - Giám_đốc Tiếp_thị nội_dung tại BetterCloud nói rằng , trước_kia bộ_phận IT tại doanh_nghiệp chỉ làm_việc với một_vài nhà_cung_cấp phần_cứng và phần_mềm .
+Còn khi chuyển sang đám mây đòi_hỏi nhiều nhà_cung_cấp hơn và khó_khăn trong việc tìm người hay dịch_vụ hỗ_trợ .
+Điều này khiến các chuyên_gia công_nghệ chịu thêm áp_lực vì có những vấn_đề hay lỗi phát_sinh họ không_thể trực_tiếp xử_lý mà phải yêu_cầu hỗ_trợ từ bên cung_cấp dịch_vụ .
+Kết_quả khảo_sát còn cho thấy có đến hai_phần_ba các chuyên_gia IT lo_ngại về việc thiếu ngân_sách để giải_quyết các rủi_ro an_ninh có liên_quan đến nền_tảng đám mây .
+Dự_kiến tình_hình thâm_hụt ngân_sách vẫn còn tiếp_diễn trong năm 2017 và đây không phải là tin tốt cho các phòng_ban đảm_trách công_nghệ tại doanh_nghiệp .
+Tim_Prendergast - Giám_đốc Điều_hành của hãng bảo_mật đám mây Evident.io cho rằng , cần phải có cách nhìn mới về bảo_mật đám mây để xác_định cốt_lõi vấn_đề cần giải_quyết và tầm quan_trọng trong việc xử_lý .
+" Môi_trường đám mây về cơ_bản rất khác so với công_nghệ truyền_thống .
+Vì_thế , hệ_thống máy_chủ trung_tâm yêu_cầu cách_thức hoàn_toàn mới để quản_lý và đo_lường độ an_toàn cũng_như tính tuân_thủ trong thực_hiện " , ông Tim_Prendergast nói .
+Báo_cáo của BetterCloud dự_đoán đến năm 2020 , có đến 50% doanh_nghiệp vận_hành tất_cả cơ_sở_hạ_tầng công_nghệ_thông_tin của họ trên nền_tảng đám mây , giảm_thiểu những mô_hình công_nghệ IT truyền_thống .
+Do_vậy nếu muốn tồn_tại , các chuyên_gia công_nghệ phải thích_ứng với hoạt_động của mô_hình mới , tích_lũy kiến_thức , làm_việc cùng hàng chục nhà_cung_cấp và thực_hiện các biện_pháp phòng_tránh rủi_ro một_cách chuyên_nghiệp .
+Điều này khiến nhiều người không cảm_thấy thoải_mái trong thời_điểm chuyển_đổi hiện_tại , tuy_nhiên đây là xu_thế tất_yếu nếu_không tuân theo sẽ bị đào_thải .
+Minh_Trí

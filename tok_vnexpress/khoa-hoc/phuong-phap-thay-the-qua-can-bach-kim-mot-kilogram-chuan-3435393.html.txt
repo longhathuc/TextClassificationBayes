@@ -1,0 +1,33 @@
+Phương_pháp thay_thế quả_cân bạch_kim một kilogram chuẩn
+Những bất_tiện trong việc sử_dụng quả_cân mẫu chuẩn quốc_tế một kilogram IPK buộc các nhà_khoa_học phải tìm cách khác dễ đo_lường hơn .
+Theo Business_Insider , quả_cân IPK có dạng hình_trụ , cao 3,81 cm , làm_bằng bạch_kim .
+Hiện_nay , nó đang được đặt trong ba lồng thủy_tinh kín đồng_tâm lồng vào nhau , trong một căn hầm bên ngoài Paris để tránh bụi và những thứ khác có_thể làm sai_lệch khối_lượng .
+Mọi loại cân trên thế_giới , kể_cả đo theo đơn_vị pound , đều phải dựa theo quả_cân chuẩn này , dưới sự ủy_quyền của Hội_nghị toàn_thể về cân_đo ( CGPM ) .
+Tuy_nhiên , điều này có_thể phải thay_đổi .
+" Vấn_đề với quả_cân ở Paris là nó quá quý_giá nên mọi người không muốn sử_dụng " , Stephan_Schlamminger , một nhà_vật_lý làm_việc tại Viện_Tiêu chuẩn và Công_nghệ Mỹ ở Maryland , cho_biết .
+Ngay cả việc cầm nó bằng ngón_tay cũng sẽ để lại dầu làm thay_đổi trọng_lượng dù rất nhỏ .
+Nó rất hiếm khi được bỏ ra ngoài và không_bao_giờ được đưa tới địa_điểm khác .
+Những người quan_tâm tới độ_chính_xác của khối_lượng một kilogram , như các nhà hóa_học và vật_lý , thường sử_dụng một bản_sao của IPK để hiệu_chỉnh thiết_bị đo_lường của họ .
+Vấn_đề ở đây là khối_lượng của các bản_sao cũng khác_nhau khi so_sánh .
+Đây là lý_do vào năm 2005 , Ủy_ban Quốc_tế về cân_đo đề_nghị phải tìm ra cách khác để xác_định khối_lượng một kilogram , không gắn với một đối_tượng vật_lý cụ_thể mà với các đặc_tính cơ_bản của tự_nhiên để có_thể dễ_dàng nhân rộng trong các phòng_thí_nghiệm khắp thế_giới .
+Sau một_vài lần trì_hoãn , cộng_đồng quốc_tế các nhà đo_lường học đã quyết_định dùng lý_thuyết toán_học để định_nghĩa lại một kilogram .
+Họ sử_dụng hằng_số Planck , một đại_lượng kết_nối tần_số dao_động dưới dạng sóng của một hạt với năng_lượng của nó .
+Sử_dụng phương_trình nổi_tiếng của Albert_Einstein , E= mc2 , các nhà_khoa_học có_thể chuyển_đổi năng_lượng này thành khối_lượng .
+Nói cách khác , từ mối quan_hệ toán_học giữa tần_số hạt và trọng_lượng , họ có_thể định_nghĩa khối_lượng thông_qua tần_số hạt , thay_vì một vật cụ_thể .
+Tuy_nhiên , đây mới chỉ là lý_thuyết .
+Do hằng_số Planck rất nhỏ và chưa có một giá_trị chính_xác nên việc hoàn_thành tính_toán nói trên cần rất nhiều thời_gian .
+Trên thực_tế , các nhà_khoa_học không hy_vọng có_thể hoàn_thiện cách tính trước năm 2018 .
+Viện_Tiêu chuẩn và Công_nghệ Mỹ đã thiết_kế một thế_hệ máy_móc đặc_biệt để đo giá_trị hằng_số Planck .
+Giống như nhiều giá_trị trong vật_lý lượng_tử và thuyết_tương_đối , hằng_số Planck được đo bằng độ bất_định .
+Chiếc máy mới nhất tới nay , NIST - 4 , đã thu_thập được những dữ_liệu đầu_tiên .
+Các dữ_liệu này có_thể tính_toán giá_trị của một độ bất_định 34 phần tỷ , theo một bài báo đăng_tải trong ấn_phẩm tháng 6/2016 của tạp_chí khoa_học Review of Scientific_Instruments .
+Giá_trị này ngang bằng với độ_chính_xác của các nhóm nghiên_cứu khác .
+Họ hy_vọng rằng sau khi tinh_chỉnh lại quy_trình thí_nghiệm , có_thể giảm con_số này xuống 20 phần tỷ .
+Trên toàn_cầu , các nhà_khoa_học cũng đang cố_gắng tinh_chỉnh phép đo hằng_số này .
+Một nhóm nghiên_cứu thuộc Hội_đồng Nghiên_cứu Quốc_gia ở Canada đưa ra con_số 19 phần tỷ bằng phương_pháp tương_tự nhóm ở Maryland .
+Kết_quả từ các nhóm nghiên_cứu khác sẽ dần được công_bố trong những tháng tới .
+Sau khi tất_cả các nhóm nghiên_cứu nộp kết_quả đánh_giá của mình về hằng_số Planck , một chương_trình máy_tính sẽ sử_dụng các số_liệu này và một chương_trình thống_kê phức_tạp để đưa ra con_số tốt nhất .
+Giá_trị này sẽ được sử_dụng để định_nghĩa lại chính_xác về một kilogram .
+Ngoài đơn_vị đo khối_lượng , hơn 20 đơn_vị_đo_lường khác cũng cần được định_nghĩa lại theo , bao_gồm áp_suất , từ_tính và điện_tích - những đơn_vị dựa trên kilogram .
+Xem thêm :   7 phương_trình làm thay_đổi thế_giới
+Nguyễn_Thành_Minh

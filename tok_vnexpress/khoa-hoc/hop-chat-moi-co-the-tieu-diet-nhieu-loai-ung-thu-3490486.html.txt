@@ -1,0 +1,22 @@
+Hợp_chất mới có_thể tiêu_diệt nhiều loại ung_thư
+Phân_tử S63845 có khả_năng loại_bỏ nguồn sống của các tế_bào ung_thư , làm chậm quá_trình phát_triển bệnh nhưng không gây tác_dụng phụ .
+Các nhà_khoa_học vừa công_bố loại hợp_chất mới có tác_dụng ức_chế sự phát_triển của nhiều mẫu tế_bào ung_thư trên tạp_chí Nature hôm 19/10 , theo Science_Alert .
+Phân_tử mang tên S63845 hoạt_động bằng cách ngăn_cản protein MCL1 , protein giúp nhiều loại tế_bào ung_thư phát_triển .
+Các tế_bào ung_thư sẽ chết nếu_không có MCL1 .
+" MCL1 là protein quan_trọng đối_với nhiều loại ung_thư bởi nó là protein thúc_đẩy sự sống , giúp tế_bào ung_thư tránh khỏi quá trình_tự chết được lập_trình của   tế_bào , vốn là cơ_chế để cơ_thể   loại_bỏ tế_bào ung_thư " , Guillaume_Lessene , đến từ Viện nghiên_cứu Walter and Eliza_Hall , Australia , một thành_viên nhóm nghiên_cứu , cho_biết .
+Hệ_miễn_dịch của con_người khó tiêu_diệt tế_bào ung_thư do chúng phát_triển và lan_rộng nhanh hơn tốc_độ mà cơ_chế bảo_vệ của cơ_thể con_người có thể_theo kịp .
+Việc dùng thuốc hóa_trị hoặc xạ_trị có_thể là phương_pháp hiệu_quả để loại_bỏ tế_bào ung_thư nhưng những kỹ_thuật này thường tiêu_diệt cả tế_bào khỏe_mạnh và gây tác_dụng phụ là làm suy_nhược cơ_thể .
+Do_đó , phân_tử S63845 là một phương_pháp đầy triển_vọng bởi ngoài việc loại_bỏ nguồn sống của tế_bào ung_thư , nó có_thể được sử_dụng với liều_lượng không gây tổn_hại cho tế_bào thường .
+Phát_hiện này có_thể giúp các nhà_nghiên_cứu tìm ra cách chống lại các thể ung_thư máu như bệnh_bạch_cầu cấp_tính do tủy xương , ung_thư hạch bạch_huyết và đa u tủy xương .
+Nó cũng có_thể hỗ_trợ điều_trị các khối_u rắn , gồm u ác_tính và ung_thư phổi hay ung_thư vú .
+" Nghiên_cứu mở_rộng trên nhiều mẫu ung_thư cho thấy phân_tử S63845 tấn_công hiệu_quả vào các tế_bào ung_thư sống phụ_thuộc vào MCL1 " , Lessene nói .
+Hợp_chất này là sản_phẩm mới nhất trong dòng thuốc chống ung_thư mới mang tên BH3 minetics , nhằm vào các protein mà tế_bào ung_thư dựa vào để tránh_né và chống lại   quá trình_tự chết được lập_trình của   tế_bào .
+" BH3 minetics ức_chế một nhóm các protein gọi_là protein thúc_đẩy sự sống BCL - 2 , trong đó bao_gồm MCL1 .
+Vì_thế , việc ức_chế MCL1 sẽ kích_hoạt quá_trình   tự chết được lập_trình của   tế_bào " , Lessene giải_thích .
+Nghiên_cứu này chỉ đang ở bước cận lâm_sàng .
+Nhóm nghiên_cứu sẽ phải tiến_hành nhiều cuộc thử_nghiệm phức_tạp trước khi phát_triển nó thành loại thuốc mà bệnh_nhân có_thể sử_dụng an_toàn .
+" Phát_hiện này mở ra hy_vọng mới cho bệnh_nhân .
+Chúng_tôi cho rằng phân_tử S63845 là một loại thuốc chính_xác có_thể tấn_công vào nhân tế_bào ung_thư và làm giảm cơ_chế bảo_vệ của nó .
+Các nghiên_cứu và phát_hiện trong tương_lai có_thể giúp hợp_chất này chống lại nhiều loại ung_thư khác " , Andrew_Wei , bác sỹ chuyên_khoa huyết_học , bệnh_viện Alfred , Australia , nhận_xét .
+Xem thêm :   Cỗ máy siêu nhỏ đoạt giải Nobel hóa_học có_thể tìm diệt tế_bào ung_thư
+Hiền_Anh

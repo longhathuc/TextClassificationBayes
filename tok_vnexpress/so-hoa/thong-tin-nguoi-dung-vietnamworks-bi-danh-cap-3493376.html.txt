@@ -1,0 +1,16 @@
+Thông_tin người dùng Vietnamworks bị đánh_cắp
+Chiều 2/11 , hệ_thống Vietnamworks bị tấn_công và cơ_sở_dữ_liệu thành_viên đã bị đánh_cắp .
+Vietnamworks là một trong những mạng tuyển_dụng lớn nhất tại Việt_Nam .
+Vụ tấn_công đã khiến thông_tin đăng_nhập gồm tên tài_khoản và mật_khẩu của người dùng bị lộ .
+Vietnamworks là một trong những mạng tuyển_dụng lớn nhất tại Việt_Nam .
+Cục An toàn thông_tin thuộc Bộ Thông tin và Truyền_thông đã liên_hệ với Vietnamworks để khắc_phục sự_cố .   Ước_tính , số tài_khoản bị ảnh_hưởng có_thể lên đến hàng chục nghìn .   Đáng chú_ý , không ít mật_khẩu bị đánh_cắp ở dạng không mã_hóa .
+Đơn_vị này đã kiểm_tra ngẫu_nhiên và   nhận thấy một_số thành_viên dùng chung mật_khẩu này với tài_khoản e - mail khác như Gmail .
+Trong đó , một_số email chứa cả thông_tin nhạy_cảm như các giao_dịch ngân_hàng .
+Chuyên_gia bảo_mật Nguyễn_Hồng_Phúc cho_biết thực_chất , Vietnamworks đã bị hack và cài cắm backdoor ( cổng hậu ) sâu trong hệ_thống từ khá lâu , cho thấy mối nguy_cơ đang rình_rập tại các doanh_nghiệp , tổ_chức do tin_tặc luôn khai_thác một_cách âm_thầm .
+Vì_vậy , người dùng   có tài_khoản hoặc hồ_sơ trên Vietnamworks nên nhanh_chóng đổi mật_khẩu truy_cập , tạm_thời không sử_dụng dịch_vụ này cho tới khi sự_cố khắc_phục xong .
+Hồi tháng 8/2016 , Bkav cũng chia_sẻ , mã độc được dùng để tấn_công hệ_thống thông_tin của Vietnam_Airlines cũng xuất_hiện tại nhiều cơ_quan , doanh_nghiệp khác .
+Chúng xâm_nhập vào máy_tính và ẩn mình dưới vỏ bọc là phần_mềm diệt virus , có_thể nằm yên trong thời_gian dài mà không bị phát_hiện .
+Trong khi đó , ông Gaku_Echizenya , Giám_đốc điều_hành VietnamWorks , lại khẳng_định trang_web bị tấn_công là trang đăng_ký hội_thảo seminar . vietnamworks.com , không tích_hợp tài_khoản và cũng không nằm trong máy_chủ VietnamWorks .
+Bên_cạnh đó , trái với thông_tin từ Cục An toàn thông_tin , VietnamWorks cho_biết họ là trang dịch_vụ trực_tuyến đã tồn_tại 14 năm nên " chắc_chắn không_thể bỏ_qua khâu cơ_bản trong quá_trình bảo_mật là mã_hóa mật_khẩu " .
+Do_đó , bốn triệu người dùng trên VietnamWorks không bị ảnh_hưởng từ cuộc tấn_công ngày 2/11 .
+Sự_cố trên trang Seminar cũng đã được khắc_phục ngay trong ngày .

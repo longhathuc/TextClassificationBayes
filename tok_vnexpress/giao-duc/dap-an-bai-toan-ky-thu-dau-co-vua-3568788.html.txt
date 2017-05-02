@@ -1,0 +1,23 @@
+Đáp_án bài_toán ' kỳ_thủ đấu cờ_vua '
+Đáp_án bài_toán là 10 kỳ_thủ và không độc_giả nào đưa ra lời_giải chính_xác .
+Đề_bài :
+Một giải cờ_vua thi_đấu theo thể_thức vòng_tròn một lượt : Mỗi kỳ_thủ đều thi_đấu một ván với các kỳ_thủ còn lại .
+Tổng_kết giải người_ta thấy : Trừ 3 vị_trí cuối_cùng , các kỳ_thủ còn lại đều giành được nửa số điểm của mình từ các trận đấu với các kỳ_thủ xếp ở 3 vị_trí cuối .
+Biết mỗi trận thắng được 1 điểm , mỗi trận hòa được 1/2 điểm và mỗi trận thua được 0 điểm .
+Hỏi có bao_nhiêu kỳ_thủ đã tham_dự giải đấu .
+Hướng_dẫn giải :
+Bài_toán này dường_như quá_sức với bạn_đọc nên rất ít bình_luận và không bạn nào đưa ra lời_giải đúng .
+Xin gửi đến bạn_đọc lời_giải của thầy_giáo Nguyễn_Đức_Tấn đến từ TPHCM và cũng là đáp_án .
+Gọi số kỳ_thủ tham_dự giải đấu cờ_vua là n với n nguyên dương lớn hơn 3 thì tổng_số ván đấu trong giải là n ( n – 1 ) / 2 .
+Do mỗi ván cờ_vua luôn mang lại tổng_số điểm cho 2 kỳ_thủ 1 điểm nên khi kết_thúc giải thì tổng_số điểm của các kỳ_thủ cũng là n ( n – 1 ) / 2 ( 1 )
+Mặt_khác từ giả_thiết suy ra có_thể tính tổng_số điểm theo cách thứ_hai :
+- Ba ván chơi của 3 kỳ_thủ cuối_cùng với nhau có tổng điểm 3 ván là 3 .
+- Trong ( n - 3 ) kỳ_thủ xếp trên 3 kỳ_thủ cuối khi thi_đấu vòng_tròn 1 lượt với nhau có tổng_số điểm là ( n – 3 ) ( n – 4 ) / 2
+- Do ( n - 3 ) kỳ_thủ còn lại đều giành được nửa số điểm của mình từ các trận đấu với 3 kỳ_thủ xếp ở vị_trí cuối nên tổng_số điểm của ( n – 3 ) kỳ_thủ còn lại với 3 kỳ_thủ ở vị_trí cuối cũng là ( n – 3 ) ( n – 4 ) / 2
+Như_thế theo cách tính thứ_hai thì tổng_số điểm của tất_cả kỳ_thủ là
+3 + ( n – 3 ) ( n – 4 ) ( 2 )
+Từ ( 1 ) và ( 2 ) ta có phương_trình 3 + ( n – 3 ) ( n – 4 ) = n ( n – 1 ) / 2 .
+Biến_đổi phương_trình ta nhận được ( n – 3 ) ( n – 10 ) = 0
+Do n nguyên dương lớn hơn 3 nên n = 10
+Đáp_án : 10 kỳ_thủ
+Nguyễn_Đức_Tấn

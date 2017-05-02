@@ -1,0 +1,10 @@
+App_Store cho_phép thanh_toán ứng_dụng bằng tiền Việt
+Trong tháng 12/2016 , Apple sẽ hỗ_trợ người dùng mua ứng_dụng trên App_Store trực_tiếp bằng tiền VND , thay_vì phải sử_dụng USD như trước .
+Apple đã cho_phép sử_dụng tiền đồng   Việt_Nam để thanh_toán ứng_dụng trên App_Store .
+Chính_sách   thanh_toán bằng đồng nội_tệ   được áp_dụng cho 9 quốc_gia bắt_đầu_từ tuần này , gồm Việt_Nam ( VND ) , Ai_Cập ( Pound_Ai_Cập ) , Kazakhstan ( Tenge ) , Malaysia ( Ringgit ) , Nigeria ( Naira ) , Pakistan ( Rupee ) , Philippines ( Peso ) , Qatar ( Riyal ) và Tanzania ( Shilling ) .
+Việc mua hàng trong ứng_dụng ( in-app purchase ) cũng sẽ được quy_đổi ra tỷ_giá tiền_tệ của 9 quốc_gia trên .
+Kể từ tháng 12 , nhà_phát_triển ứng_dụng bản_địa cũng sẽ được thanh_toán bằng đồng nội_tệ thay_vì tiền USD như trước .
+Apple đã gửi thông_báo đến các nhà_phát_triển về thay_đổi này .
+Theo Mac Rumors , động_thái của Apple nhằm tăng doanh_thu cho App_Store , bởi trước_đây , việc thanh_toán bằng USD khiến không ít người dùng gặp khó_khăn .
+Tuy_nhiên , người dùng cũng sẽ phải phụ_thuộc vào biến_động giá của đồng_tiền này .
+Bảo_Lâm

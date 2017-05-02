@@ -1,0 +1,29 @@
+' Đốt tiền ' viết ứng_dụng chat cho Pokemon_Go
+Phần_mềm GoChat , thu_hút một_triệu lượt tải chỉ trong năm ngày , nhưng lại khiến người xây_dựng nó sắp rơi vào tình_trạng " cháy_túi " .
+Jonathan_Zarra , nhà_lập_trình tự_do 28 tuổi , đã sớm được chơi Pokemon_Go khi game này còn trong giai_đoạn thử_nghiệm .
+Khi tiếp_cận , ông thấy trò_chơi thiếu tính_năng chat để những người trong game có_thể liên_lạc với nhau .
+Bởi_vậy , Zarra đã xây dụng GoChat , ứng_dụng độc_lập cho_phép những người chơi Pokemon_Go đánh_dấu và chia_sẻ vị_trí trong game .
+Giao_diện GoChat .
+" Đây là tính_năng thật_sự cần_thiết " , Zarra nói .
+" Điều này đặc_biệt có ý_nghĩa với một tựa game xây_dựng trên nền_tảng địa_điểm " .
+Bằng tầm nhìn đó , GoChat đã thu_hút một_triệu người sử_dụng chỉ trong 5 ngày và 600 lượt yêu_cầu mỗi giây .
+Tuy_nhiên , sự thành_công ngoài sức mong_đợi có_thể khiến nhà_lập_trình trẻ " rỗng túi " .
+GoChat được phát_hành trên i OS và Android vào ngày 4/7 , một hôm trước khi Pokemon_Go chính_thức đến tay người chơi .
+Zarra đã chia_sẻ ứng_dụng của mình lên diễn_đàn Reddit và ngay ngày đầu_tiên đã thu_hút 10.000 lượt tải về .
+Khi_Pokemon_Go trở_thành hiện_tượng toàn_cầu , lượng người download GoChat tăng lên " chóng_mặt " và thuộc top 10 ứng_dụng được tìm_kiếm hàng_đầu trên App_Store .
+Chủ_nhân của phần_mềm cho_biết : " lượng trao_đổi thông_tin mà chúng_tôi nhận được thật không_tưởng " .
+Thậm_chí , máy_chủ của GoChat đã không_thể đăng_ký tài_khoản mới trong một thời_gian .
+Ngay cả khi đăng_nhập thì ứng_dụng cũng xảy_ra hiện_tượng treo và rất khó để chia_sẻ các thông_điệp .
+Theo ước_tính của Sensor_Tower , trong số 7,5 triệu lượt tải Pokemon_Go thì_có 10% người cài thêm ứng_dụng trò_chuyện của bên thứ_ba .
+Pokemon_Go trở_thành hiện_tượng   làng game di_động thời_gian gần đây .
+GoChat trở_thành hiện_tượng không kém Pokemon_Go , nhưng nó không giúp đem lại bất_kỳ nguồn thu nào .
+Ông chủ của ứng_dụng này từ_chối đưa quảng_cáo lên bởi ông ghét điều này , đồng_thời lo_ngại các vấn_đề pháp_lý .
+Zarra cho_biết đang làm_việc với các nhà_đầu_tư nhưng từ_chối tiêt lộ đã " đổ " bao_nhiêu tiền vào GoChat .
+" Tôi không muốn mọi người biết là mình đã ngu_ngốc đến mức nào " , ông nói .
+Zarra đã thuê một đơn_vị để phát_hành ứng_dụng trên nền_tảng i OS và giải_quyết các vấn_đề liên_quan đến dữ_liệu .
+Đơn_vị thực_hiện ước_tính tiền duy_trì máy_chủ có_thể tiêu tốn 4.000 USD và đây là khoản mà Zarra tự bỏ ra .
+Ngoài một_vài bản thử_nghiệm , Zarra cho_biết ông chưa phát_hành ứng_dụng nào ngoài GoChat .
+Ông nói mình hài_lòng với kết_quả đạt được và sẽ cố_gắng duy_trì hoạt_động cho phần_mềm này .
+Xem thêm :
+> Pokemon_Go ' nhái ' gây sốt tại Trung_Quốc
+>   Được và mất khi chơi Pokemon_Go

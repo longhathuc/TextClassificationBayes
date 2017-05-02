@@ -1,0 +1,29 @@
+Đáp_án câu_đố ký_hiệu toán_học tưởng dễ nhưng khó
+Sử_dụng linh_hoạt các ký_hiệu toán_học , bạn có_thể tìm ra nhiều cách giải cho câu_đố này .
+Đề_bài :   Thêm các ký_hiệu toán_học vào khoảng_trống của những dãy số dưới đây để tạo thành phương_trình đều có kết_quả bằng 6 .
+1 1 1 = 6
+2 2 2 = 6
+3 3 3 = 6
+4 4 4 = 6
+5 5 5 = 6
+6 6 6 = 6
+7 7 7 = 6
+8 8 8 = 6
+9 9 9 = 6
+Đáp_án :
+Có nhiều cách thêm ký_hiệu toán_học để tạo ra những phương_trình đúng .
+Dưới đây là một_cách :
+( 1 + 1 + 1 ) !
+= 6
+2 + 2 + 2 = 6
+3 x 3 - 3 = 6
+4 + 4 -   √ 4 = 6
+5/5 + 5 = 6
+7 - 7/7 = 6
+³ √ 8 + ³ √ 8 + ³ √ 8 = 6
+√ 9 x √ 9 - √ 9 = 6 .
+Có độc_giả đưa ra công_thức chung cho tất_cả các phương_trình là   ( a ^ 0 + a ^ 0 + a ^ 0 ) !
+= 6 .
+Công_thức này không sai nhưng lại không đáp_ứng đúng yêu_cầu đề_bài .
+Theo đó , người giải chỉ được thêm các ký_hiệu toán_học chứ không được thêm chữ_số vào các phương_trình .
+Thanh_Tâm

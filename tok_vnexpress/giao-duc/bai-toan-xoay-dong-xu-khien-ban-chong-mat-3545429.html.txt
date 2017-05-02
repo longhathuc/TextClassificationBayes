@@ -1,0 +1,5 @@
+Bài_toán ' xoay đồng xu ' khiến bạn chóng_mặt
+Bài_toán xoay đồng xu Kangaroo nằm trong đề thi Toán_học quốc_tế dành cho học_sinh lớp 5-6 .
+Bạn có_thể đưa ra đáp_án trong bao_lâu ?
+Đồng xu ở phía trên được xoay ( không trượt ) xuống vị_trí cạnh đồng xu phía dưới .
+Hãy cho_biết vị_trí của hai đồng xu sau khi được xoay ?

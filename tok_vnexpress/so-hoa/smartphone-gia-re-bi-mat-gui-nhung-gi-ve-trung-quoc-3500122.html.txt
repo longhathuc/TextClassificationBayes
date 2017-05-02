@@ -1,0 +1,19 @@
+Smartphone giá rẻ bí_mật gửi những gì về Trung_Quốc
+Toàn_bộ tin nhắn SMS , lịch_sử cuộc_gọi , thông_tin vị_trí , danh_sách ứng_dụng đã cài ... là những dữ_liệu mà người dùng bị lấy cắp trên hàng trăm_nghìn điện_thoại giá rẻ .
+Các nhà bảo_mật   Kryptowire đã phát_hiện cửa hậu ( backdoor ) được giấu trong firmware của nhiều smartphone Android giá rẻ bán tại Mỹ .
+Những phần_mềm này ngầm thu_thập dữ_liệu người dùng và gửi về máy_chủ ở Trung_Quốc .
+Hàng trăm_nghìn smartphone được xác_nhận cài backdoor lén lấy dữ_liệu người dùng .
+Tiến_hành phân_tích , chuyên_gia cho_biết backdoor được lập_trình để đánh_cắp nhiều thông_tin , sau đó gửi đi theo lịch_trình định sẵn mà người sử_dụng không hay_biết .   Cứ sau mỗi 24 giờ , backdoor sẽ thu_thập và gửi thông_tin nhận_dạng cá_nhân của người dùng , còn dữ_liệu như nội_dung tin nhắn SMS , lịch_sử cuộc_gọi được chuyển về máy_chủ sau mỗi 72 giờ .
+Trên các smartphone " dính " phần_mềm , thông_tin IMSI ( số nhận_dạng thuê_bao di_động quốc_tế ) , IMEI ( số nhận_dạng thiết_bị di_động toàn_cầu ) và   danh_sách ứng_dụng cài trên điện_thoại   cũng bị lấy .
+Nguy_hiểm hơn , máy_chủ còn nhận cả thông_tin định_vị GPS của người dùng , có quyền giám_sát và thực_hiện lệnh từ xa cấp cao với thiết_bị .
+Những điện_thoại này còn tự tải và cài_đặt ứng_dụng mà không cần sự cho_phép của người dùng .
+Máy tự_động cập_nhật hoặc gỡ phần_mềm , thậm_chí cập_nhật firmware hay cài lại chương_trình mà không đưa ra bất_kỳ thông_báo hay nhắc_nhở nào cho chủ thiết_bị .
+Backdoor nói trên được phát_hiện trên điện_thoại BLU_R1 HD , dòng smartphone khá hấp_dẫn tại Mỹ nhờ giá 50 USD ( hơn một_triệu đồng ) nhưng có cấu_hình mạnh .
+Theo nhà_sản_xuất , có khoảng 120.000 điện_thoại thông_minh có_thể đã bị cài_đặt phần_mềm này .
+Shanghai_Ad Ups_Technology , công_ty viết ra ứng_dụng trên , cho_biết họ không đánh_cắp dữ_liệu mà chỉ thu_thập hành_vi để quảng_cáo và cải_tiến sản_phẩm .
+Không_chỉ smartphone , backdoor của AdUps có_thể hiện_diện trên nhiều sản_phẩm thông_minh khác , với hơn 700 triệu thiết_bị trên toàn_cầu .
+Các chuyên_gia bảo_mật nhấn_mạnh , backdoor được phát_hiện trong hai ứng_dụng hệ_thống com . adups.fota.sysoper và com . adups.fota ,
+do_đó người dùng không_thể vô_hiệu_hóa và gỡ bỏ nó .
+Với các smartphone của BLU , nhà_sản_xuất tuyên_bố đã khắc_phục bằng việc tung bản cập_nhật phần_mềm .
+Google cho_biết đã làm_việc với các bên_bị ảnh_hưởng , song chưa rõ nguyên_nhân vì_sao AdUps có_thể phân_phối phần_mềm của họ rộng đến vậy .
+Trên trang_chủ , AdUps cho_biết họ còn là đối_tác của Huawei và ZTE , những nhà_sản_xuất smartphone hàng_đầu thế_giới .

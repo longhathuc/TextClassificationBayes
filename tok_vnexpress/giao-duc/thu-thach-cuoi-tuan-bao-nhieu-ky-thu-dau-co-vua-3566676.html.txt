@@ -1,0 +1,6 @@
+Thử_thách cuối tuần : Bao_nhiêu kỳ_thủ đấu cờ_vua
+Một giải cờ_vua thi_đấu theo thể_thức vòng_tròn một lượt : Mỗi kỳ_thủ đều thi_đấu một ván với các kỳ_thủ còn lại .
+Tổng_kết giải người_ta thấy : Trừ 3 vị_trí cuối_cùng , các kỳ_thủ còn lại đều giành được nửa số điểm của mình từ các trận đấu với các kỳ_thủ xếp ở 3 vị_trí cuối .
+Biết mỗi trận thắng được 1 điểm , mỗi trận hòa được 1/2 điểm và mỗi trận thua được 0 điểm .
+Hỏi có bao_nhiêu kỳ_thủ đã tham_dự giải đấu .
+Trần_Phương

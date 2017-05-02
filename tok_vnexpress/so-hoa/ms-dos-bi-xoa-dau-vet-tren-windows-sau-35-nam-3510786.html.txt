@@ -1,0 +1,14 @@
+MS_DOS bị ' xóa dấu_vết ' trên Windows sau 35 năm
+Trên bản Windows 10 thử_nghiệm dành cho các nhà_phát_triển ( Insider_Preview ) , Microsoft đã loại MS_DOS , " di_sản " của Bill_Gates , sau 35 năm tồn_tại .
+Giao_diện MS_DOS .
+Theo   Business_Insider , MS_DOS trên bản mới nhất của Windows 10 Insider_Preview đã không còn xuất_hiện nữa .
+Thay vào đó , người dùng sẽ thao_tác câu_lệnh trong tính_năng mới mang tên PowerShell .
+MS-DOS ( Microsoft_Disk_Operating_System ) được   Bill_Gates và các cộng_sự cho   ra_đời tháng 8/1981 .
+Hệ_điều_hành này có giao_diện đơn_giản dạng dòng lệnh ( command-line interface ) , được thiết_kế cho PC .
+Vì là hệ_điều_hành đơn nhiệm , tại thời_điểm thực_hiện , nó chỉ đảm_nhận một tác_vụ duy_nhất .
+Hệ_điều_hành này chạy dưới dạng OS độc_lập cho_đến khi được Microsoft tích_hợp vào Windows 95 .
+Từ_Windows 2000 trở_về sau , MS_DOS vẫn xuất_hiện dưới dạng một tính_năng , chính là Command_Prompt .
+Dù không còn nhiều chức_năng như trước , nó vẫn rất hữu_dụng với những tác_vụ liên_quan mật_thiết đến hệ_thống mà giao_diện đồ_họa của Windows không làm được .
+Như_vậy , sau 35 năm tồn_tại , hệ_điều_hành nổi_tiếng một thời đã bị loại_bỏ hoàn_toàn .
+Tuy_nhiên , với những_ai từng sử_dụng MS_DOS , có_thể họ không_bao_giờ quên những dòng lệnh trắng trên nền đen , đặc_biệt đối_với các lập_trình_viên và người dùng những năm 1980-2000 .
+Bảo_Lâm

@@ -1,0 +1,17 @@
+Galaxy S8 sẽ quét vân tay quang_học
+Galaxy S thế_hệ tiếp_theo sẽ loại_bỏ phím Home vật_lý , đồng_thời cảm_biến vân tay sử_dụng công_nghệ quang_học , được đặt phía bên dưới màn_hình cảm_ứng .
+Cảm_biến vân tay quang_học có_thể xuất_hiện trên Galaxy S8 .
+Sammobile dẫn lời nguồn tin thân_cận cho_biết , Galaxy S8 sẽ không sử_dụng module quét vân tay điện_dung vốn phổ_biến trên smartphone .
+Thay vào đó , Samsung sẽ tích_hợp vào công_nghệ quét vân tay quang_học - phương_pháp lâu_đời nhất để chụp ảnh và so_sánh các dấu vân tay .
+Bộ_phận này sẽ được đặt phía dưới bề_mặt màn_hình cảm_ứng , đồng_nghĩa với việc phím Home vật_lý bị loại_bỏ .
+Về nguyên_lý , module quét vân tay quang_học sử_dụng hình_ảnh 2D của dấu vân tay ghi được khi người dùng chạm vào mặt cảm_biến .
+Sau đó , hệ_thống sử_dụng thuật_toán để phân_tích , lưu_trữ dữ_liệu các đường rãnh , cũng_như các phần sáng / tối trên hình_ảnh để đối_chiếu về sau .
+Độ bảo_mật của module quét vân tay dạng này phụ_thuộc vào độ_phân_giải của hình_ảnh chụp được .
+Tức_là , hình_ảnh độ_phân_giải cao sẽ cho khả_năng bảo_mật tốt hơn và ngược_lại .
+Tuy_vậy , các nhà_khoa_học nhấn_mạnh khả_năng bảo_mật của công_nghệ quét vân tay quang_học kém hơn so với máy_quét điện_dung bởi nó rất dễ bị đánh_lừa .
+Kẻ xấu chỉ cần một hình_ảnh vân tay độ_phân_giải cao là đã có_thể qua_mặt hệ_thống .
+Theo Android_Authority , Samsung tất_nhiên sẽ có cách_thức để hạn_chế điều này nếu tích_hợp module quét quang_học lên Galaxy S8 .
+Trước đó , có thông_tin cho rằng Galaxy S8 sẽ sử_dụng module quét siêu_âm cho khả_năng bảo_mật cao hơn 2 phương_pháp trên ( do nhận_diện được cả hình_dáng lẫn chiều sâu dấu vân tay ) .
+Nó   sử_dụng cảm_biến với công_nghệ Sense ID của Qualcomm , nhận_dạng dấu vân tay qua sóng siêu_âm giống như trên Le_Max_Pro .
+Tuy_nhiên , cả Samsung lẫn Qualcomm đều không xác_nhận điều này .
+Bảo_Lâm

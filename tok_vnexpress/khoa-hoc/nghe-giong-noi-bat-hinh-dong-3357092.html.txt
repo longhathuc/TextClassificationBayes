@@ -1,0 +1,22 @@
+Nghe giọng nói bắt hình_dong
+Một nghiên_cứu mới cho thấy khả_năng phán_đoán các đặc_điểm về tuổi_tác , chiều_cao , cân nặng của một người lạ qua ảnh hoặc giọng nói là giống nhau .
+" Các nghiên_cứu trước_đây có xu_hướng xem_xét các đánh_giá qua khuôn_mặt và giọng nói tách_biệt nhau , còn chúng_tôi thì muốn xem liệu hai cách đánh_giá đó có giống nhau không " , nhà_nghiên_cứu Harriet_Smith , Đại_học Nottingham_Trent cho_biết .
+" Chúng_ta luôn phán_đoán về người khác dựa vào hình_dáng và giọng nói .
+Ví_dụ như khi nói_chuyện với một người lạ qua điện_thoại , chúng_ta sẽ tưởng_tượng ra trông người đó sẽ thế_nào .
+Chúng_tôi muốn xem các tưởng_tượng đó chính_xác đến đâu " .
+Các nhà_nghiên_cứu đưa cho 47 người tham_gia thí_nghiệm xem ảnh của 18 người cùng_với 18 đoạn ghi_âm giọng nói , yêu_cầu họ đưa ra các phán_đoán về đặc_điểm của những người này .
+Người tham_gia không được biết rằng các khuôn_mặt và giọng nói của cùng một người .
+Mỗi khuôn_mặt và giọng nói được chấm trên thang đánh_giá từ 0 đến 7 trên một_số tiêu_chí .
+Họ sẽ phải đưa ra các phán_đoán về tuổi , tình_trạng sức_khỏe , chiều_cao , tình_trạng quá cân , độ nam_tính hay nữ_tính .
+Khi khớp các kết_quả , với 1 có nghĩa_là khớp hoàn_toàn và 0 tức_là không có điểm chung , các nhà_nghiên_cứu thấy rằng các đánh_giá về khuôn_mặt nữ_tính cũng được đánh_giá là có giọng nữ , tương_tự với nam , với kết_quả là 0,94 .
+Phán_đoán các đặc_điểm về chiều_cao và tình_trạng sức_khỏe , mức_độ khớp cũng cao , lần_lượt là 0,84 và 0,77 .   Trong đánh_giá về tuổi , sai_lệch khi xem ảnh và nghe giọng chỉ là 4 năm .
+Ở một thí_nghiệm khác cho thấy , con_người có khả_năng khớp khuôn_mặt với giọng nói của một người lạ , độ_chính_xác là 60% .
+Nhóm nghiên_cứu của Smith cho rằng , khả_năng kết_nối khuôn_mặt với giọng nói chính_xác của con_người có_thể giúp_ích nhiều cho cảnh_sát .
+Nếu ai đó chứng_kiến một tội_ác , nhưng không nhìn thấy khuôn_mặt của tội_phạm , người đó vẫn có_thể cung_cấp thông_tin chỉ_điểm dựa vào âm_thanh nghe được .
+Nhóm cũng đang tìm_hiểu xem liệu có_thể có một ứng_dụng pháp_lý nào được cảnh_sát sử_dụng dựa trên lời khai của các " nhân_chứng qua tai " không .
+Về nguyên_nhân của khả_năng này , các nhà_nghiên_cứu cho rằng có_thể đó là kết_quả của quá_trình tiến_hóa .
+Nghiên_cứu này được công_bố trên số ra tháng 1 của tạp_chí Tâm_lý_học tiến_hóa .
+Các nhà_nghiên_cứu giải_thích rằng khi tương_tác , con_người thường_xuyên nghe thấy giọng nói của một ai đó trong khi_không nhìn mặt , chẳng_hạn như nói_chuyện điện_thoại , hay trong các căn phòng khác_nhau .
+Họ cho rằng con_người sẽ nhanh_chóng chấp_nhận hoặc từ_chối một khuôn_mặt phù_hợp với một giọng nói , để chuyển sự chú_ý đến đúng người vào đúng thời_điểm .
+Smith nói thêm : " Các kết_quả đánh_giá cho thấy rằng khuôn_mặt và giọng nói là ' tín_hiệu sao lưu ' cho đặc_điểm về thể_lực và các phẩm_chất , có_thể ảnh_hưởng cả đến sự lựa_chọn bạn_đời " .
+Nguyễn_Thành_Minh

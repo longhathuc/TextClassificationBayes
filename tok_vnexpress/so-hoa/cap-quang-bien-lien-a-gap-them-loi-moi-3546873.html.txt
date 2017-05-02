@@ -1,0 +1,12 @@
+Cáp_quang biển Liên Á gặp thêm lỗi mới
+Tuyến cáp_quang biển Liên Á ( IA ) được phát_hiện thêm điểm lỗi mới , khiến việc sửa_chữa dự_kiến đến đầu tháng 3 mới hoàn_thành .
+Theo thông_tin từ một nhà_cung_cấp dịch_vụ Internet ( ISP ) tại Việt_Nam , tuyến cáp_quang biển IA sẽ khôi_phục 100% kênh truyền trong ngày 1/3 .
+Lịch_trình này chậm hơn so với mốc 25/2 do xuất_hiện thêm lỗi mới trên tuyến .
+Cáp_quang biển Liên Á dự_kiến khắc_phục xong trong ngày 1/3 .
+Cáp_quang biển Liên Á gặp sự_cố ngày 10/1 và đã khắc_phục trong hôm đó .
+Tuy_nhiên đến 11/1 , tuyến này lại xuất_hiện lỗi gây sụt nguồn tại vị_trí gần Singapore .
+Một nhà mạng cho_biết cáp IA sửa_chữa lâu bởi khu_vực xảy_ra sự_cố nằm trong vùng_biển của Malaysia và Singapore , thủ_tục   mất nhiều thời_gian .
+Trong năm 2017 , tuyến cáp_quang khác là   Asia_America_Gateway -   AAG cũng gặp sự_cố hai lần , gần đây nhất vào 19/2 .   Dự_kiến đến 27/3 , hệ_thống mới được khắc_phục , đưa Internet đi quốc_tế qua kênh này trở_lại bình_thường .
+Các sự_cố đứt cáp_quang trong năm 2017 được cho là bớt ảnh_hưởng hơn tới người dùng so với những năm trước .
+Lý_do bởi   4 nhà mạng tại Việt_Nam gồm FPT , VNPT , Viettel và CMC đã đưa vào khai_thác cáp_quang biển Asia_Pacific_Gateway ( APG ) .
+Tuyến có chiều dài 10.400 km , đặt ngầm dưới biển Thái_Bình_Dương , với băng_thông 54 Tb / s , gấp nhiều lần so với mức 2,88 Tb / s của AAG .

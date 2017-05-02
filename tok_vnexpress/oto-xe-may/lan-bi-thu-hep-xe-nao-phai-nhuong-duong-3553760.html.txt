@@ -1,0 +1,3 @@
+Làn bị thu_hẹp , xe nào phải nhường đường ?
+Nếu một xe đi đến làn_đường bị hẹp lại thì xe trên làn rộng phải nhường hay ngược_lại ?
+( Khang_Minh ) .

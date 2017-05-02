@@ -1,0 +1,21 @@
+Bộ_nhớ nguyên_tử lưu tất_cả sách trên thế_giới trong một con tem
+Các nhà_khoa_học Hà_Lan đã phát_triển một thế_hệ bộ_nhớ mới , có_thể lưu_giữ thông_tin tại các vị_trí nguyên_tử Clo riêng_biệt trên một_mặt đế bằng đồng .
+Theo BBC , đây là công_trình của nhóm nghiên_cứu do tiến_sĩ Sander_Otte , Đại_học Kỹ_thuật Delft dẫn_đầu .
+Với mỗi bit dữ_liệu được đại_diện bởi vị_trí của một nguyên_tử Clo duy_nhất , nhóm nghiên_cứu đã đạt mật_độ lưu_trữ 500 terabit mỗi inch vuông ( khoảng 6,5 cm vuông ) , cho mật_độ thông_tin lưu_trữ lớn gấp hai tới ba lần công_nghệ ổ_cứng flash hiện_nay .
+" Về lý_thuyết , mật_độ này cho_phép lưu_trữ tất_cả các cuốn sách được con_người viết ra từ trước tới nay trong một con tem " , Otte cho_biết .
+Nói cách khác , toàn_bộ nội_dung của thư_viện Quốc_hội Mỹ có_thể được lưu_trữ trong một khối lập_phương kích_thước 0,1 mm .
+Các nhà_nghiên_cứu đã sử_dụng một kính_hiển_vi quét xuyên hầm ( STM ) với một đầu kim bén nhọn dò từng nguyên_tử một trên bề_mặt .
+Họ sẽ sắp_xếp các nguyên_tử theo cách mà Otte so_sánh với trò_chơi xếp hình trượt .
+" Mỗi bit dữ_liệu gồm hai vị_trí trên bề_mặt các nguyên_tử đồng , và mỗi nguyên_tử Clo có_thể trượt qua_lại giữa hai vị_trí này " , ông cho_biết .
+" Nếu nguyên_tử Clo ở vị_trí bên trên , tức_là bên dưới nó có một lỗ trống , chúng_tôi quy_định bit đó là 1 . Ngược_lại , khi Clo ở phía dưới , bên trên lỗ trống sẽ là bit 0 " .
+Do các nguyên_tử Clo bao quanh lẫn nhau ( trừ các vị_trí gần lỗ trống ) , chúng sẽ giữ nhau cố_định .
+Vì lý_do này , nhóm nghiên_cứu tin rằng phương_pháp của họ ổn_định hơn cách dùng các nguyên_tử liên_kết lỏng_lẻo , phù_hợp hơn cho các ứng_dụng lưu_trữ dữ_liệu thực_tế .
+Nhóm đã chứng_minh bằng cách lưu bài giảng nổi_tiếng " Có rất nhiều phòng phía dưới " của nhà_vật_lý Richard_Feynman lên một vùng rộng 100 nanomet .
+Tuy_nhiên , dù tương_lai rất hứa_hẹn , nó vẫn chưa thể_nhân rộng .
+Quá_trình lưu_trữ đòi_hỏi thực_hiện ở nhiệt_độ rất thấp , âm 196 độ C , và tốc_độ ghi và đọc đơn trình vẫn còn chậm , với thời_gian tính bằng phút .
+Trong một bài báo công_bố về cùng chủ_đề này trên tạp_chí Nature_Nanotechnology hôm 18/7 , nhà_nghiên_cứu Steven_Erwin của Phòng_thí_nghiệm Nghiên_cứu Hải_quân ở Washington DC cũng thừa_nhận những hạn_chế này .
+Tuy_nhiên ,   tiến_sĩ Otte vẫn lạc_quan về công_nghệ này .
+" Đạt được thành_công ban_đầu này , chúng_tôi chắc_chắn đã tiến được một bước dài " , ông Otte nói .
+" Điều quan_trọng là nhận ra ý_nghĩa của thành_tựu này – một thiết_bị nhớ chức_năng mật_độ cao ở quy_mô nguyên_tử , ít_nhất cũng sẽ kích_thích trí_tưởng tượng của chúng_tôi tới các cột mốc sau_này " , ông Erwin nhận_định .
+Xem thêm : Bộ_nhớ 360 TB siêu nhỏ chứa dữ_liệu trong 13,8 tỷ năm
+Nguyễn_Thành_Minh

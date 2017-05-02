@@ -1,0 +1,30 @@
+Máy_tính dự_đoán Chelsea vô_địch , Arsenal và Man_Utd ngoài top 4
+Hệ_thống máy_tính phân_tích dữ_liệu thể_thao tại Anh ước_tính Chelsea sẽ lên đăng_quang tại Ngoại_hạng Anh mùa này với bảy điểm hơn đội về nhì là Tottenham .
+SAM ( Sports_Analytics_Machine ) là hệ_thống siêu máy_tính được thiết_lập bởi Ian_Mc Hale , Giáo_sư phân_tích thể_thao của trường Đại_học Salford , với sự trợ_giúp của Tiến_sĩ Tarak_Kharrat .
+SAM hôm 11/1 đã đưa ra dự_đoán về thứ_tự vị_trí của Ngoại_hạng Anh mùa này khi mùa giải kết_thúc vào ngày 21/5 .
+Theo đó , Chelsea sẽ lần thứ_năm giành chức vô_địch , với 85 điểm sau 38 vòng đấu , nhiều hơn á_quân Tottenham bảy điểm .
+Chelsea và Tottenham được dự_báo sẽ cán đích thứ nhất và thứ nhì ở Ngoại_hạng Anh mùa này .
+Ảnh : Reuters .
+Liverpool và Man_City đứng vị_trí thứ_ba và thứ_tư với cùng 77 điểm .
+Tiếp_theo là Arsenal ( 76 điểm ) và Man_Utd ở vị_trí thứ_sáu với chỉ 70 điểm .
+Đội ĐKVĐ Leicester kết_thúc mùa này ở giữa bảng xếp_hạng ( 47 điểm ) , tăng năm bậc so với thực_tế hiện_nay .
+Các đội xuống hạng gồm Sunderland , Swansea , Hull_City .
+Như_vậy , theo tính_toán của SAM , Chelsea không_những bảo_vệ được cách_biệt năm điểm thực_tế sau 20 vòng đấu mà họ còn gia_tăng thêm hai điểm vào cuối mùa .
+SAM còn ước_tính đội bóng của HLV Antonio_Conte có khoảng 64% khả_năng vô_địch mùa này .
+Chuỗi 13 chiến_thắng của Chelsea ở Ngoại_hạng Anh kết_thúc vào tuần trước tại sân của Tottenham – đội đứng thứ_ba sau 20 vòng , với bảy điểm kém vị_trí đầu_bảng .
+Nếu tính_toán của SAM chính_xác , Tottenham không_những duy_trì được khoảng_cách thực_tế hiện_nay với Chelsea , mà họ còn vươn lên một vị_trí , đẩy Liverpool xuống đứng thứ_ba .
+Arsenal hiện_tại đứng thứ_năm với một điểm kém top 4 .
+SAM dự_đoán “ Pháo_thủ ” sẽ không cải_thiện được khoảng_cách này , qua đó lần đầu_tiên phải nằm ngoài nhóm bốn đội dẫn_đầu kể từ mùa giải 1995-96 .
+Man_Utd đang đứng thứ_sáu với chỉ ba điểm thua đội thứ_tư Man_City sau 20 vòng .
+Nhưng theo tính_toán của SAM , đội bóng của Mourinho ngày_càng cách xa top 4 , kết_thúc mùa giải với bảy điểm kém đội thứ_tư .
+Máy_tính dự_báo kết_cục không vui cho đội bóng của các HLV Mourinho và Wenger .
+Theo SAM , chỉ có một thay_đổi vị_trí trong top 8 từ giờ cho tới khi mùa giải kết_thúc : Tottenham từ vị_trí thứ_ba hiện_nay vươn lên chiếm vị_trí thứ_hai của Liverpool .
+Nhưng cũng chính SAM từng tính_toán Tottenham chỉ hoàn_tất mùa giải này ở vị_trí thứ_ba , dựa vào số_liệu thống_kê tính đến trước trận họ đánh_bại Chelsea tuần trước .
+Nghĩa_là phân_tích của SAM rất có_thể sẽ lại khác đi theo diễn_biến thực_tế những vòng tới .
+Mùa trước Tottenham cũng từng có giai_đoạn cạnh_tranh ngôi vô_địch với Leicester , nhưng cuối_cùng kết_thúc ở vị_trí thứ_ba .
+Nếu mùa này đứng thứ_hai , đó sẽ là thành_tích cao nhất của CLB này ở Ngoại_hạng Anh .
+Hệ_thống máy_tính SAM dựa vào một_số yếu_tố sau để phân_tích và đưa ra kết_quả dự_đoán : hiệu_quả thi_đấu trung_bình của các đội ở những vòng đấu đã qua , lực_lượng cầu_thủ có đủ thể_lực ra sân .
+Vì_vậy , những chấn_thương hay án treo_giò nếu xảy_ra với trụ_cột của các CLB thời_gian tới sẽ tác_động đáng_kể tới tình_hình thực_tế .
+Chẳng_hạn như Chelsea mất tiền_đạo Diego_Costa hay Tottenham thiếu_vắng tiền_vệ Dele_Alli .
+SAM dự_đoán khả_năng nằm trong Top 4 của các CLB .
+Nguyễn_Phát

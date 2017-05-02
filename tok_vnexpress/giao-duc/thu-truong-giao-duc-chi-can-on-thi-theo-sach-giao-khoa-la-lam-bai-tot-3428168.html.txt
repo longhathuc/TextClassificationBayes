@@ -1,0 +1,3 @@
+Thứ_trưởng Giáo_dục : ' Chỉ cần ôn thi theo sách_giáo_khoa là làm bài tốt '
+" Đề thi THPT quốc_gia thuộc chương_trình phổ_thông , chủ_yếu lớp 12 , không đánh_đố , không bắt thuộc_lòng máy_móc " , Thứ_trưởng Giáo_dục và Đào_tạo Bùi_Văn_Ga trấn_an thí_sinh trước ngày thi THPT quốc_gia ( 1-4 / 7 ) .
+-   Thưa thứ_trưởng , năm nay mỗi tỉnh_thành đều có cụm thi do trường đại_học chủ_trì , những địa_phương khó_khăn gặp trở_ngại gì trong khâu tổ_chức thi ?

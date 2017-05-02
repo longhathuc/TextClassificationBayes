@@ -1,0 +1,24 @@
+Thử tài phân_biệt ảnh thật và ảnh dàn_dựng
+Người dùng mạng xã_hội thường_xuyên bắt_gặp những hình_ảnh lạ , gây xôn_xao mà đôi_khi họ không_thể xác_định được đó là ảnh thật hay ảnh giả .
+Hãy quan_sát những tấm hình dưới đây và đoán xem đó là ảnh thật hay ảnh đã qua chỉnh_sửa :
+1 . Con chó cơ_bắp
+A . Ảnh thật
+B . Ảnh giả
+2 . Cô bé nửa người nửa rắn
+A . Ảnh thật
+B . Ảnh giả
+3 . Bàn_tay Chúa
+A . Ảnh thật
+B . Ảnh giả
+4 . Đội_hình máy_bay tạo chữ USA
+A . Ảnh thật
+B . Ảnh giả
+5 . Hố tử_thần
+A . Ảnh thật
+B . Ảnh giả
+6 . Rừng nửa đỏ nửa xanh
+A . Ảnh thật
+B . Ảnh giả
+7 . Nhện phù_thủy
+A . Ảnh thật
+B . Ảnh giả

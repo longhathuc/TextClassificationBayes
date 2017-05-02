@@ -1,0 +1,23 @@
+Đáp_án bài_toán ' mua kẹo khuyến_mại '
+Có hai cách giải , cho kết_quả là Buratino phải đổi 10 đôla để có 50 viên kẹo .
+Ở trung_tâm giải_trí Euroland có chiếc máy tự_động có_thể thực_hiện được hai loại giao_dịch sau :
+1 ) Bỏ vào 2 euro sẽ nhận được 3 USD và được tặng thêm 1 viên kẹo .
+2 ) Bỏ vào 5 USD sẽ nhận được 3 euro và được tặng thêm 1 viên kẹo .
+Khi_Buratino đến nghịch máy đổi tiền , cậu ta chỉ có toàn USD .
+Khi cậu ta rời khỏi đó thì tiền đô bị hao_hụt đi , không có thêm tiền euro nhưng có được 50 viên kẹo .
+Hỏi_Buratino đã tốn bao_nhiêu USD để có được món quà 50 viên kẹo đó ?
+Đáp_án :
+Cách 1 :
+Vì_Buratino nhận được 50 viên kẹo , cậu ta đã thực_hiện 50 lần đổi .
+Trong đó tất_cả số euro thu được cậu ta đều đổi lại thành USD .
+Vì_thế cứ 3 lần đổi loại 1 sẽ có 2 lần đổi loại 2 .
+Vậy_Buratino sẽ thực_hiện 30 lần đổi loại 1 và 20 lần đổi loại 2 .
+Tức_là Buratino có 30 lần nhận 3 USD và 20 lần nạp vào 5 USD .
+Như_vậy cậu ta đã tiêu tốn 20x5 – 30x3 = 10 USD .
+Cách 2 :
+Ta lập hệ phương_trình 2E = 3D + K , 5D = 3E + K .
+Từ đây 10D = 6E + 2K = 3 ( 3D + K ) + 2K = 9D + 5K .
+Suy ra D = 5K .
+Từ đó 10D = 50K .
+Suy ra 50 viên kẹo phải đổi bằng 10 USD .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

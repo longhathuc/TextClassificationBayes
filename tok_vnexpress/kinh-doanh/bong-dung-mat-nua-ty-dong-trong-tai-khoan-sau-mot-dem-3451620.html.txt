@@ -1,0 +1,29 @@
+Bỗng_dưng mất nửa tỷ đồng trong tài_khoản sau một đêm
+Thấy tài_khoản bị trừ 500 triệu đồng sau khi thức_dậy , chị Na_Hương ( Hà_Nội ) vô_cùng sửng_sốt vì không hề chuyển_tiền , thanh_toán , cũng_như không nhận được thông_báo xác_nhận giao_dịch trong đêm .
+Trong đơn trình_báo gửi ngân_hàng và các cơ_quan_chức_năng , chị Hoàng_Thị_Na_Hương ( Hoàng_Minh_Giám , Cầu_Giấy , Hà_Nội ) cho_biết sau khi thức_dậy ngày 5/8 , chị mới tá_hỏa khi thấy có tất_cả 7 giao_dịch chuyển_tiền từ số thẻ của mình tại Vietcombank sang một_số thẻ khác trong đêm , với tổng_số tiền lên tới 500 triệu đồng .
+Chị Na_Hương khẳng_định , khi những giao_dịch chuyển_tiền này được thực_hiện , chị đang ngủ ở nhà và thẻ ATM vẫn ở trong túi_xách , đồng_thời chị cũng không nhận tin nhắn thông_báo mã OTP ( mật_khẩu xác_thực một lần ) ngân_hàng gửi tới như thường_lệ .
+Khách_hàng không thực_hiện giao_dịch nhưng vẫn bị trừ 500 triệu đồng trong tài_khoản sau một đêm , phần_lớn vì các giao_dịch qua Internet_Banking .
+Ảnh : Thanh_Lan .
+Sau khi trình_báo và thực_hiện khóa thẻ , chị Na_Hương được thông_báo làm thủ_tục tra soát để nhận lại 300 triệu đồng .
+Theo giải_thích của Vietcombank , sau khi đánh_cắp được thông_tin tài_khoản và mật_khẩu của khách_hàng , các đối_tượng lừa_đảo đã chuyển_tiền từ tài_khoản của chị Na_Hương tới nhiều tài_khoản trung_gian tại 3 ngân_hàng khác_nhau ở Việt_Nam .
+" Vietcombank đã xử_lý các biện_pháp khẩn_cấp , kịp_thời khoanh giữ lại được 300 triệu đồng và đang làm thủ_tục tra soát để chuyển lại tiền cho khách_hàng .
+Đây là các giao_dịch chuyển_khoản sang ngân_hàng khác , chưa kịp chuyển ra khỏi hệ_thống Vietcombank " , đại_diện ngân_hàng nói .
+Còn 200 triệu đồng , theo giải_thích của Vietcombank , đối_tượng lừa_đảo đã rút qua ATM ở Malaysia nên vẫn đang phải tiếp_tục điều_tra .
+Vietcombank cho_biết bước_đầu đã xác_định chị Na_Hương bị mất thông_tin và mật_khẩu do truy_cập vào một trang_web giả_mạo .   Khách_hàng và ngân_hàng đã có buổi làm_việc trực_tiếp vào chiều 11/8 .
+Đại_diện Vietcombank cho_biết đã hướng_dẫn cho khách tự kiểm_tra lại điện_thoại cá_nhân và phát_hiện địa_chỉ trang_web giả_mạo vẫn lưu trên máy của khách_hàng .
+" Việc mất tiền trong tài_khoản xảy_ra do khách_hàng bị đánh_cắp thông_tin tài_khoản vì trước đó đã truy_cập và khai_báo thông_tin trên đường link giả_mạo website ngân_hàng " , Vietcombank cho_hay .
+Tuy_vậy , trao_đổi trưa ngày 12/8 , chị Na_Hương khẳng_định không hề truy_cập vào bất_cứ một đường link giả_mạo nào của ngân_hàng - một đầu_mối có_thể khiến chị bị đánh_cắp tên truy_cập , mật_khẩu Internet_Banking .
+Lý_giải với   VnExpress   về việc chị Na_Hương không hề nhận được tin nhắn chứa mã OTP để xác_thực giao_dịch khi kẻ_gian tiến_hành , ông Đào_Minh_Tuấn - Phó_tổng giám_đốc Vietcombank cho_biết lý_do là khách_hàng trước đó đã được chuyển_đổi từ dạng nhận OTP qua tin nhắn SMS sang " Smart OTP " .
+Smart OTP là một phần_mềm được cài_đặt trên các thiết_bị di_động ( điện_thoại_di_động , máy_tính bảng ) , cho_phép người dùng chủ_động lấy mã xác_thực OTP cho các giao_dịch trên Internet_Banking của Vietcombank .
+Đây cũng là hình_thức xác_nhận được nhiều ngân_hàng khác áp_dụng .
+Màn_hình hiển_thị Smart OTP của ngân_hàng .
+Với hình_thức này , thay_vì nhận SMS về số điện_thoại đã đăng_ký trước đó , khách_hàng sẽ thấy mã OTP hiển_thị trên phần_mềm này ( cài trên thiết_bị di_động ) .
+Tuy_nhiên , dịch_vụ của ngân_hàng lại không bắt_buộc thiết_bị di_động cài Smart OTP nêu trên phải mang số điện_thoại đã đăng_ký với ngân_hàng ( số vẫn nhận OTP thông_thường ) .
+Điều này đồng_nghĩa với việc người dùng có_thể cài phần_mềm Smart OTP cho tài_khoản của mình ở một máy điện_thoại khác .
+Đây có_thể là lỗ_hổng giúp kẻ_gian có_thể nhận mã   Smart OTP khi giao_dịch , sau khi đã   chiếm được thông_tin tài_khoản , mật_khẩu trong lần chị Na_Hương truy_cập nhầm vào website giả_mạo .
+Trong khi đó , một chuyên_gia trong lĩnh_vực thanh_toán điện_tử cho rằng , nếu sử_dụng phương_thức xác_thực Smart OTP , ngân_hàng nên yêu_cầu khách_hàng dùng phần_mềm trên cùng một thiết_bị di_động và số điện_thoại đó phải là số đã đăng_ký với ngân_hàng .
+Về phần mình , chị Na_Hương cho rằng việc các nhà_băng luôn đổ lỗi cho khách_hàng mỗi khi có sự_cố xảy_ra gây thiệt_thòi cho người tiêu_dùng .
+Trong khi đó , Vietcombank cho_biết đang phối_hợp với khách_hàng để làm_việc với cơ_quan_chức_năng nhằm làm rõ các đối_tượng chủ_mưu đã thực_hiện hành_vi lừa_đảo này .
+Khách_hàng đã đồng_ý sẽ cung_cấp máy điện_thoại có lưu đường link giả_mạo để tiếp_tục làm_việc với cơ_quan_chức_năng .
+Mới_đây , sau khi xảy_ra sự_việc nghiêm_trọng này , Vietcombank đã gửi tin nhắn cảnh_báo cho các khách_hàng trên toàn hệ_thống với nội_dung yêu_cầu tuyệt_đối không cung_cấp tên hay mật_khẩu truy_cập ngân_hàng điện_tử ( Internet_Banking ) , mã mật_khẩu một lần ( OTP ) , số thẻ ngân_hàng bằng bất_cứ hình_thức nào qua điện_thoại , email , mạng xã_hội hay những trang_web , đường link lạ .
+Tương_tự , hàng_loạt nhà_băng khác gần đây cũng dồn_dập gửi email , tin nhắn cảnh_báo người dùng về các hành_vi lừa_đảo qua Internet_Banking .

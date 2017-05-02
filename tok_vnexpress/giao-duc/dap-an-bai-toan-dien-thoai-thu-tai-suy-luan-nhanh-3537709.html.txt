@@ -1,0 +1,20 @@
+Đáp_án bài_toán điện_thoại thử tài suy_luận nhanh
+Mọi người đưa ra nhiều cách đặt phép_tính cho bài_toán điện_thoại này và hầu_hết câu trả_lời là chính_xác .
+Điện_thoại_di_động của Tom được sạc đầy pin .
+Nếu_không sử_dụng thì_phải sau 72 giờ điện_thoại mới hết pin .
+Còn nếu gọi liên_tục thì sau 3 giờ , điện_thoại sẽ hết pin .
+Tom đã để nguyên không sử_dụng nó suốt 27 giờ .
+Sau đó , ông thực_hiện một cuộc_gọi dài 45 phút .
+Hỏi_Tom còn gọi được bao_nhiêu phút nữa thì điện_thoại hết pin ?
+Đáp_án : 67,5 phút .
+Từ dữ_kiện được đưa ra trong đề_bài ta thấy dung_lượng pin là 100% .
+Nếu để nguyên không sử_dụng thì mỗi giờ , điện_thoại sẽ hết 100/72 ( % pin ) .
+Nếu gọi liên_tục thì mỗi giờ điện_thoại hết 100/3 ( % pin ) .
+Điện_thoại của Tom đã không sử_dụng 27 giờ .
+Suy ra phần_trăm pin đã tiêu_hao là 27 x 100/72 = 37,5 ( % pin ) .
+Tom gọi điện_thoại 45 phút ( hay 3/4 giờ ) .
+Suy ra phần_trăm pin đã tiêu_hao là ( 3/4 ) x 100/3 = 25 ( % pin ) .
+Như_vậy , điện_thoại của Tom còn 100 - 37,5 - 25 = 37,5 ( % pin ) .
+Số phút Tom còn gọi được = 37,5 / ( 100/3 ) = 1,125 ( giờ ) = 67,5 ( phút ) .
+Thanh_Tâm
+> > Bài_toán điện_thoại thử tài suy_luận nhanh

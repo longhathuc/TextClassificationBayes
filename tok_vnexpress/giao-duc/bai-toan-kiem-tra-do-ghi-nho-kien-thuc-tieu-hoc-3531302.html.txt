@@ -1,0 +1,11 @@
+Bài_toán kiểm_tra độ ghi_nhớ kiến_thức tiểu_học
+Liệu bạn có_thể đưa ra đáp_án cho bài_toán chuyển_động đơn_giản trong đề thi Olympic_Toán học của Malaysia bằng kiến_thức tiểu_học .
+Một hồ nước có chu_vi 500 m .
+Ali và Hassan đi bộ vòng_quanh hồ .
+Họ cùng xuất_phát ở một điểm .   Nếu
+Ali và Hassan đi ngược hướng với nhau thì cứ 5 phút họ gặp nhau một lần .
+Còn nếu đi cùng hướng với nhau thì cứ 50 phút họ mới gặp nhau một lần .
+Biết_Ali đi bộ nhanh hơn Hassan .
+Hỏi vận_tốc của Hassan là bao_nhiêu mét / phút ?
+Thanh_Tâm
+> > Bài_toán về người say rượu khiến bạn chóng_mặt > > Thử tài tư_duy của bạn với bài_toán lớp 7

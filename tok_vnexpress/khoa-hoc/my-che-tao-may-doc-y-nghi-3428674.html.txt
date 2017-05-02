@@ -1,0 +1,23 @@
+Mỹ chế_tạo_máy đọc ý_nghĩ
+Các nhà_khoa_học thuộc Đại_học Oregon , Mỹ , chế_tạo một thiết_bị cho_phép đọc suy_nghĩ của con_người bằng cách quét các tín_hiệu trong não sau đó xử_lý và chuyển thông_tin thành hình_ảnh .
+Theo Science_Alert , các nhà_nghiên_cứu chọn ra 23 tình_nguyện_viên và tiến_hành kiểm_chứng bằng bộ 1.000 bức ảnh màu in hình các khuôn_mặt lấy ngẫu_nhiên .
+Các bức ảnh này được tạo thành từ tổ_hợp 300 đặc_điểm khác_nhau .
+Tình_nguyện_viên được xem hình_ảnh trong khi não họ kết_nối với máy cộng_hưởng từ chức_năng f MRI , thiết_bị phát_hiện những thay_đổi tinh_tế trong mạch_máu của bộ_não để theo_dõi hoạt_động của hệ thần_kinh .
+Máy f MRI kết_hợp với một chương_trình trí_tuệ_nhân_tạo chuyên phân_tích và xử_lý thông_tin từ não của tình_nguyện_viên , sau đó tái_tạo lại hình_ảnh đang hiển_thị trong não cùng lúc với bức ảnh mà các tình_nguyện_viên đang xem .
+Dựa trên sự nhận_biết của não bộ đối_với 300 đặc_điểm ở các bức ảnh , nhóm nghiên_cứu có_thể giải_mã và tái_tạo hình_ảnh trong não người .
+Giai_đoạn một của thí_nghiệm là dạy cho phần_mềm trí_tuệ_nhân_tạo cách đọc hoạt_động thần_kinh và giải_mã thành các đặc_điểm khuôn_mặt tương_ứng với hình_ảnh mắt nhìn thấy .
+Quá_trình so_sánh giữa ảnh thật và ảnh tái_tạo từ tín_hiệu f MRI giúp phần_mềm trí_tuệ_nhân_tạo hiểu hơn về cách_thức biểu_đạt thông_tin của não bộ từng người .
+Sau khi phần_mềm trí_tuệ_nhân_tạo quen với việc đọc thông_tin từ não , giai_đoạn hai của thí_nghiệm được tiến_hành .
+Lần này , phần_mềm trí_tuệ_nhân_tạo được giao nhiệm_vụ phải tái_tạo lại những gương_mặt chỉ dựa trên hoạt_động của não tình_nguyện_viên .
+Những hình_ảnh tình_nguyện_viên xem ở giai_đoạn này hoàn_toàn khác với giai_đoạn trước .
+Để tái_tạo lại từng khuôn_mặt , phần_mềm trí_tuệ_nhân_tạo dựa trên thông_tin hoạt_động từ hai vùng riêng_biệt trong não người : hồi góc ( ANG ) xử_lý thông_tin liên_quan đến ngôn_ngữ , xử_lý số , nhận_thức không_gian và sự hình_thành ký_ức sống_động trong khi vỏ_não occipitotemporal ( OTC ) xử_lý tín_hiệu thị_giác .
+" Chúng_tôi có_thể lấy ký_ức của một ai đó , những thứ thuộc về nội_tâm rất riêng_tư , và đưa ra khỏi não của họ " , nhà thần_kinh học Brice_Kuhl , một thành_viên của nhóm nghiên_cứu , cho_biết .
+Nghiên_cứu được công_bố hôm 1 / / 6 trên tạp_chí Journal of Neuroscience .
+Kết_quả cho thấy khuôn_mặt được tái_tạo bằng thuật_toán đọc suy_nghĩ chưa mô_tả được hình_ảnh thực_sự trong não , nhưng đã có_thể mang đến một_số thông_tin cơ_bản như giới_tính , trạng_thái vui_buồn , hay màu_da .
+Những chi_tiết cơ_bản khác của khuôn_mặt có_thể được đọc từ não .
+Nhóm nghiên_cứu đang tăng độ_chính_xác của phần_mềm trí_tuệ_nhân_tạo và độ khó của công_việc đọc thông_tin bằng cách tái_tạo hình_ảnh trong trí_nhớ .
+Đây là một kỹ_thuật đòi_hỏi nhiều thời_gian nhưng hứa_hẹn mang lại ứng_dụng thú_vị trong cuộc_sống .
+Có_thể trong tương_lai , con_người sẽ gửi cho nhau những tin nhắn dưới dạng suy_nghĩ và ký_ức mà không cần phải viết hay nói ra .
+Tội_phạm cũng có_thể bị buộc phải khai ra hành_vi phạm_tội thông_qua ký_ức .
+Xem thêm :   Quân_đội Mỹ phát_triển vũ_khí đọc ý_nghĩ
+Thanh_Tùng

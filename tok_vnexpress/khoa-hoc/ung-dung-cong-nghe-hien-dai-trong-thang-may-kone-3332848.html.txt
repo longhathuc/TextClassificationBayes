@@ -1,0 +1,4 @@
+Ứng_dụng công_nghệ hiện_đại trong thang_máy Kone
+Ứng_dụng Kone_Remote Call cho_phép người dùng có_thể gọi thang_máy bằng điện_thoại thông_minh và máy_tính bảng , xử_lý nhanh các yêu_cầu di_chuyển trong tòa cao_ốc giúp tiết_kiệm thời_gian chờ_đợi .
+Đây là một nghiên_cứu mới của Kone nhằm đem đến nhiều tiện_ích hơn_nữa cho những người sinh_sống và làm_việc tại các cao_ốc .
+Ứng_dụng Kone_Remote Call hoạt_động tương_thích với cả hệ_điều_hành i OS và Android , có_thể tải miễn_phí từ các kho ứng_dụng App_Store và Android_Market .

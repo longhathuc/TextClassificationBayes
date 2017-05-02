@@ -1,0 +1,21 @@
+Đáp_án bài_toán ' đồng xu ' của học_sinh lớp 6
+Bài_toán về hai đồng xu xếp chồng lên nhau dành cho học_sinh lớp 5-6 đã khiến nhiều người_lớn không_thể đưa ra câu trả_lời đúng .
+Kiến_thức cần dùng để giải bài_toán này là cách tính diện_tích hình_vuông và hình_tròn .
+Cho 2 đồng xu cùng loại xếp chồng lên nhau .
+Mỗi đồng xu có bán_kính 10 cm và chia thành 4 phần màu xám bằng nhau như hình_vẽ .
+Hỏi diện_tích tất_cả phần tô màu xám trong hình bằng bao_nhiêu ?
+( π = 3,14 )
+Đáp_án : 399   cm2 .
+Sử_dụng các đường đứt_đoạn chia đồng xu như hình_vẽ :
+Xét hình_vuông ABCD , hai đường_chéo là AC và BD bằng nhau và bằng hai lần bán_kính đồng xu .
+Ta có , AC = BD = 2 x 10 = 20 cm .
+Từ đó suy ra , diện_tích hình_vuông bằng ( AC x BD ) / 2 = 20 x 20/2 = 200   cm2 .
+Diện_tích một đồng xu bằng   π x 102   = 3,14 x   102   = 314   cm2 .
+Gọi diện_tích một phần màu xám cần tính là S , có 7 phần màu xám .
+Suy ra diện_tích cần tìm là 7 x S .
+Khi lấy diện_tích đồng xu trừ đi diện_tích hình_vuông ABCD , ta còn lại diện_tích của 4 nửa phần xám hay chính là 2 phần xám .
+Từ đó ta có diện_tích 2 phần xám là 2 x S = 314 - 200 = 114 .
+Suy ra S = 114/2 = 57   cm2 .
+Vậy , diện_tích cần tìm là 7 x S = 7 x 57 = 399   cm2 .
+> > Xem đáp_án gốc
+Thanh_Tâm

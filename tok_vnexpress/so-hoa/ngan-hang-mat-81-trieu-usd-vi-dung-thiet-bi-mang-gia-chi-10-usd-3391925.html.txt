@@ -1,0 +1,18 @@
+Ngân_hàng mất 81 triệu USD vì dùng thiết_bị mạng giá chỉ 10 USD
+Thay_vì đầu_tư thiết_bị mạng an_toàn và dùng tường lửa , ngân_hàng   Banglades lại dùng chiếc switch cũ giá rẻ nên đã bị hacker tấn_công và đánh_cắp khoảng tiền lớn .
+Tháng 2/2016 , ngân_hàng   Banglades đã bị các tin_tặc tấn_công với âm_mưu chiếm_đoạt khoản tiền lên đến 951 triệu USD , nhưng chúng mới chuyển đươc 81 triệu USD thì bị phát_hiện .
+Theo các chuyên_viên , nguyên_nhân dẫn đến thiệt_hại này là hệ_thống an_ninh mạng của ngân_hàng rất lỏng_lẻo .
+Ngân_hàng   Bangladesh bị mất 81   triệu USD do không trang_bị tường lửa và dụng bộ switch giá rẻ .
+Ảnh minh_họa .
+Mohammad_Shah_Alam , trươ ̉ ng bô ̣ phâ ̣ n điê ̀ u tra hi ̀ nh sư ̣ Bangladesh , cho_biết ngân_hàng đã không sử_dụng hệ_thống tường lửa ( Firewall ) để hạn_chế các cuộc tấn_công .
+Bên_cạnh đó , họ lại dùng một bộ_chuyển_mạch ( switch ) cũ , trị_giá khoảng 10 USD để kết_nối với mạng thanh_toán quốc_tế SWIFT .
+" Nếu có tường lủa , nhóm tin_tặc sẽ khó hack hơn " , ông Alam chia_sẻ .
+Cùng_với đó , dùng một bộ switch cao_cấp với giá khoảng vài trăm USD thì sự_việc có_thể đã khác , việc điều_tra cũng sẽ thuận_lợi hơn .
+Hiện các nhà chức_năng đang phải vất_vả điều_tra những kẻ tham_gia tấn_công và xác_định danh_tính của chúng .
+Về vụ đánh_cắp gần 1 tỷ USD tại ngân_hàng   Banglades ,   các tin_tặc đã truy_cập vào hệ_thống của ngân_hàng và đánh_cắp thông_tin dùng để thực_hiện các thanh_toán .
+Sau đó , chúng gửi gần 30 lệnh tới Ngân_hàng Dự_trữ liên_bang New_York ( Mỹ ) , yêu_cầu chuyển_tiền từ tài_khoản của Ngân_hàng Bangladesh tới các thực_thể ở Philippines và Sri_Lanka .
+Bốn trong số các yêu_cầu chuyển_tiền đã được thực_hiện , giao_dịch tổng_cộng 81 triệu USD .
+Nhưng lệnh thứ_năm với khoản tiền 20 triệu USD đã bị tạm ngừng khi ngân_hàng thấy tên của người nhận bị viết sai chính_tả :   từ " foundation " ( tổ_chức ) lại được viết thành " fandation " .
+Thấy có vấn_đề nên ngân_hàng đã ngừng chuyển_tiền , đồng_thời phát_hiện nhiều giao_dịch bất_thường nên đã cảnh_báo ngân_hàng Bangladesh .
+Cảnh_sát   Bangladesh cho_biết , hiện đã xác_định được 20 người tham_gia vào vụ tấn_công , nhưng nhiều khả_năng đây chỉ là đầu_mối nhận tiền chứ không phải những hacker .
+Các nhà_chức_trách cũng nỗ_lực trong việc thu_hồi khoản tiền 81 triệu USD đã bị đánh_cắp nhưng chưa đạt nhiều kết_quả .

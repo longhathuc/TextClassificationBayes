@@ -1,0 +1,26 @@
+Dịch_vụ tiện_ích cho người dùng VinaPhone
+Giảm tối_đa gián_đoạn liên_lạc , kiểm_soát chi_phí , tối_ưu_hoá dịch_vụ ... là những tiện_ích VinaPhone dành riêng cho khách_hàng của mình .
+Dịch_vụ lời nhắn thoại
+Đây là dịch_vụ giúp thuê_bao VNPT VinaPhone nhận_lời nhắn từ thuê_bao khác trong trường_hợp đang nhận cuộc_gọi , tắt điện_thoại , ngoài vùng phủ_sóng hay không nghe máy ...
+Lời nhắn sẽ được chuyển_đổi từ giọng nói thành văn_bản tiếng Việt có dấu và gửi tin nhắn tới thuê_bao đăng_ký dịch_vụ .
+Đồng_thời , khách_hàng có_thể nghe lại lời nhắn thoại này bằng cách nhấn gọi 1525xx , trong đó xx là mã lời nhắn của thuê_bao để lại lời nhắn .
+Quy_trình đăng_ký dịch_vụ đơn_giản , khách_hàng chỉ cần gửi tin nhắn " DK " tới 1525 .
+Phí thuê_bao 3.000 đồng một tuần , miễn_phí lời nhắn dưới dạng văn_bản .
+Còn nếu gọi 1525xx để nghe lại lời nhắn , chủ thuê_bao sẽ trả 500 đồng một phút .
+Dịch_vụ My_Vina Phone
+Không ít người dùng bị trừ tiền từ những dịch_vụ giá_trị gia_tăng vì đã đăng_ký nhưng quên hủy khi_không còn nhu_cầu .
+Chỉ đến khi tiền cước tích_lũy thành khoản tiền kha_khá thì chủ thuê_bao mới phát_hiện ra .
+Ngoài_ra , nhiều trường_hợp khách_hàng không để_ý tới dung_lượng data hay không quan_tâm tới gói cước mình đang sử_dụng dẫn tới vượt giới_hạn quy_định hoặc sử_dụng không hết dẫn đến lãng_phí .
+Do_đó VinaPhone đã tung ra dịch_vụ My_Vina Phone hoàn_toàn miễn_phí , cung_cấp giải_pháp đơn_giản và hiệu_quả để quản_lý cước di_động .
+Hiện ứng_dụng này đã có sẵn trên kho ứng_dụng Google_Play và App_Store .
+Sau khi tải ứng_dụng về máy , người dùng đăng_ký sử_dụng bằng chính số điện_thoại của mình .
+Sau đó hệ_thống sẽ gửi tin nhắn mật_khẩu đăng_nhập .
+Giao_diện phần_mềm hỗ_trợ cả tiếng Việt và tiếng Anh , thuận_tiện cho nhiều nhóm người dùng khác_nhau .
+Không_chỉ giúp kiểm_soát 100% chi_phí cước di_động phải trả mỗi ngày , thông_qua ứng_dụng , người dùng có_thể tra_cứu thông_tin tài_khoản , lịch_sử giao_dịch , lịch_sử cuộc_gọi , lưu_lượng sử_dụng , đang sử_dụng dịch_vụ nào …
+My_Vina Phone cho_phép khách_hàng chủ_động đăng_ký hay hủy dịch_vụ với thao_tác đơn_giản .
+Ứng_dụng cũng cho_phép người dùng tự_tạo các gói cước theo nhu_cầu riêng về thoại , tin nhắn SMS , data , dịch_vụ giá_trị gia_tăng phù_hợp với nhu_cầu sử_dụng của mình và tối_ưu_hóa chi_phí bỏ ra .
+Ngoài_ra , My_Vina Phone còn giúp khách_hàng cập_nhật thường_xuyên các tin khuyến_mại mới nhất , tin gói cước , dịch_vụ mới , hệ_thống điểm giao_dịch ...
+Bên_cạnh đó , qua ứng_dụng , chủ thuê_bao có_thể nạp thẻ ( đối_với thuê_bao trả trước ) và thanh_toán cước di_động ( đối_với thuê_bao trả sau ) .
+Với một loạt tiện_ích cho người dùng , My_Vina Phone là ứng_dụng thiết_yếu đối_với các thuê_bao VinaPhone .
+Thông_tin về ứng_dụng xem tại đây .
+Minh_Trí

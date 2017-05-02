@@ -1,0 +1,6 @@
+3 câu_đố di_chuyển que diêm
+Chỉ với một hộp diêm , bạn có_thể rèn_luyện trí_não bằng cách trả_lời câu_đố yêu_cầu di_chuyển que diêm .
+Câu 1 : Hãy di_chuyển 2 que diêm để tạo thành 4 hình_vuông bằng nhau .
+> > Xem đáp_án
+Câu 2 : Trong hình , bạn có 13 que diêm xếp thành 6 hình bằng nhau .
+Hãy thử xếp 6 hình bằng nhau ( hình bất_kỳ ) mà chỉ cần sử_dụng 12 que diêm .

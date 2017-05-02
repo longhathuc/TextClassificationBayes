@@ -1,0 +1,21 @@
+Bốn điểm mới trên bản cập_nhật Windows 10 Anniversary_Updade
+Microsoft sẽ phát_hành miễn_phí bản cập_nhật lớn Anniversary_Update cho Windows 10 dành cho máy_tính , tablet , smartphone ... trong mùa_hè với nhiều tính_năng thú_vị .
+Tại sự_kiện Build 2016 đang diễn ra ở San_Francisco ( Mỹ ) , Microsoft tuyên_bố Windows 10 Anniversary_Update sẽ có_mặt trên PC , tablet , điện_thoại , Xbox_One , kính thực_tế ảo HoloLens và các thiết_bị IoT ( Internet of Things ) .
+Bảo_mật sinh trắc học cho ứng_dụng
+Năm 2015 , Microsoft công_bố Windows_Hello , hệ_thống bảo_mật sinh trắc học cho_phép người dùng đăng_nhập PC , điện_thoại , tablet ... chạy Windows 10 bằng cách sử_dụng võng_mạc , vân tay hay khuôn_mặt miễn_là thiết_bị đó có tích_hợp cảm_biến nhận_diện tương_ứng .
+Với_Anniversary_Update , người dùng không_chỉ có_thể sử_dụng Windows_Hello để đăng_nhập hệ_điều_hành mà_còn có_thể đăng_nhập vào các ứng_dụng trên thiết_bị và cả Microsoft_Edge - trình_duyệt đầu_tiên và duy_nhất hiện_nay hỗ_trợ công_nghệ sinh trắc học .
+Windows_Ink hỗ_trợ bút và nhận_diện chữ_viết tay
+Microsoft cho_biết khoảng 70% người dùng vẫn đang dành hơn một giờ mỗi ngày để sử_dụng bút .
+Windows_Ink mang đến trải_nghiệm hoàn_toàn mới với khả_năng nhận_diện chữ_viết tay_trên thiết_bị và hỗ_trợ viết bằng bút stylus như viết trên giấy .
+Người sử_dụng có_thể tạo ghi_chú , vẽ ... và nhanh_chóng chia_sẻ lên mạng xã_hội , e-mail .
+Windows_Ink tích_hợp sẵn trong các ứng_dụng như Maps , Microsoft_Edge và ứng_dụng văn_phòng Office để người dùng đánh_dấu địa_điểm , chỉnh_sửa tài_liệu , dùng thước ảo để vẽ đường_thẳng bằng bút nhanh_chóng ...
+Trợ_lý ảo Cortana tích_hợp trong hơn 1.000 ứng_dụng
+Microsoft giới_thiệu bộ sưu_tập Cortana_Collection trên Windows_Store để người sử_dụng dễ_dàng tìm_kiếm trong số hơn 1.000 ứng_dụng đã tích_hợp trợ_lý ảo thông_minh .
+Trong bản Anniversary_Update , Cortana cũng sẽ hiểu người dùng hơn và đưa ra những gợi_ý phù_hợp dựa trên thói_quen và lịch_trình của họ , như đề_nghị họ ăn trưa hay sắp_xếp phương_tiện di_chuyển .
+Xbox_One trở_thành một bộ phát_triển ứng_dụng
+Các game như Witcher 3 có_thể được chuyển thành ứng_dụng Windows_Store nhanh_chóng .
+Windows 10 Anniversary_Update mang Cortana lên Xbox_One , giúp người dùng tìm game mới , những thách_thức mới cũng_như các thủ_thuật , bí kíp ...
+Microsoft cho_biết các nhà_phát_triển có_thể biến bất_cứ chiếc Xbox_One nào đang có_mặt trên thị_trường thành_bộ phát_triển ứng_dụng .
+Tập_đoàn phần_mềm Mỹ cũng cung_cấp Desktop_App_Converter giúp nhà_phát_triển dễ_dàng mang ứng_dụng Win32 / . NET lên nền_tảng Universal_Windows_Platform ( UWP ) để hoạt_động trên mọi thiết_bị Windows 10 với các kích_cỡ màn_hình khác_nhau mà không mất thời_gian thay_đổi từng dòng code .
+Hiện số_lượng ứng_dụng Win32 / . NET lên tới 16 triệu trong khi Windows_Store chỉ có 500.000 ứng_dụng .
+Châu_An

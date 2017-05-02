@@ -1,0 +1,23 @@
+Nguy_cơ tấn_công từ những chiếc bóng_đèn nối_mạng
+Chuyên_gia bảo_mật Daniel_Miessler cho_hay không ít người vẫn đang nghĩ rằng những nguy_cơ tấn_công từ các thiết_bị IoT như bóng_đèn , tủ_lạnh ... đang bị thổi_phồng .
+IoT ( Internet of Things - Internet vạn_vật ) là việc các đồ_vật , thiết_bị như bóng_đèn , máy_giặt , xe_hơi , thậm_chí là cây_trồng ... được kết_nối với nhau qua một hệ_thống nhằm mang đến sự thuận_tiện trong cuộc_sống cho con_người .
+IoT mở ra viễn_cảnh về thành_phố thông_minh , giáo_dục , y_tế , nông_nghiệp thông_minh ...
+Chia_sẻ với Financial_Times , ông Miessler , Giám_đốc hãng bảo_mật IOActive , cho rằng các vụ tấn_công vào cơ_sở_hạ_tầng thiết_yếu rồi sẽ trở_nên phổ_biến như_là hệ_quả của những cuộc chiến_tranh mạng .   Một
+lý_do khiến các chuyên_gia lo_ngại là vì nhiều thiết_bị cũ_kỹ đang được kết_nối để phục_vụ cho việc vận_hành và bảo_trì .
+Chúng được thiết_kế trước thời_đại Internet và thiếu những tiêu_chuẩn bảo_mật hiện_đại , không có cơ_chế " vá lỗi hay cập_nhật " giống như máy_tính .   Những
+lo_lắng này không phải không có cơ_sở .
+Cuối tháng 12/2015 , chính_phủ Ukraine cho_biết tình_trạng mất điện liên_tục tại quốc_gia này có_thể do hacker can_thiệp vào hệ_thống quản_lý điện_lưới , ảnh_hưởng đến hàng triệu người_dân .
+Không_chỉ các hệ_thống hạ_tầng có nguy_cơ bị khác thác , mà những thiết_bị cá_nhân đơn_giản cũng sẽ tạo kẽ hở cho hacker .   Chris
+Underhill , phụ_trách công_nghệ tại Cyber_Security_Partners , cho_biết tin_tặc có_thể kiểm_soát vô_số thiết_bị như hệ_thống đèn để quấy_nhiễu một doanh_nghiệp , thậm_chí một quốc_gia .
+Tắt một bóng_đèn từ xa có_thể là một trò_đùa , nhưng bật_tắt hàng nghìn bóng_đèn cùng lúc có_thể sẽ gây hậu_quả tới doanh_nghiệp và mạng_lưới điện cả một khu_vực .
+Bóng_đèn , tủ_lạnh ... kết_nối mạng cũng có_thể tạo ra nguy_cơ bị tấn_công đối_với doanh_nghiệp .
+" Một thiết_bị tưởng_chừng không quan_trọng cũng sẽ trở_nên quan_trọng nếu kết_nối tới những hệ_thống thiết_yếu " ,   Justin_Lowe , chuyên_gia bảo_mật tại   PA Consulting , khuyến_cáo .
+Dù_vậy , giới phân_tích tin rằng xu_hướng Internet of Things không vì_thế mà chậm lại bởi những lợi_ích không_thể phủ_nhận mà nó mang lại .
+Theo báo_cáo Ericsson_Mobility_Report , tới năm 2021 , dự_kiến có 28 tỷ thiết_bị kết_nối , trong đó có 15 tỷ thiết_bị IoT ( bao_gồm thiết_bị M2M - thiết_bị kết_nối thiết_bị - như đồng_hồ đo thông_minh , cảm_biến trên đường , địa_điểm bán_lẻ , các thiết_bị điện_tử tiêu_dùng như tivi , đầu DVR , thiết_bị đeo ) và 13 tỷ còn lại là điện_thoại_di_động , máy_tính_xách_tay PC , máy_tính bảng .
+IDC ước_tính đến năm 2019 , toàn_cầu sẽ chi 1.300 tỷ USD cho IoT .
+Tới năm 2020 , theo dự_đoán của Gartner , giá_trị gia_tăng do IoT mang lại sẽ là 1.900 USD .
+Còn theo McKinsey , tới năm 2025 , IoT sẽ đóng_góp vào nền kinh_tế toàn_cầu là 11.000tỷ USD .
+Ông Jan_Wassenius , Tổng_giám_đốc Ericsson_Việt_Nam , cho_biết : " Các nhà khai_thác viễn_thông và công_ty thuộc các ngành công_nghiệp khác_nhau đang nắm_bắt cơ_hội từ IoT .
+Họ cần có một đối_tác phù_hợp , tin_cậy để quá_trình chuyển_đổi sang IoT diễn ra hiệu_quả và mang lại lợi_nhuận " .   50% doanh_nghiệp đã bắt_đầu triển_khai những dự_án về IoT .
+Ngành dịch_vụ tiện_ích , giao_thông , tòa nhà thông_minh và các ngành bán_lẻ là những lĩnh_vực đi đầu trong việc ứng_dụng IoT .
+Châu_An

@@ -1,0 +1,12 @@
+Học_sinh Việt_Nam thi lập_trình quốc_tế về giao_thông
+Sau thành_công của cuộc_thi lập_trình cấp quốc_gia , 28 học_sinh Việt_Nam sẽ tranh tài với bạn_bè Đông_Nam Á vào ngày 27/11 với chủ_đề " giao_thông công_cộng " .
+Ngày 27/11 , 28 học_sinh Việt_Nam sẽ tham_dự cuộc_thi WeCode quốc_tế tổ_chức tại Indonesia ở cả hai nội_dung sơ_cấp và trung_cấp .   Chủ
+đề năm nay là “ Giao_thông công_cộng ” ( Public_Transport ) với mục_đích giúp thí_sinh hiểu đúng vai_trò , lợi_ích , tìm ý_tưởng cải_thiện chất_lượng dịch_vụ hiện_tại .
+Thí_sinh cần thiết_kế các   trò_chơi , chương_trình giải_trí hoặc phim_hoạt_hình   có thời_lượng ngắn nhất_là 25 giây , kích_thước lớn nhất_là 25 MB theo các nội_dung : âm_nhạc và nhảy_múa , trò_chơi , kể chuyện .
+Sản_phẩm phần_mềm được lập_trình từ ngôn_ngữ   Scratch .
+WeCode nằm trong chuỗi sự_kiện Hội trại công_nghệ số ( Digital_Campus ) do Hiệp_hội Y . O . U ( Youth_On_Unity ) tổ_chức , là cuộc_thi lập_trình quốc_tế giữa các nhóm học_sinh đại_diện cho các trường tiểu_học , THCS tại các nước trong khu_vực Đông_Nam Á .
+Trước đó ,   cuộc_thi cấp quốc_gia đã được tổ_chức thành_công bởi Học_viện STEM .
+Ở  hạng sơ_cấp , ba giải cao nhất đều thuộc về học_sinh khối lớp 4 của Trường tiểu_học Đoàn_Thị_Điểm .   Ở
+hạng trung_cấp , giải nhất được trao cho em Ngô_Thế_Anh , học_sinh lớp 7 trường THCS Nguyễn_Trường_Tộ .
+Năm 2015 , WeCode được tổ_chức tại Malaysia với 136 đội đến từ 4 nước Đông_Nam Á , trong đó Việt_Nam có 14 học_sinh đến từ_trường Tiểu_học Vinschool và trường THCS_FPT đã đạt được thành_tích cao .
+Phiêu_Linh

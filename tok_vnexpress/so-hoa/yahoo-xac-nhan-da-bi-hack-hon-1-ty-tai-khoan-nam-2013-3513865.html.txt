@@ -1,0 +1,18 @@
+Yahoo xác_nhận đã bị hack hơn 1 tỷ tài_khoản năm 2013
+Vụ hack này có quy_mô lớn gấp đôi vụ hack năm 2014 mà hãng này tiết_lộ hồi đầu năm và có_thể được xem là scandal mất_cắp dữ_liệu lớn nhất từng xảy_ra ở Mỹ .
+Hôm_qua , Yahoo thừa_nhận hơn một tỷ tài_khoản người dùng , bao_gồm tên_tuổi , số điện_thoại , câu_hỏi bảo_mật , mật_khẩu và địa_chỉ email có_thể đã bị lấy cắp trong cuộc tấn_công hồi tháng 8/2013 .
+Tuy_nhiên , hãng này khẳng_định tài_khoản ngân_hàng và các dữ_liệu thanh_toán không bị ảnh_hưởng .
+Con_số này lớn gấp đôi 500 triệu tài_khoản đã bị ảnh_hưởng trong vụ tấn_công năm 2014 , được Yahoo tiết_lộ hôm 22/9 năm nay .
+Khi đó họ nói rằng vụ tấn_công có liên_quan tới yếu_tố chính_trị , nhưng không nói quốc_gia nào chịu trách_nhiệm .
+Yahoo cũng cho rằng bên thứ_ba đã có_thể truy_cập trái_phép vào mã nguồn độc_quyền của hãng để giả_mạo cookie ,   công_cụ cho_phép các website và máy_tính lưu_thông tin như tên người dùng , mật_khẩu , địa_chỉ để không phải nhập lại lần nữa khi sử_dụng .   Và thông_tin thiệt_hại trong cuộc tấn_công năm 2013 được phát_hiện trong quá_trình điều_tra của cơ_quan_chức_năng cùng các chuyên_gia bảo_mật trong vụ hack năm 2014 .
+" Điều này vượt xa những vụ vi_phạm dữ_liệu lớn nhất mà chúng_tôi từng thấy .
+Trong thực_tế , 500 triệu từ báo_cáo của họ một_vài tháng trước và giờ hãy xem con_số đó tăng gấp đôi là điều chưa từng có " , chuyên_gia an_ninh mạng Troy_Hunt nói với BBC .
+Những tiết_lộ mới này sẽ ảnh_hưởng tới thương_vụ đề_nghị mua lại Yahoo của hãng di_động Mỹ_Verizon với giá 4,8 tỷ USD .
+" Không_chỉ vì bởi quy_mô vụ tấn_công mà nó còn cho thấy đây là một mô_hình đầy những thất_bại nghiêm_trọng trên danh_nghĩa của Yahoo " , ông Hunt nói .
+" Nếu vụ_việc gây ra phản_ứng dữ_dội từ người dùng , dịch_vụ của công_ty này sẽ không có giá_trị với Verizon " .
+Trên thực_tế , các chuyên_gia nhận_định rằng ngay cả những hệ_thống bảo_mật tốt nhất vẫn bị tấn_công bởi bọn tội_phạm mạng .
+Nhưng nhiều lần và với số_lượng lớn như Yahoo thì giống như một lời cảnh_báo cho " một   chuyện gì đó " rất nghiêm_trọng đang được che_giấu bên trong .
+Yahoo từng được định_giá 125 tỷ USD trong cơn_sốt dot - com , nhưng sau đó đã tụt giá không phanh bất_chấp mọi nỗ_lực phục_hồi của nhà_điều_hành .   Công
+ty có trụ_sở tại California đã có hơn một tỷ người sử_dụng dịch_vụ hàng tháng , mặc_dù một người dùng có_thể sở_hữu nhiều tài_khoản .
+Ngoài_ra còn có nhiều tài_khoản ít hoặc không hoạt_động .
+Trong tuyên_bố mới nhất , Verizon cho_biết sẽ đánh_giá tình_hình điều_tra Yahoo và sẽ xem_xét lại khả_năng phát_triển mới trước khi đạt được bất_kỳ thỏa_thuận cuối_cùng nào .

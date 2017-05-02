@@ -1,0 +1,2 @@
+Bài_toán lớp 5 ' thầy Tom , trò Jerry '
+Thầy_giáo Tom yêu_cầu Jerry cộng các số_nguyên từ 1 đến tuổi của thầy .

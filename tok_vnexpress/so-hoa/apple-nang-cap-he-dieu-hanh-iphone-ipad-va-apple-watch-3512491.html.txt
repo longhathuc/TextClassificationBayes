@@ -1,0 +1,14 @@
+Apple nâng_cấp hệ_điều_hành i Phone , iPad và Apple_Watch
+Cùng_với sự xuất_hiện của i OS 10.2 thay_thế cho i OS 10.1.1 , hệ_điều_hành WatchOS cũng được nâng lên phiên_bản 3.1.1 , cả hai đều khắc_phục nhiều lỗi trước đó .
+Phiên_bản i OS 10.2 dành cho i Phone và máy_tính bảng i Pad chỉ bổ_sung thêm một_vài tính_năng mới như bộ biểu_tượng emoji Unicode 9 , hình nền , hiệu_ứng khi nhắn_tin và ứng_dụng TV .
+Riêng ứng_dụng TV hiện mới chỉ sử_dụng được ở thị_trường Mỹ .
+Nó giúp gom toàn_bộ các nội_dung và dịch_vụ của truyền_hình_cáp và truyền_hình vệ_tinh vào làm một để người dùng tiện theo_dõi , quản_lý thuê_bao .
+Tính_năng đáng chú_ý mới được Apple bổ_sung trên i OS 10.2 là chế_độ khẩn_cấp Emergency SOS , cho_phép gọi số điện_thoại liên_lạc đã cài sẵn bằng cách nhấn phím nguồn liên_tục 5 lần .
+Bản cập_nhật i OS chủ_yếu để Apple khắc_phục những lỗi tồn_đọng thay_vì bổ_sung tính_năng .
+Chi_tiết những thay_đổi trên bản cập_nhật i OS 10.2
+Cũng giống như i Phone và i Pad , đồng_hồ thông_minh Apple_Watch được nâng_cấp lên hệ_điều_hành mới , watchOS 3.1.1 .
+Nó khắc_phục lỗi hiển_thị danh_bạ trong tin nhắn , thông_báo , lỗi hiển_thị thông_tin ở các mặt đồng_hồ , ứng_dụng lịch và bản_đồ .
+Cả hai bản cập_nhật i OS 10.2 và WatchOS 3.1.1 đều được Apple phát_hành dưới dạng OTA .
+Người dùng có_thể nâng_cấp trực_tiếp trên thiết_bị hoặc thông_qua i Tunes trên máy_tính .
+Tuy_nhiên , việc nâng_cấp yêu_cầu dung_lượng pin lớn hơn 50% .
+Xem thêm :   Apple ra i OS 10.1 , cải_thiện camera cho i Phone 7 Plus

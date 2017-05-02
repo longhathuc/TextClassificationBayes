@@ -1,0 +1,11 @@
+Lừa người dùng Facebook chơi game để ăn_cắp mật_khẩu
+Một chiến_dịch lừa_đảo mới lại xuất_hiện trên Facebook tại Việt_Nam , ẩn dưới lời mời chơi game " Vua trò_chơi " từ bạn_bè .
+Ông Nguyễn_Minh_Đức , chuyên_gia bảo_mật của FPT , cho_biết kẻ xấu sẽ gửi lời mời chơi game đến người dùng mạng xã_hội .
+Khi bấm vào , thiết_bị của nạn_nhân được chuyển đến một website có giao_diện giống với Facebook .
+Tuy_nhiên , địa_chỉ trang_web là   fl-facebook [ . ] com chứ không phải facebook . com .
+Mã độc ẩn dưới lời mời chơi game .
+Tại đây , người dùng được thông_báo cần điền mật_khẩu để bắt_đầu chơi .
+Nếu cả_tin làm theo , thông_tin đăng_nhập của họ sẽ lập_tức rơi vào tay kẻ xấu .   Sau khi cướp được mật_khẩu , chúng sẽ lợi_dụng tài_khoản Facebook của họ để tiếp_tục lừa những người khác trong danh_sách bạn_bè .
+Trình_duyệt Yolo cho mobile với   tính_năng Secure_Shield của CyRadar là một trong những công_cụ bảo_mật phát_hiện ra website lừa_đảo .
+Ông Đức cho_hay , hiện trình_duyệt Chrome và Firefox cũng_như đa_số các phần_mềm bảo_mật chưa phát_hiện ra đây là trang lừa_đảo .
+Nếu_không cẩn_thận , người dùng rất dễ bị lừa và đánh mất mật_khẩu ở website này .

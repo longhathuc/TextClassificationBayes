@@ -1,0 +1,14 @@
+Mã độc tống_tiền lần đầu tấn_công máy Mac
+Các nhà_nghiên_cứu đã lần đầu_tiên phát_hiện một ransomware ( mã độc tống_tiền ) nhắm tới người sử_dụng máy_tính Apple .
+Theo công_ty Palo_Alto_Networks , mã độc có tên gọi KeRanger đã lây_nhiễm vào chương_trình Transmission 2.90 ( được dùng để tải và chia_sẻ file torrent ) .
+Khi người sử_dụng cài bản Transmission này vào máy Mac , mã độc sẽ lập_tức được kích_hoạt .
+Nó sẽ âm_thầm chạy trên hệ_thống trong ba ngày rồi mới kết_nối với máy_chủ qua mạng ẩn_danh Tor và bắt_đầu mã_hóa dữ_liệu trong máy .
+Sau khi hoàn_tất quá_trình mã_hóa ,   KeRanger   gửi thông_báo yêu_cầu nạn_nhân trả 1 bitcoin ( tương_đương 400 USD ) nếu muốn chuộc lại các file .
+Ảnh minh_họa : TheStar .
+Trước đó , các chuyên_gia bảo_mật   Kaspersky từng phát_hiện một ransomware trên máy Mac từ năm 2014 , nhưng   phiên_bản này chưa hoàn_thiện và không có vụ tấn_công nào diễn ra trên thực_tế .
+Trong khi đó ,   KeRanger được trang_bị đầy_đủ tính_năng của một mã độc tống_tiền và lần đầu_tiên bị phát_tán rộng .
+Theo CNet , từ lâu người dùng Apple vẫn tự_hào rằng thiết_bị của họ không bị nhiễm mã độc như Windows PC .
+Nhưng với   KeRanger , mọi thứ đã thay_đổi .
+Palo_Alto_Networks đã gửi cảnh_báo tới Apple và Transmission vào ngày 4/3 .
+Transmission đã nâng_cấp phần_mềm lên bản 2.92 trong khi Apple cũng cập_nhật chương_trình diệt virus XProtect .
+Minh_Minh

@@ -1,0 +1,16 @@
+CIA hack smart TV Samsung để theo_dõi người dùng
+WikiLeaks công_bố tài_liệu cho rằng Cơ_quan Tình_báo Trung_ương Mỹ ( CIA ) đã tấn_công hàng_loạt TV thông_minh của Samsung cho mục_đích do_thám .
+Smart TV của Samsung được tích_hợp micro , cho_phép người dùng ra_lệnh bằng giọng nói , điều_khiển thiết_bị .
+Thông_thường , các lệnh từ người dùng sẽ không được truyền ra bên ngoài , trừ khi người dùng kích_hoạt .
+Đương_nhiên khi TV tắt , nó không_thể nhận lệnh và không nghe được mọi thứ .
+WikiLeaks cho rằng CIA đã hack smart TV của Samsung để nghe lén người dùng .
+Tuy_nhiên theo WikiLeaks , CIA đã làm_việc với Cơ_quan Tình_báo Anh để biến micro trên các mẫu TV thành thiết_bị nghe lén .
+Thông_qua chương_trình có tên Weeping_Angel , TV mặc_dù trông như đã tắt nhưng thực_ra nó vẫn đang lắng_nghe những âm_thanh xung_quanh .
+Những âm_thanh này được chuyển đến một máy_chủ bí_mật của CIA thay_vì máy_chủ được phép của Samsung .
+WikiLeaks cho rằng những nội_dung thu_thập không_chỉ bao_gồm các câu_lệnh điều_khiển TV mà_còn chứa các cuộc trò_chuyện hàng ngày của người dùng .
+Ngoài smart TV , mục_tiêu CIA nhắm tới còn có hệ_điều_hành Windows .
+Nhiều vụ tấn_công được thiết_kế dưới dạng virus lây_lan qua đĩa CD và USB .
+Cơ_quan Tình_báo Trung_ương Mỹ cũng quan_tâm đến việc kiểm_soát ôtô .
+Theo Wiki Leaks , nó cho_phép CIA " tham_gia vào các vụ giám_sát gần_như không ai co thể phát_hiện " .
+Tính xác_thực của các tài_liệu mà WikiLeaks đưa ra chưa được xác_nhận .
+Trong khi đó phát_ngôn_viên của CIA , Jonathan_Liu , nói : " Chúng_tôi không bình_luận về tính xác_thực hay nội_dung của các tài_liệu tình_báo có chủ_đích " .

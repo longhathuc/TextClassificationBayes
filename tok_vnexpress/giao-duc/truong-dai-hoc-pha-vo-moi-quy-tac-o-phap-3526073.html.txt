@@ -1,0 +1,42 @@
+Trường đại_học phá vỡ mọi quy_tắc ở Pháp
+Không giảng_viên , không giáo_trình , không học_phí là những điều ấn_tượng của Đại_học École 42 ở thủ_đô nước Pháp .
+9h30 của một ngày thứ_năm ảm_đạm , các tòa nhà trên đại_lộ   Bessières ở phía bắc Paris chìm trong yên_tĩnh .
+Tỷ_phú Xavier_Niel dẫn_đầu một tour tham_quan trường đại_học thực_nghiệm của ông giải_thích , giờ cao_điểm là 2-3h chiều .   " Bạn sẽ thấy 300 hoặc 400 sinh_viên ở đây vào ban_đêm .
+Chúng_tôi mở_cửa 24h .
+Tổng_thống Pháp đã có bức ảnh selfie lúc nửa_đêm tại địa_điểm này " , ông nói .
+Niel là tỷ_phú công_nghệ nổi_danh nước Pháp , người sáng_lập kiêm cổ_đông lớn nhất của nhà_cung_cấp dịch_vụ Internet .
+Năm 2013 , ông tuyên_bố " hệ_thống giáo_dục hiện_nay không hiệu_quả " và quyết_định tái_tạo hệ_thống .
+Niel bắt_đầu tham_vọng của mình bằng việc đầu_tư thành_lập một ngôi trường   không hề có giáo_viên , giáo_trình , tiêu_chuẩn đầu_vào hay học_phí .
+Theo Wired ngày 9/1 , ngôi trường 3 năm_tuổi có tên   École 42 , hoạt_động dựa trên phương_pháp học theo dự_án ( project-based learning ) .   Sinh_viên có được kiến_thức và kỹ_năng nhờ làm_việc trong một thời_gian dài , tự tìm câu trả_lời cho những vấn_đề phức_tạp .
+Không ai được cấp bằng tốt_nghiệp sau khi ra trường .
+Niel bỏ 20 triệu đôla Mỹ cho các chi_phí ban_đầu và khoảng 7 triệu mỗi năm cho chi_phí hoạt_động của thập_kỷ đầu_tiên .
+" Sau đó , chúng_tôi hy_vọng một trong số các bạn sẽ là   Zuckerberg tiếp_theo " , ông chỉ vào 3 sinh_viên Mỹ theo học ở trường .
+Các tỷ_phú và nhân_vật gạo_cội trong giới công_nghệ như   Peter_Thiel , Jack_Dorsey , Tony_Fadell đã đến đây để chiêm_ngưỡng cách Niel thách_thức các quan_niệm hiện_tại về giáo_dục đại_học .
+Evan_Spiegel , cha_đẻ của ứng_dụng   Snapchat mô_tả về   École 42 : " Bạn sẽ cảm_thấy mình đang bước vào một ngôi trường từ tương_lai " .
+Mùa thu năm 2016 , Niel mở một chi_nhánh thứ_hai ở   Fremont ( California , Mỹ ) với cam_kết đầu_tư 100 triệu đôla .
+Ông cảm_thấy đó là một phần sứ_mệnh nhằm tạo ra lớp trẻ tài_năng .
+" Có 80.000 ứng_viên đăng_ký , cùng chơi một game online , trong đó 25.000 người hoàn_thành .
+Chúng_tôi chọn 3.000 người tốt nhất và yêu_cầu họ đến trường trong một tháng .
+30 ngày thử_thách , mỗi ngày 15 tiếng , bao_gồm cả thứ_bảy và chủ_nhật .
+Sau 5 hoặc 6 ngày , một_phần_ba số đó bỏ_cuộc .
+Cứ_thế , cuối_cùng chúng_tôi có 1.000 sinh_viên tốt nhất " , Niel giải_thích .
+80-90 % những người trụ lại cuối_cùng là người Pháp , phần còn lại chủ_yếu là sinh_viên Mỹ .
+Họ giành chiến_thắng để bước vào một nền giáo_dục miễn_phí , được giúp_đỡ tìm chỗ ở ( Niel đang xây 900 căn_hộ ) , được bảo_lãnh vay vốn 15.000 euro nếu cần , có cơ_hội thực_tập ở các tập_đoàn chất_lượng cao .
+" 40% sinh_viên không có bằng tốt_nghiệp phổ_thông , một_nửa sinh_viên đến từ các hộ nghèo , không đủ khả_năng chi_trả học_phí đại_học " , Niel cho_biết .
+Một nữ_sinh Mỹ có bằng tốt_nghiệp chuyên_ngành sinh_học tại Đại_học Yale mỉm cười_nói : " Chúng_tôi là những người may_mắn " .
+Niel gạt ngay " không có may_mắn " .
+Chương_trình giảng_dạy của phương_pháp học theo dự_án gồm 21 tiêu_chuẩn ( theo cách nói của Niel là 21 cấp_độ của một trò_chơi ) , được thiết_kế bởi 6 nhân_viên .
+Ngoài một video hướng_dẫn 5 phút và tài_liệu PDF , sinh_viên phải tự học theo nhóm .
+Sau một tháng , sinh_viên có_thể lập_trình C .
+Từ những kỹ_năng mới , họ sẽ được thử_thách xây_dựng   Tetris ( trò_chơi xếp hình ) và sudoku ( trò_chơi điền số logic ) .
+Họ tiếp_tục quá_trình tùy_thuộc vào tốc_độ của bản_thân .
+Người học nhanh kết_thúc trong vòng 18 tháng , những người khác có_thể cần nhiều nhất_là 5 năm .
+Sinh_viên có_thể kiếm điểm bằng cách điều_chỉnh dự_án của người khác .
+Nếu vi_phạm kỷ_luật , họ bị trừng_phạt bằng cách xay cà_phê cho các sinh_viên khác , làm sạch cửa_sổ bằng một bàn_chải đánh răng .
+Các hành_vi tốt được khuyến_khích .
+Hiện   École 42 còn một_số bất_cập .
+Sinh_viên nữ chiếm chưa đến 10% .
+Trường đang cố_gắng thay_đổi con_số này bằng cách mời nữ_sinh trung_học đến tham_quan trường vào các kỳ nghỉ lễ .
+Niel cho_biết sinh_viên ở trường có mức lương   42.000-45.000 euro ( khoảng 44.000-47.000 đôla Mỹ ) trong năm đầu_tiên , nhưng có kỹ_năng tốt hơn sinh_viên Mỹ .
+Phiêu_Linh
+> > Ngôi trường kỷ_luật nhất nước Anh > > Cách bài_trí kỳ_lạ trong ngôi trường ở Thụy_Điển

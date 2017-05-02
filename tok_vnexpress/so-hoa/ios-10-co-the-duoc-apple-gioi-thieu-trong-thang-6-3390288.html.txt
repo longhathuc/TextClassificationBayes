@@ -1,0 +1,24 @@
+iOS 10 có_thể được Apple giới_thiệu trong tháng 6
+Hệ_điều_hành mới cho i Phone , iPad , máy_tính Mac và đồng_hồ thông_minh là những sản_phẩm có_thể được Apple công_bố tại WWDC năm nay .
+Apple thông_báo Hội_nghị dành cho các nhà_phát_triển ( WWDC ) 2016 sẽ diễn ra ngày 13-17 / 6 tại   San_Francisco ( Mỹ ) .
+Công_ty được dự_đoán sẽ trình_diễn nền_tảng mới cho i Phone , iPad , Mac và Apple_Watch .
+iOS 10
+Đến nay , hệ_điều_hành cho i Phone , iPad và i Pod touch về cơ_bản giữ nguyên thiết_kế từ i OS 7 .
+Sau ba năm , giới công_nghệ chờ_đợi Apple sẽ mang đến diện_mạo mới cho loạt thiết_bị này bằng hệ_điều_hành i OS 10 .
+Phiên_bản i OS tiếp_theo có_thể được cải_tiến Siri thông_minh hơn , cho_phép trợ_lý ảo này tương_tác với các phần_mềm của bên thứ_ba .
+Ngoài_ra , iCloud và i Tunes sẽ được tinh_chỉnh nằm mang đến sự đơn_giản , tiện_dụng cho người dùng .
+Các khách_hàng sở_hữu i Phone 6s hay i Phone 6s Plus mong_muốn bản cập_nhật sắp tới đưa ra nhiều tính_năng nhằm khai_thác tốt hơn công_nghệ 3D Touch .
+Màn_hình cảm_ứng lực mà Apple giới_thiệu chưa tỏ ra thiết_thực như những gì người dùng kỳ_vọng và như lời giới_thiệu của hãng .
+OS_X 10.12
+Tin_đồn cho rằng Apple có_thể đổi tên hệ_điều_hành trên các máy_tính của mình thành mac OS .
+Cách gọi mới sẽ giúp hãng thống_nhất trong cách đặt tên : iOS , watchOS và tv OS .
+Với phiên_bản này , công_ty công_nghệ Mỹ có_thể đem trợ_lý ảo Siri từ i OS sang , cho_phép người dùng ra_lệnh bằng giọng nói .
+Theo 9to5Mac , Siri đã có trên i OS , watchOS và tv OS nên nó chắc_chắn sẽ xuất_hiện cùng mac OS .
+Trợ_lý này sẽ hiện_diện trên thanh tìm_kiếm Spotlight và nó đã được nghiên_cứu từ năm 2012 .
+watchOS 3
+Thời_điểm WWDC 2016 diễn ra rơi vào   khoảng   thời_gian 2 năm trước kể từ khi Apple_Watch lần đầu được công_bố .
+Tại sự_kiện lần này , watchOS 3 hứa_hẹn xuất_hiện mang đến nhiều tính_năng mới cho đồng_hồ thông_minh của Apple , đồng_thời cải_thiện hiệu_suất .
+Phiên_bản phần_mềm mới cũng đặt nền_móng cho Apple_Watch 2 dự_kiến trình_làng cuối năm 2016 .
+watchOS 3 được trông_đợi sẽ hỗ_trợ mặt đồng_hồ do bên thứ_ba phát_triển .
+Siri sẽ thông_minh hơn , tương_tác bằng giọng nói tốt hơn .
+Trong khi đó , các tính_năng theo_dõi sức_khỏe cần được nâng cao mức_độ chính_xác đồng_thời tương_tác sâu với người sử_dụng .

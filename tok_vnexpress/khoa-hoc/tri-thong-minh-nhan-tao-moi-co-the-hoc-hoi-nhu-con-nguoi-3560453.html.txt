@@ -1,0 +1,20 @@
+Trí thông_minh nhân_tạo mới có_thể học_hỏi như con_người
+Chương_trình trình trí thông_minh nhân_tạo của DeepMind có_thể sử_dụng các kiến_thức trước đó để giải_quyết vấn_đề mới tương_tự như con_người .
+DeepMind , công_ty về trí thông_minh nhân_tạo ( AI ) của Goolge , phát_triển một chương_trình có khả_năng thực_hiện hàng_loạt nhiệm_vụ khác_nhau gần giống con_người .
+Nó học_hỏi cách giải_quyết vấn_đề trong quá_khứ và sử_dụng những kiến_thức này để giải_quyết vấn_đề mới , Guardian hôm 14/3 đưa tin .
+Chương_trình của DeepMind cho thấy , AI có_thể tự giải_quyết vấn_đề mới nếu các nhà_khoa_học xây_dựng thành_công cái gọi_là trí thông_minh nhân_tạo tổng_hợp ( AGI ) sánh được với trí thông_minh của con_người .
+" Nếu chúng_ta tạo ra các chương_trình máy_tính thông_minh hơn và hữu_ích hơn , thì chúng phải có khả_năng AGI để học_hỏi liên_tục " , James_Kirkpatrick , chuyên_gia làm_việc tại DeepMind , cho_biết .
+Hầu_hết AI hoạt_động dựa trên chương_trình gọi_là " mạng_lưới thần_kinh " .
+Chúng học cách thực_hiện nhiệm_vụ , chẳng_hạn như_chơi cờ hoặc chơi bài , thông_qua vô_số vòng lặp thử và phát_hiện lỗi .
+Nhưng một_khi mạng_lưới thần_kinh được tạo ra để chơi cờ , AI chỉ có_thể học chơi trò_chơi khác sau khi ghi đè lên các kỹ_năng chơi cờ của nó .
+Các nhà_nghiên_cứu gọi điều này là " sự quên_lãng " .
+Nếu AI không có kỹ_năng tự xây_dựng cho mình kỹ_năng khác , nó sẽ không_bao_giờ học_hỏi được như con_người , hoặc giải_quyết vấn_đề mới linh_hoạt theo cách mà con_người có_thể làm .
+Để_chế tạo AI mới , các nhà_nghiên_cứu tại DeepMind dựa trên những nghiên_cứu trước đó trong lĩnh_vực khoa_học thần_kinh .
+Cụ_thể là động_vật liên_tục học_hỏi bằng cách giữ lại kết_nối não quan_trọng đối_với kỹ_năng học trong quá_khứ , ví_dụ như giấu mồi hoặc tìm_kiếm thức_ăn .
+Chương_trình AI của DeepMind phản_ánh quá_trình học_tập của não một_cách đơn_giản .
+Trước khi chuyển từ nhiệm_vụ này sang nhiệm_vụ khác , AI sẽ xem_xét các kết_nối trong mạng thần_kinh của mình để tìm ra phần kiến_thức nào_là quan_trọng nhất để áp_dụng cho tình_huống tiếp_theo .
+Các nhà_nghiên_cứu đưa ra một thử_thách bằng cách cho AI mới chơi 10 trò_chơi cổ_điển theo thứ_tự ngẫu_nhiên .
+Họ nhận ra AI chơi tốt dần hơn sau mỗi trò_chơi như một người thật_sự .
+Nếu_không có phương_pháp củng_cố bộ_nhớ , AI sẽ không_thể học_hỏi và rút kinh_nghiệm được sau khi chơi một trong số các trò_chơi .
+" Nghiên_cứu này là bước_đầu để xây_dựng nhiều hệ_thống giải_quyết vấn_đề có_thể học_hỏi linh_hoạt và hiệu_quả hơn trong tương_lai " ,   Kirkpatrick nói .
+Lê_Hùng

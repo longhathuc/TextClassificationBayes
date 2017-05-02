@@ -1,0 +1,3 @@
+Bài_toán tìm giá_trị khối hình
+Mỗi khối hình mang một giá_trị .
+Dựa vào những dữ_kiện trong đề_bài , hãy thử xem bạn có_thể tìm ra đáp_án trong một phút .

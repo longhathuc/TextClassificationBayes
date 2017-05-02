@@ -1,0 +1,21 @@
+Luật_chơi của Trung_Quốc với các công_ty bản_đồ
+Chính_phủ Trung_Quốc cho rằng thông_tin địa_lý về nước này là vấn_đề an_ninh quốc_gia và mọi hoạt_động đo_đạc , thống_kê do tư_nhân làm là bất_hợp_pháp .
+Nếu muốn xem các vị_trí địa_lý trực_tuyến của Trung_Quốc , người dùng tốt hơn hết nên tránh xa Google_Maps , Ibtimes nhấn_mạnh trong bài phân_tích mới nhất .
+Dù là dịch_vụ bản_đồ được coi là tốt nhất hiện_nay nhưng các dữ_liệu về Trung_Quốc tại đây thường không chính_xác .
+Có_thể lấy ví_dụ một dòng_sông gần biên_giới giữa Ấn Độ và Trung_Quốc hoàn_toàn khác so với bản_đồ của chính Ấn Độ hay thế_giới .
+Chính_phủ Trung_Quốc coi dữ_liệu bản_đồ là vấn_đề an_ninh quốc_gia và có các chế_tài rất nghiêm_ngặt .
+Mọi hoạt_động đo_đạc , thống_kê bản_đồ do tư_nhân làm đều được coi là bất_hợp_pháp ở nước này kể từ năm 2002 .   Nếu cá_nhân hay tổ_chức nào muốn xuất_bản bất_kỳ một dữ_liệu liên_quan đến địa_lý như đất , nước hoặc vùng lãnh_thổ nào mà Trung_Quốc coi là thuộc thẩm_quyền của mình thì đều phải xin_phép .
+Trên thực_tế , Trung_Quốc đã xử_phạt ít_nhất 40 trường_hợp liên_quan đến vấn_đề thu_thập dữ_liệu địa_lý trong hơn 8 năm qua .
+Những cá_nhân , tổ_chức này thậm_chí đến từ các viện nghiên_cứu Nhật_Bản , Hàn_Quốc , hay các sinh_viên ngành địa_chất từ_trường   Imperial_College_London ( Anh ) .
+Bản_đồ Google_Maps phiên_bản sử_dụng tại Trung_Quốc ( trên ) và sử_dụng tại Mỹ ( dưới ) là hoàn_toàn khác_nhau với cùng một vị_trí .
+Người dùng đến du_lịch tại Trung_Quốc và chụp ảnh bằng một chiếc máy có tính_năng GPS sẽ thấy không một thông_tin vị_trí nào có sẵn .
+Cách duy_nhất để các công_ty dịch_vụ bản_đồ trực_tuyến hoạt_động tại đây là phải đặt máy_chủ bên trong Trung_Quốc và phải đáp_ứng các yêu_cầu cũng_như thỏa_thuận về thông_tin khắt_khe của chính_phủ .
+Dịch_vụ bản_đồ kỹ_thuật_số ở Trung_Quốc sử_dụng dữ_liệu trắc_địa được phê_chuẩn bởi chính_phủ và có tên là GCJ-02 .
+Một thuật_toán mã_hóa được thêm vào bản_đồ nhằm tạo ra những hiệu_số ngẫu_nhiên cho cả kinh_độ và vĩ_độ của một tọa_độ nhất_định .
+Vì_vậy , nếu người dùng xem trực_tuyến bản_đồ đường_phố của Trung_Quốc thông_qua Google_Maps từ nước_ngoài , dữ_liệu luôn sai_lệch từ 50 đến 500 mét .
+Tuy_nhiên nếu người dùng đang ở tại Trung_Quốc và sử_dụng bản_đồ thì dữ_liệu lại rất chính_xác .
+Điều tương_tự cũng xảy_ra với Yahoo_Maps .
+Trung_Quốc đang có tranh_chấp với 8 nước , liên_quan đến khoảng 14 vùng lãnh_thổ , nhiều nhất so với bất_kỳ quốc_gia nào trên thế_giới .
+Chính vì_vậy , chính_phủ nước này tỏ ra rất nhạy_cảm với bất_kỳ dữ_liệu bản_đồ nào không phản_ánh đúng ranh_giới mà họ đang tin_tưởng .
+Theo Metrocosm , nếu xem phiên_bản Trung_Quốc của một bản_đồ Đông_Nam Á sẽ thấy nước này sở_hữu rất nhiều các vùng_biển ở khu_vực này , bao_gồm cả những nơi ở rất gần Malaysia , Việt_Nam và   Philippines .
+Google từng gặp rất nhiều rắc_rối trong việc đặt tên các đảo ở vùng_biển tranh_chấp khi sử_dụng tên theo cách gọi của Trung_Quốc   nhưng kể từ năm_ngoái , hãng đã chuyển toàn_bộ sang cách gọi quốc_tế .

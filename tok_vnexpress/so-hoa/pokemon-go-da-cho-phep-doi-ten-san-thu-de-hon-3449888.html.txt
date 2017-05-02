@@ -1,0 +1,16 @@
+Pokemon_Go đã cho_phép đổi tên , săn thú dễ hơn
+Bản cập_nhật mới của trò_chơi đã hỗ_trợ đổi nickname , thêm cảnh_báo nguy_hiểm cho game thủ , thử_nghiệm tính_năng Nearby_Pokemon ...
+Trong phiên_bản 1.3 cho i OS hay 0.33.0 trên Android , ứng_dụng Pokemon_Go được nhà_sản_xuất thêm một_số tính_năng và sửa lỗi .
+Đáng chú_ý là người dùng có_thể đổi tên nhân_vật thêm một lần nữa , điều_chỉnh cách tính điểm kinh_nghiệm .
+Pokemon_Go phiên_bản mới thên cảnh_báo nếu chơi khi lái_xe .
+Để đổi tên , bạn bấm vào Poke_Ball rồi chọn Settings ở góc trên cùng , bên phải màn_hình .
+Bấm vào Change_Nickname , một bảng thông_báo hiện ra nhắc rằng người chơi chỉ có_thể đổi tên nhân_vật một lần , thông_tin mới sẽ được cập_nhật cho các huấn_luyện_viên ( Trainer ) khác .
+Bản cập_nhật lần này tiếp_tục sửa lỗi liên_quan đến điểm thưởng kinh_nghiệm ( XP ) khi người chơi ném Poke_Ball đạt " Nice " , " Great " và " Excellent " .
+Ngoài_ra , cảnh_báo an_toàn được bổ_sung trên Pokemon_Go , nhắc_nhở game thủ không chơi khi đang lái_xe .
+Nếu phát_hiện người chơi di_chuyển với tốc_độ nhanh hơn mức đi bộ , cảnh_báo sẽ hiện lên .
+Trong khi đó , tính_năng " Nearby " mới bổ_sung hai phần là Nearby và   Sightings .
+" Nearby " Pokemon sẽ cho_biết những thú mà người chơi có_thể săn được khi đến những PokeStop ở gần .
+Khi bấm vào đó , hình_ảnh biểu_tượng của khu_vực sẽ hiển_thị để game thủ lần theo .   Còn   Sightings có hình_ảnh bụi cỏ ở phía sau , đó là Pokemon trong hoang_dã mà người chơi cần truy_tìm ở xung_quanh vị_trí mình đang đứng .
+Xem thêm :
+> Mẹo chơi Pokemon_Go cho người ngại di_chuyển > Bản cập_nhật lớn của Pokemon_Go bị người chơi phàn_nàn
+Video :   Alex_Leavitt / YouTube

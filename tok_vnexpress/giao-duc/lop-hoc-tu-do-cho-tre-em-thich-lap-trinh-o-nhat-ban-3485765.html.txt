@@ -1,0 +1,41 @@
+Lớp_học tự_do cho trẻ_em thích lập_trình ở Nhật_Bản
+Các em được khuyến_khích tự_tạo ra_điều mình muốn trên máy_tính và không cần phải xem người hướng_dẫn là thầy_giáo .
+Anh Daisuke_Kuramoto là một kỹ_sư máy_tính chuyên phát_triển tài_liệu giáo_dục cho một đơn_vị cung_cấp nội_dung học điện_tử .
+Mỗi tháng_một lần , Daisuke lại trở_thành Qramo , người tổ_chức buổi học về lập_trình máy_tính cho trẻ_em .
+" Nếu bạn nói tôi đang dạy lập_trình thì sai rồi .
+Tôi chỉ là một người tham_gia chương_trình và hứng_thú với việc lập_trình " , Kuramoto chia_sẻ .
+Người đàn_ông 36 tuổi này đang đứng đầu tổ_chức tình_nguyện Otomo có trụ_sở tại Tokyo ( Nhật_Bản ) .
+Anh bắt_đầu chương_trình này từ năm 2008 và thành_lập Otomo một năm sau đó , tuyển_dụng các nhà_lập_trình chuyên_nghiệp cùng những sinh_viên theo học ngành khoa_học máy_tính , phụ_huynh và cả những người có sở_trường riêng với hoạt_động này .
+Nhu_cầu cho các lớp_học lập_trình ngày_càng tăng , kể từ khi Bộ Giáo dục Nhật_Bản xác_định đây sẽ là môn_học bắt_buộc để sinh_viên tốt_nghiệp từ năm 2020 .
+Đa_phần các lớp đang hoạt_động hiện_nay tại Nhật được mở bởi những trường luyện thi và tổ_chức như một hoạt_động ngoại_khóa .
+Otomo là một trong những tổ_chức như_vậy .
+Otomo mời khoảng 5 - 10 học_sinh tiểu_học và trung_học tới buổi làm_việc vào cuối tuần để các em có_thể tự viết chương_trình của mình .
+Khi có câu_hỏi , tình_nguyện_viên sẽ đưa ra gợi_ý để học_sinh tự giải_quyết .
+Với_Kuramoto , mấu_chốt là để giáo_viên gắn_kết với học_sinh và làm cùng họ thay_vì chỉ đưa ra hướng_dẫn .
+Đây cũng là điều anh mong_muốn trở_thành hình_mẫu khi trường_học giảng_dạy môn lập_trình máy_tính .
+" Điều quan_trọng của dạy lập_trình là cho học_viên tự_do , sáng_tạo về những gì họ muốn làm , không phải chỉ_dẫn học_sinh làm thế_nào và làm cái gì " , anh nói .
+Tên của nhóm được ghép bởi hai từ trong tiếng Nhật là " otona " ( người_lớn ) và " kodomo " ( trẻ_em ) , thể_hiện mục_đích của tổ_chức là để người_lớn cùng làm_việc với trẻ_em một_cách công_bằng .
+Phí tham_dự Otomo thường khoảng 1.000 yen ( 9,6 USD ) , vừa đủ để chi_trả cho phí cơ_sở vật_chất .
+Máy_tính và các thiết_bị khác được sử_dụng ở đây thường là đi mượn miễn_phí từ các tổ_chức khác .
+Khi được hỏi lý_do duy_trì hoạt_động của buổi học trong 8 năm qua , Kuramoto chỉ đơn_giản nói : " Cho vui " .
+" Chúng_tôi thích nhìn các em sử_dụng máy_tính một_cách vui_vẻ .
+Khi các em vướng vấn_đề , chúng_tôi đưa ra chút gợi_ý , giúp các em tìm ra cách lập_trình chương_trình mà mình thích .
+Điều này đủ khiến chúng_tôi thấy hài_lòng để tiếp_tục hoạt_động hiện_tại " , anh cho_biết thêm .
+Tháng 9 vừa_qua , Otomo đã mời 7 em học_sinh tiểu_học tới công_viên Yoyogi ( Tokyo ) để tham_dự buổi học ngoài_trời đầu_tiên của tổ_chức .
+Các em nhận những chiếc máy_tính bảng và được yêu_cầu biên_tập một chương_trình tạo ảnh động ghép lại từ nhiều ảnh tĩnh .
+Đầu buổi , Kuramoto chỉ cho các học_sinh cách sử_dụng thiết_bị và ứng_dụng hỗ_trợ rồi để các em tự quyết_định xem lấy cái gì để hoàn_thành yêu_cầu .
+" Nếu các em coi tôi là giáo_viên dù chỉ một lần sẽ tạo ra suy_nghĩ tôi là người sẽ dạy học_sinh lập_trình từ A tới Z .
+Vậy nên tôi bảo các em gọi tôi là Qramo , không phải thầy Kuramoto " .
+" Trẻ_em dễ tạo ra chương_trình theo cách mà giáo_viên hướng_dẫn .
+Nhưng làm_vậy không cho_phép trẻ tạo ra những gì mình muốn sau buổi học .
+Tôi muốn trẻ_em nhận ra rằng máy_tính là công_cụ cho_phép các em thoải_mái thể_hiện tối_đa sự sáng_tạo của mình " .
+Quan_điểm này của anh được hình_thành từ kinh_nghiệm cá_nhân trong_suốt quá_trình trưởng_thành .
+Sinh năm 1980 , Kuramoto lần đầu trải_nghiệm lập_trình máy_tính khi mới 8 tuổi .
+Khi chơi với chiếc máy_tính của cha mình , anh nhận ra mình thích tạo ra các trò_chơi trên máy_tính .
+Dù yêu_thích máy_tính , ước_mơ của anh lại là trở_thành bác_sĩ , thợ_mộc hoặc một nhà khảo_cổ .
+" Lập_trình chỉ là một thứ đồ_chơi của tôi .
+Tôi thích làm ra mọi thứ bằng chính đôi tay mình và lập_trình là cách dễ nhất , tiện nhất để thể_hiện bản_thân mình " .
+Vì lẽ đó , Kuramoto mong trẻ_em tham_dự các buổi học của anh sẽ xem lập_trình máy_tính là một trải_nghiệm vui_vẻ .
+" Sẽ là một bi_kịch nếu các em bị ép phải học lập_trình chỉ để đạt được điểm tốt trong bài kiểm_tra hay để tìm việc .
+Nếu bạn không hài_lòng với những thứ quanh mình , bạn luôn có_thể tự_tạo điều mình muốn và với xã_hội ngày_nay thì điều đó chẳng có gì khó , bởi giờ_đây mọi điều đều được kiểm_soát bằng máy_tính " , anh tâm_sự .
+Hải_Khanh

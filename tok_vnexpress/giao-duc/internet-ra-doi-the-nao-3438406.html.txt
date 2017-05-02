@@ -1,0 +1,5 @@
+Internet ra_đời thế_nào
+Sử_dụng mạng hằng ngày nhưng không phải ai cũng trả_lời được câu_hỏi vì_sao Internet xuất_hiện .
+Code.org là trang_web của dự_án phi lợi_nhuận với mục_tiêu phổ_cập kiến_thức cơ_bản về lập_trình thông_qua những bài_học trực_quan , thú_vị , ngay cả trẻ_em , học_sinh cũng có_thể tiếp_thu .
+Một trong những dự_án được nhiều người yêu_thích , hưởng_ứng chính là chuỗi video cung_cấp kiến_thức về Internet .
+Video dưới đây giải_thích về nguồn_gốc ra_đời và cách_thức hoạt_động của mạng máy_tính này .

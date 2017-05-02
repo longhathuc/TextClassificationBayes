@@ -1,0 +1,25 @@
+Cảnh_báo chiêu lừa buộc nạn_nhân tự tay xóa i Cloud
+Với một trang_web giả_mạo trang đăng_nhập của Apple , kẻ_gian có_thể khiến người bị mất i Phone " tự giao_nộp " tài_khoản i Cloud mà không hề hay_biết .
+Mới_đây , một tài_khoản có tên Zerostar đã đăng lên một diễn_đàn công_nghệ , chia_sẻ việc bị kẻ_gian lừa lấy đi tài_khoản i Cloud mà chính anh là nạn_nhân .
+Anh cho_biết , bạn_gái anh đã mất chiếc i Phone 6 Plus trước đó vài ngày .
+Ngay sau khi điện_thoại bị mất , anh nhanh_chóng bật tính_năng Find_My iPhone , kích_hoạt chế_độ Lost_Mode và điền số điện_thoại mình vào , mục_đích là để có_thể nhận thông_báo nếu_như i Phone được ai đó bật lên và liên_hệ .
+Mặc_dù vậy , anh vẫn không_thể biết được chiếc điện_thoại ở đâu , dù đã tra_cứu địa_điểm cuối_cùng của chiếc i Phone .
+Tin nhắn giả_mạo được gửi về bởi một_số điện_thoại rác , thay_vì từ Apple .
+Sau đó , anh liên_tục nhận được tin nhắn_gửi về số điện_thoại với nội_dung đã tìm thấy i Phone , yêu_cầu truy_cập vào địa_chỉ http : / / Apple.Inc-location.com/devices để xem chính_xác vị_trí .
+Do quá mệt ( vì trước đó vừa chạy xe hơn 200km ) , anh đã truy_cập đường link ngay trên điện_thoại thay_vì gõ lên trình_duyệt máy_tính .
+Và anh cũng quên để_ý rằng nó không phải từ Apple .
+Sau đó , một trang_web có giao_diện y_hệt trang đăng_nhập i Cloud của Apple hiện lên , và anh đăng_nhập tài_khoản mà không hề nghi_ngờ .
+Vài giây sau , máy_tính đang đăng_nhập trang i Cloud " chính chủ " hiện lên thông_báo Erase_Request is Sending ( đang gửi yêu_cầu xóa ) và có tuỳ chọn Stop_Erase_Request ( dừng gửi yêu_cầu xóa ) .
+Tuy_vậy , tiến_trình xử_lý xảy_ra quá nhanh và anh không_thể Stop_Erase_Request .
+Cuối_cùng , anh nhận được thông_báo từ Apple rằng , iPhone 6 Plus đã bị xóa khỏi tài_khoản này , khiến hi_vọng tìm lại i Phone bị mất bị dập tắt .
+Người dùng nên cẩn_trọng với các trang đăng_nhập Apple ID giả_mạo .
+Anh Trần_Hưng , trưởng_phòng kỹ_thuật của một cửa_hàng chuyên sửa_chữa điện_thoại ( trong đó có i Phone ) tại quận 7 ( TP_HCM ) cho_biết , đây là thủ_thuật có_thể lạ đối_với nhiều người , nhưng được nhiều kỹ_thuật_viên kỹ_thuật các cửa_hàng điện_thoại làm_ăn " mập_mờ " sử_dụng .
+" Đầu_tiên , kẻ_gian sẽ tạo một trang đăng_nhập i Cloud y_hệt trang Apple , sau đó dùng sim rác gửi tin nhắn có liên_kết trang_web lừa_đảo về số điện_thoại mà chủ i Phone đăng_ký nhận thông_tin thất_lạc .
+Chỉ cần người dùng nhập vào , kẻ_gian lập_tức đánh_cắp tài_khoản và mật_khẩu , rồi dùng nó để đăng_nhập vào trang thật của Apple .
+Cuối_cùng , kẻ_gian xoá tài_khoản i Cloud khỏi chiếc i Phone bị cướp nhằm mở khoá thiết_bị này " , anh Hưng giải_thích .
+Theo tiết_lộ , một_số cá_nhân , hoặc cửa_hàng làm_ăn bất_chính thường mua lại i Phone trộm_cắp đã bị khóa với giá chỉ 2 – 3 triệu đồng , sau đó lừa người dùng bằng thủ_đoạn trên để mở khóa sản_phẩm .
+Sau khi lừa trót_lọt và mở khóa i Phone thành_công , chúng sẽ bán lại thiết_bị với giá cao hơn nhiều lần .
+Anh Hưng cảnh_báo , người dùng không nên chủ_quan với các tin nhắn và liên_kết không phải từ Apple để tránh " mất cả cày lẫn trâu " .
+" Nguyên_tắc là : không được truy_cập liên_kết trực_tiếp , không tin_tưởng tin nhắn từ các đầu số di_động đến từ Việt_Nam ngoại_trừ đầu số Apple đã đăng_ký với nhà mạng có tên người gửi là ' Apple ' và ' Apple ID ' " , người này cho_biết .
+Ngoài_ra , anh Hưng nhấn_mạnh , người dùng nên kích_hoạt tính_năng xác_thực 2 lớp để nếu kẻ_gian có dùng nó để đăng_nhập vào trang i Cloud của Apple cũng không_thể làm_gì bởi phải được chấp_nhận qua mã OTP ( gửi về điện_thoại ) .
+Bảo_Lâm

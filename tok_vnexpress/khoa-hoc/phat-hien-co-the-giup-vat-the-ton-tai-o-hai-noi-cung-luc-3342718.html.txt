@@ -1,0 +1,19 @@
+Phát_hiện có_thể giúp vật_thể tồn_tại ở hai nơi cùng lúc
+Các nhà_khoa_học Mỹ chứng_minh sự tồn_tại của một đám mây nguyên_tử tại hai nơi cùng lúc , mở ra khả_năng thực_hiện thành_công kỹ_thuật dịch_chuyển tức_thời .
+Theo các định_luật vật_lý , một vật không_thể tồn_tại ở hai nơi trong cùng một thời_điểm .
+Tuy_nhiên , trong công_bố ngày 23/12 trên tạp_chí Nature , nhóm nghiên_cứu đứng đầu là tiến_sĩ Mark_Kasevich đã chứng_minh một đám mây nguyên_tử rubidium có_thể tồn_tại ở hai trạng_thái xếp chồng , hay nói cách khác nó bị lượng_tử hóa .
+Trạng_thái lượng_tử thường chỉ xảy_ra trong các hạt hạ nguyên_tử như electron , cho_phép chúng tồn_tại trong hai trạng_thái lượng_tử tại cùng một thời_điểm với khoảng_cách nhỏ cỡ một nguyên_tử .
+Ở cấp_độ vĩ_mô , thí_nghiệm của Kasevich và các đồng_nghiệp cho thấy có_thể tạo ra trạng_thái lượng_tử ở khoảng_cách 54 cm .
+The_Tech_Times , các nhà_khoa_học tại Đại_học Standford , California , Mỹ , sử_dụng kỹ_thuật giao_thoa nguyên_tử xung ánh_sáng để phát_hiện các nguyên_tử thông_qua phổ laser .
+Họ tạo ra một đám mây từ 10.000 nguyên_tử rubidium ở dạng ngưng_tụ Bose - Einstein , có đường_kính vài mm .
+Sử_dụng tia laser , họ bắn vào đám mây để đưa nó lên độ cao 10 m .
+Tại độ cao này , các đám mây tạo ra hai trạng_thái trong vài giây trước khi rơi xuống .
+Hai trạng_thái được phát_hiện cách xa nhau 54 cm .
+Sự xếp chồng trạng_thái này kéo_dài trong một giây trước khi tia laser đưa chúng trở_lại là một .
+" Kết_quả này đã đưa hiện_tượng xếp chồng lượng_tử lên cấp_độ vĩ_mô , chứng_minh tính_chất lượng_tử có_thể tồn_tại ở thang không_gian và thang thời_gian của cuộc_sống hàng ngày " , các nhà_nghiên_cứu cho_biết .
+Sự xếp chồng lượng_tử có_thể đem đến cuộc cách_mạng trong truyền_tải thông_tin .
+Ví_dụ , các máy_tính hiện_nay sử_dụng đơn_vị thông_tin bit thông_thường hoặc nhị_phân 1 hoặc 0 .
+Khi các nhà_khoa_học phát_triển thành_công máy_tính lượng_tử , một đơn_vị lượng_tử ( qubit ) có_thể phân ra ba trạng_thái tại một thời_điểm , cho_phép máy_tính đạt tốc_độ tính_toán nhanh hơn gấp nhiều lần hiện_nay .
+Phát_hiện về sự xếp chồng của vật_lý lượng_tử ở cấp_độ vĩ_mô có_thể đưa kỹ_thuật dịch_chuyển tức_thời trở_thành hiện_thực .
+Trạng_thái lượng_tử mà tại đó , vật_chất xuất_hiện ở hai nơi cùng một thời_điểm , có_thể giúp gửi dữ_liệu , một đối_tượng hữu_hình , hoặc thậm_chí là con_người đến địa_điểm cách xa nhiều km mà không cần bất_cứ liên_kết vật_lý nào .
+Thanh_Tùng

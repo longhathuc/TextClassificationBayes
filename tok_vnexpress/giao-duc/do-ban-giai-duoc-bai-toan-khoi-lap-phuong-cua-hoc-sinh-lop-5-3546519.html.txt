@@ -1,0 +1,8 @@
+Đố bạn giải được bài_toán ' khối lập_phương ' của học_sinh lớp 5
+Bài_toán ' khối lập_phương ' với những phép_tính cộng trừ đơn_giản dành cho học_sinh khối 5-6 có_thể khiến bạn mất nhiều thời_gian để suy_luận .
+Trên mỗi mặt của khối lập_phương ABCD.EFGH , Mary đều viết một_số .
+Sau đó , với mỗi đỉnh của khối lập_phương , cô ấy đã cộng các số được điền trên ba mặt của khối lập_phương có cùng đỉnh đó ( ví_dụ , với đỉnh B , cô ấy cộng các số được viết ở mặt BCDA , BAEF và BFGC ) .
+Biết rằng các kết_quả mà Mary nhận được sau khi cộng ở đỉnh C , D và E lần_lượt là 14 , 16 và 24 .
+Hỏi kết_quả mà Mary nhận được ở đỉnh F là bao_nhiêu ?
+Trần_Phương
+> > Thử_thách suy_luận của bạn với bài_toán tính nhanh lớp 5 > > Đố bạn giải được bài_toán dành cho học_sinh lớp 1-2

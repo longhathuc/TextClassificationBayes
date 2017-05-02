@@ -1,0 +1,24 @@
+' Quy_luật 5 giây ' sai_lầm về thực_phẩm nhiễm_khuẩn
+Nhiều người tin rằng thức_ăn rơi xuống đất và được nhặt lên trong vòng 5 giây thì vẫn có_thể ăn được , nhưng một nghiên_cứu gần đây phủ_nhận điều này .
+Theo Science_Alert , sau khi tiến_hành nhiều thí_nghiệm , nhóm nghiên_cứu trường Đại_học Rutgers , New_Jersey , Hoa_Kỳ tiết_lộ sự_thật về " quy_luật 5 giây " trong báo_cáo đăng trên tạp_chí Applied and Environmental_Microbiology hôm 2/9 .
+" Chúng_tôi quyết_định nghiên_cứu vấn_đề này vì đây là một quan_niệm phổ_biến .
+Đề_tài có_vẻ bình_thường nhưng chúng_tôi muốn đưa ra kết_luận trên cơ_sở khoa_học " , Donald_Schaffner , giáo_sư và chuyên_gia khoa_học thực_phẩm , chia_sẻ .
+" Quy_luật 5 giây " cho rằng khi thức_ăn rơi xuống đất , nếu được nhặt lên nhanh_chóng thì nó vẫn có_thể sử_dụng an_toàn bởi vi_khuẩn cần thời_gian để di_chuyển .
+Tuy_nhiên , bằng cách xét_nghiệm nhiều loại thức_ăn rơi trên những bề_mặt khác_nhau để tính tốc_độ lây_lan của vi_khuẩn , nhóm nghiên_cứu phát_hiện chúng có_thể bám vào đồ_ăn trong chưa đầy một giây .
+Nhóm nghiên_cứu thử_nghiệm trên bốn loại bề_mặt khác_nhau : thép_không_gỉ , gạch_men , gỗ và thảm .
+Họ nuôi vi_khuẩn Enterobacter aerogenes , loại vi_khuẩn an_toàn , không gây bệnh , có họ với vi_khuẩn Salmonella , trong phòng_thí_nghiệm và phủ lên các bề_mặt .
+Sau đó , nhiều loại thức_ăn như dưa_hấu , bánh_mì , bánh_mì bơ , kẹo dẻo được thả lên các bề_mặt này trong khoảng thời_gian 1 giây , 5 giây , 30 giây và 300 giây .
+Nhóm nghiên_cứu thực_hiện 128 cuộc thí_nghiệm khác_nhau lặp lại trong 20 lần , tổng_cộng là 2.560 phép đo để phân_tích mức_độ nhiễm_khuẩn của từng mẫu thực_phẩm .
+Kết_quả cho thấy vi_khuẩn lây_lan lên thức_ăn ngay_lập_tức chứ không cần đến 5 giây .
+Nhân_tố lớn nhất liên_quan tới sự truyền_nhiễm vi_khuẩn là độ_ẩm của thức_ăn , kế đó là loại bề_mặt nó rơi xuống .
+Thời_gian thực_phẩm ở trên bề_mặt càng lâu , vi_khuẩn bám_càng nhiều .
+" Vi_khuẩn không có chân , chúng di_chuyển nhờ hơi_nước .
+Thực_phẩm càng ướt thì càng dễ nhiễm_khuẩn .
+Ngoài_ra , thời_gian tiếp_xúc kéo_dài làm tăng lượng vi_khuẩn bám vào thức_ăn " , Schaffner giải_thích .
+Nhóm nghiên_cứu cho_biết dù thức_ăn nhiễm_khuẩn nhiều hơn trong thời_gian dài nhưng trong vòng 5 giây , vi_khuẩn vẫn có_thể bám lên thực_phẩm , đặc_biệt là những thực_phẩm ướt , dính như kẹo hay dưa_hấu .
+Đây là những thực_phẩm có mức_độ nhiễm_khuẩn cao nhất trong các thí_nghiệm .
+" Quy_luật 5 giây là một sự đơn_giản_hóa thái_quá về điều thực_sự xảy_ra khi vi_khuẩn bám từ bề_mặt sang thức_ăn .
+Chúng có_thể truyền_nhiễm ngay_lập_tức " , Schaffner khẳng_định .
+Điều thú_vị là thức_ăn rơi trên thảm an_toàn nhất so với các bề_mặt khác do cấu_tạo của thảm làm giảm tối_đa sự tiếp_xúc với thực_phẩm .
+Xem thêm :   Nhà vi_khuẩn học điểm_danh nơi bẩn nhất trong nhà
+Hiền_Anh

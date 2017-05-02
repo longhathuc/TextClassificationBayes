@@ -1,0 +1,8 @@
+Bài_toán ' mua kẹo khuyến_mại '
+Ở trung_tâm giải_trí Euroland có chiếc máy tự_động có_thể thực_hiện được hai loại giao_dịch sau :
+1 ) Bỏ vào 2 euro sẽ nhận được 3 USD và được tặng thêm 1 viên kẹo .
+2 ) Bỏ vào 5 USD sẽ nhận được 3 euro và được tặng thêm 1 viên kẹo .
+Khi_Buratino đến nghịch máy đổi tiền , cậu ta chỉ có toàn USD .
+Khi cậu ta rời khỏi đó thì tiền đô bị hao_hụt đi , không có thêm tiền euro nhưng có được 50 viên kẹo .
+Hỏi_Buratino đã tốn bao_nhiêu USD để có được món quà 50 viên kẹo đó ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

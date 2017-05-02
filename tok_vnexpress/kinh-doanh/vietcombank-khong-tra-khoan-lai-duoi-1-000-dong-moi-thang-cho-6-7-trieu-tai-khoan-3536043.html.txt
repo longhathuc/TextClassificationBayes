@@ -1,0 +1,23 @@
+Vietcombank không trả khoản lãi dưới 1.000 đồng mỗi tháng cho 6,7 triệu tài_khoản
+Kiểm_toán Nhà_nước cho rằng khoản lãi dưới 1.000 đồng cho các tài_khoản tiền gửi không kỳ_hạn tại Vietcombank không được hạch_toán để trả đúng quy_định trong 16 năm qua .
+Kết_quả nêu trên được Kiểm_toán Nhà_nước đưa ra khi kiểm_toán hệ_thống công_nghệ_thông_tin liên_quan tới báo_cáo tại chính năm 2015 tại Ngân_hàng cổ_phần Ngoại_thương Việt_Nam ( Vietcombank ) .
+Tổng_số tiền lãi không được hạch_toán trong năm này cho hơn 6,69 triệu tài_khoản ( tính trung_bình trong năm và chiếm hơn 70% số tài_khoản tiền gửi không kỳ_hạn của ngân_hàng ) là gần 9,8 tỷ đồng .
+Với các năm từ 2001 ( thời_điểm bắt_đầu áp_dụng quy_định về hạch_toán thu , trả lãi ) đến năm 2014 , do khó_khăn về dữ_liệu nên Kiểm_toán cho_biết chưa_thể tính_toán cụ_thể .
+Tại báo_cáo , Kiểm_toán Nhà_nước nhận_định   việc cài_đặt , tính_toán số lãi tiền gửi không kỳ_hạn trong hệ_thống của Vietcombank chưa phù_hợp quy_định   của Ngân_hàng Nhà_nước về phương_pháp tính và hạch_toán thu , trả lãi của các tổ_chức tín_dụng .
+Cụ_thể , các tài_khoản tiền gửi không kỳ_hạn tại Vietcombank được tự_động trả lãi định_kỳ ngày 25 hằng tháng ( không phân_biệt ngày nghỉ , lễ ) khi có mức lãi tối_thiểu là 1.000 đồng hoặc 0,1 đơn_vị_tiền_tệ với ngoại_tệ khác .
+Như_vậy , từ năm 2001 đến nay , các khoản lãi theo tháng có giá_trị nhỏ hơn 1.000 đồng hoặc 0,1 đơn_vị ngoại_tệ đã không được hệ_thống phần_mềm của ngân_hàng tính và hạch_toán đầy_đủ để trả cho khách .
+Các tài_khoản tiền gửi không kỳ_hạn có mức lãi cộng dồn trong tháng dưới 1.000 đồng không được Vietcombank trả lãi trong 16 năm .
+Ảnh : A . Q .
+Trao_đổi với VnExpress , đại_diện của Vietcombank cho_biết có tình_trạng này là do việc cài_đặt tham_số mặc_định trong phần_mềm quản_lý .
+Đây là phần_mềm do ngân_hàng mua từ nước_ngoài để quản_lý tài_khoản không kỳ_hạn , khi tài_khoản có lãi tiền gửi cộng dồn trong một tháng nhỏ hơn 0,1 USD hoặc tương_đương , hệ_thống sẽ tự_động làm_tròn xuống .
+Ví_dụ , lãi tiền gửi cộng dồn của một khách_hàng là 0,0008 USD sẽ được tự_động làm_tròn xuống 0 .
+Vị này cũng nói thêm rằng không riêng Vietcombank mà nhiều ngân_hàng trên thế_giới cũng sử_dụng phần_mềm này và có cài_đặt tham_số như_vậy .
+Lý_do của việc " làm_tròn xuống " với các khoản lãi nhỏ là với mỗi tài_khoản phát_sinh lãi , ngân_hàng sẽ cần thêm một hoá_đơn , chứng_từ mà chi_phí có_khi còn nhiều hơn số_dư trong tài_khoản .
+Tuy_vậy , trước thực_tế là tiền lãi của khách_hàng không được tính đủ , Kiểm_toán Nhà_nước đã kiến_nghị Vietcombank thực_hiện hạch_toán và chi_trả gần 10 tỷ đồng lãi tiền gửi không kỳ_hạn năm 2015 , tính và hạch_toán đầy_đủ số lãi phát_sinh năm 2016 theo đúng quy_định .
+Chia_sẻ với VnExpress , lãnh_đạo Vietcombank cũng khẳng_định sẽ tính_toán lại và trả lãi tiền gửi cho khách từ năm 2015 .
+Cũng tại báo_cáo nêu trên , Kiểm_toán nhận_định phần_mềm lõi của ngân_hàng - HOST được thiết_kế xây_dựng từ năm 1999 bao_gồm các phân hệ về hạch_toán_kế_toán trên hệ_thống tài_khoản sổ cái , quản_lý hệ_thống mã khách_hàng , danh_mục các sản_phẩm , tài_sản đảm_bảo có tích_hợp tự_động hoặc bán_tự_động với các phần_mềm quản_lý thông_tin khác .
+Kiểm_toán Nhà_nước cho rằng với hiện_trạng công_nghệ từ cuối những năm 90 và khung quản_trị rủi_ro hiện_tại của ngân_hàng , để khắc_phục các hạn_chế trên là rất khó_khăn do việc đánh_giá rủi_ro , thiết_kế thay_đổi , nâng_cấp ứng_dụng trên hệ_thống phần_mềm lõi cũ khó thích_ứng , hạn_chế về dung_lượng .
+Năm 2016 , tại Vietcombank cũng xảy_ra sự_cố đáng tiếc về bảo_mật .
+Do_đó , tại hội_nghị tổng_kết năm vừa_rồi , dưới sự tham_gia của Thống_đốc , Chủ_tịch Vietcombank_Nghiêm_Xuân_Thành cũng thừa_nhận hệ_thống công_nghệ của đơn_vị mình có phần " tụt_hậu một_vài năm " so với một_số ngân_hàng khác .
+Tuy_nhiên , ông khẳng_định sẽ quyết_tâm đưa công_nghệ của Vietcombank trở_lại vị_trí số 1 .
+Nguyễn_Hoài - Thanh_Lan

@@ -1,0 +1,23 @@
+6.000 người sập bẫy virus lây qua Facebook_Notification tại Việt_Nam
+Thủ_đoạn phát_tán virus qua thông_báo " ai đó đã nhắc đến bạn trong một bình_luận " từng gây xôn_xao cuối năm_ngoái đang xuất_hiện trở_lại và đã có hơn 6.000 người sập bẫy .
+Đây là mánh_khóe được đánh_giá là tinh_vi bởi người dùng thường sẽ bấm ngay vào thông_báo để xem bạn_bè đề_cập gì tới mình .
+Người dùng Facebook hiện_nay đã thận_trọng và tỏ ra cảnh_giác , hạn_chế truy_cập link lạ , có nguồn_gốc không rõ_ràng .
+Thế_nhưng , không có dấu_hiệu nào để người nhận_biết được rằng ẩn sau Notification đó là một đường link xấu .
+Sáng 25/4 , thành_viên Facebook có tên Tuấn_Hưng cho_biết anh thấy có thông_báo rằng mình được " mention " trong một bình_luận nên nhấn vào mà không hề nghi_ngờ .
+Thiết_bị của anh nhanh_chóng bị điều hướng đến một trang xem video có giao_diện giống_hệt Facebook .
+Tuy_nhiên , link không phải Facebook.com và chữ https cũng không có màu xanh lá .
+Đường link độc ẩn dưới một thông_báo khiến người nhận chủ_quan .
+Link dẫn đến một trang giả giao_diện Facebook .
+Trang này yêu_cầu người dùng cài_đặt tiện_ích ( plugin ) thì mới xem được video .
+Ông Nguyễn_Minh_Đức , chuyên_gia bảo_mật của FPT , cho_biết đã có hơn 6.000 người cả_tin cài plugin , khiến trình_duyệt của họ bị kiểm_soát cũng_như biến tài_khoản thành công_cụ phát_tán spam .
+Hình_thức tấn_công này từng xuất_hiện vào tháng 11/2015 .
+Khi đó , chuyên_gia bảo_mật Nguyễn_Hồng_Phúc khuyến_cáo : " Facebook không_bao_giờ yêu_cầu kêu người dùng cài thêm bất_kỳ plugin , extension , add-on hay tiện_ích nào mới xem được comment , video ...
+Khi duyệt Facebook , nếu bị đề_nghị cài phần_mềm thì người dùng không nên làm theo " .
+Cũng trong ngày 25/4 , một_số người dùng Skype tại Việt_Nam cũng trở_thành nạn_nhân của virus .
+Họ nhận được một_số đường link gửi từ bạn_bè với nội_dung " phim " , " tranh của tôi " ...
+Đường link được phát_tán qua Skype .
+Chuyên_gia Nguyễn_Minh_Đức nhận_định : " Khi bấm vào , mã độc sẽ được tải về máy_tính của nạn_nhân .
+Mã độc này bung ra vài file . exe khác và thậm_chí tải thêm một file skyplex . exe .
+Chỉ một_số phần_mềm diệt virus nhận_diện được loại này .
+Đã có ít_nhất một trường_hợp bị mã_hóa file trong máy_tính sau khi nhấn link và bị yêu_cầu đòi tiền chuộc " .
+Đây là một trong những lần hiếm_hoi virus kèm chú_thích tiếng Việt bị phát_tán qua dịch_vụ chat của Microsoft .

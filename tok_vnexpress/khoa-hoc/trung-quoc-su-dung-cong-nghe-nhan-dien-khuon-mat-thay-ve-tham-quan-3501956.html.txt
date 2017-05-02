@@ -1,0 +1,20 @@
+Trung_Quốc sử_dụng công_nghệ nhận_diện khuôn_mặt thay vé tham_quan
+Du_khách tới thị_trấn Wuzhen , Trung_Quốc sẽ không phải mua vé nhờ hệ_thống kiểm_soát bằng công_nghệ nhận_diện khuôn_mặt tại cổng .
+Công_ty công_nghệ Baidu bắt_đầu thử_nghiệm công_nghệ nhận_diện khuôn_mặt ở Wuzhen , Trung_Quốc , CNN hôm 17/11 đưa tin .
+Wuzhen là thị_trấn lịch_sử với các kênh đào và kiến_trúc cổ_điển , thu_hút hàng triệu du_khách mỗi năm .
+Khi du_khách đến thị_trấn , ảnh chân_dung của họ được chụp lại và tải lên cơ_sở_dữ_liệu .
+Máy_tính bảng gắn trên cổng ra_vào của mỗi khu_vực nhất_định sẽ quay hình người vào cổng , rồi gửi hình_ảnh đến kho dữ_liệu .
+Tại đây , trí thông_minh nhân_tạo sẽ nhận_diện du_khách và quyết_định người đó có được phép vào cửa hay không .
+Toàn_bộ quá trình_diễn ra trong 0,6 giây với tỷ_lệ chính_xác là 99,77% .
+Nó giúp rút ngắn thời_gian chờ và tăng sự thuận_tiện cho du_khách .
+Theo Baidu và công_ty du_lịch Wuzhen , công_nghệ này đang nhận được nhiều phản_hồi tích_cực .
+" Bạn sử_dụng khuôn_mặt mình ở mọi nơi .
+Công_nghệ nhận_diện khuôn_mặt có nhiều ưu_điểm mà các phương_pháp xác_thực khác không có " , Andrew_Ng , nhà_khoa_học chính của Baidu , trả_lời CNNMoney .
+Ông cho rằng công_nghệ này cũng sẽ ngăn_chặn tình_trạng phe vé .
+Khi người xem mua vé tham_dự sự_kiện , ban tổ_chức có_thể yêu_cầu một bức ảnh khuôn_mặt họ và xác_nhận lại khi người xem đến địa_điểm tổ_chức .
+Ngoài_ra , Baidu cũng cho_phép các đối_tác của họ sử_dụng công_nghệ nhận_diện khuôn_mặt .
+Một đối_tác đã áp_dụng nó để thay_thế chìa_khóa và mật_mã trên cửa_nhà .
+Cánh cửa tự_động mở ra khi một người được phép vào nhà tới gần .
+Ng hy_vọng công_nghệ này sẽ hữu_dụng đối_với những người cho thuê nhà ngắn_hạn trong tương_lai .
+Xem thêm :   Công_nghệ mới trong thành_phố thông_minh ở Trung_Quốc
+Hiền_Anh

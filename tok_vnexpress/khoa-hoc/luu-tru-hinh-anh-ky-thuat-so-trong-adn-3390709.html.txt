@@ -1,0 +1,14 @@
+Lưu_trữ hình_ảnh kỹ_thuật_số trong ADN
+Các nhà_khoa_học Mỹ kết_hợp với nhóm chuyên_gia ở công_ty Microsoft phát_triển thành_công phương_pháp lưu_trữ dữ_liệu kỹ_thuật_số vào chuỗi ADN .
+Theo Science_Alert , ADN ( deoxyribonucleic   acid ) là một trong những phân_tử sinh_học cơ_bản , chứa mã gene di_truyền của sinh_vật sống .
+Các nhà_khoa_học tìm cách sử_dụng ADN để lưu_trữ hình_ảnh kỹ_thuật_số và khôi_phục chúng nguyên_vẹn .
+Nếu công_nghệ này được cải_tiến và nhân rộng , thông_tin lưu_trữ ở trung_tâm dữ_liệu có quy_mô bằng một siêu_thị sẽ thu nhỏ bằng kích_thước một hạt đường .
+Nhóm nghiên_cứu thuộc Đại_học Washington , Mỹ , hợp_tác với các kỹ_sư Microsoft tiến_hành mã_hóa hình_ảnh kỹ_thuật_số sang chuỗi ADN , thông_qua việc chuyển_đổi số 1 và 0 ( mã nhị_phân của máy_tính ) vào 4 thành_phần cơ_bản của ADN là : adenine ( A ) , guanine ( G ) , cytosine ( C ) , thymine ( T ) .
+Kết_quả nghiên_cứu được trình_bày tại Hội_nghị quốc_tế ACM về Hỗ_trợ thiết_kế Ngôn_ngữ_lập_trình và Hệ_điều_hành , diễn ra ở Atlanta , Georgia từ ngày 2 đến 6/4 .
+Các nhà_khoa_học sử_dụng thuật_toán mã_hóa Huffman   để nén dữ_liệu , sau đó khôi_phục thành_công thông_tin đã lưu mà không mắc lỗi .
+" Sự sống tạo ra phân_tử tuyệt_vời là ADN , giúp sinh_vật lưu_trữ hiệu_quả thông_tin di_truyền và cách_thức sự sống làm_việc .
+ADN rất nhỏ gọn và bền_vững .
+Chúng_tôi tiến_hành lưu_trữ dữ_liệu kỹ_thuật_số ( hình_ảnh , video , tài_liệu ) trong ADN để sử_dụng sau hàng trăm , thậm_chí hàng nghìn năm " , Luis_Ceze , thành_viên của nhóm nghiên_cứu , cho_biết .
+Tuy kết_quả nghiên_cứu ban_đầu rất khả_quan , các nhà_khoa_học còn nhiều việc phải làm trước khi trung_tâm dữ_liệu ADN đầu_tiên ra_đời .
+Những thử_nghiệm đến nay mới chỉ diễn ra trên quy_mô nhỏ , do chi_phí tốn_kém và cần nhiều trang_thiết_bị hiện_đại .
+Lê_Hùng

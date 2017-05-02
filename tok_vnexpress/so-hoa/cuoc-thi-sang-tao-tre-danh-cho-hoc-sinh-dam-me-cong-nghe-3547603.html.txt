@@ -1,0 +1,17 @@
+Cuộc_thi Sáng_tạo trẻ dành cho học_sinh đam_mê công_nghệ
+Cuộc_thi Thử_thách Sáng_tạo trẻ ( Young_Makers_Challenge 2017 ) khuyến_khích sự sáng_tạo , nghiên_cứu khoa_học , kỹ_thuật , công_nghệ của học_sinh THCS và THPT .
+Young_Makers_Challenge do tổ_chức Young_Makers_Vietnam phối_hợp với Intel_Việt_Nam thực_hiện .
+Cuộc_thi giúp học_sinh - những " nhà sáng_tạo trẻ " khám_phá tiềm_năng của bản_thân , học_tập và phát_triển kỹ_năng cứng , kỹ_năng mềm để có_thể sáng_tạo và thiết_kế dự_án mẫu .
+Học_sinh tại các trường THCS và THPT ở Hà_Nội , TP_HCM và Đà_Nẵng có_thể lập đội với 2-3 thành_viên để đăng_ký dự thi .
+Mỗi đội có_thể tham_gia gửi nhiều ý_tưởng , xây_dựng sản_phẩm , giải_pháp trong các lĩnh_vực khác_nhau như nhà thông_minh , chăm_sóc sức_khỏe , giao_thông ( điều_khiển tín_hiệu giao_thông , nạp năng_lượng cho thiết_bị giao_thông ) , nông_nghiệp ( kiểm_soát độ_ẩm , không_khí ) ...
+Trẻ_em bắt_đầu làm_quen với những ý_tưởng sáng_chế cơ_bản như robot bóng_chuyền , xe lau nhà , robot hình nhện vận_chuyển hàng , thùng rác , dây phơi gắn cảm_biến …
+Young_Makers_Challenge có bốn vòng thi .
+Vòng đơn trực_tuyến diễn ra từ 13/2 đến 6/2 , trong đó các đội tham_gia sẽ đăng_ký thông_tin thành_viên , tên dự_án , gửi bản thuyết_trình về dự_án .
+100 đội sẽ được chọn vào vòng Thuyết_trình ý_tưởng , diễn ra ngày 19/3 .
+Ở vòng thứ_hai này , các đội sẽ trình_bày ý_tưởng và trả_lời chất_vấn trước Hội_đồng giám_khảo để chọn ra 50 đội vào vòng tiếp_theo và được phát bo_mạch Intel_Galileo để thiết_kế , xây_dựng sản_phẩm .
+Vòng bán_kết sẽ được tổ_chức vào 21/5 dành cho các đội có sản_phẩm hoàn_thiện và chọn ra 10 dự_án xuất_sắc vào vòng Chung_kết ngày 4/6 .
+Vì nhiều lý_do khác_nhau , các trường_học hiện_nay hầu_như không dạy học_sinh lập_trình - kỹ_năng được đánh_giá rất cần_thiết trong kỷ_nguyên số .
+Do_đó , đồng sáng_lập Microsoft_Bill_Gates , CEO Facebook_Mark_Zuckerberg ... đã tham_gia nhiều chiến_dịch kêu_gọi mở thêm các cuộc_thi hay các tiết học về khoa_học máy_tính ngay tại trường phổ_thông .
+Những người thành_danh tại Thung_lũng Silicon ( Mỹ ) đều hiểu tầm quan_trọng của lập_trình và rất nhiều trong số họ đã bắt_đầu viết những đoạn mã đầu_tiên khi còn rất trẻ .
+Bill_Gates cho_hay lần đầu ông tiếp_cận máy_tính khi 13 tuổi còn với Zuckerberg là khi học lớp 6 .
+Thế_nhưng , thực_tế 90% các trường trung_học hiện_nay lại không có môn lập_trình .

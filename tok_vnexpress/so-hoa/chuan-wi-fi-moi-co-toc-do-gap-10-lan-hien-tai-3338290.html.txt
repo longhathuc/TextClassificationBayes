@@ -1,0 +1,21 @@
+Chuẩn_Wi - Fi mới có tốc_độ gấp 10 lần hiện_tại
+Với tốc_độ này , người dùng có_thể chia_sẻ 1.000 bức ảnh giữa hai laptop chỉ trong vòng 5 giây , đăng một video HD dài hai phút chỉ tốn 3 giây hay tải một bộ phim Full HD chỉ cần 3 phút .
+Tại CES 2016 , Acer đã giới_thiệu laptop đầu_tiên trên thế_giới tích_hợp chuẩn Wi-Fi 802.11ad với tốc_độ trao_đổi dữ_liệu khoảng 4,6 Gb/giây , nhanh gấp 10 lần so với chuẩn 802.11n phổ_biến hiện_nay .
+802.11ad , còn có tên gọi WiGig , ra_đời từ năm 2012 , nhưng vẫn chưa được sử_dụng phổ_biến .
+Do_đó , chiếc máy_tính_xách_tay TravelMate P648 của Acer dự_kiến sẽ mở_màn cho việc tích_hợp Wi-Fi tốc_độ cao trên thiết_bị di_động trong năm nay .
+Laptop đầu_tiên có chuẩn WiGig .
+Các thiết_bị hiện_nay chủ_yếu được trang_bị chuẩn IEEE 802.11n , ra_đời năm 2009 với tốc_độ 100 Mb/giây .
+Còn IEEE 802.11ac được coi là chuẩn mở_rộng của 802.11n , đạt tốc_độ lý_thuyết 500 Mb/giây .
+Cũng trong năm 2009 , liên_minh mang tên Wireless_Gigabit_Alliance ( WiGig ) được thành_lập với nhiều tên_tuổi lớn như Apple , Microsoft , Sony , Nvidia , Samsung , Panasonic và Qualcomm nhằm xây_dựng một chuẩn Wi-Fi siêu_tốc .
+Đó là IEEE 802.11ad với mục_tiêu đạt tốc_độ trao_đổi dữ_liệu tầm gần khoảng 4,6 - 7 Gb/giây , sử_dụng băng tần 60 GHz .
+Thông_số chính_thức cho chuẩn này được đưa ra cuối năm 2012 .
+Với tốc_độ này , người dùng có_thể chia_sẻ 1.000 bức ảnh giữa hai laptop chỉ trong vòng 5 giây , đăng một video HD dài hai phút chỉ tốn 3 giây hay tải một bộ phim Full HD chỉ cần 3 phút thay_vì chờ một tiếng đồng_hồ như chuẩn 802.11n .
+Tuy_nhiên , điểm hạn_chế của việc sử_dụng tần_số 60 GHz là phạm_vi hoạt_động .
+802.11ad
+truyền xa kém , xử_lý chướng_ngại_vật ( như các bức tường , thiết_bị gia_dụng ... ) chưa tốt và tiêu tốn năng_lượng .   WiGig có phạm_vi hoạt_động khoảng 9,1 m và hiệu_quả nhất_là dưới 4,6 m , tức sẽ   chỉ hữu_ích khi người dùng kết_nối thiết_bị trong cùng một căn phòng .
+Bên_cạnh đó ,   802.11ad cũng không tương_thích ngược với 802.11n .   Vì_vậy , đây được coi là một kết_nối hỗ_trợ chứ khó thay_thế các chuẩn Wi-Fi khác ( Wi-Fi chuẩn n có tầm hoạt_động 50-125 mét ) .   Chuẩn   802.11ad được đánh_giá sẽ phát_huy vai_trò lớn trong việc streaming video .
+Qualcomm là một trong số những công_ty đầu_tư mạnh nhất vào WiGig .
+Tháng 9/2015 , họ đã giới_thiệu ở Việt_Nam dòng chip Snapdragon 820 mă ̣ c đi ̣ nh hô ̃ trơ ̣ kê ́ t nô ́ i không dây tiêu chuâ ̉ n gồm 802.11ad , 802.11ac 2x2 MU-MIMO .
+Ngày 5/1/2016 , Acer giới_thiệu dòng laptop TravelMate P648 với điểm nhấn là kết_nối không dây WiGig 802.11ad dù chuẩn này chưa được ứng_dụng rộng_rãi trên thị_trường .
+Giới công_nghệ kỳ_vọng   Wi-Fi 802.11ad sẽ xuất_hiện nhiều hơn_nữa trong các thiết_bị điện_tử tiêu_dùng năm nay .
+Châu_An

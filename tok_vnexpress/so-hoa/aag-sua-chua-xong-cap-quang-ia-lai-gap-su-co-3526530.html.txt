@@ -1,0 +1,13 @@
+AAG sửa chưa xong , cáp_quang IA lại gặp sự_cố
+Cáp_quang biển Liên Á ( Intra - Asia ) bị đứt tại vị_trí gần Hong   Kong gây khó_khăn cho việc truy_cập Internet từ Việt_Nam ra nước_ngoài .
+Theo thông_tin từ một nhà_cung_cấp dịch_vụ Internet ( ISP ) trong nước , cáp_quang biển Liên Á được xác_định bị đứt trong_sáng 10/1 , tại vị_trí gần Hong_Kong .
+Sự_cố gây mất liên_lạc trên tuyến theo hướng kết_nối từ Việt_Nam đi Hong_Kong .
+Sau AAG , tuyến cáp IA cũng gặp sự_cố gây ảnh_hưởng tới kết_nối Internet từ Việt_Nam đi quốc_tế .
+Ngày 8/1 , tuyến cáp_quang khác là   Asia – America_Gateway ( AAG ) cũng trục_trặc , gây mất kênh truyền trên cả ba hướng kết_nối đi Hong_Kong , Singapore và Mỹ .
+Nguyên_nhân được xác_định do rò_rỉ điện và dự_kiến AAG sẽ được sửa xong vào ngày 18/1 .
+Mặc_dù các ISP đã đưa ra các biện_pháp khắc_phục nhưng hai sự_cố liên_tiếp trên tuyến mạng vẫn ảnh_hưởng tới kết_nối Internet từ Việt_Nam đi quốc_tế .
+Cụ_thể , AAG là tuyến cáp_quang quan_trọng hàng_đầu khi trong năm 2016 nó chiếm tới hơn 60% lưu_lượng kết_nối trong nước ra nước_ngoài .
+Trong khi đó , tuyến cáp mới được khai_thác là   APG ( Asia_Pacific_Gateway ) hoạt_động còn giới_hạn do vẫn trong giai_đoạn thử_nghiệm .
+Tuy_nhiên , một nhà_cung_cấp Internet cho_biết sau khi AAG và IA cùng gặp sự_cố thì đơn_vị này đã bổ_sung dung_lượng từ APG , giúp kết_nối được ổn_định .
+Trong năm 2016 , đã có bốn lần tuyến cáp_quang biển AAG gặp trục_trặc và phải tiến_hành bảo_trì , vào các tháng 3 , 6 , 8 và tháng 9 .
+Trong năm 2017 , nhiều nhà mạng sẽ mở_rộng các kênh truyền khác , trong đó có tuyến cáp_quang AAE - 1 ( Asia_Africa_Euro 1 ) , nối các nước châu Á đến châu Âu và châu Phi .

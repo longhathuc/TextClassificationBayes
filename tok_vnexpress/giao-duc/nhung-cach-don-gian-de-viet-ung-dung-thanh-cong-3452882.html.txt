@@ -1,0 +1,34 @@
+Những cách đơn_giản để viết ứng_dụng thành_công
+Giao_diện của ứng_dụng cần dễ nhìn , cách_thức sử_dụng đơn_giản .
+Bạn cũng cần nhận_diện những sai_lầm của người đi trước để rút kinh_nghiệm cho bản_thân .
+Làm thế_nào để ứng_dụng được người dùng đón_nhận khi hiện_tại đã có hàng triệu phần_mềm cạnh_tranh khốc_liệt trên các chợ ứng_dụng Apple_Store và Google_Play .
+Dưới đây là những lời khuyên từ các nhà_phát_triển ứng_dụng độc_lập thành_công do tờ Entrepreneur tổng_hợp .
+Theo lập_trình_viên Matt_Hall của công_ty phát_triển game Klicktock , các bạn trẻ đừng quá chú_tâm vào những ứng_dụng thành_công mà cần dành thời_gian tìm_hiểu cả những phần_mềm chưa phổ_biến .
+Nghiên_cứu những ứng_dụng ở phía chót bảng xếp_hạng sẽ giúp tránh lập lại sai_lầm của người đi trước , những gì nên làm và cần tránh .
+Tập_trung vào việc tạo ra các ứng_dụng đơn_giản có_thể hoàn_tất chỉ trong khoảng 6-8 tuần .
+Điều này cho_phép bạn kiểm_tra nhiều ý_tưởng khác_nhau và tạo ra danh_mục đầu_tư phù_hợp của các ứng_dụng , gia_tăng khả_năng thành_công của mình .
+Kỹ_sư Philipp_Stollenmayer từ Kamibox , người đã viết những trò_chơi có lượt tải cao trên Apple trong nhiều tuần liên_tiếp nhấn_mạnh " thiết_kế là tất_cả mọi thứ " .
+Nếu ứng_dụng thiết_kế dễ nhìn , mạch_lạc , tên gọi hấp_dẫn và biểu_tượng thu_hút thì không khó để gây chú_ý đến người dùng .
+Nếu có đam_mê , bạn sẽ có động_lực để giải_quyết những khó_khăn và luôn suy_nghĩ tích_cực , thúc_đẩy sáng_tạo những gì tốt nhất cho người dùng .
+Cần nhớ rằng nhiều nhà_phát_triển hàng_đầu vẫn hăng_say tạo ra các ứng_dụng ngay cả khi họ không được trả tiền .
+Tuy làm_việc với niềm đam_mê nhưng các bạn trẻ cũng đừng nên quá " mù_quáng " với ý_tưởng của mình .
+Do_đó cần có những phân_tích kỹ_lưỡng về hướng đi của mình , những mặt được và hạn_chế .
+Ngoài_ra cần mở_rộng tầm nhìn sang các đối_thủ cạnh_tranh , nghiên_cứu toàn_diện về xu_hướng thị_trường để chắc_chắn ứng_dụng của mình phù_hợp thị_hiếu và đem lại giá_trị thực_tế .
+Đừng nghĩ những gì quá cao_siêu , điều quan_trọng là làm ra những gì người dùng hài_lòng với cách_thức sử_dụng đơn_giản , dễ hiểu .
+Mục_tiêu của bạn là tạo một ứng_dụng mà khi một người mới dùng tải về chỉ cần vài giây là có_thể hiểu được cách_thức hoạt_động .
+Thành_công không dễ_dàng đến mà nó là quả một quá_trình , với nhiều lập_trình_viên họ phải mất cả chục năm .
+Cần đam_mê và kiên_trì với những gì đang làm , liên_tục học_hỏi những kiến_thức mới và cả ứng_dụng vừa được công_bố để nâng cao năng_lực bản_thân , đủ nền_tảng để hiện_thực hóa mục_tiêu của mình .
+Dan_Counsell - người sáng_lập của Realmac_Software cho rằng các nhà_phát_triển độc_lập không cần phải tìm_kiếm các nhà_đầu_tư .
+Thay vào đó họ nên dành thời_gian và công_sức để nghiên_cứu và xây_dựng phần_mềm hữu_ích .
+Có được những đồng_nghiệp tốt giúp tăng_cường ý_tưởng , kỹ_thuật và cải_thiện cả   yếu_tố tài_chính với những dự_án dài_hơi .
+Trong công_việc sẽ có sai_sót , trở_ngại ... nhưng không_bao_giờ là quá muộn nếu biết nhận thấy vấn_đề và tập_trung tìm hướng giải_quyết , đưa ra giải_pháp phù_hợp .
+Phân_phối là một thách_thức lớn cho bất_kỳ ứng_dụng nào .
+Bạn có_thể xây_dựng một sản_phẩm tốt nhưng nếu_không giới_thiệu được nó đến người dùng thì tính hiệu_quả vẫn là con_số không .
+Do_vậy nên tìm mọi cách để người dùng có_thể tiếp_cận nó một_cách dễ_dàng , tận_dụng các phương_tiện để quảng_bá sản_phẩm nhiều nhất có_thể .
+Kỹ_sư Carter_Thomas của hãng Blue_Cloud_Solutions cho rằng đôi_khi nên " thả_lỏng " trong vòng một hay 2 ngày và suy_nghĩ trung_thực về lý_do tại_sao mình chọn việc lập_trình .
+Có một mục_tiêu rõ_ràng sẽ giúp bạn tìm được hướng đi đúng để có những ứng_dụng hữu_ích .
+Dhanush_Balachandran - người sáng_lập của Sortly gợi_ý rằng nếu đã suy_nghĩ về việc xây_dựng các ứng_dụng thì đừng đắn_đo thực_hiện nó .
+Không nên quá lo_lắng về quá_trình khởi_đầu .
+Bạn sẽ học được nhiều điều từ xây_dựng ứng_dụng đầu_tiên và giới_thiệu ra công_chúng .
+Luôn tin_tưởng vào ý_tưởng của mình , tránh tình_trạng " đứng_núi_này_trông_núi_nọ " và đầu_tư nghiêm_túc để biến ý_tưởng thành hiện_thực .
+Minh_Trí

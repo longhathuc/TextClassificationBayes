@@ -1,0 +1,21 @@
+Thí_sinh được thay_đổi nguyện_vọng đăng_ký xét tuyển như_thế_nào
+Sau khi có kết_quả thi THPT quốc_gia , nếu có nguyện_vọng , mỗi thí_sinh chỉ được điều_chỉnh đăng_ký xét tuyển ( ĐKXT ) một lần trong thời_gian quy_định và chỉ được sử_dụng một trong hai phương_thức : trực_tuyến hoặc bằng Phiếu điều_chỉnh .
+Điều_chỉnh bằng phương_thức trực_tuyến thì thí_sinh sử_dụng tài_khoản và mật_khẩu cá_nhân đã được cấp để thực_hiện .
+Phương_thức này chỉ chấp_nhận khi số_lượng nguyện_vọng sau khi điều_chỉnh không lớn hơn số_lượng nguyện_vọng đã đăng_ký ban_đầu trong Phiếu đăng_ký dự thi .
+Nếu sử_dụng Phiếu điều_chỉnh nguyện_vọng ĐKXT , thí_sinh được điều_chỉnh tăng thêm số_lượng nguyện_vọng so với số đăng_ký ban_đầu trong Phiếu đăng_ký dự thi và phải nộp bổ_sung lệ_phí cho số nguyện_vọng tăng thêm theo quy_định .
+Thí_sinh phải điền đầy_đủ thông_tin vào Phiếu điều_chỉnh nguyện_vọng ĐKXT và gửi trực_tiếp về điểm thu_nhận hồ_sơ để cán_bộ máy_tính cập_nhật vào dữ_liệu Cổng thông_tin tuyển_sinh của Bộ Giáo dục .
+Thí_sinh phải ghi đúng mã trường , mã ngành / nhóm ngành , mã tổ_hợp xét tuyển theo quy_định của trường .
+Nguyện_vọng nào ghi không đúng sẽ không được hệ_thống phần_mềm chấp_nhận và bị loại .
+Nơi thu_nhận hồ_sơ phải yêu_cầu thí_sinh kiểm_tra kết_quả điều_chỉnh nguyện_vọng ĐKXT trong thời_gian quy_định và đề_nghị điều_chỉnh sai_sót , nếu có .
+Các trường THPT mở phòng máy_tính có nối_mạng Internet để thí_sinh điều_chỉnh nguyện_vọng ĐKXT trực_tuyến .
+Các trường không cập_nhật , không công_bố thông_tin thí_sinh ĐKXT
+Trong thời_gian thí_sinh điều_chỉnh nguyện_vọng ĐKXT , các trường không cập_nhật , không công_bố thông_tin thí_sinh ĐKXT vào trường .
+Các trường phải bố_trí bộ_phận thường_trực gồm cán_bộ có năng_lực , có kinh_nghiệm trong công_tác tuyển_sinh , nắm vững quy_chế để giải_đáp thắc_mắc liên_quan đến công_tác xét tuyển của trường và chế_độ ưu_tiên trong tuyển_sinh .
+Trường có trách_nhiệm hỗ_trợ thí_sinh sử_dụng các phòng máy_tính nối_mạng Internet của trường để điều_chỉnh nguyện_vọng ĐKXT bằng phương_thức trực_tuyến ( nếu thí_sinh có nhu_cầu ) .
+Cách xác_định khu_vực ưu_tiên
+Đối_với các trường THPT do thay_đổi địa_giới hành_chính , chuyển địa_điểm hoặc thay_đổi cấp hành_chính dẫn đến thay_đổi mức ưu_tiên khu_vực thì mỗi giai_đoạn hưởng mức ưu_tiên khác_nhau , trường sẽ được gán một mã trường khác_nhau cùng_với một mức ưu_tiên khu_vực phù_hợp .
+Thí_sinh căn_cứ thời_gian học_tập tại trường THPT chọn và điền đúng mã trường theo các giai_đoạn để được hưởng đúng_mức ưu_tiên theo khu_vực .
+Ví_dụ trường THPT Nguyễn_Đình_Liễn từ năm 2013 về trước đóng trên xã Cẩm_Huy , huyện Cẩm_Xuyên , tỉnh Hà_Tĩnh thuộc KV2-NT , từ năm 2014 trường chuyển đến xã Cẩm_Dương , huyện Cẩm_Xuyên , tỉnh Hà_Tĩnh thuộc KV1 .
+Vậy trường này sẽ được gán 2 mã khác_nhau : Mã 068 - gán cho trường trong thời_gian từ năm 2013 về trước ; Mã 053 - gán cho trường trong thời_gian từ năm 2014 đến nay .
+Nếu thí_sinh học tại trường này từ năm 2013 đến năm 2015 , lớp 10 sẽ khai mã trường là 068 , lớp 11 và lớp 12 khai mã trường là 053 .
+Lan_Hạ

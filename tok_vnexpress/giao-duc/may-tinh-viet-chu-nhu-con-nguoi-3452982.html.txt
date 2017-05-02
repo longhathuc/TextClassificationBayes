@@ -1,0 +1,16 @@
+Máy_tính viết chữ như con_người
+Công_đoạn lập_trình giúp máy_tính ghi_nhớ , phân_tích từng chi_tiết trong nét chữ của bất_kỳ người nào và mô_phỏng lại gần_như hoàn_hảo .
+Các nhà_nghiên_cứu tại trường Đại_học London ( UCL - Anh ) đã sử_dụng một thuật_toán để dạy máy_tính bắt_chước chữ_viết của con_người .
+Cụ_thể , máy_tính sẽ ghi_nhớ mẫu chữ_viết tay từ một đoạn văn_bản cho sẵn , đánh_giá chất_lượng rồi viết ra theo phong_cách y_hệt .
+Hiện_nay đã có nhiều chương_trình giúp các máy_tính tạo được những đoạn văn_bản gần giống với chữ_viết .
+Tuy_nhiên , nhóm nhà_nghiên_cứu tại UCL do Tom_Haines dẫn_đầu đã tạo ra phần_mềm để máy_tính " tái_tạo " đầy_đủ , chi_tiết chữ_viết tay của bất_kỳ người nào .
+Hệ_thống mới được đặt tên " My text in your handwriting " và đã được thử_nghiệm trên nhiều mẫu chữ_viết khác_nhau , trong đó bao_gồm cả của những nhân_vật lịch_sử như cố Tổng_thống Mỹ_Abraham_Lincoln hay Sir_Arthur_Conan_Doyle , tác_giả của bộ truyện trinh_thám nổi_tiếng xoay quanh vị thám_tử Sherlock_Holmes .
+Trong những bài thử_nghiệm mà Tom_Haines cùng chương_trình của mình đã trải qua , có trường_hợp người viết mẫu có nét chữ được miêu_tả là " vô_cùng xấu , xấu đến mức cả người_nhà cũng phải vất_vả mới luận ra được " .
+Người này cung_cấp mẫu thử được viết_tay trên giấy , sử_dụng bút_bi .
+Chương_trình bắt_đầu đánh_dấu từng chữ_cái và dấu_câu một , phân_tích một_số chi_tiết trong bản viết_tay .
+Sau khi quá_trình này hoàn_tất , Tom bắt_đầu thuật_toán và gõ vào ô nhập liệu chữ " Hello " ( Xin chào ) .
+Một loáng sau , chữ " Hello " khá rõ_ràng hiện lên màn_hình và người viết mẫu phải công_nhận nét chữ này gần_như không khác_biệt với " nét chữ như mèo cào " của mình .
+Độ khó được nâng lên với một câu văn đầy_đủ và kết_quả cũng hết_sức khả_quan .
+Mục_đích sử_dụng cụ_thể hay thương_mại của chương_trình này hiện chưa được xác_định vì đang dừng lại ở mức nghiên_cứu .
+Theo Tom_Haines , chương_trình không_thể sử_dụng cho các mục_đích phi_pháp ( ví_dụ giả chữ_ký trong các văn_bản , chứng_từ ) bởi chỉ cần kiểm_tra kỹ bằng kính_hiển_vi là có_thể phát_hiện ra " tác_giả " là con_người hay máy_tính .
+Thu_Ngân ( theo BBC )

@@ -1,0 +1,12 @@
+Đáp_án bài_toán xác_suất lấy bi trong 2017 hộp
+Nhiều độc_giả đã trả_lời chính_xác , n nhỏ nhất để P ( n ) < 1/2017 là 45 .
+Đề_bài :
+Có 2017 hộp đựng bi được xếp thẳng hàng .
+Hộp thứ nhất chứa 1 viên bi màu đỏ và 1 viên bi màu xanh .
+Hộp thứ 2 chứa 1 viên bi màu đỏ và 2 viên bi màu xanh … Hộp thứ k chứa 1 viên bi màu đỏ và k viên bi màu xanh .
+Thực_hiện các bước lấy bi lần_lượt theo thứ_tự đánh_số của các hộp , mỗi bước chỉ được lấy 1 viên bi trong 1 hộp .
+Phép lấy bi sẽ dừng lại cho_đến khi lấy_được viên bi màu đỏ đầu_tiên .
+Gọi n là số bước thực_hiện và P ( n ) là xác_suất lấy_được viên bi màu đỏ đầu_tiên .
+Tìm số n nhỏ nhất để P ( n )
+Lời_giải :
+Trần_Phương Phó_giám_đốc Trung_tâm hỗ_trợ phát_triển tài_năng

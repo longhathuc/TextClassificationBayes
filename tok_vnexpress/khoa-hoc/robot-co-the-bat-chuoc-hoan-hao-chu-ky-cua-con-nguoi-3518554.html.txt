@@ -1,0 +1,11 @@
+Robot có_thể bắt_chước hoàn_hảo chữ_ký của con_người
+Robot_Axi_Draw sử_dụng thuần_thục các loại bút để viết thư mời , vẽ tranh chân_dung , thậm_chí là bắt_chước y_hệt chữ_ký của người khác .
+Axi_Draw là loại robot viết chữ do phòng_thí_nghiệm Evil_Mad_Scientist chế_tạo là cỗ máy gọn_nhẹ có_thể viết vẽ bất_cứ thứ gì lên các mặt_phẳng bằng bút mực , bút_bi , bút đánh_dấu , với kỹ_năng điêu_luyện hơn cách con_người sử_dụng bút , theo Mashable .
+Robot_Axi_Draw sử_dụng các bánh_xe di_chuyển trên trục nhôm để điều_khiển chuyển_động của bút theo phần_mềm được cài_đặt sẵn .
+Nó có_thể bắt_chước hoàn_hảo nét chữ_viết tay của con_người để viết , vẽ thiệp mời , tranh chân_dung , hay thậm_chí là bắt_chước chữ_ký của người khác .
+Phiên_bản Axi_Draw V3 được cải_tiến hệ_thống chuyển_động , giúp robot nhẹ hơn và hoạt_động mượt_mà hơn , đạt tốc_độ vẽ nhanh hơn các phiên_bản trước .
+Phần đế giữ bút có_thể điều_chỉnh được , giúp robot sử_dụng được nhiều loại bút có kích_cỡ khác_nhau .
+Axidraw hoạt_động thông_qua chương_trình đồ_họa vector mã nguồn mở Inkscape , cho_phép người dùng tự viết các ứng_dụng của riêng mình .
+Sản_phẩm có_thể viết được trên giấy A4 , bằng_khen hay phong_bì , cũng có_thể dùng để vẽ trên bề_mặt gỗ , đá .
+Mức giá_mà nhà_sản_xuất đưa ra cho mỗi chiếc Axi_Draw là 450 USD .
+Việt_Dũng

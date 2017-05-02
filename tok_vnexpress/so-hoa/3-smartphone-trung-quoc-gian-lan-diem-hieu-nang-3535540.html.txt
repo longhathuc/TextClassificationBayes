@@ -1,0 +1,25 @@
+3 smartphone Trung_Quốc gian_lận điểm hiệu_năng
+OnePlus 3 , OnePlus 3T , và Meizu_Pro 6 là 3 smartphone bị phát_hiện đẩy điểm hiệu_năng cao hơn so với thực_tế nhằm đánh_lừa người dùng rằng thiết_bị của họ mạnh hơn so với điện_thoại khác cùng cấu_hình .
+Trang XDA-Developers và " cha_đẻ " của công_cụ đo hiệu_năng Geekbench , Primate_Labs , đã phát_hiện ra rằng 3 mẫu smartphone gồm OnePlus 3 , OnePlus 3T , và Meizu_Pro 6 từ các hãng cùng tên đã ăn_gian điểm hiệu_năng .
+Tuy_nhiên , Meizu và OnePlus đã làm theo những cách khác_nhau .
+Meizu_Pro 6 là một trong ba chiếc smartphone bị phát_hiện gian_lận điểm Benchmark .
+Cụ_thể , nếu các hãng khác trước_đây thường ăn_gian điểm hiệu_năng bằng cách tối_ưu cho riêng ứng_dụng chấm điểm ( như Geekbench , AnTuTu Benchmark , Quadrant , Androbench , Vellamo hay GFXBench ) , thì OnePlus tìm cách can_thiệp sâu vào phần_cứng .
+Khi phát_hiện những công_cụ Benchmark đang chạy , CPU máy sẽ tự_động chuyển sang chế_độ tăng_tốc , từ đó cho điểm hiệu_năng tốt hơn so với thông_thường .
+Với_One Plus 3 và OnePlus 3T , OnePlus đã tích_hợp sẵn ( hard-code ) một danh_sách sẵn các công_cụ Benchmark vào bên trong máy .
+Khi phát_hiện một trong các công_cụ đang chạy , máy tự_động tối_ưu và đẩy hiệu_năng lên cao .
+XDA đã phát_hiện danh_sách này có trong firmware của 2 chiếc máy trên .
+Đó là lý_do vì_sao các chuyên_gia thử_nghiệm Geekbench 4 và tạo một phiên_bản y_hệt nhưng đổi tên có tên " Bob ’ s Mini_Golf_Putt " , điểm_số hiệu_năng máy hoàn_toàn khác_nhau .
+Các chuyên_gia cũng chỉ ra rằng , OnePlus 3 và OnePlus 3T khi chạy công_cụ đo hiệu_năng , kể_cả khi CPU không thực_hiện tác_vụ nào ( chế_độ nhàn_rỗi ) , lõi xử_lý chính vẫn đẩy tốc_độ xung nhịp lên mức 1,29 GHz , trong khi lõi xử_lý phụ là 0,98 GHz .
+Nhưng với các ứng_dụng thông_thường , CPU chỉ ở mức 0,31 GHz với cả lõi xử_lý chính lẫn phụ .
+Với_Meizu , cơ_chế có khác đôi_chút , lõi lớn của CPU sẽ được lựa_chọn để kích_hoạt bất_kỳ lúc_nào nếu thiết_bị phát_hiện ra phần_mềm Benchmark .
+Với nhiều smartphone hiện_nay , tính_năng này được sử_dụng khi thiết_bị chạy ứng_dụng nặng , nhưng Meizu đã lựa_chọn nó cho công_cụ đo hiệu_năng trên Meizu_Pro 6 .
+Tuy_nhiên , dù gian_lận kết_quả chênh_lệch cũng không phải là quá cao , chỉ vài phần_trăm .
+Mức chênh_lệch điểm benchmark giữa điểm thực và điểm gian_lận   trên OnePlus 3T   không quá cao .
+Sau phát_hiện trên , OnePlus đã lên_tiếng thừa_nhận .
+Theo đại_diện của hãng điện_thoại này , hãng muốn tạo cho người dùng " trải_nghiệm tốt hơn " nhưng hứa sẽ tung ra bản cập_nhật để cải_thiện vấn_đề này sớm .
+Meizu chưa đưa ra bình_luận nào .
+Trước đó , Galaxy S4 cũng bị Anandtech phát_hiện gian_lận Benchmark vào năm 2013 .
+Sau đó , hàng_loạt hãng khác như Asus , HTC , LG… cũng bị phát_hiện đã can_thiệp vào các thiết_bị của mình để đẩy điểm hiệu_năng lên cao hơn so với thực_tế .   Tuy_vậy , chỉ có một_số hãng thừa_nhận , số còn lại hoặc phủ_nhận , hoặc không đưa ra ý_kiến gì .
+Androidauthority nhận_định vẫn còn rất nhiều hãng muốn chứng_tỏ rằng sản_phẩm của mình mạnh hơn so với các sản_phẩm cùng phân khúc trên thị_trường nên tìm cách " làm_đẹp " các thông_số bằng cách đẩy cao_điểm hiệu_năng .
+Do_đó , danh_sách smartphone ăn_gian điểm Benchmark không_chỉ dừng lại ở 3 thiết_bị trên .
+Bảo_Lâm

@@ -1,0 +1,26 @@
+Nhật_Bản thử_nghiệm mạng 5G nhanh như cáp_quang
+Các nhà_khoa_học Nhật_Bản đã có bước_tiến quan_trọng trong việc đưa tốc_độ mạng không dây đạt 100 Gb mỗi giây , tương_đương tốc_độ truyền bằng cáp_quang .
+Hiện_tại , các nhà_khoa_học trên thế_giới đang thử_nghiệm để tạo ra tốc_độ truyền không dây siêu nhanh cho mạng 5G .
+Tuy_nhiên , họ chủ_yếu sử_dụng tần_số sóng milimet trong khoảng 6 GHz đến 100 GHz .
+Trong khi đó , nhóm nghiên_cứu đến từ Đại_học Hiroshima , Panasonic và Viện_Thông tin và Truyền_thông Nhật_Bản đã phát_triển một máy phát vô_tuyến hoạt_động trong tần_số dưới terahertz milimet , nhằm mang các kết_nối tốc_độ cao qua nhiều kênh .
+Các nhà_khoa_học Nhật_Bản thử_nghiệm thành_công mạng không dây tốc_độ 100 Gbps .
+" Chúng_ta thường nói về tốc_độ mạng không dây với đơn_vị megabit mỗi giây hay gigabit mỗi giây .
+Nhưng tôi tin rằng , sắp tới sẽ là terabit trên giây nhờ những tiến_bộ khoa_học_kỹ_thuật đem lại .
+Tốc_độ này hiện giới_hạn trên cáp_quang , song chúng_tôi muốn mạng không dây cũng như_vậy " , giáo_sư Minoru_Fujishima tại Đại_học Hiroshima nói .
+Mặc_dù được thử_nghiệm nhưng chưa có quy_chuẩn chung cho mạng 5G .
+Ngay cả trong nghiên_cứu trên , các nhà_khoa_học cũng không công_bố tốc_độ 100 Gb/giây đạt được với khoảng_cách truyền bao_xa .
+Viện_Kỹ thuật Điện và Điện_tử ( IEEE ) và Hiệp_hội GSM mới chỉ dùng thuật_ngữ chung_chung để mô_tả mạng 5G : thế_hệ mạng tiếp_theo dự_kiến có tốc_độ cực nhanh .
+Tháng 10/2014 , Samsung_Electronics thiết_lập kỷ_lục với mạng không dây đạt tốc_độ 7,5 Gb mỗi giây .
+Một tháng sau , kỷ_lục bị phá vỡ bởi 5GIC là liên_minh của Huawei , Fujitsu , EE , Aircom , BT , Samsung , Telefonica , Vodafone ... Tốc_độ mà 5GIC đạt được là 0,8 terabit ( 800 Gb mỗi giây ) .
+Nhưng đến tháng 2/2015 , chính đơn_vị này đã thiết_lập một kỷ_lục mới với tốc_độ 1Tb mỗi giây .
+Hiện đây cũng là tốc_độ mạng không dây nhanh_nhất trên thế_giới được thử_nghiệm thành_công .
+Tuy_nhiên với mạng 5G , ngoài tốc_độ siêu nhanh thì còn cần đạt khoảng_cách truyền lớn .
+Chẳng_hạn kỷ_lục mà 5GIC thiết_lập được trong phòng_thí_nghiệm với khoảng_cách chỉ 100 m và không rõ loại mạng mà đơn_vị này sử_dụng .
+Trong khi đó , Samsung thử_nghiệm ngoài_trời cách xa 4,35 km với mạng 28 GHz .
+Tháng 2/2016 , Fujitsu và Viện_Công nghệ Tokyo ( Nhật_Bản ) thông_báo , họ có_thể đạt tốc_độ 56 Gbps nhờ sử_dụng chip thu phát không dây mới .
+Tuy_nhiên khoảng_cách truyền chỉ là 10 cm .
+Đến nay , kết_quả ấn_tượng nhất_là của Huawei và NTT DoCoMo với tốc_độ Internet cho di_động đạt 3,6 Gb mỗi giây ; điều_kiện sử_dụng ngoài_trời khắp thành_phố Thành_Đô , tỉnh Tứ_Xuyên ( Trung_Quốc ) vào tháng 10/2015 .
+Cuối năm 2015 , Việt_Nam bắt_đầu triển_khai thử_nghiệm mạng 4G .
+Lãnh_đạo Bộ Thông tin Truyền_thông cho_biết sẽ cho_phép các nhà mạng khai_thác thương_mại 4G vào năm 2017 .
+Tốc_độ truyền tối_đa của 4G là 1-1 , 5 Gb mỗi giây , gấp vài trăm lần so với mạng 3G ( vài chục Mb mỗi giây ) .
+Đình_Nam

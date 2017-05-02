@@ -1,0 +1,11 @@
+Chat riêng_tư trên Facebook có_thể bị đọc lén
+Tính_năng trò_chuyện ( Messenger ) của Facebook tồn_tại lỗ_hổng nghiêm_trọng cho_phép hacker xem mọi nội_dung trên đó .
+Theo nhà_nghiên_cứu bảo_mật   Ysrael_Gurt , một lỗ_hổng trong hệ_thống của Facebook cho_phép kẻ tấn_công truy_cập thông_tin , hình_ảnh , tập_tin đính kèm trên Messenger , gây ảnh_hưởng tới khoảng một tỷ người dùng .
+Lỗ_hổng Originull   cho_phép hacker đọc thông_tin trên   Messenger đã được Facebook vá .
+Để khai_thác , hacker lừa nạn_nhân truy_cập vào một trang_web chứa mã độc .
+Khi bấm vào , tất_cả các cuộc hội_thoại của người dùng , kể_cả trên trình_duyệt web hay qua ứng_dụng trên điện_thoại , đều bị đọc trộm .
+Lỗ_hổng được đặt tên " Originull " , tồn_tại trong máy_chủ riêng_biệt phụ_trách tính_năng chat của Facebook .
+Tuy_nhiên , lỗi này không ảnh_hưởng đến tính_năng trò_chuyện bí_mật ( Secret_Conversations ) mà   Facebook_Messenger mới triển_khai .   Secret
+Conversations chỉ hoạt_động trên các thiết_bị có hỗ_trợ mã_hóa đầu - cuối nên dữ_liệu được bảo_mật .
+" Lỗ_hổng trong Messenger đặc_biệt nghiêm_trọng , không_chỉ bởi số_lượng người bị ảnh_hưởng rất cao , mà_còn bởi tác_động lên cả máy_tính và thiết_bị di_động " ,   Stas_Volfus , Giám_đốc Công_nghệ của BugSec nói .
+Song trước khi các thông_tin này được công_khai , Facebook đã được báo_cáo , thừa_nhận và hoàn_thành vá lỗi .

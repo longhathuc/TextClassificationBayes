@@ -1,0 +1,14 @@
+Kính thực_tế ảo HoloLens đến tay người mua , giá 3.000 USD
+Phiên_bản dành cho các nhà_phát_triển của kính thực_tế ảo HoloLens bắt_đầu được Microsoft xuất_xưởng với giá lên tới 3.000 USD ( 65 triệu đồng ) .
+HoloLens được cho đặt mua từ cuối tháng 2/2016 và sau một tháng chờ_đợi , các nhà_phát_triển tại Mỹ và Canda đã có_thể sở_hữu thiết_bị được đánh_giá là ưu_việt nhất trên thị_trường kính thực_tế ảo .
+Bộ sản_phẩm HoloLens .
+Đi kèm với HoloLens là ứng_dụng   Galaxy_Explorer_Project với khả_năng hiển_thị dải ngân_hà cùng các hành_tinh ba chiều ngay trước_mắt người đeo kính .
+Đây là kết_quả của cuộc_thi Share_Your_Idea , trong đó Microsoft khuyến_khích người tham_gia đưa ra những ý_tưởng cho HoloLens .
+Microsoft cũng kết_hợp với NASA triển_khai chương_trình Destination : Mars ( Điểm đến : Sao_Hỏa ) tại Trung_tâm Vũ_trụ Kennedy ở Florida ( Mỹ ) trong mùa_hè .
+Khách tham_quan sẽ trải_nghiệm và khám_phá bề_mặt sao Hoả thông_qua công_nghệ HoloLens .
+HoloLens hiển_thị hình_ảnh dải ngân_hà 3D trong không_gian thực .
+Microsoft giới_thiệu HoloLens từ tháng 1/2015 .
+Nhìn thực_tế , HoleLens có kiểu_dáng giống một chiếc kính đeo nhưng hoạt_động như một máy_tính hoàn_thiện với CPU , GPU và bộ_xử_lý ba chiều chuyên_dụng ( holographic processing unit - HPU ) với khả_năng theo_dõi sự thay_đổi của cảnh_vật xung_quanh .
+Thiết_bị khá nhẹ , vòng bên trong ( headband ) có_thể điều_chỉnh để khít với bất_cứ vòng đầu nào , trong khi phần kính được thiết_kế linh_hoạt để dịch_chuyển lên xuống , kéo ra phía trước ...
+Không giống như Oculus_Rift hiển_thị hình_ảnh đơn_thuần qua các màn_hình nhỏ trước_mắt người dùng , HoloLens cho_phép tương_tác với các hình_ảnh 3D ngay giữa khung_cảnh thực xung_quanh giống như trong phim viễn_tưởng Star_Wars .
+Châu_An

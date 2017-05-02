@@ -1,0 +1,35 @@
+Bạn biết gì về virus máy_tính
+Nhiều người vẫn thắc_mắc làm_sao để biết máy_tính của mình nhiễm virus hay virus làm được gì và không làm được gì trên máy_tính của họ .
+Virus ngày_càng dễ_dàng lan_truyền qua Internet .
+Làm_sao biết được máy_tính của mình đã bị nhiễm virus ?
+Cách tốt nhất để biết máy_tính đã bị nhiễm hay chưa là sử_dụng một phần_mềm diệt virus tốt , cập_nhật để quét toàn_bộ hệ_thống máy_tính .
+Ngoài_ra , cần biết một_số biểu_hiện của máy_tính bị nhiễm visus .
+Xem tại đây .
+Làm_gì để bảo_vệ máy_tính khỏi virus ?
+Giải_pháp là cài_đặt một phần_mềm diệt virus được cập_nhật hàng ngày .
+Phần_mềm đóng vai_trò quan_trọng trong việc thông_báo cho bạn về tình_trạng lây_nhiễm của virus trên máy_tính và đưa ra các biện_pháp phòng_ngừa .
+Bên_cạnh đó , cũng cần áp_dụng các biện_pháp cần_thiết và thường_xuyên như_không mở các email khả_nghi , hoặc tránh tải về tập_tin từ các trang_web không an_toàn để phòng_tránh virus xâm_nhập vào máy_tính .
+Máy_tính có khả_năng bị nhiễm virus ngay cả lúc tắt không ?
+Không .
+Xem giải_thích .
+Có phải cứ trong máy có virus thì nghĩa_là máy đã bị nhiễm virus không ?
+Không hẳn là như_vậy .
+Xem giải_thích .
+Virus gây ra những ảnh_hưởng gì ?
+Virus có_thể gây ra một loạt các hiện_tượng , từ phá_hủy hoàn_toàn hệ_thống thông_tin trên máy_tính cho_đến việc_làm hỏng các chương_trình nhỏ .
+Virus không làm được những gì ?
+Hiện_tại , chưa có virus nào có_thể trực_tiếp gây hại đến phần_cứng ( CD-ROM , ổ đĩa_mềm , … ) hoặc ghi đè lên các thông_tin được lưu_trữ trên bộ_nhớ_chỉ_đọc ( ví_dụ CD-ROM ) .
+Xem thêm .
+Những virus nào_là nguy_hiểm nhất ?
+Sự nguy_hiểm của một loại virus dựa trên hai yếu_tố : Thiệt_hại nó gây ra và khả_năng lan_rộng .
+Vì_vậy , một virus có_thể xóa thông_tin và lây_lan nhanh_chóng trên mạng Internet nguy_hiểm hơn nhiều so với một virus có_thể xóa dữ_liệu nhưng lại không_thể lây_lan .
+Virus xâm_nhập vào máy_tính chủ_yếu từ đâu ?
+Internet với khả_năng rất lớn về cung_cấp và trao_đổi thông_tin qua email , trình_duyệt web , tập tải về , chat , nhóm tin_tức … làm tăng khả_năng virus xâm_nhập vào máy_tính .
+Ngoài_ra còn có một_số nguồn lây_nhiễm virus khác như USB hoặc thậm_chí mạng IT .
+Nên làm_gì nếu nhận được một email đáng ngờ ?
+Điều đơn_giản đầu_tiên bạn cần làm là không mở nó ra trước khi nó được phần_mềm diệt virus của bạn quét và thông_báo là an_toàn .
+Tại_sao lại có nhiều virus và nhiều máy bị nhiễm hơn mỗi ngày ?
+Lý_do chính là mỗi ngày , rất nhiều người kết_nối với nhau thông_qua Internet hoặc các mạng khác , điều này tạo ra một con đường giúp virus dễ lây_lan .
+Người lập_trình virus cũng sử_dụng những kỹ_thuật tinh vị hơn để tạo ra chúng và những thủ_đoạn xảo_quyệt hơn để lừa người dùng .
+Họ cũng thường_xuyên khai_thác các lỗ_hổng phần_mềm thông_dụng như một_cách để lan_truyền mã độc .
+Phương_Dung

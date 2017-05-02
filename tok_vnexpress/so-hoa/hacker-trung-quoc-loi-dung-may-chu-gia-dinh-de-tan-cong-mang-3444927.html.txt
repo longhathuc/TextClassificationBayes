@@ -1,0 +1,41 @@
+Hacker_Trung_Quốc lợi_dụng máy_chủ gia_đình để tấn_công mạng
+Bằng cách đột_nhập vào những chiếc máy_chủ " cổ_lỗ sỉ " không ai_ngờ tới , tin_tặc Trung_Quốc đã biến chúng thành công_cụ tấn_công mạng mà không hề vấp phải sự nghi_ngờ hoặc kháng_cự nào .
+Cate_Machine & Welding là một doanh_nghiệp nhỏ ở ngoại_ô New_York ( Mỹ ) chuyên về hàn các loại công_cụ , do vợ_chồng Gene và Lori_Cate cùng con_trai của họ điều_hành .
+Trong 46 năm hoạt_động , họ đã hàn rất nhiều thứ , từ những thùng phân_bón , khuôn làm pho - mát đến cánh máy_bay_phản_lực , máy_bay chiến_đấu …
+Cũng giống như các doanh_nghiệp khác , họ trang_bị một chiếc máy_chủ cỡ nhỏ kết_nối với một_vài máy_vi_tính trong văn_phòng để tiện cho công_việc .
+Dù vẻ bên ngoài đã rất cũ , nhưng đây lại là thiết_bị được sử_dụng cho một cuộc_chiến gián_điệp của Mỹ chống lại tin_tặc Trung_Quốc .
+Chiếc máy_chủ cỡ nhỏ của   Cate_Machine & Welding   bị hacker Trung_Quốc lợi_dụng để tấn_công mạng , và cũng là thiết_bị để nhóm bảo_mật Mỹ chống lại các âm_mưu đen_tối đó .
+Chiếc máy_tính này đã bị hacker chiếm quyền điều_khiển và sử_dụng nó để thực_hiện các cuộc tấn_công nhắm đến các tổ_chức khác .
+Tuy_nhiên , nó đã bị một công_ty chuyên về bảo_mật mới thành_lập tại Thung_lũng Silicon phát_hiện .
+Mọi động_thái của tin_tặc Trung_Quốc bị giám_sát theo thời_gian_thực và các chuyên_gia ngăn_chặn một_số cuộc tấn_công nếu cảm_thấy nó có mức_độ nguy_hiểm cao .
+Tất_nhiên , tin_tặc Trung_Quốc không hề biết_điều này .
+" Khi nhóm kỹ_sư đến nói_chuyện , ban_đầu chúng_tôi không hề tin .
+Nhưng khi các bằng_chứng được đưa ra , tất_cả đều bất_ngờ và sau đó có cảm_giác hoảng_sợ .
+Chúng_tôi không biết máy_chủ của gia_đình có đang tiếp_tay cho tin_tặc Trung_Quốc thực_hiện các hành_vi xấu hay không " , ông Cate cho_biết .
+Vào một ngày trung_tuần tháng 6/2016 , tin_tặc Trung_Quốc thực_hiện tấn_công hàng_loạt mục_tiêu trọng_điểm tại Mỹ , bao_gồm một công_ty giao đồ_ăn ở Thung_lũng Silicon , công_ty luật Manhattan tại New_York , một trong những hãng hàng_không lớn nhất thế_giới , một trường đại_học có_tiếng miền Nam nước Mỹ và một_số cơ_quan , doanh_nghiệp Thái_Lan và Malaysia tại đây .
+Các hoạt_động tấn_công này hiển_thị khá rõ_ràng trên màn_hình máy_tính nhà Cate .
+Nhóm tin_tặc Trung_Quốc thực_hiện cuộc tấn_công này là C0d0s0 , vốn là những hacker " đánh thuê " và bị theo_dõi trong nhiều năm .
+Nhóm này từng đột_nhập thành_công nhiều hệ_thống ngân_hàng , công_ty luật , các công_ty công_nghệ trên thế_giới .
+Vụ_việc đáng chú_ý nhất của chúng là chiếm thành_công trang_web Forbes và cố_gắng cài phần_mềm độc_hại vào máy_tính của những độc_giả tạp_chí này .
+Để chống lại những tổ_chức tin_tặc như C0d0s0 , các doanh_nghiệp thường phải_chi ra rất nhiều tiền với hi_vọng có_thể phát_hiện và ngăn_chặn bị tấn_công .
+Tuy_nhiên , con_số mà họ bỏ ra không phải nhỏ .
+Theo số_liệu từ Gartner , số tiền các công_ty bỏ ra để ngăn_chặn tấn_công mạng có_thể đạt tới 1 tỷ USD vào 2017 , tăng mạnh so với 255 triệu USD của 2013 .
+Theo New_York_Times , tin_tặc Trung_Quốc đã không còn nhắm vào từng máy_tính riêng , mà đã phát_triển lên mức cao hơn , như trường_hợp của Cate_Machine & Welding , biến các máy_chủ doanh_nghiệp thành mạng_lưới tấn_công quy_mô lớn thay_vì đánh_cắp dữ_liệu trên máy đó và thoát .
+Bên_cạnh đó , cách_thức mới sẽ tạo nên vỏ bọc hoàn_hảo , từ đó chúng gần_như an_toàn , rất hiếm khi bị phát_hiện .
+" Không ai_lại nghi_ngờ một gia_đình như Cate đang sở_hữu một thiết_bị gián_điệp .
+Và ngay chính họ cũng không biết mình đang bị lợi_dụng .
+Đó là kẽ hở khiến các cuộc tấn_công vẫn diễn ra hàng ngày mà không hề bị phát_hiện " , một chuyên_gia bảo_mật cho_biết .
+Cách đây 2 năm , Cate đón một đoàn khách viếng_thăm gia_đình .
+Khi nhìn thấy chiếc máy_tính đang bật , một người đàn_ông trong đó nhìn và nói " máy_chủ của các vị đã trở_thành cầu_nối cho các điệp_viên Trung_Quốc " .
+Đáp lại , Cate hỏi : " Liệu ông có phải là nhân_viên NSA ? " .
+( NSA là Cơ_quan An_ninh Quốc_gia của Mỹ , là thành_phần quan_trọng của cộng_đồng tình_báo nước này ) .
+Trên thực_tế , cũng có một cựu nhân_viên NSA trong nhóm , đó là Blake_Darché .
+Tuy_nhiên , ông này đã nghỉ_việc và thành_lập một công_ty bảo_mật có tên Area 1 cùng_với 3 chuyên_gia NSA khác là Darché , Oren_Falkowitz và Phil_Syme .
+Công_ty đã tìm_kiếm được quỹ tài_trợ trị_giá 25,5 triệu USD để thực_hiện mục_tiêu tập_trung theo_dõi các vụ tấn_công kỹ_thuật_số nhằm vào doanh_nghiệp .
+Ngay sau khi phát_hiện máy_chủ của Cate bị chiếm quyền , ông Darché đề_nghị bổ_sung nó vào danh_sách 50 máy_chủ khác bị tin_tặc Trung_Quốc chiếm quyền mà Area 1 đang theo_dõi .
+Gia_đình Cate đã có một cuộc họp nội_bộ , và sau đó họ đồng_ý , bởi " mọi người đã rất vất_vả để làm ra các sản_phẩm , nhưng chúng đã bị đánh_cắp trắng_trợn bởi kẻ xấu " .
+Nhóm của Darché đã sử_dụng một bộ cảm_biến trị_giá 150 USD và gắn lên chiếc máy_tính .
+Khi các cảm_biến sáng lên , đó là khi tin_tặc sử_dụng máy để xâm_nhập trái_phép vào hệ_thống các mục_tiêu khác .
+Với cách khai_thác mới , hacker Trung_Quốc đã biến những chiếc máy_chủ cỡ nhỏ thành công_cụ che mắt để đột_nhập các mục_tiêu lớn hơn .
+" Không_chỉ C0d0s0 , còn rất nhiều nhóm tin_tặc khác từ Trung_Quốc đang thực_hiện cách_thức tấn_công tương_tự trên toàn thế_giới " , Darché nhấn_mạnh .
+Bảo_Lâm

@@ -1,0 +1,12 @@
+iPhone bị nhiễm mã độc , trộm Apple ID cả khi_không jailbreak
+Trojan có tên AceDeceiver có_thể lây_nhiễm trên mọi thiết_bị i OS và ăn_cắp Apple ID dù máy chưa hề bị bẻ_khóa ( jailbreak ) .
+Công_ty bảo_mật Palo_Alto_Networks đã phát_hiện một loại tấn_công mới trên các thiết_bị chạy hệ_điều_hành Apple i OS .
+Bằng cách khai_thác lỗ_hổng trong cơ_chế bảo_vệ tác_quyền số FairPlay DRM của Apple , mã độc có_thể thâm_nhập vào bất_kỳ chiếc i Phone nào .
+Lỗ_hổng trong FairPlay DRM đã được nhiều người khai_thác từ năm 2013 để cài ứng_dụng i OS lậu , nhưng hiện bị lợi_dụng để phát_tán virus .
+Hacker sẽ cài phần_mềm độc_hại trên máy_tính của người dùng , sau đó tấn_công những thiết_bị di_động kết_nối với máy đó , âm_thầm cài_đặt ba ứng_dụng wallpaper chứa mã độc AceDeceiver trên App_Store vào điện_thoại , máy_tính bảng mà người sử_dụng không hay_biết , đồng_thời ăn_cắp Apple ID và mật_khẩu của họ .
+Người dùng có_thể mua ứng_dụng i OS từ i Tunes trên máy_tính và Apple sẽ cấp mã xác_thực để chứng_minh ứng_dụng đó đúng là đã được mua bằng i Tunes ( hàng một ) .
+Tuy_nhiên , hacker có_thể can_thiệp vào giữa quy_trình này để bằng cách khai_thác lỗi FairPlay để âm_thầm   tải mã độc vào i Phone , iPad ( hàng hai ) .
+Đây là một trong những Trojan đầu_tiên có_thể tấn_công i Phone dù máy không bị jailbreak .   Palo_Alto_Networks đã gửi cảnh_báo về   AceDeceiver tới Apple hồi cuối tháng 2 và hãng này đã loại_bỏ ba ứng_dụng liên_quan trên App_Store .
+Hiện chưa rõ có bao_nhiêu người bị ảnh_hưởng bởi   AceDeceiver , tuy_nhiên mã độc này mới chỉ được phát_hiện ở Trung_Quốc .
+Dù_vậy các chuyên_gia bảo_mật tin rằng loại_hình tấn_công này có_thể lan sang nhiều khu_vực khác .
+Minh_Minh

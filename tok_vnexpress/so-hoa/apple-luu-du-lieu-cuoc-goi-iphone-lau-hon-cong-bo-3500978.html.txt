@@ -1,0 +1,17 @@
+Apple lưu dữ_liệu cuộc_gọi i Phone lâu hơn công_bố
+Dịch_vụ i Cloud tự_động lưu lịch_sử cuộc_gọi của người dùng trong bốn tháng , thay_vì 30 ngày như hãng tuyên_bố .
+Theo   Fortune , hãng bảo_mật   Elcomsoft của Nga đã cảnh_báo rằng Apple liên_tục lưu_trữ lịch_sử cuộc_gọi của khách_hàng trên các máy_chủ i Cloud trong khoảng bốn tháng .
+Bất_cứ người nào sở_hữu i Phone hay i Pad , có kích_hoạt i Cloud , thì các thông_tin bao_gồm số điện_thoại , thời_gian thực_hiện cuộc_gọi đều được gửi đến Apple .
+Theo các nhà bảo_mật , thông_tin cuộc_gọi được Apple lưu_trữ trên i Coud lên đến bốn tháng thay_vì 30 ngày như hãng tuyên_bố .
+Đáng lưu_ý , Apple có_thể cung_cấp cơ_chế giải_mã để các cơ_quan thực_thi pháp_luật đọc được những dữ_liệu này .
+" Không có cách nào để ẩn lịch_sử cuộc_gọi của bạn trước các yêu_cầu của chinh phủ ngoài việc vô_hiệu_hóa i Cloud_Drive " , Vlatamir_Katalov , Giám_đốc điều_hành của Elcomsoft cho_biết .
+Ngoài lưu_trữ cuộc_gọi thông_thường , Apple còn tập_hợp hồ_sơ các cuộc_gọi với dịch_vụ FaceTime của hãng , ít_nhất kể từ phiên_bản i OS 8.2 .
+FaceTime được tuyên_bố mã_hóa đầu - cuối để bảo_vệ nội_dung truyền_tải trong đó , tuy_nhiên các phát_hiện của   Elcomsoft lại mẫu thuẫn với thông_tin bảo_mật của Apple .
+Chẳng_hạn , Apple nói " không có thông_tin về việc cuộc_gọi FaceTime được thiết_lập vào lúc_nào và thời_gian gọi_là bao_lâu " hay " lịch_sử cuộc_gọi FaceTime chỉ được lưu_trữ tối_đa 30 ngày " .
+Song theo   Elcomsoft , họ có_thể trích xuất toàn_bộ dữ_liệu này trong hơn bốn tháng .
+Apple cũng có_thể còn lưu các dữ_liệu khác liên_quan đến CallKit , bộ công_cụ tích_hợp giọng nói của công_ty , kể từ khi ra_mắt i OS 10 .
+Những phần_mềm có dùng Apple_Call Kit có_thể kể đến như Skype , WhatsApp , Facebook hay Viber .
+Elcomsoft còn lưu_ý rằng khi ai đó tải lịch_sử cuộc_gọi , người dùng không hề nhận được thông_báo , không giống như khi có ai đó tải bản_sao lưu i Cloud .   Katalov
+nói rằng điều này có_thể khiến người dùng bị theo_dõi mà không hay_biết .
+Elcomsoft trở_nên nổi_tiếng vào năm 2014 khi một hacker cho_biết đã dùng phần_mềm của công_ty để tải về hình_ảnh cá_nhân của nhiều người nổi_tiếng thông_qua i Cloud .
+Còn vào năm 2010 , công_ty này   đã phát_hành phần_mềm có_thể tìm ra mật_khẩu được sử_dụng để mã_hóa dữ_liệu i Phone đã sao lưu .

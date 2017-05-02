@@ -1,0 +1,26 @@
+Trí_tuệ_nhân_tạo - xu_hướng mới trong phát_triển ứng_dụng
+Tại sự_kiện Build 2016 , Microsoft mang đến tầm nhìn mới của tương_lai khi con_người sẽ tương_tác với các ứng_dụng tự_động ( bot ) để mua pizza , vé máy_bay , đặt lịch hẹn_hò ...
+CEO Microsoft_Satya_Nadella cho rằng trí_tuệ_nhân_tạo và hội_thoại tương_tác sẽ là nền_tảng lập_trình kế_tiếp .
+Nói cách khác , giới phát_triển sẽ tạo ra các phần_mềm tự_động ( bot ) , hoạt_động tương_tự một trợ_lý ảo phục_vụ con_người .
+Bot hiểu ngôn_ngữ_tự_nhiên , tự học và dần hoàn_thiện , trở_nên thông_minh hơn theo thời_gian để nắm rõ thói_quen , sở_thích ... của người dùng ứng_dụng .
+Chẳng_hạn , chuỗi cửa_hàng Domino có_thể tạo bot tương_tác tự_động với nhiều khách_hàng cùng lúc , hỗ_trợ thực_hiện các lệnh đặt mua pizza như_thể họ đang trò_chuyện với nhân_viên chăm_sóc khách_hàng ngoài đời thực .
+Phần_mềm tự_động bot của Domino có_thể trò_chuyện với người dùng để hỗ_trợ họ đặt mua pizza .
+Một ví_dụ khác là Skype_Bots tích_hợp trợ_lý ảo Cortana .
+Cortana sẽ kết_nối với các bot khác để giúp người dùng tìm_kiếm thông_tin , sắp_xếp lịch_trình , đặt khách_sạn , mua_sắm , tìm chuyến bay ... dựa trên hoàn_cảnh thực_tế .
+Lilian_Rincon , phụ_trách Skype , đã trình_diễn trên sân_khấu về khả_năng của phần_mềm tự_động này .
+Rincon cần đặt khách_sạn ở San_Francisco ( Mỹ ) vì bà sẽ tới đó tham_gia sự_kiện Build 2016 .
+Trợ_lý ảo Cortana biết Rincon thích khách_sạn Westin vì bà từng ở đó trước_đây .
+Nó sẽ kết_nối với bot của Westin_Hotel để thực_hiện việc đặt phòng .
+Cortana cũng nhắc Rincon rằng bà có một người bạn ở thành_phố này và liệu bà có nên xếp lịch gặp_gỡ hay không .
+Satya_Nadella , CEO Microsoft tin rằng , trí_tuệ_nhân_tạo và hội_thoại tương_tác sẽ là nền_tảng của tương_lai .
+Satya_Nadella cho_biết Microsoft cũng đã xây_dựng thư_viện Bot_Framework cho các nhà_phát_triển , hỗ_trợ họ tạo ứng_dụng tích_hợp bot thời_gian tới .
+" Chúng_ta đang ở biên_giới nơi phải kết_nối giữa sức_mạnh của ngôn_ngữ_tự_nhiên với trí_tuệ tiên_tiến của máy_móc .
+Chúng_tôi gọi đây là Hội_thoại như một nền_tảng ( Conversations as a Platform ) , và CaaP được xây_dựng dựa trên sức_mạnh của Azure , Office 365 và Windows , giúp trao quyền cho các nhà_phát_triển ứng_dụng " , Nadella chia_sẻ .
+CEO này nhấn_mạnh , Microsoft mong_muốn phát_triển công_nghệ có_thể học_hỏi những điều tốt_đẹp nhất của con_người , chứ không phải những mặt xấu .
+Ông đề_cập đến sự_cố xảy_ra tuần trước với phiên_bản chatbot thử_nghiệm mang tên Tay .
+Tay là chatbot tích_hợp trí_tuệ_nhân_tạo có khả_năng trò_chuyện với người sử_dụng Twitter thông_qua tin nhắn riêng .
+Nó ra_đời với mục_đích đem lại trải_nghiệm vui_vẻ khi tương_tác với thanh_niên trong độ tuổi 18 - 24 ở Mỹ .   " Bạn càng trò_chuyện với Tay , nó càng trở_nên thông_minh và gần_gũi với bạn " , Microsoft giới_thiệu .
+Tay đã bắt_đầu hoạt_động như một thiếu_niên háo_hức , nhưng rồi tình_hình nhanh_chóng xấu đi khi nó bày_tỏ sự ủng_hộ phát_xít , phủ_nhận cuộc diệt_chủng người Do_Thái , ghét người đòi bình_đẳng giới ...
+Tài_khoản Twitter của Tay đã bị Microsoft " xoá_sổ " sau chưa đầy 24 giờ xuất_hiện .
+Trước đó , hãng này cũng tạo ra Xiaoice , trợ_lý " bạn_gái " có khả_năng trò_chuyện vui_vẻ và đưa ra tư_vấn hẹn_hò cho những người cô_đơn ở Trung_Quốc .
+Bài và ảnh : Châu_An

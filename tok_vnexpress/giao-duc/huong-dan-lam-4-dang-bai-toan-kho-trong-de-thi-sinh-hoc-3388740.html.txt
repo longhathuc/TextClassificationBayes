@@ -1,0 +1,29 @@
+Hướng_dẫn làm 4 dạng bài_toán khó trong đề thi Sinh_học
+Học_sinh chỉ nên dành 30-35 phút hoàn_thành hết lý_thuyết môn Sinh_học , thời_gian còn lại dành giải_quyết bài_tập .
+Có 4 dạng bài_tập khó và cực khó trong đề thi Sinh_học gồm bài_tập về quy_luật di_truyền , bài_toán di_truyền quần_thể , bài_tập phả_hệ và bài_tập tích_hợp và chỉ ra các bước phổ_biến để giải_quyết 4 dạng bài khó này .
+Bài_tập Quy_luật Di_truyền
+Dạng bài_tập quy_luật di_truyền ở mức_độ khó , học_sinh cần phải giải_quyết các bài_toán phối_hợp theo mô_hình : Mô_tả kết_quả một_phép lai nào_đó rồi yêu_cầu tìm quy_luật di_truyền chi_phối và giải_quyết các bài_toán tìm kiểu gen , kiểu hình của P , xác_suất ở đời con hoặc tìm các phép lai phù_hợp với mô_tả .
+Các bài_tập quy_luật di_truyền mức_độ khó thường là bài phối_hợp quy_luật .
+Mỗi dạng toán đều có những kỹ_thuật giải nhanh riêng , nhưng nhìn_chung cần phải trải qua các bước :
+Bước 1 : Từ số_liệu của đề_bài , phân_tích tỷ_lệ phân_ly kiểu hình ở đời con đối_với từng tính_trạng riêng_rẽ , từ đó đưa ra quy_luật đơn tính_trạng chi_phối tính_trạng đó và kiểu gen của bố_mẹ đem lai : Trội hoàn , trội không hoàn_toàn , gen gây chết , tương_tác gen …
+Bước 2 : Nhân các tỷ_lệ đơn_tính đó sẽ được tỷ_lệ lý_thuyết ( tỷ_lệ kỳ_vọng ) , nếu tỷ_lệ kỳ_vọng này giống với tỷ_lệ đề_bài cho , chứng_tỏ quy_luật phân_ly độc_lập chi_phối các tính_trạng , chúng_ta có_thể giải_quyết các bài_toán phụ .
+Bước 3 : Nếu tỷ_lệ kỳ_vọng khác với tỷ_lệ đề_bài , chúng_ta cần so_sánh số kiểu gen , số kiểu hình đề ra và kỳ_vọng để xác_định quy_luật liên_kết gen hoàn_toàn hay quy_luật hoán_vị gen .
+Bước 4 : Sau khi xác_định được quy_luật chi_phối , ta tiến_hành xác_định kiểu gen của các cá_thể đem lai ( dị hợp_tử đều ( đồng ) hay dị hợp_tử chéo ( đối ) ) .
+Bước 5 : Giải_quyết các bài_toán xác_suất , hoặc đếm các nhận_xét đúng / sai để trả_lời câu_hỏi .
+Ví_dụ :
+Ở một loài thực_vật , tiến_hành tự thụ_phấn cây quả dẹt chín sớm : 38,25% cây quả dẹt , chín sớm ; 6,75% cây quả tròn , chín muộn ; 6% cây quả dài , chín sớm ; 18% cây quả dẹt , chín muộn ; 30,75% cây quả tròn , chín sớm ; 0,25% cây quả dài , chín muộn .
+Thời_gian chín ở một cặp gen quy_định , quá_trình giảm phân tạo giao_tử có diễn biế như nhau ở quá_trình sinh noãn và sinh hạt phấn .
+Xác_định kiểu gen và tính tỉ_lệ giao_tử của cơ_thể đem lai .
+Cách giải_quyết
+Bước 1 : Xác_định quy_luật di_truyền chi_phối các tính_trạng .
+Xét tính_trạng hình_dạng quả , đời con phân_ly : 9 dẹt : 6 tròn : 1 dài – Tương_tác bổ_trợ
+Quy_ước : A - B - : quả dẹt ; aabb : quả dài ; A-bb ; aaB - : quả tròn
+F1 : AaBb ( quả dẹt ) x AaBb ( quả dẹt ) .
+Xét sự di_truyền thời_gian chín
+F2 phân_li chín sớm : chín muộn = 3 : 1 → Quy_luật phân_li .
+Quy_ước : D : quả ngọt , d : quả chua
+F1 : Dd ( quả ngọt ) x Dd ( quả ngọt )
+Tỷ_lệ kỳ_vọng phân_ly độc_lập là ( 9 : 6 : 1 ) ( 3 : 1 ) = 27 : 18 : 3 : 9 : 6 : 1 , số lớp kiểu hình kỳ_vọng là 3x2 = 6 lớp .
+Tỷ_lệ trên khác tỷ_lệ đề_bài cho là : 38,25 : 18 : 30,75 : 6,75 : 0,25 , số lớp kiểu hình đủ 6 lớp so với kỳ_vọng .
+→ 3 cặp gen nằm trên 2 cặp NST tương_đồng và xảy_ra hoán_vị gen .
+Nguyễn_Thành_Công Giáo_viên môn Sinh_học , Trường THPT Chuyên ĐH Sư_phạm

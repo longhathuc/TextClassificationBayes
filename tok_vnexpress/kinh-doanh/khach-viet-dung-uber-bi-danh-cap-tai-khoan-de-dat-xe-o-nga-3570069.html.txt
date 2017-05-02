@@ -1,0 +1,25 @@
+Khách_Việt dùng Uber bị đánh_cắp tài_khoản để đặt xe ở Nga
+Một người dùng Uber_Việt_Nam bị đánh_cắp tài_khoản để đặt xe tại Moscow ( Nga ) và bị trừ hơn 3 triệu đồng trong tài_khoản thẻ_tín_dụng .
+Sáng 11/4 , anh Hà ( Hà_Nội ) vừa tỉnh dậy_thì nhận được tin nhắn SMS từ ngân_hàng tính khoản tiền 150 USD vào tài_khoản thẻ_tín_dụng .
+Tin nhắn cũng ghi rõ số tiền bị trừ do dùng dịch_vụ của Uber khi đi 2 chuyến lúc nửa_đêm và được tính bằng đơn_vị tiền rúp của Nga .
+Ban_đầu , anh Hà suy_đoán có_lẽ do trong quá_trình sử_dụng thẻ_tín_dụng đã sơ_suất nên bị lộ số thẻ hoặc máy_tính , điện_thoại của anh bị tin_tặc tấn_công .
+Ngay sau đó , anh gọi đến ngân_hàng để yêu_cầu khóa thẻ cũng_như yêu_cầu tra soát dịch_vụ .
+Một trong 2 chuyến xe mà hacker đã dùng tài_khoản của anh Hà để đặt và di_chuyển tại Moscow ( Nga ) cách đây vài ngày .
+Ảnh : Nhân_vật cung_cấp
+Tuy_nhiên đến cuối ngày , anh Hà kiểm_tra email thì khá sửng_sốt khi thấy Uber báo về thông_tin 2 chuyến đi và hóa_đơn .
+Khi đó ,   anh mới biết là tài_khoản Uber của anh đã bị hack , đồng_thời thay_đổi số di_động trong phần thông_tin cá_nhân của anh sang một_số điện_thoại của Nga .
+Hacker đã dùng tài_khoản Uber của anh Hà để đi một vòng_quanh thủ_đô nước Nga với chi_phí hơn 3 triệu đồng .
+Do số điện_thoại theo tài_khoản đã bị thay_đổi nên anh Hà không_thể đăng_nhập thông_qua điện_thoại mà chỉ có_thể vào được bằng email .
+Sau đó , anh đã thông_báo với phía Uber để nhờ hỗ_trợ thì được đơn_vị này can_thiệp khôi_phục tài_khoản .
+Số tiền anh đã bị trừ từ thẻ_tín_dụng cũng được Uber trả lại vào tài_khoản ngân_hàng .
+" Như_vậy có nghĩa_là việc thanh_toán Uber bằng thẻ_tín_dụng cũng có rủi_ro .
+Những người dùng như tôi nên sử_dụng dịch_vụ tin nhắn báo ngay các giao_dịch ngân_hàng và kiểm_tra email Uber gửi về sau mỗi chuyến đi " , anh Hà nói .
+Trao_đổi với VnExpress , đại_diện Uber_Việt_Nam cho_hay đây là trường_hợp chưa từng xảy_ra với đơn_vị này .   " Ngay sau khi biết được sự_việc , chúng_tôi đã phục_hồi tài_khoản và hoàn lại số tiền cho khách " , vị này nói .
+Không có giải_thích trực_tiếp về nguyên_nhân sự_cố , song đại_diện đơn_vị này cũng đưa ra khuyến_cáo để đảm_bảo an_toàn trong quá_trình sử_dụng tài_khoản Uber .   Theo đại_diện Uber_Việt_Nam , hành_khách trong quá_trình sử_dụng Uber hay những nền_tảng khác nên sử_dụng mật_khẩu mạnh ( bao_gồm cả số và chữ , chữ_viết hoa và ký_tự đặc_biệt ) .
+" Rất nhiều người sử_dụng chuỗi mật_khẩu dễ đoán như ' password123 ' , sau đó tiếp_tục sử_dụng cùng chuỗi mật_khẩu để vào trang khác .   Các mật_khẩu trên rất dễ đoán do_đó sẽ dễ bị phát_hiện và bị đánh_cắp .
+Người dùng nên sử_dụng các mật_khẩu khác_nhau cho mỗi dịch_vụ khác_nhau .
+Kẻ xấu thường tìm cách lấy tên người dùng và mật_khẩu của họ từ một ứng_dụng hay trang_web , và sau đó sẽ sử_dụng chúng để cố_gắng đăng_nhập vào những ứng_dụng và trang_web khác mà họ có tài_khoản " , vị này lý_giải .
+Cũng theo Uber_Việt_Nam , khi tham_gia hoạt_động trên web , người dùng luôn phải thận_trọng với hành_động lừa_đảo đến từ các trang này .
+Theo đó , người dùng nên kiểm_tra các trang_web thật kỹ bằng cách luôn phải để_ý đến địa_chỉ web , đường_dẫn , ví_dụ như www . abcxyz.com nhưng trang lừa_đảo có_thể ghi là www . ab.cxyz.com , và nếu_không cẩn_thận họ có_thể cung_cấp thông_tin cho trang lừa_đảo .
+Ngoài_ra , theo nhà_cung_cấp , người dùng cũng_nên cẩn_trọng để không phải bị dẫn vào các màn_hình đăng_ký , đăng_nhập giả , vì đó là nơi có_thể bị đánh_cắp mật_khẩu .
+" Nếu nghi_ngờ , người dùng nên đánh lại tên trang_web trực_tiếp hoặc một_cách an_toàn khác là liên_tục cập_nhật các trình_duyệt mà mình đang sử_dụng ” , đại_diện Uber_Việt_Nam cho_hay .

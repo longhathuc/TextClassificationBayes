@@ -1,0 +1,17 @@
+Đáp_án bài_toán mua đồ khuyến_mại dịp 30/4
+Nên mua ở cả hai cửa_hàng với số_lượng đủ nhận khuyến_mại sẽ tiết_kiệm hơn so với mua ở một cửa_hàng .
+Đề_bài :
+Nhân_dịp lễ 30/4 - 1/5 nhóm bạn Tí , Sửu , Dần , Mão , Thìn , Tỵ , Ngọ lên kế_hoạch đi dã_ngoại ở Cần_Giờ .
+Dần được Sửu phân_công đi mua nước uống .
+Cậu ra khu cửa_hàng thực_phẩm thì thấy cả hai cửa_hàng A và B đều bán chai nước 1,5 lít với giá 10.000/chai .
+Cửa_hàng A có chương_trình khuyến_mãi “ Mua 5 tặng 1 ” , tức_là mua 5 chai sẽ được tặng 1 chai miễn_phí .
+Cửa_hàng B thì lại giảm_giá 15% cho những khách_hàng mua 4 chai trở_lên .
+Hỏi_Dần cần ít_nhất bao_nhiêu tiền để mua được 14 chai nước 1,5 lít .
+Giải :
+Nếu mua tất_cả 14 chai ở cửa_hàng A thì ta cần mua 12 chai và được tặng 2 chai , sẽ tốn 120.000 .
+Nếu mua tất_cả 14 chai ở cửa_hàng B , ta sẽ được giảm_giá 15% và phải trả 14 x 8.500 = 119.000 .
+Tuy_nhiên , nếu ta mua 5 chai ở cửa_hàng A , được tặng thêm 1 chai và mua 8 chai ở cửa_hàng B thì số tiền phải trả sẽ là 50.000 + 8 x 8.500 = 118.000 .
+Có_thể chứng_minh được rằng không_thể làm tốt hơn được nữa .
+Các con_số chênh_lệch trong bài_toán này thực_tế là quá nhỏ để phải cố_gắng và rắc_rối như_thế .
+Tuy_nhiên , khi làm_việc với những con_số lớn , thì những chi_tiết nhỏ như_thế có_thể đem đến những khoản tiết_kiệm khổng_lồ .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

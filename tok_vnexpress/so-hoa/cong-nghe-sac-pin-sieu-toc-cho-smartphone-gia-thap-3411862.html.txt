@@ -1,0 +1,12 @@
+Công_nghệ sạc pin siêu_tốc cho smartphone giá thấp
+Công_nghệ Pump_Express của MediaTek giúp nạp 70% dung_lượng pin chỉ trong 20 phút , hoặc kéo_dài thời_gian đàm_thoại tới 4 giờ chỉ trong vòng 5 phút sạc .
+Cạnh_tranh với QuickCharge 3.0 của Qualcomm , hãng sản_xuất vi_xử_lý tới từ Đài_Loan cũng vừa tung ra công_nghệ sạc nhanh có tên Pump_Express .
+Nếu_như QuickCharge 3.0 chỉ hiện_diện trên các dòng smartphone Android cao_cấp , đắt tiền thì Pump_Express 3.0 hứa_hẹn xuất_hiện trên cả smartphone phổ_thông giá thấp .
+Tuy_nhiên , phải tới cuối năm 2016 , công_nghệ này mới được hãng thương_mại_hoá trên các thiết_bị sử_dụng chip Helio P20 .
+Tốc_độ là điểm gây chú_ý nhất ở công_nghệ sạc mới của MediaTek .
+Với_Pump_Express , chỉ mất 20 phút , điện_thoại có_thể sạc được từ 0% lên 70% dung_lượng pin , nhanh gấp đôi cho_đến gấp ba lần tốc_độ sạc trên smartphone thông_thường .
+Công_nghệ này cũng sử_dụng cổng kết_nối USB Type - C thay_thế cho micro USB phổ_biến trên smartphone Android .
+Theo Media Tek , công_nghệ sạc nhanh Pump_Express 3.0 còn được thiết_kế cho_phép truyền điện trực_tiếp từ adapter vào pin , giảm hiện_tượng phát_tán điện ra các linh_kiện khác và giúp cho thiết_bị không bị nóng , toả nhiều nhiệt dù sạc nhanh .
+Sạc pin nhanh trên điện_thoại đang là công_nghệ được nhiều hãng theo_đuổi .
+Ngoài hai nhà_sản_xuất chip Qualcomm và MediaTek , nhà_sản_xuất điện_thoại Oppo cũng gây chú_ý với công_nghệ VOOC .
+Trong đó , công_nghệ SuperVOOC mới ra_mắt tại triển_lãm MWC 2016 nhưng chưa thương_mại_hoá có khả_năng sạc ấn_tượng , cho_phép nạp đầy pin 2.500 mAh chỉ trong vòng 15 phút .

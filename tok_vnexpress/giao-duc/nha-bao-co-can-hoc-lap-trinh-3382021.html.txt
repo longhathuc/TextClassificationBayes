@@ -1,0 +1,22 @@
+Nhà_báo có cần học lập_trình
+Am_hiểu ngôn_ngữ_lập_trình sẽ giúp người_làm báo có thêm công_cụ tìm_kiếm , kiểm_chứng thông_tin và truyền_thông tốt hơn .
+Thách_thức mới của người_làm báo
+Nghề này đòi_hỏi bạn phải luôn nhanh_nhạy để có thông_tin chính_xác và nhanh_nhất .
+Trong thời_đại công_nghệ , báo online và các trang mạng xã_hội phát_triển mạnh nên mức_độ cạnh_tranh , khai_thác thông_tin càng khốc_liệt .
+Cách đây vài thập_kỷ , khi công_nghệ còn hạn_chế , dụng_cụ tác_nghiệp thiếu_thốn , máy_ảnh cũng chưa được sử_dụng đại_trà , các tờ báo còn có thông_tin độc_quyền .
+Ngày_nay , với các thiết_bị hiện_đại cùng kết_nối Internet rộng_rãi , một sự_kiện xảy_ra , người dùng mạng lập_tức truyền_tải thông_tin , nhiều khi còn nhanh hơn cả người_làm báo .
+Một chú xe_ôm , bà bán hàng rong , em học_sinh hay bất_cứ ai cũng có_thể trở_thành người loan tin nhanh_chóng về một vụ tai_nạn nơi họ sinh_sống .
+Chỉ có người_làm báo được trả thù_lao , nhuận_bút , nhưng cả xã_hội đang luân_phiên nhau làm thay các công_việc của báo_giới là lan_truyền tin_tức .
+Khi thông_tin được chia_sẻ ngày_càng nhiều , người_làm báo phải đối_mặt với những thử_thách như cạnh_tranh với báo khác , với các trang mạng xã_hội , kiểm_chứng thông_tin .
+Làm_sao để biết những thông_tin lan_truyền trên mạng từ đâu ra , có chính_xác hay không , cách nào để tìm ra các nhân_vật liên_quan nhanh_nhất ... là những câu_hỏi khó với các nhà_báo .
+Lập_trình hỗ_trợ người_làm báo như_thế_nào
+Thường , người_làm báo có nhiều năm kinh_nghiệm sẽ tích_lũy cho mình các kỹ_năng như quay_phim , biên_tập , phát_thanh , sử_dụng công_cụ trực_tuyến , thậm_chí cả lập_trình cho mình các website , hệ_thống truyền_tải và lưu_trữ thông_tin riêng .
+Tuy_nhiên , trước tốc_độ truyền_tải thông_tin của mạng xã_hội , nếu_không nắm vững công_nghệ và các kỹ_thuật cần_thiết , người_làm báo sẽ bị tụt_hậu .
+Sinh_viên báo_chí không chủ_động thu_nạp thêm kiến_thức và hình_thành kỹ_năng ngay từ khi còn trên ghế nhà_trường sẽ phải đối_mặt với những khó_khăn trước thời_đại công_nghệ_thông_tin bùng_nổ như hiện_nay .
+Học lập_trình giúp người_làm báo có thêm công_cụ hỗ_trợ tác_nghiệp và phương_thức truyền_thông tốt hơn .
+Một nhà_báo giỏi nghiệp_vụ và kỹ_năng công_nghệ có_thể bắt kịp tốc_độ truyền_tải thông_tin của mạng xã_hội hiện_đại .
+Ngày_trước , chúng_ta thường có thói_quen đọc báo giấy hàng ngày , hình_ảnh những kệ bán báo dọc các con đường hay người đi phát báo mỗi sáng trở_thành ký_ức của nhiều người .
+Những tờ báo này , sau khi đọc xong mọi người có_thể dùng để gói đồ , bán giấy loại ...
+Giờ_đây , những hình_ảnh này đang dần biến_mất .
+“ Tôi sẽ không nhận những sinh_viên nào chỉ có tấm bằng tốt_nghiệp ngành báo ” , ông Đỗ_Lê_Thăng , Phó_tổng Biên_tập báo Khoa_học và Phát_triển chia_sẻ trong hội_thảo “ FUNiX - Nhà_báo hiện_đại , không ngại lập_trình ” được tổ_chức mới_đây .
+Theo ông Thăng , tấm bằng về chuyên_môn báo_chí là điều_kiện quan_trọng hàng_đầu , nhưng chưa đủ cho các bạn trên con đường trở_thành một nhà_báo đúng nghĩa .

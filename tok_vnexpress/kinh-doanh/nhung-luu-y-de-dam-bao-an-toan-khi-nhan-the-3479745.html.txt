@@ -1,0 +1,18 @@
+Những lưu_ý để đảm_bảo an_toàn khi nhận thẻ
+Kiểm_tra kỹ thông_tin , ký vào mặt sau khi nhận thẻ , sử_dụng dịch_vụ tin nhắn thông_báo giao_dịch , đổi mã PIN ... giúp đề_phòng rủi_ro và an_toàn khi dùng thẻ .
+Thị_trường thẻ ngân_hàng phát_triển mạnh thời_gian qua mang lại nhiều tiện_ích cho người sử_dụng .
+Tuy_nhiên , trước tình_trạng tội_phạm sử_dụng công_nghệ_cao bùng_phát thời gần đây , cho thấy đã đến lúc mỗi khách_hàng nên tự trang_bị các kiến_thức sử_dụng thẻ , để chủ_động phòng_ngừa rủi_ro .
+Để đảm_bảo an_toàn , bên_cạnh việc tuân_thủ thực_hiện theo hướng_dẫn của ngân_hàng trong quá_trình sử_dụng , lãnh_đạo ngân_hàng BIDV lưu_ý chủ thẻ một_số điểm dưới dây .
+- Kiểm_tra thông_tin trên thẻ khi nhận thẻ để đảm_bảo đúng các thông_tin như đã đăng_ký với ngân_hàng về tên , loại thẻ ...
+- Ký vào dải băng chữ_ký tại mặt sau thẻ để thu_ngân tại các điểm thanh_toán đối_chiếu chữ_ký này với chữ_ký trên hóa_đơn khi giao_dịch .
+Trường_hợp không ký , khi bị mất thẻ , kẻ_gian có_thể lợi_dụng ký vào để khớp với chữ_ký trên hóa_đơn , qua_mặt người bán hàng .
+- Sử_dụng dịch_vụ tin nhắn thông_báo giao_dịch để kiểm_soát các giao_dịch từ thẻ .
+Dịch_vụ này sẽ hỗ_trợ bạn phát_hiện sớm , kịp_thời các giao_dịch gian_lận không do mình thực_hiện .
+Ngay khi phát_hiện giao_dịch lạ từ thẻ , bạn nên thông_báo cho ngân_hàng theo số tổng_đài chăm_sóc khách_hàng để được hỗ_trợ khóa thẻ và khiếu_nại về giao_dịch .
+- Đối_với mã_số PIN do ngân_hàng cấp , bạn nên nhanh_chóng đến máy ATM gần nhất để thực_hiện đổi sang số khác ngay khi nhận thẻ .
+Để có một mã_số PIN an_toàn , bạn không nên sử_dụng các số dễ đoán như ngày_sinh , chứng_minh_thư , biển_số xe , số in sẵn trên các giấy_tờ nhân_thân chứa kèm trong ví , các chuỗi số giống nhau hoặc liên_tiếp như 111 ... hoặc 123 … Bạn nên ghi_nhớ lại mã_số PIN .
+Trường_hợp cần ghi lại , tuyệt_đối không lưu_trữ để chung với thẻ .
+- Chỉ sử_dụng thẻ để phục_vụ nhu_cầu giao_dịch cá_nhân .
+Bạn tuyệt_đối không nên nhận mở thẻ bằng tên mình , sau đó trao lại cho người khác sử_dụng .
+Theo xu_hướng gian_lận gần đây , kẻ_gian thuê người mở thẻ , sau đó lợi_dụng thẻ làm công_cụ để thực_hiện các thủ_đoạn lừa_đảo bất_chính , chiếm_đoạt tài_sản hoặc vi_phạm pháp_luật .
+Hưng_Thịnh

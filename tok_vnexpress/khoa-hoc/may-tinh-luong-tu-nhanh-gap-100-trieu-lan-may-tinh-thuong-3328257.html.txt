@@ -1,0 +1,34 @@
+Máy_tính lượng_tử nhanh gấp 100 triệu lần máy_tính thường
+Siêu máy_tính lượng_tử D-Wave chỉ cần một giây để xử_lý các phép_tính mà máy_tính thường phải mất 10.000 năm mới giải được .
+Theo Bloomberg , công_ty Google của Mỹ sở_hữu nhiều máy_tính hơn bất_kỳ doanh_nghiệp nào khác trên thế_giới .
+Dù có nguồn trang_bị máy_tính dồi_dào , các nhà_nghiên_cứu của Google vẫn gặp khó_khăn khi cố_gắng giải_quyết những bài_toán phức_tạp , đặc_biệt là bài_toán gắn với trí thông_minh nhân_tạo ( AI ) .
+" Chúng_tôi vấp phải những bài_toán không_thể xử_lý bằng máy_tính thông_thường .
+Chúng_tôi muốn hiểu rõ tương_lai phía trước bằng loại máy_vi_tính phi truyền_thống " , John_Giannandrea , Phó_chủ_tịch kỹ_thuật của Google , cho_biết .
+Loại máy_tính mà Google ngày_càng sử_dụng nhiều hơn mang tên máy_tính lượng_tử .
+Hệ_thống này tận_dụng những đặc_điểm của cơ_học lượng_tử , lĩnh_vực khoa_học liên_quan đến cách hoạt_động của các nguyên_tử và phân_tử siêu nhỏ .
+Chúng có_thể giúp giải_quyết những bài_toán mà máy_tính thông_thường không đủ khả_năng xử_lý .
+Trong họp_báo hôm 8/12 ở Mountain_View , California , Mỹ , Google tuyên_bố công_ty đang hợp_tác với Cơ_quan Hàng_không Vũ_trụ Mỹ ( NASA ) và D-Wave Systems , hãng sản_xuất máy_tính lượng_tử , để xây_dựng một phòng_thí_nghiệm vi_tính .
+Thương_vụ hợp_tác này đã diễn ra trong hai năm , nhưng gần đây nhờ chiếc máy_tính D-Wave lớn hơn mới nâng_cấp , các nhà_nghiên_cứu thu được nhiều kết_quả khả_quan từ thí_nghiệm .
+Theo Google , các tính_toán trong thí_nghiệm chỉ ra máy_tính D-Wave hoàn_toàn làm lu_mờ máy_tính thường_khi thực_hiện một_số yêu_cầu .
+Trong một bài kiểm_tra , D-Wave chỉ cần một giây để xử_lý các phép_tính mà máy_tính thường phải mất 10.000 năm mới giải được .
+Google cho_biết máy_tính lượng_tử có_thể thực_hiện nhiều yêu_cầu nhanh gấp 100 triệu lần máy_tính thường .
+Đây thực_sự là tốc_độ nhanh hiếm có trong lịch_sử ngành công_nghệ vi_tính .
+Máy_tính D-Wave rất khác máy_tính thông_thường .
+Nó chỉ có_thể thực_hiện một số_lượng hạn_chế các phép_tính lượng_tử và rất ít người biết cách đưa ra bài_toán phù_hợp với chiếc máy .
+Vì_vậy , Google đảm_nhiệm vận_hành thử trên D-Wave .
+" Chúng_tôi cần làm cho nó dễ tiếp_nhận một bài_toán thực_tiễn hơn khi có_mặt trên bàn làm_việc của các kỹ_sư " , Hartmut_Neven , người chỉ_đạo kỹ_thuật của Google , chia_sẻ .
+Google đang ứng_dụng các phép_toán tối_ưu_hóa thuộc loại khó trên một_số công_nghệ AI cao_cấp mà mọi người thường dùng như công_cụ tìm_kiếm bằng hình_ảnh và nhận_diện giọng nói .
+Nhưng các phép_toán trên được thực_hiện thông_qua hàng nghìn máy_tính thông_thường kết_nối với nhau .
+Công_ty bày_tỏ hy_vọng có_thể dùng máy_tính lượng_tử để hỗ_trợ cho hệ_thống máy_tính thường và đạt được nhiều đột_phá đối_với những bài_toán hiện_nay chưa_thể giải_quyết .
+" Chúng_tôi có_thể cần thời_gian vài năm trước khi công_trình này tạo nên điều khác_biệt cho những sản_phẩm của Google " , Giannandrea dự_đoán .
+Máy_tính D-Wave cũng đang được NASA sử_dụng nhằm cải_thiện công_nghệ mô_phỏng và mã_hóa .
+D-Wave hoạt_động dựa vào bit lượng_tử , gọi_là qubit .
+Khác với hệ_số nhị_phân thông_thường bắt_buộc phải là 1 hoặc 0 , một qubit có_thể là 1 , 0 hoặc trạng_thái nằm giữa .
+Chiếc máy_tính có_thể đồng_thời xem_xét một lượng lớn các giải_pháp cho một bài_toán .
+Đặc_điểm này khiến máy_tính lượng_tử rất phù_hợp để xử_lý các bài_toán tối_ưu_hóa .
+Ví_dụ , một người có_thể đang muốn tìm ra cách tốt nhất để lên lộ_trình cho hàng nghìn máy_bay hạ_cánh và cất_cánh từ sân_bay .
+Neven dành phần_lớn thời_gian làm_việc với máy_tính D-Wave và ông nhận thấy chúng có nhiều tiềm_năng trong những lĩnh_vực như cải_thiện công_nghệ pin , thiết_bị khử mặn và pin mặt_trời .
+Tính độc_đáo của qubit cho_phép khám_phá đặc_điểm của vật_liệu , dẫn đến những máy_móc công_nghiệp hiệu_quả hơn .
+" Như chúng_ta đã biết , do bản_chất vận_động của tự_nhiên là vật_lý lượng_tử nên cần có một quá_trình dựa vào vật_lý lượng_tử để mô_tả các thành_phần của vũ_trụ .
+Sớm hay muộn , máy_tính lượng_tử sẽ trở_thành công_cụ được lựa_chọn để giải_quyết những vấn_đề này " , Neven khẳng_định .
+Phương_Hoa

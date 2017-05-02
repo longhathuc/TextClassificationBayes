@@ -1,0 +1,23 @@
+Bản cập_nhật lớn Windows 10 Anniversary_Update ra_mắt ngày 2/8
+Microsoft khẳng_định phát_hành miễn_phí bản cập_nhật Anniversary_Update cho Windows 10 trên máy_tính , tablet , smartphone ... ngay đầu tháng 8 với nhiều tính_năng thú_vị .
+Windows 10 tiếp_tục là phiên_bản Windows tăng_trưởng nhanh_nhất và đang có_mặt trên hơn 350 triệu thiết_bị .
+Bản_Windows 10 Anniversary_Update mang đến cho người dùng nhiều điểm mới như Windows_Ink hỗ_trợ bút và nhận_diện chữ_viết tay , tích_hợp trợ_lý ảo Cortana ... cùng nhiều tính_năng bảo_mật tiên_tiến cho người dùng cá_nhân và doanh_nghiệp .
+" Khi giới_thiệu Windows 10 , chúng_tôi mong_muốn cung_cấp không_chỉ hệ_điều_hành tốt nhất và bảo_mật nhất , mà_còn mang đến trải_nghiệm tốt hơn theo thời_gian .
+Windows 10 Anniversary_Update thể_hiện điều này " , ông Terry_Myerson , Phó_chủ_tịch điều_hành khối Windows và Thiết_bị của Microsoft , chia_sẻ .
+Một_số tính_năng mới trên Windows 10 Anniversary_Update :
+Bảo_mật
+Để bảo_vệ doanh_nghiệp khỏi các mối đe_dọa hiện_đại , Microsoft công_bố 2 tính_năng bảo_mật mới là Windows_Defender_Advanced_Threat_Protection ( được thiết_kế để dò_tìm , điều_tra và phản_hồi về những tấn_công của mã độc ) và Windows_Information_Protection ( giúp tránh rò_rỉ dữ_liệu bằng cách phân_tách dữ_liệu cá_nhân với tổ_chức , bảo_vệ dữ_liệu của tổ_chức từ địa_điểm bất_kỳ ) .
+Bên_cạnh đó , Windows_Hello , hệ_thống bảo_mật sinh trắc học , cho_phép người dùng đăng_nhập PC , điện_thoại , tablet ... chạy Windows 10 bằng cách sử_dụng võng_mạc , vân tay hay khuôn_mặt miễn_là thiết_bị đó có tích_hợp cảm_biến nhận_diện tương_ứng .
+Windows_Ink
+Windows_Ink mang đến trải_nghiệm mới với khả_năng nhận_diện chữ_viết tay_trên thiết_bị và hỗ_trợ viết bằng bút stylus như viết trên giấy .
+Người sử_dụng có_thể tạo ghi_chú , vẽ ... và nhanh_chóng chia_sẻ lên mạng xã_hội , e-mail .
+Windows_Ink tích_hợp sẵn trong các ứng_dụng như Maps , Edge và ứng_dụng văn_phòng Office để người dùng đánh_dấu địa_điểm , chỉnh_sửa tài_liệu , dùng thước ảo để vẽ đường_thẳng bằng bút nhanh_chóng ...
+Cortana
+Trợ_lý ảo Cortana có thêm những tính_năng mới như truy_cập từ màn_hình khóa , thêm những cách khác_nhau để ghi_nhớ và đồng_bộ thông_qua các thiết_bị .
+Trong bản Anniversary_Update , Cortana cũng sẽ hiểu người dùng hơn và đưa ra những gợi_ý phù_hợp dựa trên thói_quen và lịch_trình của họ , như đề_nghị họ ăn trưa hay sắp_xếp phương_tiện di_chuyển .
+Microsoft_Edge
+Anniversary_Update mang đến khả_năng tiết_kiệm điện cho trình_duyệt Microsoft_Edge như tiêu_thụ ít bộ_nhớ hơn , giảm tối_đa hoạt_động nền và nội_dung ngoại_vi như quảng_cáo Flash .
+Kiến_trúc truy_cập mới cho Microsoft_Edge cũng hỗ_trợ các chuẩn web hiện_đại , bao_gồm HTML5 , CSS3 và ARIA .
+Trải_nghiệm game tốt hơn
+Với_Xbox_Play_Anywhere , các game thủ có_thể mua một trò_chơi và chơi cả trên Windows 10 PC hoặc Xbox_One nhờ khả_năng chia_sẻ và đồng_bộ .
+Tính_năng Language_Region_Independence cho_phép game thủ lựa_chọn ngôn_ngữ hỗ_trợ trên Xbox_One , dù không phải địa_điểm của họ .

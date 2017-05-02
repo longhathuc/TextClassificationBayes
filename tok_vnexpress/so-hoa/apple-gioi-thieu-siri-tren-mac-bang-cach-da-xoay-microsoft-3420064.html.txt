@@ -1,0 +1,18 @@
+Apple giới_thiệu Siri trên Mac bằng cách ' đá xoáy ' Microsoft
+Trợ_lý giọng nói trên mac OS Sierra khéo_léo khen máy_tính Mac đẹp và cho rằng không có vấn_đề gì khi thiếu_vắng hệ_điều_hành Windows .
+Tại sự_kiện WWDC 2016 , Apple chính_thức công_bố hệ_điều_hành mac OS Sierra với nhiều tính_năng mới , đặc_biệt là sự xuất_hiện của trợ_lý giọng nói Siri .
+Để trình_diễn , Phó_chủ_tịch cấp cao Craig_Federighi đã hỏi Siri : " Bạn thấy như_thế_nào khi ở trên thiết_bị Mac ? " .
+Siri chính_thức có_mặt trên máy_tính Mac .
+Trợ_lý giọng nói trả_lời : " Không_gian rất rộng , khung nhôm unibody , không có vấn_đề gì khi thiếu cửa_sổ ( Windows ) " .
+Lời đáp của Siri khéo_léo tung_hô thiết_kế đẹp và thoải_mái trên máy_tính Mac , đồng_thời " đá xoáy " việc không có Windows , hệ_điều_hành của Microsoft , chẳng gây tác_động gì .
+Siri trên thiết_bị Mac có_thể thực_hiện được nhiều công_việc tương_tự phiên_bản dành cho i Phone , iPad .
+Ngoài_ra , trợ_lý ảo này còn cho_phép tìm các tập_tin trên máy_tính .
+Trong buổi trình_diễn , Siri đã cho ra kết_quả chính_xác khi   Federighi yêu_cầu tìm " các file được đánh_dấu là tập_tin rác " .
+Apple và Microsoft đang dần thiết_lập thế cạnh_tranh gay_gắt .
+Trong một sự_kiện về i Pad vào tháng 3/2016 , Phó_chủ_tịch Apple   Phil_Schiller nhận_xét rằng hầu_hết các máy_tính Windows đã hơn 5 tuổi và châm_biếm " đó là sự_thực đáng buồn " .
+Dù thế , hai công_ty công_nghệ Mỹ vẫn có những mặt hợp_tác cùng nhau .
+Chẳng_hạn , tất_cả các phiên_bản Siri đều sử_dụng Bing làm công_cụ tìm_kiếm , từ đó thúc_đẩy sự phát_triển trong lĩnh_vực tìm_kiếm của Microsoft .
+Đồng_thời , diều này cũng đặt ra áp_lực và gây lo_ngại cho Google .
+Xem thêm :
+>   Nền_tảng OS_X đổi tên thành mac OS , hỗ_trợ Siri
+>   Những thay_đổi trên mac OS Sierra

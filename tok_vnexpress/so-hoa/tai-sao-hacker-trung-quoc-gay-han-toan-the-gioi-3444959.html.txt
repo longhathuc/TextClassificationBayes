@@ -1,0 +1,45 @@
+Tại_sao hacker Trung_Quốc gây_hấn toàn thế_giới
+Một trong những nhiệm_vụ quan_trọng của hacker Trung_Quốc là thực_thi quyền_lực trong không_gian mạng và giúp nước này thống_trị Internet .
+Trước năm 2009 , hãng máy_bay Boeing vẫn hoạt_động trao_đổi thư_điện_tử bình_thường mà không hề bị kẻ xấu lợi_dụng tấn_công .
+Nhưng vào một ngày mùa_đông năm đó , 2 tin_tặc Trung_Quốc gửi những bức email kèm mã độc đầu_tiên đến Boeing .
+Những nhân_viên tại đây , như thường_lệ vẫn mở thư mà không hề nghi_ngờ , truy_cập vào các liên_kết gắn sẵn để tải về tệp_tin đính kèm .
+Phần_mềm độc_hại nhanh_chóng bị cài vào máy , lấy đi nhiều tài_liệu mật , trong đó có cả các kế_hoạch sản_xuất máy_bay cho mục_đích quân_sự của Boeing , bộ Quốc_phòng Mỹ và Lầu năm góc .
+Tin_tặc Trung_Quốc từng tấn_công rất nhiều nơi trên thế_giới , nhưng chủ_yếu là Mỹ và phương Tây .
+Trong 2 năm tiếp_theo , tin_tặc tiếp_tục đánh_cắp hơn 630.000 tập_tin quan_trọng của Boeing , chủ_yếu liên_quan đến mẫu máy_bay vận_tải quân_sự chiến_thuật / chiến_lược cỡ lớn do hãng và Lầu năm góc nghiên_cứu phát_triển với chi_phí lên đến 3,4 tỷ USD .
+Các tài_liệu gồm bản_vẽ chi_tiết máy_bay và các bộ_phận đi kèm , hệ_thống đường_ống dẫn , đường dây_điện , dữ_liệu bay thử_nghiệm … Theo Cục_Điều tra Liên_bang ( FBI ) , dữ_liệu bị thu_thập sau đó bán ra thị_trường chợ_đen và họ xác_định được người bán ra sau đó : Su_Bin , một chuyên_gia hàng_không_vũ_trụ Trung_Quốc đang sinh_sống và làm_việc tại Canada .
+Cảnh_sát hoàng_gia Canada đã bắt Su vào 28/6/2014 và đang chờ bị dẫn_độ qua Mỹ vì tội truy_cập máy_tính trái_phép .
+Theo Bộ_Tư pháp Mỹ , nhiều bằng_chứng cho thấy Su là một trong những thành_viên của Quân_đội Giải_phóng Nhân_dân Trung_Quốc ( PLA ) chuyên về gián_điệp mạng .
+Hacker này không_những cung_cấp tài_liệu cho hãng hàng_không mà hắn đang làm_việc , Lode_Technologies , mà_còn gửi về Xian_Aircraft_Industrial_Corp , hãng máy_bay có trụ_sở tại Trung_Quốc , từng phát_triển thành_công máy_bay chở hàng riêng .
+Vẫn chưa rõ chính_phủ Trung_Quốc đứng sau vụ_việc hay không , tuy_nhiên theo ông James_Clapper , Giám_đốc Cơ_quan Tình_báo Quốc_gia Mỹ , họ chính là " nghi phạm hàng_đầu " , bởi rất nhiều vụ_việc khác cũng đang cho thấy điều đó .
+Giữa 2015 , Văn_phòng Quản_lý Nhân_sự ( OPM ) cho_biết tin_tặc đã đánh_cắp thông_tin nhạy_cảm của hơn 21,5 triệu thành_viên chính_phủ liên_bang , trong đó có 4,2 triệu người vào tháng 1/2015 và 17,3 triệu người vào tháng 7 năm đó .
+Dù không nói ra , các nguồn tin giấu tên đều khẳng_định Trung_Quốc đứng đằng sau .
+Đội quân hacker của Trung_Quốc được huấn_luyện bài_bản .
+Tháng 5/2014 , Sở Tư pháp Mỹ cũng đã truy_nã 5 tin_tặc là các sĩ_quan PLA , cáo_buộc nhóm này đã đánh_cắp tài_sản trí_tuệ liên_quan đến điện_tử và đường_sắt .
+Nhóm hacker quân_đội 61398 cũng từng dính_líu đến các vụ tấn_công nhằm mục_đích có lợi cho các doanh_nghiệp Trung_Quốc khi cạnh_tranh các hạng_mục dự_án trước doanh_nghiệp Mỹ .
+Sự phổ_biến của công_nghệ đã khiến các hoạt_động gián_điệp phổ_biến hơn , như Alex_Karp , Giám_đốc điều_hành hãng phân_tích dữ_liệu Palantir_Technologies , nhấn_mạnh rằng " phần_mềm và công_nghệ đã dân_chủ_hóa hoạt_động gián_điệp " .
+Chính vì điều này , các nước nhỏ có_thể gây áp_lực lên các nước_lớn thông_qua mạng máy_tính .
+Tuy_nhiên , so với các quốc_gia khác , Trung_Quốc có lượng tin_tặc hoạt_động hết công_suất và đeo_bám rất dai_dẳng mục_tiêu .
+Chúng đã tấn_công là phải thu được thứ gì đó làm thỏa_mãn và chấp_nhận dành ra hơn 10 năm chỉ để có_điều mình muốn , ví_dụ APT 30 .
+Vậy_Trung_Quốc phát_triển đội_ngũ hacker lớn đến vậy để làm_gì ?
+Đầu_tiên là đẩy nhanh việc công_nghiệp_hóa .
+Thế_giới đang sử_dụng rất nhiều hàng " made in China " nhưng chủ_yếu là đi gia_công cho các công_ty nước_ngoài .
+Trung_Quốc rất muốn tự sáng_tạo và trên thực_tế , chính_phủ nước này đã chi_tiêu cho nghiên_cứu và phát_triển thứ_hai thế_giới .
+Mục_tiêu của họ đến năm 2020 là trở_thành " quốc_gia sáng_tạo " , và đến 2050 là " quốc_gia quyền_lực về khoa_học trên toàn_cầu " .
+Hiện_tại , họ có rất nhiều nhà_khoa_học hàng_đầu và số_lượng báo_cáo khoa_học & công_nghệ nước này xuất_bản trên các tạp_chí mỗi năm chỉ đứng sau Mỹ .
+Nhưng_Bắc_Kinh không hài_lòng với những con_số này .
+Các nhà_lãnh_đạo Trung_Quốc xem quyền tự_chủ công_nghệ là quan_trọng đối_với an_ninh kinh_tế và quốc_gia .
+Vậy nên , bên_cạnh tự phát_triển , họ còn " đi_tắt " bằng các hoạt_động đánh_cắp sở_hữu_trí_tuệ , phát_minh từ các quốc_gia khác .
+Tất_nhiên , chính_phủ nước này chưa bao_giờ thừa_nhận mình đi ăn_cắp của người khác .
+Điều thứ_hai còn quan_trọng hơn nhiều , đó là " thực_thi quyền_lực và chủ_quyền không_gian mạng " .
+Đây là tham_vọng cực lớn mà người đứng đầu Cục Quản lý không_gian ảo của Trung_Quốc , Lu_Wei , đang hướng tới .
+Chân_dung người đứng đầu Cục Quản lý không_gian ảo Lu_Wei .
+Trước khi nắm chức_vụ trên , Wei từng là một nhân_vật hoạt_động tuyên_truyền , sau đó làm_việc tại Tân_Hoa_Xã rồi trở_thành Giám_đốc Văn_phòng Thông_tin Internet quốc_gia ( trong đó kiểm_soát mạng Internet ) .
+Trước khi ông này nhậm_chức , các hoạt_động gián_điệp " chỉ phục_vụ cho việc đẩy nhanh phát_triển nền kinh_tế quốc_gia " , nhưng sau đó , chiến_lược thay_đổi .
+Việc thay_đổi xảy_ra từ khi Bắc_Kinh cảm_thấy các nước phương Tây đang dùng Internet như một công_cụ dân_chủ_hóa .
+Trong khi chính_quyền Obama muốn tạo nên thế_giới Internet mở , miễn_phí và toàn_cầu thì Trung_Quốc lại khá nhạy_cảm với điều này .
+Họ đã kiểm_soát chúng bằng Great_Firewall , chặn Google , Gmail , Facebook … và coi hành_động của Mỹ là " âm_mưu chính_trị trắng_trợn " ( theo People ' s Daily ) .
+Khi đã kiểm_soát thành_công Internet trong nước với hơn 650 triệu người sử_dụng , Trung_Quốc bắt_đầu thực_hiện các cuộc tấn_công ngoài biên_giới .
+Họ có hẳn những đội quân Internet tinh_nhuệ , được huấn_luyện hết_sức bài_bản , sẵn_sàng " dằn_mặt " kẻ nào trái ý , cũng_như đánh_cắp dữ_liệu mật để " nắm_đằng_chuôi " trong các cuộc đàm_phán .
+Tuy_nhiên , với sự bành_trướng ngày_càng lớn của Trung_Quốc , theo Csmonitor , không khó để tưởng_tượng ra một cuộc chiến_tranh mạng ở quy_mô tầm thế_giới trong tương_lai .
+Ở đó , Trung_Quốc sẽ phải chống lại các nước phương Tây , cũng_như những quốc_gia mà hacker của họ đã tấn_công .
+Bảo_Lâm

@@ -1,0 +1,16 @@
+Smartphone giá rẻ lén gửi dữ_liệu người dùng về Trung_Quốc
+Hơn 100.000 điện_thoại Android đang bán tại Mỹ bị cài cửa hậu ( backdoor ) bí_mật gửi thông_tin cá_nhân bao_gồm tin nhắn , số điện_thoại ... về máy_chủ đặt tại Trung_Quốc .
+Theo New_York_Times , một_số điện_thoại thông_minh hiện_nay có chứa backdoor bí_mật gửi dữ_liệu đến máy_chủ ở Trung_Quốc .
+Phần_mềm cài sẵn trên các mẫu di_động Android sẽ theo_dõi người dùng , lấy thông_tin cuộc_gọi và các nội_dung tin nhắn .
+Lượng thiết_bị tham_gia gửi thông_tin về Trung_Quốc được đánh_giá là rất cao .
+BLU_R1 HD , một mẫu smartphone bán tại Mỹ bị cài backdoor gửi dữ_liệu về Trung_Quốc .
+Công_ty viết ra phần_mềm này là   Shanghai_Adups_Technology , cho_biết ứng_dụng của họ chạy trên hơn 700 triệu thiết_bị thông_minh và có_thể xuất_hiện trên cả ôtô .
+Phần_mềm tự_động truyền thông_tin sang Trung_Quốc sau mỗi 72 giờ và mục_đích có_thể phục_vụ quảng_cáo hoặc hoạt_động gián_điệp .
+Tại_Mỹ , công_ty điện_thoại BLU nói rằng đã phát_hiện phần_mềm lén lấy dữ_liệu trên 120.000 điện_thoại thông_minh của hãng .
+Công_ty cho_biết đã loại_bỏ backdoor này thông_qua một bản cập_nhật phần_mềm .
+Dữ_liệu gửi đến máy_chủ Trung_Quốc bao_gồm tin nhắn văn_bản , dữ_liệu cuộc_gọi và cả vị_trí địa_lý .
+Theo giải_thích của Adups , phần_mềm của họ được thiết_kế với mục_đích giúp các nhà_sản_xuất Trung_Quốc theo_dõi hành_vi người dùng , song không chịu trách_nhiệm với các thiết_bị được đưa vào Mỹ .
+Trên website , công_ty cho_biết là đối_tác của Huawei và ZTE , những hãng di_động Trung_Quốc có quy_mô top đầu thế_giới .
+Cả_Huawei và ZTE đều bán smartphone tại Mỹ .
+Trong khi đó BLU_R1 HD , mẫu smartphone có_giá khoảng 50 USD là thiết_bị đã giúp các nhà_nghiên_cứu bảo_mật phát_hiện ra backdoor nói trên .
+Về phía Adups , công_ty cho_biết đã xóa_bỏ toàn_bộ dữ_liệu người dùng đã thu_thập trước đó .

@@ -1,0 +1,5 @@
+6 hiểu lầm thường gặp về máy_tính Mac
+Máy_tính của Apple có bị nhiễm virus không , mức_độ tương_thích với hệ_điều_hành Windows hay khả_năng nâng_cấp phần_cứng là những điều người dùng quan_tâm .
+Câu 1 :   Khác_Windows , hệ_điều_hành mac OS ( Mac OS X ) không bị nhiễm virus ?
+A . Đúng
+B . Sai

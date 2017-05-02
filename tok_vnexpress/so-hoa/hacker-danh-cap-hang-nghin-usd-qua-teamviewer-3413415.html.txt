@@ -1,0 +1,16 @@
+Hacker đánh_cắp hàng nghìn USD qua TeamViewer
+Bằng cách tấn_công TeamViewer , phần_mềm điều_khiển máy_tính từ xa , tin_tặc đã kiểm_soát được thiết_bị của người dùng và thực_hiện các giao_dịch bất_hợp_pháp .
+Theo BGR , nhiều người cho_biết máy_tính của họ đã bị bên thứ_ba chiếm quyền kiểm_soát và cố_gắng đánh_cắp tiền , thông_qua dịch_vụ thanh_toán trực_tuyến như PayPal hay mua hàng trên e Bay .
+Các lời phàn_nàn cho rằng phần_mềm điều_khiển máy_tính từ xa TeamViewer là nguyên_nhân của các cuộc tấn_công trên .
+Giao_diện phần_mềm TeamViewer trên PC .
+Sự_cố xảy_ra cả với người dùng Windows , Mac OS hay trên các máy_chủ .
+Một_số tài_khoản nói họ dùng mật_khẩu có độ bảo_mật cao và bật tính_năng xác_thực hai bước cho TeamViewer nhưng vấn bị tấn_công .
+" Tin_tặc có tất_cả mọi thứ của tôi .
+Chúng kết_nối từ xa đến máy_tính , mở trình_duyệt Chrome và dùng PayPal để mua các thẻ quà tặng trị_giá khoảng 3.000 USD " , người dùng tên Doug cho_biết .
+" Khi tôi chuẩn_bị ngồi vào máy_tính thì thấy con chuột đang chuyển_động trên màn_hình .
+Ngay_lập_tức , tôi thu_hồi quyền điều_khiển máy_tính từ xa trên tất_cả các thiết_bị .
+Tôi thật_sự hoảng_loạn và nghĩ rằng tất_cả các tài_khoản của mình có_thể đã bị đánh_cắp " , thành_viên   Eric1084 chia_sẻ trên diễn_đàn Reddit.com .
+Về phía TeamViewer , công_ty phủ_nhận hệ_thống của họ đã bị tấn_công và chỉ giải_thích việc phần_mềm này ngừng hoạt_động ít_nhất 3 giờ .
+Hãng tuyên_bố hệ_thống quản_lý tên_miền đã gặp chút xáo_trộn dẫn đến tình_trạng một_số người dùng không_thể kết_nối đến TeamViewer , nhưng đã được khắc_phục sau đó .
+Trước khi có lời giải_thích thỏa_đáng , người dùng thấy chưa yên_tâm có_thể đăng xuất tài_khoản TeamViewer khỏi các thiết_bị của mình hoặc gỡ hoàn_toàn ứng_dụng .
+Bạn cũng có_thể kiểm_tra lịch_sử hoạt_động bằng cách vào phần Extras và tìm file Log , xem_lại các giao_dịch của thẻ_tín_dụng , tài_khoản trực_tuyến .

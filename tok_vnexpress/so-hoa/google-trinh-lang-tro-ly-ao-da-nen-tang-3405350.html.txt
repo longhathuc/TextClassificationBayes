@@ -1,0 +1,21 @@
+Google trình_làng trợ_lý ảo đa nền_tảng
+Google_Assistant là tính_năng tìm_kiếm , điều_khiển và tương_tác bằng giọng nói có_thể sử_dụng trên smartphone , đồng_hồ thông_minh , TV cho tới xe_hơi hay hệ_thống nhà thông_minh .
+Hội_nghị lập_trình_viên của Google , I / O 2016 , diễn ra tại Mỹ từ 18/5 đến 20/5 .
+Google_Assistant cũng có_thể được coi là phiên_bản thông_minh , mạnh_mẽ hơn tính_năng tìm_kiếm Google_Now hiện có_của Google .
+So với Siri của Apple hay Cortana của Microsoft , Google_Assistant cũng cho thấy khả_năng ứng_biến linh_hoạt hơn trong nhiều tình_huống .
+Ra_mắt trong sự_kiện khai_mạc hội_nghị lập_trình_viên Google I / O 2016 , nhưng Google_Assistant vẫn cần một thời_gian nữa mới chính_thức có_mặt trên các nền_tảng của Google .
+Điểm mạnh của trợ_lý ảo thế_hệ mới của Google so với tính_năng Google_Now trước đó là khả_năng nhận_diện ngữ_cảnh và cá_nhân hoá theo người sử_dụng .
+Người dùng có_thể đặt câu_hỏi , ra_lệnh hay trao_đổi thông_tin liên_tục cho Google_Assistant giống như đang hội_thoại với một người thực .
+Ví_dụ khi bạn tìm_kiếm những bộ phim đang chiếu , Google_Assistant sẽ tự_động đưa ra kết_quả lịch chiếu_phim tại các rạp ở gần hay những đánh_giá về phim .
+Khi người dùng muốn đi xem một bộ phim nào_đó , trợ_lý ảo của Google cũng gợi_ý mua vé hộ và có_thể tự biết số người có_thể đi cùng .
+Hãng công_nghệ khổng_lồ của Mỹ đặt tham_vọng Google_Assistant sẽ trở_thành bộ_não trung_tâm của căn nhà thông_minh trong tương_lai khi trình_làng thêm thiết_bị Google_Home .
+Về cơ_bản đây là một mẫu loa di_động có kích_thước nhỏ gọn , tuy_nhiên , nó lại được tích_hợp trợ_lý ảo thế_hệ mới của Google và có khả_năng kết_nối mạng .
+Vì_thế , ngoài khả_năng chơi nhạc , kết_nối âm_thanh đa phòng , nó còn cho_phép người dùng tương_tác bằng giọng nói , ra_lệnh tìm_kiếm thông_tin hay điều_khiển các thiết_bị khác trong nhà như TV , dàn âm_thanh ...
+Ngoài trợ_lý ảo và bộ loa thông_minh , Google còn trình_làng hai ứng_dụng nhắn_tin và videocall mới mang tên Allo và Duo .
+Trong đó , ứng_dụng nhắn_tin Allo sử_dụng tài_khoản là các số điện_thoại và cũng được tích_hợp Google_Assistant .
+Nhờ thế , trong khi trò_chuyện , ngoài việc sử_dụng đồng_thời các dịch_vụ tìm_kiếm của Google , Allo có_thể đưa ra các gợi_ý trả_lời dựa trên ngữ_cảnh hay các hình_ảnh được trao_đổi .
+Còn với Duo , đây là tính_năng videocall được Google giới_thiệu có khả_năng hoạt_động tốt ngay cả khi tốc_độ mạng chậm .
+Điểm hay ở Duo là xem được trước hình_ảnh của người đang gọi điện đến .
+Hai ứng_dụng liên_lạc mới , Allo và Duo , hoàn_toàn tách_biệt với phần_mềm Hangouts thông_dụng trước đó của Google .
+Trong sự_kiện khai_mạc hội_nghị lập_trình_viên I / O 2016 , Google còn công_bố thêm những cải_tiến nổi_trội trên hệ_điều_hành Android N về hiệu_năng , khả_năng kiểm_soát thời_lượng pin cũng_như bảo_mật .
+Tuy_nhiên , thời_điểm phát_hành và tên gọi chính_thức của phiên_bản này vẫn chưa được tiết_lộ .

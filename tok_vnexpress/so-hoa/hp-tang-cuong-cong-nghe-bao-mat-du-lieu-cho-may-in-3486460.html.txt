@@ -1,0 +1,30 @@
+HP tăng_cường công_nghệ bảo_mật dữ_liệu cho máy_in
+Các công_nghệ mới giúp ngăn_chặn hiệu_quả xâm_nhập trái_phép vào mạng doanh_nghiệp thông_qua máy_in , nâng cao khả_năng bảo_mật ở mức tối_ưu .
+Theo các chuyên_gia công_nghệ , máy_in có_thể gây ảnh_hưởng tới hoạt_động của cả doanh_nghiệp nhưng trong thực_tế vai_trò của chúng không được coi_trọng .
+Cùng_với các thành_phần khác trong hệ_thống mạng   như máy_tính , máy_chủ , thiết_bị di_động ... , máy_in đã trở_thành " cổng hậu " tiện_lợi để thông_qua đó tin_tặc có_thể tiếp_cận những tài_nguyên quý_giá của doanh_nghiệp .
+Không ít những sự_cố bảo_mật thông_tin thời_gian gần đây có liên_quan tới máy_in .
+Một khảo_sát của IDC cho thấy doanh_nghiệp có_thể gặp rủi_ro nếu_không quan_tâm tới bảo_mật máy_in .
+Bên_cạnh đó các tính_năng bảo_mật có ảnh_hưởng quyết_định tới việc mua hoặc thuê máy_in của họ .
+Việc lựa_chọn chiếc máy_in phù_hợp , hiệu_quả , có khả_năng bảo_vệ an_toàn dữ_liệu kinh_doanh trở_nên rất quan_trọng .
+Bảo_mật máy_in có ảnh_hưởng đến quyết_định lựa_chọn máy_in cho doanh_nghiệp .
+Để giải_quyết thực_trạng này , nhà_cung_cấp máy_in hàng_đầu thế_giới HP đã nghiên_cứu và trang_bị hàng_loạt công_nghệ cùng tính_năng bảo_mật an_toàn cho các sản_phẩm của hãng như HP JetAdvantage Security_Manager , HP Printing_Security_Advisory_Services , HP Managed_Print_Services ( HP_MPS ) và HP Access_Control .
+Các công_nghệ này được xem như tấm chắn bảo_vệ , giúp ngăn_chặn hiệu_quả bất_cứ nỗ_lực xâm_nhập nào vào mạng doanh_nghiệp thông_qua máy_in , nâng cao khả_năng bảo_mật mạng ở mức tối_ưu .
+Khả_năng phát_hiện đe_dọa theo thời_gian_thực của máy_in HP là tính_năng đáng_giá giúp phát_hiện và ngăn_chặn hành_vi tấn_công .
+Mỗi máy_in sẽ kiểm_tra thường_xuyên mã hoạt_động riêng và cảnh_báo bộ_phận IT khi phát_sinh vấn_đề .
+Những máy_in trang_bị tính_năng bảo_mật nâng cao của HP được nhiều khách_hàng lớn trên thế_giới , nhất_là các công_ty công_nghệ hàng_đầu và công_ty luật đa quốc_gia đánh_giá cao và lựa_chọn sử_dụng .
+Giải_pháp của HP giúp tăng_cường khả_năng in_ấn an_toàn trong toàn_bộ hệ_thống .
+Một hãng công_nghệ lớn có_thể sử_dụng đến hơn 2.000 chiếc máy_in HP LaserJet và HP PageWide .
+Hỗ_trợ đội_ngũ máy_in là các công_nghệ bảo_mật in_ấn đặc_thù của HP .
+Cụ_thể công_nghệ HP Printing_Security_Advisory_Services đánh_giá và xây_dựng chiến_lược in_ấn bảo_mật toàn_diện để từ đó đề_xuất các giải_pháp tối_ưu .
+Còn HP JetAdvantage Security_Manager_Software hỗ_trợ chiến_lược tiếp_cận dựa trên chính_sách bảo_mật giúp đảm_bảo an_toàn cho các thiết_bị in_ấn .
+Khi đã triển_khai HP JetAdvantage Security_Manager , doanh_nghiệp có_thể dễ_dàng thiết_lập chính_sách bảo_mật tổng_thể và chúng sẽ tự_động xác_nhận các thiết_lập trên mỗi máy_in HP trong hệ_thống .
+Các công_nghệ bảo_mật in_ấn của HP như tấm chắn bảo_vệ , giúp ngăn_chặn các nỗ_lực xâm_nhập vào mạng doanh_nghiệp thông_qua máy_in .
+Trong khi đó , với những công_ty luật yêu_cầu cao về bảo_mật tài_liệu , HP Managed_Print_Services kết_hợp với HP Access_Control giúp đảm_bảo an_toàn in_ấn .
+Mức_độ bảo_mật còn được nâng cao hơn bằng cách sử_dụng đồng_bộ máy_in HP với hệ_thống máy_tính_để_bàn HP có trang_bị các tính_năng bảo_mật nâng cao như HP Client_Security , HP_BIOS phere với HP Sure_Start hay Microsoft_Security_Essentials , Preboot_Authentication , Password_Manager , và ổ_cứng SSD tự mã_hóa .
+Tính_năng HP Access_Control ( HPAC ) giúp doanh_nghiệp mã_hóa các tác_vụ in_ấn khi gửi đi lệnh in hoặc mã_hóa trực_tiếp trên ổ_cứng an_toàn của máy_in , sẽ ngăn_chặn việc tiếp_cận trái_phép các tài_liệu in_ấn trên máy_in hoặc máy_chủ in_ấn .
+HPAC giúp quét tài_liệu trực_tiếp cho từng người dùng dựa trên ID đã được xác_nhận .
+Người dùng cần phải có thẻ ID mới thực_hiện được lệnh in .
+Thao_tác dễ_dàng , nhanh gọn nhưng giúp đảm_bảo tài_liệu in_ấn không lọt vào tay những người không liên_quan .
+Tất_cả các công_nghệ này đều giúp mang lại môi_trường in_ấn an_toàn , nhất_là cho các doanh_nghiệp lớn , nơi tài_liệu in_ấn có_thể ảnh_hưởng trực_tiếp tới cả quy_trình kinh_doanh .
+Nó cũng giúp ngăn_chặn hiệu_quả nguy_cơ tin_tặc thông_qua máy_in chui vào mạng doanh_nghiệp .
+Minh_Trí

@@ -1,0 +1,31 @@
+Học_sinh lớp 8 chế thiết_bị chống gian_lận thi_cử
+Chiếc máy_quét cầm tay có_thể dò được các thiết_bị gian_lận công_nghệ_cao trong phòng thi , kể_cả những thiết_bị siêu nhỏ hoặc không hoạt_động .
+Thiết_bị được chế_tạo theo nguyên_lý hoạt_động của cảm_biến tiệm_cận điện cảm và module công_tắc từ lưỡi_gà , cảm_biến từ_trường , cảm_biến hồng_ngoại nhằm dò_tìm và nhận_biết các thiết_bị gian_lận công_nghệ_cao .
+Khi học_sinh mang theo tài_liệu hoặc các thiết_bị nghi_ngờ gian_lận , cổng quét sẽ phát ra tín_hiệu .
+Thiết_bị có_thể dò_tìm và phát_hiện sự xuất_hiện của tai_nghe siêu nhỏ , các thiết_bị đi kèm , ngay cả khi chúng không hoạt_động .
+Đồng_thời , xác_định và tính_toán giá_trị biến_thiên từ_trường giữa từ_trường tại vị_trí cần kiểm_tra và từ_trường trái_đất .
+Giá_trị biến_thiên này sẽ được hiển_thị trên màn_hình dò_tìm , truyền_thông hiển_thị giá_trị và vẽ sơ_đồ giá_trị từ_trường biến_thiên trên máy_tính .
+Ngoài_ra , nó có_thể   làm nhiễu đường truyền của các thiết_bị gian_lận và   nhận_biết được các thiết_bị không giây như sóng GSM , Bluetooth ...
+Thiết_bị này được Ngô_Đức_Huy và Võ_Trần_Công , học_sinh lớp 8 trường TH - HCS - THPT Việt - Úc , thực_hiện dưới sự hướng_dẫn của giáo_viên Dương_Ngọc_Cường .
+" Tụi em mất khá nhiều thời_gian để thực_hiện , rất vui vì thiết_bị của mình được đánh_giá có tính ứng_dụng cao hơn các giải_pháp đang áp_dụng lâu_nay như camera hay giám_thị quan_sát " , Huy cho_hay .
+Nghiên_cứu áp_lực tâm_lý thi_cử
+Liên_tục phải chịu áp_lực từ thi_cử , Phan_Ngọc_Hân và Nguyễn_Nhật_An - trường THPT Gia_Định - đã thực_hiện nghiên_cứu về vấn_đề này .
+Đề_tài đưa ra thực_trạng về chứng trầm_cảm ở học_sinh THPT hiện_nay xuất_phát từ việc ngày_càng có nhiều biến_đổi về suy_nghĩ , cảm_xúc và hành_vi trong cuộc_sống , trong các mối quan_hệ với bạn_bè như uống rượu_bia , đánh nhau ...
+Để thực_hiện , Hân và An đã lấy ý_kiến 150 học_sinh THPT .
+Qua khảo_sát , Hân cho rằng học_sinh hiểu_biết rất ít về trầm_cảm và mối nguy_hiểm của căn_bệnh .
+Ngoài lý_do thay_đổi tâm_sinh_lý của tuổi dậy_thì , nguyên_nhân lớn nhất hiện_nay khiến nhiều học_sinh bị trầm_cảm do gia_đình quá kỳ_vọng vào con_em mình .
+Còn nhà_trường thì đặt nặng vấn_đề điểm_số , áp_lực học_hành .
+" Bọn em chịu rất nhiều áp_lực , còn ba_mẹ lúc_nào cũng muốn được điểm tuyệt_đối , học_sinh giỏi hoặc thi đậu trường này trường kia .
+Không được nghỉ_ngơi , bọn em thậm_chí phải ăn_uống vội_vàng để kịp giờ học chính_khóa và học thêm " , Hân nói và cho rằng khi bị trầm_cảm nhiều bạn đã sống tách_biệt hẳn với bạn_bè , thậm_chí có bạn nghĩ đến chuyện tự_tử .
+Hân và An mong_muốn qua đề_tài này phụ_huynh và nhà_trường không còn đặt nặng thành_tích học_tập , còn học_sinh cần được tuyên_truyền nhiều hơn về kiến_thức trầm_cảm cũng_như các biểu_hiện bệnh tâm_lý .
+Các em cũng đề_xuất mỗi trường nên có phòng tư_vấn tâm_lý hoạt_động hiệu_quả để phát_hiện và can_thiệp kịp_thời những học_sinh có biểu_hiện tiêu_cực .
+Tìm giải_pháp cho tình_trạng xả rác ở phố đi bộ Nguyễn_Huệ
+Trước việc phố đi bộ còn thiếu cây_xanh , tình_trạng xả rác bừa_bãi và bán hàng rong chèo_kéo khách du_lịch còn phổ_biến ,   Vũ_Ngọc_Mai - học_sinh trường trung_học Thực_hành ( Đại_học Sư_phạm TP_HCM ) - thực_hiện đề_tài Phố đi bộ Nguyễn_Huệ - từ góc nhìn môi_trường và văn_hóa đô_thị .
+Mai cùng bạn chung lớp Nhâm_Lê_Quỳnh_An bắt_tay nghiên_cứu đề_tài mong tìm ra giải_pháp khắc_phục .
+Khảo_sát trên 300 người ( trong đó có 230 người_dân TP và 70 du_khách trong và ngoài nước ) , đa_số đều cho rằng đây là nơi đi dạo , hóng mát miễn_phí ; biểu_tượng mới của sự phát_triển đô_thị ; không_gian gắn_kết mọi người ...
+Nhiều người tỏ ra chưa hài_lòng khi khu_phố này thiếu cây_xanh , ghế_ngồi , nhà_vệ_sinh và hệ_thống thùng rác công_cộng ...
+Tuy_nhiên , có đến 77% người_dân thành_phố và 75% du_khách cho rằng nhiều người thiếu ý_thức trong việc giữ_gìn vệ_sinh , môi_trường chung .
+44% du_khách còn cho rằng việc bày bán hàng rong ở phố đi bộ gây mất mỹ_quan đô_thị .
+Mai và An cho rằng muốn giải_quyết vấn_đề hàng rong cần đáp_ứng nhu_cầu của người_dân bằng cách lắp_đặt các máy bán hàng tự_động .
+Tăng_cường tổ_chức các hoạt_động văn_hóa và các điểm trình_diễn nghệ_thuật trong từng góc phố .
+Cần có các trạm thông_tin du_lịch thông_minh , quầy hướng_dẫn du_lịch ...

@@ -1,0 +1,15 @@
+Phương_pháp mới tính khối_lượng vũ_trụ
+Thông_qua chớp sóng_vô_tuyến , các nhà thiên_văn có_thể tính_toán lượng vật_chất mà chúng đi xuyên qua , từ đó tìm ra khối_lượng của vũ_trụ .
+Gần đây , các nhà thiên_văn_học phát_hiện chớp sóng_vô_tuyến đến từ những nơi xa_xôi .
+Mang tên Fast_Radio_Bursts ( FRB ) , chúng chỉ kéo_dài khoảng một mili giây và số chớp sóng được ghi_nhận mới ở con_số 16 .
+Vào ngày 18/4/2015 , một chớp sóng được kính_viễn_vọng vô_tuyến Parkes khẩu_độ 64 m ở Australia ghi lại .
+Trong vòng vài giờ sau khi tin_tức lan_truyền , một_số kính_viễn_vọng khác cũng tìm_kiếm tín_hiệu .
+Kính_viễn_vọng Australian_Telescope_Compact_Array   xác_định được vị_trí của chớp sóng .
+Đồng_thời , kính_viễn_vọng quang_học Subaru khẩu_độ 8,2 m ở Đài_thiên_văn Quốc_gia Nhật_Bản cũng phát_hiện chớp sóng đến từ một thiên_hà cách Trái_Đất 6 tỷ năm_ánh_sáng , theo The_Guardian .
+Đây là lần đầu_tiên nguồn_gốc cũng_như khoảng_cách di_chuyển của FRB được đo_đạc .
+Phát_hiện góp_phần quan_trọng giúp các nhà_khoa_học tính khối_lượng vũ_trụ vì khi sóng_vô_tuyến di_chuyển qua không_gian , lượng vật_chất chúng đi qua sẽ chia tần_số sóng thành những dải khác_nhau .
+Những tần_số cao sẽ đến Trái_Đất trước những tần_số thấp .
+Độ trễ giữa các tần_số cho_phép nhà thiên_văn tính_toán lượng vật_chất mà sóng_vô_tuyến đi xuyên qua trước khi đến Trái_Đất .
+Trong nghiên_cứu công_bố hôm_nay trên tạp_chí Nature , nhà_nghiên_cứu Evan_Keane ở Đài_thiên_văn Jodrell_Bank , Anh , tính_toán theo cách này và phát_hiện lượng vật_chất trùng khớp hoàn_toàn với những tính_toán theo giả_thuyết thay_vì ước_tính dựa trên số_lượng sao trong vũ_trụ .
+Vật_chất mà các nhà_khoa_học chưa tìm ra nhiều khả_năng đang trôi_nổi trong không_gian liên thiên_hà ở những đám mây khí loãng .
+Phương_Hoa

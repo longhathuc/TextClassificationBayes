@@ -1,0 +1,28 @@
+Ổ_USB không còn là phương_tiện lưu_trữ độc_tôn
+Hiện_nay , thay bằng dùng USB để lưu dữ_liệu hoặc chia_sẻ với người khác , người dùng đã có nhiều lựa_chọn như ổ_cứng di_động và các dịch_vụ lưu_trữ đám mây .
+Với ưu_điểm thiết_kế nhỏ gọn , tháo_lắp nhanh cũng_như tốc_độ và dung_lượng luôn được nâng_cấp , USB từng là cái tên được ưu_tiên hàng_đầu trong việc lưu_giữ hay chia_sẻ dữ_liệu , đặc_biệt trong khoảng năm 2003 đến 2013 .   Nhưng từ 2013 đến nay , thị_trường chứng_kiến sự giảm dần về nhu_cầu về ổ USB của nhiều đối_tượng người dùng .
+Hiện_tại , giá của một bút nhớ USB không cao .
+Ví_dụ , một chiếc USB dung_lượng 8GB , tốc_độ 2.0 của HP chỉ 65.000 đồng , chiếc tương_tự tốc_độ 3.0 của Kingston cũng khoảng 120.000 đồng .
+Trong khi đó , các bản từ 16 đến 128 GB từ 125.000 đến khoảng 1 triệu đồng .
+Mức giá này đã giảm 50 đến 80% so với cách đây 5 năm .
+Theo anh Huy , chủ một cửa_hàng bán_lẻ phụ_kiện máy_tính trên đường Huỳnh_Tấn_Phát ( quận 7 , TP_HCM ) hiện_tại , khách_hàng của họ chủ_yếu mua USB với dung_lượng từ khoảng 16 đến 64GB , lác_đác còn người mua USB 8GB , và chủ_yếu là các công_ty mua để làm_quà tặng cho khách .
+Thậm_chí , cửa_hàng cũng lấy USB làm_quà khuyến_mãi cho khách mua hàng của mình luôn .
+Tuy_nhiên anh Huy cho_hay , số_lượng bán ra đã giảm nhiều so với những năm trước , có_khi chỉ còn 1/3 .
+Tùng_Anh , sinh_viên của trường Đại_học Nguyễn_Tất_Thành ( đường Nguyễn_Tất_Thành , phường 13 , quận 4 , TP_HCM ) cho_biết , anh vẫn dùng USB để in tài_liệu , đồ_án hoặc lưu_trữ hình_ảnh , nhạc ...
+Tuy_nhiên , bạn_bè đã chuyển qua lưu_trữ trên smartphone với bộ_nhớ khá cao , từ 16GB đến 64GB .
+Bên_cạnh đó , thẻ nhớ ngoài ( gắn trong điện_thoại ) cũng là cách lựa_chọn thay_vì USB như trước .
+Với nhân_viên văn_phòng , sự phát_triển của các dịch_vụ lưu_trữ online , dữ_liệu đám mây cũng khiến họ “ quay lưng ” với ổ USB .   Anh
+Nguyễn_Hải_Đăng , phóng_viên công_nghệ của ICT News , nhận_định ,   USB có lợi_thế ở tính cơ_động , nhưng hiện_nay hầu_hết các dịch_vụ đám mây đều ' tặng không ' người dùng dung_lượng lớn , như Google_Drive ( 15GB ) hay OneDrive ( 30GB ) ...
+Người_Việt luôn đặt yếu_tố “ miễn_phí ” lên hàng_đầu , cộng thêm yếu_tố mạng Internet luôn sẵn , việc sử_dụng USB gần_như là thừa_thãi .
+Anh Hà_Tùng , đồng sáng_lập diễn_đàn công_nghệ Techrum , cho_hay lưu_trữ đám mây do an_toàn hơn USB xét ở yếu_tố bền_vững , khả_năng lây_nhiễm virus rất ít , và có_thể truy_cập trên nhiều thiết_bị và hệ_điều_hành , gồm cả máy_tính và thiết_bị di_động .   Một điểm mạnh khác của lưu_trữ đám mây , theo anh là nó được tích_hợp với hệ_sinh_thái nên tiện_dụng .
+Ví_dụ , Google_Drive tương_thích với hệ_sinh_thái Google , Apple có i Cloud , hay dịch_vụ của bên thứ_ba như Dropbox có_thể tự_động cập_nhật ảnh chụp lên mây , và tương_thích với ứng_dụng khác nữa ...
+Tài_nguyên này sau đó có_thể truy_cập trên nhiều thiết_bị khác_nhau mà không cần phải cắm cáp để chép .
+Ngoài_ra , một yếu_tố khiến người_ta dần quay lưng với USB là việc nhiều loại USB không tốt có_thể hỏng_hóc bất_ngờ , dẫn đến mất dữ_liệu , bị lạc ... nên thông_tin dễ bị rò_rỉ .
+Còn dữ_liệu đám mây rất an_toàn , trừ khi máy_chủ dịch_vụ đóng_cửa .
+Hình minh_họa Dropbox , kho lưu_trữ tư_liệu trên   đám mây của các loại   thiết_bị .
+Tuy_nhiên , USB khó có_thể biến_mất trong khoảng thời_gian vài năm tới .
+Ngoài ưu_điểm nhỏ gọn , tiện_dụng , dung_lượng của USB cũng ngày_càng lớn cùng tốc_độ tải dữ_liệu được nâng_cấp , sản_phẩm này vẫn là lựa_chọn của số đông dân văn_phòng .
+Tuy_nhiên ,   theo anh Tùng , ổ_cứng di_động trong tương_lai có_thể sẽ “ tiến_hóa ” để tương_đương với USB hiện_thời .
+Khi đó , USB sẽ không còn được trọng_dụng nhiều , nhưng không biến_mất .
+Dung_lượng bộ_nhớ các thiết_bị di_động trở_nên cao hơn cũng cho_phép người dùng có thêm một phương_thức lưu_trữ , tuy_nhiên , việc kết_nối với máy_tính lại rườm_rà , dù là không dây hay có dây .
+Thu_Hằng

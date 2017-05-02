@@ -1,0 +1,9 @@
+Bài_toán ' con kiến ' thách_thức suy_luận của bạn
+Bài_toán tính đường đi của con kiến nằm trong đề thi đánh_giá năng_lực tư_duy Toán quốc_tế - IMAS dành cho học_sinh khối 7-8 khiến nhiều người_lớn không_thể vượt qua .
+Một bàn kẻ caro 5x7 cm được cho như sau :
+Mỗi ô vuông có cạnh là 1cm .
+Một con kiến bò từ điểm A đến điểm B .
+Nhưng trên đường đi , ô vuông màu đen bắt_buộc phải luôn nằm bên trái con kiến .
+Hỏi quãng đường con kiến sẽ đi ít_nhất là bao_nhiêu để thỏa_mãn điều_kiện trên ?
+Thanh_Tâm
+> > Đố bạn giải được bài_toán ' đồng_hồ cát ' > > Bài_toán xếp chữ của học_sinh lớp 3 khiến bạn bị rối

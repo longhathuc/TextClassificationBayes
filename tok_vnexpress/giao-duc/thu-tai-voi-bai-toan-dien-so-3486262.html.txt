@@ -1,0 +1,4 @@
+Thử tài với bài_toán điền số
+Chỉ với các con_số từ 1 đến 9 và phép cộng , bạn xử_lý bài_toán này như_thế_nào ?
+Đặt các con_số từ 1 đến 9 vào các vòng_tròn , sao cho mỗi cạnh của hình_tam_giác có tổng là 17 .
+Phiêu_Linh ( theo Indy100 )

@@ -1,0 +1,7 @@
+Bài_toán tính diện_tích làm_khó người giải
+Bài_toán tính diện_tích phần giao nhau giữa hai hình_vuông của ảo_thuật_gia Martin_Gardner rất đơn_giản nhưng lại khiến nhiều người phải đau_đầu .
+Cho một hình_vuông lớn có cạnh bằng 8 đơn_vị và một hình_vuông nhỏ có cạnh   bằng 6 đơn_vị .
+A là một đỉnh của hình_vuông lớn đồng_thời là tâm của hình_vuông nhỏ .
+Hai   hình_vuông giao nhau tạo thành tứ_giác ABCD ( như hình_vẽ ) với BC bằng 4 đơn_vị .
+Tính   diện_tích tứ_giác ABCD ?
+Thanh_Tâm ( theo Puzzles )

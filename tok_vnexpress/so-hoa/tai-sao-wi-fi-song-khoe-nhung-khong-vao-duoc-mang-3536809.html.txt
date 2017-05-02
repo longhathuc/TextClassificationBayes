@@ -1,0 +1,7 @@
+Tại_sao Wi-Fi sóng khỏe nhưng không vào được mạng
+Trả_lời những câu_hỏi dưới đây để hiểu thêm về Wi-Fi và Internet , cũng_như một_số hiểu lầm thường gặp về mạng không dây .
+Câu 1 : Câu nào chưa chính_xác về mối liên_hệ giữa sóng Wi-Fi và mạng Internet ?
+A . Chỉ cần sóng Wi-Fi tốt thì sẽ vào mạng Internet nhanh
+B . Sóng_Wi - Fi tốt nhưng chưa chắc đã truy_cập được Internet
+C . Sóng_Wi - Fi yếu sẽ khiến tốc_độ truy_cập mạng chậm đi
+* Độc_giả bấm vào đáp_án để trả_lời

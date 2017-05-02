@@ -1,0 +1,10 @@
+Google_Maps cho_phép chia_sẻ vị_trí thời_gian_thực
+Người dùng có_thể chia_sẻ vị_trí tức_thời cũng_như lộ_trình di_chuyển tới bạn_bè , người_thân trên cả i OS , Android lẫn trình_duyệt máy_tính .
+Google hôm_nay giới_thiệu tính_năng chia_sẻ vị_trí rất được chờ_đợi trên dịch_vụ bản_đồ Google_Maps .
+Thay_vì phải miêu_tả về vị_trí của mình cho bạn_bè , người dùng bây_giờ chỉ cần một thao_tác nhấn nút trên ứng_dụng .
+Dữ_liệu vị_trí được liên_tục cập_nhật theo thời_gian_thực khi người dùng sử_dụng phần_mềm Maps trên cả i OS lẫn Android .
+Người được chia_sẻ vị_trí có_thể xem qua ứng_dụng trên hai nền_tảng hệ_điều_hành phổ_biến cho smartphone , trình_duyệt cho di_động và cả trình_duyệt trên máy_tính_để_bàn .
+Ngoài chia_sẻ vị_trí , người dùng cũng có_thể chia_sẻ cả lộ_trình sẽ di_chuyển .
+Việc tương_tác được vị_trí giữa người chia_sẻ và được chia_sẻ sẽ giúp những cuộc hẹn trở_nên dễ_dàng hơn .
+Google sẽ cập_nhật dần tính_năng này cho các tài_khoản .
+Vì_vậy , một_số người dùng sẽ chưa_thể có tính_năng này ngay trên phần_mềm .

@@ -1,0 +1,22 @@
+Các nhà_vật_lý tạo ra chất_lỏng có ' khối_lượng âm '
+Các nhà_khoa_học Mỹ tạo ra một chất_lỏng có khối_lượng âm .
+Khi bạn đẩy chất_lỏng này , nó sẽ tăng_tốc về phía sau thay_vì di_chuyển về phía trước .
+Các nhà_khoa_học tại Đại_học Washington , Mỹ , chế_tạo thành_công một chất_lỏng của các nguyên_tử siêu lạnh hoạt_động giống như có khối_lượng âm , theo Science_Alert .
+Khi bạn đẩy chất_lỏng này , nó không tăng_tốc theo hướng đã được đẩy mà tăng_tốc theo hướng ngược_lại .
+Kết_quả nghiên_cứu được đăng trên tạp_chí Physical_Review_Letters hôm 10/4 .
+Theo giả_thuyết vật_lý , vật_chất cũng mang khối_lượng âm giống như cách mà điện_tích có_thể là âm hoặc dương .
+Khối_lượng âm tồn_tại trong vũ_trụ mà không vi_phạm thuyết_tương_đối rộng .
+Nhiều nhà_vật_lý cho rằng , khối_lượng âm có mối liên_hệ với một_số thứ kỳ_lạ trong vũ_trụ như năng_lượng tối , lỗ_đen và sao neutron .
+Định_luật chuyển_động thứ_hai của Isaac_Newton thường được viết bằng công_thức F= m . a , trong đó F là   lực   tác_dụng lên vật , m là   khối_lượng và a là   gia_tốc   của vật đó .
+Khi chúng_ta viết lại dưới dạng a = F / m , nếu vật có khối_lượng âm thì vật sẽ có gia_tốc âm .
+Bạn hãy tưởng_tượng đẩy một chiếc cốc thủy_tinh trượt trên mặt bàn , nhưng nó chuyển_động ngược_lại so với tay bạn .
+Nhóm nghiên_cứu sử_dụng tia laser để làm lạnh các nguyên_tử rubidium xuống gần độ không tuyệt_đối , tạo ra trạng_thái ngưng_tụ Bose-Einstein .
+Trong trạng_thái này , các nguyên_tử rubidium di_chuyển rất chậm và tuân theo những nguyên_lý kỳ_lạ của cơ_học lượng_tử , chứ không phải vật_lý_cổ_điển .
+Chúng bắt_đầu hoạt_động như sóng , với vị_trí không_thể xác_định chính_xác .
+Các nguyên_tử rubidium tự đồng_bộ hóa với nhau và di_chuyển đồng_nhất , tạo thành siêu chất_lỏng có_thể chảy mà không bị mất năng_lượng do ma_sát .
+Sau đó , các nhà_khoa_học tiếp_tục sử_dụng tia laser nhằm giữ cho siêu chất_lỏng tồn_tại ở nhiệt_độ rất lạnh , đồng_thời bẫy nó trong vùng không_gian giống như chiếc bát với kích_thước nhỏ hơn 100   micromet .
+Khi siêu chất_lỏng rubidi nằm trong vùng không_gian giống chiếc bát , nó có khối_lượng bình_thường .
+Nhóm nghiên_cứu sử_dụng bộ tia laser thứ_hai đẩy các nguyên_tử rubidium di_chuyển qua_lại nhằm thay_đổi spin của chúng , phá vỡ chiếc bát , cho_phép siêu chất_lỏng tràn ra ngoài nhanh đến mức dường_như nó có khối_lượng âm .
+" Một_khi bạn đẩy , chất_lỏng tăng_tốc về phía sau giống như rubidium va vào một bức tường vô_hình " , Michael_Forbes , thành_viên của nhóm nghiên_cứu , cho_biết .
+Các nhà_khoa_học cho rằng chất_lỏng mà họ tạo ra chính là vật_chất có khối_lượng âm , nhưng nó cần được kiểm_tra một_cách độc_lập và khách_quan bởi nhiều nhóm nghiên_cứu khác trong tương_lai .
+Lê_Hùng

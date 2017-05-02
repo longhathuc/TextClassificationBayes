@@ -1,0 +1,36 @@
+Bài_toán lớp 5 về World_Cup
+Ngày 11/6 tới đây , vòng chung_kết Euro 2016 khai_mạc tại thủ_đô Paris , Pháp .
+Cùng khởi_động trước một_chút về kiến_thức bóng_đá cũng_như khả_năng tư_duy logic với bài_toán bóng_đá - logic sau .
+Bài_toán được kỹ_sư phần_mềm Vũ_Hoàng_Nam sáng_tác dựa trên thực_tiễn bóng_đá và dạng bài_toán logic của Albert_Eistein .
+Tại vòng chung_kết của một World_Cup , có tất_cả 32 đội tham_gia , được chia làm 8 bảng như sau :
+Bảng A : Braxin , Cameroon , Croatia , Mexico
+Bảng B : Chile , Hà_Lan , Tây_Ban_Nha , Australia
+Bảng C : Bờ_Biển_Ngà , Colombia , Hy_Lạp , Nhật_Bản
+Bảng D : Anh , Costa_Rica , Uruguay , Italy
+Bảng E : Ecuador , Honduras , Pháp , Thụy_Sĩ
+Bảng F : Argentina , Bosnia-Herzegovina , Iran , Nigeria
+Bảng G : Bồ_Đào_Nha , Đức , Ghana , Mỹ
+Bảng H : Algeria , Bỉ , Hàn_Quốc , Nga
+Ban_đầu , mỗi đội đấu 3 trận với các đội khác cùng bảng .
+Trong mỗi trận , đội thắng được 3 điểm , hòa 1 điểm , thua 0 điểm .
+Tiếp đó , 16 đội nhất và nhì được chia làm 8 cặp để đấu_loại trực_tiếp trong “ vòng 16 ” như sau : A1-B2 ( nghĩa_là đội nhất bảng A gặp đội nhì bảng B ) , B1-A2 , C1-D2 , D1-C2 .
+Những đội thắng được vào tứ_kết .
+Được biết :
+- Số điểm của các đội trong các bảng ( không theo thứ_tự ) là : 7-4 - 4-1 , 7-6 - 3-1 , 7-6 - 4 - 0 , 7-7 - 3 - 0 , 9-4 - 2-1 , 9-4 - 3-1 , 9-4 - 3-1 , 9-6 - 3 - 0 .
+- Tây_Ban_Nha ( đương_kim vô_địch thế_giới và châu Âu ) đã thua Hà_Lan và Chile ngay trong hai trận đầu .
+- Tổng_số điểm của ba đội châu Á ( Nhật_Bản , Hàn_Quốc và Iran ) không quá số điểm mà một đội có_thể nhận được chỉ sau một trận đấu .
+- Cả ba đội Cameroon , Honduras , Australia đều không hơn bất_cứ đội châu Á nào .
+- Trước trận cuối_cùng của vòng bảng , Hy_Lạp chỉ có 1 điểm .
+- Có 2 cặp bằng số điểm : Braxin và Mexico , Mỹ và Bồ_Đào_Nha , nên phải dùng chỉ_số phụ là hiệu_số bàn thắng - bàn thua để xác_định vị_trí của những đội này .
+- Mặc_dù bốc_thăm được vào “ bảng sống ” , thành_tích của các chú gấu Nga chỉ là hai trận hòa .
+- Anh và Ghana chỉ có điểm nhờ hòa với đội nhất bảng .
+- Tuy thua những trận cuối của vòng bảng , Nigeria và Mỹ vẫn được vào vòng 16 .
+- Bồ_Đào_Nha và Ecuador không thua số điểm hai đội trên mà vẫn phải khăn_gói về nước sớm .
+- Các trận đấu vòng 16 đã diễn ra hết_sức căng_thẳng : Hà_Lan , Pháp thắng nhờ ghi_bàn ở phút cuối trận đấu ; Argentina , Bỉ , Đức thắng trong hiệp phụ ; còn Braxin , Costa_Rica chỉ thắng nhờ may_mắn trong lượt phạt_đền luân_lưu .
+Duy_nhất có Colombia thắng Uruguay một_cách dễ_dàng .
+- Không đội nào nhì bảng nào vào tới tứ_kết .
+Chỉ sử_dụng các dữ_liệu trên hãy :
+- Xác_định chính_xác vị_trí và số điểm của mỗi đội ( nêu rõ lập_luận ) .
+- Xác_định kết_quả các trận đấu trực_tiếp tại vòng 16 ( ghi tên đội thắng và thua ) .
+- Thử đoán đây là World_Cup năm nào và đội nào đã vô_địch .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

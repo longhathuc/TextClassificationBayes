@@ -1,0 +1,19 @@
+Nguy_cơ mất tài_khoản ngân_hàng từ những trang_web giả_mạo
+Bằng cách tạo website giả_mạo ngân_hàng , sau đó dụ người dùng đăng_nhập bằng tài_khoản giao_dịch , hacker có_thể dễ_dàng lấy_được thông_tin Internet_Banking của nạn_nhân .
+Theo chuyên_gia bảo_mật độc_lập Nguyễn_Hồng_Phúc , đánh_cắp tài_khoản bằng việc tạo các trang_web hay phần_mềm giả_mạo đánh_lừa nạn_nhân đăng_nhập là hình_thức đã được giới tội_phạm công_nghệ áp_dụng từ nhiều năm qua .
+Trước_hết , tin_tặc tạo ra website giả_mạo có giao_diện tương_tự của ngân_hàng .
+Tiếp_theo , chúng dụ người dùng đăng_nhập bằng cách gửi thông_báo trúng thưởng , email mạo_danh ngân_hàng ... chứa đường link website giả_mạo đó .
+Như_vậy , sau khi người dùng đăng_nhập vào các website bẫy , thông_tin tài_khoản và mật_khẩu của họ sẽ bị chúng đánh_cắp .
+Tuy_nhiên , không phải cứ có thông_tin đăng_nhập ngân_hàng điện_tử là đã có_thể trộm được tiền trong tài_khoản .
+Nhưng điều này đồng_nghĩa với việc một lớp khóa trong bức tường bảo_mật đã bị phá vỡ , ông Phúc cho_biết .
+Một website lừa_đảo với giao_diện tương_tự trang của Vietcombank .
+Ảnh : VTC .
+Trước đó , ông Lê_Minh_Loan , Trưởng_phòng 3 , Cục Cảnh sát phòng_chống tội_phạm sử_dụng công_nghệ_cao ( C50 ) , Bộ Công an , đã cảnh_báo rằng , những hành_vi lừa_đảo liên_quan đến thanh_toán điện_tử ngày_càng tinh_vi và phức_tạp .   Phổ_biến nhất_là kẻ xấu có_thể gửi email giả_mạo với nội_dung thông_báo giao_dịch bị từ_chối hoặc tài_khoản bị khóa .
+Qua đó , yêu_cầu chủ_tài_khoản phải cung_cấp các thông_tin cá_nhân , trong đó có thông_tin để kích_hoạt hoặc mở lại tài_khoản ...   Cũng có trường_hợp kẻ xấu có_thể gửi email có nội_dung thông_báo trúng thưởng và yêu_cầu khách_hàng cung_cấp các thông_tin cá_nhân , thông_tin về tài_khoản thanh_toán trực_tuyến để nhận tiền thưởng .
+Ngoài_ra , theo ông Loan , bọn tội_phạm còn có_thể tạo trang_web có giao_diện gần giống trang_web của đơn_vị cung_cấp tài_khoản thanh_toán để người dùng nhầm tưởng là trang_web của đơn_vị cung_cấp và nhập các thông_tin về tài_khoản ngân_hàng ...
+Ông Ngô_Tuấn_Anh ,   Phó_Chủ tịch Phụ_trách An_ninh mạng của BKAV ,   khuyến_cáo người dùng nên cẩn_thận khi sử_dụng các dịch_vụ Internet_Banking , nhất_là với các email thông_báo về tài_khoản ngân_hàng .
+" Khi nhận được thông_báo về việc thay_đổi tài_khoản , cập_nhật lại thông_tin Internet_Banking , người dùng nên luyện thói_quen gõ đúng địa_chỉ website ngân_hàng , thay_vì bấm vào đường link trong email " .
+Trong ngày 4-5 / 8 , một khách_hàng ở Hà_Nội bị mất 500 triệu đồng trong tài_khoản Vietcombank .
+Theo trình_báo , số tiền này bị chuyển từ thẻ của nạn_nhân sang tài_khoản khác trong đêm , thẻ ATM của khách_hàng vẫn giữ trong túi và không thấy ngân_hàng gửi mã OTP ( mật_khẩu xác_thực một lần ) như thông_lệ .
+Phía_Vietcombank cho_biết , dựa trên thông_tin khách_hàng cung_cấp thì người này đã truy_cập đến một website giả_mạo có giao_diện tương_tự trang của ngân_hàng , sau đó khai_báo thông_tin trên đó .
+Bằng cách này , tài_khoản đã bị các đối_tượng nắm được tên và mật_khẩu ,   ông Triệu_Mạnh_Hùng , Cục cảnh_sát phòng_chống tội_phạm công_nghệ_cao ( C50 ) , Bộ Công an , nói .

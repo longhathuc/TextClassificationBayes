@@ -1,0 +1,32 @@
+Pokemon_Go tiềm_ẩn nhiều nguy_cơ lộ thông_tin cá_nhân
+Người chơi nên cân_nhắc khi game liên_tục cập_nhật vị_trí địa_lý , đòi một_số quyền truy_cập lạ , có_thể đánh_cắp thông_tin cá_nhân .
+Pokemon_Go là tựa game đang gây sốt toàn_cầu , liên_tục đứng đầu_bảng xếp_hạng App_Store và Play_Store .
+Tuy_nhiên , ứng_dụng cũng vấp phải không ít phản_ứng khi can_thiệp vào một_số quyền riêng_tư của người dùng , sử_dụng tài_khoản Google để đăng_nhập .
+Pokemon_Go yêu_cầu truy_cập thông_tin trên Google .
+Theo Denver_Post , nhà phát_hành Niantic đã phải lên_tiếng xin_lỗi người dùng về vấn_đề này , nói rằng họ không có ý đọc email , địa_chỉ liên_lạc hay xâm_nhập vào dữ_liệu cá_nhân khác .
+Công_ty cho_biết game chỉ truy_cập Google ID với email của người dùng .
+Niantic cho_biết sẽ điều_chỉnh và hạn_chế quyền truy_cập thông_tin .   " Google đã xác_nhận không có thông_tin nào khác được trao_đổi hay truy_cập bởi Pokemon_Go và Niantic .
+Google sẽ sớm giảm quyền truy_cập hồ_sơ của Pokemon_Go , chỉ cho game này lấy các dữ_liệu cơ_bản " , nhà phát_hành trò_chơi cho_biết .
+Ngay cả khi Niantic đưa ra tuyên_bố trấn_an , người chơi cũng cần cảnh_giác với Pokemon_Go và nhận_thức các mối nguy_hiểm , Tam_Vu , Trợ_lý giáo_sư tại Đại_học Colorado_Denver ( Mỹ ) chia_sẻ .
+Ông Vu , Thạc sỹ Đại_học Bách_khoa Hà_Nội , hiện là Giám_đốc Phòng_thí_nghiệm Hệ_thống di_động và mạng tại   Đại_học Colorado_Denver ( Mỹ ) , đã kinh_ngạc về sự xâm_nhập của nhà phát_hành Pokemon_Go   vào thông_tin của Google .
+Ông cảnh_báo người dùng nên lưu_ý với các quyền truy_cập của ứng_dụng .
+" Đây là mô_hình ' hãy-tin-tôi ' trong giới bảo_mật .
+Hãy cho tôi quyền truy_cập mọi thứ và tôi sẽ không lạm_dụng nó " , ông Vu nói .
+" Nhưng tốt hơn là đừng đỏi hỏi quyền truy_cập " .
+Có_lý do để các ứng_dụng yêu_cầu xem thông_tin cá_nhân .
+Chẳng_hạn phần_mềm TripAdvisor yêu_cầu thông_tin địa_điểm để đánh_dấu vị_trí khách_sạn , máy_ảnh để ghi lại hình_ảnh hay hệ_thống giao_thông .
+Nhưng sẽ đáng ngờ khi ứng_dụng này yêu_cầu truy_cập ID thiết_bị , xem thông_tin cuộc_gọi và TripAdvisor cho rằng " đây là một lỗi " nên đã thu_hồi quyền truy_cập này .
+Truy_cập thông_tin địa_điểm là mối lo_ngại lớn nhất với Pokemon_Go .
+Một mối đe_dọa khác là phần_mềm chứa mã độc , bởi Pokemon_Go ban_đầu phát_hành giới_hạn tại một_số nước .
+Người chơi , vì muốn trải_nghiệm sớm , đã tải game từ các kho ứng_dụng không chính_thức , vô_tình có_thể " rước họa vào thân " .
+Bạn cần cảnh_giác với các trang tải Pokemon_Go không chính_thức , ông Vu nói .
+Hacker có_thể " tiêm " mã độc , chèn quảng_cáo vào ứng_dụng rồi dụ người dùng tải về .
+Một ví_dụ là phần_mềm mang tên Pokemon_Go   Ultimate đã khóa điện_thoại của game thủ , sau đó ép phải bấm vào quảng_cáo khiêu_dâm trên đó .
+Nhưng nguy_hiểm nhất , theo ông Vu là ứng_dụng liên_tục cập_nhật vị_trí .
+Pokemon_Go sử_dụng thông_tin định_vị và theo thời_gian hãng có_thể liên_hệ với người chơi ngoài đời thực thông_qua nhân_vật ảo .
+" Đây mới là nguy_cơ mất riêng_tư nghiêm_trọng " , ông Vu nhấn_mạnh .
+" Hacker dễ_dàng theo vết và biết bạn đang ở đâu " .
+" Luôn có sự đánh_đổi giữa những cái bạn nhận được và những gì bạn sẵn_sàng trả_giá " , ông Vu nói .
+" Nếu bạn không quan_tâm đến thông_tin riêng_tư , bạn hoàn_toàn có_thể vô_tư chơi game .
+Còn nếu_không , hãy cảnh_giác với Pokemon_Go " .
+Xem thêm : >   Pokemon_Go thu_thập dữ_liệu mặt_đất >   Mẹo chơi Pokemon_Go cho người ngại di_chuyển

@@ -1,0 +1,18 @@
+Chuyện gì xảy_ra nếu bấm nút khởi_động khi xe đang chạy ?
+Xe chạy chưa tới 8 km / h , tài_xế bấm vào nút Start/Stop , động_cơ tắt , mọi tín_hiệu trên bảng điều_khiển biến_mất .
+Ở tốc_độ gần 90 km / h , tài_xế lại nhấn nút .
+Thử_nghiệm bấm nút Start/Stop được chủ_tài_khoản AutoVlog trên Youtube thực_hiện với mục_đích tìm_hiểu điều gì xảy_ra khi xe đang chạy .
+Xe thử_nghiệm là Ford_Fusion_Titanium có nút bấm khởi_động .
+Đầu_tiên , tài_xế bấm vào nút khởi_động khi xe chạy ở tốc_độ chưa tới 8 km / h .
+Máy tắt , mọi thứ trên bảng điều_khiển cũng tắt và xe chạy theo quán_tính một đoạn rồi dừng lại .
+Lần thực_hiện thứ 2 mới là mục_đích chính của thử_nghiệm : bấm nút khởi_động khi xe chạy ở tốc_độ cho_phép trên đường_cao_tốc .
+Tốc_độ tăng lên 64 km / h và tài_xế bấm nút khi đạt mức 88 km / h .
+Chiếc_Ford vẫn chạy và không có chuyện gì xảy_ra .
+Kết_luận được đưa ra là người trên xe vẫn an_toàn khi bấm nút Start/Stop khi đang đi trên cao_tốc và đây là một đặc_tính an_toàn mà các hãng sản_xuất trang_bị cho sản_phẩm của mình .
+Nhưng nếu xảy_ra tình_huống tài_xế buộc phải tắt máy khi xe đang chạy ở tốc_độ cao ?
+Hướng_dẫn đưa ra là nhấn nút khởi_động ít_nhất 3 giây , động_cơ sẽ tắt .
+Video được đăng ngày 20/12 kèm lời nhắn của AutoVlog : " Đừng tự thực_hiện những điều trên " .
+Có tới hơn 2 triệu lượt xem cùng hơn 2.100 bình_luận trong đó có cả những lời cám_ơn người thực_hiện .
+Tuy_nhiên , có người góp_ý rằng tài_xế này nên đọc sách hướng_dẫn sử_dụng kèm theo xe để biết rằng mọi thứ đều được hãng sản_xuất đề_cập , gồm cả việc không cần phải đưa cần số về P để khởi_động lại xe , mà chỉ cần đưa về N .
+> > Xem video thử_nghiệm bấm nút khởi_động khi xe đang chạy
+Mỹ_Anh

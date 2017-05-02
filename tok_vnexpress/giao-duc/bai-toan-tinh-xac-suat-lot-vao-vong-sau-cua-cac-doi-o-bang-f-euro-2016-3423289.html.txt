@@ -1,0 +1,9 @@
+Bài_toán tính xác_suất lọt vào vòng sau của các đội ở bảng F_Euro 2016
+Sau lượt trận thứ_hai , thứ_tự các đội ở bảng F của Euro 2016 được thể_hiện trong bảng xếp_hạng sau :
+Tình_hình ở bảng này phức_tạp nhất , khi đội nào cũng còn hy_vọng đoạt vé chính_thức ( tức_là xếp 1 , 2 bảng ) .
+Chúng_ta hãy thử tính xem cơ_hội lọt vào vòng sau của các đội ở bảng này là thế_nào .
+Để tính_toán đỡ phức_tạp , dựa trên tình_hình thực_tế hiện_nay , ta giả_định rằng nếu đội bóng xếp_hạng 3 được 4 điểm trở_lên thì đội bóng đó sẽ đoạt vé ( vớt ) , dưới 4 điểm thì bị loại ( dù thực_tế có_thể có đội được 3 điểm có hiệu_số tốt được vé vớt ) .
+Hai trận đấu cuối_cùng sẽ diễn ra cùng giờ , vào lúc 23 : 00 ngày 22/6/2016 giữa Hungary vs Bồ_Đào_Nha và Iceland vs Áo .
+Theo đánh_giá của các chuyên_gia thì khả_năng thắng – hòa – thua của các đội ở hai trận này là :
+Dựa vào bảng xếp_hạng hiện_tại , giả_định nêu trên và các đánh_giá chuyên_gia , hãy tính xác_suất lọt vào vòng sau của các đội bóng ở bảng F .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

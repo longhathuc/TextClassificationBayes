@@ -1,0 +1,24 @@
+Bí_ẩn lớn về phản vật_chất sắp được lý_giải
+Lần đầu_tiên sau hai thập_kỷ các nhà_vật_lý tại CERN đo được ánh_sáng phát ra bởi một nguyên_tử phản vật_chất , chứng_minh phản hạt của hydro chính là hình_ảnh phản_chiếu của hydro thông_thường .
+Các nhà_khoa_học cuối_cùng có_thể xác_nhận những dự_đoán từ các định_luật vật_lý về phản vật_chất , theo Science_Alert .
+Kết_quả này mở ra phương_pháp mới để kiểm_tra lý_thuyết đặc_biệt của nhà_vật_lý Albert_Einstein về thuyết_tương_đối , giúp lý_giải một trong những bí_ẩn lớn nhất của vật_lý_hiện_đại : " Tại_sao trong vũ_trụ lại có nhiều vật_chất thông_thường hơn so với phản vật_chất ? "
+" Đây là một thời_điểm lịch_sử trong những thập_kỷ dài nỗ_lực để tạo ra phản vật_chất và so_sánh các thuộc_tính của nó với những vật_chất thông_thường " , nhà_vật_lý lý_thuyết Alan_Kostelecky tại Đại_học Indiana đánh_giá .
+Các định_luật vật_lý dự_đoán rằng cứ mỗi hạt của vật_chất thông_thường sẽ có một phản hạt tương_ứng .
+Vì_vậy , đối_với mỗi electron điện_tích âm sẽ có một positron mang điện_tích dương .
+Điều đó có_nghĩa với mỗi nguyên_tử hydro thông_thường được tạo thành bởi một electron liên_kết với một proton , sẽ có một nguyên_tử hydro được tạo thành từ một phản electron ( hoặc positron ) liên_kết với một phản proton .
+Nếu một phản hạt tìm thấy một hạt của chính nó , chúng sẽ triệt_tiêu lẫn nhau , giải_phóng năng_lượng dưới dạng ánh_sáng .
+Thực_tế là có quá nhiều vật_chất thông_thường trong vũ_trụ trong khi khó có_thể tìm thấy phản hạt trong tự_nhiên .
+Điều này có_thể giải_thích bởi các phản hạt sẽ bị triệt_tiêu bởi các hạt của chính nó ngay trước khi chúng_ta kịp quan_sát .
+Tuy_nhiên , vấn_đề khiến các nhà_khoa_học bối_rối là số_lượng các hạt vật_chất nhiều hơn phản vật_chất trong khi các mô_hình vật_lý_hiện_đại do Einstein đưa ra trong thuyết_tương_đối dự_đoán số_lượng hạt và phản hạt cân_bằng sinh_ra từ vụ nổ Big_Bang .
+" Điều gì đó đã xảy_ra , dẫn tới sự phân_bố mất cân_bằng hiện_tại , và chúng_ta đơn_giản không có cách giải_thích ngay bây_giờ " , Jeffrey_Hangst , một thành_viên nhóm nghiên_cứu tại phòng_thí_nghiệm ALPHA cho_biết .
+Theo kết_quả mới được công_bố trên tạp_chí Nature ngày 29/11 , lần đầu_tiên các nhà_khoa_học có_thể đo phổ ánh_sáng phát ra bởi một phản nguyên_tử hydro khi bị kích_thích bởi laser , và so_sánh với phổ ánh_sáng phát ra bởi một nguyên_tử hydro thông_thường .
+Là nguyên_tử phổ_biến nhất trong vũ_trụ , hydro luôn triệt_tiêu mọi phản nguyên_tử của chính nó ngay_lập_tức và khó có_thể tìm thấy phản nguyên_tử hydro trong tự_nhiên .
+Do_đó , các nhà_khoa_học cần phải tạo ra các phản nguyên_tử hydro trong phòng_thí_nghiệm .
+Trong 20 năm qua , nhóm nghiên_cứu ALPHA thuộc Tổ_chức Nghiên_cứu Hạt_nhân châu Âu ( CERN ) đã tìm cách tạo ra các phản nguyên_tử hydrogen để nghiên_cứu và phát_triển kỹ_thuật cho_phép tạo ra khoảng 25.000 phản nguyên_tử hydro mỗi 15 phút , và bẫy được khoảng 14 trong số 25.000 phản nguyên_tử để nghiên_cứu .
+Đây là một bước đột_phá lớn khi trước_đây họ chỉ có_thể bẫy từ 1 đến 2 nguyên_tử hydro mỗi 15 phút .
+Những phản nguyên_tử này sau đó sẽ được kích_thích bởi ánh_sáng laser để buộc positron " nhảy " từ mức năng_lượng thấp lên một mức năng_lượng cao hơn .
+Sau một thời_gian ngắn , các positron trở_lại mức năng_lượng thấp hơn , phần năng_lượng dư_thừa sẽ chuyển thành ánh_sáng bức_xạ ra ngoài .
+Khi đo ánh_sáng bức_xạ , các nhà_nghiên_cứu phát_hiện ra rằng các phản nguyên_tử hydro phát ra chính_xác cùng một quang_phổ ánh_sáng như các nguyên_tử hydro thông_thường .
+Kết_quả này phù_hợp với mô_hình chuẩn của vật_lý hạt , dự_đoán rằng hydro và phản hydro sẽ có quang_phổ giống_hệt nhau .
+Nếu tất_cả các quang_phổ của các laser khác_nhau cho nguyên_tử và phản nguyên_tử hydro đều kết_thúc giống nhau , nhóm nghiên_cứu có_thể chứng_minh thuyết_tương_đối đặc_biệt của Einstein vẫn đúng .
+Thanh_Tùng

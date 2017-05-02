@@ -1,0 +1,26 @@
+Máy tạo nước uống từ hơi ẩm trong không_khí
+Một nhà_thiết_kế người Áo đã phát_minh ra một thiết_bị có_thể hút hơi ẩm từ không_khí , ngưng_tụ lại thành nước có_thể uống được .
+Thiết_bị này được đặt tên là Fontus , có_thể gắn trên xe_đạp .
+Thiết_bị sẽ tạo ra nước uống trong quá_trình di_chuyển cho người đạp xe .
+Fontus hoạt_động dựa trên nguyên_lý ngưng_tụ , giống như hiện_tượng để một cốc nước_lạnh ra ngoài tủ_lạnh , hơi_nước trong không_khí sẽ ngưng_tụ bên ngoài thành cốc .
+" Đây chỉ đơn_giản là hiện_tượng ngưng_tụ hơi_nước có trong không_khí " , Kristof_Retezár , nhà_thiết_kế người Áo chia_sẻ với Live_Science .
+" Không_khí luôn có một độ_ẩm nhất_định , kể_cả ở sa_mạc .
+Có_nghĩa là bạn có khả_năng ngưng_tụ nước từ không_khí ở bất_cứ nơi đâu " .
+Fontus sử_dụng năng_lượng mặt_trời cho bộ_phận ngưng_tụ ( hoạt_động như một máy làm lạnh ) , kết_nối với một loạt các bề_mặt không ngấm nước .
+Khi các bề_mặt này được làm lạnh , nước sẽ ngưng_tụ trên nó .
+" Do các bề_mặt này không thấm nước , nó sẽ đẩy nước xuống bình chứa ngay_lập_tức " , Retezár giải_thích .
+Fontus có_thể tạo ra nửa lít nước trong vòng 1 giờ , trong " điều_kiện lý_tưởng " – nhiệt_độ 30 - 40 độ C , độ_ẩm 80 - 90% , Retezár cho_biết .
+Nguyên_mẫu đầu_tiên của thiết_bị sẽ bao_gồm một bộ lọc gắn ở đầu để tách bụi bẩn khỏi nước , tuy_nhiên , nó chưa_thể lọc các chất ô_nhiễm khác .
+" Bạn sẽ thu được nước_sạch , với điều_kiện không_khí không bị ô_nhiễm nhiều " , Retezár nói .
+" Chúng_tôi đang nghĩ cách chế_tạo một thiết_bị với bộ lọc carbon , sử_dụng trong các thành_phố có không_khí ô_nhiễm .
+Trước_hết bình nước này sẽ được sử_dụng ở các khu_vực tự_nhiên , không_khí trong_lành . "
+Retezár cũng đang thiết_kế một phiên_bản sử_dụng quạt hút để hút không_khí vào trong hệ_thống , không cần phải dựa vào luồng không_khí tạo ra khi đạp xe .
+Phiên_bản này có_thể sử_dụng ở các khu_vực có độ_ẩm_không_khí cao , nhưng lại thiếu nước .
+" Ý_tưởng này để giải_quyết một vấn_đề thiếu nước tại các khu_vực có ít nước_ngầm nhưng lại có độ_ẩm rất cao " , Retezár nói .
+" Phát_minh của tôi là một chiếc máy hoặc một thiết_bị có_thể biến hơi_nước trong không_khí thành nước uống " .
+Thiết_kế Fontus ban_đầu đã được đưa vào danh_sách rút_gọn của giải_thưởng James_Dyson 2014 , giúp Retezár thu_hút được nhiều chú_ý cho dự_án .
+Kể từ đó , ông đã nhận được tài_trợ từ chính_phủ Áo để trang_trải các giai_đoạn phát_triển kỹ_thuật .
+Nhà_thiết_kế cũng đang hướng tới việc khởi_động một chiến_dịch góp vốn cộng_đồng vào tháng ba để có_thể sản_xuất   thiết_bị   hàng_loạt .
+Retezár muốn giá của Fontus ở dưới mức 100 USD .
+Nếu mọi việc diễn ra đúng theo kế_hoạch , Fontus sẽ được thương_mại_hóa sau khoảng 9 hoặc 10 tháng .
+Nguyễn_Thành_Minh

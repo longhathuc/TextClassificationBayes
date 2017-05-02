@@ -1,0 +1,12 @@
+Cáp_quang biển AAG lại bảo_trì , Internet đi quốc_tế bị ảnh_hưởng từ 15/9
+Tuyến cáp_quang biển AAG tiếp_tục được sửa_chữa từ 15/9 , khiến kết_nối mạng từ Việt_Nam ra nước_ngoài sẽ bị chậm trong vài ngày tới .
+Theo một_số nhà_cung_cấp dịch_vụ Internet tại Việt_Nam , hệ_thống cáp_quang AAG sẽ được sửa_chữa từ ngày_mai ( 15/9 ) và dự_kiến hoàn_thành vào 19/9 .
+Đây là hoạt_động nằm trong kế_hoạch bảo_dưỡng để bảo_đảm chất_lượng dịch_vụ , được thực_hiện trên nhánh cáp S1I .
+Internet từ Việt_Nam đi quốc_tế có_thể bị chậm đi từ ngày_mai .
+Ảnh minh_họa .
+Trong thời_gian sửa_chữa , kênh truyền của các nhà mạng sẽ bị ảnh_hưởng , dẫn đến kết_nối Internet đi quốc_tế bị chậm .
+Nhằm khắc_phục , một_số đơn_vị cung_cấp Internet sẽ chuyển các kết_nối sang kênh khác để đảm_bảo phần_nào chất_lượng đường truyền .
+Đầu tháng 8 , cáp_quang biển AAG đã gặp sự_cố kép khiến việc truy_cập Internet từ Việt_Nam ra nước_ngoài bị chậm trong hơn nửa tháng .
+Trước đó , tuyến cáp_quang biển này còn bị đứt hồi tháng 3 và tháng 6/2016 , ảnh_hưởng đến kết_nối mạng trong nhiều ngày .
+Còn trong năm 2015 , AAG cũng gặp sự_cố ít_nhất ba lần .
+AAG là   tuyến Internet quốc_tế chủ_yếu của Việt_Nam hiện_nay .   Có 4 công_ty trong nước đầu_tư dự_án này gồm FPT Telecom , Viettel , VNPT , SPT , trong tổng_số 19 công_ty cùng xây_dựng .

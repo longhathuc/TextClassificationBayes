@@ -1,0 +1,26 @@
+20 khách_sạn bị tấn_công , dữ_liệu thẻ_thanh_toán gặp nguy
+Nguy_cơ bị tấn_công và đánh_cắp dữ_liệu khi thanh_toán thẻ bằng máy POS đang hiện_hữu sau công_bố của HEI Hotels & Resorts rằng đã có hơn 20.000 giao_dịch bị thu_thập thông_tin .
+Thanh_toán trên máy POS tiềm_ẩn nguy_cơ bị tấn_công .
+Theo IBTimes , HEI Hotels & Resorts – doanh_nghiệp đang điều_hành hệ_thống khách_sạn nổi_tiếng có trụ_sở tại Norwalk , Connecticut ( Mỹ ) – cho_biết đã có 20 khách_sạn , trong đó có những cái tên nổi_tiếng như Hyatt , Marriott , Starwood , IHG Intercontinental … bị ảnh_hưởng .
+Tin_tặc đã sử_dụng một phần_mềm độc_hại nhằm vào hệ_thống thanh_toán có kết_nối với máy cà thẻ POS ( point-of-sale ) và lấy cắp thông_tin cá_nhân và cũng_như thông_tin giao_dịch tài_chính .
+" Phần_mềm độc_hại được thiết_kế đặc_biệt để đánh_cắp dữ_liệu khi khách_hàng thanh_toán tiền bằng thẻ tại hệ_thống khách_sạn , nhà_hàng , spa … của chúng_tôi .
+Mọi thứ chỉ vừa được phát_hiện vào 21 / 6 " , Chris_Daly , phát_ngôn_viên của HEI , cho_biết .
+Cũng theo Daly , phần_mềm độc_hại có_thể đã xâm_nhập vào hệ_thống máy_tính của họ từ tháng 3/2015 nhưng không bị phát_hiện .
+Trong thời_gian đó , hàng_loạt thông_tin bao_gồm số thẻ , chủ_tài_khoản , số tài_khoản , thời_hạn sử_dụng của thẻ và mã xác_minh đều bị tin_tặc đánh_cắp .
+Tuy_nhiên , rất may mã PIN đã không lọt vào tay kẻ xấu , bởi chúng không được lưu_trữ sau mỗi lần giao_dịch .
+Ước_tính , có khoảng 8.000 giao_dịch diễn ra ở khách_sạn Hyatt ( California ) và 12.800 tại IHG Intercontinental ( Florida ) .
+POS là gì , tại_sao lại dễ bị tấn_công ?
+POS là máy các máy chấp_nhận thanh_toán bằng thẻ .
+Với ưu_điểm gọn_nhẹ , tiện_dụng , dễ lắp_đặt , máy POS được trang_bị tại hầu_hết siêu_thị , khách_sạn , trung_tâm thương_mại … khắp_nơi trên thế_giới , trong đó có Việt_Nam .
+Chúng sẽ giúp người dùng giao_dịch nhanh_chóng mà không cần mang theo tiền_mặt .
+Tuy_nhiên , hiện máy POS đang bị nhiều kẻ xấu nhòm_ngó vì nhiều kẽ hở an_ninh .
+Theo Alexander_Heid , Giám_đốc của hãng bảo_mật Security_Scorecard , hệ_thống máy_tính hỗ_trợ POS rất dễ bị tấn_công , tương_tự bất_kỳ hệ_thống máy_tính được kết_nối Internet .
+" Những kẻ tấn_công thường tìm cách lây_nhiễm mã độc bằng cách lừa người điều_khiển hệ_thống tải về chúng , thông_qua email , liên_kết lạ … Sau đó , phần_mềm độc_hại sẽ tự_động cài vào và chờ_đợi thời_cơ khi người dùng thanh_toán .
+Khi quá_trình này diễn ra , mọi thông_tin nhập vào bao_gồm số tài_khoản , mật_khẩu , dữ_liệu cá_nhân sẽ bị thu_thập và gửi về máy_chủ từ xa .
+Phần_mềm càng lỗi_thời , mật_khẩu yếu , cấu_hình hệ_thống không chính_xác … thì càng dễ bị tấn_công " , Heid nhấn_mạnh .
+Theo Chris_Black , chuyên_gia POS của Carbon_Black , một máy POS duy_nhất có_thể cung_cấp hàng nghìn thẻ_tín_dụng trong vài tuần tới vài tháng , tùy theo thời_điểm .
+Ví_dụ mùa du_lịch , khách_sạn luôn đông khách và đây là cơ_hội để kẻ xấu đánh_cắp nhiều thông_tin hơn .
+" Với kỹ_thuật mới , kẻ xấu có_thể ' nhân_bản ' thông_tin đã đánh_cắp lên thẻ mới .
+Sau đó , từ các thông_tin cá_nhân , chúng tìm cách reset mã PIN thông_qua trang_web ngân_hàng .
+Cuối_cùng , những kẻ này thiết_lập lại mật_khẩu trên tài_khoản , kiểm_tra số_dư tài_khoản … và tất_nhiên là thoải_mái rút_tiền " , ông Black cảnh_báo .
+Bảo_Lâm

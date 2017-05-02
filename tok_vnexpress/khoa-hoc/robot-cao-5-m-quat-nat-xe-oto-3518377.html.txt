@@ -1,0 +1,18 @@
+Robot cao 5 m quật nát xe ôtô
+Con robot do một công_ty ở Mỹ chế_tạo phô_diễn sức_mạnh của đôi cánh_tay khổng_lồ bằng cách đập vỡ vụn chiếc xe ôtô 4 chỗ từ trên cao .
+Robot mang tên Mk .
+III có phần thân hoàn_chỉnh cao 5 m và đôi cánh_tay nâng vật nặng ( Heavy_Lifting_Arms ) có_thể nhấc vật nặng lên đến 1.134 kg , Gizmodo hôm_qua đưa tin .
+Để thử_nghiệm cánh_tay robot , nhóm kỹ_sư chế_tạo điều_khiển cặp càng khổng_lồ của nó nâng một chiếc ôtô dài 4 m lên không_trung và ném chiếc xe xuống đất vỡ vụn .
+Megabots , công_ty robot ở California , Mỹ , dự_kiến tạo ra một liên_minh robot chiến_đấu sau khi thách đấu với công_ty Suidobashi_Heavy_Industries ở Tokyo , Nhật_Bản , nhà_chế_tạo robot Kuratas cao 4 m .
+Tuy_nhiên , thời_gian và địa_điểm thi_đấu chưa được hai bên xác_định .
+Trong nhiều năm qua , Megabots làm_việc không ngừng_nghỉ để thiết_kế đối_thủ xứng tầm với con robot Nhật_Bản nặng hơn 4 tấn .
+" Chúng_tôi cho ra_đời những phần hoàn_thiện đầu_tiên của robot MK .
+III và đang bắt_đầu thử_nghiệm " , Gui_Cavalcanti , trưởng hệ_thống cơ_khí của Megabots , cho_biết .
+" Heavy_Lift_Arms được thiết_kế để trở_thành cánh_tay đa_dụng và mạnh_mẽ có_thể cầm mọi dụng_cụ hoặc vũ_khí nặng hơn 1,1 tấn " .
+Xem robot 5 m đập vỡ vụn ôtô
+Toàn_bộ hệ_thống được điều_khiển bởi phần_mềm IHMC .
+Nhóm thiết_kế cho_biết cánh_tay có_thể kết_hợp với mọi bộ_phận bên trong con robot .
+" Quá_trình này gọi_là tổ_hợp hệ_thống " , Matt_Oehrlein , nhà đồng sáng_lập Megabots kiêm kỹ_sư điện , chia_sẻ .
+Trong video , con robot cao 5 m vươn dài đôi tay và xòe rộng móng_vuốt đồ_sộ khi đến gần chiếc xe .
+Nó cắm móng_vuốt xuyên qua kín chắn gió ở hai đầu xe và nhấc bổng chiếc xe lên giữa không_trung trước khi đập mạnh xuống đất , khiến chiếc xe vỡ vụn thành từng mảnh .
+Phương_Hoa

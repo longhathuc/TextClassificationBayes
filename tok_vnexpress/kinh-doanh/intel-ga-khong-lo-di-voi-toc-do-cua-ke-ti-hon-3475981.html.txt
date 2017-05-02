@@ -1,0 +1,64 @@
+Intel - gã khổng_lồ đi với tốc_độ của kẻ tí_hon
+Khi_Intel công_bố kế_hoạch sa_thải 12.000 nhân_viên trên toàn_cầu hồi tháng 4 , giới phân_tích đã ví_von họ như một chú voi đi với tốc_độ của ốc_sên , đặc_biệt là so với nhiều gã khổng_lồ công_nghệ khác .
+Hôm_qua , đại_diện Intel_Việt_Nam đã xác_nhận kể từ ngày 30/9 tới , quy_mô nhân_sự của công_ty sẽ giảm rất mạnh .
+Kể từ tháng 10 , Intel_Việt_Nam sẽ duy_trì hoạt_động chỉ với vài nhân_sự còn lại .
+Việc này nằm trong kế_hoạch tái cơ_cấu chung trên toàn_cầu của cả tập_đoàn , với hy_vọng vượt qua giai_đoạn khó_khăn khi doanh_số bán máy_tính_để_bàn liên_tục sụt_giảm .
+Trong thế_kỷ 20 - kỷ_nguyên của máy_tính_để_bàn ( PC ) , Intel và Microsoft là một cặp_bài_trùng .
+Người_ta dùng thuật_ngữ Wintel để chỉ sự thống_trị của hệ_điều_hành Windows ( Microsoft ) và chip x 86 ( Intel ) trong các máy_tính thời đó .
+Nhưng ngày_nay , tình_hình đã hoàn_toàn thay_đổi .
+Doanh_số bán PC và laptop toàn_cầu chạm đỉnh 365 triệu chiếc cách đây 5 năm , và giảm xuống còn 289 triệu chiếc năm 2015 .
+Trong khi đó , doanh_số bán máy_tính bảng và smartphone lại tăng vọt lên 1,7 tỷ chiếc năm_ngoái .
+CEO Intel - Brian_Krzanich đang nỗ_lực vực dậy công_ty .
+Ảnh : Reuters
+Microsoft và Intel đều nhận thấy sự suy_giảm này và tìm biện_pháp thích_nghi .
+Cổ_phiếu cả hai công_ty đều không tăng_trưởng trong một thập_kỷ sau bong_bóng dotcom .
+Cả hai đều mất nhiều thời_gian đi tìm chỗ_đứng trong mảng smartphone , đều thay CEO trong 3 năm qua và cam_kết nâng_cấp hoạt_động kinh_doanh để tìm động_cơ tăng_trưởng trong tương_lai .
+Nhưng nếu nhìn vào thành_quả , sự chuyển_dịch tại Microsoft đang thành_công hơn .
+Dưới thời CEO Satya_Nadella , Microsoft đang thực_hiện cuộc tái cấu_trúc rất mạnh_tay , sa_thải hàng nghìn nhân_viên năm_ngoái , tái định_vị công_ty trong các thị_trường đang tăng_trưởng nhanh , như điện_toán đám mây .
+Việc này đã giúp cổ_phiếu Microsoft tăng 93% trong 3 năm , tính đến cuối tháng 4 .
+Cùng thời_gian đó , cổ_phiếu Intel chỉ tăng 47% , thấp hơn mức tăng của Nasdaq_Composite là 50% .
+Việc này dĩ_nhiên không có_nghĩa Intel đang gặp rắc_rối .
+Quý I , Intel đạt doanh_thu 13,7 tỷ USD , tăng 7% so với năm_ngoái .
+Lợi_nhuận cũng tăng 3% lên 2 tỷ USD .
+Tuy_nhiên , quá_trình chuyển_dịch của họ , từ một hãng sản_xuất chip PC lâu_đời và vẫn có lợi_nhuận , sang các thị_trường tiềm_năng hơn có_vẻ đang diễn ra chậm hơn kỳ_vọng của mọi người .
+Kế_hoạch sa_thải hàng_loạt hồi tháng 4 của CEO Brian_Krzanich là nhằm đẩy_mạnh sự chuyển_dịch này .
+Ông cho_biết chiến_lược này sẽ " cải_tổ công_ty của chúng_tôi từ một hãng PC sang công_ty phát_triển điện_toán đám mây và hàng tỷ thiết_bị máy_tính thông_minh , có kết_nối khác " .
+Nói ngắn_gọn , con đường Intel đang đi cũng_như Microsoft .
+Intel kỳ_vọng tiết_kiệm 570 triệu USD năm nay và 1,4 tỷ USD cho_đến giữa năm 2017 nhờ việc cắt_giảm nhân_sự và các chi_phí liên_quan .
+Họ cũng đang lên kế_hoạch đầu_tư mạnh hơn vào các mảng kinh_doanh đang tăng_trưởng , như máy_tính bảng có_thể chuyển_đổi thành laptop hay mảng game .
+Các trung_tâm dữ_liệu và kế_hoạch Internet of Things ( kết_nối các thiết_bị gia_dụng bằng công_nghệ ) cũng sẽ được tăng_cường .
+Chip PC hiện vẫn đóng_góp khoảng 60% doanh_thu cho Intel .
+Krzanich cho_biết PC còn nhiều lĩnh_vực Intel vẫn tiếp_tục tập_trung hoạt_động , như laptop cao_cấp , PC chơi game và PC lai máy_tính bảng .
+Năm_ngoái , doanh_số bán PC đã có dấu_hiệu ổn_định , không tăng_trưởng nhưng cũng không giảm nhanh nữa .
+Nhưng 3 tháng đầu năm nay , số PC bán ra toàn_cầu đã giảm gần 10% .
+Lẽ_ra , Intel đã có_thể phát_triển ra ngoài mảng chip PC sớm hơn .
+Microsoft từ một thập_kỷ trước đã phản_ứng khá nhanh , khi lấn_sân mảng phần_mềm doanh_nghiệp và máy_chủ , dọn đường để tiến vào mảng điện_toán đám mây .
+Intel thì ngược_lại , họ đã bỏ_qua cơ_hội thiết_kế chip cho i Phone đầu_tiên của Apple , và còn đánh_giá thấp tiềm_năng của thị_trường smartphone .
+Ngày cuối_cùng đảm_nhận cương_vị giám_đốc điều_hành Intel ( tháng 5/2013 ) , cựu CEO Intel - Paul_Otellini đã thú_nhận với The_Atlantic rằng : " Thế_giới có_thể đã thay_đổi nếu_như chúng_tôi nhận_lời hợp_tác với Apple trong việc cung_cấp vi_xử_lý cho i Phone .
+Tuy_nhiên , chúng_tôi lo_sợ , bởi mức giá sản_xuất thấp hơn kỳ_vọng và Intel không_thể sản_xuất số_lượng lớn .
+Hơn hết , chúng_tôi cũng không_thể biết trước được rằng i Phone sẽ thành_công đến như_vậy " .
+Intel đã cố_gắng sửa_sai sau đó bằng một loạt dòng chip cho điện_thoại_di_động .
+Tuy_nhiên , vì là " lính mới " , hãng chưa làm được gì nhiều .
+Kiến_trúc chip x 86 bị chỉ_trích vì quá ngốn điện , trong khi dòng Atom sau đó tuy có cải_thiện nhưng vẫn chưa_thể so_sánh với dòng A của Apple , Snapdragon của Qualcomm , thậm_chí là Exynos của Samsung … Bên_cạnh đó , động_thái của Intel còn được cho là đã quá muộn , khi thị_trường smartphone cũng đang bắt_đầu bão_hòa .
+Dưới thời Krzanich , Intel đã cố_gắng định_vị mình trong các thị_trường có nhiều tiềm_năng trong tương_lai .
+Mảng trung_tâm dữ_liệu của họ có doanh_thu quý I tăng 9% lên 4 tỷ USD , trong khi mảng Internet of Things tăng 22% lên 651 triệu USD .
+Năm_ngoái , Intel còn chi 16,7 tỷ USD mua Altera để giữ vững vị_trí trong mảng chip có khả_năng lập_trình ( programmable chip ) .
+Trong một cuộc phỏng_vấn với CNBC hồi tháng 4 , Krzanich cũng cho_biết Intel có_thể thâu_tóm nhiều hơn_nữa để mở_rộng ra ngoài mảng PC .
+Thông_báo sa_thải hàng_loạt của Intel cũng khiến giới phân_tích tranh_cãi về việc liệu họ có chọn nhầm thời_điểm hay không .
+Hãng dịch_vụ tài_chính Stifel_Nicolaus thì cho rằng " việc điều_chỉnh nhân_sự này đã quá muộn " .
+Báo_cáo khác từ MKM Partners thì khẳng_định nó có_thể làm tăng lợi_nhuận mảng chip PC và giúp Intel có nhiều tiền rảnh_rỗi đầu_tư vào các lĩnh_vực mới hơn .
+Bernstein thì cho_biết đây là “ nền_móng đẩy công_ty này tiếp_tục trượt dốc ” .
+Trong quý II , lợi_nhuận của Intel giảm 51% so với cùng kỳ năm_ngoái , xuống 1,4 tỷ USD , chủ_yếu do kế_hoạch sa_thải hàng_loạt khiến hãng tiêu tốn 1,4 tỷ USD .
+Doanh_thu tăng 2,6% lên 13,53 tỷ USD .
+Tuy_nhiên , doanh_thu mảng trung_tâm dữ_liệu và Internet of Things đều không đạt kỳ_vọng của giới phân_tích , với lần_lượt 4,03 tỷ USD và 572 triệu USD .
+Đây là hai mảng được Krzanich coi là động_cơ tăng_trưởng chính cho công_ty .
+Dù_vậy , những người lạc_quan vẫn tin vào quan_điểm sẵn_sàng thay người của Krzanich .
+Một_số lãnh_đạo cấp cao_lâu năm của Intel đã rời công_ty trong năm nay , sau khi Krzanich mang về Murthy_Renduchintala và chỉ_định ông làm chủ_tịch mảng Internet of Things .
+Renduchintala từng điều_hành mảng chip của Qualcomm .
+Bên_cạnh đó , có nhiều dấu_hiệu cho thấy việc kinh_doanh của Intel đang dần khởi_sắc .
+Giữa tháng này , họ đã nâng dự_báo lợi_nhuận quý lần đầu_tiên trong hơn 2 năm .
+Nguyên_nhân là nhu_cầu PC được cải_thiện , khiến các nhà_cung_cấp linh_kiện cũng tăng mua .
+Intel dự_báo doanh_thu quý III này có_thể đạt 15,6 tỷ USD , cao hơn so với dự_báo trước là 14,9 tỷ USD .
+Đây cũng sẽ là doanh_thu quý cao nhất từ trước đến nay của Intel , theo số_liệu của Thomson_Reuters .
+Cổ_phiếu của hãng nửa năm qua cũng đã tăng 20% .
+Hà_Thu ( theo Time/WSJ )

@@ -1,0 +1,13 @@
+Khối_lượng của dải Ngân_hà
+Theo ước_tính của các nhà_khoa_học Canada , dải Ngân_hà có khối_lượng bằng khoảng 400 đến 580 tỷ lần khối_lượng Mặt_Trời .
+Nhóm nghiên_cứu tại Đại_học McMaster và Đại_học Queen , Canada , ước_tính khối_lượng dải Ngân_hà , hay thiên_hà Milky_Way , bằng khoảng 400 đến 580 tỷ lần khối_lượng Mặt_Trời .
+Trong khi đó , khối_lượng Mặt_Trời bằng 330.000 lần khối_lượng Trái_Đất , hay   2x1030   kg , UPI hôm 9/1 đưa tin .
+Khi đo khối_lượng dải Ngân_hà , các nhà_khoa_học phải đo khối_lượng của hàng trăm tỷ ngôi_sao , hành_tinh , mặt_trăng , khí và bụi .
+Việc ước_tính khối_lượng vật_chất hữu_hình là điều dễ hơn .
+Phần khó_khăn nhất_là ước_tính khối_lượng vật_chất tối , thứ mà các nhà thiên_văn không_thể nhìn thấy , chưa_thể phát_hiện trực_tiếp trong phòng_thí_nghiệm hoặc trong không_gian .
+Khối_lượng vật_chất tối được tính nhờ ảnh_hưởng lực hấp_dẫn của dải Ngân_hà đối_với vị_trí và chuyển_động của các cụm sao cầu_quay quanh nó .
+Để xác_định chuyển_động cụm sao cầu , các nhà thiên_văn phải lập bản_đồ đường đi của chúng trên bầu_trời .
+Nhóm nghiên_cứu xây_dựng một mô_hình thống_kê mới nhằm giải_thích sự bất_ổn trong giá_trị chuyển_động của các cụm sao cầu .
+Mô_hình này sử_dụng phương_pháp thống_kê Bayes để xem_xét vị_trí và vận_tốc cụm sao cầu dưới dạng tham_số , không phải giá_trị cố_định .
+" Khi phải tiếp_cận với lượng dữ_liệu lớn , tôi nghĩ rằng điều quan_trọng là chúng_ta phải cân_nhắc kỹ_lưỡng về phương_pháp thống_kê sử_dụng để phân_tích dữ_liệu , đặc_biệt là trong lĩnh_vực thiên_văn_học , nơi mà dữ_liệu có_thể chưa đầy_đủ và chắc_chắn " , Gwendolyn_Eadie , nhà_vật_lý thiên_văn tại Đại_học McMaster , cho_biết .
+Lê_Hùng

@@ -1,0 +1,6 @@
+Cách nào lập_trình mạng xã_hội giống như Facebook , Twitter
+Ngôn_ngữ_lập_trình nào phù_hợp với các website mạng xã_hội có tính tương_tác cao như Facebook , Twitter ? ( Hoàng_Minh , Hải_Phòng )
+Tôi muốn học lập_trình và tập_trung vào việc xây_dựng ra một website mạng xã_hội có tính tương_tác cao hiện_nay như Facebook , Twitter , Google + .
+Tôi đang là sinh_viên ngành IT và có hiểu_biết cơ_bản về các   ngôn_ngữ_lập_trình phổ_biến như Python , C+ + , Java , C# .
+Những trang như trên có nhiều điểm cần lưu_ý trong quá_trình lập_trình nên mong các độc_giả có hiểu_biết tư_vấn giúp tôi xem nên học thêm kỹ_năng nào , những đầu_sách tham_khảo hữu_ích để có_thể tạo ra một trang mạng xã_hội .
+Hoàng_Minh

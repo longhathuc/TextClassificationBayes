@@ -1,0 +1,26 @@
+Sạc pin điện_thoại bằng dòng nước
+Estream là máy_phát_điện nhờ thủy_lực có_thể dễ_dàng mang theo trong balo khi đi du_lịch .
+Theo kickstarter , chiếc máy nhỏ gọn này chuyển_đổi bất_kỳ dòng nước chuyển_động nào thành năng_lượng , lưu_trữ để sạc cho các thiết_bị như điện_thoại_di_động , máy_tính bảng hay Go_Pro thông_qua kết_nối USB .
+Khi được thả lơ_lửng trong nước , các cánh_quạt sẽ làm quay tuabin để tạo ra điện_năng .
+Bên trong Estream là pin dung_lượng 6.400 mAh , cần khoảng 4,5 giờ dưới nước để sạc đầy .
+Sản_phẩm có_giá dự_kiến 180 USD .
+Kính thời_trang tích_hợp công_nghệ số
+Vue sử_dụng công_nghệ dẫn_truyền qua xương để chuyển âm_thanh vào tai trong của người dùng mà không cần tới tai_nghe .   Trong
+khi di_chuyển , người dùng vẫn có_thể nghe nhạc , trả_lời cuộc_gọi và nghe thông_báo từ kính bằng cách chuyển chế_độ thông_qua các thao_tác vuốt hay gõ .
+Kính_Vue đi kèm hộp sạc tự_động , với dung_lượng pin có_thể sử_dụng trong một tuần .
+Người dùng có_thể tùy chọn kết_cấu , hình_dạng hoặc màu_sắc mắt_kính .
+Chống trộm kết_nối smartphone
+Stilla_Motion là hệ_thống an_ninh bỏ_túi , có_thể kết_nối với điện_thoại thông_minh trong khoảng_cách gần 50 mét .
+Nó sẽ báo_động ngay_lập_tức với âm_thanh hơn 85 dB nếu bị di_chuyển , sau khi được kích_hoạt và gắn kèm vào các thiết_bị khác như túi đồ , máy_tính , xe_đẩy ...
+Nó làm_việc tốt trên cả Android và i OS .
+Pin có_thể sử_dụng trong một năm và dễ_dàng thay_thế .
+Sản_phẩm đã kêu_gọi đủ vốn trên Indiegogo .
+Apple_Miror - Chiếc gương tích_hợp hệ_điều_hành i OS
+Sản_phẩm do Rafael_Dymek , một nhà_thiết_kế người Mỹ tạo ra .
+Chiếc gương chính là một màn_hình cảm_ứng , mô_phỏng hệ_điều_hành i OS 10 của Apple .
+Có khu_vực riêng để hiển_thị thời_gian , ngày_tháng , thời_tiết .
+Tất_cả ứng_dụng có_thể di_chuyển xung_quanh và đặt bất_cứ nơi nào trên gương .
+Người dùng có_thể xem video , đọc tin_tức , nghe nhạc ... như trên smartphone .
+Sau 45 giây không hoạt_động , hình_ảnh , thông_tin biến_mất và nó trở_lại là một chiếc gương bình_thường .
+Để kích_hoạt , người dùng chỉ cần gõ nhẹ vào bất_cứ nơi nào .   Dymek
+nói rằng đây là một dự_án cá_nhân và không có ý_định sử_dụng cho mục_đích thương_mại .

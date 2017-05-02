@@ -1,0 +1,47 @@
+Giới_hạn chịu_đựng của pin Lithium-ion
+Đã đến lúc , các nhà_sản_xuất nên nghiên_cứu loại pin mới cho   thiết_bị di_động , thay_vì chạy_đua nâng_cấp các tính_năng khác .
+Từ sự_cố của Samsung
+Samsung vẫn chưa đưa ra câu trả_lời chính_thức cho sự_cố Galaxy_Note 7 cháy nổ , bởi hãng đang phải điều_tra nguyên_nhân cũng_như khắc_phục hậu_quả để lại .
+Đầu tháng 9 , khi tiến_hành thu_hồi 2,5 triệu thiết_bị đã bán ra , hãng chỉ đưa ra nguyên_nhân ban_đầu là " một lỗi cực hiếm xảy_ra trong quá_trình sản_xuất " .
+Sự_cố Galaxy_Note 7 khiến Samsung " điêu_đứng " .
+Tuy_nhiên , hãng sau đó đã nhấn_mạnh " còn quá sớm để suy_đoán " .
+Trong một phỏng_vấn với Reuters , đại_diện Samsung cho_biết sẽ điều_tra lại từ đầu , bắt_đầu_từ quy_trình kỹ_thuật , quá_trình sản_xuất đến kiểm_soát chất_lượng đầu_ra .
+Dù chưa tìm ra nguyên_nhân thực_sự , nhưng hầu_hết các sự_cố cháy nổ của Galaxy_Note 7 đã ghi_nhận đều xuất_phát từ viên pin   Lithium-ion .
+Cũng vì lý_do này , ban_đầu , Samsung đã ngừng các đơn hàng cung_cấp pin từ Samsung SDI để giao toàn_bộ cho đối_tác Amperex_Technology_Ltd ( ATL ) – công_ty chỉ sản_xuất 30% pin cho Galaxy_Note 7 – vì cho rằng " người_nhà " của mình sản_xuất pin chưa an_toàn .
+Tuy_nhiên , những thiết_bị mới dùng pin của ATL vẫn bị cháy nổ , khiến hãng phải đi đến quyết_định ngừng bán , đồng_thời " khai_tử " chiếc điện_thoại chỉ mới hơn 2 tháng tuổi .
+Nhưng mọi việc có dừng lại ở viên pin ?
+Đặc_tính của pin Lithium-ion
+Được thương_mại_hóa lần đầu_tiên bởi Sony vào năm 1991 , pin Lithium-ion nhanh_chóng xuất_hiện trên các thiết_bị di_động , bao_gồm máy_nhắn_tin , điện_thoại_di_động , máy_tính_xách_tay … So với các dòng pin đời cũ , Lithium-ion ưu_thế hơn nhờ sử_dụng chất điện_phân chứa đầy muối Lithium - chất_liệu nhẹ nhất trong số tất_cả các kim_loại , nhưng có_thể ích trữ được năng_lượng rất lớn trong một diện_tích rất nhỏ .
+Cấu_tạo của   một viên pin Lithium-ion .
+Về cấu_tạo , bên trong một viên pin Lithium-ion có rất nhiều tấm mang điện_tích trái dấu xếp chồng lên nhau và phân_tách nhau bởi những lớp cách_điện rất mỏng .
+Khi màng này bị " rách " do nguyên_nhân nào_đó ( va_đập , bị vật nhọn tác_động hoặc tự hỏng ) , hiện_tượng đoản_mạch trong thỏi pin sẽ xảy_ra , từ đó khiến nhiệt_độ tăng cao .
+Đây chính là nguyên_nhân phổ_biến nhất khiến viên pin bốc cháy .
+Pin_Lithium - ion cũng rất dễ sinh nhiệt khi hoạt_động .
+Nếu quá_trình nạp hoặc xả quá nhanh , nhiệt_độ của chúng thường tăng rất cao .
+Người dùng smartphone có_thể nhận thấy khi sử_dụng các ứng_dụng nặng , hoặc đang sạc .
+Trong quá_khứ , không thiếu những sự_cố cháy nổ liên_quan đến loại pin này , như Sony , HP , Toshiba và Panasonic trên máy_tính_xách_tay , hoặc ván trượt điện , xe_đạp điện … Thậm_chí , việc cháy nổ từng xảy_ra với máy_bay Boeing 787 vào năm 2013 .
+Riêng với Galaxy_Note 7 , Giám_đốc điều_hành Panasonic_Kazuhiro_Tsuga cho rằng , viên pin trên phablet này có_thể bốc cháy do Samsung cố_gắng " nhồi_nhét " thêm các tế_bào năng_lượng vào diện_tích hẹp nhằm tăng dung_lượng .
+Bên_cạnh đó , việc áp_dụng sạc nhanh cũng khiến thiết_bị tăng nhiệt nhanh hơn , dẫn đến cháy nổ .
+" Đó là sự đánh_đổi giữa lợi_ích và rủi_ro .
+Với công_nghệ pin hiện_tại và với các tính_năng tích_hợp trên Note 7 , sự_cố cháy nổ sẽ xảy_ra với tỷ_lệ cao gấp nhiều lần " , Tsuga nhấn_mạnh .
+Đã đạt đến giới_hạn an_toàn
+Trước " triều_đại " của điện_thoại thông_minh , các thiết_bị di_động chỉ là máy_nhắn_tin , điện_thoại tính_năng … , và chúng đều hoạt_động với tần_suất thấp .
+Điện_thoại ngày_nay được tích_hợp số_lượng tính_năng nhiều hơn , kiêm_nhiệm nhiều công_việc hơn , từ đó thời_gian sử_dụng lâu hơn , thậm_chí là liên_tục .
+Theo e Marketer , thời_gian sử_dụng smartphone năm 2016 gấp đôi năm 2012 đã cho thấy điều này .
+Smartphone ngày_càng được tích_hợp nhiều tính_năng , nhưng công_nghệ pin lại không được cải_tiến .
+Trong khi đó , hầu_hết các hãng điện_thoại lại chạy theo các xu_thế về độ mỏng nhẹ , màn_hình độ_phân_giải cao , nhiều tính_năng … Điều này khiến nhà_sản_xuất phải tăng mật_độ phân_tử năng_lượng vào viên pin để tăng thời_gian sử_dụng máy , và đó là cách duy_nhất nếu muốn nhập vào_cuộc đua trên .
+Nhưng sự_cố Galaxy_Note 7 đã vạch_trần một sự_thật , rằng con_người không_thể tăng mật_độ tế_bào năng_lượng vào diện_tích nhỏ hẹp được nữa , họ cần phát_triển công_nghệ pin mới tân_tiến hơn .
+" Pin_Lithium - ion đã đạt đến giới_hạn an_toàn về mật_độ năng_lượng trong một diện_tích cụ_thể .
+Nếu cứ cố_gắng nhồi_nhét thêm , sự_cố chắc_chắn xảy_ra " , Larsen , chuyên_gia tư_vấn của e Marketer , nói .
+Công_nghệ pin nào cho tương_lai
+Từ lâu , các nhà_khoa_học đã đi tìm công_nghệ pin mới bởi họ nhận ra rằng công_nghệ pin Lithium-ion sẽ đạt đến mức giới_hạn .
+Đã có không ít phát_hiện đầy triển_vọng , tuy_nhiên , chúng đều đang nằm trong phòng_thí_nghiệm .
+Theo Pocket - lint , các nhà_khoa_học đã phát_triển một loại tế_bào nhiên_liệu mới , cho_phép chỉ một lần sạc là có_thể sử_dụng trong vòng một tuần .
+Công_nghệ này kết_hợp giữa thép_không_gỉ với lớp màng mỏng , hạn_chế lượng nhiệt tỏa ra ở mức tối_thiểu , giúp pin bền và có tuổi_thọ cao hơn .
+Triển_vọng công_nghệ này rất cao , thậm_chí có tin_đồn cho rằng nó sẽ được tích_hợp vào viên pin của Galaxy S8 .
+Công_ty SolidEnergy Systems thuộc Viện công_nghệ MIT ( Mỹ ) cũng vừa phát_triển thành_công công_nghệ pin mới có tên lithium - metal .
+Dù có kích_cỡ tương_đương pin Lithium-ion nhưng công_nghệ mới cho_phép tuổi_thọ pin tăng gấp đôi , trong khi kích_thước giảm xuống một_nửa .
+Viên pin mới có_thể được giới_thiệu vào đầu 2017 cho smartphone .
+Những năm qua , dù các hãng sản_xuất điện_thoại liên_tục đua_tranh giới_thiệu nhiều tính_năng hấp_dẫn nhưng công_nghệ pin vẫn không có sự thay_đổi .
+Có_thể , sự_cố của Galaxy_Note 7 sẽ giúp họ nhận ra đâu là vấn_đề cần quan_tâm và chú_trọng phát_triển nó .
+Bảo_Lâm

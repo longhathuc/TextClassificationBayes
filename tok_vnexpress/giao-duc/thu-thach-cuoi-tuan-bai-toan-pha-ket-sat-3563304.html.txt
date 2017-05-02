@@ -1,0 +1,5 @@
+Thử_thách cuối tuần : Bài_toán phá két sắt
+Mật_mã của két sắt đựng tiền là dãy số có quy_luật , mỗi số xuất_hiện trong một viên bi .
+Các số xuất_hiện trong 9 viên bi lần_lượt là 1 ; 1 ; 2 ; 3 ; 6 ; 7 ; 10 ; 11 ; 14 , còn viên bi cuối_cùng chưa biết “ ? ” .
+Bạn hãy xác_định quy_luật dãy số và cho_biết số cuối_cùng là số nào .
+Trần_Phương

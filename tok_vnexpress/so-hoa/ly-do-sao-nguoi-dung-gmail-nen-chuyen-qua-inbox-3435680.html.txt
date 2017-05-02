@@ -1,0 +1,28 @@
+Lý_do sao người dùng Gmail nên chuyển qua Inbox
+Giao_diện đẹp_mắt và trực_quan , nhiều tính_năng mới , hỗ_trợ tối_đa trải_nghiệm người dùng là những lý_do người dùng Gmail nên " dọn nhà " qua Inbox .
+Trên_Gmail , có một nút bấm rất hữu_ích nhưng mọi người lại ít dùng đến , kể_cả với những_ai thường_xuyên sử_dụng nhất , đó là Archive ( Lưu_trữ ) .
+Thay vào đó , đa_số thường có thói_quen gắn dấu sao vào các thư quan_trọng để đọc sau .
+Tuy_nhiên , hành_động này là không nên bởi theo thời_gian , khi các email khác liên_tiếp tới , chúng sẽ bị trộn lẫn vào các bức thư thường , bị " trôi " về các trang cũ hơn và bị quên_lãng nếu chủ_nhân của nó không để_ý .
+Tính_năng lưu_trữ trong Gmail được đánh_giá là hay nhưng ít người dùng do thiết_kế không trực_quan .
+Đưa ra tính_năng hữu_ích nhưng lại ít người sử_dụng , đó được xem là lỗi thiết_kế mà Google đang mắc phải trên Gmail .
+Tuy_nhiên , thay_vì phát_triển trực_quan hơn , hãng đã lựa_chọn xây_dựng ứng_dụng email mới , đó là Inbox .
+Ra_mắt từ năm 2014 và từng được kỳ_vọng sẽ là " kẻ kế_nhiệm " Gmail , nhưng hiện Inbox đang phát_triển khá âm_thầm .
+Google cũng không quá nôn_nóng kích_thích người dùng chuyển qua ứng_dụng mới , ngoài việc tích_hợp thêm nút " Đưa tôi đến Inbox " ở bên dưới cùng góc phải .
+Giao_diện của Inbox .
+Tuy_nhiên , Inbox chứa những tính_năng thú_vị đáng để trải_nghiệm , ví_dụ như gợi_ý viết thư phản_hồi tự_động bằng trí_tuệ_nhân_tạo ( AI ) thông_minh hơn , hay giao_diện phẳng đẹp_mắt hơn .
+Nhưng điểm quan_trọng nhất mà Inbox mang lại đó là giúp người dùng có_thể quản_lý email tốt hơn_nữa , tránh bị " chết_đuối " trong một hộp_thư đầy rác như Gmail và các ứng_dụng tương_tự đang mắc phải .
+Đầu_tiên , Inbox đã tích_hợp sẵn nút Done thay cho Archive .
+Dù có chung tính_năng lưu_trữ nhưng với icon mới hình dấu_tích hoàn_thành ( thay cho icon mũi_tên ngược trên Archive ) , Done giúp người dùng dễ hình_dung hơn .
+Thông_thường , họ không quan_tâm nhiều đến lưu_trữ , nhưng lại thích đánh_dấu vào một cái gì đó mang tính_chất thể_hiện công_việc đã hoàn_tất .
+Done thay_thế Archive cho_phép người dùng có_thể lưu_trữ trực_quan hơn .
+Thứ_hai là hỗ_trợ lọc nhanh email khỏi hộp_thư đến .
+Nếu ai từng sử_dụng các dịch_vụ email nói_chung và Gmail nói_riêng hẳn đã trải qua cảm_giác khó_chịu khi phải xóa từng bức thư một khỏi hộp_thư đến bằng cách click vào từng thư và chọn lưu_trữ hoặc xóa .
+Tuy_nhiên , đối_với Inbox , việc cần làm chỉ là bấm vào hình dấu_tích ở góc trên bên phải từng email hoặc nhóm email mỗi khi đọc xong .
+Thứ_ba là tính_năng ẩn email trong một thời_hạn nhất_định mang tên Snooze .
+Tương_tự như tính_năng hẹn giờ , người dùng có_thể tạm_thời loại_bỏ một bức thư nào_đó khỏi hộp_thư đến cho_đến khi bạn muốn nó hiện lại .
+Để sử_dụng , bạn chỉ cần bấm Snooze ( biểu_tượng chiếc đồng_hồ ) , cài thời_gian và nhấn OK .
+Cuối_cùng , khi bạn đã dọn sạch " mớ hỗn_độn " , Inbox sẽ hiển_thị một hình nền nào_đó dễ_chịu , giúp thư_giãn khi mọi thứ đã hoàn_tất .
+Giao_diện Inbox sau khi dọn_dẹp hộp_thư .
+Tất_nhiên , Inbox vẫn còn một_số nhược_điểm nhỏ cần khắc_phục , ví_dụ như khó_khăn để gửi thư đến nhiều tài_khoản , hay ứng_dụng lịch chưa được tích_hợp sẵn .
+Tuy_nhiên , Google vẫn đang âm_thầm làm_việc để có_thể hoàn_thiện ứng_dụng , mang lại trải_nghiệm email mới , thậm_chí là thay_đổi thói_quen người dùng thư_điện_tử hiện_tại .
+Bảo_Lâm ( theo Tech_Insider )

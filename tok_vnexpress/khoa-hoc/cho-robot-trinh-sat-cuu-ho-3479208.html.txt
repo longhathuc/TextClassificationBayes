@@ -1,0 +1,19 @@
+Chó robot trinh_sát , cứu_hộ
+Một công_ty Mỹ chế_tạo ra chó robot có_thể vận_động linh_hoạt với tốc_độ chạy tối_đa là 2 m / s .
+Ghost_Robotics , công_ty công_nghệ ở thành_phố Philadelphia , Mỹ , chế_tạo thành_công chó robot có_thể đi_lại và vượt chướng_ngại_vật , New_Scientist hôm 29/9 đưa tin .
+Con robot mang tên Minitaur nặng 6 kg .
+Nó có_thể bò , đi_lại hoặc đứng dựa lên mặt_phẳng thẳng_đứng giống như một con chó thực_sự đang cố với tới đồ_vật trên cao .
+Phần chân của con robot được chế_tạo để nó có_thể mở tay nắm cửa hoặc bám chắc và leo hàng_rào .
+Tốc_độ chạy tối_đa của Minitaur là 2 m / s .
+Con robot được vận_hành bằng cơ_chế truyền động trực_tiếp và không sử_dụng bánh_răng .
+Do_đó , các mô_tơ có_thể hoạt_động như một cảm_biến , giúp nó tìm đường vượt qua chướng_ngại_vật .
+Ngoài_ra , các mô_tơ cũng đóng vai_trò làm hệ_thống giảm_xóc lò_xo .
+Nhờ vậy , con robot có_thể vận_động linh_hoạt .
+Minitaur được chế_tạo hoàn_toàn bằng các thành_phần có sẵn , ví_dụ như bộ_vi_xử_lý Arduino .
+Điều đó đồng_nghĩa với việc khi sản_xuất với số_lượng lớn , con robot có_thể có mức giá dưới 1.500 USD .
+Trong khi hiện_nay , chi_phí chế_tạo một con robot là 10.000 USD .
+Jiren_Parikh , giám_đốc công_ty Ghost_Robotics , hy_vọng con robot có_thể hữu_dụng   trong trường_hợp khẩn_cấp .
+" Khi xảy_ra thảm_họa hoặc trong tình_huống tìm_kiếm cứu nạn , chúng_tôi có_thể gửi tới hàng trăm con Minitaur " , Parikh nói .
+Ngoài_ra , Parikh cho_biết họ cũng nhận được đơn hàng từ quân_đội Mỹ , những người có_thể quan_tâm đến Minitaur như một nền_tảng cảm_biến để tiến_hành phá bom và thực_hiện hoạt_động trinh_sát trong thành_phố .
+Xem thêm :   Thụy_Sĩ phát_triển robot giao hàng tự lái
+Hiền_Anh

@@ -1,0 +1,35 @@
+Giải_mã các ký_hiệu trên thị_thực nhập_cảnh
+Ký_hiệu trên thị_thực cho_biết bạn nhập_cảnh với mục_đích gì , được lưu lại bao_nhiêu ngày .
+Theo khoản 11 điều 13 Luật_Nhập cảnh , xuất_cảnh , quá_cảnh , cư_trú của người nước_ngoài tại Việt_Nam , thị_thực là loại giấy_tờ do cơ_quan có thẩm_quyền của Việt_Nam cấp , cho_phép người nước_ngoài nhập_cảnh Việt_Nam .
+Khoản 3 điều 7 Luật này quy_định , thị_lực có_thể được cấp vào hộ_chiếu hoặc cấp rời .
+Các ký_hiệu trên thị_lực được giải_thích ý_nghĩa tại điều 8 Luật này , cụ_thể như sau :
+NG1 - Cấp cho thành_viên đoàn khách mời của Tổng_Bí thư Ban Chấp hành Trung_ương Đảng_Cộng sản Việt_Nam , Chủ_tịch nước , Chủ_tịch Quốc_hội , Thủ_tướng Chính_phủ .
+NG2 - Cấp cho thành_viên đoàn khách mời của Thường_trực Ban Bí thư Trung_ương Đảng_Cộng sản Việt_Nam , Phó_Chủ tịch nước , Phó_Chủ tịch Quốc_hội , Phó_Thủ tướng Chính_phủ , Chủ_tịch Ủy_ban Trung_ương Mặt_trận Tổ_quốc Việt_Nam , Chánh_án Tòa_án nhân_dân tối_cao , Viện_trưởng Viện_kiểm_sát nhân_dân tối_cao , Tổng_Kiểm toán nhà_nước ; thành_viên đoàn khách mời cùng cấp của Bộ_trưởng và tương_đương , Bí_thư tỉnh_ủy , Bí_thư thành_ủy , Chủ_tịch Hội_đồng_nhân_dân , Chủ_tịch Ủy_ban_nhân_dân tỉnh , thành_phố trực_thuộc trung_ương .
+NG3 - Cấp cho thành_viên cơ_quan đại_diện ngoại_giao , cơ_quan lãnh_sự , cơ_quan đại_diện tổ_chức quốc_tế thuộc Liên_hợp quốc , cơ_quan đại_diện tổ_chức liên chính_phủ và vợ , chồng , con dưới 18 tuổi , người giúp_việc cùng đi theo nhiệm_kỳ .
+NG4 - Cấp cho người vào làm_việc với cơ_quan đại_diện ngoại_giao , cơ_quan lãnh_sự , cơ_quan đại_diện tổ_chức quốc_tế thuộc Liên_hợp quốc , cơ_quan đại_diện tổ_chức liên chính_phủ ; người vào thăm thành_viên cơ_quan đại_diện ngoại_giao , cơ_quan lãnh_sự , cơ_quan đại_diện tổ_chức quốc_tế thuộc Liên_hợp quốc , cơ_quan đại_diện tổ_chức liên chính_phủ .
+LV1 - Cấp cho người vào làm_việc với các ban , cơ_quan , đơn_vị trực_thuộc trung_ương Đảng_Cộng sản Việt_Nam ; Quốc_hội , Chính_phủ , Ủy_ban Trung_ương Mặt_trận Tổ_quốc Việt_Nam , Toà_án nhân_dân tối_cao , Viện_kiểm_sát nhân_dân tối_cao , Kiểm_toán nhà_nước , các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ ; tỉnh_ủy , thành_ủy , Hội_đồng_nhân_dân , Ủy_ban_nhân_dân tỉnh , thành_phố trực_thuộc trung_ương .
+LV2 - Cấp cho người vào làm_việc với các tổ_chức chính_trị - xã_hội , tổ_chức xã_hội , Phòng_Thương mại và Công_nghiệp Việt_Nam .
+ĐT - Cấp cho nhà_đầu_tư nước_ngoài tại Việt_Nam và luật_sư nước_ngoài hành_nghề tại Việt_Nam .
+DN - Cấp cho người vào làm_việc với doanh_nghiệp tại Việt_Nam .
+DL  - Cấp cho người vào du_lịch .
+NN1 - Cấp cho người là Trưởng văn_phòng đại_diện , dự_án của tổ_chức quốc_tế , tổ_chức phi_chính_phủ nước_ngoài tại Việt_Nam .
+NN2 - Cấp cho người đứng đầu văn_phòng đại_diện , chi_nhánh của thương_nhân nước_ngoài , văn_phòng đại_diện tổ_chức kinh_tế , văn_hoá , tổ_chức chuyên_môn khác của nước_ngoài tại Việt_Nam .
+NN3 - Cấp cho người vào làm_việc với tổ_chức phi_chính_phủ nước_ngoài , văn_phòng đại_diện , chi_nhánh của thương_nhân nước_ngoài , văn_phòng đại_diện tổ_chức kinh_tế , văn_hoá và tổ_chức chuyên_môn khác của nước_ngoài tại Việt_Nam .
+DH - Cấp cho người vào thực_tập , học_tập .
+HN - Cấp cho người vào dự hội_nghị , hội_thảo .
+PV1 - Cấp cho phóng_viên , báo_chí thường_trú tại Việt_Nam .
+PV2 - Cấp cho phóng_viên , báo_chí vào hoạt_động ngắn_hạn tại Việt_Nam .
+LĐ - Cấp cho người vào lao_động .
+TT - Cấp cho người nước_ngoài là vợ , chồng , con dưới 18 tuổi của người nước_ngoài được cấp thị_thực ký_hiệu LV1 , LV2 , ĐT , NN1 , NN2 , DH , PV1 , LĐ hoặc người nước_ngoài là cha , mẹ , vợ , chồng , con của công_dân Việt_Nam .
+VR - Cấp cho người vào thăm người_thân hoặc với mục_đích khác .
+SQ - Cấp cho các trường_hợp quy_định tại khoản 3 Điều 17 của Luật này .
+Điều 9 ,   Luật_Nhập cảnh , xuất_cảnh , quá_cảnh , cư_trú của người nước_ngoài tại Việt_Nam , quy_định thời_hạn thị_thực tương_ứng với các ký_hiệu trên thị_thực như sau :
+- SQ : Thời_hạn không quá 30 ngày .
+- HN , DL : Thời_hạn không quá 3 tháng .
+- VR : Thời_hạn không quá 6 tháng .
+- NG1 , NG2 , NG3 , NG4 , LV1 , LV2 , DN , NN1 , NN2 , NN3 , DH , PV1 , PV2 và TT : Thời_hạn không quá 12 tháng .
+- LĐ : Thời_hạn không quá 2 năm .
+- ĐT : Thời_hạn không quá 5 năm .
+- Thị_thực hết hạn , được xem_xét cấp thị_thực mới .
+- Thời_hạn thị_thực ngắn hơn thời_hạn hộ_chiếu hoặc giấy_tờ có giá_trị đi_lại quốc_tế ít_nhất 30 ngày .
+Thục_Linh

@@ -1,0 +1,12 @@
+Tạo hiệu_ứng chúc_mừng năm mới trên i Phone
+Ứng_dụng Tin nhắn trên i Phone , iPad được bổ_sung hiệu_ứng đẹp_mắt khi người dùng trò_chuyện dịp Tết .
+Hiệu_ứng pháo_hoa khi nhắn_tin " Chúc_mừng năm mới " trên i Phone chạy i OS 10 .
+Khi gõ dòng chữ " Chúc_mừng năm mới " trên i Phone rồi gửi cho bạn_bè , ứng_dụng Tin nhắn sẽ xuất_hiện hiệu_ứng pháo_hoa trên màn_hình .
+Đây là tính_năng được Apple bổ_sung nhân_dịp Tết và hỗ_trợ trên những thiết_bị chạy i OS 10 .
+Hiệu_ứng sẽ xuất_hiện cho cả người gửi và người nhận , bao_gồm SMS và i Message .
+Đầu_tiên , màn_hình Tin nhắn chuyển sang tông màu tối .
+Hình_ảnh pháo_hoa xuất_hiện , các đoạn trò_chuyện được thay bằng màu đỏ kèm chữ màu vàng .
+Tuy_nhiên , thử_nghiệm trên i Phone 5C cài i OS 9 thì không có hiệu_ứng .
+Tương_tự , khi gõ " Chúc_mừng sinh_nhật " thì ứng_dụng Tin nhắn trên i Phone cũng xuất_hiện hiệu_ứng bóng_bay .
+Cả hai cú_pháp áp_dụng với cả_tin nhắn tiếng Việt không dấu , như " Chuc mung sinh nhat " hay " Chuc mung nam moi " .
+Video hiệu_ứng trên ứng_dụng Tin nhắn :

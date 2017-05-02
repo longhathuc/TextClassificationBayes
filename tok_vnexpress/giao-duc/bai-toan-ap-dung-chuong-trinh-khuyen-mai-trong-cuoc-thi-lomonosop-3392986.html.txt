@@ -1,0 +1,11 @@
+Bài_toán áp_dụng chương_trình khuyến_mãi trong cuộc_thi Lomonosop
+Làm thế_nào để sử_dụng các chương_trình khuyến_mãi một_cách có lợi nhất luôn là chủ_đề hay được đề_cập đến trong các tài_liệu và đề thi ở các nước .
+Về mặt toán_học thì các bài_toán này rất đơn_giản , nhưng rõ_ràng là rất có_ích .
+Các bài_toán này định_hướng cho học_sinh cách tiêu tiền hiệu_quả từ những chuyện nhỏ .
+Nhưng từ nhỏ rồi sẽ đến lớn .
+Dưới đây chúng_tôi xin giới_thiệu một bài_toán lấy từ cuộc_thi Lomonosop năm 2015 .
+Để sửa_chữa các cánh_quạt Carlson cần mua 3 lưỡi dao và 1 đinh_vít .
+Cửa_hàng bán 1 lưỡi dao giá 120 tugrik và 1 đinh_vít giá 9 tugrik .
+Nhưng sau khi mua hàng với giá_trị ít_nhất 250 tugrik thì được giảm 20% cho tất_cả mặt_hàng mua tiếp_theo .
+Hỏi_Carlson có_thể sửa_chữa được các cánh_quạt không nếu cậu chỉ có 360 tugrik ?
+TS Trần_Nam_Dũng ĐH Quốc_gia TP_HCM

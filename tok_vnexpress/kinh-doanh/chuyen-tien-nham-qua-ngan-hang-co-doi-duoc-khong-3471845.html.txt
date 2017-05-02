@@ -1,0 +1,34 @@
+Chuyển_tiền nhầm qua ngân_hàng có đòi được không ?
+Tôi chuyển nhầm 20 triệu đồng sang một ngân_hàng khác , dù đúng số tài_khoản và tên người nhận .
+Vậy tôi có bị mất số tiền đó không ( Anh Quốc , TP_HCM )
+Ngày 13/9 , tôi có chuyển một khoảng tiền gần 20 triệu từ ngân_hàng Agribank sang một tài_khoản khác ngân_hàng .
+Khi bên kia báo chưa nhận được tiền , tôi mới phát_hiện ra là chuyển sai tên ngân_hàng ( thay_vì chuyển qua China_Trust_Bank , tôi lại chuyển qua ngân_hàng China_Construction HCM ) .
+Tôi muốn hỏi chuyển đúng số tài_khoản , đúng tên nhưng lại sai tên ngân_hàng thì_có bị mất số tiền đó không ?
+Nếu nhận lại được thì sau bao_lâu ?
+Trả_lời :
+Trong hầu_hết các trường_hợp thao_tác sai khi chuyển_khoản , khách_hàng đều không mất số tiền chuyển nhưng phải chờ thời_gian tra soát lâu , nhanh có_thể một ngày nhưng thông_thường 7-10 ngày .
+Ngoài_ra , các giao_dịch chuyển_khoản nhầm vẫn chịu phí như bình_thường .
+Nhầm số tài_khoản hoặc sai tên người thụ_hưởng
+Với trường_hợp này , dù chuyển_tiền tại quầy hay qua Internet_Banking , giao_dịch đều không thành_công bởi hệ_thống mặc_định cả hai thông_tin này phải khớp nhau .
+Nếu chuyển_khoản trong cùng hệ_thống , chỉ cần nhập số tài_khoản là tên người thụ_hưởng đã hiện ra để người gửi đối_chiếu thông_tin .
+Tuy_nhiên , khi chuyển liên ngân_hàng theo cách thông_thường , bạn có_thể sẽ không được gợi_ý luôn tên người thụ_hưởng sau khi nhập số tài_khoản .
+Do_đó , nếu nhập sai tên người thụ_hưởng , ngân_hàng đích sẽ gửi điện nội_bộ về cho ngân_hàng chuyển_tiền và đơn_vị này sẽ tiếp_tục trả tiền về tài_khoản của bạn .
+Tuy_nhiên , quy_trình này do phải tra soát nên có_thể mất vài ngày .
+Một_số trường_hợp có_thể kéo_dài 7-10 ngày hoặc hơn .
+Về nguyên_tắc , số tài_khoản là độc_nhất_vô_nhị trên toàn hệ_thống ngân_hàng nên phần_lớn các ngân_hàng sẽ đối_chiếu thêm thông_tin tên người thụ_hưởng để làm căn_cứ thực_hiện giao_dịch .
+Hiện có một cách_thức chuyển_tiền liên ngân_hàng nhanh qua hệ_thống 24/7 qua số thẻ ( thay_vì số tài_khoản ) có_thể giảm_thiểu lỗi thao_tác nhập sai tên người nhận .
+Ngay khi nhập số thể , hệ_thống đã trả về tên chủ thẻ và khách_hàng không cần nhập thông_tin tên ngân_hàng cũng_như tên chi_nhánh .
+Đúng số tài_khoản , tên người nhận nhưng sai ngân_hàng / chi_nhánh
+Ngày 13/9 , một khách_hàng tại TP_HCM chuyển gần 20 triệu từ Agribank sang một_số tài_khoản khác ngân_hàng .
+Sau vài hôm chủ_tài_khoản thông_báo chưa nhận được tiền , khách_hàng này mới kiểm_tra lại và phát_hiện đã chuyển đúng số tài_khoản , tên người nhận nhưng lại nhầm từ China_Trust_Bank thành   China_Construction_Bank .
+Với trường_hợp kiểu này , trung_tâm thanh_toán tại các nhà_băng đều khẳng_định khách_hàng sẽ không bị mất tiền nhưng sẽ phải mất thời_gian để chờ các bên tra soát và làm thủ_tục hoàn tiền lại .
+Một trường_hợp nhầm_lẫn khá phổ_biến khác là nhầm tên chi_nhánh ngân_hàng .
+Để chuyển 4 triệu đồng từ Hà_Nội cho con_trai là sinh_viên tại Nam_Định , chị Nhiệm ( Hà_Nội ) đã mất gần một tuần và hai lần phí chuyển_tiền .
+4 ngày_sau khi chị Nhiệm chuyển_tiền lần đầu tại quầy , nhân_viên ngân_hàng mới thông_báo tiền được trả lại vì chị đã ghi nhầm tên chi_nhánh là Hùng_Vương ( Phú_Thọ ) thay_vì Nam_Định .
+Với trường_hợp này dù không mất tiền nhưng mất thời_gian và ngân_hàng vẫn tính phí như thông_thường .
+Trên thực_tế , khi chuyển_tiền qua Internet_Banking , theo phó_tổng giám_đốc một ngân_hàng cổ_phần , nếu chuyển qua số tài_khoản thông_thường , nhất_thiết phải đúng số tài_khoản và tên người gửi nhưng tên chi_nhánh không buộc phải đúng .
+Theo đó , nếu_không nhớ chính_xác tên chi_nhánh , bạn vẫn có_thể nhập về Sở_giao_dịch bởi thực_tế hệ_thống thanh_toán tại mỗi ngân_hàng không chia từng chi_nhánh mà chỉ phân làm các trung_tâm thanh_toán các hai miền .
+Đúng số tài_khoản , người thụ_hưởng , ngân_hàng nhưng tài_khoản có vấn_đề
+Một_vài khách_hàng đã gặp tình_trạng này khi chuyển_khoản cho một người bạn nhưng không biết rằng tài_khoản của người thụ_hưởng đó đã bị khóa .
+Nếu tài_khoản của người thụ_hưởng đã khóa dưới dạng ( đóng hẳn tài_khoản ) , tiền sẽ được chuyển trả lại cho người gửi sau một_vài ngày .
+Tuy_nhiên , nếu tài_khoản của người nhận chỉ bị phong_tỏa ( vì một_số lý_do ) , tiền sẽ được treo lại tại ngân_hàng của người nhận và người thụ_hưởng sẽ phải làm các thủ_tục với ngân_hàng để chấm_dứt đóng_băng tài_khoản và nhận tiền .

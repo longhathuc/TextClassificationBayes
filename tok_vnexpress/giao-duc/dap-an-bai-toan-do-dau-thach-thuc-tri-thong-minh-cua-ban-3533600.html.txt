@@ -1,0 +1,12 @@
+Đáp_án bài_toán đổ dầu thách_thức trí thông_minh của bạn
+Bài_toán về những thùng dầu có_thể được giải bằng nhiều cách và chúng_ta cần tìm cách đơn_giản nhất để giải_quyết trong thời_gian nhanh_nhất có_thể .
+Hỏi số dầu ở thùng X ban_đầu là bao_nhiêu ?
+- Lần đổ thứ_hai , người_ta đổ dầu từ thùng Y sang thùng X thì dầu trong thùng X tăng gấp đôi sau lần đổ thứ nhất .
+Như_vậy , dầu trong thùng X sau lần đổ thứ nhất_là 18/2 = 9 ( lít ) .
+Khi đó ,   số dầu trong thùng Y sau lần đổ thứ nhất_là
+36 - 9 = 27 ( lít ) .
+-   Lần thứ nhất , người_ta đổ dầu từ thùng X sang thùng Y để số dầu trong Y gấp đôi ban_đầu .
+Như_vậy , số dầu trong thùng Y ban_đầu là 27/2 = 13,5 ( lít )
+Từ đó suy ra , số dầu trong thùng X ban_đầu là 36 - 13,5 = 22,5 ( lít )
+Thanh_Tâm
+> > Bài_toán đổ dầu thách_thức trí thông_minh của bạn

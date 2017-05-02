@@ -1,0 +1,19 @@
+Chuyên_gia VNPT Technology : IoT sẽ kích_cầu 4G phát_triển
+IoT sẽ được ứng_dụng rộng_rãi trong thực_tế khi có nền_tảng kết_nối Internet đủ mạnh , trong đó có kết_nối băng rộng di_động .
+Đó là nhận_định của ông Nguyễn_Trung_Kiên - Giám_đốc Ban Quản lý và phát_triển sản_phẩm công_nghệ VNPT Technology tại Hội_thảo Quốc_tế về công_nghệ 4G LTE vừa diễn ra tại Hà_Nội .
+Với chủ_đề phát_triển tiềm_năng 4G LTE hướng tới kỷ_nguyên kết_nối vạn_vật , hội_thảo đã đem   đến trải_nghiệm và cái nhìn chân_thực nhất về công_nghệ 4G LTE .
+Theo ông Kiên , 4G LTE sẽ đóng vai_trò quan_trọng trong việc phủ_sóng IoT tại Việt_Nam .
+Ngược_lại , IoT sẽ góp_phần kích_thích mạnh_mẽ nhu_cầu sử_dụng dịch_vụ 4G .
+VNPT Technology đã phát_triển nền_tảng IoT - Smart_Connected_Platform ( SCP ) , đóng vai_trò như một nền_tảng chung và duy_nhất cho việc phát_triển ứng_dụng và cung_cấp dịch_vụ , ứng_dụng cho nhiều lĩnh_vực , hỗ_trợ kết_nối nhiều loại thiết_bị từ các nhà_cung_cấp khác_nhau .
+SCP tạo môi_trường phát_triển thuận_tiện và linh_hoạt cho các nhà_phát_triển ứng_dụng .
+" Trong thời_gian tới , hàng_loạt ứng_dụng ngành_dọc sẽ được cộng_đồng phát_triển trên nền_tảng SCP , cung_cấp cho khách_hàng , góp_phần hiện_thực hóa IoT tại Việt_Nam " , ông Kiên nhận_định .
+Trong lộ_trình phát_triển mạng 4G LTE tại Việt_Nam , ngoài những động_thái hỗ_trợ tích_cực từ chính_phủ , đã xuất_hiện nhiều doanh_nghiệp chủ_động xây_dựng các giải_pháp , nền_tảng nhằm hỗ_trợ các hình_thức kinh_doanh và phát_triển dịch_vụ 4G LTE .
+Một trong những nền_tảng thu_hút chú_ý nhất tại hội_thảo lần này có_thể kể đến nền_tảng IoT Smart_Connected_Platform ( SCP ) do VNPT Technology cung_cấp .
+SCP là nền_tảng mở kết_nối vạn_vật cung_cấp dịch_vụ End - to - End .
+Với SCP và bộ giao_diện lập_trình ứng_dụng ( API ) mở , các nhà_phát_triển ứng_dụng có_thể chủ_động phát_triển ứng_dụng trong mọi lĩnh_vực chạy trên các thiết_bị đã chứng_thực .
+Ông Nguyễn_Anh_Hoàng , giám_đốc Trung_tâm ITC - trung_tâm nghiên_cứu chuyên_sâu về nền_tảng IOT của VNPT Technology kỳ_vọng sẽ khai_thác tối_đa tiềm_năng của mạng di_động thế_hệ mới 4G LTE trong việc phát_triển và đẩy_mạnh ứng_dụng IoT tại thị_trường Việt_Nam .
+Tại khu_vực triển_lãm , gian_hàng VNPT Technology thu_hút sự chú_ý từ quan_khách tham_dự với các mô_hình SCP phát_triển riêng cho một_số ứng_dụng thuộc các lĩnh_vực : Quản_lý trong giao_thông vận_tải , trong nông_nghiệp , môi_trường , ngôi nhà thông_minh , theo_dõi và chăm_sóc sức_khỏe trong y_tế , vận_hành và giám_sát trong nhà_máy …
+Cùng_với việc phát_triển 4G LTE , nền_tảng IoT được dự_báo là một trong những công_nghệ nổi_bật trong tương_lai , mang lại cơ_hội kết_hợp phát_triển ứng_dụng IoT trên nền_tảng 4G , nhằm tìm ra các hướng đi mới trong việc phát_triển kinh_doanh dịch_vụ cho doanh_nghiệp .
+Hiện_tại , trên thế_giới đã có 503 mạng 4G LTE được thương_mại_hóa tại 167 quốc_gia tính đến tháng 5/2016 ( theo thống_kê từ GSA ) .
+Tại_Việt_Nam , Bộ Thông tin và Truyền_thông nhận_định , năm 2016 là thời_điểm thích_hợp cho Việt_Nam triển_khai thành_công 4G LTE .
+Hà_Linh

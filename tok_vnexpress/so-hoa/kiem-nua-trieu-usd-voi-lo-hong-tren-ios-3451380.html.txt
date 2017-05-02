@@ -1,0 +1,20 @@
+Kiếm nửa triệu USD với lỗ_hổng trên i OS
+Hacker có_thể nhận được khoản tiền " khủng " nếu tìm ra các lỗi bảo_mật trong hệ_thống i OS , trình_duyệt Google_Chrome , Microsoft_Edge hay phần_mềm của Adobe .
+Đầu tháng 8 , Apple cho_biết công_ty sẽ trả thưởng tới 200.000 USD ( tương_đương khoảng 4,5 tỷ đồng ) cho ai tìm ra lỗ_hổng trong phần_mềm của hãng .
+Tuy_nhiên , Exodus_Intelligence , công_ty có trụ_sở tại Texas ( Mỹ ) đưa ra số tiền cao gấp đôi , nhằm hấp_dẫn tin_tặc và các nhà bảo_mật .
+Việc tìm ra các lỗ_hổng bảo_mật có_thể đem về cho hacker khoản thu lớn .
+Exodus nói họ sẵn_sàng chi tới 500.000 USD ( hơn 11 tỷ đồng ) cho những lỗ_hổng bảo_mật chưa được khám_phá ( còn gọi_là lỗ_hổng zero - day ) , ảnh_hưởng nghiêm_trọng đến i OS 9.3 và các phiên_bản mới hơn .
+Đặc_biệt , nếu lỗi zero - day được phát_hiện nhưng không được vá thì mỗi quý lỗ_hổng còn tồn_tại hacker sẽ được thưởng thêm tiền .
+Công_ty Mỹ cũng công_bố bảng tiền thưởng nếu tìm ra lỗi trong các hệ_thống khác .
+Chẳng_hạn với trình_duyệt Chrome thì hacker hay các chuyên_gia bảo_mật có_thể nhận được 150.000 USD , Microsoft_Edge là 125.000 USD hay thấp hơn là 60.000 USD với Adobe_Reader và Flash .
+Mức thưởng tối_đa   cho các lỗ_hổng được phát_hiện .
+Để tham_gia chương_trình của   Exodus , hacker chỉ cần thực_hiện một_vài bước đăng_ký đơn_giản trên nền_tảng của công_ty .
+Số tiền sẽ được thanh_toán bằng phiếu chi , chuyển_khoản hoặc Bitcoin ( một loại tiền kỹ_thuật_số ) nếu lỗ_hổng được chấp_nhận .
+Vì_sao các lỗ_hổng bảo_mật được " chi đậm " ?
+Từ nhiều năm qua , thị_trường chợ_đen đã sôi_động với các giao_dịch liên_quan đến lỗ_hổng bảo_mật .
+Các lỗi trên Windows , Linux , iOS , Mac OS X , Android hay các dịch_vụ như WhatsApp , Telegram , Facebook_Twitter , Gmail ... đều được mua_bán trong thế_giới ngầm Dark_Web .
+Tội_phạm mạng sẵn_sàng trả tiền để biết về các lỗ_hổng , đồng_thời ngăn nhà_cung_cấp vá nó .
+Với các lỗ_hổng , tin_tặc có_thể tấn_công vào chính_phủ hay các mạng doanh_nghiệp .
+Ngoài_ra , nắm giữ các kẽ hở trong hệ_thống thông_tin cũng là một_cách để đánh_cắp bí_mật kinh_doanh .
+Bên_cạnh mặt_trái , Cục Điều tra Liên_bang Mỹ thừa_nhận rằng họ cũng khai_thác zero - day để do_thám những đối_tượng khả_nghi khủng_bố và các loại tội_phạm khác .
+Bằng cách này ,   FBI không cần sự trợ_giúp của các nhà_cung_cấp , tránh " rút_dây_động_rừng " .

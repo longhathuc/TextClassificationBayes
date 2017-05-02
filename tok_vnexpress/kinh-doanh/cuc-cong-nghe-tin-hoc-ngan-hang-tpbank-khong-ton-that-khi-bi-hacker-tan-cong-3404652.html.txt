@@ -1,0 +1,16 @@
+Cục công_nghệ tin_học ngân_hàng : ' TPBank không tổn_thất khi bị hacker tấn_công '
+Nhờ phát_hiện và xử_lý kịp_thời nên TPBank đã tránh được tổn_thất hơn một_triệu Euro do hacker tấn_công hồi cuối năm_ngoái , theo lãnh_đạo Cục công_nghệ tin_học ngân_hàng .
+Chia_sẻ thông_tin về vụ_việc tin_tặc tấn_công ngân_hàng TMCP Tiên_Phong ( TPBank ) xảy_ra hồi cuối năm_ngoái , ông Lê_Mạnh_Hùng - Cục_trưởng Cục công_nghệ tin_học ngân_hàng ( Ngân_hàng Nhà_nước ) khẳng_định sự_việc đã được xử_lý ngay tại thời_điểm xảy_ra .
+" Nhờ phát_hiện và can_thiệp kịp_thời nên TPBank đã tránh được tổn_thất .
+Các ngân_hàng khác và hệ_thống thanh_toán SWIFT tại thời_điểm đó và hiện_nay không bị ảnh_hưởng gì " , ông nhấn_mạnh .
+Theo vị này , đến năm cuối 2015 , Hiệp_hội viễn_thông liên ngân_hàng và tài_chính quốc_tế ( SWIFT ) tại Việt_Nam gồm Ngân_hàng Nhà_nước và khoảng 80 ngân_hàng thương_mại tham_gia , đăng_ký 88 mã SWIFT .
+Trong đó có 44 mã SWIFT của ngân_hàng thương_mại cổ_phần , 43 mã SWIFT của các ngân_hàng nước_ngoài , chi_nhánh ngân_hàng nước_ngoài .
+Cục_trưởng Cục công_nghệ tin_học ngân_hàng   khẳng_định nhờ phát_hiện và xử_lý   kịp_thời nên TPBank đã tránh được tổn_thất .
+Trong đó , lượng giao_dịch trung_bình một ngày thông_qua hệ_thống này vào cuối tuần trước khoảng 20.000-30.000 lệnh thanh_toán đi và đến với số tiền 25 tỷ USD .
+" Như_vậy có_thể thấy hoạt_động giao_dịch của các ngân_hàng qua hệ_thống SWIFT là hoàn_toàn bình_thường và ổn_định " , ông Hùng cho_biết .
+Ông Hùng cho_biết thêm , TPBank trang_bị hạ_tầng kỹ_thuật tiên_tiến và hiện_đại .
+Nhà_băng này có khả_năng phát_hiện , xử_lý cuộc tấn_công hay các vụ lừa_đảo khác trên hệ_thống .
+Sự_việc xảy_ra hồi cuối năm 2015 đã được ngân_hàng xử_lý và không thất_thoát tài_chính .
+Trước đó , qua hệ_thống giám_sát và cảnh_báo rủi_ro của mình , TPBank đã phát_hiện một điện chuyển_tiền gian_lận hơn một_triệu Euro ( tương_đương 1,13 triệu USD ) qua dịch_vụ bên thứ_ba mà TPBank sử_dụng để kết_nối với hệ_thống điện chuyển_tiền toàn_cầu SWIFT .
+Nhờ phát_hiện sớm , điện chuyển_tiền này đã bị ngăn_chặn và vụ tấn_công không ảnh_hưởng đến hệ_thống của SWIFT cũng_như các giao_dịch khác của ngân_hàng với khách_hàng .
+Thanh_Thư

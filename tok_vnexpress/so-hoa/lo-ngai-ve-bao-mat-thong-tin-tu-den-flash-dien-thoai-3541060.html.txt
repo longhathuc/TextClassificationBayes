@@ -1,0 +1,19 @@
+Lo_ngại về bảo_mật thông_tin từ đèn flash điện_thoại
+Bật đèn flash để đọc thực_đơn trong nhà_hàng tối đã không bình_thường , sử_dụng nó để đọc tài_liệu về tên_lửa trong bữa tối thì có_thể là một nguy_cơ đối_với an_ninh quốc_gia .
+Bữa tối tại Mar-a-Lago , Florida ( Mỹ ) giữa Tổng_thống Mỹ_Donald_Trump và Thủ_tướng Nhật_Shinzo_Abe đang diễn ra thì ông Trump nhận được thông_tin rằng Triều_Tiên đã phóng thử một tên_lửa_đạn_đạo .
+Bằng sự hỗ_trợ của đèn flash trên điện_thoại_di_động , ông Trump và Abe đã cùng xem_xét các tài_liệu về tình_huống này .
+Trump nghe điện_thoại thông_báo về vụ phóng tên_lửa .
+Sau đó ông cùng Thủ_tướng Nhật đọc tài_liệu về vụ_việc dưới ánh đèn flash của điện_thoại .
+Bức ảnh được Richard_De Agazio , một nhà_đầu_tư có_mặt trong bữa tối , chụp lại và đăng lên Twitter ( hiện được chuyển sang chế_độ riêng_tư ) đã làm dấy lên mối lo_ngại về an_ninh .
+Các chuyên_gia bảo_mật nhận_định , chỉ cần một trong những điện_thoại đó bị khống_chế , hacker có_thể đã đọc được những thông_tin tối_mật .
+Hiện chưa rõ những smartphone nào tham_gia vào việc " soi đèn " và liệu chúng có được cài_đặt những công_cụ bảo_mật cao hơn mức bình_thường hay không , nhưng đa_số đều hiểu , smartphone luôn tồn_tại lỗ_hổng và có_thể bị kiểm_soát từ xa .
+Điều này đã được các chuyên_gia liên_tục cảnh_báo nhưng người dùng vẫn tỏ ra thờ_ơ vì nghĩ rằng " chắc hacker chừa mình ra " .
+" Không có smartphone nào an_toàn 100% " , chuyên_gia James_Lyne của công_ty bảo_mật Sophos ( Anh ) khẳng_định với CNN .
+Lyne cho_hay kẻ tấn_công luôn tìm ra kẽ hở để cài_đặt phần_mềm gián_điệp trên càng nhiều thiết_bị càng tốt , như lừa người dùng bấm vào một link chứa mã độc hay tải một ứng_dụng trông có_vẻ vô_hại nhưng cho_phép kích_hoạt các bộ_phận trong máy như camera , microphone ...
+Những phần_mềm đó sẽ ẩn mình trong thiết_bị một thời_gian dài và chờ cơ_hội thuận_lợi để khai_thác thông_tin .
+Hacker đang ngày_càng kiên_nhẫn hơn , như trong vụ APT30 , hãng FireEye của Mỹ nhận thấy tin_tặc đã âm_thầm cài cắm mã độc trong hàng_loạt máy_tính ở các nước Đông_Nam Á suốt 10 năm mà không ai hay .
+Công_cụ gián_điệp trên điện_thoại không phải điều mới_mẻ .
+Năm 2013 , cựu điệp_viên Edward_Snowden từng khuyến_cáo các luật_sư của ông cho điện_thoại vào tủ_lạnh trước khi bắt_đầu cuộc trao_đổi để tránh bị nghe lén .
+Năm 2014 , hãng bảo_mật Lookout phát_hiện bộ công_cụ khai_thác mã độc bị rao bán với khả_năng hỗ_trợ hacker kiểm_soát toàn_bộ thiết_bị Android .
+Năm 2016 , các chuyên_gia an_ninh tiếp_tục tìm ra hàng_loạt lỗ_hổng trên 900 triệu điện_thoại Android .   Khống_chế i Phone khó hơn , nhưng không có gì là bất_khả_thi .
+" Điện_thoại , nhất_là điện_thoại được bật flash để hình_ảnh được rõ_ràng hơn , giống như những chiếc xe truyền_hình vệ_tinh lưu_động và nếu bị khống_chế sẽ cung_cấp cho kẻ theo_dõi mọi thông_tin về những gì đang diễn ra xung_quanh " , báo Washington_Post cho_hay .

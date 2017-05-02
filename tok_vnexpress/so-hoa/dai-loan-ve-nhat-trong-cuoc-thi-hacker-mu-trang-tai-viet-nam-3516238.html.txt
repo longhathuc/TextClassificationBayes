@@ -1,0 +1,11 @@
+Đài_Loan về nhất trong cuộc_thi hacker mũ trắng tại Việt_Nam
+Sau 24 giờ tranh tài , đội 217 của Đài_Loan giành giải Nhất cuộc_thi an_ninh mạng toàn_cầu WhiteHat Grand_Prix 2016 .
+WhiteHat Grand_Prix 2016 do Bkav tổ_chức cuối tuần qua với chủ_đề Khám_phá Việt_Nam đã thu_hút hơn 500 đội tham_gia từ 52 quốc_gia , trong đó có 4 đội nằm trong top 10 thế_giới theo bảng xếp_hạng an_ninh mạng CTFTime .
+Cuộc_thi diễn ra liên_tục trong 24h từ ngày 17/12 đến 18/12 với lượng đề tăng gấp rưỡi so với năm_ngoái theo hình_thức Jeopardy , giải các câu_hỏi thuộc chủ_đề Web_Exploit ( lỗ_hổng web ) , Reverse ( dịch ngược ) , Pwnable ( khai_thác lỗ_hổng phần_mềm ) , Forensics ( điều_tra số ) và Crypto ( phá mã ) .
+Đội giành giải nhất sẽ nhận phần_thưởng là 10.000 USD ( 225 triệu đồng ) .
+Sau 24h , nhóm 217 đã giành giải nhất với phần_thưởng là 10.000 USD ( 225 triệu đồng ) .
+217 cũng là những hacker đã chiến_thắng trong cuộc_thi WhiteHat Grand_Prix 2015 .   Trong khi đó , có 5 đội của Việt_Nam lọt vào Top 10 ở các vị_trí thứ 2,3 , 6,7 và 9 .
+Bốn đội còn lại thuộc về Ba_Lan , Ukraina , Mỹ và Nga .
+Ông Nguyễn_Huy_Dũng , Phó_Cục trưởng Cục An toàn thông_tin thuộc Bộ Thông tin Truyền_thông , nhận_định tại cuộc_thi : " Trong bối_cảnh an_toàn thông_tin trên thế_giới và tại Việt_Nam tiếp_tục diễn_biến phức_tạp , vấn_đề phát_triển nguồn nhân_lực đã được đặt ra từ lâu .
+Những cuộc_thi như WhiteHat Grand_Prix thể_hiện sự chung tay của doanh_nghiệp , sự tham_gia của cộng_đồng trong việc đồng_hành cùng cơ_quan quản_lý_nhà_nước để thúc_đẩy hơn_nữa chất_lượng đào_tạo , tạo ra thao_trường cho những bạn trẻ quan_tâm đến an_toàn thông_tin " .
+Đại_diện Bkav cho_biết đã phối_hợp với năm trường đại_học Việt_Nam trong công_tác ra đề và cuộc_thi sẽ góp_phần đẩy_mạnh việc hợp_tác , nghiên_cứu và đào_tạo nguồn nhân_lực an_ninh mạng cho quốc_gia đồng_thời mở_rộng hoạt_động an_ninh mạng của Việt_Nam ra toàn thế_giới .

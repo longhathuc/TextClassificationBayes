@@ -1,0 +1,49 @@
+Trộm đã tìm cách lấy mật_khẩu i Cloud trên i Phone của tôi thế_nào
+Câu_chuyện của anh Đặng_Anh_Vũ kể về việc bị mất i Phone và tiến_trình kẻ_trộm lừa anh hòng chiếm mật_khẩu i Could trên máy .
+Anh Đặng_Anh_Vũ , một cây_viết trong lĩnh_vực ẩm_thực ( food blogger ) , cho_biết đã bị giật chiếc i Phone hôm 6/3 .
+Song không dừng lại tại đó , kẻ_trộm tỏ ra đầy am_hiểu về công_nghệ_thông_tin khi thực_hiện hàng_loạt bước nhằm có được tài_khoản Apple ID để mở khóa thiết_bị .
+Dưới đây là câu_chuyện được anh Vũ kể lại :
+" iPhone là một trong những chiếc điện_thoại phổ_biến có tính bảo_mật cao .
+Một trong những điều khiến kẻ_trộm ngán_ngẩm còn người dùng i Phone yên_tâm đó là i Cloud .
+Một chiếc i Phone bị khóa i Cloud .
+Mỗi chiếc i Phone được gắn với một tài_khoản i Cloud của chủ_nhân và nó được coi là chứng_minh quyền_sở_hữu với thiết_bị này .
+Tài_khoản i Cloud không_chỉ gắn chặt với i Phone mà_còn hỗ_trợ tất_cả thiết_bị khác trong hệ_sinh_thái của Apple như máy_tính , đồng_hồ , iPad ...
+Với chiếc i Phone của mình , sau khi bị giật , mình đã khoá i Cloud và đưa điện_thoại về chế_độ " bị mất " ( Lost_Mode ) .
+Có_nghĩa , bất_cứ khi nào điện_thoại được kết_nối Internet , nó sẽ tự_động bị khóa , đồng_thời thông_báo địa_điểm của máy cho mình thông_qua email .
+Khi i Phone bị khoá i Cloud , trộm không_thể truy_cập vào điện_thoại , dù có khôi_phục cài_đặt gốc , chạy lại phần_mềm ...
+Làm bất_kỳ điều gì mà không có mật_khẩu i Cloud chính chủ thì máy đó cũng chỉ như " cục gạch " .
+Nói cách khác , chiếc điện_thoại trị_giá 20 triệu đồng lúc này chỉ có cách rã lấy linh_kiện bán với giá rất rẻ chứ không_thể như một chiếc điện_thoại hoàn_chỉnh .
+Tuy_nhiên , tay cướp điện_thoại của mình không phải dạng vừa .
+Ngay sau khi giật được điện_thoại hắn đã tắt máy .
+Mình thì mất khá nhiều thời_gian để xử_lý mọi việc do khi ấy đang ở ngoài đường , làm lại sim phải về nhà lấy giấy_tờ tuỳ_thân .
+Mình cũng không_thể đăng_nhập được bất_kỳ mạng xã_hội hay email vì không có số điện_thoại bên mình để xác_thực .
+Mình mất 5 tiếng để làm mọi việc , từ mua điện_thoại mới , làm lại sim , di_chuyển giữa các địa_điểm .
+Đến khi có số điện_thoại trong tay , mình mới phát_hiện ra tài_khoản Gmail của mình đã bị ai đó đổi mật_khẩu và không_thể truy_cập được .
+Mất thời_gian suy_nghĩ và những dấu_hiệu sau đó thì mình cho rằng khả_năng rất cao kẻ_trộm chính là người đã đổi mật_khẩu Gmail của mình nhằm mở khóa i Cloud .
+Trình_tự thực_hiện mình suy_đoán như sau :
+Chiếm tài_khoản email
+Sau khi cướp được i Phone , kẻ_trộm sẽ tắt máy , tháo sim rồi lắp nó sang máy khác .
+Chỉ cần gọi điện đến một_số khác , hắn sẽ biết được số điện_thoại mà mình đang dùng .   Khi có được số điện_thoại , chỉ cần tìm_kiếm trên Google bằng thông_tin đó , nó sẽ có_thể biết được hàng_loạt dữ_liệu khác của mình như tên_tuổi , địa_chỉ email hay Facebook ...
+Tiếp đến , kẻ_trộm đặt lại mật_khẩu Gmail của mình .
+Bước này sẽ rất đơn_giản khi mà hắn nắm được số điện_thoại của mình trong tay .
+Google sẽ gửi về một mã_số xác_nhận và chỉ cần nhập đúng là chiếm được hộp_thư điện_tử .   Mục_tiêu của việc có được Gmail là nhằm tiếp_cận i Cloud , bởi mình và nhiều người thường lấy Gmail làm tài_khoản đăng_ký .
+Đặt lại mật_khẩu i Cloud
+Trang lấy lại mật_khẩu i Cloud .
+Thông_thường , có được email , việc chiếm luôn i Cloud rất dễ , bởi chỉ cần vào website của Apple để đặt lại .
+Thông_tin về mật_khẩu i Cloud mới sẽ được gửi qua hộp_thư mà lúc này kẻ_trộm đã kiểm_soát được .
+Nếu bước này thực_hiện trót_lọt , chiếc i Phone của mình sẽ được mở khóa và có_thể bán giá cao như một chiếc máy cũ thông_thường .
+Tuy_nhiên , trước đó mình đã kích_hoạt tính_năng bảo_mật 2 lớp ( Two-factor authentication ) nên mọi chuyện diễn ra phức_tạp hơn .
+Với người dùng nhiều thiết_bị của Apple ,   khi đăng_nhập i Cloud trên một máy mới hoặc khi đặt lại mật_khẩu thì cần xác_thực từ một trong những thiết_bị khác đã đăng_nhập trước đó .
+Bởi tên trộm chỉ có chiếc i Phone trong tay nên điều này là không_thể .
+Ngoài_ra , còn cách khác tương_tự đặt lại mật_khẩu Gmail là gửi xác_thực về số điện_thoại .
+Song_Apple ID của mình có thêm thẻ Master_Card nên ngoài việc nhập mã_số xác_nhận gửi về điện_thoại thì còn phải điền đầy_đủ thông_tin   thẻ_tín_dụng .
+Do bế_tắc ở đây nên tên trộm vẫn chưa lấy_được i Cloud của mình .
+Lúc này mình cũng đã làm lại sim nên sim cũ bị khóa .
+Bẫy nạn_nhân lấy i Cloud
+Tin nhắn dụ nạn_nhân đăng_nhập   nhằm đánh_cắp tài_khoản i Cloud .
+Mọi việc không dừng lại tại đó , hôm_sau tên trộm gửi đến số điện_thoại của mình một tin nhắn với nội_dung nói rằng điện_thoại bị mất của mình đã được định_vị , yêu_cầu đăng_nhập để xem thông_tin .
+Số điện_thoại gửi đến mang đầu số nước_ngoài , đường link website dẫn đến trang có giao_diện rất giống của Apple nhưng chỉ là trang giả_mạo .
+Rất may mình đủ tỉnh_táo để nhận ra_điều này vì có biết được thông_tin lừa_đảo tương_tự trên các phương_tiện truyền_thông .
+Nếu vô_tư nhập tài_khoản và mật_khẩu i Cloud thì kẻ_trộm đã đạt được mục_đích , chiếc i Phone sẽ được mở khóa " .
+Các gợi_ý để nâng cao bảo_mật
+Đặng_Anh_Vũ

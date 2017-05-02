@@ -1,0 +1,28 @@
+Các ' ông trùm ' công_nghệ quan_tâm đến thị_trường di_động Việt_Nam
+Không_chỉ đến Việt_Nam buôn_bán phần_cứng , các ông trùm công_nghệ thế_giới đang tiến mạnh vào mảng ứng_dụng phần_mềm , tìm_kiếm những tài_năng lập_trình và mở_rộng quy_mô người dùng tại thị_trường này .
+Ông Huỳnh_Kim_Tước -   Đại_diện Facebook tại Việt_Nam nhận_định , Việt_Nam đang gặp " thiên_thời , địa_lợi " với dân_số vàng hơn 32 triệu người_ở độ tuổi lao_động , chỉ sau Trung_Quốc , Ấn Độ .
+“ Mặt_bằng chung , Việt_Nam không_thể tham_gia được vào các nước G7 , nhưng nếu là Internet và Online thì chúng_ta có_thể đi_tắt_đón_đầu và nhảy_cóc .
+Nước_ngoài họ cũng nhận_xét như_vậy , nhưng hiện_tại Việt_Nam vẫn chưa tận_dụng được cơ_hội đó ” , ông Tước nói .
+Theo số_liệu báo_cáo gần đây , tăng_trưởng người dùng Facebook tại Việt_Nam đang ở mức cao nhất châu Á , điều này giúp Facebook chiếm vị_trí lợi_thế trên kênh quảng_cáo mạng xã_hội .
+Vượt_trội về dữ_liệu khách_hàng và người dùng trên di_động đã giúp Facebook thu_hút hơn 50% chi_phí marketing của các nhãn hàng và 85% từ doanh_nghiệp trò_chơi trực_tuyến .
+Lượng người dùng lẫn nhà_phát_triển đông_đảo của Việt_Nam đang lôi_kéo sự chăm_chút của các " ông trùm " công_nghệ thế_giới , không_chỉ riêng gì Facebook .
+Microsoft cho_biết , số_lượng lập_trình_viên Xamarin ( Xamarin là một nền_tảng lập_trình di_động ) tại Việt_Nam đang đứng trong top đầu của Châu Á - Thái_Bình_Dương .
+Vì_thế , không có gì ngạc_nhiên khi hãng này chọn Việt_Nam là điểm đến của rất nhiều hoạt_động nhằm giới_thiệu hệ_sinh_thái Microsoft_Azure của mình .
+Đơn_cử là một diễn_đàn lớn vừa được tổ_chức vào tháng 2 vừa_qua .
+Google cũng không nằm ngoài cuộc_chơi .
+Theo giới lập_trình Android , Google liên_tục có nhiều hoạt_động huấn_luyện , hỗ_trợ , tư_vấn cho các nhà_phát_triển Việt_Nam trong thời_gian gần đây .
+Theo một chuyên_gia trong ngành , Google đánh_giá cao tài_năng của các nhà_lập_trình Việt .
+Tuy_nhiên , điểm yếu của không ít nhà_lập_trình là họ quan_tâm quá nhiều đến kỹ_thuật mà chưa thực_sự chú_trọng đến các quy_định khác khi phát_hành ứng_dụng lên Google_Play .
+“ Google đang quan_tâm khá mạnh đến các nhà_lập_trình Việt_Nam .
+Tuy_nhiên , một vấn_đề là có nhiều ứng_dụng được phát_hành lên kho nhưng lại không tìm_hiểu kỹ các quy_định của hãng , ví_dụ như bản_quyền , sở_hữu_trí_tuệ … Vì_thế , có_khi ứng_dụng đang tăng_trưởng người dùng tốt thì lại bị gỡ mất .
+Có nhiều bạn kiếm được hàng trăm triệu đồng doanh_thu mỗi tháng từ ứng_dụng của mình .
+Tuy_nhiên , khi hỏi đến bản_quyền thì lại không biết .
+Hỏi vì_sao ứng_dụng bị lỗi cũng không rõ ” , vị chuyên_gia nhận_xét .
+“ Xu_hướng kết_hợp giữa các hệ_thống ảo và thực_thể , vạn_vật kết_nối Internet ( IoT ) và các hệ_thống kết_nối Internet ( IoS ) hay còn gọi_là Cuộc cách_mạng_công_nghiệp lần thứ_tư đang làm thay_đổi diện_mạo thế_giới , Việt_Nam không nằm ngoài cơn sóng đó .
+Trung_tâm của cuộc cách_mạng chính là sự xuất_hiện của thế_hệ các thiết_bị di_động cùng các ứng_dụng ' theo chân ' người sử_dụng mọi lúc mơi nơi ” , ban tổ_chức diễn_đàn Vietnam_Mobile_Day 2017 nhận_định .
+Tận_dụng cơ_hội này , theo đánh_giá của ông Nguyễn_Hữu_Bình – Trưởng_ban tổ_chức , các startup trong lĩnh_vực di_động tại Hà_Nội đang có phần đông_đảo và năng_động hơn các startup tại TP_HCM .
+Ông cho_biết đã chứng_kiến nhiều thương_vụ đầu_tư hơn vào cộng_đồng khởi_nghiệp di_động ở phía bắc .
+Tuy_nhiên , về mặt_bằng chung thì công_nghệ di_động đều đang phát_triển mạnh ở các thành_phố lớn là Hà_Nội , TP_HCM và Đà_Nẵng .
+Cũng nhờ đó , Vietnam_Mobile_Day năm nay dự_kiến thu_hút được hơn 15.000 lượt người và 300 công_ty tham_dự ở cả 3 thành_phố .
+Đây là kỳ tổ_chức có quy_mô lớn nhất của sự_kiện , sẽ diễn ra_vào cuối tháng 5 đầu tháng 6 tới .
+Viễn_Thông

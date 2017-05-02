@@ -1,0 +1,23 @@
+Nhiều i Phone 6/6 Plus bị liệt cảm_ứng
+Việc i Phone 6/6 Plus bị liệt cảm_ứng đã được ghi_nhận từ tháng 4/2016 và tăng mạnh trong tháng 7 , tháng 8 gây lo_ngại cho người dùng , nhưng Apple vẫn chưa đưa ra lời giải_thích chính_thức về vấn_đề này .
+iFixit   cho_biết " bệnh cảm_ứng " ( Touch_Diease ) khiến i Phone 6/6 Plus không phản_hồi khi chạm vào màn_hình .
+Người dùng có_thể bẻ nhẹ smartphone để sử_dụng trở_lại nhưng chỉ trong thời_gian ngắn .
+Nếu thực_hiện nhiều lần , iPhone còn có thêm tình_trạng các đường xám nhạt xuất_hiện ở phía thanh trạng_thái .
+Cuối_cùng , đường này lan_rộng và màn_hình hỏng hoàn_toàn .
+" Bạn có_thể thay màn_hình , nhưng tình_trạng liệt cảm_ứng chắc_chắn sẽ tiếp_diễn , bởi vấn_đề không nằm ở bộ_phận này mà là vi_xử_lý điều_khiển nó ( U2402 Meson_Touch IC ) .
+Có 2 nguyên_nhân : chip điều_khiển bị lỗi trong quá_trình sản_xuất ; hoặc do i Phone 6 dễ bị cong vênh khi sử_dụng , khiến các mối tiếp_xúc trên chip bị nhả khỏi bo_mạch_chủ , từ đó không_thể điều_khiển cảm_ứng " , chuyên_gia của i Fixit giải_thích .
+Các đường   xám nhạt   xuất_hiện khi i Phone 6 liệt cảm_ứng .
+Theo   Phoneareana , rất nhiều trường_hợp báo_cáo i Phone 6/6 Plus bị hỏng cảm_ứng thời_gian qua , đỉnh_điểm vào tháng 7 và tháng 8 .
+Rami_Odeh , một nhân_viên sửa_chữa điện_thoại tại New_Orleans ( Mỹ ) , cho_biết đã có hơn 100 trường_hợp sửa i Phone 6/6 Plus tại cửa_hàng ông liên_quan đến cảm_ứng mỗi tháng .
+Còn theo Jason_Villmer , Giám_đốc chuỗi cửa_hàng sửa_chữa điện_thoại STS Telecom ở Missouri , việc i Phone 6/6 Plus hỏng cảm_biến không khiến ông ngạc_nhiên .
+" Vấn_đề này tôi đã được các nhân_viên báo_cáo từ nhiều tháng nay .
+Nó phổ_biến đến_nỗi tôi cảm_thấy chiếc i Phone 6/6 Plus nào cũng đang là một quả bom đang chờ phát_nổ " , Villmer nhấn_mạnh .
+Thậm_chí , lỗi cảm_ứng của bộ đôi điện_thoại ra_mắt năm 2014 cũng được báo_cáo với tần_suất ngày_một tăng trên trang hỗ_trợ của Apple và các nhân_viên kỹ_thuật cũng quá quen với nó .
+Tuy_nhiên , họ lại cho rằng vấn_đề không phải từ nhà_sản_xuất nếu i Phone hết hạn bảo_hành và đa_phần khuyên khách_hàng nên mua điện_thoại mới .
+Vị_trí chip điều_khiển cảm_ứng trên i Phone 6/6 Plus .
+" Tình_trạng chết cảm_ứng trên i Phone 6/6 Plus xảy_ra rất nhiều , và Apple nên có động_thái tích_cực hơn , như sửa miễn_phí cho những máy bị lỗi này , hoặc thu_hồi sản_phẩm " , Michael_Huie , một chuyên_gia sửa_chữa điện_thoại , cho_biết .
+Các chuyên_gia khuyên rằng , khi gặp phải sự_cố , người dùng nên mang thiết_bị của mình đến các trung_tâm của Apple nếu đang trong thời_gian bảo_hành .
+Còn nếu_không , hãy lựa_chọn một cửa_hàng uy_tín để thay mới chip điều_khiển .
+Tất_nhiên , chi_phí sửa_chữa không hề rẻ và cũng không đảm_bảo nó sẽ hoạt_động trơn_tru được bao_lâu .
+Lỗi liệt cảm_ứng trên i Phone 6 Plus :
+Bảo_Lâm

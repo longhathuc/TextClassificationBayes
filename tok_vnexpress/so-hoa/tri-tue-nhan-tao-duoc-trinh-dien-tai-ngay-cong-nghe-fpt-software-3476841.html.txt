@@ -1,0 +1,15 @@
+Trí_tuệ_nhân_tạo được trình_diễn tại ngày công_nghệ FPT Software
+Hơn 600 sinh_viên đã trải_nghiệm công_nghệ AI , Robotic , IoT , Cloud , Big_Data thông_qua những ứng_dụng do các chuyên_gia của FPT Software nghiên_cứu và phát_triển .
+Ngày 30/9 , Công_ty FPT Software phối_hợp với Đại_học Bách_Khoa_Đà_Nẵng tổ_chức Ngày công_nghệ FPT Software_Tech_Day 2016 .
+Sự_kiện thu_hút gần 650 sinh_viên từ 8 trường của thành_phố Đà_Nẵng .
+Các sinh_viên đã có dịp tiếp_cận xu_hướng   công_nghệ mới mà FPT Software đang tham_gia nghiên_cứu và phát_triển .   Chẳng
+hạn , công_nghệ điện_toán nhận_thức ( Cognitive_Computing / AI ) là những hệ_thống có khả_năng học_hỏi ở quy_mô nhanh và sâu , luận_giải có mục_đích và tương_tác với con_người thông_qua ngôn_ngữ_tự_nhiên .
+Công_nghệ này đang tạo một cơn bão trong lĩnh_vực trí_tuệ_nhân_tạo , nhất_là sau khi hệ_thống   AlphaGo của Google đánh_bại nhà_vô_địch Lee_Se - dol trong môn cờ_vây , hay IBM Watson chiến_thắng nhà_vô_địch Brad_Rutter và Ken_Jennings trong trò_chơi đố chữ Jeopardy .
+Không nằm ngoài xu_hướng , FPT Software cũng đang áp_dụng trực_tiếp những tiến_bộ công_nghệ này vào các bài_toán thực_tế cho các doanh_nghiệp nhằm giúp phân_tích các tập dữ_liệu lớn , đặc_biệt là tập dữ_liệu dạng chuỗi thời_gian , để tìm ra thông_tin hữu_ích .
+phục_vụ khách_hàng tốt hơn .
+Ví_dụ , FPT Software đã ứng_dụng Cognitive_Computing / AI vào bài_toán tìm chỗ đỗ xe tự_động cho một doanh_nghiệp trong lĩnh_vực logistic tại Mỹ và bài_toán tự_động đếm số_lượng người đi vào cửa_hàng từ camera an_ninh với độ_chính_xác cao cho một doanh_nghiệp bán_lẻ lớn tại Việt_Nam .
+Với công_nghệ Robotics/Smart Platform , FPT Software đang hợp_tác Softbank và Tổ_chức giáo_dục Hoa_Kỳ ( IAE ) để đưa robot mang tên NAO vào trong lĩnh_vực dạy tiếng Anh ở Việt_Nam .
+Robot NAO sẽ hỗ_trợ giáo_viên trong các hoạt_động lớp_học , như tương_tác với học_viên , kiểm_tra nghe_nói và thực_hành tình_huống giao_tiếp , hướng_dẫn các em nhỏ phát_âm chuẩn ...
+Ngoài_ra , các sinh_viên cũng có dịp trải_nghiệm thực_tế nhiều ứng_dụng như Rogo_Alpha ( thiết_bị trung_tâm có khả_năng tương_tác với thiết_bị điện_tử trong nhà ) , ADAS ( hệ_thống hỗ_trợ lái_xe an_toàn thông_qua công_nghệ cảnh_báo và kiểm_soát sớm các nguy_cơ ) , OpenFPT ( chia_sẻ và kết_nối công_nghệ của FPT ra ngoài cộng_đồng ) .
+FPT Software đang hướng đến mục_tiêu 1 tỷ USD doanh_thu năm 2020 .
+Bên_cạnh dịch_vụ CNTT truyền_thống , công_ty đang đẩy_mạnh nghiên_cứu và phát_triển dịch_vụ / giải_pháp trên nền các công_nghệ mới , đồng_thời đẩy_mạnh tuyển_dụng để đạt quân_số 30.000 người vào năm 2020 .

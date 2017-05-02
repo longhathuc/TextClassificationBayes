@@ -1,0 +1,15 @@
+ATM gặp sự_cố ' nhả ra giấy '
+Trước việc một chủ thẻ rút_tiền tại ATM nhận được tờ giấy in số 500.000 VND thay_vì tiền thật , đại_diện ngân_hàng lý_giải do giao_dịch được tiến_hành khi máy đang chạy thử_nghiệm nên tiền thật chưa được đặt vào khay dẫn đến sự_cố hy_hữu này .
+Sự_việc xảy_ra sáng 1/3 tại một ATM của PVcomBank ở Big C_Thăng_Long ( Hà_Nội ) .
+Một chủ thẻ của VIB rút 500.000 đồng nhưng thay_vì nhận được tiền đủ mệnh_giá này , khách_hàng bất_ngờ khi thấy ATM nhả ra một tờ giấy màu xanh hình_chữ_nhật có in số 500.000 .
+Ngay sau đó , tin nhắn của chủ thẻ thông_báo tiền đã bị trừ trong tài_khoản .
+Chủ thẻ rút_tiền tại PVcomBank nhưng ATM lại nhả ra tờ giấy dạng demo , in số .
+Chia_sẻ với báo_chí , đại_diện PVcomBank thừa_nhận đây là một sự_cố do hôm_nay ngân_hàng tiến_hành lắp_đặt và chạy thử_nghiệm ATM mới cũng_như nâng_cấp hệ_thống .
+Ngân_hàng giải_thích , ATM tại Big C_Thăng_Long sáng nay được tiến_hành thử_nghiệm bởi nhà_thầu và chưa được bàn_giao cho ngân_hàng .
+Sở_dĩ chủ thẻ gặp trường_hợp trên là do đã tiến_hành giao_dịch đúng lúc nhân_viên nhà_thầu đang xử_lý đường truyền tạm_thời vắng_mặt tại ATM .
+Khi chạy thử_nghiệm , trong khay tiền_của ATM chưa có tiền thật mà được đặt tiền mẫu demo .
+" Do đang trong quá_trình chạy thử và nhà_thầu chưa bàn_giao kĩ_thuật cho PVcomBank nên tiền thật chưa được tiếp quỹ và khách_hàng đã rút ra tiền mẫu demo " , đại_diện PVcomBank cho_hay .
+Sau khi tiếp_nhận thông_tin , PVcomBank ngay_lập_tức đã thực_hiện việc tra soát để hoàn_trả tiền cho khách_hàng .
+Sự_cố do quá_trình thi_công của nhà_thầu này đã nhanh_chóng được PVcomBank khắc_phục để đảm_bảo hệ_thống ATM mới được vận_hành thông_suốt .
+Trước đó , việc tiến_hành nâng_cấp hệ_thống cũng đã được PVcomBank thông_báo tới các khách_hàng qua tin nhắn .
+Tuy_nhiên , việc chiếc máy ATM tại Big C_Thăng_Long đang trong quá_trình chạy thử_nghiệm , chưa có tiền thật , lại không được cảnh_báo cho khách_hàng có nhu_cầu giao_dịch đã dẫn đến sự_cố này .

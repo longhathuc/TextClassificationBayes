@@ -1,0 +1,24 @@
+Đáp_án bài_toán về những chú sóc
+Bài_toán về những chú sóc trong đề thi Toán_học quốc_tế khá đơn_giản với nhiều người .
+Tuy_nhiên , suy_luận để tìm ra cách giải trong thời_gian ngắn không phải dễ .
+Đề_bài :
+Năm chú sóc A , B , C , D và E đang cùng ngồi trên một đường_thẳng .
+Chúng sẽ nhặt 6 quả hạch được đánh_dấu bởi dấu “ * ” .
+Tại mỗi thời_điểm , những chú sóc sẽ chạy về ­ ­ ­ phía quả hạch gần nhất với tốc_độ như nhau .
+Ngay khi chú sóc nhặt được một quả hạch thì nó sẽ tiếp_tục chạy đến chỗ quả hạch gần nó nhất .
+Hỏi chú sóc nào có_thể nhận được 2 quả hạch ?
+Đáp_án : chú sóc C .
+Kí kiệu các quả hạch từ trái qua phải lần_lượt là 1 , 2 , 3 , 4 , 5 , 6 như hình_vẽ .
+Do mỗi lần chạy các chú sóc chạy đến những quả hạch gần nhất và cùng vận_tốc nên ta có :
+Lần 1 :   Sóc A chạy đến quả hạch 1 .
+Sóc B chạy đến quả hạch 2 .
+Sóc C chạy đến quả hạch 3 .
+Sóc D chạy đến quả hạch 5 .
+Sóc E chạy đến quả hạch 6 .
+Sóc A , C , D và E nhặt hạch đầu_tiên và cùng lúc .
+Trong khi đó sóc B còn cách hạch 22 đơn_vị độ dài .
+Lần 2 : Sóc A sẽ hướng về quả hạch 2 nhưng chú sẽ không được như_ý vì sóc B gần hơn .
+Sóc C , D và E sẽ cùng hướng về quả hạch 4 ; chú sóc C sẽ thắng vì chú gần hạch 4 hơn .
+Như_vậy chú sóc C nhặt được 2 quả hạch .
+Trần_Phương
+> > Đố bạn giải nhanh bài_toán ' bắt_tay ' lớp 9 > > Bài_toán chia táo có_thể khiến bạn nhầm_lẫn

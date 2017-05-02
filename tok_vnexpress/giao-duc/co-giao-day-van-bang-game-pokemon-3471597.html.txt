@@ -1,0 +1,24 @@
+Cô_giáo dạy Văn_bằng game Pokemon
+Từ ý_tưởng trò_chơi Pokemon , cô Trịnh_Thị_Minh_Hương ( trường THPT Phú_Nhuận , TP_HCM ) đã tạo game giúp học_sinh lớp 10 vừa chơi vừa học môn Văn .
+Dự_án " Học_Văn qua game " của cô Trịnh_Thị_Minh_Hương , giáo_viên trường THPT Phú_Nhuận , được đánh_giá cao về ý_tưởng và hiệu_quả mang lại trong   cuộc_thi " Giáo_viên sáng_tạo trên nền_tảng công_nghệ_thông_tin năm 2016 " của ngành giáo_dục TP_HCM .
+" Trong một lần lên_lớp hồi đầu năm thấy nhóm học_trò đang say_sưa chơi game .
+Game - xưa_nay vốn bị nhiều người gán cho " định_kiến " không tốt , làm hư trẻ nhưng tại_sao học_trò của mình lại say_mê như_vậy .
+Có cách nào khiến các em mê học môn Văn như mê game ? " , cô Hương kể về ý_tưởng làm game môn Văn .
+Cô_giáo thử làm một khảo_sát nhanh trên mạng và có đến 90% học_sinh trả_lời muốn học Văn_bằng game .   Đầu tháng 3 , cô thực_hiện dự_án với sự hỗ_trợ từ học_trò .
+Game này lấy những câu_hỏi trong bài_học " Khái_quát lịch_sử tiếng Việt " ở chương_trình Ngữ_văn lớp 10 .
+" Học_Văn qua game " mô_phỏng game phiêu_lưu nhập_vai để giúp học_sinh gần_gũi hơn với chương_trình giáo_khoa .
+Nhân_vật trong game đóng vai một sĩ_tử , hằng ngày đến thư_viện tìm sách , ôn bài để chuẩn_bị cho kỳ thi trạng_nguyên .
+Mỗi trang sách được giở ra , sĩ_tử lại có được những kiến_thức mới , súc_tích , như : " Tiếng_Việt có nguồn_gốc bản_địa vì nó xuất_hiện và phát_triển rất sớm trên lưu_vực sông Hồng và sông Mã trong một xã_hội có nền văn_minh nông_nghiệp đạt tới trình_độ cao " .
+Sau khi học được bài đầu_tiên này , nhân_vật bắt_đầu hành_trình với những chướng_ngại_vật trong game - những câu_hỏi kiến_thức mà người chơi phải vượt qua .
+Mỗi câu_hỏi sẽ có 4 đáp_án , trả_lời đúng thì được đi tiếp để rút ngắn thời_gian đến cung_điện , trả_lời sai phải quay lại một đoạn .
+Các câu_hỏi được đưa vào game khá cô_đọng , giúp học_sinh nắm được ý chính của bài một_cách dễ_dàng : " Những tác_phẩm được viết bằng chữ Nôm ? " hay " Người có công lớn trong việc tạo ra chữ Quốc_ngữ ? " .
+Để tạo sự gần_gũi , cô Hương thiết_kế hình_ảnh " Học_Văn qua game " khá giống như phối_cảnh của trường THPT Phú_Nhuận kết_hợp đồ_họa như game Pokemon đã quen_thuộc với nhiều học_sinh .
+Không_chỉ đặt câu_hỏi để kiểm_tra kiến_thức , cô Hương còn lồng_ghép những kỹ_năng sống cho học_trò như nói lời cảm_ơn , cách vượt qua khó_khăn ...
+Không_gian của game chính là thư_viện với ý nhắc_nhở học_trò về thói_quen chăm đọc sách .
+" Sau khi làm xong game này , tôi thấy như được học_hỏi chính học_trò nhiều điều , thấy cô trò gắn_bó , thân_thiết hơn .
+Tiết học Văn không trở_nên buồn_ngủ , nặng_nề nữa mà bây_giờ như một cuộc trò_chuyện , hỏi_đáp giữa cô và trò " , cô Hương hào_hứng kể .
+Trước mỗi tiết dạy , cô lại nhắc học_trò tải phần_mềm , cài_đặt và chơi .
+Lên_lớp , cô đặt ra những câu_hỏi kiểm ra kiến_thức liên_quan và giải_đáp những thắc_mắc của học_sinh .
+Hiện , game học Văn của cô Hương được đưa lên trang_web của THPT Phú_Nhuận để học_sinh lớp 10 của trường có_thể tải về sử_dụng .
+Lê_Trần_Tuấn_Kiệt ( học_sinh lớp 11A6 ) nói em khá thích_thú với game này và thỉnh_thoảng vẫn chơi lại để ôn_tập kiến_thức môn Văn lớp 10 .   " Trước em phải mất gần một tiếng để hoàn_thành game nhưng bây_giờ quen rồi nên chỉ mất khoảng 15 phút " , Kiệt nói và mong_muốn cô Hương tiếp_tục làm game học Văn cho học_sinh các lớp trên .
+Mạnh_Tùng

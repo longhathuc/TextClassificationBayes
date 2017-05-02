@@ -1,0 +1,26 @@
+5 xu_hướng robot năm 2016
+Cách_mạng robot ở Trung_Quốc , robot giao hàng , và robot có_thể dạy lẫn nhau là những xu_hướng phát_triển robot nổi_bật trong năm 2016 .
+Theo MIT Technology_Review , nền kinh_tế lớn nhất thế_giới đã bắt_tay vào một dự_án táo_bạo để đưa robot sản_xuất tiên_tiến vào các nhà_máy .
+Chính_phủ Trung_Quốc hy_vọng điều này sẽ giúp đất_nước duy_trì ngành công_nghiệp sản_xuất khổng_lồ trong bối_cảnh tiền_lương của người lao_động tăng cao , giúp sản_xuất trở_nên hiệu_quả hơn với những công_nghệ tối_tân trên thế_giới .
+Nỗ_lực này đòi_hỏi những robot hiện_đại cũng_như giá_thành hợp_lý hơn .
+Quy_mô của cuộc cách_mạng robot mới ở Trung_Quốc rất lớn .
+Tỉnh Quảng_Đông , trung_tâm công_nghệ của Trung_Quốc , sẽ đầu_tư 154 tỷ USD cho dự_án đưa robot vào sản_xuất .
+Sáng_lập viên của Foxconn , một công_ty sở_hữu lượng lao_động lớn chuyên sản_xuất linh_kiện điện_thoại i Phone của Apple , cho_biết sẽ lắp_đặt hơn một_triệu robot trong vài năm tới .
+Robot luôn là sự lựa_chọn hiệu_quả cho những công_việc cần độ_chính_xác cao và lặp_đi_lặp_lại .
+Tuy_nhiên , các robot truyền_thống chỉ được sử_dụng trong các điều_kiện làm_việc được thiết_kế trước một_cách cẩn_thận , và khó thích_ứng với công_việc mới , hay không_thể đối_phó với tình_huống đột_xuất .
+Dưới tác_động của kỹ_thuật hiện_đại và thuật_toán xử_lý tiên_tiến , thế_hệ robot mới có_thể " học " nhanh và hiệu_quả hơn , giúp giải_quyết những tình_huống bất_ngờ .
+Nhiều phương_pháp giúp robot " học " cho kết_quả thí_nghiệm rất hứa_hẹn .
+Trong số đó , " deep learning " là phương_pháp cho_phép robot tiếp_thu nhiều tầng biểu_đạt cả cụ_thể lẫn trừu_tượng , qua đó làm rõ nghĩa của các loại dữ_liệu như hình_ảnh , âm_thanh và văn_bản , có_thể tạo ra ảnh_hưởng lớn tới nền công_nghiệp robot .
+Một xu_hướng khác được tiên_đoán cho năm 2016 là robot có_thể chia_sẻ những kiến ​ ​ thức mà chúng biết với các robot khác .
+Kỹ_năng này có_thể thúc_đẩy quá_trình học của robot , cho_phép một robot được hưởng lợi từ nỗ_lực của những robot khác .
+Hơn_nữa , nhờ cách tiếp_cận thông_minh để thích_ứng với các hệ_thống thông_tin khác_nhau , hai robot hoàn_toàn khác_nhau có_thể dạy nhau cách nhận_biết một đối_tượng cụ_thể hoặc thực_hiện một nhiệm_vụ mới .
+Một_số dự_án đang được tiến_hành nhằm mục_đích cung_cấp những phương_pháp đơn_giản và hiệu_quả để tích_hợp khả_năng đọc hiểu của robot thông_qua mạng Internet .
+Nếu áp_dụng thành_công điều này trong môi_trường công_nghiệp , hiệu_quả công_việc sẽ nâng cao đáng_kể .
+Một_số robot " nhân_cách_hóa " được nghiên_cứu để ra_mắt trong năm nay .
+Phần_cứng rẻ hơn và phần_mềm linh_hoạt hơn giúp tạo ra những robot vừa giúp_việc nhà vừa là bạn đồng_hành trong gia_đình .
+Tuy_nhiên , tạo ra một robot với những tính_cách cá_nhân thực_sự không dễ_dàng .
+Một_số nguyên_mẫu đã gây thất_vọng , trong khi những robot thử_nghiệm thành_công vẫn còn hạn_chế ở một_vài vai_trò như gặp_gỡ và chào_hỏi mọi người trong cửa_hàng .
+Ngay cả trong những vai_trò hạn_chế , các robot này cần được thiết_kế và lập_trình cẩn_thận để thể_hiện các tư_duy xã_hội và tình_cảm đúng_đắn .
+2016 có_thể là năm đánh_dấu lần đầu cất_cánh của thiết_bị bay không người lái .
+Cục Hàng không Liên_bang Mỹ đã ban_hành quy_định về đăng_ký bay không người lái vào cuối năm 2015 , mở ra ngành công_nghệ điều_khiển giao_thông trên không cho máy_bay tự_hành .
+Thanh_Tùng

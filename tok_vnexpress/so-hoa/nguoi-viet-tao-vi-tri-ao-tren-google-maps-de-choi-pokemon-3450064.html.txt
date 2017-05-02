@@ -1,0 +1,20 @@
+Người_Việt tạo vị_trí ảo trên Google_Maps để chơi Pokemon
+Với mục_đích tạo các PokeStop để lấy vật_phẩm miễn_phí gần khu_vực mình đang sinh_sống , người chơi Pokemon_Go đã liên_tục gửi yêu_cầu vị_trí lên Google_Maps , và rất nhiều trong số đó không có thật .
+Trong_Pokemon_Go , một nơi không_thể thiếu đó là PokeStop – khu_vực người chơi nhận các vật_phẩm miễn_phí .
+Đây thường là các địa_điểm công_cộng , nhiều người qua_lại và nó căn_cứ vào dữ_liệu bản_đồ của Google .
+Tại_Việt_Nam , theo ghi_nhận của những người chơi tựa game đang " nổi_đình_nổi_đám " này , số_lượng PokeStop vẫn rất ít so với nhu_cầu , chủ_yếu tập_trung ở các thành_phố lớn .
+Cũng chính vì điều đó , khá nhiều game thủ đã thông_qua công_cụ Google_Maps_Maker để yêu_cầu lên đội_ngũ kiểm_duyệt vị_trí của Google_Maps tại Việt_Nam thêm vị_trí mới , nhằm tăng số_lượng PokeStop tại Việt_Nam .
+Ghi_nhận trên mạng Internet , không thiếu các bài viết trình_bày cách_thức sử_dụng công_cụ này .
+Đại_diện đội_ngũ kiểm_duyệt Google_Maps tại Việt_Nam , anh Lanh_Đồng , thừa_nhận đang có tình_trạng người dùng thêm địa_điểm mới vô_tội_vạ hoặc chỉnh_sửa sai địa_điểm đang có .
+Thậm_chí , họ còn thêm các địa_điểm không đúng sự_thật , và việc đặt tên có liên_quan đến Pokemon như " Đại_học Pokemon " , " gym poke " , " nhà của Pokemon " …
+Một địa_điểm không đúng với thực_tế   được tạo trên Google_Maps_Maker .
+" Cứ mỗi 10 giây , chúng_tôi lại nhận một địa_điểm được thêm mới trên Google_Maps tại Việt_Nam , và nhiều trong số đó là các vị_trí không đúng sự_thật , hoặc bị chỉnh_sửa tên liên_quan đến Pokemon .
+Tốc_độ này tăng trong khoảng 3 ngày gần đây , khiến đội_ngũ kỹ_thuật làm_việc cực_kỳ vất_vả " , anh Đồng cho_biết .
+Anh Đồng cũng chia_sẻ rằng , việc_làm của những người này không_thể qua mắt được đội_ngũ kiểm_duyệt .
+Tuy_nhiên , họ nên ngừng việc đó lại , hoặc khai_báo địa_điểm đúng với sự_thật .
+Nếu_không , hậu_quả mà nó để lại là rất lớn .
+" Nhiều cá_nhân vì chút lợi_ích khi chơi game mà sẵn_sàng tạo ra các địa_điểm ảo và điều này không tốt một_chút nào .
+Nếu các vị_trí này công_khai , người dùng Google_Maps sẽ bị ảnh_hưởng rất lớn vì sai vị_trí .
+Đó là chưa kể việc sai vị_trí sẽ bị cộng_đồng quốc_tế đánh_giá thấp ý_thức của người_dân Việt_Nam .
+Tất_nhiên , những người cố_ý làm điều đó sẽ bị xử_lý thích_đáng , cao nhất_là bị khóa tài_khoản suốt đời " , anh Đồng nhấn_mạnh .
+Bảo_Lâm

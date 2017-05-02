@@ -1,0 +1,16 @@
+Apple ra cập_nhật khắc_phục lỗi biến i Phone thành ' cục gạch '
+Vấn_đề i Phone bị khóa kèm thông_báo " Error 53 " sau khi sửa máy tại các trung_tâm không thuộc Apple đã được khắc_phục thông_qua nâng_cấp phần_mềm .
+Bản cập_nhật cho i OS 9.2.1 mà Apple phát_hành hôm_nay đã giải_quyết vấn_đề khá nghiêm_trọng xảy_ra với một_số người dùng .
+Những thiết_bị của họ xuất_hiện thông_báo " Error 53 " , iPhone liên_tục khởi_động lại và điểm chung là chúng đều được sửa tại các cửa_hàng không do Apple ủy_quyền .
+Một chiếc i Phone xuất_hiện Error 53 .
+Linh_kiện thay_thế không phù_hợp ảnh_hưởng đến cảm_biến vân tay Touch ID , do_đó không vượt qua được cơ_chế xác_thực trên i OS .
+Thực_tế , iPhone sau khi sửa vẫn có_thể hoạt_động bình_thường và " Error 53 " chỉ xuất_hiện khi i OS có bản cập_nhật mới , tiến_hành khôi_phục lại máy .
+Lúc này , Apple vô_hiệu_hóa thiết_bị và khóa nó nhằm bảo_vệ Touch ID cũng_như dữ_liệu của người dùng .
+Ban_đầu , công_ty công_nghệ Mỹ giải_thích rằng cơ_chế của hãng nhằm ngăn_ngừa Touch ID bị xâm_nhập .
+Tuy_nhiên , trước nguy_cơ đối_mặt với một vụ_kiện , Apple ra bản cập_nhật phần_mềm cho_phép người dùng sửa i Phone mà thiết_bị không bị vô_hiệu_hóa .
+Song người dùng cũng không_thể sử_dụng Touch ID cho_đến khi sửa tại trung_tâm của Apple .
+Cùng_với nâng_cấp phần_mềm cho i OS 9.2.1 ,
+Apple đã phát_hành tài_liệu sơ_bộ giúp người dùng khắc_phục " Error 53 " .
+Nhà_sản_xuất i Phone đồng_thời đưa ra lời xin_lỗi đến người dùng , nói rằng hành_động trên giống như việc thử_nghiệm chứ hãng không có ý_định gây ảnh_hưởng đến khách_hàng .
+Người dùng i Phone 6 , 6s , 6 Plus , 6s Plus , iPad Mini 3 , iPad Mini 4 , iPad Air 2 và i Pad_Pro có_thể tiến_hành tải về bản cập_nhật mới thông_qua i Tunes hoặc cài_đặt trực_tiếp trên thiết_bị .
+Đình_Nam

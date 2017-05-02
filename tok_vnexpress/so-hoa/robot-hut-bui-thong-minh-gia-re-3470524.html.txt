@@ -1,0 +1,44 @@
+Robot hút bụi thông_minh giá rẻ
+Mi_Robot_Vacuum chạy tự_động hoàn_toàn , liên_tục quét môi_trường xung_quanh , đưa ra lịch_trình hút bụi , tự sạc khi hết pin và có_thể điều_khiển , đặt lịch từ xa .
+Robot hút bụi thông_minh là thiết_bị mới nhất thuộc hệ_sinh_thái   Mi_Ecosystem của Xiaomi , do công_ty_con của hãng này là   Rockrobo chế_tạo .
+Công_suất hút của máy là 1.800 Pa , cao hơn so với các máy thông_minh khác như i Robot_Roomba ( 1.670
+Pa ) hay   Botvac D8500 của Neato ( 1.000 Pa ) .
+Tuy_nhiên , Xiaomi cũng sử_dụng chung một nhà_cung_cấp động_cơ hút với hãng sản_xuất danh_tiếng Roomba .
+Thiết_kế và các tính_năng khác của   Mi_Robot_Vacuum không quá khác_biệt so với những máy_hút_bụi tương_tự khác trên thị_trường .
+Mặt trên chỉ có hai nút là Home ( dùng để ra_lệnh trở_về vị_trí dock sạc ) và nút nguồn để bật / tắt công_đoạn đi hút .
+Máy có_thể đi hút ở các gầm có độ cao khoảng 9 cm trở_lên .
+Thiết_bị không sở_hữu màn_hình do mọi tính_năng đều được hiển_thị và điều_khiển thông_qua ứng_dụng Mi_Home .
+Xiaomi_Mi_Robot_Vacuum .
+Ở mặt dưới , máy có hai bánh_xe cao_su để di_chuyển và một bánh_xe điều hướng .   Mi
+Robot_Vacuum trang_bị tới 12 loại cảm_biến khác_nhau ở xung_quanh và ở dưới bao_gồm radar siêu_âm , nhận_biết tường , nhận_biết va_chạm , nhận_biết vách và nhận_biết độ cao để cảnh_báo rơi .
+Thử_nghiệm cho thấy robot có_thể " leo " được qua các gờ có độ cao khoảng 2 cm trở xuống .
+Nếu độ cao hoặc sâu lớn hơn , nó sẽ tự_động bỏ_qua và tránh khu_vực này .
+Khi đặt thử trên bàn , máy chỉ hút trên mặt bàn và không hề bị rơi xuống đất .
+Robot hút bụi thông_minh của Xiaomi có một tính_năng đặc_biệt là vẽ bản_đồ ngôi nhà thông_qua cảm_biến LDS ( phần hình_tròn nhỏ nhô lên ở mặt trên ) .
+Nhờ vậy , máy sẽ vẽ lại được sơ_đồ các khu_vực hút và cả đường đi_sau mỗi lần hoàn_thành .
+Máy cũng lưu_giữ vị_trí dock sạc ( để tự_động quay về sạc khi hoàn_tất hoặc gần hết pin ) và hiển_thị thông_tin vị_trí thời_gian_thực so với bản_đồ để người dùng dễ_dàng kiểm_soát từ xa trên ứng_dụng di_động .
+Nhà_sản_xuất cũng bán thêm một loại băng có_thể giả_lập bức tường ngăn máy di_chuyển vào các khu_vực định sẵn .
+Hốc hút có các chổi quét dạng sóng tăng hiệu_quả với các vật_thể có kích_thước lớn .
+Mi_Robot_Vacuum trang_bị ba cấp_độ hút là yên_lặng , thông_thường và hiệu_suất cao .
+Ở chế_độ yên_lặng , dù không gây ra tiếng ồn khó_chịu nhưng vẫn không_thể sử_dụng được trong khi ngủ như hãng quảng_cáo .
+Tuy_nhiên , hiệu_suất hút của máy là rất đáng_kể với lực hút mạnh không kém các loại hút bụi có công_suất khoảng 2.000 W trên thị_trường .
+Nhờ cấu_tạo chổi quét dạng sóng trước cửa lỗ hút và chổi quét nhỏ ở cạnh bên , máy có_thể hút được cả các vật kích_thước lớn như thử_nghiệm là hạt na , gạo hay thậm_chí cả đầu thu USB của chuột không dây .
+Hốc chứa bụi dễ_dàng tháo_lắp , vệ_sinh nhưng kích_thước hơi nhỏ .
+Nếu sử_dụng hàng ngày , khoảng một tuần người dùng sẽ phải tháo ra vệ_sinh với căn nhà diện_tích 70 m2 ( diện_tích hút thực_tế là trên 30m2 ) .
+Hốc chứa bụi có dung_tích hơi nhỏ .
+Mi_Robot_Vacuum có_thể hoạt_động tự_động hoàn_toàn với khả_năng tự bắt_đầu đi hút theo lịch_trình đã định .
+Robot sẽ tự_động trở_về vị_trí sạc khi hoàn_thành .
+Ngoài_ra , nếu đang trong quá_trình hút , pin còn dưới 20% , nó sẽ tự quay về dock sạc và sạc pin sau đó quay trở_lại hút tiếp từ vị_trí cũ .
+Theo thông_báo của nhà_sản_xuất , pin dùng được 2,5 tiếng hút liên_tục , tương_đương hút hết diện_tích khoảng 250 m2 .
+Điểm thú_vị ở robot này là khả_năng tự quay về dock sạc ngay cả khi chưa từng lưu vị_trí dock sạc khi đó .
+Nếu đặt trong cùng một căn phòng , tỷ_lệ có_thể tìm được vị_trí dock sạc là 100% dù ở bất_kỳ vị_trí nào .
+Nếu đặt ở khác phòng , tỷ_lệ này giảm xuống còn 50-60 % tùy cấu_trúc phòng .
+Giao_diện điều_khiển dễ hiểu nhờ các biểu_tượng nhưng các cài_đặt sâu gây khó vì đều là tiếng Trung_Quốc .
+Mọi theo tác điều_khiển   Mi_Robot_Vacuum đều thông_qua ứng_dụng Mi_Home .
+Robot sẽ kết_nối vào Wi-Fi tại nhà và người dùng có_thể điều_khiển từ bất_kỳ đâu qua điện_thoại_di_động .
+Nhược_điểm là sử_dụng tiếng Trung_Quốc và gây khó_khăn khi muốn thay_đổi các tùy chọn sâu .
+Có hai tính_năng đáng chú_ý và thường dùng nhất_là đặt lịch hút theo giờ và theo ngày cụ_thể và xem_lại lịch_sử cũng_như bản_đồ hút mà máy thực_hiện .
+Ngoài tính_năng thông_minh điều_khiển qua ứng_dụng , Mi_Robot_Vacuum không quá nổi_bật so với các robot hút bụi khác trên thị_trường .
+Tuy_nhiên , mức giá của máy là rất rẻ , chỉ bằng một_nửa so với các loại cùng tính_năng .
+Giá bán tại Việt_Nam là khoảng 7 triệu đồng .
+Ảnh thực_tế   Mi_Robot_Vacuum :

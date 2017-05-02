@@ -1,0 +1,7 @@
+Bài hình_học lớp 5 thử_thách tư_duy nhanh
+Trong một phút , bạn hãy đưa ra cách giải cho bài_toán tính chu_vi hình ngũ_giác nằm trong đề thi đánh_giá năng_lực tư_duy Toán quốc_tế dành cho học_sinh lớp 5-6 này .
+Một hình ngũ_giác được cho như hình_vẽ sau :
+Diện_tích hình ngũ_giác là 20   cm2 .
+Điểm A nằm ở trong ngũ_giác và cách đều tất_cả các cạnh của ngũ_giác một khoảng bằng 5 cm .
+Hỏi chu_vi ngũ_giác bằng bao_nhiêu ?
+Thanh_Tâm

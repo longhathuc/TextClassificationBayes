@@ -1,0 +1,19 @@
+Smartphone của Phillips tại Việt_Nam bị cài sẵn mã độc
+Mẫu smartphone giá rẻ Phillips S307 , đang được bán ở Việt_Nam với giá 1,2 triệu đồng , bị phát_hiện chứa phần_mềm độc_hại và rất khó gỡ bỏ khỏi thiết_bị .
+Công_ty sản_xuất phần_mềm diệt virus Dr.Web của Nga cho_biết Phillips S307 bị cài sẵn một trojan có tên Android.Cooee . 1 , hiển_thị quảng_cáo và hình động trên màn_hình chính của điện_thoại .
+Người dùng sẽ phải cập_nhật firmware từ chính nhà_sản_xuất hoặc thực_hiện qua nhiều bước phức_tạp để gỡ mã độc .
+Android.Cooee . 1 lần đầu được phát_hiện vào tháng 10/2015 nhưng là trên một_số mẫu smartphone chạy Android giá rẻ của các nhà_sản_xuất ít tiếng_tăm .
+Tuy_nhiên , lần này mã độc hiện_diện trên cả mẫu S307 của Phillips .
+Phillips S307 .
+Trojan được cài sẵn ngay trên firmware của thiết_bị và nằm yên trong đó cho_đến khi nhận được lệnh từ một máy_chủ C& C .
+Lúc này , trojan sẽ hiển_thị quảng_cáo trên màn_hình hoặc âm_thầm cài_đặt thêm các ứng_dụng khác vào trong máy mà không cần sự tương_tác của người dùng .
+Những ứng_dụng bị cài thêm này có_thể là game , trình_duyệt web và chương_trình độc_hại với mục_đích trộm tiền từ tài_khoản ngân_hàng của người sử_dụng .
+Dr.Web đã liên_hệ với Phillips và hãng điện_thoại này cho_biết " đang xem_xét , tìm cách khắc_phục vấn_đề " .
+Philips là hãng điện_tử Hà_Lan nhưng bộ_phận điện_thoại đã được nhượng lại cho công_ty Shenzhen_Sangfei ( Trung_Quốc ) từ năm 2007 .
+Với giá 1,19 triệu đồng , S307 của Philips đang là smartphone rẻ nhất được trang_bị chip bốn nhân ở thị_trường Việt_Nam .
+Máy bán tại Việt_Nam từ tháng 10/2015 , có thiết_kế vuông_vắn , chắc_chắn với mặt lưng sở_hữu vân kiểu carbon khá đẹp_mắt .
+Sản_phẩm có hai màu xám và vàng .
+Việc cài mã độc lên điện_thoại Android , nhất_là những mẫu smartphone đến từ Trung_Quốc , không còn xa_lạ .
+Trước đó , hồi tháng 9/2015 , G_DATA đã phát_hiện chương_trình độc_hại trên gần 30 mẫu điện_thoại .
+Cuối năm 2015 , công_ty Lenovo cũng gặp rắc_rối khi Ủy_ban Nhân_dân TP Hải_Phòng từ tháng 12/2015 yêu_cầu các cơ_quan , đơn_vị trực_thuộc không dùng máy_tính Lenovo sau khi Bộ Công an thông_báo về việc hãng máy_tính này cài phần_mềm điều_khiển trên máy_tính sử_dụng hệ_điều_hành Windows trước khi xuất_xưởng .
+Châu Anphuongthuy@vnexpress.net

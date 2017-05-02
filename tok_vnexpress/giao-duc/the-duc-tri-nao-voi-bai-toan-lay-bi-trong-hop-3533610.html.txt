@@ -1,0 +1,9 @@
+Thể_dục trí_não với bài_toán lấy bi trong hộp
+Bài_toán lấy bi trong hộp đơn_giản sẽ không làm tốn nhiều thời_gian suy_luận của bạn .
+Chỉ đọc đề_bài một lần , liệu bạn có_thể tìm ra ngay đáp_án ?
+Một hộp chứa 10 viên bi đỏ , 9 viên bi trắng , 7 viên bi vàng , 2 viên bi xanh và 1 viên bi đen .
+Peter lấy ra một_số viên bi mà không nhìn vào hộp .
+Hỏi_Peter cần lấy ít_nhất bao_nhiêu viên bi để chắc_chắn có được 3 viên bi cùng màu ?
+Thanh_Tâm
+> > Thử tài tư_duy của bạn với bài_toán lớp 7
+> > Bài_toán về người say rượu khiến bạn chóng_mặt

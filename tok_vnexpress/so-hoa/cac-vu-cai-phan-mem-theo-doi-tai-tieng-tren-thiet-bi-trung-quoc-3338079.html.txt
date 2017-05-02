@@ -1,0 +1,43 @@
+Các vụ cài phần_mềm theo_dõi tai_tiếng trên thiết_bị Trung_Quốc
+Nhiều máy_tính , điện_thoại có xuất_xứ từ Trung_Quốc bị cài sẵn mã độc , phần_mềm theo_dõi ... trước khi đến tay người tiêu_dùng .
+Việc smartphone , tablet , laptop , PC mới mua đã bị cài phần_mềm độc_hại dù người dùng chưa hề tải phần_mềm hay ứng_dụng gì đã bị giới bảo_mật phát_hiện thời_gian qua .
+Đa_số sản_phẩm này được sản_xuất tại Trung_Quốc .
+Các chuyên_gia cho_biết , tình_trạng này diễn ra hoặc do nhà_sản_xuất cài cắm phần_mềm theo_dõi người dùng , hoặc mã độc được đưa vào sản_phẩm qua khâu phân_phối trung_gian nào_đó nhằm ăn_cắp dữ_liệu và nghe lén .
+Máy_tính Trung_Quốc nhiễm mã độc trước khi " đập_hộp "
+Tháng 8/2011 , một nhóm nghiên_cứu của Microsoft ở Trung_Quốc đã mua 20 máy_tính mới ( chưa mở hộp ) của một công_ty ở Quảng_Đông và phát_hiện tất_cả các hệ_thống đều được cài Windows không bản_quyền .
+Bốn trong số đó chứa virus với các thể_loại khác_nhau , đáng chú_ý nhất_là " sâu " Nitol bởi nó được kích_hoạt ngay khi người dùng mở máy lần đầu mà không đòi_hỏi bất_cứ thao_tác nào khác .   Nitol
+lập_tức tạo cổng hậu , dò_tìm những máy_tính khác thông_qua kết_nối Internet và qua thiết_bị cắm ngoài ( như ổ USB ) , nhân_bản và lây_nhiễm một_cách nhanh_chóng , tạo nên một mạng_lưới máy_tính ma ( botnet ) khổng_lồ .
+Chuyên_gia Microsoft mô_tả đường đi của mã độc trước khi máy_tính đến tay người dùng .
+Ảnh : Guardian .
+Microsoft đã phát_hiện Nitol trên các thiết_bị ở Trung_Quốc , Nga , Australia và Đức .
+Trong khi đó , Trung_tâm ứng_cứu khẩn_cấp máy_tính Việt_Nam_Vncert đánh_giá , nếu máy_tính xuất_xứ ở Trung_Quốc ở các quốc_gia khác được phát_hiện thì Việt_Nam   không nằm ngoài khả_năng đó , bởi số_lượng máy Trung_Quốc ở Việt_Nam khá nhiều , chưa kể tình_trạng sử_dụng Windows trái_phép và các phần_mềm lậu khác cũng thuộc hàng cao nhất thế_giới .
+Điện_thoại Xiaomi bí bật gửi dữ_liệu về máy_chủ Trung_Quốc
+Tháng 7/2014 , Xiaomi - công_ty được ví_như " Apple của Trung_Quốc " - bị nghi_ngờ " gián_điệp " khi mẫu Redmi_Note bị trang TechNews ( Đài_Loan ) tố_cáo tự_động gửi thông_tin cá_nhân của người dùng về máy_chủ ở Trung_Quốc với mục_đích gián_điệp .
+Ngay sau đó , Xiaomi đã lên_tiếng , thừa_nhận RedMi Note có tính_năng tự_động kết_nối và upload thông_tin lên máy_chủ , nhưng thiết_bị không gửi dữ_liệu cá_nhân mà chỉ là những tính_toán về các hoạt_động của khách_hàng để có_thể cung_cấp bản cập_nhật và giới_thiệu các ứng_dụng phù_hợp nhất cho người sử_dụng nhằm cải_tiến dịch_vụ chăm_sóc khách_hàng .
+Điện_thoại Redmi_Note .
+Tuy_nhiên , giữa tháng 8 , công_ty bảo_mật Phần_Lan F-Secure đã chứng_minh đúng là smartphone của Xiaomi bí_mật ăn_cắp dữ_liệu của người dùng mà không được sự cho_phép , bao_gồm số điện_thoại , nhà mạng , số IMEI cũng_như các số điện_thoại lưu trong danh_bạ và các tin nhắn nhận được .
+Không dừng tại đó , đến tháng 3/2015 , công_ty   Bluebox ( Mỹ ) tiếp_tục phát_hiện một_số ứng_dụng độc_hại trên chiếc Xiaomi_Mi 4 , gồm một phần_mềm quảng_cáo giả_dạng là ứng_dụng của Google và một Trojan cho_phép kẻ xấu kiểm_soát điện_thoại từ xa ...
+26 smartphone chạy Android chứa phần_mềm gián_điệp
+Tháng 9/2015 , hãng bảo_mật G_Data gây xôn_xao khi công_bố gần 30 mẫu điện_thoại Android , trong đó có_của các thương_hiệu nổi_tiếng như Xiaomi , Huawei , Lenovo , bị cài sẵn chương_trình gián_điệp .
+Spyware này giả_dạng là một ứng_dụng phổ_biến như Facebook , Google_Drive khiến người dùng không cảnh_giác .
+Chúng cũng rất khó bị gỡ bỏ do được lưu trong firmware ( phần_mềm hệ_thống ) , có khả_năng nghe lén các cuộc đàm_thoại , sao_chép danh_bạ và thư_viện ảnh , tải ứng_dụng rác vào máy , đọc và gửi SMS , vô_hiệu_hóa phần_mềm diệt virus , tra_cứu lịch_sử truy_cập web ...
+" Thời_gian qua , chúng_tôi đã chứng_kiến một lượng thiết_bị đáng_kể bị cài phần_mềm âm_thầm theo_dõi người dùng ở cấp firmware ngay từ khi mới mở hộp " , Christian_Geschkat , Giám_đốc sản_phẩm của G_Data , cho_biết .
+" Hiện_tượng này có_thể không phải do nhà_sản_xuất mà do nhà phân_phối , đại_lý bán_lẻ cài_đặt để theo_dõi và kiếm lời từ người dùng " .
+17.000 tablet Trung_Quốc giá rẻ chứa mã độc
+Tháng 11/2015 , hãng bảo_mật Cheetah_Mobile_Security_Lab tuyên_bố phát_hiện Trojan đặc_biệt nguy_hiểm mang tên Cloudsota bị cài_đặt sẵn trên ít_nhất 30 loại thương_hiệu máy_tính bảng Trung_Quốc từ các nhà_sản_xuất ít tên_tuổi .
+Cloudsota được cho là có nguồn_gốc từ Quảng_Đông ( Trung_Quốc ) , có khả_năng tự_động gỡ bỏ bất_kỳ ứng_dụng chống virus nào mà người dùng cài trên thiết_bị .
+Nó cũng bật các quảng_cáo dạng pop - up xuất_hiện trên màn_hình , thay_thế hình_ảnh khi khởi_động , đổi trang_chủ trình_duyệt để chuyển_hướng kết_quả tìm_kiếm phục_vụ cho việc quảng_cáo .
+Các chuyên_gia bảo_mật ước_tính có khoảng 17.233 tablet nhiễm Cloudsota được bán trên hệ_thống Amazon ở Anh , Mỹ , Đức , Italy và Tây_Ban_Nha vào thời_điểm đó và hiện con_số này có_thể đã tăng lên .
+Lenovo cài phần_mềm theo_dõi trên máy_tính người dùng
+Tháng 2/2015 , một_số chuyên_gia bảo_mật phát_hiện máy_tính của hãng Trung_Quốc được cài_đặt sẵn phần_mềm Superfish_Visual_Discovery .
+Lenovo cho rằng phần_mềm không theo_dõi hoạt_động của người dùng và giúp họ có trải_nghiệm mua_sắm tốt hơn trên máy_tính .
+Thực_tế , đây là phần_mềm độc_hại , có_thể tự_động chèn quảng_cáo vào trang_web khi sử_dụng trình_duyệt Chrome và Internet_Explorer .
+Lenovo sau đó đã phải cung_cấp công_cụ hỗ_trợ gỡ bỏ phần_mềm này .
+Lenovo dính hai scandal liên_quan đến việc cài phần_mềm rác trên máy_tính   trong năm 2015 .
+Sáu tháng sau scandal trên , hãng máy_tính Trung_Quốc một lần nữa bị phát_hiện cài sẵn phần_mềm Lenovo_Service_Engine ( LSE ) trên thiết_bị từ khi xuất_xưởng .
+Các chuyên_gia bảo_mật cho_biết , phần_mềm này hoạt_động như một phần_mềm gián_điệp , chạy ngầm và kích_hoạt ngay khi máy_tính bật lên , tự_động tải về nhiều tập_tin và rất khó gỡ bỏ khỏi hệ_thống do được cài vào BIOS ( phần điều_khiển dưới mức hệ_điều_hành ) .
+Bên_cạnh đó , một nhà_nghiên_cứu bảo_mật độc_lập đã phát_hiện lỗ_hổng có_thể tạo điều_kiện cho hacker thông_qua phần_mềm LSE để thực_hiện tấn_công thiết_bị , như tấn_công tràn bộ đệm và cố_gắng kết_nối với máy_chủ kiểm_định của Lenovo .
+LSE được cài_đặt trên các dòng máy_tính hiệu Lenovo gồm máy_tính_xách_tay chạy Windows 7 , 8 và 8.1 , và máy_tính_để_bàn Windows 8 và 8.1 .
+Phần_mềm này không được cài_đặt trong các dòng có thương_hiệu Think ( Xem danh_sách ) .
+Trước tình_trạng này , vào tháng 12/2015 , Ủy_ban Nhân_dân TP Hải_Phòng đã phải gửi công_văn yêu_cầu các cơ_quan , đơn_vị trực_thuộc không dùng máy_tính Lenovo .
+Châu_An

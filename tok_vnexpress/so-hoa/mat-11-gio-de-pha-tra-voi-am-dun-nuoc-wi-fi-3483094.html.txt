@@ -1,0 +1,16 @@
+Mất 11 giờ để pha trà với ấm đun nước Wi-Fi
+Các thiết_bị gia_dụng thông_minh , tích_hợp Internet , không phải lúc_nào cũng đem đến sự thuận_tiện cho người dùng như quảng_cáo .
+Trước viễn_cảnh thú_vị của Internet of Things , nơi các thiết_bị được kết_nối và điều_khiển qua điện_thoại , Mark_Rittman , một chuyên_gia phân_tích dữ_liệu , quyết_định mua ấm đun nước Smarter i Kettle giá 121 USD .
+Người dùng i Kettle có_thể cài ứng_dụng trên smartphone để kiểm_tra trong ấm còn bao_nhiêu nước , ra_lệnh cho ấm đun nước từ trong phòng ngủ và nước sôi đã sẵn_sàng cho họ pha trà ngay khi rời khỏi giường .
+" Loanh_quanh trong bếp chờ nước sôi là chuyện của quá_khứ rồi .
+Với người thích sự hiệu_quả hay siêu lười , iKettle sẽ tiết_kiệm cho họ hơn hai ngày mỗi năm " , trang_web bán hàng tuyên_bố .
+Ấm nước không kết_nối mạng , khiến Rittman phải đun nước bằng chảo .
+Lý_thuyết là vậy , còn thực_tế lại " hên xui " .
+Khoảng 9h , Rittman cố ra_lệnh đun nước nhưng hệ_thống gặp trục_trặc gì đó và yêu_cầu phải reset ( thiết_lập lại ) .
+Vài giờ sau , hệ_thống vẫn chưa_thể kết_nối với ấm .
+Với thiết_bị gia_dụng truyền_thống , bạn chỉ cần đi ra bếp , cắm dây_điện và chờ .
+Nhưng với ấm nước IoT này , mọi thứ lại hoạt_động không dây .
+Theo Telegraph , iKettle không hỗ_trợ phần_mềm như Samsung_Smart_Things ( cho_phép kết_nối và điều_khiển thiết_bị thông_minh trong gia_đình ) hay IFTTT ( tự_động_hóa và kết_nối các ứng_dụng trên điện_thoại ) .
+Do_đó , Rittman tìm cách thiết_lập để ấm nước hoạt_động với Amazon_Echo , sau đó ra_lệnh cho Echo kích_hoạt ấm nước .
+Sau 11 giờ , điện_thoại cũng báo nước sôi , nhưng hệ_thống đèn thông_minh trong nhà   lại tạm_thời tắt .
+Sau 11 giờ , cuối_cùng anh cũng đã có_thể đun nước nhưng đúng lúc đó thì những chiếc đèn thông_minh trong nhà lại yêu_cầu cập_nhật phần_mềm , khiến cả nhà phải ăn tối mà không có ánh_sáng .

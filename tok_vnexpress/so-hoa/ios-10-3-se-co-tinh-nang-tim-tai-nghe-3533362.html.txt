@@ -1,0 +1,13 @@
+iOS 10.3 sẽ có tính_năng tìm tai_nghe
+" Find_My_Air Pods " ( Tìm_Air Pods ) xuất_hiện trong bản thử_nghiệm i OS mới , cho_phép người dùng xác_định vị_trí của tai_nghe không dây .
+Với thiết_kế không dây hoàn_toàn , AirPods của Apple mang đến nhiều thuận_tiện khi sử_dụng .
+Nhưng kiểu_dáng đó cũng khiến mẫu tai_nghe có_giá 159 USD này dễ bị rơi hoặc bỏ quên .
+Trong i OS 10.3 beta , Apple đã " xoa_dịu " nỗi lo của người dùng bằng việc thêm tính_năng tìm AirPods .
+Giao_diện Find_My_Air Pods trên i OS 10.3 beta .
+Find_My_Air Pods xuất_hiện trong menu của ứng_dụng Find_My iPhone .
+Khi mở tùy chọn này , tai_nghe sẽ phát ra âm_thanh to dần giúp người dùng xác_định vị_trí .
+Bạn cũng có_thể tùy chọn âm thông_báo phát trên tai trái hoặc phải , nếu một trong hai bên AirPods bị mất .
+Vị_trí của tai_nghe cũng được xác_định thông_qua GPS của i Phone hoặc những thiết_bị i OS khác mà nó kết_nối tới .
+Thông_qua dữ_liệu này , người dùng có_thể xác_định vị_trí AirPods bị rơi , ở khoảng_cách tương_đối .
+Theo Mac Rumors , Find_My_Air Pods không phải là giải_pháp hoàn_hảo , những phần_nào giúp khoanh_vùng vị_trí thiết_bị bị rơi .
+Trên i OS 10.3 beta , tính_năng này được tự_động kích_hoạt và hứa_hẹn sẽ có trên phiên_bản chính_thức .

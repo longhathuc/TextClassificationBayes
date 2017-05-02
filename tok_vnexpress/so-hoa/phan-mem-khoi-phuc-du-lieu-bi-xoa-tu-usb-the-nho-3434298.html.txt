@@ -1,0 +1,13 @@
+Phần_mềm khôi_phục dữ_liệu bị xóa từ USB , thẻ nhớ
+Phần_mềm RescuePro giúp lấy lại nhiều tập_tin , hình_ảnh bị xóa ngay cả khi đã dùng thao_tác format .
+Các thao_tác có_thể sử_dụng bao_gồm khôi_phục ảnh , video , audio , tất_cả các file , sao lưu hoặc xóa vĩnh_viễn .
+Vô_tình xóa , thực_hiện lệnh format nhầm với USB , thẻ nhớ không phải là điều hiềm gặp với nhiều người .
+Nếu xóa trên máy_tính , thông_thường các tập_tin vẫn còn nằm ở " thùng rác " nhưng khi xóa trực_tiếp trên USB hay thẻ nhớ , các tập_tin sẽ ngay_lập_tức biến_mất hoàn_toàn .
+RescuePro là phần_mềm có khả_năng khôi_phục các dữ_liệu với tỷ_lệ thành_công cao , thao_tác sử_dụng đơn_giản .
+Ngoài việc khôi_phục các tập_tin , RescuePro cũng có_thể xóa vĩnh_viễn các tập_tin trên USB , thẻ nhớ và khiến chúng không có khả_năng khôi_phục sau_này .
+Đây là tính_năng hữu_ích nếu người dùng muốn bảo_vệ các tập_tin nhạy_cảm , đòi_hỏi tính bảo_mật cao .
+RescuePro được đặc_biệt tin_dùng với các nhiếp_ảnh_gia do tương_thích với hầu_hết các định_dạng , tập_tin từ các máy DSLR hiện_nay và có tỷ_lệ thành_công cao , kể_cả file RAW .   RescuePro có bản dùng thử hạn_chế một_số tính_năng hoặc người dùng có_thể mua với giá 40 USD cho bản Standard và 60 USD cho bản Deluxe .
+Tuy_nhiên , một_cách khác để tiết_kiệm chi_phí là     RescuePro Deluxe hiện được tặng kèm bản_quyền với một_số dòng USB , thẻ nhớ của SanDisk như Ultra_Fit hay thẻ nhớ Extreme_Pro .
+Trong thử_nghiệm dùng USB Ultra_Fit dung_lượng 32 GB để sao_chép 25 tập_tin ảnh sau đó thực_hiện thao_tác format trắng hoàn_toàn .
+Phần_mềm RescuePro mất khoảng 10 phút để hoàn_tất quá_trình và khôi_phục đủ 25 ảnh như ban_đầu .
+Video dùng thử RescuePro :

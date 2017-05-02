@@ -1,0 +1,19 @@
+Cáp_quang biển AAG gặp sự_cố đầu năm 2017
+Tuyến cáp_quang biển quốc_tế Asia – America_Gateway ( AAG ) tiếp_tục gặp sự_cố trong năm mới , lịch khắc_phục chưa được thông_báo .
+Theo đại_diện một nhà_cung_cấp dịch_vụ Internet ( ISP ) tại Việt_Nam , tuyến cáp_quang biển AAG lại gặp sự_cố hôm 8/1 , gây mất kênh truyền trên cả ba hướng kết_nối đi Hong_Kong , Singapore và Mỹ .
+Nguyên_nhân của sự_cố hiện vẫn chưa được xác_định .
+Theo một ISP trong nước , tuyến cáp_quang biển AAG đã gặp sự_cố ngay đầu năm 2017 .
+Đây là lần đầu_tiên trong năm 2017 tuyến cáp_quang biển AAG xảy_ra vấn_đề .
+Trong năm 2016 , đã có bốn lần hệ_thống truyền_dẫn Internet này trục_trặc và phải tiến_hành bảo_trì , vào các tháng 3 , 6 , 8 và tháng 9 .
+Trong những lần trước , kết_nối Internet từ Việt_Nam đi quốc_tế bị ảnh_hưởng do AAG đóng vai_trò quan_trọng .
+Tuy_nhiên sự_cố mới nhất được các chuyên_gia đánh_giá có tác_động , nhưng không nghiêm_trọng và ảnh_hưởng dài như những lần trước .
+Lý_do từ cuối năm 2016 , tuyến cáp_quang biển mới APG ( Asia_Pacific_Gateway ) , được các nhà mạng FPT , VNPT , Viettel và CMC đầu_tư , đã đi vào hoạt_động .
+Một_số đơn_vị khác cũng lên phương_án dự_phòng với nhiều kênh truyền thay_thế .
+Trước 2017 , cáp_quang biển AAG đóng vai_trò quan_trọng hàng_đầu khi kết_nối Internet_Việt_Nam đi quốc_tế từ năm 2009 .
+Dung_lượng ban_đầu của tuyến đạt 500 Gb/giây và được nâng lên 2,88 Tb/giây .
+Nhưng hiện_nay ,   APG nổi_trội hơn khi có tốc_độ gấp đôi   tuyến cáp_quang biển   AAG và sẽ gấp 20 lần trong thời_gian tới .
+Tuyến cáp APG có chiều dài 10.400 km , đặt ngầm dưới biển Thái_Bình_Dương , kết_nối các điểm ở Trung_Quốc , Hong_Kong , Đài_Loan , Nhật_Bản , Hàn_Quốc , Malaysia , Singapore , Thái_Lan và Việt_Nam .
+Với băng_thông tối_đa lên đến 54 Tb/giây , đây là tuyến cáp_quang biển có dung_lượng lớn nhất hoạt_động tại châu Á .
+Tuy_nhiên , băng_thông đang được khai_thác là 4 Tb/giây .
+Việc đưa vào sử_dụng tuyến cáp_quang biển APG sẽ giúp giảm phụ_thuộc vào tuyến AAG vốn liên_tục gián_đoạn .   Năm 2017 , một_số nhà mạng cho_biết sẽ đưa vào hoạt_động thêm tuyến cáp_quang AAE - 1 ( Asia_Africa_Euro 1 ) , nối các nước châu Á đến châu Âu và châu Phi .
+Nhờ vậy , việc đảm_bảo thông_suốt kết_nối cho người dùng sẽ được nâng cao .

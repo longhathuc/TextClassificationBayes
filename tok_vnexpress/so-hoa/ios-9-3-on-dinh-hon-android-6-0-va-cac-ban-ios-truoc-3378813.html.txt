@@ -1,0 +1,15 @@
+iOS 9.3 ổn_định hơn Android 6.0 và các bản i OS trước
+Gặp một_số lỗi ngay khi phát_hành nhưng i OS 9.3 vẫn được đánh_giá là bản phần_mềm ổn_định nhất của Apple và hơn cả Android mới nhất .
+Công_ty phân_tích ứng_dụng   Apteligent đã thực_hiện nghiên_cứu về mức_độ gặp sự_cố trên hệ_điều_hành di_động mới nhất của Apple và xác_định , chỉ có 2,2% người dùng gặp tình_trạng phần_mềm mở lên thì tự_động thoát ( crash ) .
+Đây là kết_quả tốt nhất so với các bản i OS trước đó .
+Biểu_đồ tỷ_lệ crash trên các phiên_bản i OS .
+Theo biểu_đồ , iOS 9.2 và các phiên cũ hơn có tỷ_lệ crash khoảng 2,5% , trong đó , iOS 8 và i OS 9.2 gặp lỗi cao nhất .
+Với hệ_điều_hành Android , phiên_bản 6.0 có tỷ_lệ ứng_dụng tự_động thoát là 2,6% và theo nghiên_cứu này thì nó kém ổn_định hơn so với i OS 9.3 .
+Mặc_dù vậy , ngay khi phát_hành thì i OS 9.3 đã nhận được nhiều phàn_nàn từ phía khách_hàng .
+Một_số thiết_bị khi nâng_cấp lên hệ_điều_hành mới đã không_thể kích_hoạt được vào bên trong để sử_dụng , hoặc gây ra lỗi đứng máy làm mất dữ_liệu .
+Apple đã thừa_nhận vấn_đề này và đưa ra bản vá sau đó .
+iOS 9.3 còn gây lỗi cho i Phone 6s và 6s Plus .   Sau khi được nâng_cấp lên phiên_bản mới nhất , một_số i Phone bị treo lúc mở các đường link xuất_hiện trong trình_duyệt Safari , Mail , Notes hay tin nhắn .   Với trường_hợp máy bị treo ở các ứng_dụng , cách khắc_phục tạm_thời hiện_giờ là tắt thiết_bị đi rồi khởi_động lại .
+Hệ_điều_hành i OS 9.3 mang đến một_số thay_đổi quan_trọng cho người dùng i Phone , iPad như thêm chế_độ Night_Shift giúp hạn_chế ánh_sáng xanh nhằm bảo_vệ mắt khi dùng thiết_bị ban_đêm .
+Ứng_dụng ghi_chú cũng có_thể được khóa bằng vân tay , tăng_cường tính bảo_mật .
+Ngoài_ra , Apple cũng bổ_sung thêm tính_năng cho bộ ứng_dụng theo_dõi sức_khỏe , 3D Touch ...
+Đình_Nam

@@ -1,0 +1,46 @@
+Cách đặt mật_khẩu để không bị hack như Mark_Zuckerberg
+Chọn mật_khẩu phức_tạp , không sử_dụng chung cho nhiều tài_khoản , bật tính_năng xác_thực hai bước là những cách giúp nâng cao_độ an_toàn khi đăng_nhập trên Internet .
+Liên_tiếp tài_khoản mạng xã_hội của ca_sỹ Katy_Perry , CEO Facebook_Mark_Zuckerberg hay tay guitar   Keith_Richards của ban_nhạc rock   The_Rolling_Stones bị hacker xâm_nhập .
+Một trong những nguyên_nhân là đặt mật_khẩu không an_toàn .
+Chẳng_hạn , ông chủ Facebook chọn mã khóa đơn_giản là " dadada " và dùng nó cho nhiều tài_khoản .
+Trang công_nghệ Mashable đã đưa ra 4 gợi_ý đặt mật_khẩu để người dùng nâng cao_độ bảo_mật cho các tài_khoản .
+Chọn mật_khẩu phức_tạp
+Một gợi_ý đặt mật_khẩu phức_tạp , khó đoán .
+Hiện_nay , hầu_hết người dùng đều biết chọn mật_khẩu đủ mạnh là điều rất quan_trọng .
+Tuy_nhiên , khái_niệm " đủ mạnh " đã thay_đổi khá nhiều trong những năm qua .
+Cách đây khoảng một thập_kỷ , chuỗi ký_tự " 34xyf4ds " được coi là mật_khẩu mạnh , nhưng giờ hacker với chỉ một chiếc laptop có_thể giải_mã được nó một_cách nhẹ_nhàng .
+Bây_giờ , mật_khẩu mạnh nên có ít_nhất 12 ký_tự , bao_gồm cả chữ thường , chữ hoa và số .
+Nó cũng không bao_gồm thông_tin cá_nhân dễ đoán .
+Chẳng_hạn bạn tên Nam và sinh ngày 24/10/1992 , thì ngay cả khi đặt là " Nam-24.101.992 " , đây cũng không phải mật_khẩu đủ an_toàn .
+Tốt hơn hết , hãy nghĩ ra những thứ ngẫu_nhiên .
+Không dùng một mật_khẩu cho hai tài_khoản
+Không dùng chung một mật_khẩu cho hai tài_khoản , nhất_là với các dịch_vụ quan_trọng .
+Chọn được mật_khẩu tốt không có nghĩa_là bạn đã an_toàn .
+Nếu bạn đang sử_dụng cùng một mật_khẩu trên nhiều trang_web , nguy_cơ bị hacker tấn_công vẫn xảy_ra .
+Chẳng_hạn , một trong số dịch_vụ mà bạn sử_dụng bị tấn_công - như vụ của LinkedIn vừa_qua , tin_tặc có_thể thử nó trên các trang_web khác .
+Thông_thường , mật_khẩu sẽ được mã_hóa trên các website , nhưng một_số trang bảo_mật kém sẽ để dưới dạng văn_bản thuần .
+Ngay cả khi được mã_hóa , hacker ngày_nay với hệ_thống máy_tính " khủng " cũng có_thể bẻ_khóa nhanh_chóng .
+Cách tốt nhất để bảo_vệ là dùng mật_khẩu khác_nhau cho mỗi_một dịch_vụ trực_tuyến , đặc_biệt là với các tài_khoản quan_trọng như Facebook hay PayPal , eBay .
+Chính ông chủ Facebook cũng mắc phải quy_tắc này .
+Mark_Zuckerberg đã dùng chung mật_khẩu có độ bảo_mật yếu ( " dadada " ) cho cả ba trang gồm Twitter , Pinterest và LinkedIn .
+Dùng trình quản_lý mật_khẩu
+Dịch_vụ quản_lý mật_khẩu cho tất_cả các tài_khoản sẽ an_toàn nếu mật_khẩu chính luôn được bảo_vệ .
+Nếu việc nhớ tất_cả các mật_khẩu phức_tạp trở_nên khó_khăn với bạn , hãy dùng các trình quản_lý mật_khẩu như LastPass hay   Dashlane .
+Dịch_vụ này sẽ lưu tất_cả thông_tin đăng_nhập của bạn và người dùng chỉ cần nhớ một mật_khẩu chính .
+Dĩ_nhiên , chọn cách này cũng đặt ra thách_thức là nếu hacker có được mật_khẩu chủ , đồng nghĩ với việc mọi tài_khoản của bạn đều mất an_toàn .
+Bởi_vậy , bạn cần chọn mật_khẩu chính đủ mạnh , không_bao_giờ lưu_trữ trên máy_tính và cũng không được chia_sẻ với bất_kỳ ai .
+Cần lưu_ý rằng các dịch_vụ lưu_trữ mật_khẩu cũng có_thể bị tấn_công .
+Bởi_thế , cách an_toàn hơn hết là nhớ nó trong đầu hoặc ghi ra mảnh giấy và giữ bí_mật về mảnh giấy đó .
+Thiết_lập xác_thực hai bước
+Xác_thực hai bước là phương_pháp bảo_mật được nhiều dịch_vụ áp_dụng hiện_nay .
+Hiện nhiều dịch_vụ trực_tuyến đã có tính_năng xác_thực hai bước , đăng_nhập qua hai lớp " cánh cửa " .
+Phương_pháp này đòi_hỏi nhập đúng mật_khẩu và cần có thêm mã đảm_bảo từ điện_thoại , để chắc_chắn rằng ngay cả khi biết mật_khẩu cũng không_thể truy_cập vào nếu_không kiểm_soát được điện_thoại của bạn .
+Những trang có hỗ_trợ xác_thực hai bước như Gmail , Facebook , Twitter , Instagram , Amazon , Slack ...
+Thông_thường , nguyên_tắc hoạt_động của nó là yêu_cầu người dùng thêm số điện_thoại cá_nhân .
+Khi phát_hiện bạn đăng_nhập trên một thiết_bị mới , hoặc ở một vị_trí khác_thường , dịch_vụ sẽ yêu_cầu bổ_sung mã xác_nhận thông_qua điện_thoại .
+Lúc này , chỉ có mật_khẩu thì không_thể truy_cập được vào tài_khoản .
+Với sự phát_triển của công_nghệ , hacker và bảo_mật liên_tục chạy_đua và sẽ là cuộc_chiến không có hồi kết .
+Ngay cả khi đã làm đẩy đủ các bước trên , bạn vẫn có nguy_cơ bị tấn_công , song khả_năng và mức_độ thiệt_hại sẽ giảm đi .
+Xem thêm :
+>   Ông chủ Facebook bị hack tài_khoản mạng xã_hội
+>   25 mật_khẩu dễ đoán nhất năm 2015

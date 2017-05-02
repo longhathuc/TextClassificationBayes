@@ -1,0 +1,9 @@
+Bài hình của học_sinh lớp 6 có_thể làm_khó bạn
+Bài_toán tính thể_tích hình_học kiểm_tra năng_lực tư_duy của học_sinh lớp 5-6 có_thể là thử_thách với bạn .
+Hãy chứng_tỏ khả_năng suy_luận bằng việc đưa ra đáp_án nhanh_nhất .
+Một cốc hình_trụ có đáy là hình_tròn bán_kính 5 cm và chiều_cao 20 cm .
+Bên trong có một khối lập_phương cạnh 6 cm như hình dưới đây :
+Khi đổ nước vào , khối lập_phương sẽ nổi 1/3 thể_tích của nó lên trên mặt_nước .
+Hỏi thể_tích nước cần đổ là bao_nhiêu để khi nổi lên , mặt trên của khối lập_phương sẽ ngang miệng cốc ?
+( lấy π = 3,14 )
+Thanh_Tâm

@@ -1,0 +1,5 @@
+' Nhặt sạn ' trên tấm bản_đồ mà chỉ 10% dân_số thế_giới nhìn ra lỗi
+Tấm bản_đồ trên thế_giới đã bị xáo_trộn vị_trí của 5 quốc_gia , và trang Playbuzz đã chỉ ra rằng , chỉ 10% dân_số thế_giới có_thể phát_hiện ra lỗi sai này .
+Trong một phút , hãy chỉ ra 5 quốc_gia đã bị hoán_đổi vị_trí trên tấm bản_đồ :
+Click vào hình để xem ảnh cỡ lớn .
+Đáp_án

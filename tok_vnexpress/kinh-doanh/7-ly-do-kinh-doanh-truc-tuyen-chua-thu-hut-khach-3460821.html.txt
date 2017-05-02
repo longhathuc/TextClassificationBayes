@@ -1,0 +1,39 @@
+7 lý_do kinh_doanh trực_tuyến chưa thu_hút khách
+Nội_dung website nghèo_nàn , sản_phẩm được mô_tả sơ_sài nhưng quy_trình thanh_toán rắc_rối không khác_gì " đuổi khéo " khách_hàng khỏi gian_hàng .
+1 . Mô_tả sản_phẩm sơ_sài
+Có rất nhiều điều liên_quan tới mô_tả sản_phẩm , tùy_thuộc vào từng món hàng nhưng không ít cửa_hàng bán online lại đang không coi_trọng vấn_đề này .
+Thực_tế , nếu lên một website công_ty , người_ta thường xem nội_dung về nhân_sự của hãng đó ( ví_dụ ảnh cán_bộ nhân_viên ) , tương_tự với thương_mại_điện_tử , người mua sẽ xem mô_tả sản_phẩm chi_tiết , đánh_giá sản_phẩm và phần đánh_giá bên bán .
+Theo nghiên_cứu của Nielsen_Norman_Group ( NN Group ) , khi một người vào xem sản_phẩm trên trang Amazon , có 18% thời_gian họ xem ảnh và tới 82% xem nội_dung chữ .
+Do_đó , việc cung_cấp đầy_đủ , chi_tiết thông_tin ( bằng chữ ) và hình_ảnh về các góc_cạnh sản_phẩm sẽ đảm_bảo mức doanh_thu tốt hơn cho các cửa_hàng .
+2 . Quy_trình thanh_toán phức_tạp
+Thủ_tục thanh_toán nhanh gọn nhưng tính bảo_mật cao sẽ giúp người mua hài_lòng với website hơn .
+Một trong những yếu_tố quan_trọng ảnh_hưởng đến quyết_định mua_sắm trực_tuyến là quy_trình thanh_toán .
+Nhiều chuyên_gia khuyên các cửa_hàng online nên chọn các bước thanh_toán cuối_cùng sao cho đơn_giản , thân_thiện với người dùng và tránh gây sao_nhãng nhưng vẫn phải đảm_bảo bảo_mật thông_tin .
+Một_số nhà_bán_lẻ có xu_hướng gợi_ý sản_phẩm mà người dùng có_thể thích khi đang thực_hiện thanh_toán , nhưng bước này có_thể gây kết_quả ngoài mong_đợi bởi gây xao_nhãng cho khách , khiến họ mải tìm thêm và bỏ_qua sản_phẩm quan_trọng , cuối_cùng có_thể bỏ đi mà không mua gì .
+3 . Ảnh minh_họa kém
+Với cửa_hàng truyền_thống , cách bán hàng tốt nhất_là trao tận_tay món hàng cho người mua cảm_nhận , nhưng các shop online thì không làm được .
+Do_vậy , họ sử_dụng hình_ảnh để người mua có_thể hình_dung món hàng thế_nào khi đặt trước mặt mình .
+Các bức ảnh quá lớn ( hoặc quá nhỏ ) , thiếu sáng_tạo , chất_lượng kém sẽ là nguyên_nhân chính khiến khách bỏ đi .
+Khách_hàng sẽ thích các ảnh thực_tế sản_phẩm khi sử_dụng , chụp ở nhiều góc_cạnh , vị_trí và công_năng khi dùng khác_nhau .
+Ảnh nên có độ_phân_giải lớn , có_thể phóng to thu nhỏ khi cần để người mua xem từng chi_tiết .
+4 . Website trông thiếu tin_cậy
+Thương_hiệu và niềm_tin luôn đi kèm với nhau , đặc_biệt là ở thương_mại_điện_tử .
+Ngay cả khi bạn sở_hữu công_ty uy_tín nhất thế_giới nhưng website không thể_hiện được điều đó , khách_hàng vẫn rời khỏi trang_web của công_ty .
+Có nhiều cách để cải_thiện hình_ảnh thương_hiệu giúp tạo niềm_tin , nhưng quan_trọng vẫn là thấu_hiểu được nỗi lo_lắng , mối quan_tâm cũng_như lý_do tìm đến sản_phẩm của khách_hàng .
+Nếu bạn có_thể cung_cấp nội_dung " dỗ_dành " được suy_nghĩ của khách , họ sẽ gắn_kết với website lâu_dài hơn .
+Chủ site nên cung_cấp nhiều dạng đánh_giá thương_hiệu như phản_hồi khách_hàng , sự công_nhận của cộng_đồng , các câu_chuyện liên_quan tới công_ty ... để phát_triển niềm_tin của khách đối_với doanh_nghiệp .
+5 . Ảnh_hưởng từ ấn_tượng đầu_tiên
+Ai lướt web cũng từng vào những trang vừa nhìn trông đã thiếu tin_tưởng .
+Có_thể chủ web thiếu logo , không nhiều thiết_kế sản_phẩm hay thậm_chí chọn loại phông_chữ trông chẳng khác_nào trang_web tạm_bợ , " chỉ ra_đời để lừa_đảo khách " .
+Vì_thế , ấn_tượng đầu_tiên sẽ là tất_cả đối_với một website .
+Các nghiên_cứu chỉ ra rằng " nhìn " và " cảm_thấy " về một website là yếu_tố chính tạo ra ấn_tượng đầu_tiên .
+Một website có giao_diện nghèo_nàn ngay_lập_tức tạo cảm_giác thiếu tin_tưởng đối_với người xem .   Để hút khách_hàng , các trang_web cần phải làm_sao cho chuyên_nghiệp , từ thiết_kế giao_diện , khả_năng hoạt_động trên thiết_bị di_động cho_đến mẫu thanh_toán .
+6 . Tầm quan_trọng của di_động
+Nhiều hãng vẫn chưa nhận ra mức_độ phản_hồi của website trên thiết_bị di_động là một vấn_đề thực_sự .
+Ngày_nay , đa_phần người dùng sử_dụng điện_thoại , máy_tính bảng để vào web nên một trang_web được tối_ưu hiển_thị trên màn_hình bé hết_sức quan_trọng .
+Người bán cần so_sánh hai phiên_bản trên di_động và trên máy bàn để chắc_chắn khách_hàng dễ thao_tác và cảm_thấy thích_thú khi dùng .
+7 . Hacker
+Hacker có_thể tiếp_cận được rất nhiều dữ_liệu và các cửa_hàng online là mục_tiêu của mọi hoạt_động phi_pháp trên mạng .
+Khi kẻ_gian ngày_càng thành_thạo kỹ_thuật , doanh_nghiệp cũng phải đầu_tư thêm nguồn_lực vào các nền_tảng chống gian_lận .
+Không_chỉ bảo_vệ tài_sản của công_ty , việc gia_cố bảo_mật cũng giúp giữ_gìn thông_tin của khách_hàng , giúp họ có niềm_tin để tiếp_tục mua_sắm trực_tuyến .
+Hải_Khanh

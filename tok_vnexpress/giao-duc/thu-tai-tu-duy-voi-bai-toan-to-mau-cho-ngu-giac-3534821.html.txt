@@ -1,0 +1,7 @@
+Thử tài tư_duy với bài_toán tô màu cho ngũ_giác
+Bài_toán tô màu cho ngũ_giác trong đề thi Olympic_Toán học châu Á - Thái_Bình_Dương có_thể khiến bạn bị rối .
+Hãy suy_nghĩ và đưa ra đáp_án cho bài_toán này .
+Cho một hình ngũ_giác ABCDE .
+Với 3 màu xanh , đỏ , vàng , có bao_nhiêu cách tô màu cho 5 cạnh của ngũ_giác này sao cho không có hai cạnh liền kề nào trùng màu với nhau ?
+Thanh_Tâm
+> > Bài_toán nhặt đậu thách_thức suy_luận của bạn > > Bài_toán xếp hình có_thể làm_bạn ' phát điên '

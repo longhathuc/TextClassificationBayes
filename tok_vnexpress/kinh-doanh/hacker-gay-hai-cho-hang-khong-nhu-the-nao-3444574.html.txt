@@ -1,0 +1,46 @@
+Hacker gây hại cho hàng_không như_thế_nào
+Sân_bay và các hãng hàng_không trên thế_giới đang ngày_càng trở_thành mục_tiêu lý_tưởng cho tội_phạm mạng , do có tính kết_nối cao .
+Vụ tấn_công hệ_thống thông_tin của 2 sân_bay lớn nhất Việt_Nam và Vietnam_Airlines ngày 29/7 của nhóm tin_tặc tự_xưng đến từ Trung_Quốc đã gây ảnh_hưởng lớn đến hoạt_động của ngành_hàng không trong nước .
+Trước đó , tin_tặc Trung_Quốc vốn được biết đến với nhiều vụ tấn_công , lấy cắp thông_tin của doanh_nghiệp nước_ngoài song ít khi " động đến " mảng hàng_không .
+Tuy_vậy , trong những năm gần đây , việc tin_tặc nói_chung tấn_công ngành_hàng không và các sân_bay đã gây ra hậu_quả và được cảnh_báo khắp_nơi trên thế_giới .
+" Khủng_bố qua mạng Internet có_thể thay_thế không_tặc và những kẻ đánh bom , trở_thành vũ_khí được ưa_chuộng để tấn_công ngành_hàng không " , hãng bảo_hiểm Allianz ( Đức ) cho_biết trong một bản nhận_định về an_ninh hàng_không năm 2014 .
+Cũng_như các nhà_máy và hệ_thống truyền_tải điện , sân_bay và hàng_không được coi là cơ_sở_hạ_tầng quan_trọng của mỗi quốc_gia .
+Nó có vai_trò thiết_yếu với cả hoạt_động kinh_tế và xã_hội .
+Nếu được thực_hiện thành_công , những vụ tấn_công này có_thể gây ảnh_hưởng nghiêm_trọng đến kinh_tế , hoạt_động kinh_doanh và kế_hoạch đi_lại của các cá_nhân .
+Bên_cạnh đó , thông_tin đánh_cắp từ các vụ tấn_công này có_thể được sử_dụng cho mục_đích thương_mại bởi các sân_bay hoặc hãng hàng_không đối_thủ .
+Nó cũng có_thể hủy_hoại danh_tiếng của nạn_nhân .
+Ví_dụ , nếu thông_tin bí_mật của hành_khách bị rò_rỉ và tung lên Internet , hành_khách sẽ có xu_hướng né_tránh hãng hàng_không đó .
+Tội_phạm Internet đang là mối lo hàng_đầu với ngành_hàng không thế_giới .
+Ảnh : Cyber_Defense_Mag
+Tháng 6 năm nay , Paul_Dixon ( 22 tuổi ) , sống tại Durham ( Anh ) đã bị cáo_buộc tấn_công website Sở cảnh_sát Durham , cơ_quan cảnh_sát Scotland , hãng bán_lẻ game CeX và cả website hãng hàng_không British_Airways , khiến hãng bay phải ngừng hoạt_động trong một giờ .
+Vụ_việc xảy_ra vào nửa cuối tháng 10/2014 .
+Dixon cũng bị bắt_giữ không lâu sau đó , Mirror cho_biết .
+Theo công_tố_viên Jim_Hope , việc bị tấn_công từ_chối dịch_vụ suốt một giờ đã khiến website British_Airways mất khoảng 100.000 bảng doanh_thu .
+Chưa kể , việc này còn gây ảnh_hưởng lên niềm_tin của khách_hàng vào các doanh_nghiệp này .
+Cuối tháng 5 , giới_chức Ai_Cập cũng cảnh_báo các phi_công về việc hacker cài_đặt thiết_bị phá sóng GPS tại sân_bay Cairo .
+Họ cho rằng các hacker muốn can_thiệp vào hệ_thống máy_móc của máy_bay trong lúc hạ_cánh .
+Công_cụ này có_thể mua được trên Internet với giá chưa đầy 150 USD .
+Chúng dùng để vô_hiệu_hóa hệ_thống điều hướng của các hãng bay , ảnh_hưởng đến hoạt_động của hải_quân , hoặc thậm_chí là các phần_mềm bản_đồ trên smartphone .
+Năm 2004 , thiết_bị này cũng được cho là gây ra vấn_đề cho hàng_loạt sân_bay tại Anh , như Heathrow , Stansted và Gatwick .
+Đầu năm nay , giới_chức quân_đội Ukraine cho_biết đã ngăn_chặn được một vụ tấn_công mạng vào sân_bay lớn nhất nước này - Boryspil .
+Theo đó , một phần_mềm độc_hại ( malware ) đã được tìm thấy trong một máy_tính của sân_bay .
+Nó đã được phát_hiện sớm và vô_hiệu_hóa trước khi gây ra bất_kỳ thiệt_hại nào .
+Sân_bay này đón 7 triệu lượt khách mỗi năm .
+Vì_thế , một vụ tấn_công mạng sẽ gây ra tình_trạng hỗn_loạn .
+Malware này tương_tự phần_mềm đã tấn_công 3 hãng năng_lượng lớn của Ukraine cuối năm_ngoái .
+Sự_việc đã gây mất điện trên cả nước suốt nhiều giờ .
+Hãng bay LOT năm_ngoái cũng bị hacker tấn_công .
+Ảnh : REX
+Tháng 6 năm_ngoái , khoảng 1.400 hành_khách của hãng hàng_không Ba_Lan – LOT đã mắc_kẹt tại sân_bay Chopin ( Warsaw ) .
+Nguyên_nhân là hệ_thống máy_tính trên mặt_đất của hãng bay bị hacker tấn_công , khiến họ không_thể sắp_xếp lịch_trình bay .
+Sự_việc được khắc_phục sau 5 giờ .
+Trong thời_gian đó , 10 chuyến bay nội_địa và quốc_tế của hãng hàng_không này đã bị hủy .
+Hơn 10 chuyến khác bị hoãn , theo người_phát_ngôn của LOT .
+Nhiều hành_khách chịu ảnh_hưởng đã được hỗ_trợ lên chuyến khác , hoặc tìm khách_sạn để ở qua đêm .
+Hồi tháng 10 năm_ngoái , website của Sân_bay Quốc_tế Norwich ( Mỹ ) cũng bị tấn_công .
+Dù_vậy , hacker có mật_danh His_Royal_Gingerness ( HRG ) cho_biết mục_đích của anh_ta chỉ là chứng_minh website này " rất dễ đột_nhập " .
+Ngoài việc tấn_công website , HRG còn lấy đi tên và địa_chỉ email của các hành_khách trong cơ_sở_dữ_liệu của hãng bay .
+Quá_trình tấn_công chỉ mất khoảng 2-3 phút .
+Sau sự_việc trên , đại_diện sân_bay cho_biết đã thực_hiện các thay_đổi cần_thiết để đảm_bảo an_ninh .
+Hacker này đã bị bắt hồi đầu năm nay .
+Hà_Thu ( tổng_hợp )

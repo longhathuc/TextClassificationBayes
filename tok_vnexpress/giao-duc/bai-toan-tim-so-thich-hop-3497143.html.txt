@@ -1,0 +1,2 @@
+Bài_toán tìm số thích_hợp
+Bạn có_thể tìm ra số còn thiếu trong hình_tròn với các số có hai hoặc ba chữ_số này không ?

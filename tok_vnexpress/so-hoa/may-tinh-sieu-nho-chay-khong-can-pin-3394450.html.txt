@@ -1,0 +1,11 @@
+Máy_tính siêu nhỏ chạy không cần pin
+Năng_lượng cho chiếc máy_tính nhỏ cỡ đầu ngón_tay được chuyển_đổi từ sóng_vô_tuyến , giúp nó hoạt_động mà không cần pin .
+Nhóm nghiên_cứu Sensor_Lab thuộc đại_học Washington ( Mỹ ) và đại_học công_nghệ Delft ( Hà_Lan ) đã phát_triển thành_công một thiết_bị số chạy không cần pin hay bất_cứ nguồn điện bên ngoài nào .
+Sản_phẩm có tên viết tắt là WISP , sẽ hấp_thụ sóng_vô_tuyến trong không_gian và chuyển_đổi thành điện_năng .
+Mẫu máy_tính WISP có khả_năng hoạt_động mà không cần pin hay nguồn điện bên ngoài .
+WISP không được thiết_kế nhằm cạnh_tranh với những bộ chip trên máy_tính hay smartphone .
+Tuy_nhiên , sức_mạnh xử_lý của nó đủ để chạy các cảm_biến và truyền_tải dữ_liệu , có_thể dùng cho những thiết_bị đeo thông_minh như smartwatch , vòng đeo sức_khỏe ...
+Thành_công của nghiên_cứu này hứa_hẹn mở ra nhiều hướng đi mới trong thời_đại Internet của vạn_vật ( IoT ) .
+Năng_lượng mà WISP tiêu_thụ thậm_chí còn thấp hơn so với Bluetooth LE đang được dùng trên nhiều thiết_bị hiện_nay .
+Một ứng_dụng khác của WISP là tích_hợp vào smartphone .
+Bộ_phận này có_thể giúp thiết_bị thực_hiện các cuộc_gọi khẩn_cấp ngay cả khi máy hết pin .

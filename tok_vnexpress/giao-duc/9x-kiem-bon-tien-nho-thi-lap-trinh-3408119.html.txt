@@ -1,0 +1,27 @@
+9X kiếm bộn tiền nhờ thi lập_trình
+Gennady_Vladimirovich_Korotkevich chiến_thắng ngoạn_mục ở nhiều cuộc_thi dành cho lập_trình_viên khi tuổi_đời còn rất trẻ .
+Sinh năm 1994 , chàng_trai người Belarus_Gennady_Vladimirovich_Korotkevich được xem như huyền_thoại trẻ của làng lập_trình thế_giới .
+Korotkevich tham_gia nhiều cuộc_thi và có_thể giải nhanh , chính_xác các bài_toán hóc_búa .
+" Gennady kiếm không ít tiền qua các cuộc_thi .
+Chúng_tôi chưa bao_giờ thấy ai có_thể   chiến_thắng rất nhiều lần như_vậy " ,   lập_trình_viên   Vladimir_Novakovski - người từng tham_gia nhiều cuộc_thi tương_tự nhận_xét về cậu .
+Năm 2014 và 2015 , chàng_trai 9X đều vô_địch cả hai cuộc_thi do Facebook và Google tổ_chức .
+Hacker_Cup là cuộc_thi lập_trình hàng năm của Facebook , có vòng_loại được tổ_chức trực_tuyến với đề_bài là các vấn_đề mã nguồn .
+Đến vòng chung_kết , thí_sinh được tài_trợ toàn_bộ chi_phí để đến trụ_sở Facebook tham_gia tranh giải .
+Nhiều gương_mặt trẻ tài_năng của thế_giới đến từ Nga , Đông_Âu hay châu Á xem đây là cơ_hội để được thăm_thú thung_lũng Silicon và tìm_kiếm việc_làm tốt .
+Trong cuộc_thi năm 2015 , các thí_sinh phải giải 4 bài_toán .
+Korotkevich chỉ lọt vào top 3 người hoàn_thành bài số_một và số 2 nhanh_nhất nhưng lại bứt_phá hoàn_thành toàn_bộ đề thi trong thời_gian ngắn nhất .
+Kết_quả chung_cuộc , dù giải sai bài thứ 2 , lập_trình_viên trẻ tuổi vẫn là người vô_địch vì có kết_quả xuất_sắc nhất trong tất_cả các thí_sinh và có trong tay 10.000 USD tiền thưởng .
+Năm 2014 , kết_quả mà cậu sinh_viên này đạt được còn ấn_tượng hơn khi chạm_ngõ cuộc_thi Code_Jam_Finals do Google tổ_chức .
+Cậu vượt qua gần 20.000 thí_sinh khác để trở_thành một trong 26 lập_trình được tham_gia vòng chung_kết tại trụ_sở Google ở Los_Angeles .
+Gặp các đại_diện từ nhiều quốc_gia như Mỹ , Trung_Quốc , Nhật_Bản , Ukraine , Ba_Lan , Nga … , lập_trình_viên trẻ tuổi đã chiến_thắng một_cách thuyết_phục khi có_thể viết các chương_trình hoàn_hảo giải_quyết quyết hết các lỗi hóc_búa mà ban tổ_chức đặt ra và thu về phần_thưởng 15.000 USD .
+Gennady_Vladimirovich_Korotkevich sinh_ra trong một gia_đình có bố_mẹ đều là lập_trình_viên làm_việc ở một trường đại_học tại quê_nhà Belarus .
+Từ năm 6 tuổi , cậu đã tỏ ra hứng_thú với công_việc của bố_mẹ mình và học lập_trình khi lên 8 dưới sự giúp_đỡ của bố .
+Cậu nhận được sự chú_ý khi tham_gia cuộc_thi Olympic_Tin học Quốc_tế ( International_Olympiad in Informatics ) dành cho học_sinh trung_học khi mới 11 tuổi với thành_tích huy_chương bạc và năm sau đó , đã giành được huy_chương vàng ở tuổi 12 .
+Dù có_thể dễ_dàng có một công_việc tốt , được trả lương cao ở thung_lũng Silicon khi còn rất trẻ tuổi , Korotkevich vẫn cảm_thấy chưa sẵn_sàng và tiếp_tục công_việc học_tập ở Đại_học Saint_Petersburg ngành Công_nghệ , Cơ_khí và Quang_học để chuẩn_bị cho tương_lai .
+Được ca_tụng là huyền_thoại nhưng lập_trình_viên trẻ tuổi từng khiêm_tốn chia_sẻ : " Tôi thử giải bằng nhiều cách khác_nhau và một trong số đó lại chính_xác .
+Tôi không phải là thiên_tài .
+Tôi chỉ làm tốt việc thử các cách khác_nhau đó thôi " .
+Cậu cũng chỉ dành 3-4 giờ mỗi ngày cho máy_tính và còn có những trò_chơi yêu_thích khác như bóng_đá , bóng_bàn " .
+Các cuộc_thi lập_trình là môn thể_thao trí_tuệ , được nhiều công_ty liên_quan đến ứng_dụng , phần_mềm như Google , Facebook hay IBM tổ_chức hàng năm .
+Những vấn_đề liên_quan đến thuật_toán , logic được đưa ra làm đề thi , yêu_cầu thí_sinh phải viết các chương_trình giải thành_công nhất về mặt hiệu_quả , thời_gian và các yếu_tố khác , chẳng_hạn như dung_lượng bộ_nhớ chương_trình .
+Thu_Ngân

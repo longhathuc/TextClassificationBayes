@@ -1,0 +1,50 @@
+Tại_sao hay bị ức_chế khi chơi game ?
+Mất trang_bị , bị xóa dữ_liệu , gặp " trẻ trâu " hay lag là những nguyên_nhân khiến người chơi tức_tối .
+Trò_chơi có quá nhiều hacker
+Hack là việc người chơi sử_dụng các phần_mềm , công_cụ bên ngoài hoặc lợi_dụng lỗi game để can_thiệp vào hệ_thống , tạo ra những lợi_ích riêng cho nhân_vật hay tài_khoản của mình .
+Hành_vi này thường xuất_phát từ game thủ am_hiểu lập_trình , cũng đôi_khi do người chơi vô_tình phát_hiện và lan_truyền trong cộng_đồng .
+Gần_như 100% các trò_chơi trực_tuyến hiện_nay cả ở Việt_Nam lẫn trên thế_giới đều có_thể bị hacker can_thiệp .
+Game bắn súng trực_tuyến là thể_loại bị hacker can_thiệp nhiều nhất .
+Có nhiều loại hack khác_nhau , như sử_dụng " cheat " hoặc " bug " , thay_đổi file dữ_liệu , thay_đổi thông_số trên RAM ...
+Ngoài việc trục_lợi từ hệ_thống , giúp chiến_thắng các thử_thách , chúng còn có_thể tác_động tới người chơi khác nhằm tước_đoạt vật_phẩm hay thậm_chí là toàn_bộ thông_tin tài_khoản .
+Khi nhà_phát_triển game không_thể khắc_phục và để cho tình_trạng này trở_nên phổ_biến , game thủ sẽ cảm_thấy ức_chế khi thấy người khác có_thể đạt thành_quả cao hơn mình một_cách dễ_dàng .
+Những người bị mất tài_khoản , vật_phẩm vào tay hacker sẽ nhanh_chóng buông bỏ trò_chơi nếu_không được hỗ_trợ lấy lại .
+Nếu_không bỏ game , số người chơi này sẽ tìm cách sử_dụng hack để trả_thù và nạn_nhân sẽ là các game thủ vô_tội khác .
+Game bị mất cân_bằng
+Các trò_chơi được phát_triển nhằm tạo ra sự cân_bằng giữa người chơi , dựa trên cách chơi và việc phân_bổ tài_nguyên , vật_phẩm .
+Tuy_nhiên , không phải lúc_nào điều này cũng ở mức hoàn_hảo .
+Một_số trò_chơi nhập_vai để cho một lớp nhân_vật có_thể vượt_trội hơn phần còn lại về cấp_độ , sức_mạnh từ khá sớm .
+Việc mất cân_bằng trong các game chiến_thuật thể_hiện ở việc một lối chơi nào_đó áp_đảo các chiến_thuật còn lại .
+Ví_dụ Pokemon_Go , sự mất cân_bằng nằm ở việc phân_bổ các phòng Gym , PokeStop giữa khu_vực nông_thôn và thành_thị đã khiến nhiều game thủ phải bỏ việc theo_đuổi trò_chơi .
+Nhiều game thủ ở khu_vực   nông_thôn bỏ chơi Pokemon_Go vì không_thể tìm thấy các PokeStop .
+Khi game không còn cân_bằng , phần_đông người chơi sẽ nghiêng về việc tranh_thủ lợi_thế để tăng cấp_độ và sức_mạnh cho nhân_vật , tài_khoản của mình .
+Điều này khiến cho những game thủ muốn trải_nghiệm một_cách bình_thường , vui_vẻ cảm_thấy nản_lòng và sớm xóa trò_chơi khỏi máy .
+Nhân_vật ảo bị mất trang_bị
+Nhiều trang_bị , vật_phẩm trong game online được tích_lũy và tạo ra từ quá_trình chơi rất lâu của game thủ .
+Đôi_khi giá_trị của một tài_khoản game được xác_định bằng một_vài món đồ trên người nhân_vật ảo và có_thể quy_đổi ra tiền_mặt lên tới hàng chục hay cả trăm triệu đồng .
+Nhưng đôi_khi vì một_chút đãng_trí nào_đó , không ít game thủ đã đặt nhầm giá_trị khi " treo shop " bán đồ trong game và bị người chơi khác nhanh tay mua mất .
+Có lúc , vật_phẩm bị phá_hủy trong quá_trình người chơi muốn nâng_cấp , cường hóa .
+Không_thể lấy lại món đồ giá_trị , tinh_thần của người chơi sẽ nhanh_chóng suy_sụp và phần_lớn đều bỏ game hoặc chấp_nhận chơi lại từ đầu ở một máy_chủ khác .
+Lag , mất dữ_liệu từ máy_chủ
+Cơ_sở_hạ_tầng của hãng phát_hành không được chuẩn_bị tốt là nguyên_nhân gây ra hiện_tượng lag , mất kết_nối trong khi chơi .
+Phần_lớn game thủ sẽ chấp_nhận hiện_tượng này trong một_vài ngày đầu khi sản_phẩm ra_mắt , thời_điểm mà lượng người chơi phát_sinh đột_biến hoặc khi game cập_nhật phiên_bản mới .
+Tuy_nhiên , nếu để kéo_dài , game thủ sẽ cảm_thấy khó_chịu khi trải_nghiệm , dẫn tới việc đánh_giá thấp khả_năng quản_lý của đơn_vị vận_hành .
+Còn việc mất dữ_liệu , hay còn gọi_là " sập game " , là lỗi lớn của đơn_vị quản_lý trong quá_trình phát_hành .
+Nếu nhẹ , hệ_thống sẽ lùi cơ_sở_dữ_liệu về trạng_thái cũ trước đó một thời_gian , người chơi sẽ mất đi cấp_độ , trang_bị và toàn_bộ thông_tin giao_dịch trong giới_hạn .
+Rất nhiều game online Việt đã gặp phải sự_cố này .
+Nếu nghiêm_trọng , game thủ sẽ mất đi tất_cả thông_tin nhân_vật , tài_khoản .
+Sự_cố " sập game " lớn nhất trong làng game Việt xảy_ra tháng 10/2014 và nạn_nhân là nhà phát_hành Soha_Game .
+Rất nhiều trò_chơi do đơn_vị này phát_hành đã không còn dữ_liệu , buộc phải đóng_cửa hoặc cho game thủ chơi lại từ đầu .
+Bị quấy_phá trong khi chơi
+Khác với những sự " ức_chế " ở trên , vấn_đề này không liên_quan tới hệ_thống mà xuất_phát trực_tiếp từ những người chơi khác .
+Đó là việc game thủ sẽ bị PK ( đồ sát ) vô_căn_cứ hay bỗng_dưng bị mắng_chửi bất_ngờ .
+Đôi_khi nhân_vật bị quấy_phá không cho đánh quái , luyện cấp hoặc trong những trận đấu quan_trọng , thành_viên khác trong đội bất_ngờ quay sang hỗ_trợ cho đối_thủ .
+Những người chơi hành_xử như_vậy thường được ưu_ái gọi bằng cái tên " trẻ trâu " .
+Nhiều lần như_vậy , người chơi sẽ mất_lòng tin vào cộng_đồng .
+Khi mỗi lần vào game đều cảm những trải_nghiệm khó_chịu , game thủ sẽ không ngần_ngại từ_bỏ và tìm tới một cộng_đồng khác thân_thiện cũng_như nghiêm_túc hơn .
+Nhà phát_hành " xem nhẹ " cộng_đồng
+Khi gặp hacker , sự_cố kỹ_thuật hay có thắc_mắc về các sự_kiện , người đầu_tiên game thủ muốn nói_chuyện là đội_ngũ kỹ_thuật hay những người trực_tiếp quản_lý cộng_đồng , chiếc " cầu_nối " với nhà phát_hành .
+Kênh giao_tiếp thông_thường là đường_dây_nóng , trang fanpage của game hoặc diễn_đàn .
+Nhiều game thủ sẵn_sàng lên tận trụ_sở đơn_vị phát_hành để nói_chuyện trực_tiếp .
+Trong trường_hợp các vấn_đề không được xử_lý một_cách triệt_để , công_bằng và minh_bạch thì đây sẽ là những " vết sẹo " khó xóa trong lòng cộng_đồng game thủ .
+Việc cố_ý bao_che các tài_khoản VIP , bảo_vệ nhân_viên thái_quá hay che_giấu lỗi hệ_thống sẽ khiến người chơi mất_lòng tin vào nhà phát_hành và xóa game không lâu sau đó .

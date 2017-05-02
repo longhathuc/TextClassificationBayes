@@ -1,0 +1,27 @@
+Phương_pháp hứa_hẹn điều_trị tận gốc đại_dịch thế_kỷ HIV/AIDS
+Thông_qua chỉnh_sửa gene , các nhà_nghiên_cứu có_thể loại_bỏ hoàn_toàn virus HIV khỏi tế_bào hệ_miễn_dịch , ngăn chúng sao_chép và chuyển sang giai_đoạn AIDS .
+Các nhà_nghiên_cứu ở Đại_học Temple , Pennsyvania , Mỹ , đã sử_dụng công_cụ chỉnh_sửa gene CRISPR/Cas9 để loại_bỏ hoàn_toàn bộ gen HIV - 1 ra khỏi tế_bào miễn_dịch nhiễm virus của bệnh_nhân .
+Đó là một thành_tựu đặc_biệt có_thể có ý_nghĩa quan_trọng trong việc điều_trị bệnh AIDS và các bệnh liên_quan đến retrovirus khác .
+CRISPR/Cas9 thường được coi như một công_cụ loại_bỏ các bệnh do gene di_truyền hoặc như một phương_pháp chuyển gen .
+Nghiên_cứu mới cho thấy rằng CRISPS/Cas9 hứa_hẹn đem lại kết_quả tốt trong loại_bỏ các virus chèn mã di_truyền độc_hại vào tế_bào chủ .
+Kết_quả nghiên_cứu được công_bố trên tạp_chí Scientific_Reports hôm 4/3 .
+Khác những virus thông_thường , retrovirus chèn bản_sao của hệ gene của chúng vào tế_bào chủ để sao_chép .
+Thuốc kháng retrovirus có_thể kiểm_soát hiệu_quả sự sinh_sản của virus HIV sau khi lây_nhiễm , nhưng khi bệnh_nhân ngừng uống thuốc , chúng tái_phát rất nhanh .
+Khi ngừng điều_trị , virus HIV tiếp_tục chiếm ưu_thế , làm suy_yếu hệ_thống miễn_dịch , từ đó khởi_phát hội_chứng suy_giảm miễn_dịch ( AIDS ) .
+Trong nhiều năm , các nhà_khoa_học luôn nỗ_lực để loại_bỏ virus HIV ra khỏi tế_bào T_CD4 + nhiễm_bệnh , một loại tế_bào bạch_cầu giúp kháng nhiễm_trùng .
+Phần_nhiều những nỗ_lực tiêu_diệt không mang lại thành_công .
+Sự ra_đời của công_cụ CRISPR/Cas9 trong thời_gian gần đây đã truyền cảm_hứng cho các nhà_nghiên_cứu phát_triển cách tiếp_cận mới .
+Nhà di_truyền_học Kamel_Khalili và đồng_nghiệp từ Đại_học Temple trích xuất tế_bào T nhiễm virus từ bệnh_nhân .
+Nhóm nghiên_cứu điều_chỉnh công_cụ CRISPR/Cas9 dành riêng cho ADN của HIV - 1 .
+Đầu_tiên , đoạn dẫn ARN sẽ tìm vật_chất di_truyền của virus trong cả hệ gene của tế_bào T .
+Sau khi quá_trình nhận_dạng hoàn_tất , một loại enzyme từ nhân sẽ cắt bỏ đoạn mã độc_hại khỏi ADN của tế_bào T .
+Sau đó , công_cụ sửa_chữa ADN tích_hợp trong tế_bào sẽ nối lại hai đầu bị đứt của ADN .
+Phương_pháp giúp loại_bỏ vĩnh_viễn đoạn ADN của virus ra khỏi tế_bào bởi_vì hệ_thống bảo_vệ gene siêu nhỏ này vẫn trong tế_bào , ngăn_chặn tình_trạng lây_nhiễm khi các phân_tử HIV - 1 cố_gắng xâm_nhập vào tế_bào chưa chỉnh_sửa .
+Thí_nghiệm được tiến_hành trên tế_bào T nằm trong đĩa cấy , nhưng kĩ_thuật này giảm thành_công lượng virus trong tế_bào trích xuất của bệnh_nhân , hứa_hẹn trở_thành phương_pháp điều_trị hiệu_quả .
+Tuy_nhiên , các nhà_nghiên_cứu cần thêm nhiều thời_gian phát_triển để hiện_thực hóa điều này .
+Họ cũng loại_trừ khả_năng không đáp_ứng mục_tiêu kỳ_vọng ( như tác_dụng phụ của chỉnh_sửa gen ) và độc_tính tiềm_ẩn .
+Họ đã chứng_minh các tế_bào phát_triển và hoạt_động bình_thường sau khi loại_bỏ HIV - 1 .
+" Phát_hiện cho thấy tính hiệu_quả của hệ_thống chỉnh_sửa gene của chúng_tôi trong việc loại_trừ HIV khỏi ADN của tế_bào T_CD4 bằng cách đưa các đột_biến vào hệ gene của virus , làm cho nó vĩnh_viễn mất khả_năng sao_chép " , Khalili tuyên_bố .
+" Hơn_nữa , nghiên_cứu chỉ ra hệ_thống có_thể bảo_vệ các tế_bào khỏi sự tái_nhiễm và công_nghệ này là an_toàn cho các tế_bào nhờ không có độc_tính " .
+Kỹ_thuật loại_bỏ ADN ngoại_lai này có nhiều ý_nghĩa đối_với nghiên_cứu liên_quan , bao_gồm điều_trị retrovirus gây bệnh ung_thư và máu_trắng , cũng_như những retrovirus đang ảnh_hưởng đến vật_nuôi và cây_trồng .
+Phương_Chu

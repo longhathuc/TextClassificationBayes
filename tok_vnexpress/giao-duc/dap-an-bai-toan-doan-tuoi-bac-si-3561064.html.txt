@@ -1,0 +1,31 @@
+Đáp_án bài_toán ' đoán tuổi bác_sĩ '
+Có nhiều bạn tìm ra đáp_số đúng , nhưng chưa bạn nào có lời giải_thích rõ_ràng , thỏa_đáng .
+Cùng phân_tích để tìm ra lời_giải xác_đáng cho bài_toán .
+Đề_bài :
+Một buổi_sáng , bác_sĩ Khánh nói với y_tá Hằng : “ Hôm_nay tôi khám bệnh cho 3 người .
+Tích_số tuổi của họ là 2450 và tổng_số tuổi của họ gấp 2 lần tuổi của cô .
+Hãy tính tuổi của mỗi người ” .
+Vào buổi_trưa , y_tá Hằng thừa_nhận không_thể trả_lời được câu_hỏi này .
+Khi đó bác_sĩ Khánh cho thêm dữ_kiện : “ Một trong 3 người đó lớn hơn tuổi của tôi ” .
+Ngay sau đó nữ y_tá đã trả_lời được câu_hỏi của bác_sĩ .
+Hỏi bác_sĩ bao_nhiêu tuổi .
+Bình_luận và lời_giải :
+Thoạt_tiên khi đọc đề_bài sẽ làm chúng_ta liên_tưởng bài_toán : “ Đầu cừu đuôi thuyền_trưởng ” với nội_dung " Trên tàu có 45 con cừu , 5 con bị rơi xuống_nước .
+Hỏi ông thuyền_trưởng bao_nhiêu tuổi ? " .
+Còn ở bài_toán này có 2 câu_hỏi .
+Câu_hỏi của bác_sĩ Khánh dành cho y_tá Hằng : “ … Hãy tính tuổi của mỗi người ” và câu_hỏi của bài_toán : “ Hỏi bác_sĩ bao_nhiêu tuổi ? ” .
+Bây_giờ , chúng_ta sẽ phân_tích và giải bài_toán .
+Gọi số tuổi của 3 bệnh_nhân là a , b , c thì abc = 2450 , do_đó để xác_định a , b , c thì ta cần phân_tích tiêu_chuẩn 2450 thành_tích các số_nguyên_tố : 2450 = 2 x 5 x 5 x 7 x 7 .
+Với giả_định thực_tế không có ai sống đến 175 tuổi thì có_thể tổ_hợp 2450 = abc trong đó Max ( a , b , c )
+2450 = 98 x 25 x 1 = 98 x 5 x 5 = 70 x 35 x 1 = 70 x 7 x 5
+= 50 x 49 x 1 = 50 x 7 x 7 = 49 x 25 x 2 = 49 x 10 x 5
+= 35 x 35 x 2 = 35 x 14 x 5 = 35 x 10 x 7 = 25 x 14 x 7
+Khi đó , tổng a + b + c tương_ứng là : 124 ; 108 ; 106 ; 82 ; 100 ; 64 ; 76 ; 64 ; 72 ; 54 ; 52 ; 46 .
+Trong 12 kết_quả xuất_hiện có 2 kết_quả lặp lại với giá_trị là 64 .
+Khi y_tá Hằng biết tích abc = 2450 và biết kết_quả tổng a + b + c ( vì nó gấp 2 lần tuổi của cô ) mà vẫn không tìm được a , b , c thì chứng_tỏ tổng a + b + c = 64 với a , b , c là các hoán_vị của ( 50 ; 7 ; 7 ) hoặc ( 49 ; 10 ; 5 ) ( các kết_quả tổng khác 64 đều xác_định 1 bộ số duy_nhất a , b , c không tính đến các hoán_vị ) .
+Khi bác_sĩ Khánh cho thêm dữ_kiện : “ Một trong 3 người đó lớn hơn tuổi của tôi ” và y_tá Hằng tìm được tuổi của 3 người thì y_tá Hằng phải_biết chắc_chắn tuổi của bác_sĩ Khánh .
+Ta có 64 = 50 + 7 + 7 = 49 + 10 + 5 .
+Nếu tuổi bác_sĩ nhỏ hơn 49 thì cả 2 bộ số ( 50 ; 7 ; 7 ) ; ( 49 ; 10 ; 5 ) đều thỏa_mãn yêu_cầu bài_toán và y_tá Hằng không_thể xác_định được tuổi a , b , c của 3 người .
+Nhưng do y_tá Hằng xác_định được tuổi của 3 người khi có thêm dữ_kiện “ Một trong 3 người đó lớn hơn tuổi của tôi ” , thì tuổi của bác_sĩ phải là 49 và tuổi của 3 người là 50 ; 7 ; 7 .
+Đáp_án : 49
+Trần_Phương

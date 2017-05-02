@@ -1,0 +1,14 @@
+MacBook Pro mới gặp lỗi đồ_họa
+Nhiều người dùng phàn_nàn máy_tính_xách_tay thế_hệ mới của Apple gặp vấn_đề phần_cứng , khiến thiết_bị_hiển_thị các sọc màu nhấp_nháy và phải khởi_động lại .
+Theo ghi_nhận của MacRumors , trục_trặc xảy_ra phổ_biến nhất trên các model 15 inch phiên_bản đặt_hàng theo cấu_hình .
+Tuy_nhiên , các mẫu MacBook Pro 13 inch và 15 inch tiêu_chuẩn cũng bị ảnh_hưởng .
+Nhiều người kêu MacBook Pro mới gặp lỗi .
+Người dùng Jan_Becker cho_biết , chiếc máy_tính của ông là phiên_bản 15 inch cấu_hình cao nhất với card đồ_họa AMD Radeon_Pro 460 .
+Khi đang dựng video bằng phần_mềm Premiere_Pro thì màn_hình nhấp_nháy , thiết_bị đột_ngột dừng hoạt_động ( crash ) .
+Đem chiếc MacBook Pro đến cửa_hàng , Becker được nhân_viên của Apple cho_biết thiết_bị có_thể gặp vấn_đề về phần_cứng liên_quan đến card đồ_họa .
+Các kỹ_sư của công_ty công_nghệ Mỹ đã đề_nghị ông cung_cấp các bản ghi trong quá_trình sử_dụng , thậm_chí là muốn lấy dữ_liệu trên máy để điều_tra .
+Phiên_bản cao_cấp nhất của chiếc MacBook Pro với Touch_Bar được sản_xuất theo đơn đặt_hàng với card đồ_họa AMD Radeon_Pro 460 là thiết_bị gặp sự_cố nhiều nhất .
+Song một_số model tiêu_chuẩn dùng card AMD Radeon_Pro 450 hoặc 455 cũng vấn bị .
+" Triệu_chứng " phổ_biến nhất mà người dùng gặp phải là màn_hình đột_nhiên nhấp_nháy , hiển_thị các mảng màu loang_lổ hay các vệt sọc .
+Lỗi thường xảy_ra khi người dùng thao_tác các chương_trình nặng như chuyển mã video , đồng_bộ ảnh ...   Khi bị sự_cố , máy_tính có_thể không phản_hồi và buộc phải khởi_động lại .
+Hiện_Apple đã tiếp_nhận các máy gặp vấn_đề của người dùng , nhưng chưa đưa ra thông_báo chính_thức về lỗi này .

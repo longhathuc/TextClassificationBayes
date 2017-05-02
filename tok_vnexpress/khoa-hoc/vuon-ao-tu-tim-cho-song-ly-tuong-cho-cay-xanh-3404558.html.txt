@@ -1,0 +1,15 @@
+' Vườn ảo ' tự tìm chỗ sống lý_tưởng cho cây_xanh
+Các nhà_khoa_học Anh thiết_kế một hệ_thống " vườn ảo " giúp cây_xanh trồng trong đó tự_động di_chuyển tới nơi có điều_kiện sống lý_tưởng .
+Theo Science_Alert , nhiều loại cây chúng_ta trồng trong vườn hay trong nhà phụ_thuộc rất nhiều vào sự chăm_sóc của con_người .
+Chúng_ta phải tưới đủ nước , tắm đủ nắng cho chúng .
+Tuy_nhiên , mọi việc có_thể thay_đổi nhờ một dự_án giúp cây tự đi tìm nguồn dinh_dưỡng lý_tưởng , mà không cần đến bàn_tay chăm_sóc của con_người .
+Dự_án kỳ_lạ có tên   " Hortcum machina , B " này là ý_tưởng của William_Victor_Camilleri và Danilo_Sampaio , trường Kiến_trúc Bartlett , Đại_học College , London .
+Nó sử_dụng một loạt các cảm_biến để theo_dõi điện_sinh_lý_học của Trái_Đất , về cơ_bản sẽ cho chúng có một hình_thức sơ_khai của " trí thông_minh " , theo nhóm nghiên_cứu .
+" Nó mang bên trong 12 khối vườn , mỗi khối trồng một loài cây bản_địa của Anh với một thiết_bị truyền động tuyến_tính cho_phép cấu_trúc di_chuyển bằng cách thay_đổi trọng_tâm " , nhóm nghiên_cứu cho_biết .
+" Cảm_biến điện sinh_lý các trạng_thái của từng loài cây điều_khiển chung quá_trình ra quyết_định về hướng của cấu_trúc và tính di_động của nó " .
+Nói cách khác , khu vườn có_thể lăn đi tới khi nào các cảm_biến điện_hóa_học của nó phát_hiện ra một môi_trường sống lý_tưởng .
+Sau đó , nếu các điều_kiện giữ nguyên , nó có_thể đứng lại hoặc chuyển sang vị_trí mới nếu môi_trường thay_đổi .
+Hiện nhóm nghiên_cứu không công_bố nhiều thông_tin về hệ_thống vườn với đánh_giá môi_trường tại các khu_vực khác_nhau thế_nào , nhưng hệ_thống sẽ đưa đến tiềm_năng rất lớn cho những lĩnh_vực khác xa làm_vườn .
+" Trong tương_lai gần , cùng_với xe tự lái và các thiết_bị di_chuyển bay tự_động và rất nhiều dạng robot thông_minh khác , Hortum machina B có_thể sẽ là những thợ làm_vườn trong thành_phố " , theo nhóm nghiên_cứu .
+Xem thêm : Người chết hóa_thân trong cây_xanh nhờ quan_tài trứng
+Nguyễn_Thành_Minh

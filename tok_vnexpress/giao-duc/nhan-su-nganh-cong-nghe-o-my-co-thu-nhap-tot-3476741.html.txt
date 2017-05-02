@@ -1,0 +1,15 @@
+Nhân_sự ngành công_nghệ ở Mỹ có thu_nhập tốt
+Các nhà_khoa_học , kỹ_sư dữ_liệu , phát_triển web có khả_năng tăng lương cao hơn những ngành_nghề khác .
+Theo số_liệu do hãng cung_cấp dịch_vụ nhân_sự công_nghệ Robert_Half_Technology ( Mỹ ) công_bố , các nhà_khoa_học dữ_liệu sẽ hưởng mức tăng lương cao nhất trong năm 2017 , lên đến 6,4% , gần gấp đôi so với tỷ_lệ tăng trung_bình của người lao_động toàn ngành công_nghệ .
+Bên_cạnh đó , nghiên_cứu cũng cho thấy nhân_viên IT sẽ có thu_nhập tốt hơn những ngành_nghề khác .
+Xét tổng_thể trên tất_cả các lĩnh_vực tại Mỹ , mức lương khởi_điểm dự_báo sẽ tăng 3,6% trong năm 2017 .
+Trong đó , ngành công_nghệ khả_quan nhất khi những nhân_viên mới vào làm nhận lương cao hơn năm 2016 khoảng 3,8% .
+Robert_Half_Technology đã tiến_hành phân_tích dãy lương cho hơn 75 vị_trí công_nghệ ở khu_vực Bắc_Mỹ .
+Theo đó , vào năm 2016 , nhà_khoa_học dữ_liệu có thu_nhập trong khoảng 109.000-153.750
+USD , qua năm 2017 mức lương được nâng lên từ 116.000-163.500 USD .
+Các kỹ_sư phát_triển web đầu_cuối có mức lương hiện_tại là 83.250-119.500 USD .
+Còn nhóm kỹ_sư dữ_liệu lớn sẽ nhận khoản lương   135.000-196.000 USD ...
+Ngoài_ra , hãng cũng chỉ ra ba chuyên_môn cụ_thể có_thể làm tăng thu_nhập vào năm tới cho chuyên_viên công_nghệ là SharePoint , Microsoft SQL Server và Java EE/J2EE với tiềm_năng cải_thiện tiền_lương lên đến 8% .
+Tiếp đến những chuyên_môn giúp tăng lương khoảng 7% là ngôn_ngữ_lập_trình C# , quản_trị mạng Cisco , Hadoop , LAMP ( Linux , Apache , MySQL và Perl/PHP/Python ) , Linux , quản_lý Unix , phát_triển net , phát_triển PHP , ảo_hóa và phát_triển các dịch_vụ web .
+Cuối_cùng những kỹ_sư thành_thạo chứng_chỉ bảo_mật CISSP , giải_pháp bảo_mật Check_Point_Firewall cơ_sở_dữ_liệu Oracle , Python và Ruby on Rails sẽ nhận thêm khoảng 6% tiền_lương trong năm tới .
+Minh_Trí

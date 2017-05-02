@@ -1,0 +1,28 @@
+Hợp_tác ngân_hàng và Fintech cần chặt_chẽ
+Hợp_tác với các công_ty Fintech có_thể giúp ngân_hàng nhận được những kiến_thức về công_nghệ , khả_năng đổi_mới và đáp_ứng nhanh_nhạy yêu_cầu của thị_trường , nhưng bên_cạnh đó nó cũng phát_sinh nhiều rủi_ro .
+Tại tham_luận Diễn_đàn Thanh_toán điện_tử 2016 ( VEPF 2016 ) , ông Bùi_Quang_Tiên , Vụ_trưởng Vụ thanh_toán Ngân_hàng Nhà_nước cho_biết , thời_gian qua một_số tổ_chức không phải là ngân_hàng với lợi_thế về mặt công_nghệ tham_gia vào việc hỗ_trợ các nhà_băng cung_ứng những dịch_vụ ngân_hàng với ứng_dụng công_nghệ hiện_đại ( Fintech ) , trong đó có dịch_vụ thanh_toán .
+Ông Tiên cho_biết , xu_hướng này giúp cho người_dân tiếp_cận dễ_dàng hơn với các dịch_vụ ngân_hàng nói_chung và các phương_tiện thanh_toán mới nói_riêng , góp_phần tăng_cường tiếp_cận tài_chính toàn_diện .
+Đồng_thời nó cũng giúp cho các ngân_hàng thương_mại Việt_Nam giảm bớt chi_phí đầu_tư về hạ_tầng công_nghệ_thông_tin , đa_dạng_hóa các sản_phẩm , dịch_vụ .
+Vụ_trưởng Tiên thông_tin , đến nay , Ngân_hàng Nhà_nước đã cho cấp giấy_phép cho 16 tổ_chức không phải là ngân_hàng cung_ứng dịch_vụ trung_gian thanh_toán , trong đó cho_phép một tổ_chức cung_ứng dịch_vụ chuyển mạch tài_chính , bù_trừ điện_tử ( NAPAS ) và 15 tổ_chức cung_ứng dịch_vụ Cổng thanh_toán điện_tử ; hỗ_trợ thu hộ , chi hộ ; hỗ_trợ chuyển_tiền điện_tử và Ví điện_tử .
+Ngân_hàng đua nhau hợp_tác với các công_ty fintech .
+Ông Jan_Bellens , Phó_tổng giám_đốc phụ_trách thị_trường mới nổi EY cũng thừa_nhận thực_tế đang diễn ra xu_hướng   nhiều các ngân_hàng đang tìm_kiếm các cơ_hội để tiếp_thu , học_hỏi , mua lại hoặc tìm_kiếm các quan_hệ đối_tác với các công_ty Fintech .
+Tuy_nhiên , theo ông , bên_cạnh những lợi_ích mà các công_ty Fintech mang lại cho ngân_hàng như đem   đến những kiến_thức về công_nghệ , khả_năng đổi_mới , và đáp_ứng nhanh_nhạy yêu_cầu của thị_trường thì việc hợp_tác này cũng làm tăng độ rủi_ro của các ngân_hàng ( nhất_là khi hợp_tác với công_ty ít tên_tuổi ) .
+Trước_hết là rủi_ro pháp_lý .
+Ông   Jan_Bellins khuyến_nghị , khi hợp_tác với các công_ty Fintech , ngân_hàng cần rà_soát các đặc_điểm và chức_năng của sản_phẩm mới để tránh các ảnh_hưởng tiềm_tàng về mặt pháp_lý .
+Vì theo ông Jan , các tổ_chức phi ngân_hàng có_thể không được chuẩn_bị đầy_đủ các chính_sách an_ninh toàn_diện và quy_định về tài_chính của họ cũng lỏng_lẻo hơn các tổ_chức tín_dụng truyền_thống .
+Vì_vậy , lãnh_đạo các ngân_hàng cần có sự giám_sát chặt_chẽ các rủi_ro công_nghệ mới nổi trên phương_diện rủi_ro pháp_lý .
+Ngoài_ra , ông cũng nêu lên rủi_ro của đơn_vị cung_cấp thứ_ba .
+Việc giao những công_việc nhất_định cho một bên thứ_ba thực_hiện , bất_kể tự_động hay thủ_công , sẽ tạo ra những rủi_ro mới .
+Mặc_dù ngân_hàng không có quyền quản_lý trực_tiếp , nhưng vẫn phải chịu hoàn_toàn trách_nhiệm pháp_lý nếu rủi_ro phát_sinh .
+Do_đó ngân_hàng cần chặt_chẽ hơn khi đánh_giá các đơn_vị cung_cấp công_nghệ , đồng_thời thực_hiện áp_dụng các biện_pháp quản_lý và thẩm_định rủi_ro , tốt nhất_là các biện_pháp này có_thể định_lượng và chứng_minh được với cơ_quan_chức_năng .   Điều này cũng bao_gồm việc lập kế_hoạch dự_phòng kinh_doanh để giảm_thiểu sự gián_đoạn trong dịch_vụ hay công_nghệ của nhà_cung_cấp Fintech , vì bất_kỳ lý_do gì .
+Cuối_cùng là rủi_ro dự_án .
+Do tỷ_lệ thất_bại của các dự_án chuyển_đổi được ước_tính có_thể lên tới 50% , các ngân_hàng cần xây_dựng kế_hoạch triển_khai dự_án Fintech một_cách toàn_diện .
+Do_đó , ngân_hàng cần hiểu rõ các yếu_tố mới trong rủi_ro hoạt_động khi thực_hiện triển_khai Fintech ( ví_dụ như : tự_động_hóa quy_trình bằng robot , phương_pháp ghi dữ_liệu “ Blockchain ” , tư_vấn về robot hoặc các vấn_đề liên_quan đến chuyển_đổi công_nghệ_thông_tin ) có_thể ảnh_hưởng đến hoạt_động của các ngân_hàng như_thế_nào , và các chức_năng cần bổ_sung để giải_quyết các rủi_ro này là gì ?
+Cuối_cùng , theo ông Jan , quản_trị rủi_ro liên_quan đến Fintech là vấn_đề hết_sức quan_trọng , đảm_bảo rằng ngân_hàng có_thể bảo_vệ được thương_hiệu , quyền_sở_hữu trí_tuệ , dữ_liệu khách_hàng cũng_như đem lại những trải_nghiệm dịch_vụ mang tính đột_phá và tiện_ích nhất cho khách_hàng .
+Mặc_dù việc hợp_tác hay kết_hợp với các công_ty Fintech sẽ làm gia_tăng các rủi_ro mà các ngân_hàng phải đối_mặt , nhưng đồng_thời mang đến nhiều cơ_hội phát_triển tiềm_năng cho ngành ngân_hàng .
+Vấn_đề quan_trọng là các ngân_hàng cần thực_hiện quản_lý các rủi_ro có liên_quan một_cách hiệu_quả và phù_hợp
+Ông Bùi_Quang_Tiên cũng cho_biết , để đảm_bảo quản_lý , giám_sát hoạt_động cung_ứng dịch_vụ trung_gian thanh_toán , nhằm phát_hiện , phòng_ngừa và ngăn_chặn các rủi_ro có_thể xảy_ra , Ngân_hàng Nhà_nước đã thực_hiện giám_sát các tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán thông_qua nhiều giải_pháp .
+Trước_hết là giám_sát sự tuân_thủ và đáp_ứng các điều_kiện cấp phép .
+Sau đó là giám_sát định_kỳ và đột_xuất hoạt_động của các tổ_chức này nhằm phát_hiện và dự_báo các khả_năng xảy_ra rủi_ro trong quá_trình hoạt_động .
+Qua đó , Ngân_hàng Nhà_nước có_thể đưa ra các biện_pháp loại_trừ và ngăn_chặn rủi_ro phát_sinh một_cách nhanh_chóng nhất .
+Thanh_Lê

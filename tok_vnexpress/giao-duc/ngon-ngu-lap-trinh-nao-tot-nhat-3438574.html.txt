@@ -1,0 +1,43 @@
+Ngôn_ngữ_lập_trình nào tốt nhất
+Khi công_nghệ thay_đổi thì ngôn_ngữ_lập_trình cũng có sự điều_chỉnh , do_vậy , không có ngôn_ngữ nào được coi là tốt hay quan_trọng nhất .
+Nhiều sinh_viên đã hỏi tôi rằng ngôn_ngữ_lập_trình nào ( Java , C+ + hay Python ) quan_trọng và tốt nhất .
+Câu trả_lời của tôi là khi công_nghệ thay_đổi thì ngôn_ngữ_lập_trình cũng thay_đổi theo , do_vậy không có ngôn_ngữ nào được coi là tốt hay quan_trọng nhất .
+Một_khi bạn đã vững một ngôn_ngữ_lập_trình nào thì học ngôn_ngữ khác sẽ dễ hơn .
+Là kỹ_sư phần_mềm , bạn học ngôn_ngữ_lập_trình như một công_cụ để sử_dụng nhưng kỹ_năng chính của bạn phải làm về quy_trình doanh_nghiệp , kiến_trúc hệ_thống , thiết_kế hệ_thống , quản_lý dự_án , quản_lý mối quan_hệ ...
+Tuy nhitên , có một kỹ_năng quan_trọng mà các bạn cần phải có là biết ít_nhất một ngoại_ngữ chứ không phải ngôn_ngữ_lập_trình .
+Thế_giới chúng_ta sống hôm_nay thay_đổi rất nhanh và đang trở_thành một cộng_đồng chung khi mọi quốc_gia , mọi công_ty , mọi việc_làm , và mọi người đều được kết_nối .
+Để thành_công , người_làm phần_mềm cần biết ít_nhất một ngoại_ngữ và tôi nghĩ nó nên là tiếng Anh .
+Tôi chắc nhiều bạn không đồng_ý , vì một_số các bạn đã học tiếng Pháp , tiếng Nhật , tiếng Trung , hay tiếng Hàn nhưng trong thế_giới kinh_doanh , nếu bạn có_thể nói tiếng Anh lưu_loát , bạn có_thể làm_việc được gần_như ở mọi nơi .
+Ngày_nay có nhiều cơ_hội để làm_việc với công_ty nước_ngoài hay cung_cấp dịch_vụ cho công_ty nước_ngoài và hầu_hết các việc này đều yêu_cầu tiếng Anh .
+Là người làm_việc trong lĩnh_vực phần_mềm , bạn cần cả kỹ_năng kỹ_thuật và kỹ_năng trao_đổi để làm_việc với khách_hàng ở các nước khác_nhau .
+Hiện_nay , tiếng Anh được dùng như ngôn_ngữ chính của kinh_doanh toàn_cầu , bất_kể bạn làm_việc ở đâu .
+Tiếng_Anh rất thông_dụng ở châu Âu và Ấn Độ , và nó cũng được được dùng ở châu Á ( Trung_Quốc , Nhật_Bản , và Hàn_Quốc ... ) .
+Tôi đã đi dạy ở nhiều nước và tôi toàn dùng tiếng Anh , hầu_hết sinh_viên Trung_Quốc , Nhật_Bản , Hàn_Quốc , Ấn Độ , Singapore , Malaysia đều không cần phiên_dịch .
+Tôi thấy phần_lớn các lớp tại các đại_học hàng_đầu như Viện khoa_học và công_nghệ Hàn_Quốc ( Korea_Advanced_Institute in Science and Technology ( KAIST ) , Viện_Công nghệ Ấn Độ ( Indian_Institute of Technology ( ITT ) , và đại_học Thanh_Hoa ( Tsinghua_University , Bắc_Kinh ) đều sử_dụng tiếng Anh như ngôn_ngữ chính .
+Phần_lớn các lớp khoa_học và công_nghệ đều được dạy bằng tiếng Anh .
+Điều này cũng dễ hiểu vì hầu_như các sách_giáo_khoa , các tài_liệu nghiên_cứu khoa_học và công_nghệ đều được viết bằng tiếng Anh .
+Tôi biết một_số bạn thích đọc bản dịch hơn tài_liệu nguyên gốc tiếng Anh .
+Điều đó dễ_dàng và thuận_tiện đấy , nhưng tôi lưu_ý các bạn rằng không phải người dịch nào cũng có kiến_thức sâu về khoa_học và công_nghệ , một_số thuật_ngữ có_thể không dịch tốt , đặc_biệt các thuật_ngữ công_nghệ .
+Tôi thích giữ thuật_ngữ nguyên trong ngoặc , chẳng_hạn : “ Băng_thông ” ( Broadband ) hay để thuật_ngữ tiếng Anh như “ Internet ” vì mọi người đều biết nó là gì .
+Trong môi_trường phần_mềm , hầu_hết các từ_khoá , thuật_ngữ kỹ_thuật đều dựa trên danh_từ tiếng Anh .
+Đa_số các hướng_dẫn và thảo_luận cũng được tiến_hành trong tiếng Anh .
+Khi bạn viết chú_thích và làm tài_liệu cho mã của mình , bạn cần làm trong tiếng Anh nữa vì nó được hiểu bởi những người bảo_trì mã , có_thể là những người này không ở cùng nước với bạn .
+Ngày_nay , toàn_cầu_hoá tác_động tới mọi nước và người phát_triển phần_mềm không đơn_thuần viết mã mà làm_việc trong tổ .
+Nhiều dự_án được phát_triển 24 giờ và 7 ngày_một tuần với nhiều tổ làm_việc từ các nước khác_nhau , các tổ làm_việc này phải dùng ngôn_ngữ chung để thảo_luận và chia_sẻ thông_tin và hầu_hết đều dùng tiếng Anh .
+Để trả_lời câu_hỏi về ngôn_ngữ trong nghề phần_mềm , tôi nghĩ điều bạn cần là kỹ_năng trao_đổi , tham_gia , tạo điều_kiện , viết , để chia_sẻ , ảnh_hưởng , và hướng_dẫn nỗ_lực phát_triển .
+Tôi tin kỹ_năng mềm là quan_trọng cho những người làm_việc kỹ_thuật , đặc_biệt những người làm_việc với khách_hàng như kỹ_sư lấy yêu_cầu , người phân_tích nghiệp_vụ và người_quản_lý dự_án .
+Do_đó , biết ngoại_ngữ thông_thạo như tiếng Anh sẽ giúp các bạn có_thể tiến xa trong nghề_nghiệp hơn là những ngoại_ngữ khác .
+Cách đây vài năm , tôi có một_số sinh_viên người Trung_Quốc phải học tiếng Nhật vì họ làm_việc cho công_ty gia_công phần_mềm có dịch_vụ với Nhật .
+Từ tiếng Trung_học sang tiếng Nhật tuy không khó lắm nhưng cũng mất nhiều nỗ_lực .
+Ít_lâu sau , công_ty của họ có hợp_đồng với Mỹ và chỉ những người biết nói tiếng Anh mới được chọn vào dự_án này .
+Hầu_hết sinh_viên học với tôi đều biết tiếng Anh nên đa_số đều được chọn .
+Những nhân_viên khác than rằng nếu họ biết cơ_hội này thì họ sẽ học tiếng Anh hơn là tiếng Nhật .
+Tôi cũng nghĩ mọi công_ty phần_mềm phải huấn_luyện nhân_viên của họ về ngoại_ngữ , nhất_là tiếng Anh , vì thị_trường sử_dụng tiếng Anh rất lớn và có tiềm_năng cao .
+Lí_do chính khiến Ấn Độ vượt xa Trung_Quốc trong lĩnh_vực gia_công phần_mềm vì nhân_viên của họ đều biết tiếng Anh .
+Khi họ đã nắm_bắt được thị_trường gia_công khắp thế_giới thì rất khó cho Trung_Quốc có_thể len vào cạnh_tranh .
+Hiện_nay , với xu_thế toàn_cầu_hoá , nhu_cầu biết ngoại_ngữ rất quan_trọng và với những người_làm phần_mềm có khả_năng ngoại_ngữ như tiếng Anh , họ có nhiều cơ_hội làm_việc khắp_nơi trên thế_giới hơn những người biết ngoại_ngữ khác .
+Hàng năm , các quốc_gia như Mỹ , Canada , Anh đều phải nhập_khẩu một_số lớn những người_làm phần_mềm từ các nước khác đến làm_việc vì có sự thiếu_hụt công_nhân có kỹ_năng .
+Những việc này đều đòi_hỏi trình_độ ngoại_ngữ bằng tiếng Anh .
+Với các bạn vẫn chưa biết học ngoại_ngữ nào , lời khuyên của tôi là nên học tiếng Anh .
+Giáo_sư John_Vũ Viện_trưởng Viện nghiên_cứu phần_mềm của Đại_học Carnegie_Mellon
+Nghiên_cứu_viên kỹ_thuật và Kĩ_sư trưởng Công_nghệ Thông_tin tại Boeing

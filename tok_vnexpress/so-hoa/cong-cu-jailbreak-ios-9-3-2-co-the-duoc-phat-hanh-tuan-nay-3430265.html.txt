@@ -1,0 +1,14 @@
+Công_cụ jailbreak i OS 9.3.2 có_thể được phát_hành tuần này
+Người dùng sắp có_thể bẻ_khóa ( jailbreak ) hệ_điều_hành chính_thức cho i Phone , iPad phiên_bản mới nhất với công_cụ của Pangu .
+Apple đã phát_hành i OS 10 bản thử_nghiệm và ngay_lập_tức nền_tảng này được jailbreak thành_công .
+Trong khi đó , phiên_bản i OS 9.3.2 sắp có công_cụ bẻ_khóa hoàn_chỉnh và sẽ được Pangu cung_cấp rộng_rãi .
+Công_cụ bẻ_khóa i OS 9.3.2 có_thể được Pangu phát_hành trong tuần này .
+Cụ_thể , Forbes trích_dẫn thông_tin từ một thành_viên của nhóm hacker Trung_Quốc rằng phần_mềm jailbreak hệ_điều_hành mới nhất cho i Phone , iPad có_thể đến tay mọi người tuần này .
+Pangu đang xem_xét sớm ra công_cụ jailbreak tất_cả các phiên_bản i OS 9.3.2 trở_về trước , trước khi Apple chính_thức phát_hành i OS 9.3.3 .
+Trước đó ,   Luca_Todesco , người jailbreak được phiên_bản thử_nghiệm của i OS 9.3.3 , đã tiếp_tục thành_công với i OS 9.3.2 .
+Hacker người Italy này dễ_dàng bẻ_khóa chiếc i Pod_Touch thế_hệ thứ_sáu   thông_qua một trang_web .
+Tuy_nhiên , ông cho_biết chưa có ý_định phát_hành công_cụ cho mọi người .
+Tại_Hội nghị Bảo_mật Di_động ( MOSEC 2016 ) , nhóm Pangu cũng đã trình_diễn các phương_thức xâm_nhập vào hệ_thống trên i OS 10 - nền_tảng mới cho i Phone , iPad mà Apple đang thử_nghiệm và sẽ phát_hành chính_thức cuối năm nay .
+Xem thêm :
+>   iOS 9.3.2 bị bẻ_khóa chỉ bằng một trang_web
+>   iOS 10 vừa thử_nghiệm đã bị bẻ_khóa

@@ -1,0 +1,6 @@
+Đoán biệt_danh của các thành_phố trên thế_giới
+Bạn có biết nơi nào được gọi_là thành_phố thép , quả táo lớn , thành_phố rượu , thủ_đô của Alps , hay thành_phố vĩnh_hằng .
+Câu 1 : Biệt_danh   " thành_phố thép " của nơi nào ?
+Boston ( Mỹ )
+Glasgow ( Scotland )
+Pittsburgh ( Mỹ )

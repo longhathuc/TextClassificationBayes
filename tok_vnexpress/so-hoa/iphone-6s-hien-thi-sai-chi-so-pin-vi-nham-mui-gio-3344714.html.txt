@@ -1,0 +1,16 @@
+iPhone 6s hiển_thị sai chỉ_số pin vì nhầm múi_giờ
+Apple đã thừa_nhận và đang tìm_hiểu sự_cố hiển_thị phần_trăm pin không chính_xác trên điện_thoại , nhiều khả_năng do sự thay_đổi múi_giờ .
+Nhiều người dùng cho_biết điện_thoại của họ chỉ hiển_thị số phần_trăm pin nhất_định , khiến họ tưởng máy chưa sạc xong và cần tiếp_tục nạp năng_lượng .
+Không ít người đã bày_tỏ sự bực_tức của họ trên diễn_đàn hỗ_trợ cộng_đồng của Apple .
+Thành_viên JonBonn cho_hay anh sạc cả ngày mà i Phone chỉ đạt 87% pin và hiển_thị con_số đó khi điện_thoại đã được tháo dây sạc hơn một giờ .
+" Cách duy_nhất để khắc_phục lỗi là khởi_động lại máy .
+Thời_lượng pin sẽ hiển_thị đúng một lúc , rồi sau đó nó lại bị ' kẹt ' lần nữa .
+Chỉ trong ba ngày , tôi đã phải khởi_động i Phone 6 Plus ít_nhất bốn lần vì trục_trặc này " , một thành_viên cho_biết .
+Nhiều người dùng phàn_nàn bộ đôi i Phone mới hiển_thị pin không chính_xác .
+Lỗi xảy_ra có_thể do người dùng thay_đổi múi_giờ trên i Phone , hay múi_giờ tự_động điều_chỉnh khi người dùng di_chuyển qua nhiều nước , khiến cho phần_mềm quản_lý pin không kịp cập_nhật và hiển_thị phần_trăm cao hơn thực_tế .
+Apple cho_hay họ đang kiểm_tra sự_cố này và khuyên người sử_dụng nên tạm_thời khởi_động lại máy rồi vào Settings - > General - > Date & Time kiểm_tra xem đồng_hồ có được cập_nhật tự_động hay không .
+iPhone 6s và 6s Plus tích_hợp pin lithium - ion và sử_dụng vi_xử_lý của Samsung và TSMC .
+Hãng nghiên_cứu Chipworks cho_hay điều này dẫn đến những chênh_lệch về hiệu_năng và thời_lượng pin .
+Smartphone dùng chip từ TSMC có thời_lượng pin tốt hơn từ 5% đến 12% so với phiên_bản dùng chip Samsung .
+Tuy_nhiên , Apple sau đó lên_tiếng sự chênh_lệch giữa hai phiên_bản chỉ là 3% .
+Châu_An

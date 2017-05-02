@@ -1,0 +1,24 @@
+Giải_pháp kết_nối Wi-Fi an_toàn cho doanh_nghiệp vừa và nhỏ
+Cisco WAP150 và WAP571 Wireless có khả_năng thiết_lập Single_Point đem đến giải_pháp kết_nối tốc_độ cao , vận_hành đơn_giản nhưng vẫn bảo_mật và tối_ưu_hóa chi_phí .
+Sản_phẩm Cisco WAP150 và WAP571 cho_phép hàng chục người dùng truy_cập trên mạng Internet ở bất_kỳ nơi đâu trong khu_vực được triển_khai .
+Thiết_bị còn cho_phép khả_năng mở_rộng số người sử_dụng hoặc dễ_dàng bổ_sung , thay_thế các thiết_bị tham_gia mạng mà không cần phải cấu_hình lại toàn_bộ cấu_trúc mạng .
+Môi_trường làm_việc tại các doanh_nghiệp hiện_nay đều đề_cao tính di_động , đặc_biệt là khả_năng kết_nối mạng di_động .
+Cisco WAP150 và WAP571 hỗ_trợ chuẩn kết_nối không dây 802.11ac
+giúp thiết_bị phát_sóng trên cả hai băng tần với tần_số cao ở mức 2,4 GHz đến 5GHz với tốc_độ kết_nối lên đến 1,2 Gbps .
+Đối_với WAP571 , Cisco sử_dụng đồng_thời 2 băng tần kép cùng công_nghệ anten MIMO 3x3 giúp tăng tốc_độ kết_nối lên đến 1,9 Gbps .
+Điều này có_nghĩa , WAP571 thích_hợp sử_dụng cho các công_ty có quy_mô trung_bình khoảng 100 người .
+Còn WAP150 phù_hợp với các nhóm làm_việc nhỏ khoảng 30-50 người .
+Thiết_bị này còn tích_hợp sẵn trên phần_mềm của Access_Point , người dùng có_thể cài_đặt một AP làm master quản_lý chính các thiết_bị AP còn lại mà không cần phải mua thêm bất_kỳ thiết_bị phần_cứng quản_lý nào khác .
+Cisco WAP150 và WAP571 có thiết_kế nhỏ gọn , trọng_lượng chưa đến 800g , dễ_dàng di_chuyển hoặc gắn tường tùy_thích .
+Tính_năng Single_Point_Setup của sản_phẩm giúp người dễ_dàng quản_lý tập_trung các thiết_bị phát_sóng không dây mà không đòi_hỏi hiểu_biết về kỹ_thuật .
+Công_nghệ này có_thể hỗ_trợ các AP thay cho AP master quản_lý chính nếu AP này bị hỏng .
+Vì_thế , hệ_thống Wi-Fi của doanh_nghiệp vẫn hoạt_động liên_tục kể_cả khi AP quản_lý bị lỗi .
+Cisco WAP150 và WAP571 tích_hợp công_nghệ bảo_mật Captive_Portal , tạo ra một kết_nối mạng Wi-Fi riêng cho khách đến thăm , tách_biệt với mạng nội_bộ của công_ty .
+Ngoài_ra còn có_thể đưa các chương_trình quảng_cáo doanh_nghiệp tới khách_hàng , thông_qua việc truy_cập vào mạng không dây của doanh_nghiệp .
+Bên_cạnh đó Cisco WAP571 có thêm nhiều tính_năng khác như cho_phép người dùng di_chuyển từ vùng Wi-Fi này qua vùng Wi-Fi khác không cần kết_nối lại , chứng_thực người dùng 802.11x hay chức_năng quản_lý cổng LAN và chế_độ ngủ tiết_kiệm năng_lượng .
+Nhiều tính_năng bảo_mật và ứng_dụng hỗ_trợ kết_nối tiện_ích trang_bị trong sản_phẩm .
+Cisco WAP150 và WAP571 Wireless hiện phân_phối tại các đại_lý của FPT Trading trên toàn_quốc .
+Giá tham_khảo WAP150 là 3,52 triệu đồng ( có VAT , bao_gồm adapter ) và WAP571 là 6,74 triệu đồng ( có VAT , chưa bao_gồm adapter ) .
+Trong trường_hợp trong mạng khách_hàng không có switch cung_cấp nguồn PoE , cần mua thêm Gigabit_Power over Ethernet_Injector - 30W _ SB-PWR-INJ2-AU giá 1,27 triệu đồng ( có VAT ) .
+Thông_tin chi_tiết xem tại đây .
+Minh_Trí

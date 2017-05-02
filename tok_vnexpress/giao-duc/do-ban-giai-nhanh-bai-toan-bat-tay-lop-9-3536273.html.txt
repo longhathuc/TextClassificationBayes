@@ -1,0 +1,8 @@
+Đố bạn giải nhanh bài_toán ' bắt_tay ' lớp 9
+Bạn có_thể giải bài_toán về những cái bắt_tay trong đề thi dành cho học_sinh lớp 9 mất bao_lâu ?
+Hai câu_lạc_bộ có một buổi gặp_mặt .
+Mỗi thành_viên bắt_tay một lần với tất_cả những người còn lại .
+Có tất_cả 231 cái bắt_tay nhưng trong đó 119 cái là của những thành_viên trong cùng một câu_lạc_bộ .
+Hỏi mỗi câu_lạc_bộ có bao_nhiêu thành_viên ?
+Thanh_Tâm
+> > Bài_toán lớp 6 có_thể làm_khó bạn > > Bài_toán nhặt đậu thách_thức suy_luận của bạn

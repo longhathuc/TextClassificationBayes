@@ -1,0 +1,53 @@
+Galaxy_Note 7 dùng cảm_biến mống mắt sản_xuất tại Việt_Nam
+Dù vẫn có chức_năng chính là mở khóa điện_thoại và xác_minh danh_tính , bộ_phận quét mống mắt của Samsung có_thể sẽ khác với các công_nghệ tương_tự đang có trên thị_trường .
+Bảo_mật mống mắt là một trong những tính_năng được chờ_đợi nhất trên Galaxy_Note 7 .
+Zauba , công_ty xuất_nhập_khẩu của Ấn Độ , đã để lộ tài_liệu mới , trong đó có chi_tiết về bộ cảm_biến mống mắt nhập từ Việt_Nam .
+Cảm_biến này được trang_bị cho sản_phẩm có tên mã N930F , một trong những phiên_bản Galaxy_Note 7 .
+Trước đó , Zauba cũng từng đưa ra rất nhiều thông_số kỹ_thuật khá chính_xác về cấu_hình cũng_như tính_năng đi kèm của nhiều smartphone Samsung .
+Cảm_biến đo mống mắt của Samsung được sản_xuất tại Việt_Nam .
+Vậy bộ_phận quét mống mắt là gì và hoạt_động như_thế_nào ?
+Mống mắt
+Mống mắt ( iris ) tức_là phần " tròng_đen " của mắt , dù nó có nhiều màu_sắc khác_nhau tùy theo chủng_tộc .
+Theo thống_kê , màu nâu là phổ_biến nhất , trong khi xanh lá cây , hổ_phách và bạc là 3 màu hiếm nhất .
+Mống mắt có vai_trò co_giãn để cho đồng_tử điều_chỉnh lượng ánh_sáng thích_hợp vào mắt .
+Mống mắt có cấu_trúc phức_tạp , có mức_độ bảo_mật cao hơn vân tay .
+Mống mắt có cấu_tạo phức_tạp , mỗi người đều có những " đường mống mắt " khác_nhau và nó là duy_nhất , tương_tự dấu vân tay .
+Đây cũng là cơ_sở để các nhà_khoa_học tạo nên thiết_bị có_thể " đọc " mống mắt để khẳng_định rằng bạn chính là bạn mà không phải là ai khác đang đứng trước nó .
+Bộ_phận quét mống mắt làm_việc như_thế_nào ?
+Bộ_phận quét mống mắt hoạt_động dựa trên công_nghệ nhận_dạng mống mắt , tức sử_dụng thuật_toán hình_ảnh để nhận_dạng một người nào_đó dựa trên cấu_trúc mống mắt thông_qua cảm_biến .
+Cụ_thể , những cảm_biến này sẽ ghi lại các chi_tiết và cấu_trúc phức_tạp của mống mắt bằng cách tỏa ra các chùm sáng cận hồng_ngoại hướng vào mắt chủ_thể .
+Hình_ảnh chi_tiết về mống mắt và các thông_số của mắt như đồng_tử , lông_mi , mí mắt sẽ được ghi lại và lưu dưới dạng dữ_liệu kỹ_thuật_số .
+Mỗi khi mở khóa , cảm_biến mống mắt sẽ soi chủ_thể đang cầm điện_thoại và so_sánh với cơ_sở_dữ_liệu ban_đầu .
+Nếu đúng , nó sẽ mở khóa thiết_bị và ngược_lại .
+Hiện_nay , các mẫu cảm_biến đã có_thể làm_việc trong bóng_tối , do_đó độ_chính_xác cao hơn hẳn các kiểu bảo_mật khác , kể_cả cảm_biến vân tay .
+Cách của Samsung khác_gì ?
+Có_thể bộ_phận quen mống mắt của hãng điện_tử Hàn_Quốc sẽ làm_việc theo cách_thức trên , nhưng cũng có_thể sẽ hiện_đại hơn .
+Theo một bằng_sáng_chế rò_rỉ liên_quan đến tính_năng này , Samsung nhiều khả_năng sẽ tích_hợp hẳn một cụm camera hồng_ngoại thay_vì cảm_biến đơn_thuần .
+Bằng_sáng_chế về máy_quét mống mắt của Samsung .
+Cụ_thể , cụm camera này không_chỉ nhận_dạng đối_tượng qua mống mắt mà_còn cả khuôn_mặt .
+Ngay khi đưa thiết_bị lên nhìn , bộ_phận này lập_tức hoạt_động và so_sánh đồng_thời đối_tượng với dữ_liệu có sẵn , từ đó mức_độ bảo_mật cũng cao hơn .
+Nhưng tại_sao Samsung không tận_dụng máy_ảnh trước , mà phải trang_bị cụm máy_ảnh riêng ?
+Câu trả_lời là : máy_ảnh quét mống mắt có cấu_tạo phức_tạp hơn , đặc_biệt là khả_năng nhạy_cảm với tia_hồng_ngoại và cận hồng_ngoại nhằm xác_định mống mắt chính_xác hơn .
+Trong khi đó , máy_ảnh truyền_thống được các nhà_sản_xuất loại_bỏ khả_năng thu_nhận tia_hồng_ngoại vì nó ảnh_hưởng đến chất_lượng ảnh chụp .
+Bộ_phận quét mống mắt thích_hợp nhất cho smartphone
+Có một điều người dùng dễ nhầm_lẫn , đó là bộ_phận quét mống mắt và máy_quét võng_mạc .
+Dù đều xác_định đối_tượng thông_qua mắt , tuy_nhiên cách_thức khác_nhau , nguyên_nhân là do mống mắt chỉ nằm bên ngoài và quyết_định màu mắt , trong khi võng_mạc nằm sâu bên trong mắt .
+Cũng chính vì điều này , việc chế_tạo một cảm_biến quét mống mắt đơn_giản hơn nhiều so với cảm_biến quét võng_mạc .
+Và kích_thước của cảm_biến quét võng_mạc cũng lớn hơn .
+Với smartphone , máy_quét mống mắt là thích_hợp nhất .
+Như_vậy , việc quét mống mắt được thực_hiện nhanh và đơn_giản hơn nhiều so với quét võng_mạc .
+Với kích_thước cảm_biến nhỏ hơn , nó cũng phù_hợp hơn cho các thiết_bị di_động , vốn đang đề_cao sự mỏng nhẹ .
+Tốt hơn bộ_phận quét vân tay
+Theo Phonearena , dù bộ_phận quét vân tay đang trở_nên phổ_biến , xuất_hiện không_chỉ ở các mẫu cao_cấp mà_còn cả những sản_phẩm giá rẻ , nhưng có_thể nó sẽ sớm bị thay_thế bởi máy_quét mống mắt .
+Không_chỉ do bộ_phận quét mống mắt tiện_lợi và an_toàn hơn , mà bởi nhược_điểm khó khắc_phục của quét vân tay : khó sử_dụng với tay ướt , bụi , bẩn ...
+Bạn có_thể để tay mình bẩn thường_xuyên , còn mắt thì không .
+Kỳ_vọng gì ở bộ_phận quét mống mắt trên Galaxy_Note 7 ?
+Bởi là một trong những sản_phẩm tiên_phong về bảo_mật bằng mống mắt ( nếu có ) , không hi_vọng tính_năng này trên Galaxy_Note 7 thành_công lập_tức , tương_tự như Lumia 950 và Lumia 950 XL .
+Hai sản_phẩm được Microsoft trang_bị module quét mống mắt nhưng nhanh_chóng bị đánh_giá là " dở tệ " khi tốc_độ phản_hồi thua cả module quét vân tay , thậm_chí phải " dí mắt " vào màn_hình mới có tác_dụng .
+Galaxy_Note 7 sẽ là sản_phẩm đầu_tiên của Samsung được tích_hợp máy_quét mống mắt ?
+Tuy_nhiên , công_nghệ đang phát_triển với tốc_độ nhanh khủng_khiếp .
+Samsung đang là một trong những công_ty dẫn_đầu về các xu_hướng công_nghệ , và người dùng hoàn_toàn có_thể kỳ_vọng hãng sẽ làm tốt ở các phiên_bản tiếp_theo .
+Và nếu mơ_mộng , biết_đâu hãng sẽ cho ra Galaxy_Note 7 với bộ_phận quét mống mắt hoạt_động cực_kỳ nhạy và chính_xác ?
+Điều đó ( nếu có ) không_chỉ giúp thế_giới tiến đến một cách_thức bảo_mật tiên_tiến hơn , mà_còn có_thể một tay " khai_tử " cảm_biến vân tay dù nó đang rất thông_dụng .
+Nhưng , mọi thứ mới chỉ là rò_rỉ và để có câu trả_lời chính_thức , hãy đợi đến ngày 2/8 .
+Bảo_Lâm

@@ -1,0 +1,14 @@
+Đỉnh núi cao nhất nước Anh tăng thêm một mét
+Chiều_cao hiện_nay của đỉnh núi Ben_Nevis ở Anh là 1.345 m thay_vì 1.344 m như số_đo trước_đây .
+Theo International_Business_Times , chiều_cao chính_thức mới của ngọn núi không phải là kết_quả từ hiện_tượng địa_chất mà nhờ công_nghệ hiện_đại khiến phép đo trở_nên chính_xác hơn .
+Lần đo chiều_cao ngọn núi gần đây nhất_là năm 1949 , nhưng phép đo mới do Cục khảo_sát Hậu_cần Anh ( OS ) tiến_hành với sự hỗ_trợ của hệ_thống_định_vị_toàn_cầu ( GPS ) chỉ ra chênh_lệch khoảng một mét .
+Chiều_cao chính_xác do đội khảo_sát OS tính_toán là 1.344,527 m , cao hơn vài cm so với số_liệu năm 1949 .
+Tuy_nhiên , số_liệu mới cho_phép các nhân_viên khảo_sát làm_tròn số , dẫn tới chiều_cao chính_thức của đỉnh núi là 1.345 m .
+OS đã lập bản_đồ mới với số_liệu cập_nhật về chiều_cao đỉnh núi , theo BBC .
+Trong lần đo gần nhất cách đây 67 năm , một đội kỹ_thuật phải trèo lên đỉnh núi và mang theo những thiết_bị nặng .
+Quá_trình đo kéo_dài gần ba tuần .
+Kết_quả đo dựa trên một ụ đá hình tháp ở đỉnh núi .
+Để đo chiều_cao , máy kinh vĩ ( dụng_cụ những người vẽ bản_đồ địa_hình dùng để đo các góc chiều ngang và chiều thẳng_đứng ) được đặt trên ụ đá trong lúc vận_hành .
+Các nhà_khoa_học ở OS sử_dụng công_nghệ định_vị_toàn_cầu nhằm xác_định địa_điểm thông_qua đồng_hồ_nguyên_tử ở trên một nhóm vệ_tinh và rút ra độ cao thực_sự sau khi xử_lý dữ liện .
+Mark_Greaves , nhà tư_vấn đo_đạc của OS , cho_biết những sai_lệch trong tín_hiệu tải xuống từ vệ_tinh được xử_lý bằng cách so_sánh dữ_liệu lấy từ đỉnh núi với các trạm thu GPS có độ_chính_xác cao ở gần đó .
+Phương_Hoa

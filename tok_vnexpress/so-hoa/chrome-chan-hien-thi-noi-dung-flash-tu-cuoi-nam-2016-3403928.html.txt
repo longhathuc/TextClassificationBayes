@@ -1,0 +1,12 @@
+Chrome chặn hiển_thị nội_dung Flash từ cuối năm 2016
+Google tuyên_bố ở chế_độ mặc_định , người dùng trình_duyệt Chrome không_thể xem các nội_dung dạng Flash từ cuối năm nay , trừ trên 10 website lớn .
+Flash là phần_mềm của Adobe , cho_phép các trang_web hiển_thị video , âm_thanh , game , ứng_dụng trực_tuyến ...
+Tuy_nhiên , để xem nội_dung Flash , người sử_dụng phải cài Flash player .
+Bên_cạnh đó , chương_trình này làm nặng website và tồn_tại nhiều lỗ_hổng , dễ bị tin_tặc khai_thác nhằm tấn_công thiết_bị của người dùng .
+Sau khi Apple kiên_quyết không dùng Flash mà chuyển sang HTML5 , nhiều hãng công_nghệ khác cũng bắt_đầu từ_bỏ chuẩn này .
+Tuy_nhiên , quá_trình khai_tử diễn ra chậm_chạp vì có tới 75% video trên web được hiển_thị qua Flash .
+Từ_bỏ Flash đồng_nghĩa với việc phải thiết_kế lại web với đủ mọi khó_khăn và tốn_kém .
+Tuần này , Google cho_biết , trình_duyệt Chrome sẽ dần mặc_định chặn các nội_dung Flash trên website từ quý IV/2016 cho_đến hết năm .
+Tuy_nhiên , họ vẫn hỗ_trợ Flash trên 10 dịch_vụ quan_trọng , trong đó có   YouTube , Facebook , Yahoo , Twitch và Amazon , thêm một năm .
+Google khuyến_khích các chuyên_gia phát_triển nên sớm chuyển_đổi site sang định_dạng HTML5 để tránh gây phiền_toái cho người dùng và khiến họ rời bỏ trang .
+" Flash vẫn đang được sử_dụng trong lĩnh_vực giáo_dục , game và video , nên chúng_tôi vẫn tiếp_tục cập_nhật và cung_cấp các bản vá lỗi phần_mềm , đồng_thời hỗ_trợ ngành công_nghiệp chuyển_đổi sang chuẩn web mới hơn " , đại_diện Adobe trả_lời CNet .

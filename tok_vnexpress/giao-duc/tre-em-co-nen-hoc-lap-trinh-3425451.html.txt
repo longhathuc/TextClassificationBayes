@@ -1,0 +1,28 @@
+Trẻ_em có nên học lập_trình
+Tổng_thống Mỹ_Barack_Obama từng khuyến_khích " Đừng chỉ chơi game trên điện_thoại , hãy học lập_trình ở đó " .
+Ngôn_ngữ_lập_trình mới chính là " ngôn_ngữ chung " của thế_giới .
+Tuy_nhiên , chưa tới 20 triệu người trong tổng_số gần 3 tỷ nhân_lực thế_giới hiện_nay biết sử_dụng ngôn_ngữ_lập_trình , theo IDC .
+Một_vài năm trở_lại đây , ngành công_nghiệp công_nghệ kêu_gọi mọi người hãy học viết code ít_nhất mỗi giờ một ngày .
+Tổng_thống Mỹ_Barack_Obama từng nói : " Đừng chỉ chơi game trên điện_thoại , hãy học lập_trình ở đó " .
+Nhiều quốc_gia trên thế_giới đã bắt_đầu hành_động , Vương_quốc Anh vừa đưa ra quyết_định dạy lập_trình ở trường_học trong khi những quốc_gia như Estonia , Finland , Italy và Singapore đang chuẩn_bị cho việc tích_hợp việc dạy lập_trình vào chương_trình giáo_dục_phổ_thông .
+Nhiều chuyên_gia đồng_ý rằng , lập_trình có_thể và nên dạy sớm cho trẻ_em .
+Những học_sinh nhỏ_tuổi nên được giảm thời_lượng học những môn STEM ( science , technology , engineering and mathematics - khoa_học , công_nghệ , kỹ_thuật và toán ) trong khi lập_trình lại là một loại ngôn_ngữ mà những người trẻ tuổi rất phù_hợp để làm_quen .
+Chưa có nghiên_cứu nào cho thấy việc còn ít tuổi có ảnh_hưởng đến khả_năng tiếp_thu và kỹ_năng lập_trình của các học_viên trong quá_trình tìm_hiểu ngôn_ngữ_lập_trình phổ_biến Python , Java , C+ + .
+Nhận thấy được điều đó , các giáo_sư và nhiều chuyên_gia đã sáng_tạo nên những ngôn_ngữ_lập_trình dành riêng cho trẻ_em .
+Những chương_trình như Lego ’ s WeDo hay Scratch_Jr . , Google ’ s Blockly được thiết_kế cho trẻ_em 5 tuổi với cách minh_họa trực_quan hấp_dẫn .
+Hướng đến mục_tiêu trẻ_em , chương_trình này mang đến nhiều trò_chơi , khuyến_khích trẻ phát_triển kỹ_năng toán và thú_vị như việc trẻ được bố_mẹ đọc truyện , khi " các nhân_vật hiện lên sinh_động như trong một câu_chuyện " , theo giáo_sư của MIT Mitchel_Resnick .
+Mang đến cho trẻ cơ_hội học lập_trình không_chỉ giúp chúng thành_công trong tương_lai nhờ được học những thứ cần_thiết mà_còn khiến trẻ có kỹ_năng tất_cả vấn_đề tốt hơn .
+Học lập_trình nghĩa_là tìm ra một giải_pháp hữu_hiệu cho một vấn_đề .
+Điều này có_nghĩa , không có một đáp_án duy_nhất , không có sai và đúng mà luôn hướng đến việc sửa_chữa , tìm ra thứ tối_ưu , thỏa_mãn nhiều tiêu_chí nhất .
+Cách_thức linh_hoạt này không đẩy trẻ vào việc bị ám_ảnh bởi việc đúng hay sai tuyệt_đối như phương_pháp giáo_dục truyền_thống hiện_tại .
+Một_số nghiên_cứu đã được thực_hiện để kiểm_nghiệm tác_động của học lập_trình với sự phát_triển của trẻ_em và các nhà_khoa_học đã có những luồng ý_kiến khác_nhau .
+Một bộ_phận phản_đối cho rằng khi lên 5 tuổi , trẻ có nhiều hoạt_động cần_thiết khác để phát_triển bản_thân hơn .
+" Ép trẻ học lập_trình ở tuổi này sẽ khiến chúng sớm sợ_hãi với công_nghệ và khó thành_công trong cuộc_sống về sau vì công_nghệ rất cần_thiết " , Tiến_sĩ , nhà tâm_lý_học Jim_Taylor cho_biết .
+Tuy_nhiên , nhiều nhà tâm_lý , chuyên_gia khác lại thấy việc dạy lập_trình cho trẻ nhỏ không có vấn_đề gì và không chiếm thời_gian của những hoạt_động thể_chất , vui_chơi ngoài_trời hay đọc sách của trẻ .
+Thậm_chí , học lập_trình nghiêm_túc bên máy_tính là một lựa_chọn thay_thế hiệu_quả hơn việc để trẻ ngồi chơi game i Pad .
+Trong khi những tranh_luận này vẫn chưa đi đến hồi kết , nhiều nhà_lập_trình cho rằng mang bộ_môn này vào trường_học sẽ khiến tất_cả trẻ_em có hiểu_biết cơ_bản và phục_vụ cho nhiều lĩnh_vực khác , chẳng_hạn như ghi bài về quá_trình biến_đổi sâu thành bướm bằng hình đồ_họa cho môn khoa_học_tự_nhiên , thiết_kế bản_đồ tương_tác về các quốc_gia trong môn địa_lý …
+Cũng_như bất_kỳ ngôn_ngữ lẫn tiếng_địa_phương nào trên thế_giới , ngôn_ngữ_lập_trình sẽ trải qua một cuộc cách_mạng , sẽ trở_nên dễ hiểu hơn và máy_tính thì ngày_càng thông_minh hơn .
+Một nhà_lập_trình từng phát_biểu với tạp_chí Wired rằng : " Mỗi thế_hệ sẽ được làm_quen với một giao_diện cao_cấp hơn .
+Thậm_chí , về sau , mỗi người đều có_thể lập_trình vì ngôn_ngữ của nó sẽ tiến về tự_nhiên như ngôn_ngữ ngày thường " .
+Và những đứa trẻ nên biết đến thứ ngôn_ngữ này như ngay từ những ngày_tháng đầu đời .
+Thu_Ngân ( theo GE Lookahead )

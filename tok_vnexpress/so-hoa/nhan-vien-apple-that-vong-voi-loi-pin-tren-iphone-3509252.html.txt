@@ -1,0 +1,22 @@
+Nhân_viên Apple thất_vọng với lỗi pin trên i Phone
+Lỗi nghiêm_trọng khiến i Phone sập nguồn dù chưa hết pin xảy_ra phổ_biến tới mức chính nhân_viên Apple cũng cảm_thấy thất_vọng .
+Nhiều khiếu_nại về tình_trạng i Phone đột_ngột bị tắt dù pin còn vài chục % đã được báo_cáo từ cuối tháng 11 .
+Apple cho rằng đây là vấn_đề liên_quan đến phần_cứng và chỉ ảnh_hưởng đến " một lượng nhỏ " iPhone 6s .
+Công_ty công_nghệ Mỹ sẽ tiến_hành thay pin mới cho các thiết_bị này .
+Theo mô_tả của nhân_viên Apple_Store thì sự_cố i Phone sập nguồn nghiêm_trọng hơn tuyên_bố của Apple .
+Tuy_nhiên theo chia_sẻ của nhân_viên Apple_Store với Business_Insider , sự_cố xảy_ra phổ_biến chứ không dừng lại ở một_vài máy và ảnh_hưởng đến i Phone 6s cũng_như một_vài mẫu khác .
+Trước đó , Apple nhiều lần từ_chối bình_luận khi được hỏi lỗi sập nguồn liệu có gặp phải trên các model còn lại .
+Một nhân_viên Genius của Apple_Store tại Manhattan ( Mỹ ) cho_biết 80% trường_hợp khách_hàng cần hỗ_trợ do máy bị tắt nguồn đột_ngột .
+" Chúng_tôi tiếp_nhận nhiều trường_hợp khách bị lỗi trên , bao_gồm cả i Phone 6s Plus , nhưng model này không thuộc diện thay pin miễn_phí .
+Tôi cũng gặp nhiều máy không nằm trong lô được bảo_hành ( giữa tháng 9 và 10/2015 ) cũng gặp sự_cố tương_tự " .
+Một_Genius khác có trụ_sở tại Mỹ nói rằng cửa_hàng đã đặt 80 đơn hàng pin sau khi chương_trình thay_thế được Apple đưa ra , đồng_thời nói rằng lượng pin cung_ứng đã không đáp_ứng đủ .
+" Điều này chẳng có gì là xấu , nhưng phải trung_thực " , nhân_viên của Apple nói .
+Có báo_cáo nói rằng sự_cố i Phone sập nguồn liên_quan đến lỗi trên i OS , song nhân_viên của Apple nói họ không tin điều này và cho rằng phần_cứng là nguyên_nhân .
+Tuy_nhiên với những thiết_bị sập nguồn khi pin còn khoảng 30% , công_cụ chẩn_đoán của Apple vẫn cho kết_quả rằng máy hoàn_toàn bình_thường .
+Trong một tài_liệu hỗ_trợ trực_tuyến , Apple nói họ đã tìm ra vấn_đề do " một thành_phần pin đã tiếp_xúc với không_khí nhiều hơn kiểm_soát trước khi được đóng_gói thành pin hoàn_chỉnh " .
+Kết_quả là pin sụt nhanh hơn so với bình_thường và gây hiện_tượng i Phone tắt nguồn đột_ngột .
+Công_ty công_nghệ Mỹ nhấn_mạnh rằng đây " không phải vấn_đề liên_quan đến an_toàn " và giải_thích rằng i Phone được thiết_kế để tự tắt máy trong điều_kiện nhất_định .
+Chẳng_hạn khi thời_tiết lạnh khắc_nghiệt , mạch bên trong thiết_bị sẽ tự_động ngắt nếu điện_áp xuống thấp tới mức gây hư_hại máy .
+Hiện các mẫu i Phone 6s trong diện thu_hồi sẽ được Apple thay pin miễn_phí .
+Tại_Việt_Nam , người dùng cần truy_cập vào trang https : / / locate.apple.com/vn/en /
+sau đó chọn thành_phố , mẫu di_động i Phone và nhà_cung_cấp mạng để có địa_chỉ các trung_tâm bảo_hành được ủy_quyền chính_thức từ Apple .

@@ -1,0 +1,28 @@
+Doanh_nghiệp Việt bỏ phí kho vàng Big_Data
+Trong khi Google , Facebook hay Amazon đang làm_giàu nhờ vào kho dữ_liệu khổng_lồ đã dày công thu_thập và vẫn cố_gắng có thêm nhiều thông_tin từ người dùng thì hầu_như các doanh_nghiệp Việt_Nam lại đang có một_cách ứng_xử tương_đối lạc_hậu với dữ_liệu .
+“ Phần_lớn các doanh_nghiệp sở_hữu khối dữ_liệu Big_Data hàng_đầu tại Việt_Nam chưa tư_duy về dữ_liệu .
+Chính vì_vậy , chúng_ta cần trang_bị thông_tin để làm_sao tái cấu_trúc hệ_thống , thiết_lập cơ_sở_hạ_tầng thông_tin , thu_thập , xử_lý , để dữ_liệu lớn ( Big_Data ) phát_huy giá_trị to_lớn của nó ” , bà Phạm_Thị_Minh_Phương , Giám_đốc điều_hành Greenhat & VietnamJoy nhận_xét tại Diễn_đàn dữ_liệu quốc_tế ( Big_Data_Innovation_Summit 2016 ) vừa diễn tại TP_HCM .
+Nhiều chuyên_gia nghiên_cứu về Big_Data cho_biết , nhóm ngành : viễn_thông , tài_chính ngân_hàng , bán_lẻ , tiếp_thị số … đang chiếm ưu_thế về nguồn dữ_liệu khổng_lồ và có nhiều cơ_hội tăng_trưởng vượt_bậc nếu biết cách khai_thác hiệu_quả .
+Theo ông Lưu_Danh_Anh_Vũ - Giám_đốc quốc_gia mảng điện_toán đám mây IBM Việt_Nam , hiện tín_hiệu khả_quan nhất đang đến từ các doanh_nghiệp viễn_thông hàng_đầu như : Viettel , Mobifone , VNPT .
+Các đơn_vị này đang có những bộ_phận , thậm_chí là công_ty riêng , chuyên về lĩnh_vực công_nghệ_thông_tin để làm nhiệm_vụ khai_thác dữ_liệu .
+Tuy_nhiên , về mặt_bằng chung , khả_năng khai_thác Big_Data ở Việt_Nam đang kém so với nhiều nước .
+“ Việt_Nam có nhiều thuận_lợi là lực_lượng dân_số trẻ , mức_độ cập_nhật công_nghệ_cao .
+Tuy_nhiên , với lãnh_đạo doanh_nghiệp thì chúng_ta có một độ trễ nhất_định trong việc ứng_dụng Big_Data .
+Dữ_liệu nằm yên một chỗ thì nó không có ý_nghĩa gì hết , mà phải biến nó thành dữ_liệu biết nói và nói đúng ngữ_cảnh .
+Từ đó , nó sẽ giúp chúng_ta đưa ra hành_động hợp_lý , tối_ưu_hóa được nhiều vấn_đề ” , ông Vũ chia_sẻ .
+Khả_năng khai_thác Big_Data ở Việt_Nam đang kém so với nhiều nước .
+Ảnh minh_họa
+Ông Shane_Rigby - Chuyên_gia tư_vấn cấp cao Big_Data_Week_Vương quốc Anh cho_biết , trong vòng 4 năm nữa , dung_lượng dữ_liệu số của toàn thế_giới sẽ đạt 44 zettabytes ( 44.000 tỉ gigabytes ) gấp 10 lần so với hiện_nay .
+Ít_nhất một phần lượng dữ_liệu này sẽ vận_hành trên nền_tảng điện_toán đám mây .
+Cũng chính vì_thế , thị_trường Hadoop - một nền_tảng mềm mã nguồn mở để lưu_trữ và quản_lý big data , có_thể làm_việc với khối_lượng dữ_liệu khổng_lồ tính bằng petabytes – được dự_đoán tăng_trưởng vượt con_số 1 tỷ đôla vào 2020 với tốc_độ tăng_trưởng hàng năm là 58% .
+“ Với lợi_thế dân_số trẻ , trên 90 triệu người , dân_số internet cao , khoảng 54 triệu người chiếm 57% , Việt_Nam được xem là thị_trường Big_Data tiềm_năng hàng_đầu khu_vực châu Á” , ông Shane_Rigby dự_báo .
+Tuy_vậy , các chuyên_gia trong và ngoài nước cũng đồng_ý rằng , sự am_hiểu và vận_dụng về Big_Data của doanh_nghiệp Việt còn ở giai_đoạn chập_chững , thậm_chí là mơ_hồ và không biết phải bắt_đầu_từ đâu .
+Theo ông Amjad_Zaim - CEO của Cognitro - nhà_khoa_học dữ_liệu - một trong Top 38 chuyên_gia Big_Data hàng_đầu thế_giới , điều quan_trọng nhất mà các doanh_nghiệp Việt_Nam cần tập_trung để có_thể khai_thác được giá_trị của Big_Data là phát_triển một tư_duy phân_tích dữ_liệu , nuôi_dưỡng một văn_hóa dữ_liệu trong doanh_nghiệp .
+“ Phương_pháp hiệu_quả nhất_là lựa_chọn những công_việc / dự_án nhỏ có kích_thước dữ_liệu tương_đối , phân_tích , áp_dụng để đạt kết_quả tăng_trưởng cao , thực_hiện trong thời_gian nhanh_nhất mà có_thể đáp_ứng được những chiến_lược kinh_doanh .
+Từ đó chứng_minh được giá_trị sức_mạnh của phân_tích dữ_liệu và cuối_cùng là thuyết_phục được ban giám_đốc , nhà_đầu_tư của công_ty .
+Doanh_nghiệp thành_công sẽ thu_hoạch được 3 ROI , tức hoàn vốn đầu_tư trên dữ_liệu , sự thấu_hiểu dữ_liệu và đổi_mới kinh_doanh ” , ông Amjad_Zaim gợi_ý .
+Cũng theo chuyên_gia này , hiện hầu_hết các doanh_nghiệp trên thế_giới đều đang ở tình_trạng " ngập_lụt " trong dữ_liệu .
+Do_đó , việc xây_dựng đội_ngũ và lựa_chọn công_nghệ để phân_tích dữ_liệu hiệu_quả là rất cần_thiết .
+Tuy_nhiên , đề_cập đến một bước căn_bản hơn_nữa , ông Lưu_Danh_Anh_Vũ khuyến_nghị , đầu_tiên , doanh_nghiệp nên ý_thức đến vấn_đề số_hóa dữ_liệu của mình .
+Làm được điều này thì họ mới có_thể bắt_đầu nghĩ đến việc " khai_thác vàng " từ kho dữ_liệu .
+Viễn_Thông

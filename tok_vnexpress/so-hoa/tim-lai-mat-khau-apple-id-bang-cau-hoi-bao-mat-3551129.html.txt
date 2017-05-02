@@ -1,0 +1,10 @@
+Tìm lại mật_khẩu Apple ID bằng câu_hỏi bảo_mật
+Để tìm lại mật_khẩu đã quên của Apple ID , người dùng có_thể phải trả_lời câu_hỏi bảo_mật - thông_tin vốn bị coi là không quan_trọng khi lập tài_khoản .
+Nếu sử_dụng các tài_khoản email như Gmail , Yahoo để tạo Apple ID , việc tìm lại mật_khẩu khá dễ_dàng bằng cách nhận email xác_nhận vào hòm_thư .
+Tuy_nhiên , nếu dùng Apple ID qua i Cloud hoàn_toàn mới , câu_hỏi bảo_mật là cách gần_như duy_nhất để lấy lại mật_khẩu .
+Tuy_nhiên , nhiều người dùng cho_biết thông_tin này thường bị điền " bừa " lúc đăng_ký .
+Apple hiện cho_phép người dùng thay_đổi các câu_hỏi bảo_mật khi truy_cập vào tài_khoản .
+Điều_kiện là tài_khoản Apple ID phải đang sử_dụng trên một thiết_bị i Device .
+Mã xác_minh sẽ hiển_thị trên màn_hình phục_vụ cho quá_trình thay_đổi câu_hỏi bảo_mật .
+Người dùng có_thể truy_cập vào đây và làm theo trình_tự như video hướng_dẫn .
+Mã xác_minh sẽ hiển_thị trên thiết_bị đã đăng_nhập Apple ID .

@@ -1,0 +1,4 @@
+Những câu_đố di_chuyển que diêm thách_thức người giải
+Hãy thử khả_năng tư_duy qua các câu_đố yêu_cầu di_chuyển que diêm dưới đây .
+Câu 1 : Cách xếp que diêm dưới đây tạo thành 10 hình_tam_giác ( hình_tam_giác đơn_lẻ và hình_tam_giác gộp từ nhiều hình nhỏ ) .
+Với cách đếm này , hãy bỏ đi 4 que diêm để chỉ còn tổng_cộng 4 hình_tam_giác .

@@ -1,0 +1,22 @@
+Đáp_án bài_toán tính tuổi khiến máy_tính ' bó_tay '
+Dữ_liệu " cô chị lớn nhất tóc vàng " không phải là chi_tiết thừa bởi nhờ đó mới có_thể dùng phương_pháp loại_trừ , cho ra kết_quả cuối_cùng .
+Đề_bài :
+Tính tuổi của 3 chị_em , biết rằng :
+1 . Nhân tuổi của 3 người được kết_quả là 36 .
+2 . Cộng tuổi của 3 người được kết_quả là 13 .
+3 . Cô chị lớn nhất tóc vàng .
+Cách giải :
+Nếu tích tuổi của 3 người là 36 , ta có 8 trường_hợp dưới đây :
+36 = 2 × 3 × 6 , và tổng của 3 số này là 11 .
+36 = 2 × 2 × 9 ,   và tổng của 3 số này là   13 .
+36 = 4 × 9 × 1 ,   và tổng của 3 số này là   14 .
+36 = 4 × 3 × 3 ,   và tổng của 3 số này là   10 .
+36 = 18 × 2 × 1 ,   và tổng của 3 số này là   21 .
+36 = 12 × 3 × 1 ,   và tổng của 3 số này là   16 .
+36 = 6 × 6 × 1 ,   và tổng của 3 số này là   13 .
+36 = 36 × 1 × 1 ,   và tổng của 3 số này là   38 .
+Từ dữ_liệu thứ_hai của bài_toán , ta còn 2 trường_hợp là 2 + 2 + 9 = 13 và 6 + 6 + 1 = 13 .
+Đến đây , dữ_liệu thứ_ba tưởng vô_nghĩa lại trở_nên có_ích .   Một_số độc_giả chọn đáp_án 6 , 6 và 1 với việc cho rằng dữ_liệu " tóc vàng " dùng để phân_biệt người nào lớn hơn trong hai chị_em sinh_đôi ( cùng 6 tuổi ) .
+Cách lý_giải này không chính_xác bởi câu " cô chị lớn nhất tóc vàng " chỉ ra có một người lớn_tuổi hơn 2 người còn lại .
+Do_đó , chỉ có một đáp_án đúng là người chị lớn nhất 9 tuổi , hai người em song_sinh 2 tuổi .
+Phiêu_Linh ( theo Bright_Side )

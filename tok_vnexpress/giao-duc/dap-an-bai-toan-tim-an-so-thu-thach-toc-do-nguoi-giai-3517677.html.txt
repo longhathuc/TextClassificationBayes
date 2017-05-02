@@ -1,0 +1,3 @@
+Đáp_án bài_toán tìm ẩn_số thử_thách tốc_độ người giải
+Quy_luật được sử_dụng trong bài này là số trong vòng_tròn bằng tích của hai số bên trái vòng_tròn chia tích của hai số bên phải vòng_tròn .
+Đề_bài :

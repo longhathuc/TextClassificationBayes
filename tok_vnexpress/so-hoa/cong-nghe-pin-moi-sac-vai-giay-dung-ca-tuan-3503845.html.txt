@@ -1,0 +1,14 @@
+Công_nghệ pin mới sạc vài giây , dùng cả tuần
+Ứng_dụng công_nghệ nano , Supercapacitor_Battery ( pin siêu tụ ) cho thời_lượng sử_dụng lâu hơn nhiều lần so với pin Li-ion hiện_tại nhưng thời_gian sạc ngắn hơn .
+Pin siêu tụ cho năng_lượng lớn hơn , tuổi_thọ cao hơn so với pin Li-ion .
+Các nhà_khoa_học thuộc Đại_học Central_Florida ( Mỹ ) đã ứng_dụng công_nghệ nano để phát_triển thành_công pin siêu tụ cho năng_lượng cao gấp nhiều lần công_nghệ pin hiện_tại .
+Theo mô_tả , pin này được cấu_tạo bởi các siêu tụ_điện dẻo , gồm những ống nano carbon siêu nhỏ .
+Thông_thường , ống nano carbon là vật_liệu cách_điện , nhưng nó sẽ thành những " siêu tụ_điện " khi được bọc bên ngoài một lớp vật_liệu dẫn_điện hai chiều .
+Yeonwoong ' Eric ' Jung , thành_viên nhóm nghiên_cứu , mô_tả , lớp vật_liệu này_khác với thông_thường khi có_thể cho_phép các điện_tử ( electron ) vượt qua một_cách nhanh_chóng từ lõi đến vỏ , từ đó tạo nên nguồn năng_lượng cực lớn .
+Điều đặc_biệt là , vật_liệu này có_thể được tạo thành từ " các phương_pháp tổng_hợp hóa_học đơn_giản " .
+Theo tính_toán của các nhà_khoa_học , pin mới cho thời_lượng gấp 20 lần so với pin Li-ion .
+" Với pin siêu tụ , chỉ cần sạc trong vài giây là đủ để dùng cho cả tuần .
+Tuổi_thọ của nó cũng rất cao , 30.000 lần sạc và tuổi_thọ ổn_định theo thời_gian , khác với pin Li-ion thường mất dần năng_lượng sau mỗi lần sạc " , ông Jung nhấn_mạnh .
+Ngoài_ra , với nguồn năng_lượng lớn nhưng kết_cấu nhỏ hơn so với pin Li-ion , pin siêu tụ được kỳ_vọng sẽ có_mặt trên những mẫu smartphone siêu mỏng , các thiết_bị đeo thông_minh , máy_bay_không_người_lái … trong tương_lai .
+Tuy_nhiên , hiện công_nghệ pin mới này vẫn trong quá_trình thử_nghiệm , chưa rõ thời_gian được thương_mại_hóa .
+Bảo_Lâm ( theo Phonearena )

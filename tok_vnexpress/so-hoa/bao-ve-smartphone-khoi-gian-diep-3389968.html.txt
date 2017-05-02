@@ -1,0 +1,32 @@
+Bảo_vệ smartphone khỏi gián_điệp
+Sử_dụng ứng_dụng có mã_hóa tin nhắn , thường_xuyên cập_nhật hệ_điều_hành và cẩn_trọng với các ứng_dụng tải về , là 3 cách đơn_giản giúp người dùng không bị kẻ xấu nhòm_ngó .
+Những năm gần đây , điện_thoại đang trở_thành mục_tiêu tấn_công chính của tin_tặc .
+Theo báo_cáo mới nhất ( đầu 2016 ) của hãng bảo_mật Symantec , chỉ trong 3 năm , từ 2013 đến 2015 , lỗ_hổng bảo_mật trên điện_thoại thông_minh đã tăng từ 127 lên 528 , tức tăng tới 214% , phần_nhiều trong số đó được đánh_giá là đáng_sợ .
+Người dùng smartphone luôn bị tin_tặc nhòm_ngó .
+Mới_đây , trong chương_trình " 60 Minutes " của CBS News , một nhà bảo_mật đã nhấn_mạnh cách tấn_công mới của tin_tặc   mà   chỉ cần biết số điện_thoại là chúng đã có_thể kiểm_soát cuộc_gọi và tin nhắn của người dùng .
+Lỗ_hổng này đang thực_sự khiến người_ta lo_ngại .
+Vậy làm thế_nào để tự bảo_vệ mình ?
+Dưới đây là chia_sẻ của Tiến_sĩ Anup_Ghosh , Giám_đốc điều_hành của công_ty an_ninh Invincea , với Tech_Insider về cách_thức bảo_vệ điện_thoại đơn_giản nhưng an_toàn .
+Sử_dụng ứng_dụng có mã_hóa tin nhắn
+Chính lỗ_hổng báo_hiệu số 7 ( SS7 ) đã bị tin_tặc lợi_dụng để tấn_công hầu_hết các smartphone trên thế_giới .
+Chỉ cần biết được số điện_thoại , kẻ xấu đã có_thể xâm_nhập và nghe lén cuộc_gọi , đọc tin nhắn , thậm_chí là theo_dõi vị_trí mục_tiêu .
+Dù cách_thức tấn_công này còn chưa phổ_biến , người dùng vẫn đang đối_mặt với hàng_loạt những nguy_cơ nguy_hiểm không kém khác mà không hề hay_biết .
+Để an_toàn trong việc nhắn_tin , người dùng có_thể sử_dụng các ứng_dụng nhắn_tin có tích_hợp sẵn hệ_thống mã_hóa bên trong , như i Message của Apple , Messenger của Facebook … Còn với cuộc_gọi , các ứng_dụng mã_hóa giọng nói là lựa_chọn không_thể bỏ_qua .
+Ngoài_ra , chủ smartphone có_thể sử_dụng các dịch_vụ bảo_mật khác , như Silent_Circle hay Open_Whisper_Systems .
+Cập_nhật điện_thoại , kể_cả khi mới mua
+Tin_tặc luôn lợi_dụng các lỗ_hổng có trên phiên_bản cũ của hệ_điều_hành để tấn_công .
+Do_đó , cập_nhật lên phiên_bản mới nhất_là cách không_thể tốt hơn để bảo_vệ chính mình , bởi các nhà_cung_cấp đã vá những lỗ_hổng này .
+“ Hiện_nay , Android của Google và i OS của Apple là 2 nền_tảng phổ_biến nhất .
+Với các thiết_bị đã cũ , không còn được nhà_sản_xuất hỗ_trợ cập_nhật , tốt nhất , không nên sử_dụng nữa .
+Hoặc nếu sử_dụng , không nên dùng vào các công_việc quan_trọng , nhằm tránh bị tin_tặc khai_thác , đánh_cắp dữ_liệu ” , Ghosh nhấn_mạnh .
+Cẩn_thận với những gì tải về
+Ứng_dụng tải về , đặc_biệt là các ứng_dụng không rõ nguồn_gốc , luôn tiềm_ẩn nguy_cơ về bảo_mật .
+Nhưng ngay cả các ứng_dụng trên cửa_hàng , vẫn có các tùy chọn thu_thập thông_tin mà người dùng dù biết nhưng thường bỏ_qua .
+Lúc này , cách tốt nhất_là lựa_chọn sản_phẩm đến từ các thương_hiệu uy_tín .
+“ Nhiều ứng_dụng trước khi cài_đặt thường hỏi về vị_trí , danh_bạ , tin nhắn , thông_tin về máy_ảnh … và đa_số người dùng đều bỏ_qua .
+Tuy_nhiên , đây lại là cách đơn_giản nhất để đánh_cắp thông_tin .
+Do_đó , nếu_không phải là ứng_dụng đã được xác_nhận , hãy cân_nhắc khi quyết_định tải về hay không ” , Ghost nói .
+Trên thực_tế , Symantec đã phân_tích hơn 10,8 triệu ứng_dụng trong năm 2015 và kết_luận rằng , có tới 3,3 triệu được phân_loại là độc_hại .
+“ Apple hiện đã có một hệ_sinh_thái khép_kín , các ứng_dụng được kiểm_soát kỹ trước khi đưa lên App_Store .
+Trong khi đó , Play_Store thoáng hơn nhưng cũng chính vì điều này , người dùng Android phải đặc_biệt cẩn_trọng nhằm tránh hậu_quả về sau ” , Ghost nói thêm .
+Bảo_Lâm

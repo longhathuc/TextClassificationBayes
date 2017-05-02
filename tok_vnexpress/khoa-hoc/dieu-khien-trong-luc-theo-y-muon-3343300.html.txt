@@ -1,0 +1,23 @@
+Điều_khiển trọng_lực theo ý_muốn
+Một nhà toán_học người Bỉ đề_xuất chế_tạo thiết_bị tạo ra và điều_khiển lực hấp_dẫn theo ý_muốn để ứng_dụng vào truyền_thông thay cho sóng_điện_từ ngày_nay .
+Theo Science_Alert , hiểu_biết của con_người về tác_động của trọng_lực lên vũ_trụ vẫn chỉ giới_hạn trong quan_sát về các trường hấp_dẫn tự_nhiên tạo ra bởi những ngôi_sao và hành_tinh xa_xôi .
+Trong thực_tế , đây là lực duy_nhất trong 4 lực tương_tác cơ_bản ( tương_tác hấp_dẫn , tương_tác điện_từ , tương_tác mạnh , tương_tác yếu ) mà con_người chưa_thể tạo ra và kiểm_soát được .
+Hôm 12/1 , nhà_vật_lý lý_thuyết người Mỹ , Lawrence_Krauss thông_báo trên tài_khoản Twitter của mình rằng các thí_nghiệm phát_hiện sóng hấp_dẫn – những vết gợn của không thời_gian cong như Einstein dự_đoán cách đây 100 năm - đã thành_công .
+Andre_Fuzfa , một nhà toán_học tại Đại_học Namur , Bỉ đề_xuất chế_tạo một thiết_bị tạo ra và điều_khiển trọng_lực , dù mới chỉ dừng lại ở trường hấp_dẫn nhỏ , mà không đòi_hỏi bất_kỳ công_nghệ mới nào .
+Nghiên_cứu của ông được đăng_tải trên tạp_chí Physical_Review D hôm 11/1 .
+Đây sẽ là điều_kiện cho_phép các nhà_vật_lý lần đầu_tiên có_thể chủ_động nghiên_cứu trường hấp_dẫn từ quan_điểm khoa_học , và sẵn_sàng kiểm_chứng thuyết_tương_đối của Einstein .
+Thậm_chí có_thể ứng_dụng để nghiên_cứu công_nghệ truyền_thông mới , dựa trên lực hấp_dẫn thay_vì sóng_điện_từ .
+" Một tiến_bộ khoa_học kiểu này mới chỉ có trong các tác_phẩm khoa_học_viễn_tưởng , nhưng nó có_thể mở ra nhiều ứng_dụng mới , ví_dụ , trong lĩnh_vực viễn_thông với các sóng hấp_dẫn " , Fuzfa cho_biết .
+" Hãy tưởng_tượng tới việc liên_lạc giữa hai bên bán_cầu mà không cần sử_dụng vệ_tinh hay các trạm tiếp sóng trên mặt_đất " .
+Thiết   bị lý_thuyết ông đề_xuất dựa trên một nam_châm siêu_dẫn lớn , giống loại đang được sử_dụng ở máy_gia_tốc hạt lớn LHC , để tạo ra một từ_trường mạnh và dễ kiểm_soát .
+Các nhà_vật_lý sẽ dễ_dàng quan_sát hiệu_ứng bẻ cong không thời_gian của từ_trường .
+Khả_năng chế_tạo thành_công thiết_bị này từ các tính_toán lý_thuyết của Fuzfa là khá cao .
+Nó dựa trên nguyên_lý trung_tâm của thuyết_tương_đối Einstein – nguyên_lý tương_đương .
+Nguyên_lý này cho rằng các trạng_thái của mọi loại năng_lượng và khối_lượng đều bị ảnh_hưởng bởi trường hấp_dẫn theo cùng một_cách .
+Do_đó , một trường điện_từ cũng phải có khả_năng bẻ cong không thời_gian , giống như trường hấp_dẫn của một hành_tinh hay một ngôi_sao .
+Tuy_nhiên , độ cong này trên Trái_Đất là rất nhỏ và khó phát_hiện .
+Theo Fuzfa , bằng cách tạo ra một nam_châm siêu_dẫn lớn với từ_trường mạnh , có_thể làm xuất_hiện một trường hấp_dẫn , dù yếu , nhưng vẫn có_thể phát_hiện bằng các giao_thoa kế có độ nhạy cao .
+Các giao_thoa kế sẽ " chồng " các trường hấp_dẫn lên nhau để có_thể thu được thông_tin về chúng .
+Vấn_đề lớn trong việc chế_tạo thiết_bị này là nó rất tốn_kém và khó thực_hiện .
+Tuy_nhiên , để có_thể điều_khiển lực hấp_dẫn như con_người đang điều_khiển ba loại tương_tác còn lại , nó đáng để thử_nghiệm và đầu_tư .
+Nguyễn_Thành_Minh

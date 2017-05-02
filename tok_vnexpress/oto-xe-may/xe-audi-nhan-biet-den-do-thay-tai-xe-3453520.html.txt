@@ -1,0 +1,14 @@
+Xe_Audi nhận_biết đèn_đỏ thay tài_xế
+Thay_vì lái_xe phải chăm_chăm " canh " đèn giao_thông , hãng Đức tung ra những chiếc ôtô tự giao_tiếp với hệ_thống đèn tín_hiệu vào cuối năm nay .
+Một màn_hình trên cụm điều_khiển phía trước tài_xế cho_biết đèn đang đỏ và đếm ngược số giây đến khi đèn chuyển sang xanh .
+Tính_năng vẫn khá đơn_giản và hạn_chế , nhưng hãng sản_xuất kỳ_vọng hệ_thống sẽ hoàn_thiện và cung_cấp nhiều thông_tin hơn về tín_hiệu giao_thông , theo USA Today .
+Sự xuất_hiện của hệ_thống đánh_dấu bước_tiến vượt_bậc của ngành công_nghiệp ôtô trong việc phát_triển những mẫu xe giao_tiếp với cơ_sở_hạ_tầng - như đèn tín_hiệu , các góc mù , những cây cầu - nhằm giúp hành_trình an_toàn hơn .
+Ngành công_nghiệp cũng đã quảng_bá về những hệ_thống tương_tự từ vài năm nay , nhưng chưa hãng nào thực_sự có khả_năng tạo ra một sản_phẩm có ý_nghĩa .
+Cùng thời_điểm , các hãng xe nghiên_cứu những hệ_thống cho_phép ôtô " nói_chuyện " với nhau nhằm tránh tai_nạn giao_thông .
+Gọi tên V2V ( vehicle-to-vehicle ) , những hệ_thống này giúp những chiếc xe biết chúng cách nhau bao_xa và xác_định khi nào có_thể va_chạm .
+Các tài_xế được cảnh_báo trước khi quá muộn .
+Audi cho_biết , công_nghệ xe giao_tiếp với cơ_sở_hạ_tầng , tên gọi V2I ( vehicle-to-infrastructure ) , sẽ được cài_đặt trên một_số mẫu như A7 2017 , A4 và A4 Allroad bán ra từ mùa thu năm nay .
+Ôtô sẽ tự_động giao_tiếp với tín_hiệu giao_thông tại một_số thành_phố của Mỹ .
+Xe nhận thông_tin về đèn tín_hiệu thông_qua một kết_nối dữ_liệu .
+Audi đang hợp_tác với một hãng có tên Traffic_Technology_Services để biến công_nghệ thành có_thể .
+Mỹ_Anh

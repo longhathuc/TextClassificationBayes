@@ -1,0 +1,8 @@
+Robot giải khối rubic chỉ trong một giây
+Con robot chỉ cần 1,019 giây để xoay khối rubic về đúng trật_tự trong khi người giải khối rubic nhanh_nhất phải mất 4,9 giây .
+IFL Science hôm 25/1 đưa tin , nhóm kỹ_sư phần_mềm Jay_Flatland và Paul_Rose ở Kansas , Missouri , Mỹ , chế_tạo robot tích_hợp 4 máy quay để xác_định trạng_thái của khối rubik .
+Thông_tin sau đó được truyền tới máy_tính và phần_mềm trên máy sử_dụng thuật_toán Kociemba_Rubik để tính_toán các bước xoay .
+Một bộ động_cơ nhỏ đặt trên khung in 3D sẽ xoay lại khối rubic .
+Kỷ_lục giải rubic nhanh_nhất trước_đây do robot đạt được là 2,39 giây và cỗ máy mới bỏ xa mốc thời_gian này .
+Nhóm kỹ_sư đang chờ xác_nhận từ Kỷ_lục Thế_giới Guinness .
+Phương_Hoa

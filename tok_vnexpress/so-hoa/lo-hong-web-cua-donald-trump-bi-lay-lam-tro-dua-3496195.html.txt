@@ -1,0 +1,17 @@
+Lỗ_hổng web của Donald_Trump bị lấy_làm trò_đùa
+Một lỗi thiết_kế trên website của ứng_viên đảng Cộng_hòa cho_phép bất_kỳ ai hiển_thị thông_tin tùy_thích trên đó , khiến nhiều người tưởng trang của Trump bị hack .
+Trang_web của Donald_Trump tồn_tại một lỗ_hổng , cho_phép người dùng thay_đổi tiêu_đề trang hay hiển_thị bất_kỳ dòng chữ nào mình muốn lên đó .
+Bằng cách chèn thêm nội_dung tùy_ý vào cuối đường link ( URL ) , không ít người lầm rằng website của ứng_viên đảng Cộng_hòa bị tấn_công .
+Một người dùng chèn thêm chữ lên website của Donald_Trump .
+Thông_tin về lỗi thiết_kế nhanh_chóng lan_truyền trên Twitter và rất nhiều người đã lấy đó làm trò_đùa , hay đưa ra đánh_giá cá_nhân về Donald_Trump .
+Tài_khoản Chris_Bennett chèn thêm dòng " Melania không bỏ_phiếu cho tôi " ( Melania là vợ Trump ) .
+Hay   Michael_Margolis sửa thành " Donald_Trump chấp_nhận thất_bại " .
+Thậm_chí , lỗ_hổng cho_phép thay_đổi nội_dung trên website của Donald_Trump đã khiến một_số phương_tiện truyền_thông tưởng nhầm .
+Một_số đơn_vị , trong đó có BBC , nhanh_chóng đưa tin rằng trang_web thật_sự bị hack .
+Ngay sau đó , người dùng Twitter chỉ ra đây đơn_thuần là lỗi thiết_kế .
+BBC News tưởng rằng website của Trump bị hack nên đã loan tin .
+Hiện lỗ_hổng thiết_kế trên website của Donald_Trump đã được vá .
+Trang_web còn tăng_cường bảo_mật , hạn_chế bị tấn_công khi yêu_cầu người truy_cập phải xác_nhận " Tôi không phải là người_máy " .
+Trong đợt bầu_cử , trang_web của cả hai ứng_viên Tổng_thống Mỹ đều trở_thành mục_tiêu của các tin_tặc .
+Theo hãng bảo_mật Flashpoint ,   ít_nhất bốn cuộc tấn_công từ_chối dịch_vụ ( DDoS ) nhằm vào website của Donald_Trump và Hillary_Clinton hôm_qua .
+Xem thêm :   Tổng_thống mới của Mỹ sẽ không am_hiểu công_nghệ

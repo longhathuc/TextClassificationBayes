@@ -1,0 +1,30 @@
+Nghề kiểm_thử phần_mềm
+Đây là công_việc đòi_hỏi tính sáng_tạo cao vì yêu_cầu tư_duy phân_tích và giải_quyết vấn_đề .
+Gần đây tôi có đọc một bài nói rằng lĩnh_vực phần_mềm là việc nhàm_chán , ngồi cả ngày_trước máy_tính và kiểm_thử phần_mềm là kỹ_năng thấp , chuyên sửa lỗi cho người khác , không được coi_trọng .
+Là một người đã làm_việc trong công_nghệ_phần_mềm trên 30 năm , tôi có_thể nói rằng lĩnh_vực phần_mềm không_bao_giờ là việc nhàm chám mà đòi_hỏi tính sáng_tạo cao vì nó yêu_cầu tư_duy phân_tích và giải_quyết vấn_đề .
+Kiểm_thử phần_mềm không phải là kỹ_năng thấp , nó là một phần rất quan_trọng của quy_trình phát_triển phần_mềm .
+Người kiểm_thử phần_mềm phải có đầu_óc lý_luận sắc_bén để phân_tích , nhận_diện các lỗi , và bảo_đảm sản_phẩm đáp_ứng các yêu_cầu của người dùng .
+Kiểm_thử là công_việc thách_thức và không dễ_dàng .
+Chẳng_hạn kiểm_thử trò_chơi máy_tính ( Videogames ) , được thiết_kế để mô_phỏng xúc_cảm từ người dùng , người kiểm_thử phải bảo_đảm trò_chơi hoạt_động mạnh_mẽ , kích_thích trí_tưởng tượng của người dùng .
+Kiểm_thử các phần_mềm quan_trọng như hệ_thống quỹ_đạo vệ_tinh hay kiểm_soát không_lưu .
+Người kiểm_thử phải khử bỏ mọi rủi_ro và ngăn_ngừa thảm_hoạ .
+Ngược với quan_niệm sai_lầm là người_làm phần_mềm chỉ ngồi cả ngày_trước máy_tính , theo tôi , người_làm phần_mềm không_chỉ là người kỹ_thuật mà_còn tham_gia vào hoạt_động của doanh_nghiệp .
+Họ tiếp_xúc và trao_đổi với khách_hàng nên họ hiểu_biết rõ_ràng về các yêu_cầu doanh_nghiệp .
+Việc_làm của kỹ_sư phần_mềm là tạo ra sản_phẩm đáp_ứng yêu_cầu của khách và người dùng .
+Bằng việc hoàn_thành những yêu_cầu này , họ phải phân_tích , nghiên_cứu , giải_quyết vấn_đề và sáng_tạo ra các sản_phẩm .
+Họ phải phân_tích tình_huống của người dùng để tạo ra giải_pháp tốt nhất .
+Nhiều kỹ_sư phần_mềm nói với tôi rằng kiến_trúc , thiết_kế và lập_trình cho phần_mềm là một tác_phẩm nghệ_thuật và họ vừa là nhà_khoa_học vừa là nghệ_sĩ .
+Là một nhà_khoa_học bởi_vì việc_làm đó yêu_cầu tư_duy logic , phân_tích và tổ_chức nhưng đồng_thời cũng là nghệ_sĩ bởi_vì họ sáng_tạo và biến chúng thành tác_phẩm phần_mềm , như nhạc_sĩ , hoạ_sĩ hay nhà_văn .
+Sản_phẩm của họ là kết_quả của tâm_thức sáng_tạo cao , dứt_khoát , không phải là gì đó nhàm_chán .
+Kỹ_sư phần_mềm không_mấy_khi nói về công_việc của họ hay ích_lợi đem tới cho doanh_nghiệp , họ thường_xuyên bận_rộn trong việc_làm để duy_trì mối quan_hệ với khách_hàng bằng việc trao_đổi và chứng_minh sản_phẩm của họ sẽ đáp_ứng cho yêu_cầu .
+Điều không may là nhiều người kiểm_thử phần_mềm chỉ dựa trên ngôn_ngữ_lập_trình và không_mấy_khi tham_gia với doanh_nghiệp .
+Kiểm_thử phần_mềm là một môn quan_trọng trong việc huấn_luyện phần_mềm như trong chương_trình khoa_học máy_tính truyền_thống .
+Nó đơn_thuần hội_tụ vào kiểm_thử mã , không_mấy_khi hội_tụ vào kiểm_thử thiết_kế , kiểm_thử kiến_trúc , kiểm_thử yêu_cầu , trắc_nghiệm doanh nghiệm , kiểm_thử thuộc_tính chất_lượng và kiểm_thử xúc_cảm .
+Chẳng_hạn nhiều người kiểm_thử phần_mềm có_thể không hiểu tầm quan_trọng của việc chứng_tỏ giá_trị mà kiểm_thử đem lại cho doanh_nghiệp hay sự lý_thú của kiểm_thử “ cảm_giác ” của người dùng khi dùng sản_phẩm mà chỉ biết cách kiểm_thử mã .
+Nếu kỹ_sư phần_mềm có_thể tham_gia vào cách vận_hành của doanh_nghiệp ở mức_độ sâu hơn , họ sẽ hiểu giá_trị và ích_lợi của kiểm_thử .
+Kiểm_thử thực_sự đòi_hỏi một kiến_thức rộng về chất_lượng và những thuộc_tính của nó để đáp_ứng sự yêu_cầu của khách_hàng .
+Cách huấn_luyện và đào_tạo cổ_điển chủ_trương rằng kiểm_thử xảy_ra sau khi lập_trình được hoàn_tất , điều đó không còn đúng nữa vì nó chỉ hội_tụ vào phát_hiện khiếm_khuyết của việc thực_hiện ( viết mã ) .
+Huấn_luyện kỹ_nghệ phần_mềm ngày_nay hội_tụ vào kiểm_thử ở mọi phía của vòng đời phát_triển phần_mềm từ yêu_cầu , kiến_trúc , thiết_kế và thành_lập , điều có nghĩa_là kiểm_thử bắt_đầu khi dự_án bắt_đầu và trường_hợp kiểm_thử phải được chuẩn_bị sớm nhất có_thể được .
+Tôi tin người kiểm_thử phần_mềm có vai_trò quan_trọng trong sự thành_công hay thất_bại của dự_án và họ cần tham_gia vào mọi công_việc , mọi chi_tiết để xác_định yêu_cầu từ dự_án và hiểu rõ nhu_cầu của người dùng và khách_hàng .
+Tôi tin phần_mềm là việc_làm có tính sáng_tạo và lý_thú và người kiểm_thử phần_mềm cần được thừa_nhận về điều họ đã đóng_góp .
+Giáo_sư John_Vũ Viện_trưởng Viện nghiên_cứu phần_mềm Đại_học Carnegie_Mellon ( Mỹ ) Kỹ_sư trưởng của Tập_đoàn Boeing

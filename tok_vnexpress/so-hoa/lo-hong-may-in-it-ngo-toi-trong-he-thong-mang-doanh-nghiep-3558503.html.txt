@@ -1,0 +1,31 @@
+Lỗ_hổng máy_in ít ngờ tới trong hệ_thống mạng doanh_nghiệp
+Việc không đánh_giá đúng tầm quan_trọng bảo_mật máy_in khiến thông_tin doanh_nghiệp có_thể bị tin_tặc khai_thác .
+Kết_quả khảo_sát về bảo_mật máy_in do IDC thực_hiện cuối năm 2016 cho thấy , máy_in nối_mạng đang mở_toang cánh cửa cho tin_tặc phá vỡ cấu_trúc an_ninh đằng sau bức tường lửa mà doanh_nghiệp dày công thiết_lập .
+Những chiếc máy_in nối_mạng tuy tiện_lợi nhưng lại ít được bảo_vệ , trở_thành kẽ hở cho kẻ xấu khai_thác .
+Máy_in thường do bộ_phận mua_sắm nội_bộ trang_bị và hầu_hết không nằm trong kế_hoạch củng_cố an_ninh bảo_mật doanh_nghiệp .
+Vì_thế , việc xây_dựng chiến_lược an_ninh thông_tin doanh_nghiệp vẫn chưa_thể coi là toàn_diện .
+Khảo_sát của IDC cũng cho thấy 53,6% doanh_nghiệp tại khu_vực châu Á - Thái_Bình_Dương ( không bao_gồm Nhật_Bản ) đánh_giá tầm quan_trọng của việc xây_dựng chiến_lược an_ninh công_nghệ_thông_tin toàn_diện ở dưới mức trung_bình .
+Việc không đưa bảo_mật máy_in vào chiến_lược tổng_thể thực_tế có_thể khiến doanh_nghiệp hứng_chịu tổn_thất .
+Doanh_nghiệp cần đưa máy_in vào chính_sách an_ninh mạng tổng_thể .
+Xét về chức_năng hoạt_động , máy_in không khác_gì một chiếc máy_tính hoặc thiết_bị_đầu_cuối trong mạng doanh_nghiệp .
+Máy_in cũng có hệ_điều_hành , bộ_nhớ , ổ_cứng , kết_nối mạng , đảm_nhận chức_năng chia_sẻ chung nhưng lại không được bảo_vệ chu_đáo .
+Thiết_bị này đang là mục_tiêu của rất nhiều loại_hình tấn_công từ bên ngoài .
+Nó có_thể bị tấn_công qua BIOS và firmware .
+Tin_tặc có_thể cài cắm mã ẩn vào tác_vụ in_ấn , đồng_thời đánh_cắp thông_tin từ các tác_vụ in_ấn thông_qua mạng .
+Đại_diện HP chia_sẻ , các lãnh_đạo công_nghệ_thông_tin nên coi máy_in là một thành_phần như chiếc máy_tính trong hệ_thống mạng doanh_nghiệp , từ đó có chính_sách bảo_vệ phù_hợp .
+Quy_trình cài_đặt mật_khẩu cho máy_in , quét tìm lỗ_hổng , nâng_cấp phần_mềm định_kỳ và theo_dõi chặt_chẽ các tác_vụ in_ấn nên áp_dụng ngay_lập_tức .
+Việc mua_sắm , trang_bị những chiếc máy_in có bảo_mật nên được ưu_tiên .
+IDC khuyến_cáo doanh_nghiệp cần chắc_chắn nhà_cung_cấp máy_in đáng tin_cậy và có khả_năng thiết_lập môi_trường in_ấn an_toàn và đảm_bảo .
+Máy_in doanh_nghiệp HP trang_bị các công_nghệ và tính_năng bảo_mật cao_cấp .
+Tìm_hiểu thêm bảo_mật in_ấn HP tại đây hoặc liên_hệ tổng_đài hỗ_trợ khách_hàng : 1800588868 .
+Nhằm giải_quyết vấn_đề này , hãng HP đã nghiên_cứu những lỗ_hổng bảo_mật tiềm_ẩn trong máy_in doanh_nghiệp .
+Hiện_nay , các sản_phẩm máy_in Enterprise và một_số dòng Pro chọn_lọc của HP đã trang_bị hàng_loạt công_nghệ và tính_năng bảo_mật an_toàn như HP JetAdvantage Security_Manager , HP Printing_Security_Advisory_Services , HP Managed_Print_Services ( HP_MPS ) và HP Access_Control .
+Theo đó , HP JetAdvantage Security_Manager cho_phép dễ_dàng thiết_lập chính_sách bảo_mật tổng_thể .
+Hay HP Printing_Security_Advisory_Services giúp đánh_giá xây_dựng chiến_lược in_ấn bảo_mật toàn_diện , từ đó đề_xuất các giải_pháp tối_ưu cho doanh_nghiệp .
+Còn HP Managed_Print_Services kết_hợp với HP Access_Control sẽ giúp đảm_bảo an_toàn cho công_tác in_ấn .
+Các tác_vụ in sẽ được mã_hóa và chỉ có những người dùng được xác_thực mới được quyền tiếp_cận .
+Những tính_năng bảo_mật cao_cấp này có_thể tìm thấy trong nhiều mẫu máy_in của HP như PageWide Enterprise_Color 556dn , HP LaserJet Enterprise M506dn hay HP Color_Laser Jet_Pro MFP_M4 77fdw .
+Công_nghệ của HP giúp đơn_giản_hóa các thiết_lập bảo_mật cho máy_in .
+Một chiếc máy_in đa chức_năng của HP có_thể có tới 250 thiết_lập bảo_vệ .
+Các công_nghệ này cho_phép doanh_nghiệp xây_dựng lá_chắn toàn_diện , ngăn_chặn hiệu_quả nỗ_lực đột_nhập từ bên ngoài qua cửa_ngõ máy_in , bảo_vệ an_toàn thông_tin và dữ_liệu .
+Minh_Trí

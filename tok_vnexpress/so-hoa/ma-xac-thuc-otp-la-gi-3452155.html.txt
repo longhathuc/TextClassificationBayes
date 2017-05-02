@@ -1,0 +1,30 @@
+Mã xác_thực OTP là gì ?
+OTP - One_Time_Password là mật_khẩu sử_dụng một lần và được coi là lớp bảo_vệ thứ_hai cho các tài_khoản ngân_hàng điện_tử , thanh_toán trực_tuyến hay e - mail , mạng xã_hội .
+Mã xác_thực OTP là một chuỗi số hoặc một chuỗi kết_hợp cả số với ký_tự .
+Nhưng khác mật_khẩu thông_thường , mã xác_thực OTP được tạo ra ngẫu_nhiên không phải từ người dùng , chỉ sử_dụng được một lần và sau đó không còn tác_dụng .
+Thậm_chí , thời_hạn của mật_khẩu OTP thường rất ngắn , có_thể chỉ sau 30 giây , 60 giây hay một_vài phút , nó sẽ vô tác_dụng và lại được thay_thế bằng mã mới .
+OTP được sử_dụng nhiều và rất phổ_biến .
+Để chuyển_tiền hay thực_hiện một giao_dịch trực_tuyến , người dùng không_chỉ dùng tài_khoản và mật_khẩu để đăng_nhập mà_còn cần nhập đúng mã xác_thực OTP mới hoàn_tất được giao_dịch .
+Nhiều nhà_cung_cấp dịch_vụ thư_điện_tử như Google hay mạng xã_hội Facebook cũng sử_dụng OTP là mật_khẩu đăng_nhập thứ_hai , được yêu_cầu sau khi nhập đúng mật_khẩu cá_nhân .   Vì khi để lộ hay bị đánh_cắp tài_khoản và mật_khẩu chính , kẻ xấu cũng không_thể đăng_nhập hay thực_hiện giao_dịch , chuyển_tiền nếu_không có mã OTP .
+Có nhiều cách để người dùng nhận mã OTP , có_thể thông_qua thiết_bị hay ứng_dụng tạo mã , hoặc được nhà_cung_cấp gửi đến thông_qua tin nhắn SMS , điện_thoại hay e - mail .
+Dưới đây là những hình_thức cung_cấp mã xác_thực OTP phổ_biến :
+SMS_OTP
+Mã xác_thực OTP được ngân_hàng hay nhà_cung_cấp dịch_vụ gửi dưới dạng tin nhắn SMS đến số điện_thoại mà người dùng đã đăng_ký .
+So với Token_Key , hình_thức này đơn_giản và phổ_biến hơn nhiều .
+Không_chỉ các ngân_hàng , Google , Facebook hay Apple cũng sử_dụng SMS_OTP làm lớp bảo_vệ thứ_hai khi đăng_nhập tài_khoản .
+Hạn_chế của SMS_OTP là việc người dùng không_thể nhận được mã xác_thực trong trường_hợp điện_thoại mất sóng , hay di_chuyển ra nước_ngoài mà không cài_đặt dịch_vụ chuyển vùng quốc_tế .
+Token_Key ( Token_Card )
+Đây là thiết_bị điện_tử có khả_năng tạo ra mã xác_thực OTP .
+Nó tự_động sinh_ra các mã ngẫu_nhiên sau mỗi phút mà không cần đến kết_nối mạng Internet .
+Tuy_nhiên , mỗi tài_khoản ngân_hàng   phải đăng_ký sử_dụng một Token riêng và không dùng chung được .
+Sau một thời_gian định_kỳ , ngân_hàng sẽ yêu_cầu người dùng đổi một Token mới .
+Là thiết_bị rời và thường nhỏ gọn , Token_Key dễ bị đánh_cắp hoặc thất_lạc .
+Một_số loại thông_dụng với thiết_kế đơn_giản cũng dễ bị xem trộm mật_mã OTP .
+Smart OTP hay Smart_Token
+Đây là hình_thức kết_hợp giữa Token_Key và SMS_OTP , là một ứng_dụng có_thể cài_đặt được trên smartphone , máy_tính bảng Android hay i OS .
+Tại_Việt_Nam , Vietcombank và TPBank đang sử_dụng hình_thức này bên_cạnh SMS_OTP .
+Còn_Google cũng cung_cấp ứng_dụng tạo mã xác_thực OTP mang tên Google_Authenticator .
+Giống như Token_Key , ứng_dụng này trên điện_thoại có khả_năng tự sinh_ra mã xác_thực ngẫu_nhiên sau một khoảng thời_gian .
+Không như SMS_OTP , Smart OTP hay Smart_Token có_thể cung_cấp mã xác_thực kể_cả nơi không có sóng điện_thoại và Internet .
+Dù_vậy , để có_thể cài_đặt các ứng_dụng này và bắt_đầu nhận được mã OTP , người dùng phải đăng_ký với ngân_hàng , nhà_cung_cấp dịch_vụ hoặc xác_thực thông_qua SMS_OTP .
+Bên_cạnh đó , không_thể có hai hoặc nhiều thiết_bị sử_dụng chung một ứng_dụng tạo mã OTP .

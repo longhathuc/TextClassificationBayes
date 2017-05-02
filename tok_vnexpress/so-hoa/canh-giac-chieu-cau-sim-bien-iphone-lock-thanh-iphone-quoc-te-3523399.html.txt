@@ -1,0 +1,19 @@
+Cảnh_giác chiêu ' câu ' sim , biến i Phone lock thành i Phone quốc_tế
+Lợi_dụng sự thiếu hiểu_biết của một_số người về i Phone , gian_thương đã " hô biến " iPhone khóa mạng ( lock ) giả_dạng phiên_bản quốc_tế một_cách tinh_vi , sau đó bán với giá cao .
+Mới_đây , một kỹ_thuật_viên điện_thoại đã chia_sẻ cách_thức biến i Phone 5s lock thành i Phone 5s phiên_bản quốc_tế bằng thủ_thuật " câu " sim ghép ( bảng mạnh nhỏ kết_nối với thẻ sim đang sử_dụng nhằm đánh_lừa i Phone rằng đây là sim của nhà mạng ) .
+Cách_thức này cũng có_thể được áp_dụng đối_với các phiên_bản i Phone khóa mạng mới hơn như i Phone 6 , 6s …
+Sim ghép được gắn phía sau bảng mạch , kết_nối bằng dây đồng nên rất khó phát_hiện bằng mắt thường , phải tháo máy mới thấy được .
+Ảnh : Phong_Nhỏ .
+Cụ_thể , những " tay " thợ đầu_tiên sẽ vô_hiệu_hóa chân sim máy .
+Khung lắp sim vẫn giữ nguyên không có gì thay_đổi , nhưng các chân sim này không còn kết_nối trực_tiếp với mainboard mà nối với sim ghép được dán ở mặt sau thông_qua dây đồng .
+Về cơ_bản , cách_thức này tương_tự việc xài sim ghép , nhưng thay_vì ghép ngay dưới sim , sim ghép sẽ được giấu phía sau nhằm mục_đích đánh_lừa .
+Thông_thường , việc sử_dụng sim ghép thường đi kèm với các lỗi vặt như sóng không ổn_định , mất sóng , không_thể truy cậy mã USSD * 101 # hay * 100 # để xem số_dư tài_khoản hay nạp tiền mà phải gọi 900 hoặc 901 , phải nhập mã quốc_gia +84 xxx để danh_bạ hiển_thị đúng … Tuy_nhiên , các tay thợ có_thể sửa các lỗi này bằng các công_cụ như Cydia , Wimax … và nếu_không phải người từng sử_dụng i Phone lock hoặc am_hiểu i Phone , người dùng rất dễ bị " qua_mặt " .
+Theo anh Đào_Nhật_Huy , chủ một cửa_hàng chuyên kinh_doanh i Phone , iPad tại quận 10 , TP_HCM , đây là " chiêu_thức " không phải mới , mà đã xuất_hiện từ thời i Phone 4 . " Những vụ đánh_lừa người dùng với chiêu_thức ' câu ' sim ghép khi đó đã bị phát_hiện và bị lên_án một thời_gian .
+Tuy_nhiên , sau đó lại tiếp_tục được các gian_thương âm_thầm áp_dụng " , anh Huy chia_sẻ .
+Cũng theo anh Huy , giá một chiếc i Phone 5s lock hiện chỉ hơn 2 triệu đồng , trong khi bản quốc_tế có_giá 4 triệu đồng nếu mua xách tay hoặc gần 7 triệu đồng nếu mua chính hãng .
+Mức giá i Phone 6 , 6s giữa các bản khóa mạng với quốc_tế cũng chênh_lệch vài triệu đồng trở_lên và đây là lý_do nhiều gian_thương cố_ý đánh_lừa người dùng .
+Do_đó , khi mua i Phone xách tay , người dùng nên đi cùng người nào am_hiểu thiết_bị này để kiểm_tra sản_phẩm , hoặc cũng có_thể tự mình làm điều đó bằng cách reset lại từ đầu .
+Nhưng cách tốt nhất_là restore lại i Phone , bởi khi thực_hiện thao_tác này , iPhone sẽ phải fix lại lỗi , phải active như các dòng máy lock khác .
+" Nhu_cầu mua điện_thoại , đặc_biệt là i Phone cuối năm tăng khá cao nên sẽ có nhiều chiêu lừa kiểu như_thế_này .
+Do_vậy , người mua nên cần tỉnh_táo để tránh gặp phải hàng kém chất_lượng " , anh Huy cảnh_báo .
+Bảo_Lâm

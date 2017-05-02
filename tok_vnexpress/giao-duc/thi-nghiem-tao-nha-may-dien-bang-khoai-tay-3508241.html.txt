@@ -1,0 +1,26 @@
+Thí_nghiệm tạo nhà máy_điện bằng khoai_tây
+Trẻ sẽ dễ hiểu về điện hơn nếu bạn thực_hiện thí_nghiệm tạo nhà máy_điện đơn_giản từ những củ khoai_tây rất dễ kiếm từ nhà_bếp .
+Nguyên_liệu cần có :
+- 2 củ khoai_tây
+- 4 đồng xu
+- 4 vòng_đệm bằng kẽm
+- 1 điốt phát_quang
+Các bước thực_hiện :
+1 . Trong thí_nghiệm này , bạn có_thể sử_dụng cả 2 củ khoai_tây hoặc chỉ một .
+Cắt đôi củ khoai_tây .
+2 . Cắm sâu một đồng xu và một vòng_đệm vào mỗi nửa khoai_tây .
+3 . Dùng một dây_điện kết_nối một đồng xu từ nửa khoai_tây này sang vòng_đệm kẽm từ nửa khoai_tây khác .
+4 . Điốt phát_quang   có hai chân là âm_cực và dương_cực .
+Đính mỗi chân vào một bên .
+5 .
+Kết_nối các đầu dây tự_do với đồng xu và vòng_đệm còn lại .
+6 . Đèn phát sáng .
+Nếu muốn tăng độ sáng , chỉ cần thêm khoai_tây .
+Điều cốt_lõi ở đây là kết_nối chuỗi khoai_tây theo đúng thứ_tự : một đồng xu từ nửa khoai_tây này nối với vòng_đệm từ nửa khoai_tây tiếp_theo , tiếp_tục như_vậy theo vòng_tròn .
+Một chuỗi khoai_tây dài thậm_chí có_thể thắp sáng được một bóng_đèn led .
+Giải_thích :
+Nướp ép khoai_tây có chứa muối và axit , là chất điện giải tự_nhiên .
+Khi bạn cắm đồng xu và vòng_đệm vào củ khoai_tây , điện_thế phát_sinh giữa chúng .
+Nếu bạn sử_dụng vạn_năng kế thay cho   điốt phát_quang , bạn có_thể thấy một củ khoai_tây sản_sinh khoảng 0,9 vôn .
+Để một   điốt phát_quang hoạt_động , bạn cần dòng_điện từ khoảng 1,7 đến 2 vôn , hoặc 2-3 củ khoai_tây .
+Phiêu_Linh ( theo Bright_Side )

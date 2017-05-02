@@ -1,0 +1,28 @@
+Máy_bay tách rời cabin khó cứu_mạng hành_khách
+Dù thiết_kế máy_bay tách rời cabin để cứu hành_khách rất hay , ý_tưởng này dường_như bất_khả_thi vì nhiều yếu_tố .
+Rơi từ trên không xuống có_thể là nỗi sợ_hãi lớn nhất của hành_khách trên máy_bay .
+Do_đó , kỹ_sư hàng_không người Nga_Tatarenko_Vladimir_Nikolaevich đưa ra đề_xuất chế_tạo những chiếc máy_bay với khoang hành_khách có_thể tách rời khỏi máy_bay và đáp an_toàn xuống mặt_đất trong trường_hợp khẩn_cấp nhờ thiết_bị dù .
+Thiết_kế này có_thể làm yên_lòng những hành_khách thường_xuyên phải di_chuyển bằng máy_bay .
+Tuy_nhiên , Herve_Morvan , giáo_sư Cơ_khí ứng_dụng kiêm trưởng khoa Kỹ_thuật ở Viện_Công nghệ Hàng_không thuộc Đại_học Nottingham , Anh , cho rằng thiết_kế này không_chỉ tốn_kém mà_còn rất khó cứu_mạng hành_khách .
+Theo thiết_kế , khoang cabin tách rời sẽ được kích_hoạt khi máy_bay gặp sự_cố về động_cơ .
+Nhưng trường_hợp máy_bay rơi vì vấn_đề này rất hiếm khi xảy_ra .
+Hỏng_hóc hệ_thống và máy_móc chiếm chưa đến 3 % số vụ tai_nạn chết người trong 10 năm qua .
+Theo IFL Science , máy_bay dễ gặp nạn nhất khi cất_cánh và hạ_cánh bởi vị_trí sát mặt_đất hơn ( chướng_ngại_vật lớn nhất ) , và di_chuyển ở tốc_độ thấp nên khó điều_khiển .
+Theo số_liệu từ hãng sản_xuất máy_bay Boeing ở Mỹ , gần 3/4 số ca tử_vong do rơi máy_bay từ năm 2005 đến 2014 xảy_ra trong quá_trình cất_cánh / hạ_cánh .
+Đây cũng là thời_điểm cabin tách rời có ít khả_năng ứng_dụng thành_công nhất .
+Vị_trí sát mặt_đất khiến phi_công không có nhiều thời_gian kích_hoạt cabin sau tai_nạn .
+Trong trường_hợp tách rời khỏi máy_bay , cabin rất có_thể sẽ rơi xuống khu_vực dân_cư .
+Tính riêng thập_kỷ vừa_qua , hơn 1.000 người mất_mạng trong các vụ tai_nạn diễn ra khi máy_bay đang bay , giai_đoạn cabin tách rời có tính khả_thi cao nhất .
+Dù_vậy , Morvan nhận_định công_nghệ rất khó chứng_thực độ hiệu_quả .
+Phần_lớn tai_nạn máy_bay ( 80% ) do lỗi của con_người , trong đó phổ_biến nhất_là mất lái và đâm vào núi .
+Cabin tách rời không_thể triển_khai an_toàn nếu phi_công mất khả_năng kiểm_soát máy_bay , hoặc máy_bay chuẩn_bị đâm vào núi .
+Ngay cả khi phi_công phản_ứng một_cách bình_tĩnh và kịp_thời , cabin tách rời có_thể không thực_sự hữu_ích .
+Trường_hợp phi_công Chesley B_Sullenberger đáp máy_bay xuống sông Hudson ở New_York , Mỹ năm 2009 sau khi những con chim lao vào động_cơ lúc cất_cánh là một ví_dụ .
+Dù các nhà_sản_xuất không_thể lường trước mọi tình_huống , các động_cơ được kiểm_nghiệm và thiết_kế để hoạt_động ngay cả khi bị chim mắc vào .
+Máy_bay có_thể tiếp_tục hoạt_động dù hỏng một bên động_cơ .
+Cơ_trưởng Sullenberger   không may phải ứng_phó với động_cơ hỏng ở cả hai bên và không_thể quay đầu để hạ_cánh khẩn_cấp tại sân_bay .
+Trong trường_hợp này , cabin tách rời rất khó ứng_dụng và sẽ rơi xuống thành_phố .
+Ngoài_ra , các kỹ_sư cũng cần tính đến độ phức_tạp về mặt kỹ_thuật khi chế_tạo cabin tách rời , để các bộ_phận và chốt khóa vừa gắn chặt với cabin , vừa có_thể dễ_dàng tháo rời khi bay .
+Vấn_đề bảo_dưỡng cũng là một thách_thức không nhỏ .
+Hệ_thống cabin tách rời còn làm trọng_lượng máy_bay tăng lên , đòi_hỏi lực đẩy_mạnh hơn và mức tiêu_thụ nhiên_liệu cao hơn .
+Phương_Hoa

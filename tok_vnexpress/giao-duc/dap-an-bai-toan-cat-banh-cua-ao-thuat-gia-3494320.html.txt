@@ -1,0 +1,22 @@
+Đáp_án bài_toán cắt bánh của ảo_thuật_gia
+Độc_giả đưa ra nhiều cách cắt bánh .
+Tuy_nhiên , nhìn vào hình cắt minh_họa có_thể thấy chỉ được sử_dụng một_cách cắt để ra một đáp_án .
+Đề_bài : Với một nhát cắt , bạn có_thể chia một chiếc bánh thành hai phần .
+Cắt thêm một nhát nữa , chiếc bánh sẽ được chia thành 4 phần .
+Đến nhát cắt thứ_ba , bạn có_thể chia chiếc bánh thành tối_đa 7 phần .
+Vậy với 6 nhát cắt , bạn có_thể chia chiếc bánh thành tối_đa bao_nhiêu phần ?
+Đáp_án : Với 6 nhát cắt , bạn có_thể chia chiếc bánh thành tối_đa 22 phần .
+Có_thể thấy từ hình minh_họa , mỗi nhát cắt là một đường_thẳng trên một mặt_phẳng .
+Thay_vì thử cắt chiếc bánh ra hay thử vẽ nó trên giấy , bạn hãy tập_trung suy_nghĩ về một quy_luật .
+Nhát cắt thứ nhất , bạn chia chiếc bánh thành tối_đa 2 phần .
+Nhát cắt thứ_hai , bạn chia chiếc bánh thành tối_đa 4 phần .
+Nhát cắt thứ_ba , bạn chia chiếc bánh thành tối_đa 7 phần .
+Nhận thấy , ở nhát cắt thứ n , số phần bánh lại tăng thêm tối_đa n phần .
+Như_vậy :
+Nhát cắt thứ_tư , bạn có_thể chia chiếc bánh thành tối_đa 11 ( 7 +4 ) phần .
+Nhát cắt thứ_năm , bạn có_thể chia chiếc bánh thành tối_đa 16 ( 11 +5 ) phần .
+Nhát cắt thứ_sáu , bạn có_thể chia chiếc bánh thành tối_đa 22 ( 16 +6 ) phần .
+Nhiều độc_giả đã đưa ra được công_thức K = n ( n +1 ) / 2 + 1 cho bài_toán này .
+Trong đó , K là số phần tối_đa chia được , n là số nhát cắt .
+Đây là công_thức đúng .
+Theo đó n = 6 thì K = 6 ( 6 +1 ) / 2 + 1 = 22 .

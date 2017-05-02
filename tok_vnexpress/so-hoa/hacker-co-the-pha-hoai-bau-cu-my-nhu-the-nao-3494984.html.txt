@@ -1,0 +1,45 @@
+Hacker có_thể phá_hoại bầu_cử Mỹ như_thế_nào
+Các chuyên_gia bảo_mật cảnh_báo về khả_năng hacker sẽ can_thiệp vào hệ_thống , làm rò_rỉ thông_tin ứng_cử_viên hoặc thay_đổi nội_dung tin_tức truyền_thông vào ngày bầu_cử tới đây .
+Những lo_ngại này càng được đẩy cao sau khi xảy_ra hai đợt tấn_công DDoS quy_mô lớn , một khiến cho hàng_loạt dịch_vụ mạng lớn ở cả Bắc_Mỹ và châu Âu ngừng hoạt_động và hai là đánh_gục hạ_tầng mạng quan_trọng tại quốc_gia Tây_Phi_Liberia , diễn ra hồi cuối tháng 10 và đầu tháng 11 mới_đây .
+Cuộc bầu_cử Mỹ có_thể   mới là   mục_tiêu chính của các hacker đứng   sau hai vụ tấn_công DDoS vừa_qua .
+Trước đó nhiều thông_tin mật của cả hai ứng_viên tổng_thống Mỹ đã bị rò_rỉ trên mạng .
+Với_Donald_Trump , đó là đoạn video thể_hiện quan_điểm phân_biệt giới_tính .
+Còn phía bà Hillary_Clinton là các email tiết_lộ mối quan_hệ đầy nghi_vấn với Sở Tư pháp và những hành_động phía sau các chiến_dịch của đảng Dân_chủ .
+Và theo kịch_bản xấu nhất được vẽ ra , các nhóm tin_tặc có_thể khởi_động một cuộc tấn_công đa hướng , làm thay_đổi hoàn_toàn kết_quả của cuộc bầu_cử tuần này .
+Dưới đây là một_số cách mà tin_tặc có_thể can_thiệp vào_cuộc bầu_cử tổng_thống Mỹ hôm 8/11 tới .
+Làm xáo_trộn quá_trình bỏ_phiếu
+Theo các chuyên_gia nghiên_cứu an_ninh tại Rapid 7 , hệ_thống bầu_cử của Mỹ đã " lão_hóa " khi sử_dụng " một mớ các công_nghệ hỗn_độn và phức_tạp " , khó đủ sức tự_vệ trước một cuộc tấn_công quy_mô lớn .
+Hầu_hết các phiếu bầu được in trong ngày bằng cách sử_dụng lá phiếu giấy .
+Nhiều tiểu_bang sử_dụng email và fax để gửi và nhận phiếu trước cuộc bầu_cử .
+Những phiếu này có_thể bị chặn hoặc bị tin_tặc can_thiệp nội_dung bên trong .
+Với tiểu_bang sử_dụng hệ_thống bỏ_phiếu trực_tuyến , một cuộc tấn_công từ_chối dịch_vụ ( DDoS ) , nhắm mục_tiêu là mạng Internet và các trang_web trực_tuyến này có_thể khiến thông_tin trên các lá phiếu tạm_thời không_thể xử_lý .
+Tin_tặc cũng có_thể làm gián_đoạn quá_trình bỏ_phiếu khi hướng vào các hệ_thống đăng_ký cử_tri .
+Hồi cuối tháng 9 , chính_quyền ở 10 tiểu_bang cho_biết giới tin_tặc đã có động_thái tấn_công thăm_dò cơ_sở_dữ_liệu trên các hệ_thống phục_vụ bầu_cử .
+Bộ An ninh nội_địa Mỹ đã kêu_gọi các nhà_chức_trách đánh_giá thiệt_hại , rà_soát lại hệ_thống .
+Rò_rỉ thông_tin ứng_cử_viên
+Trong ngày bầu_cử , nhiều tài_liệu mật liên_quan tới một hoặc cả hai ứng_viên có_thể được phát_hành nhằm giảm uy_tín của họ đối_với cử_tri .
+Các thông_tin này có_thể là rò_rỉ hoặc làm giả , nhằm gây bất_ổn tâm_lý đối_với những người đi bỏ_phiếu .
+Trước đó trong scandal rò_rỉ email của bà Clinton , một_số nội_dung trong các tập tài_liệu đã được làm giả và tung lên mạng , nhằm hạ thấp uy_tín của ứng_cử_viên tổng_thống này .
+" Thay_đổi nội_dung các tài_liệu bị đánh_cắp và đem ra giới_thiệu với công_chúng không phải là chuyện chỉ xảy_ra trong những bộ phim về gián_điệp .
+Đó là một chiến_thuật đã được chứng_minh bởi tình_báo Nga và chúng_tôi chờ_đợi nó sẽ xảy_ra ở đây " , Telegraph dẫn lời các quan_chức tình_báo và chính_phủ Mỹ .
+Ngăn_chặn cử_tri tới các điểm bỏ_phiếu , vận_động tranh_cử
+Các đợt tấn_công mạng với mục_tiêu là các trang_web lớn hồi cuối tháng 10 vừa_qua bị nghi_ngờ là một cuộc thử_nghiệm để chuẩn_bị cho đợt tấn_công lớn hơn có_thể diễn ra_vào tuần tới .
+Mã nguồn mở Mirai , phần_mềm độc_hại có khả_năng tạo ra mạng botnet để thực_hiện DDoS từ các thiết_bị IoT ( Internet of Thing ) được cho là có khả_năng gây ra sự hỗn_loạn này .
+Trong một kịch_bản " ngày tận_thế " , tin_tặc sẽ âm_mưu tấn_công vào các trang_web quan_trọng liên_quan tới việc cử_tri đi bỏ_phiếu , bao_gồm cả ứng_dụng bản_đồ và website thông_tin của cử_tri .
+Nếu thực_sự xảy_ra , nó có_thể ngăn_chặn hàng ngàn người tới các điểm bỏ_phiếu , đồng_thời tạo ra sự sợ_hãi rằng cuộc bầu_cử đã bị can_thiệp .
+" Nhiều nhóm hacker có khả_năng và đang được khuyến_khích làm chuyện này .
+Việc gián_đoạn hệ_thống bản_đồ trực_tuyến có_thể dễ_dàng làm kết_quả bầu_cử mất_công bằng " , Adam D ' Angelo , Giám_đốc điều_hành của Quora và cựu giám_đốc công_nghệ của Facebook cho_biết .
+" In ra các thông_tin định_hướng , bạn có_thể bỏ_phiếu hoặc tham_gia các chiến_dịch vận_động tranh_cử mà không cần mạng Internet " .
+Ủy_ban Hỗ_trợ bầu_cử Mỹ trong một tuyên_bố mới_đây cho_biết họ nhận_thức được các mối đe_dọa , không xem nhẹ mọi khả_năng và liên_tục thay_đổi để thích_ứng với các diễn_biến xấu nhất , bao_gồm cả những mối đe_dọa mới .
+Khiến mọi người nghi_ngờ   kết_quả bỏ_phiếu
+Từ nhiều năm nay , hãng thông_tấn Associated_Press ( AP ) đã tham_gia thực_hiện việc thu_thập thông_tin kết_quả trong các lần bầu_cử tổng_thống Mỹ .
+Tại 3.144 điểm bỏ_phiếu trên khắp các bang năm nay có hàng ngàn phóng_viên của hãng túc_trực .
+Mỗi người sẽ gọi điện_thoại báo kết_quả của các điểm bỏ_phiếu về trung_tâm .
+Kết_quả bỏ_phiếu sau đó được tổng_hợp và chuyển tới các báo và nhiều hãng thông_tấn , mạng_lưới truyền_hình cũng_như các loại_hình truyền_thông khác .
+Thông_báo kết_quả trước thời_hạn mang lại những tác_động nhất_định và hacker có_thể tấn_công làm xáo_trộn quá_trình kiểm phiếu của AP hoặc hệ_thống thông_tin liên_lạc của hãng này .
+Tất_nhiên , một cuộc tấn_công như_vậy sẽ không làm ảnh_hưởng đến tính hợp_pháp của cuộc bầu_cử .
+Nhưng nó có_thể được Donald_Trump tận_dụng để gây ra tranh_cãi về kết_quả , trong trường_hợp ông này không được bầu làm tổng_thống .
+" Tấn_công DDoS vào hệ_thống của AP trong đêm bầu_cử có_thể dẫn đến việc kiểm_đếm chậm .
+Và trong môi_trường chính_trị hiện_tại , kết_quả chậm_trễ sẽ dấy lên các nghi_ngờ về gian_lận bầu_cử " , Sean_Sullivan , chuyên_gia nghiên_cứu của tập_đoàn dịch_vụ bảo_mật lớn nhất thế_giới F-Secure Corporation chia_sẻ .
+Một vụ tấn_công như_vậy đã được tiến_hành trong cuộc bầu_cử tổng_thống Ukraine vào năm 2014 , khi nhóm hacker can_thiệp vào hệ_thống hiển_thị thông_tin về kết_quả kiểm phiếu khiến nó bị tê_liệt trong vòng 20 giờ .
+Trong một vụ_việc tương_tự , bọn tội_phạm mạng đăng một bức ảnh trên trang_web của Ủy_ban bầu_cử Trung_ương , tuyên_bố kết_quả sớm 12 phút trước khi việc bỏ_phiếu kết_thúc .

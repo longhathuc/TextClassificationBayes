@@ -1,0 +1,42 @@
+Chuyện gì xảy_ra nếu Google giữ Android làm ' của riêng '
+Với việc ra 2 smartphone " họ " Pixel , Google đang để ngỏ khả_năng không còn " ban_phát " Android cho các đối_tác để tự tay phát_triển cả phần_mềm lẫn phần_cứng .
+Có_thể chuyện đó còn lâu mới xảy_ra , nhưng sẽ thế_nào nếu_như Android chỉ còn độc_quyền bởi Google .
+Smartphone_Pixel , Nexus và tham_vọng của Google
+Android là một hệ_điều_hành   mã nguồn mở , điều này cho_phép các nhà_sản_xuất có_thể phát_triển phần_mềm theo những hướng riêng .
+Trong giai_đoạn 2010 – 2015 , rất nhiều cuộc chạy_đua về tính_năng cho điện_thoại , và hãng nào cũng muốn tạo điểm nhấn riêng cho sản_phẩm của mình .
+Như smartphone của Samsung với tính_năng tự trả_lời cuộc_gọi khi đưa điện_thoại lên tai , hỗ_trợ đa_nhiệm nhiều cửa_sổ , hay LG nhấp đúp màn_hình để khóa / mở khóa máy , chụp ảnh bằng cử_chỉ …
+Với_Google , họ cũng từng đặt dấu_ấn lên các dòng Nexus bằng cách tối_ưu bản ROM Android gốc , đưa vào các tính_năng độc_quyền như phần_mềm riêng để xử_lý ảnh HDR+   , và thường_xuyên cập_nhật phiên_bản mới .
+Dù các hãng smartphone Android khác cũng làm điều này , nhưng cách làm của họ hạn_chế hơn .
+Google đang tăng_cường   sức ảnh_hưởng bằng smartphone Pixel .
+Đối_với Pixel , Google đã tự nâng quyền kiểm_soát của mình lên mức mới khi_không còn giao toàn_bộ các công_đoạn phần_cứng cho đối_tác nữa .
+Theo Slashgear , tuy vẫn nhờ HTC phát_triển , nhưng dấu_ấn trên Pixel và Pixel XL rõ nét hơn , can_thiệp sâu hơn vào quá_trình sản_xuất .
+Bên_cạnh đó , gã khổng_lồ tìm_kiếm cũng bổ_sung những tính_năng riêng như Pixel_Launcher , Pixel_Camera , Google_Assistant , hỗ_trợ chuyển dữ_liệu từ máy khác … So với Nexus , Pixel còn được quảng_bá với tần_suất cao , không thua_kém i Phone 7 hay Galaxy_Note 7 ( đã bị " khai_tử " ) và hỗ_trợ 24/24 giờ .
+Với động_thái đó , Google đang cho thấy họ tập_trung hơn vào smartphone , tiến tới loại_bỏ dần các đối_thủ tiềm_năng .
+Rất có_thể , hãng muốn Android là đặc_trưng riêng của Pixel , như i OS là đặc_trưng của i Phone vậy .
+Các hãng sản_xuất smartphone Android khác sẽ ra_sao ?
+Samsung hiện dẫn_đầu thế_giới về số_lượng điện_thoại bán ra .
+Trong quý II/2016 , hãng chiếm 22,4% lượng smartphone toàn_cầu , phần_lớn trong số đó chạy hệ_điều_hành Android .
+Nhưng điều đó không có nghĩa_là hãng điện_tử Hàn_Quốc sẽ chịu ảnh_hưởng nặng_nề nhất khi Google " nghỉ chơi " , bởi họ còn nền_tảng di_động khác : Tizen .
+Samsung sẽ bớt phụ_thuộc vào Android nhờ Tizen .
+Từ lâu , Samsung đã giảm bớt phụ_thuộc Android bằng hệ_điều_hành này .
+Bắt_đầu_từ việc thử_nghiệm cho Smart TV , smartwatch , hiện Tizen đã xuất_hiện trên một_số điện_thoại , như Z1 , Z3 cho thị_trường Ấn Độ và tiến tới tích_hợp cho các dòng điện_thoại chủ_chốt khác .
+Để có_thể phát_triển , Samsung đã xây_dựng một cộng_đồng lập_trình_viên lớn , vững_chắc dành cho Tizen và có_thể chuyển sang sử_dụng nền_tảng này trong tương_lai bất_chấp Google còn hợp_tác hay không .
+Tương_tự Samsung , LG cũng đã có hệ_điều_hành di_động riêng , là web OS ( mua từ Palm ) .
+Dù nền_tảng này vẫn chỉ chạy trên Smart TV , nhưng nó hoàn_toàn có_thể được mang lên smartphone .
+Trên thực_tế , sản_phẩm ban_đầu được Palm phát_triển cho điện_thoại nhưng đã bị " hụt hơi " trước các đối_thủ khác do những sai_lầm chiến_lược .
+Trong khi đó , Sony có_thể ngừng hẳn việc sản_xuất smartphone Android để hướng đến các sản_phẩm chiến_lược khác , như cảm_biến ảnh , máy_ảnh số , game … Giữa 2016 , hãng điện_tử Nhật_Bản từng úp_mở rằng sẽ " khai_tử " mảng di_động do kinh_doanh thua_lỗ .
+Do_đó , nếu Google không còn hợp_tác , Sony lại càng có thêm " động_lực " để từ_bỏ việc sản_xuất điện_thoại .
+Với HTC , dù thường_xuyên cho ra_mắt những mẫu sản_phẩm chạy Android với thiết_kế đẹp , cấu_hình mạnh nhưng có_vẻ như hãng không còn đặt trọng_tâm vào thiết_bị di_động nữa .
+Thay vào đó , thực_tế ảo là hướng đi mới , và công_ty cũng đã có những thành_công nhất_định với HTC Vive .
+Ngoài_ra , sản_xuất smartphone cho các hãng khác ( như Google ) có_thể mang lại nhiều doanh_thu hơn là tự kinh_doanh .
+Với các hãng smartphone khác , có rất nhiều hướng để họ có_thể đi theo : tự phát_triển hệ_điều_hành mới , sớm tìm cho mình một nền_tảng nguồn mở khác , hoặc hợp_tác với những công_ty như Samsung , LG ... vốn cần mở_rộng tầm ảnh_hưởng của hệ_điều_hành của mình .
+Google được gì , mất gì ?
+Trên_Android , Google tích_hợp sẵn các ứng_dụng của mình như Gmail , Google_Search , Google_Maps … và nếu khép_kín nền_tảng , hãng sẽ mất khoản doanh_thu rất lớn từ quảng_cáo .
+Theo số_liệu trích từ vụ_kiện của Google và Oracle , số tiền quảng_cáo thu được từ Android từ khi hệ_điều_hành này được thương_mại_hóa ( 2008 ) là 31 tỷ USD , trong đó lợi_nhuận là 22 tỷ USD .
+Tuy_nhiên , nếu đem so_sánh với doanh_thu hiện_tại của Google , con_số trên không quá lớn .
+Trong quý II/2016 , Alphabet ( công_ty_mẹ của Google ) thu về tới 21,5 tỷ USD .
+Nhấn_mạnh rằng , đây là số tiền_của một quý ( 3 tháng ) , và nếu so với doanh_thu quảng_cáo từ Android ( 8 năm ) , Google hoàn_toàn có_thể bỏ_qua các dịch_vụ trên để chạy theo mô_hình như Apple , vốn mang lại doanh_thu lớn hơn .
+Ngoài_ra , những dịch_vụ trên đã quá nổi_tiếng và Google cũng không quá lo_lắng , bởi các nhà_phát_triển cũng sẽ tìm cách đưa chúng lên nền_tảng khác , như những gì họ từng làm cho Windows_Phone .
+Tuy_vậy , sẽ rất khó để Google " đóng " nền_tảng của mình bởi sức ảnh_hưởng của Android đã quá rộng .
+Nhưng nếu điều đó xảy_ra , sự phát_triển của smartphone nói_riêng và ngành di_động nói_chung có_thể sẽ bước sang trang mới .
+Bảo_Lâm

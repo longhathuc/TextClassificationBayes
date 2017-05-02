@@ -1,0 +1,18 @@
+Nửa tỷ máy Android có nguy_cơ nhiễm mã độc đánh_cắp mọi dữ_liệu
+Khoảng 500 triệu thiết_bị chạy hệ_điều_hành của Google bị ảnh_hưởng bởi phần_mềm có_thể bí_mật ghi lại tất_cả hoạt_động trên đó .
+Theo hãng bảo_mật Skycure , một hình_thức tấn_công mới có_thể ảnh_hưởng tới nửa tỷ điện_thoại , máy_tính bảng Android bằng cách khai_thác lỗ_hổng " accessibility clickjacking " .
+Đây là phương_pháp tấn_công khiến người dùng tưởng mình đang dùng các phần_mềm vô_hại , nhưng thực_chất thông_qua những cái chạm tay lên màn_hình cảm_ứng , thông_tin đã bí_mật bị gửi về cho hacker .
+Nửa tỷ thiết_bị Android chạy bản 2.2 đến 4.4 có nguy_cơ tấn_công " clickjacking " .
+Ảnh minh_họa .
+" Clickjacking " có_thể cho_phép tin_tặc đánh_cắp dữ_liệu riêng_tư bao_gồm văn_bản , các thông_tin nhạy_cảm , kiểm_soát hệ_điều_hành hoặc ứng_dụng mà không cần sự chấp_thuận , thậm_chí là người dùng không hay_biết .
+Các chia_sẻ riêng_tư , công_việc , email hay tin nhắn SMS ... trên smartphone đều có_thể rơi vào tay kẻ tấn_công .
+Khi   accessibility được kích_hoạt , hacker còn có_thể thay_đổi quyền quản_trị cấp cao nhất ( admin ) , thậm_chí là cho_phép thiết_bị lập admin mới .
+Điều này đồng_nghĩa với việc tin_tặc có khả_năng vô_hiệu_hóa bảo_mật hay xóa dữ_liệu từ xa .
+65% thiết_bị chạy phiên_bản   Android 2.2 đến 4.4 có nguy_cơ bị tấn_công theo phương_pháp này .
+Trong khi đó , nếu nâng_cấp lên phiên_bản Android 5.0 Lollipop thì mối nguy_hiểm được loại_bỏ .
+Do_đó , Skycure khuyến_cáo người dùng nên nâng_cấp hệ_điều_hành càng sớm càng tốt .
+Đừng bấm vào bất_kỳ thông_tin nào , trừ khi bạn biết nó có tác_dụng gì và tại_sao nó xuất_hiện .
+Không sử_dụng các phần_mềm không rõ nguồn_gốc do bên thứ_ba cung_cấp .
+Hãy mở Settings , tìm mục   Accessibility và chắc_chắn không kích_hoạt   Services , hay các tính_năng không rõ_ràng .
+Video phương_thức tấn_công " clickjacking "
+Đình_Nam

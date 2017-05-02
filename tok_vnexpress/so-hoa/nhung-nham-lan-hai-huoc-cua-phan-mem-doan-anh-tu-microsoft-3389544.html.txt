@@ -1,0 +1,14 @@
+Những nhầm_lẫn hài_hước của phần_mềm đoán ảnh từ Microsoft
+Sau vài tuần đóng_cửa chatbot Tay , Microsoft lại cho ra_đời ứng_dụng AI có tên CaptionBot với nhiệm_vụ diễn_giải hình_ảnh , nhưng có_vẻ nó vẫn hoạt_động không được như mong_đợi .
+Sau khi người dùng tải lên một hình_ảnh , CaptionBot sẽ đọc và chú_thích tấm ảnh đó cũng_như mô_tả sắc_thái của người trong ảnh .
+Ứng_dụng trí_tuệ_nhân_tạo này đã đoán đúng nhiều ảnh , nhưng cũng thường_xuyên đoán sai một_cách ngộ_nghĩnh .
+CaptionBot nhiều lần nhận_diện đúng , như tả   hoa đặt trên bàn .
+Tuy_nhiên , trong nhiều thử_nghiệm của VnExpress , như ảnh trên , phần_mềm AI tưởng i Phone là ảnh chụp cận_cảnh một chiếc lò_vi_sóng .
+Nó   nhầm_lẫn giữa bé trai và bé gái ngay trong câu trả_lời : " Tôi nghĩ trong ảnh là một bé trai đội mũ và trông cô bé có_vẻ lo_lắng " .
+CaptionBot tưởng vườn cà_chua của FPT là đoàn tàu dài đang chạy trên đường_ray .
+Phần_mềm của Microsoft cho rằng bà   Michelle_Obama là một chiếc điện_thoại : " Tôi nghĩ trong ảnh là một người đàn_ông mặc com - lê và nói_chuyện điện_thoại " .
+" Trong ảnh là một con mèo đang đeo cà - vạt " .
+" Tôi nghĩ đây là một chiếc toilet trắng được đặt cạnh một tòa nhà màu vàng " .
+" Tôi nghĩ người đàn_ông trong ảnh đang đánh răng " .
+" Tôi nghĩ trong ảnh là một người đàn_ông đang ngồi trên xe môtô " .
+Để sử_dụng CaptionBot , người dùng có_thể truy_cập trang   captionbot.ai và đăng ảnh tùy chọn .

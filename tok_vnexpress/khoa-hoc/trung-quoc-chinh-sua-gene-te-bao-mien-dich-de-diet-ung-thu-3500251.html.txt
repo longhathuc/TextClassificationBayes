@@ -1,0 +1,16 @@
+Trung_Quốc chỉnh_sửa gene tế_bào miễn_dịch để diệt ung_thư
+Nhóm nghiên_cứu Trung_Quốc sử_dụng kỹ_thuật CRISPR-Cas9 chỉnh_sửa gene tế_bào miễn_dịch để chúng có_thể tấn_công và phá_hủy các tế_bào ung_thư .
+Một bệnh_nhân mắc ung_thư phổi ác_tính tại Bệnh_viện miền Tây , Thành_Đô , Trung_Quốc được tiêm tế_bào miễn_dịch biến_đổi gene vào cơ_thể hôm 28/10 .
+Với thử_nghiệm này , các nhà_khoa_học Trung_Quốc trở_thành những người đầu_tiên trên thế_giới sử_dụng kỹ_thuật chỉnh_sửa gene CRISPR-Cas9 trên con_người , theo CNN .
+Kỹ_thuật CRISPR-Cas9 hoạt_động như một chiếc kéo phân_tử .
+Sau khi được các nhà_nghiên_cứu lập_trình , nó có_thể cắt một đoạn gene nhất_định hoặc bổ_sung đoạn gene mới vào tế_bào với chi_phí rẻ và nhanh hơn các phương_pháp di_truyền_học trước_đây .
+Nhóm nghiên_cứu do Lu_You , đến từ_trường Đại_học Tứ_Xuyên , Trung_Quốc , phụ_trách , đã lấy tế_bào miễn_dịch từ bệnh_nhân và áp_dụng kỹ_thuật CRISPR-Cas9 để vô_hiệu_hóa một gene trong chúng .
+Loại gene này phụ_trách mã_hóa protein PD - 1 , nó thường làm chậm phản_ứng miễn_dịch của tế_bào và khiến các tế_bào ung_thư phát_triển ngoài tầm kiểm_soát .
+Các tế_bào miễn_dịch không mang PD - 1 sau đó được nuôi_cấy trong phòng_thí_nghiệm rồi tiêm trở_lại cơ_thể bệnh_nhân .
+Nhóm nghiên_cứu hy_vọng chúng sẽ phát_triển trong cơ_thể người_bệnh , tấn_công và phá_hủy các tế_bào ung_thư .
+" Mọi việc đang đi đúng kế_hoạch " , Liao_Zhilin , người phụ_trách truyền_thông của nhóm nghiên_cứu , trả_lời CNN .
+Các nhà_khoa_học Trung_Quốc dự_kiến điều_trị cho 10 bệnh_nhân ung_thư bằng kỹ_thuật này .
+Mục_đích chính của cuộc thử_nghiệm là kiểm_tra mức_độ an_toàn của kỹ_thuật CRISPR-Cas9 .
+Các bệnh_nhân sẽ được theo_dõi trong 6 tháng để xác_định phương_pháp điều_trị này có gây ra tác_dụng phụ hay không .
+Xem thêm :   Hợp_chất mới có_thể tiêu_diệt nhiều loại ung_thư
+Hiền_Anh

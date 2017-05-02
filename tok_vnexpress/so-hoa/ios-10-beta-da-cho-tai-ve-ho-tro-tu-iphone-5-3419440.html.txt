@@ -1,0 +1,13 @@
+iOS 10 beta đã cho tải về , hỗ_trợ từ i Phone 5
+Phiên_bản thử_nghiệm hệ_điều_hành mới của Apple cho i Phone , iPad đã hỗ_trợ nâng_cấp , tương_thích với các thiết từ i Phone 5 , iPad 4 trở_lên .
+iOS 10 được Apple giới_thiệu tại sự_kiện WWDC 2016 diễn ra rạng sáng 14/7 .
+Trong phiên_bản này , công_ty công_nghệ Mỹ mang đến nhiều nâng_cấp lớn như Siri thông_minh hơn , tích_hợp trí_tuệ_nhân_tạo vào các phần_mềm , cải_tiến i Message ...
+Cài tập_tin cấu_hình để nâng_cấp i OS 10 beta 1 .
+Hiện i OS 10 beta 1 đã cho_phép tải về đối_với các lập_trình_viên .
+Để trải_nghiệm , người dùng cần đăng_ký tài_khoản   Developer rồi thực_hiện theo hướng_dẫn của Apple .
+Cách khác đơn_giản và có_thể áp_dụng cho người dùng phổ_thông là cài tập_tin cấu_hình   iOS Beta_Software_Profile .
+Đầu_tiên , bạn tải về file cấu_hình tại đây trên i Phone .
+Thiết_bị yêu_cầu xác_nhận cài_đặt cấu_hình mới , sau đó cần khởi_động lại máy .
+Tiếp_theo , người dùng truy_cập Settings > General > Software_Update để tải về i OS 10 beta 1 .   Phiên_bản thử_nghiệm này có dung_lượng khoảng 1,7 GB .
+Danh_sách thiết_bị hỗ_trợ i OS 10 theo công_bố của Apple :
+Những thiết_bị hỗ_trợ nâng_cấp i OS 10 .

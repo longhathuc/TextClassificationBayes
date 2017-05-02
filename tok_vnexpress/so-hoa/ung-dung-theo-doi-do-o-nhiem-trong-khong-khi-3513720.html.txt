@@ -1,0 +1,19 @@
+Ứng_dụng theo_dõi độ ô_nhiễm trong không_khí
+Airvisual cho_phép theo_dõi chỉ_số PM2 . 5 ở nhiều thành_phố trên toàn thế_giới cũng_như xếp_hạng các thành_phố ô_nhiễm cao nhất .
+Chỉ_số PM 2.5 tại Hà_Nội và TP_HCM được cập_nhật theo thời_gian_thực .
+Airvisual không phải là ứng_dụng quá mới nhưng gần đây được nhiều người Việt_Nam ưa dùng không kém các ứng_dụng dự_báo thời_tiết .
+Phần mền này cho_phép theo_dõi thời_gian_thực về chỉ_số PM2 . 5 , một trong những chỉ_số quan_trọng nhất về độ ô_nhiễm trong không_khí .
+Airvisual hiện có dữ_liệu thường_xuyên của khoảng hơn 6.000 thành_phố trên toàn thế_giới .
+PM ( Particulate_Matter ) dùng để chỉ các chất dạng hạt .
+Trong đó PM2 . 5 hoặc PM10 là những chỉ_số về kích_thước cũng_như mật_độ những hạt trôi_nổi trong không_khí .
+Bụi PM2 . 5 là các hạt bụi lơ_lửng có đường_kính nhỏ hơn hoặc bằng 2,5   µ m còn PM10 là với các hạt cỡ 10   µ m .
+Theo nghiên_cứu của các nhà_khoa_học , các hạt có đường_kính nhỏ hơn 2,5   µ m đặc_biệt nguy_hiểm vì có_thể xâm_nhập trực_tiếp vào túi phổi .
+Chính vì_vậy , PM2 . 5 cũng thường được dùng để đo chỉ_số an_toàn của không_khí với con_người .
+Chỉ_số PM2 . 5 được chia làm nhiều khoảng với sức ảnh_hưởng khác_nhau .
+Dưới 50 điểm là không_khí trong_lành .
+Từ 51 đến 100 là không_khí ở mức chấp_nhận được .
+Từ 101 đến 150 là có ô_nhiễm nhẹ và không tốt với những người mẫn_cảm .
+Từ 151 đến 200 là mức ô_nhiễm trung_bình , không tốt với tất_cả mọi người .
+Từ 201 đến 300 là mức ô_nhiễm nặng và trên 300 là mức rất ô_nhiễm , mọi người không nên tiếp_xúc khu_vực này nếu_không thật_sự cần_thiết .
+Airvisual đang cho tải về miễn_phí trên cả hệ_điều_hành Android và i OS .
+Người dùng cũng có_thể theo_dõi trực_tuyến tại đây .

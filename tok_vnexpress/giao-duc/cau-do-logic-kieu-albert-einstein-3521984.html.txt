@@ -1,0 +1,27 @@
+Câu_đố logic ' kiểu Albert_Einstein '
+Câu_đố " Người nào có cá " của Albert_Einstein nổi_tiếng thế_giới vì chỉ có 2% người giải được .
+Với một câu_đố tương_tự như_vậy , bạn có_thể đưa ra đáp_án .
+5 người bạn có 5 khu vườn khác_nhau trồng 3 loại cây , mỗi loại gồm 4 giống : cây_ăn_quả ( táo , lê , dâu_tây , anh_đào ) , rau ( cà_rốt , rau mùi tây , bí , hành_tây ) và hoa ( hoa_cúc , hoa_hồng , hoa tulip và hoa lily ) .
+- Mỗi người trồng 4 giống khác_nhau .
+- Mỗi giống được trồng ít_nhất ở một khu vườn .
+- Có một giống được trồng ở 4/5 khu vườn .
+- Chỉ một khu vườn có cả 3 loại cây .
+- Chỉ một khu vườn có cả 4 giống của một loại cây .
+- Lê là giống có ở 2 khu vườn ngoài cùng .
+- Khu vườn của Paul nằm ở giữa và không có lily .
+- Người trồng hoa_cúc không trồng rau .
+- Người trồng hoa_hồng không trồng rau mùi tây .
+- Người trồng dâu_tây có trồng bí và rau mùi tây .
+- Khu vườn đầu_tiên có táo và anh_đào .
+- Chỉ hai khu vườn có anh_đào .
+- Sam trồng hành_tây và anh_đào .
+- Luke trồng hai giống cây_ăn_quả .
+- Tulip được trồng trong hai khu vườn .
+- Táo chỉ được trồng trong một khu vườn .
+- Chỉ khu vườn cạnh vườn của Zick là trồng rau mùi tây .
+- Vườn của Sam không ở vị_trí ngoài cùng .
+- Hank không trồng rau và hoa_cúc .
+- Paul trồng 3 giống rau .
+Hỏi khu vườn của Luke có những giống nào ?
+Thanh_Tâm ( theo Math is fun )
+> > Câu_đố của Albert_Einstein chỉ 2% người giải được

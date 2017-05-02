@@ -1,0 +1,19 @@
+Internet tại Mỹ và châu Âu bị ngưng_trệ vì DDoS
+Các đợt tấn_công từ_chối dịch_vụ ( DDoS ) trên diện rộng từ những kẻ giấu mặt đã gây ảnh_hưởng nghiêm_trọng tới một loạt dịch_vụ mạng trên cả hai bờ Đại_Tây_Dương ngày 21/10 .
+Theo Guardian , cuộc tấn_công đầu_tiên được ghi_nhận từ 7h ( 18h giờ Việt_Nam ) với mục_tiêu chính là Dyn , một trong những công_ty quản_lý hệ_thống tên_miền ( Domain_Name_System ) ,   khiến người dùng bị hạn_chế truy_cập vào các dịch_vụ .
+Các đợt tấn_công thứ_hai và ba diễn ra lần_lượt , cách nhau vài giờ khiến một nủa số trang_web có lưu_lượng lớn nhất trên Internet bị ngưng_trệ .   Một_vài sự_cố mất điện cũng được ghi_nhận .
+Hàng_loạt các công_ty dịch_vụ mạng lớn bị ảnh_hưởng bởi cuộc tấn_công DDoS .
+Ảnh : Ross M . Horowitz
+Những dịch_vụ Internet và báo_chí bị ảnh_hưởng gồm Twitter , Netflix , Reddit , CNN , Paypal , Pinterest , Fox_News , Spotify , Guardian , New_York_Times và Wall_Street_Journal .
+Bộ_phận dịch_vụ web của Amazon - là khách_hàng sử_dụng dịch_vụ của Dyn - thông_cáo về việc mất điện vài giờ sáng_qua .
+Tuy_nhiên , Doug_Madory , Giám_đốc phân_tích của Dyn , cho_hay chưa xác_định đây là trùng_hợp sự_cố hay không .
+Toàn_cảnh vụ tấn_công .
+Ảnh : Appleinsider .
+Hiện chưa bên nào nhận trách_nhiệm về vụ tấn_công .
+Bộ An ninh Nội_địa Mỹ đã bắt_đầu điều_tra và Nhà_Trắng gọi đây là một " hành_động tội_phạm " , theo Reuters .
+Brian_Krebs , nhà_nghiên_cứu bảo_mật độc_lập , khẳng_định Internet sẽ sớm phải hứng_chịu các cuộc tấn_công từ nhiều botnet mới , được hỗ_trợ bởi các bộ định_tuyến , IP camera , máy quay kỹ_thuật_số và hàng_loạt thiết_bị dễ bị xâm_nhập khác .
+Đầu tháng 10 , mã nguồn Mirai đã được một nhóm hacker công_bố .
+Đây là phần_mềm độc_hại có khả_năng tạo ra mạng botnet để thực_hiện DDoS từ các thiết_bị IoT ( Internet of Thing ) .
+Còn_Bruce_Schneier , chuyên_gia bảo_mật máy_tính và là tác_giả của nhiều cuốn sách về an_ninh mạng , cho_biết thời_gian qua , các công_ty hạ_tầng Internet lớn là mục_tiêu của hàng_loạt cuộc tấn_công DDoS .
+" Ai đó đang thử_nghiệm khả_năng phòng_thủ của các công_ty cung_cấp dịch_vụ Internet lớn trên diện rộng " .
+ông nói .

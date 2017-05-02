@@ -1,0 +1,15 @@
+Thí_nghiệm 3 lớp chất_lỏng trong cốc
+Tùy vào mật_độ của các loại chất_lỏng và đồ_vật , bạn có_thể giúp trẻ vừa chơi vừa học với thí_nghiệm đơn_giản .
+Bạn cần một chiếc cốc rỗng , nước , phẩm màu , mật đường , dầu ăn , đai_ốc , một quả nho , một nắp chai nhựa , một miếng bọt_biển .
+Thực_hiện : Đổ nước và vài giọt phẩm màu vào cốc .
+Tiếp_theo , đổ thêm mật đường vào .
+Cuối_cùng , đổ thêm dầu ăn và đợi khoảng 15 phút để các chất_lỏng ổn_định trạng_thái .
+Bạn có 3 lớp chất_lỏng xếp chồng lên nhau , không hề bị hòa lẫn .
+Giải_thích : Mỗi lớp chất_lỏng có một mật_độ ( đại_lượng thể_hiện lượng vật_chất trên mỗi đơn_vị đo ) khác_nhau .
+Mật đường có mật_độ cao nhất nên chìm dưới đáy và dầu ăn có mật_độ thấp nhất nên nổi lên trên cùng .
+Hãy thử thả một_số vật vào cốc nước để xem điều gì xảy_ra .
+Đai_ốc kim_loại dày_đặc nên chìm thẳng xuống đáy .
+Nếu thả quả nho , nó chìm xuyên qua lớp dầu ăn và nước , tuy_nhiên lại nằm trên lớp mật đường do có mật_độ thấp hơn chất_lỏng này .
+Trong khi đó , nắp chai nhựa lại nằm trên bề_mặt lớp nước và miếng bọt_biển nằm trên bề_mặt lớp dầu ăn .
+Bạn có_thể thử thả các vật khác vào cốc để so_sánh mật_độ giữa chúng với các lớp chất_lỏng .
+Phiêu_Linh ( theo DaveHax )

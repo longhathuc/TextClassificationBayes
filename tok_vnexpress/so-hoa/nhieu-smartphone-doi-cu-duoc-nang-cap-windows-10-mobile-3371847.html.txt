@@ -1,0 +1,10 @@
+Nhiều smartphone đời cũ được nâng_cấp Windows 10 Mobile
+Hàng chục mẫu điện_thoại chạy Windows_Phone 8.1 có_thể cập_nhật hệ_điều_hành mới do Microsoft phát_hành .
+Các thiết_bị nằm trong đợt nâng_cấp này gồm : Lumia 1520 , 930 , 640 , 640XL , 730 , 735 , 830 , 532 , 535 , 540 , 635 1 GB , 636 1 GB , 638 1 GB , 430 , 435 , BLU Win HD w510u , BLU Win HD_LTE x150q và MCJ Madosma Q501 .
+Nhiều máy chạy Windows_Phone 8.1 được nâng_cấp lên Windows 10 Mobile .
+Trước khi tiến_hành , người dùng cần tải thêm phần_mềm Upgrade_Advisor rồi mở tùy chọn Enable_Windows 10 upgrade bên trong ứng_dụng .   Sau
+đó bạn truy_cập Settings > Phone_Update để tìm bản cập_nhật và máy sẽ tải về qua giao_thức OTA .
+Windows 10 Mobile được Microsoft thử_nghiệm trong thời_gian dài trước khi phát_hành rộng_rãi cho người dùng .
+Hệ_điều_hành mới mang đến giao_diện đẹp và " mở " hơn , bộ công_cụ văn_phòng mạnh_mẽ cùng_với loạt ứng_dụng   universal cho_phép tương_thích cả với tablet , máy_tính hay điện_thoại .
+Video hướng_dẫn nâng_cấp Windows 10 Mobile :
+Đình_Nam

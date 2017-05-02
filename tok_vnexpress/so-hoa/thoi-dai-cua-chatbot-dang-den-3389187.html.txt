@@ -1,0 +1,38 @@
+Thời_đại của chatbot đang đến
+Chatbot là gì , tại_sao những “ ông lớn ” công_nghệ như Microsoft , Facebook lại xem nó như ưu_tiên hàng_đầu và ném hàng tỷ USD vào đó ?
+Về cơ_bản , chatbot là một hình_thức thô_sơ của phần_mềm trí_tuệ_nhân_tạo .
+Nó hoạt_động độc_lập , có_thể tự_động trả_lời những câu_hỏi hoặc xử_lý tình_huống càng thật càng tốt .
+Phạm_vi và sự phức_tạp của chatbot được xác_định bởi thuật_toán của người tạo nên chúng .
+Chatbot là sự kết_hợp của các kịch_bản có trước và tự học trong quá_trình tương_tác .
+Với các câu_hỏi được đặt ra , chatbot sẽ dự_đoán và phản_hồi chính_xác nhất có_thể .
+Nếu tình_huống đó chưa xảy_ra ( không có trong dữ_liệu ) , chatbot sẽ bỏ_qua nhưng sẽ đồng_thời “ bắt_chước ” để áp_dụng cho các cuộc trò_chuyện thường_xuyên ( lặp_đi_lặp_lại nhiều lần ) về sau .
+Ví_dụ , bạn có_thể yêu_cầu chatbot tìm_kiếm một bộ phim “ bom tấn ” đang chiếu trên khắp các rạp .
+Ngoài tên bộ phim , bạn có_thể nhận được nhiều kết_quả hơn , như thời_gian chiếu , địa_điểm tốt nhất , vị_trí chố ngồi tốt nhất … và bạn không cần phải đặt thêm một câu_hỏi nào khác nữa .
+Có_thể bạn đang sử_dụng chatbot mà không hề hay_biết .   Nếu_như bạn đã hỏi “ trợ_lý ảo ” Siri của Apple hay Cortana của Microsoft một vấn_đề gì đó , ví_dụ “ thời_tiết hôm_nay như_thế_nào ? ” , là bạn đã làm_việc với một chatbot .
+Nếu đang sử_dụng Siri , bạn đang làm_việc với chat bot .
+Trong hội_nghị F8 vừa diễn ra tuần trước , Facebook đã nhấn_mạnh tầm quan_trọng của chatbot trong tương_lai và đang đặc_biệt tập_trung vào nó .
+Bằng_chứng là hiện_tại , ứng_dụng Messenger đã cho_phép các nhà_bán_lẻ , cửa_hàng , các trang tin_tức … tích_hợp các công_cụ để tương_tác trực_tiếp với người dùng và ngược_lại .
+Việc đưa chatbot vào Messenger cũng là một phần giúp củng_cố và nâng cao vị_thế của ứng_dụng để cạnh_tranh với các đối_thủ khác .
+Tại F8 , CEO Mark_Zuckerberg đã chứng_minh sức_mạnh tiềm_năng của chatbot bằng một chương_trình của 1-800-Flowers , một dịch_vụ đặt hoa tại Mỹ .
+Với_Messenger , người dùng có_thể đặt hoa nhanh_chóng mà không cần phải gọi điện .
+Tất_nhiên , các công_việc như đặt taxi Uber , cập_nhật thị_trường_chứng_khoán phố Wall … cũng sẽ được thực_hiện hoàn_toàn trên ứng_dụng nhắn_tin của Facebook một_cách dễ_dàng và đơn_giản , không rườm_rà như trước nữa .
+Chatbot sẽ là_là phương_tiện mới , hoạt_động hiệu_quả và nhanh_chóng phổ_biến , thay_thế các ứng_dụng trong tương_lai gần .
+Chatbot đầu_tiên ra_đời năm 1960 , tên là Eliza , và là một chương_trình máy_tính của Joseph_Weizenbaum ( Viện_Công nghệ Massachusetts , Mỹ ) .
+Thực_ra   Eliza là nỗ_lực của Joseph nhằm tạo ra một liệu_pháp điều_trị tâm_lý mới bằng máy_tính .
+Đây là chương_trình giả làm bác_sĩ tâm_lý , có_thể trả_lời những câu_hỏi đơn_giản .
+Nếu câu nào không hiểu , máy sẽ lấy một từ_khóa trong câu của bệnh_nhân và bảo họ giải_thích thêm .
+Mặc_dù có sự hạn_chế về nhiều mặt , Eliza vẫn được xem là tiền_đề để có_thể phát_triển chatbot như ngày_nay .
+Chatbot sẽ bùng_nổ và sẽ là một hiện_tượng mới trong tương_lai gần , cũng giống như các biểu_tượng cảm_xúc ( emoji ) .
+Việc tiếp_thị , quảng_bá sản_phẩm của doanh_nghiệp dựa trên chatbot sẽ dễ_dàng hơn và tự_nhiên hơn rất nhiều .
+Bên_cạnh đó , người dùng cũng cảm_thấy thú_vị hơn , không còn cảm_giác như đó là một phương_thức quảng_cáo nữa .
+Mặc_dù chatbot không_thể mang lại khả_năng trải_nghiệm toàn_bộ ứng_dụng nhưng nó có_thể tạo ra cách tiếp_cận mới hơn , linh_hoạt hơn cho người dùng , đặc_biệt là người dùng di_động .
+Ví_dụ , thay_vì phải tải về và đăng_ký một ứng_dụng chuyên_dụng nào_đó , bạn chỉ cần gửi một đoạn văn_bản đến " bot " và yêu_cầu chúng hành_động như mua vé xem phim , gọi taxi … hay đơn_giản là đọc tin_tức mới nhất thời_điểm đó .
+Như_vậy , trong tương_lai gần , các dịch_vụ định_hướng và chatbot có_thể hòa_hợp với nhau nhằm nâng cao trải_nghiệm người dùng .
+Và nó sẽ không “ gây nên sự sợ_hãi cho loài_người ” như các chuyên_gia đã cảnh_báo về mối đe_dọa của trí_tuệ_nhân_tạo ( AI ) .
+Mức_độ phổ_biến và tầm ảnh_hưởng của các ứng_dụng nhắn_tin hiện_nay là rất lớn .
+Với việc Facebook tích_hợp chatbot vào dịch_vụ nhắn_tin của mình , nhiều chuyên_gia nhận_định chatbot sẽ bao_quát hầu_hết các dịch_vụ trực_tuyến khác .
+Bên_cạnh đó , Facebook cũng đang phát_triển công_cụ “ dạy ” AI đọc truyện cho trẻ_em , hay Google đang nghiên_cứu Deep_Mind , một hệ_thống có_thể dự_đoán chính_xác những thay_đổi của thị_trường_chứng_khoán … Công_nghệ đằng sau chatbot đang phát_triển chưa từng có , làm cho thiết_bị số đang thông_minh hơn rất nhiều .
+Có_lẽ đến một ngày nào_đó , loài_người sẽ rơi vào hoàn_cảnh như trong bộ phim Spike_Jonze .
+Chắc_chắn không ?
+Có_lẽ nên thử_hỏi một chatbot xem sao !
+Bảo_Lâm ( theo IBTimes )

@@ -1,0 +1,26 @@
+Công_nghệ Goal-line xác_định bàn thắng trong Euro 2016 thế_nào
+Euro 2016 là giải đấu lớn cấp châu_lục đầu_tiên áp_dụng công_nghệ xác_định đường_biên ngang hỗ_trợ các trọng_tài trong việc có công_nhận bàn thắng hay không .
+Goal-line ( hay còn gọi_là   Goal_Decision_System ) là phương_pháp sử_dụng công_nghệ máy_tính để xác_định bóng đã hoàn_toàn vượt qua đường_biên ngang hay chưa .
+Mục_tiêu của công_nghệ này không phải để thay_thế vai_trò của các trọng_tài mà chỉ có tác_dụng hỗ_trợ họ .   Hiện có hai nhà_sản_xuất cung_cấp công_nghệ Goal-line là Goal_Control của Đức và Hawk-Eye của Anh .
+Ngoài bóng_đá , các hệ_thống như_vậy còn được sử_dụng trong nhiều môn thể_thao khác như tennis , bida , bóng_bầu_dục ...
+Kết_quả phân_tích sẽ được gửi đến thiết_bị đeo cho trọng_tài .
+Liên_đoàn bóng_đá châu Âu - UEFA , đã quyết_định sử_dụng Hawk-Eye , sản_phẩm của Basingstoke cho Euro 2016 diễn ra tại Pháp .
+Công_nghệ này cũng sẽ được áp_dụng cho Champions_League từ cuối năm nay .
+Trước đó , một_số   giải đấu quốc_nội cũng sử_dụng như Premier_League của Anh ( từ năm 2013 ) và Bundesliga của Đức ( từ năm 2015 ) .
+Liên_đoàn bóng_đá thế_giới - FIFA từng thử_nghiệm Goal-line ở Nhật trước khi chính_thức sử_dụng ở   World_Cup 2014 tại Brazil .
+Hawk-Eye là một hệ_thống phức_tạp kết_hợp dữ_liệu từ các máy quay độ nét cao , cảm_biến và hàng_loạt máy_tính .
+Sản_phẩm được phát_triển bởi   Paul_Hawkins tại Anh từ năm 1999 trước khi được sử_dụng lần đầu_vào năm 2001 .
+Mục_đích ban_đầu là phục_vụ cho các trận đấu môn bóng gậy ( Cricket ) được truyền_hình .
+Sau_này nó mới được phát_triển cho các môn thể_thao khác mà phổ_biến nhất_là tennis .
+Hệ_thống sử_dụng 6 đến 7 máy quay cho mỗi cầu gôn .
+Hệ_thống hoạt_động thông_qua 6 hoặc 7 máy quay cho mỗi cầu gôn thường được gắn ở mặt dưới của mái các sân_vận_động cho_phép theo_dõi bóng ở các góc_độ khác_nhau .
+Các video từ những máy_ảnh phối_hợp theo hình_tam_giác và tạo thành một quỹ_đạo 3 chiều của quả bóng .
+Các máy quay được sử_dụng có độ nét và tốc_độ khung hình mỗi giây rất cao nhằm bắt được hình_ảnh trái bóng .
+Ngay cả khi một_số góc máy bị chặn do cầu_thủ đứng khuất tầm quay , phần_mềm máy_tính vẫn có_thể tính_toán quỹ_đạo bóng hoặc vị_trí chính_xác thông_qua các máy quay còn lại .
+Kết_quả sau khi được hệ_thống máy_tính xử_lý sẽ gửi trực_tiếp hoặc gián_tiếp tới trọng_tài thông_qua một thiết_bị đeo .
+Hệ_thống Hawk-Eye được coi là không_thể nhầm_lẫn với độ_chính_xác trong ngưỡng 5 mm .
+Tuy_nhiên , vẫn có những tranh_cãi trong việc sử_dụng công_nghệ Goal-line .
+Ngoài lý_do chi_phí tốn_kém , sự can_thiệp sâu vào máy_móc vô_tình làm mất đi yếu_tố con_người dù các nhà tổ_chức luôn khẳng_định hệ_thống chỉ giúp_đỡ các trọng_tài trong việc đưa ra quyết_định .
+Ngoài_ra , việc phải quay chậm lại ( replay ) cũng sẽ khiến các trận đấu không liền mạch .
+Cựu chủ_tịch FIFA , ông Sepp_Blatter cũng từng cho rằng " tranh_cãi về những tình_huống , sai_lầm cũng là một phần thú_vị của bóng_đá " .
+Video công_nghệ cách_thức hoạt_động của hệ_thống   Hawk-Eye :

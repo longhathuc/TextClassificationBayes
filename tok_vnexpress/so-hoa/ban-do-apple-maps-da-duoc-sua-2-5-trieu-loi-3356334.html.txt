@@ -1,0 +1,13 @@
+Bản_đồ Apple_Maps đã được sửa 2,5 triệu lỗi
+Dựa trên phản_hồi của người dùng , Apple đã biên_tập hàng triệu sai_sót trên bản_đồ trực_tuyến do hãng này phát_triển từ năm 2012 .
+" Chúng_tôi đã xem_xét và điều_chỉnh lại hơn 2,5 triệu chi_tiết từ những góp_ý của người tiêu_dùng " , Eddy_Cue , Phó_chủ_tịch phụ_trách mảng phần_mềm và dịch_vụ tại Apple , chia_sẻ trong cuộc trò_chuyện với blogger John_Gruber của trang Daring_Fireball .
+Ảnh minh_họa : SHM .
+Apple đã mua lại các công_ty bản_đồ Placebase năm 2009 , Poly9 năm 2010 và C3 Technologies năm 2011 .
+Năm 2012 , hãng trình_làng Apple_Maps nhằm thay_thế Google_Maps trên các thiết_bị i OS .   Tuy_nhiên , ngay sau đó , Apple_Maps được ví_như " thảm_họa " với những hình_ảnh ma_quái do lỗi xử_lý đồ_họa , hướng_dẫn lái_xe đi vào đường_băng máy_bay , những thị_trấn bỗng_nhiên biến_mất ...
+Sản_phẩm tệ đến mức Scott_Forstall , khi đó là Phó_chủ_tịch phụ_trách mảng phần_mềm của Apple , đã phải ra_đi .
+Apple không tuyên_bố lý_do cụ_thể nhưng một_số nguồn tin nội_bộ cho_hay Forstall bị đề_nghị thôi chức sau khi từ_chối ký_tên vào biên_bản về những thiếu_sót của Apple_Maps .
+Trong khi đó , Tim_Cook , CEO của Apple , viết thư xin_lỗi người dùng , thậm_chí khuyên mọi người thử các chương_trình thay_thế như phiên_bản web của Google và Nokia .
+" Xin_lỗi " là từ hiếm khi được nghe ở Apple dưới thời Steve_Jobs , như khi i Phone 4 bị lỗi mất sóng , Jobs đổ cho khách_hàng " cầm điện_thoại sai " rồi sau đó xoa_dịu bằng các bộ case miễn_phí .
+Sau 4 năm miệt_mài phát_triển và sửa hàng triệu lỗi , Apple_Maps hiện đã hoàn_thiện hơn và hiện xử_lý trung_bình 5 tỷ lệnh tìm_kiếm mỗi tháng .
+Theo thống_kê của com Score từ tháng 7/2013 đến tháng 7/2015 , Apple_Maps được 20-30 % người dùng smartphone tại Mỹ sử_dụng trong khi Google_Maps là 40-51 % .
+Châu_An

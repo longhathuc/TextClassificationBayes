@@ -1,0 +1,10 @@
+Bài_toán tìm thời_gian vượt cầu ngắn nhất
+4 người đàn_ông cần đi qua một cây cầu nhưng không_thể đi cùng một lượt và thời_gian qua cầu của 4 người là khác_nhau .
+Bạn hãy tìm ra cách để thời_gian 4 người qua cầu_là ngắn nhất ?
+Có 4 người đàn_ông cần đi qua một cây cầu trong đêm_tối .
+Không may là chỉ có một cây đuốc và không có đuốc thì không_thể qua cầu .
+Cầu rất yếu nên mỗi lượt_đi chỉ được 2 người .
+Tuy_nhiên , thời_gian 4 người ( A , B , C , D ) qua cầu không giống nhau .
+Thời_gian để A qua cầu_là 1 phút , B là 2 phút , C là 7 phút và D là 10 phút .
+Hỏi thời_gian ngắn nhất để 4 người đàn_ông qua cầu_là bao_lâu ?
+Thanh_Tâm   ( theo Gpuzzles )

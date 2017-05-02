@@ -1,0 +1,35 @@
+Những sai_lầm thường gặp khi tiếp_thị trên di_động
+Phương_thức triển_khai không phù_hợp , nội_dung truyền_tải nghèo_nàn hay thiếu sự kết_nối sẽ khiến chiến_dịch tiếp_thị di_động mau_chóng " chết_yểu " .
+Theo nghiên_cứu của hãng Smart_Insights , hơn một_nửa số người dùng hiện_nay dựa trên các thiết_bị di_động để kết_nối với bạn_bè , xử_lý công_việc , kiểm_tra e - mail , truy_cập Internet với thời_lượng trung_bình 3 giờ một ngày .
+Số người dùng máy_tính   bàn để thực_hiện các chức_năng tương_tự có xu_hướng giảm .
+Báo_cáo của Smart_Insights cũng chỉ ra , trong năm 2015 , các nhà marketing dành đến gần 30 tỷ USD cho việc tiếp_thị trên di_động .
+Những doanh_nghiệp vừa và nhỏ có_thể xem di_động như một kênh tiếp_thị hiệu_quả , tối_ưu_hóa chi_phí và khả_năng tiếp_cận khách_hàng .
+Tuy_nhiên , để sử_dụng thành_công phương_thức này , cần tránh những sai_lầm dưới đây .
+Bó_hẹp cách triển_khai chiến_dịch tiếp_thị
+Thoạt nhìn , tiếp_thị di_động dường_như chỉ gói gọn trong các dịch_vụ tin nhắn SMS , tin nhắn văn_bản hoặc quảng_cáo hiển_thị trên một ứng_dụng di_động .
+Nhưng thực_tế việc triển_khai chiến_dịch tiếp_thị di_động có rất nhiều phương_thức .
+Theo số_liệu công_bố của Eleventy_Group , có đến 75% trong hơn 900 triệu người dùng Gmail kiểm_tra tin nhắn trên thiết_bị di_động , 25% thông_qua ứng_dụng di_động được viết riêng cho truyền_thông xã_hội ( như Facebook ) .
+70% người dùng thích nhận thông_tin quảng_bá di_động qua e - mail so với chỉ 2% muốn nhận qua SMS hay tin nhắn tiếp_thị .
+Do_đó , có_thể thấy hiểu rõ sở_thích người dùng sẽ giúp tiếp_cận họ hiệu_quả hơn .
+Nếu chỉ chăm_chăm vào việc gửi SMS mà không biết người nhận có muốn đọc hay không thì quả tốn tiền vô_ích .
+Nên chọn những phân khúc người dùng phù_hợp , như kênh SMS , e-mail hay nhiều nền_tảng khác để tạo sự lan_tỏa thông_điệp .
+Có_thể tự mình lập danh_sách e - mail hoặc sử_dụng dịch_vụ của các mạng quảng_cáo di_động để triển_khai chiến_dịch .
+Ví_dụ thương_hiệu bán_lẻ The_North_Face kết_hợp nhiều phương_tiện truyền_thông để mở_rộng phạm_vi chiến_dịch tiếp_thị di_động của mình .
+Hãng cho in các poster kêu_gọi người dùng hãy đăng_ký e - mail để nhận những thông_tin khuyến_mãi hay các sản_phẩm " hot " .
+Từ đó công_ty phát_triển danh_sách người dùng di_động cùng nhiều thông_tin hữu_ích , phục_vụ cho các chiến_dịch quảng_cáo di_động tiếp_theo .
+Thiếu sự kết_nối liền mạch
+Cho_dù mục_đích của chiến_dịch là tăng sự tương_tác với Fanpage , chuyển lưu_lượng truy_cập đến website hay hướng người dùng đến trang mua_sắm thì thông_điệp truyền_tải phải nhất_quán và việc kết_nối nhanh_chóng .
+Thông_thường doanh_nghiệp gửi e - mail và khách_hàng và kiểm_tra nội_dung trên thiết_bị di_động .
+Điều quan_trọng là e - mail này cung_cấp đủ thông_tin cần_thiết và giúp chuyển_hướng nhanh_chóng đến các nền_tảng thương_mại_điện_tử hỗ_trợ người dùng có_thể dễ_dàng xem hoặc mua_sắm , thanh_toán ... bằng thiết_bị di_động .
+Để tạo nên một quy_trình như_vậy , cần xây_dựng website tương_thích với nhiều thiết_bị di_động , thiết_kế giao_diện trang , văn_bản , hình_ảnh , dung_lượng phù_hợp .
+Doanh_nghiệp nên phát_triển thêm nhiều tính_năng đặc_biệt như cho_phép đăng_nhập bằng tài_khoản mạng xã_hội để trực_tiếp trao_đổi thông_tin với doanh_nghiệp , áp_dụng mã khuyến_mãi với chỉ một nút bấm , hỗ_trợ nhiều công_cụ thanh_toán ngay trên điện_thoại ...
+Nội_dung thiếu sự sáng_tạo
+Màn_hình thiết_bị di_động thường có kích thướng nhỏ và người dùng hay bị phân_tâm do nhiều yếu_tố tác_động khi sử_dụng máy .
+Do_đó , nội_dung hay , độc_đáo là một_cách kéo giữ người dùng hiệu_quả , giúp họ hiểu được thông_điệp muốn truyền_tải của chiến_dịch truyền_thông .
+Theo nghiên_cứu của hãng công_nghệ Cisco , hơn 55% người dùng thiết_bị di_động theo_dõi các video .
+Do_vậy , có_thể tiếp_thị bằng cách thực_hiện những video ngắn_gọn với đầy thủ âm_thanh , hình_ảnh cuốn_hút , chỉ cần xem qua là có_thể nắm_bắt   trọn_vẹn thông_điệp chứ không phải đánh_đố người xem .
+Các chuyên_gia marketing cũng đưa ra lời khuyên doanh_nghiệp nên học_hỏi kinh_nghiệm từ những chiến_dịch quảng_cáo thành_công .
+Đơn_cử đội bóng_rổ Brooklyn_Nets đã thực_hiện chiến_dịch mobile marketing qua hình_thức săn vé xem thi_đấu miễn_phí .
+Người dùng sẽ phải tham_gia vào các mạng xã_hội hay dùng tin nhắn để biết được những tấm vé miễn_phí này phát tại đâu .
+Hình_thức này không quá tốn_kém và các doanh_nghiệp vừa và nhỏ có_thể áp_dụng linh_hoạt vào tình_hình kinh_doanh của mình để tiếp_thị sản_phẩm hay dịch_vụ miễn_phí .
+Minh_Trí

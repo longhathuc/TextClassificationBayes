@@ -1,0 +1,10 @@
+Đáp_án bài_toán tìm tất trong bóng_tối
+Nhiều độc_giả chưa đưa ra được số tất chính_xác mà người đàn_ông cần lấy ra để chắc_chắn có một_đôi tất đen .
+Đề_bài :
+Một người đàn_ông có 53 chiếc tất trong ngăn_kéo : 21 chiếc màu xanh , 15 chiếc màu đen và 17 chiếc màu đỏ .
+Bỗng_nhiên mất điện và anh_ta hoàn_toàn ở trong bóng_tối .
+Hỏi anh_ta cần lấy ra bao_nhiêu chiếc tất để chắc_chắn 100% có một_đôi màu đen ?
+Đáp_án : 40 .
+Nếu anh_ta lấy ra 38 chiếc tất , mặc_dù rất khó xảy_ra , nhưng có_thể tất_cả đều là màu xanh hoặc đỏ .
+Vậy để chắc_chắn 100% có được một_đôi tất đen , anh_ta phải lấy ra thêm 2 chiếc .
+Phiêu_Linh

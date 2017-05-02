@@ -1,0 +1,7 @@
+Bài_toán cuộc_thi trắc_nghiệm của các nhân_vật hoạt_hình nổi_tiếng
+Sói , thỏ , vịt Donald , mèo Tom và chuột Jerry đi thi .
+Đề thi gồm 4 câu_hỏi trắc_nghiệm với 5 phương_án trả_lời là A , B , C , D , E với duy_nhất một đáp_án đúng .
+Jerry vào thi cuối và trước khi vào thi , cậu tranh_thủ hỏi xem các anh_chị trả_lời thế_nào , được bao_nhiêu điểm , thì được biết các phương_án trả_lời của sói , thỏ , vịt và mèo lần_lượt là : DDAE , CBAD , CDAC và BBCC .
+Tất_cả 4 bạn này đều vừa đủ điểm đạt , tức_là mỗi bạn đều có 2 câu đúng .
+Hỏi với những thông_tin này , Jerry có_thể trả_lời thế_nào để có cả 4 câu đều đúng ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TPHCM

@@ -1,0 +1,14 @@
+iOS 9.3 lại gây lỗi cho i Phone 6s và 6s Plus
+Sau khi được nâng_cấp lên phiên_bản i OS mới nhất , một_số i Phone bị treo khi mở các đường link xuất_hiện trong trình_duyệt Safari , Mail , Notes hay tin nhắn .
+Sau sự_cố khiến cho nhiều máy i Pad 2 trở_thành " cục gạch " khi nâng_cấp phần_mềm , phiên_bản hệ_điều_hành vừa được Apple tung ra lại tiếp tung bị tố lỗi khiến cho một_số chiếc i Phone 6s và 6s Plus bị treo cứng .
+Trên trang hỗ_trợ trực_tuyến Apple_Support và một_số trang công_nghệ , nhiều người dùng phản_ánh sau khi mở một_số đường link ở trình_duyệt Safari hoặc trong Mail , Notes hay tin nhắn thì điện_thoại lập_tức bị treo , hoặc làm cho ứng_dụng bị thoát ra ngoài .
+Đa_phần thiết_bị dính lỗi là các mẫu i Phone 6s và 6s Plus cũng_như một_số thiết_bị đời cũ hơn .
+Lỗi tiếp_tục xuất_hiện trên i OS 9.3 .
+Theo 9to5Mac , lỗi trên của i OS 9.3 có_thể liên_quan đến mã JavaScript khi một_số trường_hợp có_thể khắc_phục lỗi treo bằng cách tắt JavaScript trong phần cài_đặt Safari .
+Trong trường_hợp i Phone bị treo ở các ứng_dụng , cách khắc_phục tạm_thời hiện_giờ là tắt máy đi khởi_động lại .
+Hiện_Apple vẫn xác_nhận vấn_đề trên có là một lỗi của i OS 9.3 hay không .
+Bản cập_nhật i OS mới của Apple không mang đến nhiều thay_đổi cho i Phone , iPad khi chỉ thêm một_số tính_năng mới .
+Tuy_nhiên , nó lại tỏ ra chưa hoàn_thiện .
+Sau vài ngày tung ra chính_thức và gặp lỗi với i Pad 2 , Apple đã phải tạm ngừng rồi tung ra phiên_bản thay_thế .
+Lỗi khiến cho i Phone 6s , 6s Plus bị treo trên i OS 9.3 :
+Mỹ_Anh Video : 9to5mac

@@ -1,0 +1,25 @@
+Mạng 5G sẽ hỗ_trợ tốc_độ tải trung_bình 20Gb/giây
+Với tốc_độ này , mạng 5G được cho là sẽ thúc_đẩy xu_hướng xe tự lái , điều_khiển giao_thông công_cộng và kết_nối trong ngôi nhà thông_minh .
+Tại_Triển lãm MWC 2016 diễn ra tại Barcelona tháng trước , mạng 5G và những ứng_dụng thực_tiễn đã trở_thành chủ_đề nóng .
+Mạng 5G được kỳ_vọng đến tay người dùng vào năm 2020 , sẽ đem đến một diện_mạo mới cho ngành công_nghiệp viễn_thông và điện_thoại_di_động .
+Mặc_dù cho_đến giờ , một bộ tiêu_chuẩn quốc_tế cho mạng 5G vẫn chưa được công_bố , nhưng các " đại_gia " công_nghệ trên thế_giới đã trình_làng hàng_loạt sản_phẩm sử_dụng công_nghệ tiên_tiến này .
+Ericsson đã bắt_đầu phát_triển công_nghệ 5G từ năm 2013 và tại MWC 2016 vừa_rồi , hãng đã trình_làng một bộ thiết_bị radio hỗ_trợ tính_năng đa người dùng .
+Trong khi tốc_độ tải trung_bình của mạng 4G hiện_nay là 15 Mb/giây , thiết_bị radio do Ericsson sản_xuất hứa_hẹn sẽ nâng con_số này lên mức 25 Gb/giây .
+Ericsson cho_biết đang phối_hợp với các doanh_nghiệp viễn_thông trong việc thử_nghiệm mạng 5G trong năm nay .
+Trong khi đó , doanh_nghiệp công_nghệ của Trung_Quốc ZTE đã ra_mắt một phiên_bản “ Tiền 5G ” mang tên “ Pre5G UDN” .
+Giải_pháp công_nghệ này được kỳ_vọng sẽ từ_từ nâng_cấp tốc_độ download dữ_liệu của người dùng lên gấp 10 lần mức như hiện_nay .
+Nokia cũng không kém khi cho_biết hãng đang phối_hợp với nhà mạng T-Mobile và Verizon để thử_nghiệm mạng 5G dưới tần_số 28 GHz trong năm nay , hứa_hẹn sẽ đạt tốc_độ tải 20 Gb/giây và áp_dụng trong các phiên_bản xe lái tự_động và thiết_bị thực_tế ảo .
+Intel , Cisco và Ericsson cũng đã ký biên_bản hợp_tác phát_triển đường truyền mạng 5G , tận_dụng lần_lượt thế mạnh sản_xuất chip , cáp viễn_thông và công_nghệ di_động của 3 doanh_nghiệp trên .
+Cũng tại MWC 2016 , nhà_sản_xuất chip Qualcomm đã công_bố dự_án mang tên 5G UAI , sẽ sử_dụng ăng - ten trong quá_trình truyền phát_sóng 5G để đảm_bảo chất_lượng ngay cả trong tình_hình thời_tiết xấu .
+Theo IBTimes , một trong những ứng_dụng thực_tiễn của mạng 5G là ôtô tự lái .
+Bằng việc áp_dụng 5G , ôtô tự lái có_thể giao_tiếp , truyền thông_tin cho nhau , đưa ra những dự_báo chính_xác hơn về thời_tiết và tự_động điều_chỉnh đường đi .
+Apple và Google là ví_dụ điển_hình về những doanh_nghiệp đang phát_triển xe tự lái với định_hướng như_vậy .
+Chuyên_gia công_nghệ Erik_Kruse đến từ Ericsson cho rằng 5G sẽ được áp_dụng trong cả hệ_thống giao_thông công_cộng như xe_buýt , tàu_điện_ngầm để giúp phân_bổ số_lượng xe hợp_lý trong những lúc tắc đường .
+" 5G còn có_thể đưa ra quyết_định như con_người khi nó giúp bạn đặt vé tàu , thuê xe_đạp nếu ôtô của bạn đang bị mắc_kẹt giữa một đoạn đường ùn_tắc mà bạn phải vội đi làm " , ông Erik kỳ_vọng .
+Thêm vào đó , những ngôi nhà sẽ trở_nên thông_minh hơn bao_giờ hết khi công_nghệ 5G cho_phép các thiết_bị kỹ_thuật_số , như loa , trò_chơi tay_cầm , TV , giao_tiếp với nhau để phục_vụ nhu_cầu giải_trí của gia_chủ một_cách tốt nhất .
+Chỉ cần ngồi một chỗ là có_thể ra_lệnh cho các thiết_bị xung_quanh nhà mình và thậm_chí xem được chúng đang ngốn bao_nhiêu điện_năng .
+Xử_lý khủng_hoảng và hiện_đại_hóa các khu văn_phòng là 2 chức_năng khác mà 5G sẽ đảm_nhận .
+Theo ông Erik , trong tương_lai không xa , công_nghệ 5G với tốc_độ nhanh_chóng mặt của nó sẽ giúp các lực_lượng chức_năng phản_ứng và xử_lý tốt hơn trước những tình_huống khẩn_cấp như hỏa_hoạn , thiên_tai .
+Trong khi đó , ở các khu văn_phòng , thang_máy sẽ tự_động được luân_chuyển để đáp_ứng số_lượng người ra_vào tòa nhà .
+Mạng 5G cũng sẽ có khả_năng phát_hiện tấn_công mạng vào hệ_thống của một tòa nhà và ngăn_chặn nó .
+Nguyễn_Mai_Đức

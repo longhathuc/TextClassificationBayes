@@ -1,0 +1,37 @@
+Samsung xây_dựng chuẩn kiểm_tra pin mới cho Galaxy S8
+Sau sự_cố Note 7 , hãng điện_tử Hàn_Quốc đã nâng tiêu_chuẩn kiểm_tra chất_lượng pin của sản_phẩm trước khi bán ra thị_trường cao hơn chuẩn chunghiện nay .
+Hiện_nay hầu_hết thiết_bị di_động đều sử_dụng pin Lithium_Ion , đây là loại pin có mật_độ năng_lượng cao nên có_thể gây nguy_cơ cháy nổ .
+Do_đó , quy_trình kiểm_tra chất_lượng pin Lithium_Ion 8 bước mới của Samsung sẽ giúp giảm nguy_cơ này xuống mức thấp nhất .
+Quy_trình kiểm_tra 8 bước dành cho pin trên thiết_bị di_động của Samsung .
+Samsung đã xây_dựng 4 phòng_thí_nghiệm tại 4 nhà_máy sản_xuất của mình trên toàn_cầu .
+Hãng đã thiết_lập nên quy_trình kiểm_tra chất_lượng pin với 8 bước sau quá_trình kiểm_tra 200.000 chiếc Note 7 và 30.000 viên pin với đội_ngũ hơn 700 nhân_viên của mình .
+Quy_trình kiểm_tra 8 bước bao_gồm : 1 .
+Kiểm_tra độ bền của pin bằng cách tăng_cường khả_năng chịu_tải của pin , kể_cả việc sạc quá_tải , khả_năng chịu va_đập , bị đâm lủng và kiểm_tra sức chịu nóng .
+2 .
+Kiểm_tra trực_quan từng viên pin theo các tiêu_chuẩn và tiêu_chí khách_quan .
+3 .
+Sử_dụng máy X-quang để kiểm_tra xem có lỗi lỗi bất_thường ở bên trong pin không .
+4 .
+Samsung sẽ thử_nghiệm sạc xả liên_tục các viên pin ở quy_mô lớn .
+5 .
+Kiểm_tra để đảm_bảo pin không có khả_năng bị rò_rỉ hoá_chất dễ bay_hơi .
+6 .
+Tháo rời các viên pin để kiểm_tra chất_lượng của việc hàn và băng dán cách_điện .
+7 .
+Kiểm_tra chuyên_sâu mô_phỏng theo quá_trình sử_dụng của người dùng .
+8 .
+Kiểm_tra các linh_kiện và pin thành_phẩm để xem có sự thay_đổi về điện_áp trong quá_trình sản_xuất không .
+Quy_trình kiểm_tra chất_lượng pin mới của Samsung có_thể sẽ là chuẩn mới thay_thế cho chuẩn cũ đang dùng là IEEE của CITA .
+Quy_trình này gồm nhiều bằng_sáng_chế và được hội_đồng cố_vấn là các chuyên_gia đến từ các trường đại_học danh_tiếng là Cambridge , Berkely và Stanford thông_qua .
+Bên_cạnh quy_chuẩn về pin , Samsung cũng có thêm các quy_chuẩn để kiểm_tra chất_lượng điện_thoại khác trước khi được tung ra thị_trường như kiểm_tra về thiết_kế , chất_lượng phần_cứng cũng_như phần_mềm .
+Bên_cạnh đó thì hãng còn nhiều bước kiểm_tra sản_phẩm khác trước khi xuất_xưởng .
+Trong những năm 2000 , điện_thoại_di_động lên_ngôi kéo_theo ngành công_nghiệp pin cũng phát_triển nóng .
+Các nhà_sản_xuất dù có nhiều kinh_nghiệm nhưng việc chạy_đua tạo ra các sản_phẩm giá rẻ khiến chất_lượng không được đảm_bảo .
+Các trường_hợp cháy , nổ pin tăng cao khiến CTIA và Ủy_ban An_toàn sản phầm tiêu_dùng Mỹ ( IEEE ) đã cùng nghiên_cứu , tạo ra quy_trình thử_nghiệm pin trong năm 2005 .
+Các phòng_thí_nghiệm của CTIA được xây_dựng ở các cơ_sở riêng_biệt và cũng được kiểm_soát riêng_rẽ .
+Hiện tổ_chức này đã kiểm_định khoảng 1.500 loại pin khác_nhau .
+Để bán được điện_thoại thông_qua các nhà mạng lớn tại Mỹ , nhà_sản_xuất điện_thoại thông_thường được yêu_cầu kiểm_tra pin ở một trong 28 phòng_thí_nghiệm của Tổ_chức thương_mại không dây Mỹ ( CTIA ) .
+Điều này nhằm đảm_bảo tuân_thủ các tiêu_chuẩn của Viện kỹ_thuật điện và điện_tử của nước này .
+Apple đang sử_dụng phòng_thí_nghiệm của bên thứ 3 có chứng_nhận CTIA để kiểm_tra pin trên các thiết_bị của mình .
+Một nhà_sản_xuất khác là Motorola kiểm_tra trong phòng_thí_nghiệm của riêng mình nhưng vẫn có các công_đoạn cuối tại một phòng_thí_nghiệm của bên thứ 3 .
+Phòng_thí_nghiệm của Samsung cũng đạt tiêu_chuẩn CTIA   ( cấp chứng_chỉ năm 2009 ) nhưng do chính hãng quản_lý và vận_hành .

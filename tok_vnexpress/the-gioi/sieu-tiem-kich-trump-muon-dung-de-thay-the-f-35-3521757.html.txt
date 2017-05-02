@@ -1,0 +1,49 @@
+' Siêu tiêm_kích ' Trump muốn dùng để thay_thế F-35
+Tổng_thống đắc_cử Mỹ_Donald_Trump đã nói_bóng_gió về việc thay_thế dòng F-35 tối_tân bằng tiêm_kích thế_hệ 4 F/A-18E / F_Super_Hornet .
+Cuối năm 2016 , Tổng_thống đắc_cử Mỹ_Donald_Trump viết trên Twitter rằng ông đã yêu_cầu hãng Boeing ra giá cho mẫu tiêm_kích F/A-18E / F_Super_Hornet bởi dự_án tiêm_kích tàng_hình F-35 của Lockheed_Martin có chi_phí quá đắt_đỏ .
+Trong bài viết trên National_Interest , chuyên_gia quốc_phòng Dave_Majumdar đã đưa ra những đánh_giá tương_quan giữa hai loại chiến_đấu_cơ này để xem_xét tính khả_thi trong đề_xuất của Trump .
+Đây là yếu_tố mà tiêm_kích F/A-18E / F không_thể so_bì với F-35 .
+Công_nghệ tàng_hình là một phần quan_trọng của thiết_kế F-35 ngay từ đầu .
+Tuy_nhiên , hãng Boeing đã thử_nghiệm phiên_bản Super_Hornet với tiết_diện radar ( RCS ) giảm đáng_kể , đặc_biệt là phần mũi .
+Công_ty này cũng thử_nghiệm thùng nhiên_liệu phụ_giúp   F/A-18E / F  mang thêm 1.587 kg nhiên_liệu và khoang vũ_khí tàng_hình chứa 1.133 kg vũ_khí .
+Điều này giúp loại_bỏ các chi_tiết cồng_kềnh bên ngoài , giảm đáng_kể RCS của Super_Hornet , nhưng nó không_bao_giờ được coi là máy_bay tàng_hình thực_thụ như F-35 .
+Nga và Trung_Quốc đang phát_triển các radar tần_số thấp có_thể phát_hiện và theo_dõi tiêm_kích tàng_hình Mỹ .
+Điều này khiến tác_chiến điện_tử ngày_càng quan_trọng trong hỗ_trợ máy_bay tàng_hình khi loại radar này trở_nên phổ_biến .
+Trên thực_tế , F-35 có tính_năng tấn_công điện_tử đáng gờm .
+Nó được trang_bị radar mảng pha điện_tử chủ_động ( AESA ) AN/APG-81 , có khả_năng đóng vai_trò là ăng ten hỗ_trợ điện_tử bước_sóng hẹp ( high-gain ) và thiết_bị gây nhiễu uy_lực .
+Nhưng AN/APG-81 bị giới_hạn hoạt_động trên dải tần X .
+Trong khi đó , Super_Hornet và biến_thể tác_chiến điện_tử EA-18G Growler cũng được trang_bị radar AESA_AN / APG-79 với tính_năng tương_tự radar AN/APG-81 .
+Tuy_nhiên , hải_quân Mỹ chưa khai_thác hết tiềm_năng của AN/APG-79 .
+Họ cho_biết sẽ tiếp_tục phát_triển tiềm_năng tác_chiến điện_tử của radar này trong những năm tới .
+Một ưu_điểm khác của F-35 so với F/A-18E / F là hệ_thống AN/ASQ-239 , tích_hợp một loạt ăng ten vào thân máy_bay để cung_cấp bức tranh chiến_trường chi_tiết cho phi_công .
+Tuy_nhiên , công_nghệ này vẫn chưa thực_sự hoàn_thiện và đang được tiếp_tục phát_triển .
+Hải_quân Mỹ đang bổ_sung các gói đối_kháng điện_tử phòng_thủ kết_hợp ( IDECM ) cho tiêm_kích F/A-18E / F , giúp nó tăng_cường đáng_kể uy_lực tác_chiến điện_tử .
+Boeing có_thể dễ_dàng trang_bị các tổ_hợp điện_tử hiện_đại hơn cho khung máy_bay F/A-18E / F như ALQ-239 , hoặc biến_thể của Hệ_thống Cảnh_báo chủ_động / thụ_động cho tiêm_kích F-15 Eagle ( EPAWSS ) sắp ra_mắt .
+Cả hai hệ_thống đều có radar cảnh_báo tích_hợp , định_vị địa_lý , nhận_thức tình_huống chiến_trường và nhiều tính_năng tự bảo_vệ , tương_đương với hệ_thống AN/ASQ-239 của F-35 .
+Ngoài_ra , biến_thể Super_Hornet tối_tân có_thể được trang_bị hệ_thống cảnh_báo , hỗ_trợ và tình_báo điện_tử ALQ-218 của EA-18G Growler .
+Đây là công_cụ thu_thập tình_báo điện_tử uy_lực hơn hệ_thống AN/ASQ-239 , giúp sĩ_quan tác_chiến điện_tử trên EA-18G phân_tích tín_hiệu chưa xác_định và gây nhiễu , ngay cả khi mối đe_dọa không có trong kho dữ_liệu về mối đe_dọa của máy_bay .
+Đó là việc mà phi_công trên F-35 không_thể thực_hiện .
+Tuy_nhiên , hệ_thống ALQ-218 là trang_bị quá mức cần_thiết với một tiêm_kích không chuyên về tác_chiến điện_tử .
+Super_Hornet không có hệ_thống chỉ_thị mục_tiêu quang điện_tử kết_hợp ( EOTS ) như F-35 , nhưng nó có_thể mang theo nhiều thiết_bị cảm_biến tối_tân .
+Việc mang theo pod chỉ_thị mục_tiêu là một ưu_điểm , bởi hệ_thống EOTS đã trở_thành công_nghệ lỗi_thời .
+Chương_trình F-35 sẽ phải khắc_phục các vấn_đề công_nghệ trong cấu_hình Block IV vào đầu thập_niên 2020 .
+Nhưng tiến_trình nâng_cấp hệ_thống đơn_lẻ trên F-35 sẽ phức_tạp hơn nhiều so với nền_tảng thế_hệ 4 của F/A-18E / F , khi pod chỉ_thị mục_tiêu dễ_dàng được thay_thế nhờ tải phần_mềm thích_hợp .
+Do không gặp trở_ngại trong việc phá vỡ thiết_kế tàng_hình , các máy_bay như F/A-18E / F có_thể nâng_cấp , lắp thiết_bị cảm_biến mới dễ_dàng hơn nhiều so với F-35 .
+Dù_vậy , F-35 nắm giữ ưu_thế vượt_trội khi hoàn_thành quá_trình phát_triển .
+Tiêm_kích này có_thể so_sánh mọi dữ_liệu từ thiết_bị cảm_biến khác_nhau và các mạng dữ_liệu , sau đó hiển_thị thông_tin trên một màn_hình hiển_thị mạch_lạc và dễ hiểu nhất .
+Hiện_nay mới chỉ tiêm_kích F-22 và F-35 có khả_năng này .
+Tuy_nhiên , hải_quân Mỹ cũng đang nghiên_cứu bổ_sung hệ_thống " cảm_biến dung_hợp " tương_tự cho chiến_đấu_cơ Super_Hornet .
+Quá_trình phát   triển được thực_hiện theo ba giai_đoạn , sau khi nghiên_cứu kinh_nghiệm từ dự_án F-22 và F-35 .
+Một trong những ưu_điểm của thiết_kế thế_hệ 4 là nhà_thiết_kế không phải lo_lắng về việc để lộ vị_trí của máy_bay .
+Tiêm_kích F-35 được trang_bị gói liên_kết dữ_liệu ( datalink ) đa hướng Link-16 trong môi_trường an_toàn , cùng hệ_thống datalink tối_tân ( MAD ) có khả_năng chống chặn thu tín_hiệu trong điều_kiện nguy_hiểm .
+Vấn_đề là không hệ_thống nào đủ khả_năng truyền_tải hết thông_tin do các cảm_biến của F-35 cung_cấp , việc này khiến hải_quân Mỹ đau_đầu .
+Hải_quân đang đầu_tư vào Công_nghệ kết_nối mạng chỉ_thị mục_tiêu chiến_thuật lưu_lượng cao ( TTNT ) cho tiêm_kích EA-18G Growler .
+Hệ_thống này giúp nó dễ_dàng kết_nối với các tiêm_kích Super_Hornet , đặc_biệt khi Mạng_lưới Kiểm_soát hỏa_lực phòng_không kết_hợp ( NIF-CA ) đi vào vận_hành .
+Dù F/A-18E / F chưa bao_giờ là một máy_bay tàng_hình , nó có_thể là giải_pháp tiết_kiệm được 80% chi_phí mua_sắm của hải_quân Mỹ .
+Khi phát_huy được hết tiềm_năng , chúng có_thể thực_hiện được hầu_hết các nhiệm_vụ của biến_thể F-35C , ngoại_trừ tấn_công phủ_đầu , nhiệm_vụ buộc Super_Hornet phải dựa vào các vũ_khí tầm xa .
+Không_quân Mỹ cũng sẽ không hài_lòng , nhưng vẫn phải chấp_nhận tiếp_nhận F/A-18E / F .
+Trong khi đó , thủy_quân_lục_chiến Mỹ sẽ bị ảnh_hưởng nhiều nhất bởi Super_Hornet không có biến_thể cất hạ_cánh thẳng_đứng trên đường_băng ngắn dành cho tàu_đổ_bộ .
+" Động_cơ của ông Trump nhiều khả_năng là nhằm thúc_đẩy sự cạnh_tranh giữa hai ông lớn Boeing và Lockheed_Martin , từ đó tìm cách giảm bớt chi_phí .
+Đây có_lẽ không phải là một đề_xuất nghiêm_túc " , Majumdar nhận_định .
+Tiêm_kích EA-18G Growler của Mỹ đóng tại Nhật_Bản
+Duy_Sơn

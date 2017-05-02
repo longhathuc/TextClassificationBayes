@@ -1,0 +1,47 @@
+Cải_thiện tín_hiệu Wi-Fi trong gia_đình
+Tín_hiệu Wi-Fi trong nhà lâu_lâu xuất_hiện tình_trạng chập_chờn , bạn có_thể thử những cách sau để tăng tốc_độ mạng tại_gia .
+Vị_trí đặt router
+Các vị_trí đặt Wi-Fi router trong gia_đình , bộ phát Wi-Fi để ở nơi thoáng và cao sẽ tối_ưu độ mạnh của sóng .
+Đây là điểm quan_trọng nhưng nhiều người dùng không chú_ý .
+Khi mang một Router về nhà , bạn thường có thói_quen đặt trên bàn_máy tính , nơi cáp mạng đi vào hay góc phòng , và rất nhiều người đặt gần ổ_cắm điện , nơi gắn cùng lúc nhiều thiết_bị điện_tử khác_nhau ...
+Thực_tế , không phải các phòng và không_gian phòng đều được tạo ra bằng nhau .
+Sóng_Wi - Fi sẽ trở_nên yếu hơn khi gặp nhiều vật cản và các bức tường dày ...
+Hoặc thậm_chí , khi có nhiều vật cản , sóng Wi-Fi " va_đập " lẫn nhau dẫn đến triệt_tiêu nhau .
+Hơn thế , khi đặt bộ phát ở nơi có nhiều thiết_bị điện_tử gần nhau sẽ sinh_ra một trường điện_từ gây cản_trở đối_với sóng Wi-Fi .
+Do_đó , bạn cần để_ý vị_trí đặt Wi-Fi Router để phát_huy hết sức_mạnh của nó .
+Theo hướng_dẫn từ các chuyên_gia , sóng Wi-Fi sẽ tốt hơn khi được đặt ở vị_trí thông_thoáng nhất hoặc trên một chiếc kệ cao .
+Tránh để router ở góc phòng , sẽ dễ gây ra hiện_tượng triệt_tiêu sóng và giảm tín_hiệu .
+Hơn hết , không để gần các thiết_bị điện_tử khác trong nhà … đảm_bảo cho tín_hiệu Wi-Fi ổn_định .
+Cập_nhật phần_mềm
+Đây là điều mà đa_số người dùng ít thực_hiện với modem của mình kể từ khi lắp_đặt sử_dụng .
+Các nhà_sản_xuất đều đưa ra những bản cập_nhật cho thiết_bị của họ nhằm giúp tối_ưu_hoá khả_năng thu và phát_sóng ổn_định hơn .
+Tuy_nhiên , rất ít người_làm theo và tỏ ra làm_ngơ bởi " đang sử_dụng bình_thường thì cần gì phải nâng_cấp " .
+Suy_nghĩ đó hoàn_toàn sai , bởi chăm_sóc cho thiết_bị đúng cách thì nó mới phát_huy hết sức_mạnh và một trong số đó là phải cập_nhật phần_mềm để nhận được hiệu_suất tốt hơn .
+Hầu_hết các modem mới đều có nút nâng_cấp phần_mềm trong trình quản_trị , người dùng có_thể truy_cập vào đó để nâng_cấp .
+Một_số modem cũ yêu_cầu người dùng phải tải về firmware trên website chính_thức của hãng và tiến_hành cập_nhật .
+Việc_làm này tuy có phần rắc_rối đôi_chút , nhất_là các router cũ , nhưng nó sẽ cải_thiện được hiệu_suất làm_việc của thiết_bị , gia_tăng tính an_toàn và bảo_mật cao hơn .
+Thay_đổi ăng - ten
+Ăng - ten đẳng_hướng giá từ 300 tới 1 triệu đồng .
+Đây cũng là một tuỳ chọn đáng chú_ý nhằm cải_thiện khả_năng phát tín_hiệu của Wi-Fi .
+Nhiều mẫu router hiện_nay đa_phần được các nhà_sản_xuất tích_hợp ăng - ten đa hướng và thường không có phạm_vi phủ_sóng cao .
+Vì_vậy , hãy mua thêm một ăng - ten đẳng_hướng và thay_thế cho chiếc ăng - ten nguyên_bản của router .
+Ăng - ten đẳng_hướng sẽ giúp giải_quyết bài_toán tăng_cường tín_hiệu ở mức cao hơn và truyền thẳng tới một vị_trí nhất_định trong nhà bạn , tránh tình_trạng phát tín_hiệu đi xa ngoài khoảng_không , nhất_là khi đặt modem trong góc nhà thì tín_hiệu sẽ đi ra ngoài sân vườn … Giá của những ăng - ten đẳng_hướng chính hãng dao_động ở mức 300 nghìn đồng đến 1 triệu đồng .
+Thay_đổi kênh
+Nếu từng sử_dụng máy_bộ_đàm , bạn sẽ biết rằng nếu bộ_đàm không hoạt_động trên cùng một kênh thì sẽ không_thể nghe thấy người kia nói_gì , hay nếu " đụng " phải một kênh khác , bạn có_thể nghe lén các cuộc nói_chuyện của người khác trên một hệ_thống kênh hoàn_toàn khác_biệt .
+Tương_tự như_vậy , có_thể nói tất_cả router hiện_đại là đa kênh , vì_vậy chúng có_thể chuyển_đổi giữa các kênh khác_nhau khi giao_tiếp với thiết_bị của người dùng .
+Thông_thường , bạn có xu_hướng sử_dụng router mặc_định , nhưng nếu mạng không dây lân_cận cũng đang sử_dụng cùng kênh đó hay điện_thoại không dây có cùng tần_số thì bạn sẽ gặp phải tình_trạng tắc_nghẽn tín_hiệu .
+Đối_với những máy_tính sử_dụng Windows , người dùng có_thể xem tất_cả các kênh mà mạng Wi-Fi lân_cận đang sử_dụng .
+Từ dấu_nhắc lệnh ( trong Windows 7 ) , gõ " netsh wlan show all " , sẽ thấy một danh_sách của tất_cả các mạng không dây và các kênh được sử_dụng trong khu_vực lân_cận .
+Hoặc có_thể sử_dụng một phần_mềm thứ_ba , như WifiInfoView để kiểm_tra xem các router lân_cận hoặc Wi-Fi Analyzer trên Android ...
+Từ đó , hãy thay_đổi kênh để nhằm giảm ảnh_hưởng của các thiết_bị đang có chung tần_số .
+Đa_số các modem thường được cấu_hình với 11 kênh và hãy chọn một kênh ít bị tắc_nghẽn nhất và tự chuyển_đổi router phát kênh đó .
+Bạn có_thể tìm thấy thiết_lập này trong giao_diện quản_trị mạng không dây .
+Mặc_dù giao_diện này sẽ khác_nhau tuỳ theo thiết_bị và nhà_sản_xuất , bạn sẽ thường thấy các tùy chọn trong danh_mục cài_đặt không dây cơ_bản .
+Kiểm_soát băng_thông
+Đa_phần router mới ngày_nay đều trang_bị tính_năng quản_lý băng_thông QoS ( Quality of Service ) .
+Việc thiết_lập và quản_lý tốt sẽ giúp bạn quản_lý được băng_thông sử_dụng và cho máy_tính của bạn đạt được hiệu_suất mạnh nhất .
+Giả_sử khi cùng lúc có nhiều máy_tính trong gia_đình truy_cập vào mạng Wi-Fi , băng_thông sẽ được chia_sẻ cho tất_cả máy_tính này .
+Trong đó , một máy_tính của thành_viên trong gia_đình đang sử_dụng các ứng_dụng tiêu tốn băng_thông cao thì sẽ gây ảnh_hưởng đến các máy_tính còn lại .
+Nếu bạn là người thường_xuyên sử_dụng các ứng_dụng yêu_cầu băng_thông cao như trò_chuyện video call , tải các tập_tin lớn ... hãy thiết_lập băng_thông tối_thiểu hoặc tối_đa cho từng máy_tính của các thành_viên trong gia_đình .
+Để thiết_lập , người dùng truy_cập vào trình quản_trị của router và sau đó vào thanh QoS để cài_đặt .
+Đăng_Khôi

@@ -1,0 +1,31 @@
+Đáp_án bài_toán ' truy_tìm kho báu '
+Đây là một bài_toán thật_sự , không phải đố mẹo và có đáp_án đẹp .
+Vị_trí kho báu là một trong 2 điểm tạo thành tam_giác_vuông cân với đại giảng_đường và giếng nước .
+Bắt_đầu_từ khu cổ mộ , đi thẳng về hướng đại giảng_đường , sau đó rẽ trái 90 độ và đi bằng đúng cự_ly đã đi , đánh_dấu điểm đó là điểm thứ 1 .
+Lại bắt_đầu_từ khu cổ mộ , đi thẳng về hướng của giếng nước , rẽ phải 90 độ và đi bằng đúng cự_ly đã đi , đánh_dấu điểm đó là điểm thứ 2 .
+Kho báu được chôn ở ngay giữa hai điểm này .
+Rủi thay , khi nhóm bạn đến địa_điểm chôn kho báu thì khu cổ mộ đã không còn dấu_tích , chỉ có_thể tìm ra đại giảng_đường và cái giếng .
+Làm cách nào tìm ra kho báu ?
+Giải :
+Về nguồn_gốc của bài_toán , nguồn xa nhất mà tôi truy_tầm được là từ một kỳ thi của IIT Delhi 1991 – 1995 .
+Đến năm 2008 , bài_toán được in trong quyển One_Two_Three ... Infinity : Facts and Speculations of Sciencecủa tác_giả George_Gamow ( Dover_Books on Mathematics ) .
+Và đến giai_đoạn 2010-2011 , bài_toán được sử_dụng trong vài kỳ thi tuyển_dụng ở các công_ty tin_học , từ đó trở_nên phổ_biến hơn .
+Đây là một bài_toán thật_sự , không phải đố mẹo và có đáp_án đẹp .
+Vị_trí kho báu là một trong 2 điểm tạo thành tam_giác_vuông cân với đại giảng_đường và giếng nước .
+Chúng_tôi đã nhận được nhiều lời_giải đúng cho bài_toán cũng_như nhiều lời_giải khá lý_thú .
+Một_số bạn ngộ_nhận đây là toán_đố nên cho rằng khi đã đến địa_điểm kho báu rồi thì không cần tìm nữa , thật_sự không phải vậy , vì theo đề thì nhóm bạn mới đến được vùng_đất có chôn kho báu và bản_đồ là để chỉ ra vị_trí của nơi chôn kho báu .
+Một_số bạn nêu ra đề chưa chính_xác , “ đi thẳng về hướng đại giảng_đường , sau đó rẽ trái 90 độ và đi bằng đúng cự_ly đã đi , đánh_dấu điểm đó là điểm thứ 1 ” là đi đến giảng_đường mới rẽ hay giữa đường đã rẽ .
+Đây quả_thật là thiếu_sót của chúng_tôi vì ý của đề là đi đến vị_trí đại giảng_đường rồi mới rẽ .
+Tuy_vậy , đa_phần độc_giả đã hiểu đúng ý của đề .
+Về cách giải , có nhiều cách , trong đó dễ thấy có_thể sau vài lần thử_nghiệm với các vị_trí bất_kỳ thì bạn_đọc sẽ thấy rằng vị_trí của kho báu luôn độc_lập với vị_trí mộ cổ , nên sẽ tìm ra được hai vị_trí có_thể có kho báu .
+Để chứng_minh bài_toán với vị_trí mộ cổ thay_đổi thì trung_điểm của 2 điểm đánh_dấu là không đổi đòi_hỏi nhiều thao_tác phức_tạp hơn , trong đó một_số độc_giả đã nêu quan_điểm là sử_dụng số_phức ( đây cũng chính là lời_giải được George_Gamow sử_dụng ) .
+Trong lời_giải này , chúng_tôi giới_thiệu một_cách giải bằng phương_pháp tọa_độ khá đơn_giản như sau .
+Chúng_ta hoàn_toàn có_thể “ định_vị ” lại tọa_độ của địa_điểm tìm kho báu sao cho khu đại giảng_đường là ở gốc tọa_độ và trục_tung sẽ là trục từ giảng_đường đến vị_trí của giếng nước , xem khoảng_cách đơn_vị chính là khoảng_cách từ đại giảng_đường đến giếng nước .
+Trong hệ tọa_độ này , vị_trí của đại giảng_đường là ( 0 , 0 ) và giếng nước sẽ là ( 0 , 1 ) .
+Gọi vị_trí chưa biết của khu mộ cổ là ( x , y ) .
+Giả_sử x > 0 và y > 0 , ta có_khi đi từ khu mộ cổ tới đại giảng_đường , rẽ trái 90 độ bằng đúng cự_ly đó sẽ tương_ứng với điểm 1 có tọa_độ là ( y , - x ) .
+Đi từ khu mộ cổ tới giếng nước , rẽ phải 90 độ bằng đúng cự_ly đó ta sẽ có điểm 2 có tọa_độ là ( 1 - y , x +1 ) .
+Do_vậy , trung_điểm của điểm 1 và điểm 2 , tức vị_trí kho báu , sẽ bằng 1/2 ( y + 1 - y , - x + x +1 ) = ( 1/2 , 1/2 ) , không phụ_thuộc vào ( x , y ) .
+Với các giá_trị khác , ta xác_định vị_trí có_thể có thứ 2 của kho báu là ( - 1/2 , - 1/2 ) .
+Hay nói cách khác , hai vị_trí có_thể có_của kho báu kết_hợp với vị_trí của giảng_đường và giếng nước sẽ tạo thành một hình_vuông có đường_chéo là đoạn nối giảng_đường và giếng nước .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

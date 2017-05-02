@@ -1,0 +1,17 @@
+Tiết_kiệm xăng nhờ lái_xe không rẽ trái
+Dựa trên những tính_toán khoa_học , tài_xế của hãng giao_nhận hàng_hóa UPS ( Mỹ ) tiết_kiệm hàng triệu USD nhờ việc tránh rẽ trái khi lái_xe .
+Thật khó hình_dung việc lái_xe ngày_nay sẽ không còn tình_huống rẽ trái trên đường_phố .
+Tuy_nhiên , câu_chuyện khó tin nhưng có thật này đang diễn ra tại hãng giao_nhận hàng_hóa UPS , nơi các nhân_viên giao hàng điều_khiển ôtô không_bao_giờ rẽ trái ( trừ trường_hợp bắt_buộc ) .
+Hành_động của các tài_xế UPS không phải do mê_tín , liên_quan đến công_việc giao hàng hoặc ngại đi qua các ngã tư đông người .
+Điều đó xuất_phát từ những tính_toán khoa_học , cho_phép tài_xế xác_định chặng đường ngắn nhất từ điểm A đến điểm B , với mức tiêu_hao nhiên_liệu tốt nhất .
+Phần_mềm định_tuyến của UPS chỉ ra một quy_luật , với cùng hành_trình giữa hai điểm đầu và cuối , lái_xe chỉ rẽ phải tiết_kiệm nhiên_liệu hơn cách đi thông_thường .
+Tất_cả các tài_xế của UPS đều thực_hiện theo nguyên nguyên_tắc này khi lái_xe .
+Hãng này cho_biết , khi áp_dụng cách làm trên từ 2004 , UPS tiết_kiệm hàng triệu lít nhiên_liệu , giảm_phát thải hơn 20.000 tấn carbonic , giao thêm được 350.000 gói hàng so với việc lái_xe thông_thường .
+Nhưng đây là lý_lẽ của UPS .
+Các phóng_viên của   Mythbusters ,   chương_trình nổi_tiếng về giải_trí - khoa_học , phát_sóng trên kênh Discovery_Channel của Mỹ , tiến_hành thử_nghiệm lập_luận của UPS .
+Kết_quả : lái_xe chỉ rẽ phải tiết_kiệm hơn lái_xe rẽ trái / phải .
+Xe chỉ rẽ phải ( trừ trường_hợp bắt_buộc rẽ trái ) di_chuyển quãng đường   dài hơn , thời_gian hoàn_thành lâu hơn , nhưng tiêu_hao nhiên_liệu ít hơn so với xe rẽ trái / phải .
+Đó là điều UPS muốn hướng đến .
+Các tài_xế UPS chấp_nhận bỏ_qua các ngã tư , tăng thêm thời_gian hoàn_thành quãng đường so với cách đi thông_thường .
+Nhưng bù lại giảm thời_gian chờ_đợi ( điều có_thể gây tốn nhiên_liệu không cần_thiết ) , dành điều đó cho những lần rẽ tiếp_theo .
+Phạm_Trung Theo Travel + Leiser

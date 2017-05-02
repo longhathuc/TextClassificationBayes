@@ -1,0 +1,9 @@
+Thử_thách trí thông_minh với bài_toán ' rửa bát thuê '
+Bài_toán về một chàng_trai đi_rửa bát thuê trong đề thi đánh_giá năng_lực tư_duy dành cho học_sinh lớp 5-6 .
+Hãy suy_luận và đưa ra câu trả_lời .
+Dick nhận rửa bát thuê cho một nhà_hàng .
+Mỗi chiếc bát được rửa sạch , chủ nhà_hàng sẽ trả 3 USD .
+Nhưng nếu Dick làm vỡ , ông chủ sẽ không trả tiền và bắt_đền 9 USD .
+Hết kỳ nghỉ , Dick đã rửa 500 cái bát và nhận lương 1.368 USD .
+Hỏi_Dick đã làm vỡ bao_nhiêu cái bát ?
+Thanh_Tâm

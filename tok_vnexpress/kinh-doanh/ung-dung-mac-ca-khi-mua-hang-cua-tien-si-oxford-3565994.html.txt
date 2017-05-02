@@ -1,0 +1,43 @@
+Ứng_dụng ' mặc_cả ' khi mua hàng của tiến_sĩ Oxford
+Là tiến_sĩ cơ_học đất của Đại_học Oxford ( Anh ) , nhưng Ngô_Trần_Công_Luận lại yêu_thích kinh_doanh và vẫn tiếp_tục khởi_nghiệp với ứng_dụng mua hàng trả_giá khi đã ổn_định với công_ty về bất_động_sản .
+Xuất_thân từ một cậu_bé nghèo ở Long_An , Luận đỗ xuất_sắc vào Đại_học Bách_khoa TP_HCM và tự học ngoại_ngữ để giành học_bổng du_học .
+Ra trường với tấm bằng tiến_sĩ cơ_học đất của Đại_học Oxford ( Anh ) , anh quyết_định về nước dù có nhiều lời mời ở lại làm_việc của các công_ty sở_tại .
+Đến nay , đã tròn 20 năm kể từ ngày anh quyết_định lập_nghiệp trên quê_hương .
+Thế_nhưng , anh Luận đã có những ngày khởi_đầu không mấy suôn_sẻ .
+Cầm tấm bằng tiến_sĩ đi tìm việc , anh không ít lần bị các công_ty từ_chối .
+Những năm đầu trở_về , anh tự nhận mình “ làm_công không ngơi_nghỉ ” , từ bán hàng cho một công_ty sơn đến gia_công phần_mềm với bạn_bè .
+Sau 4 năm làm_thuê và bén duyên với công_nghệ_thông_tin , anh quyết_định khởi_nghiệp bằng một trang thương_mại_điện_tử về giao_dịch nhà_đất , một ý_tưởng còn “ tươi mới ” vào đầu những năm 2000 .
+Thế_nhưng , lợi_thế đó không giúp sàn giao_dịch phất lên mà_còn suýt ” sập_tiệm ” .
+Anh phải định_hướng lại công_ty , phát_triển thêm các mảng tiếp_thị , tư_vấn , nghiên_cứu thị_trường và cả đầu_tư nhà_đất để vượt qua giai_đoạn đóng_băng của thị_trường .
+Ở tuổi trung_niên , khi thị_trường nhà_đất phục_hồi và sự_nghiệp đã ổn_định , anh Luận vẫn lao vào khởi_nghiệp và đang rất hào_hứng với   “ đứa con " mới của mình sau 5 năm xây_dựng .
+Đó là một ứng_dụng “ không giống ai ” , một sàn thương_mại_điện_tử cho_phép người bán và người mua trò_chuyện trực_tuyến để trả_giá , có tên Hago.me .
+Đối_với anh Luận , mua hàng qua mạng cho trả_giá là một hình_thức giao_dịch " văn_minh " .
+“ Việc buôn_bán hiện_giờ cứng_nhắc lắm .
+Nó được giả_định là tất_cả các shop đều lấy một món hàng , đều có cơ_sở giá , động_lực giá_như nhau .
+Trong khi đó , sự_thật không như_vậy .
+Anh có 5 nhân_viên nhưng cả 5 rảnh hết thì anh có động_lực bán khác cửa_hàng bên_cạnh với 10 nhân_viên nhưng tất_cả đều bận .
+Vì_thế , tôi nghĩ ra ứng_dụng trả_giá này để tận_dụng các động_lực đó , giúp người mua hưởng lợi ” , tiến_sĩ Luận phân_tích nguyên_nhân .
+Anh Luận nảy ra ý_tưởng từ năm 2011 nhưng hàng_loạt phiên_bản đầu đều thất_bại .
+Về sau , anh tinh_gọn lại ý_tưởng với trọng_tâm là cho_phép thương_lượng giá ẩn_danh trong 120 phút .
+Cụ_thể , sau khi cài ứng_dụng , khách_hàng đăng tìm sản_phẩm mình cần , các nhà_cung_cấp sẽ vào chào_giá .
+Khách_hàng có_thể chọn nhà_cung_cấp và trò_chuyện trực_tuyến để thỏa_thuận mức giá .
+Cả hai phía đều ẩn_danh trước khi đơn hàng được chốt .
+“ Họ không biết người mua và đối_thủ là ai nên họ sẵn_sàng hạ giá_mà không ngại .
+Nếu họ lên mạng công_bố giảm_giá thì đối_thủ và nhà_sản_xuất sẽ thấy nên họ không dám làm .
+Kiểu này giống như , sáng ra bạn muốn bán giá thấp một món để chạy hàng_đầu ngày vậy .
+Thực_tế , cùng một sản_phẩm nhưng với mỗi cửa_hàng , mỗi người bán lại có cơ_cấu thành giá đến tay người tiêu_dùng khác_nhau , trong những thời_điểm khác_nhau ” , anh Luận cho_biết .
+Ứng_dụng của anh Luận chỉ mới có_mặt trên Apple_Store đầu tháng này , hiện có 5.000 sản_phẩm từ 500 cửa_hàng .
+Dự_kiến , trong tháng tới , số sản_phẩm sẽ tăng gấp đôi , với các ngành_hàng như điện_thoại , điện_tử - điện_lạnh , đồ_dùng nhà_bếp , nhà_đất và ôtô .
+Mục_tiêu của anh là thu_hút được 100.000 cuộc trả_giá trong 3 tháng đầu .
+Với mỗi cuộc trả_giá , người mua không mất khoản phí gì .
+Anh kiếm tiền bằng cách thu phí người bán khi muốn vào chào_giá .
+Cùng_với đó , anh nhận thêm một khoản hoa_hồng nếu giao_dịch thành_công .
+“ Giờ anh mua cái máy_lạnh hiệu D mới thì ai giao , ai bán với anh không quan_trọng .
+Trong thị_trường sẽ có một thành_phần mà họ tự_tin là mua cái máy_lạnh mới thì miễn có nhãn đúng , có bảo_hành của nhà_sản_xuất là họ cứ mua thôi ” , anh Luận định_vị đối_tượng khách_hàng của mình , đồng_thời cho_biết hàng_hóa trên ứng_dụng của mình có_thể thấp hơn từ 5% đến 10% so với giá thị_trường .
+Đôi_khi , món hàng có_thể hạ giá được 20% đến 30% .
+Trả_lời câu_hỏi vì_sao lại đi ngược xu_hướng niêm_yết giá công_khai mà chọn cách trả_giá như kiểu “ chợ ” , anh Luận cho rằng cách làm của mình là kiểu " trả_giá văn_minh ” .
+“ Tôi nghĩ thói_quen trả_giá này rất văn_minh , hiện_đại .
+Nó tiện vì không cần lang_thang trên mạng để tìm hàng rồi đối_chiếu giá .
+Cái này giống như bạn đi ra cửa_hàng , bạn đối_thoại trực_tiếp với người bán .
+Nó là cách giao_tiếp để mua hàng rất ' con_người ' dù trong không_gian mạng , khác với việc bạn nói_chuyện với Google , với máy_móc , với các kệ hàng và giỏ hàng ảo … ” , anh Luận nhấn_mạnh và cho rằng mình may_mắn vì nhiều nghiên_cứu cho thấy , người dùng smartphone đang ngày_càng thích trò_chuyện ( chat ) trực_tuyến với nhau .
+Viễn_Thông

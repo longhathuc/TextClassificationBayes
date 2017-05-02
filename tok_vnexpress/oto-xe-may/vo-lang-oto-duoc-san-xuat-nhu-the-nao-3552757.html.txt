@@ -1,0 +1,4 @@
+Vô-lăng ôtô được sản_xuất như_thế_nào ?
+Sau khi đưa vào khuôn đúc để tạo khung chuẩn , vô-lăng tiếp_tục được ép nhựa và hoàn_thiện bằng các thao_tác thủ_công cũng_như hỗ_trợ từ robot .
+Kim_loại được nung chảy dưới nhiệt_độ cao và đưa vào khuôn đúc để tạo_hình ban_đầu cho vô - lăng .
+Chất_liệu sử_dụng chủ_yếu từ hợp_kim nhôm hoặc magie có độ bền cao .

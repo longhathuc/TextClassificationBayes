@@ -1,0 +1,11 @@
+Tài_khoản mạng xã_hội của Mark_Zuckerberg lại bị hack
+Lần thứ_hai trong năm , nhóm hacker OurMine đã truy_cập vào tài_khoản Pinterest của ông chủ Facebook và thay_đổi nội_dung trên đó .
+Ngày 15/11 , phần giới_thiệu trên tài_khoản   Pinterest của Zuckerberg xuất_hiện dòng chữ : " Đừng lo , chúng_tôi chỉ kiểm_tra khả_năng bảo_mật thôi " .   OurMine không tiết_lộ bằng cách nào họ nắm trong tay thông_tin đăng_nhập tài_khoản của người đứng đầu Facebook .
+Nhóm hacker này nổi_tiếng với việc khai_thác và để lại thông_điệp trên các tài_khoản của người nổi_tiếng như CEO Google_Sundar_Pichai , nhà_sáng_lập Uber_Travis_Kalanick ...   Họ cho_biết mục_tiêu là để các nạn_nhân tìm đến và sử_dụng dịch_vụ bảo_mật của mình .
+CNet cho_hay , OurMine còn gửi email cho trang công_nghệ này tên và mật_khẩu tài_khoản Twitter của Zuckerberg dù ông chủ Facebook đã áp_dụng mật_khẩu hai lớp sau vụ hack đầu_tiên .
+Hồi tháng 6 , OurMine tìm thấy thông_tin đăng_nhập của Mark_Zuckerberg trong cơ_sở_dữ_liệu bị rò_rỉ của mạng xã_hội LinkedIn từ năm 2012 .
+Từ thông_tin này , OurMine truy_cập vào tài_khoản Twitter cũng_như Pinterest của Zuckerberg và đăng thông_điệp : " Tài_khoản bị hack bởi nhóm OurMine " .
+Phát_hiện của hacker cho thấy người đứng đầu mạng xã_hội lớn nhất thế_giới đã mắc những lỗi sơ_đẳng khi tham_gia các dịch_vụ Internet .
+Thứ nhất , ông dùng chung một mật_khẩu cho nhiều tài_khoản khác_nhau .
+Thứ_hai , mật_khẩu của ông quá đơn_giản : dadada .
+Xem thêm :   Mật_khẩu tài_khoản mạng của ông chủ Facebook là dadada

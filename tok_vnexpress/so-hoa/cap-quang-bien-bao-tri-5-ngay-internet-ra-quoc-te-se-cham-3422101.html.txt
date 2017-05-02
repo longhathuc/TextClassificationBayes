@@ -1,0 +1,11 @@
+Cáp_quang biển bảo_trì 5 ngày , Internet ra quốc_tế sẽ chậm
+Tuyến cáp_quang biển AAG dự_kiến được bảo_trì từ ngày 22/6 đến 27/6 , khiến kết_nối Internet ra quốc_tế bị chậm trong khoảng thời_gian này .
+Hệ_thống cáp_quang biển Asia_America_Gateway , được bảo_trì 5 ngày trong tuần tới , có_thể sẽ làm ảnh_hưởng đến tốc_độ kết_nối của các dịch_vụ có máy_chủ đặt ngoài lãnh_thổ Việt_Nam như Facebook , Google ... còn việc truy_cập đến các trang trong nước vẫn bình_thường .
+Đến ngày 27/6 , quá_trình bảo_trì sẽ hoàn_tất .
+Ảnh minh_họa .
+AAG là hệ_thống cáp_quang biển dài 20.000 km kết_nối khu_vực Đông_Nam Á với bờ tây nước Mỹ , đi qua Thái_Bình_Dương và các đảo Guam và Hawaii .
+Có 4 công_ty Việt_Nam tham_gia đầu_tư vào dự_án này gồm FPT Telecom , Viettel , VNPT , SPT , trong tổng_số 19 công_ty cùng xây_dựng .
+Kể từ khi đi vào hoạt_động năm 2009 , tuyến cáp này đã không ít lần gặp sự_cố , ảnh_hưởng nhiều đến người dùng bởi đây là tuyến Internet quốc_tế chủ_yếu của Việt_Nam .
+Trong đó , đứt cáp hay xảy_ra nhất tại đoạn Hong_Kong đến Singapore .
+Các phân_đoạn Hong_Kong đi Philippines và Philippines đi Mỹ ổn_định hơn .
+Lần gần nhất AAG được bảo_trì là đầu tháng 3/2016 .

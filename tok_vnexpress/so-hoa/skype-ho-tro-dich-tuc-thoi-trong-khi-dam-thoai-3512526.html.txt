@@ -1,0 +1,10 @@
+Skype hỗ_trợ dịch tức_thời trong khi đàm_thoại
+Nền_tảng trò_chuyện của Microsoft cho_phép dịch 9 ngôn_ngữ theo thời_gian_thực trong khi người dùng liên_lạc .
+Skype_Translator đã hỗ_trợ dịch trong khi đàm_thoại với bất_kỳ cuộc_gọi nào .
+Tính_năng   Translator ( dịch ) được Microsoft thử_nghiệm từ năm 2014 giữa hai người dùng Skype .
+Đến nay , công_ty phần_mềm Mỹ tiếp_tục triển_khai công_nghệ này cho tất_cả các cuộc đàm_thoại , kể_cả khi đầu dây bên kia không dùng Skype .
+Để sử_dụng Skype_Translator , người dùng mở phần quay số , thực_hiện cuộc_gọi và bấm vào nút " Translator " .
+Hiện công_cụ của Microsoft hỗ_trợ chín ngôn_ngữ gồm tiếng Anh , Tây_Ban_Nha , Pháp , Đức , Trung_Quốc , Italia , Bồ_Đào_Nha , Ả Rập và tiếng Nga .
+Dịch tức_thời trên Skype sử_dụng trí_tuệ_nhân_tạo với công_nghệ automatic machine learning nên khả_năng dịch ngày_càng thông_minh , gần_gũi với ngôn_ngữ_tự_nhiên .
+Bạn có_thể tải về công_cụ Skype_Preview với chức_năng dịch thông_qua Windows_Insider .
+Video : Microsoft

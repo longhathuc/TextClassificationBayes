@@ -1,0 +1,21 @@
+Nhiều thẻ ATM của khách_hàng Vietcombank bị khóa
+Phát_hiện nhiều ATM bị tin_tặc gắn thiết_bị ăn_cắp thông_tin thẻ nên Vietcombank đã chủ_động yêu_cầu khách_hàng đổi lại mã PIN và khóa thẻ để đảm_bảo an_toàn .
+Sáng 13/10 , tại TP_HCM , nhiều khách_hàng của Ngân_hàng Ngoại_thương ( Vietcombank ) cho_biết không_thể sử_dụng thẻ ATM .
+Khi cho thẻ vào ATM , họ nhận được thông_báo thẻ đã bị khóa .
+Trường_hợp này cũng xảy_ra trên diện rộng với nhiều khách_hàng khác .
+Trao_đổi với báo_chí , bà Nguyễn_Thị_Thanh_Hằng - Giám_đốc Trung_tâm thẻ Vietcombank cho_biết , những trường_hợp bị khóa thẻ đã được thông_báo từ trước đó bằng tin nhắn chứ không phải " bỗng_nhiên " .
+Bà thông_tin , Vietcombank đã gửi tin nhắn tới từng khách_hàng ( thuộc diện khuyến_cáo ) thay_đổi mã PIN do phát_hiện có tình_trạng nhiều ATM bị tin_tặc gắn thiết_bị skimming ( một bảng nhựa trong đó chứa thiết_bị lấy cắp thông_tin thẻ , được ốp phía ngoài khe quẹt thẻ ) .
+Không_những giao_dịch tại ATM bị gắn skimming , các khách_hàng còn không chủ_động lấy tay che khi thao_tác nhập mã PIN , điều này khiến kẻ_gian ăn_cắp được thông_tin thẻ ( do có gắn camera nhỏ ở phía trên máy ) .
+Nhiều thẻ ATM của khách_hàng Vietcombank bị khóa thẻ và đã được thông_báo trước bằng tin nhắn .
+" Hằng ngày , Vietcombank có hệ_thống quản_trị rủi_ro và có monitor kiểm_soát các giao_dịch của khách_hàng .
+Với những trường_hợp được đánh_giá có nguy_cơ lộ thông_tin , chúng_tôi đã thông_báo bằng tin nhắn đến họ để đảm_bảo an_toàn cho chủ thẻ chứ không phải bỗng_nhiên khóa " , bà Hằng thông_tin thêm .
+Vị đại_diện Vietcombank cho_biết , các " mánh " của tin_tặc ngày_càng tinh_vi với những thiết_bị skimming và camera ngày_càng nhỏ nên khó phát_hiện .
+Số khách_hàng thuộc diện phải đổi mã PIN tại Vietcombank cũng khá nhiều , chủ_yếu ở TP_HCM , Quảng_Ninh , Hải_Phòng .
+Giám_đốc trung_tâm thẻ này cũng khuyên khách_hàng khi rút_tiền nên chủ_động dùng tay để che thao_tác nhập mã PIN .
+Trong trường_hợp lấy_được thông_tin thẻ qua thiết_bị skimming , kẻ_gian vẫn sẽ không_thể chiếm được tài_khoản và rút_tiền nếu_không có mã PIN .
+" Việc khóa thẻ là sự chủ_động của ngân_hàng nhằm quản_trị rủi_ro cho khách .
+Sắp tới Vietcombank sẽ phối_hợp với Ngân_hàng Nhà_nước và Hiệp_hội thẻ để có truyền_thông hướng_dẫn khách_hàng đảm_bảo an_toàn thông_tin thẻ " , bà Hằng nói thêm .
+Trước đó , phương_thức trộm tiền qua thiết_bị skimming lắp tại ATM cũng đã được Đại_tá Trần_Văn_Doanh - Đại_diện Cục cảnh_sát phòng , chống tội_phạm sử_dụng công_nghệ_cao Bộ Công an ( C50 ) cảnh_báo tại Hội_nghị về an_toàn thanh_toán gần đây .
+Vị này cho_biết , sau khi lấy_được thông_tin thẻ ngân_hàng và mã PIN , các đối_tượng sẽ sử_dụng thiết_bị làm giả thẻ ngân_hàng thông_qua phần_mềm chuyên_dụng và thiết_bị đọc và in dữ_liệu thẻ từ được bán trên mạng internet rồi rút_tiền tại các máy ATM .
+Năm 2014 , 2015 Cục C50 đã phát_hiện , thông_báo và kiến_nghị Ngân_hàng Nhà_nước yêu_cầu các ngân_hàng thương_mại kiểm_tra , lắp_đặt phần_mềm và thiết_bị anti - Skimming tại cây ATM .
+" Thế_nhưng vẫn còn nhiều ATM chưa được cài_đặt thiết_bị anti - skimming hoặc lắp thiết_bị này nhưng để ở chế_độ không chống được_việc trộm_cắp thông_tin thẻ " , đại_diện C50 nói .

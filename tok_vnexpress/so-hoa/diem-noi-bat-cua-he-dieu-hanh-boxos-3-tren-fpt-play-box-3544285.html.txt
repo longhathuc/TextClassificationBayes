@@ -1,0 +1,40 @@
+Điểm nổi_bật của hệ_điều_hành BoxOS 3 trên FPT Play_Box
+Giao_diện mới giúp người dùng thao_tác đơn_giản , dễ tiếp_cận và chọn_lựa những chương_trình nội_dung ưa_thích .
+Hệ_điều_hành BoxOS 3 trên FPT Play_Box ra_mắt vào ngày 24/2 với nhiều cải_tiến về mặt hình_thức và nội_dung .
+Trước đó phiên_bản thử_nghiệm hệ_điều_hành này đã được hơn 400 khách_hàng dùng thử và đánh_giá cao .
+Dưới đây là những điểm cải_tiến nổi_bật của hệ_điều_hành BoxOS 3 .
+Gợi_ý các chương_trình hấp_dẫn
+Trên giao_diện mới , khi người dùng truy_cập vào màn_hình trang_chủ , các chương_trình tiêu_biểu của từng chuyên_mục sẽ hiển_thị nổi_bật lên .
+Tại mỗi chuyên_mục sẽ có 12 nội_dung hấp_dẫn đề_xuất trên FPT Play_Box , dựa theo tiêu_chí chọn_lọc thông_minh , thích_hợp cho từng thời_điểm trong năm .
+Cách phát_triển gợi_ý này giúp người dùng có thêm chọn_lựa thích_hợp cho bản_thân .
+Cụ_thể , khi truy_cập vào trang_chủ , đến chuyên_mục Ngoại_hạng Anh , các trận đấu mới nhất của giải sẽ xuất_hiện ngay trên màn_hình để người dùng dễ nhận_biết .
+Hoặc trong mùa Valentine , khi người dùng di_chuyển đến chuyên_mục Phim lẻ lập_tức nhiều bộ phim hay về tình_yêu sẽ được đề_xuất .
+Giao_diện chính hệ_điều_hành BoxOS 3 có các chương_trình nổi_bật được gợi_ý .
+Thể_hiện nội_dung từng chuyên_mục rõ_ràng
+Phần hiển_thị các thông_tin ở các chuyên_mục sắp_xếp cụ_thể và rõ_ràng hơn .
+Khác với thiết_lập cũ , danh_sách các thể_loại phim không còn nằm bên góc trái màn_hình mà thay vào đó là được nằm ngang , trải đều ngay trên màn_hình hiển_thị .
+Những bộ phim mới nhất luôn được FPT Play_Box đặt lên hàng_đầu .
+Người dùng có_thể dễ_dàng di_chuyển đến từng thể_loại phim và khám_phá nhiều phim mới .
+Vào mỗi dịp lễ_hội , hệ_thống FPT Play_Box sẽ lựa_chọn nội_dung và đưa ra chuyên_mục thích_hợp cho người dùng .
+Ví_dụ 2 chuyên_mục được tạo ra gần đây là chuyên_mục Tết và Valentine có đầy_đủ nội_dung đặc_sắc về phim_truyện , hài_kịch , ca_nhạc cho người dùng .
+Tối_ưu sở_thích người dùng
+Hệ_điều_hành BoxOS 3 thiết_lập cho người dùng có khả_năng tùy chỉnh , lựa_chọn , sắp_xếp các danh_sách kênh yêu_thích cho riêng mình .
+Ở chuyên_mục Ngoại_hạng Anh ( Premier_League ) sẽ có thêm nhiều nội_dung tiện_ích về lịch thi_đấu , kết_quả xếp_hạng cho người dùng .
+Khách_hàng có_thể nắm_bắt tất_cả các thông_tin về thể_thao , bóng_đá ngay trên TV mà không cần tra_cứu trên các phương_tiện truyền_thông khác .
+Kho ứng_dụng phong_phú .
+Chọn ứng_dụng hữu_ích
+Hệ_điều_hành BoxOS 3 hỗ_trợ tải và gỡ các ứng_dụng tùy_thích từ kho ứng_dụng lưu_trữ .
+FPT Play_Box cập_nhật thường_xuyên các phần_mềm mới .
+Người dùng an_tâm sử_dụng mà không lo bị các vấn_đề về lỗi như gặp tình_trạng nhiễm virus , TV bị sự_cố vì tải các ứng_dụng không rõ nguồn_gốc .
+Gia_tăng tốc_độ xử_lý
+Hệ_điều_hành giúp FPT Play_Box nâng cao tốc_độ xử_lý giúp ứng_dụng chạy ổn_định , xem phim mượt_mà .
+Khách_hàng có_thể truy_cập vào ứng_dụng Karaoke_Pro để hát các bản_nhạc yêu_thích , xem phim trên truyền_hình , YouTube , nghe nhạc trực_tuyến nhanh_chóng .
+Giao_diện hệ_điều_hành hiện_đại
+Phần hình_ảnh của các thẻ chuyên_mục thiết_kế có độ bóng nhẹ , hệ màu nâng_cấp khiến màn_hình thêm sống_động .
+Màu_sắc giao_diện FPT Play_Box kết_hợp hài_hòa , bắt_mắt và có khả_năng phản_chiếu tốt với ánh_sáng mặt_trời giúp người dùng giảm tình_trạng mỏi_mắt .
+Các nội_dung hấp_dẫn , phong_phú bên trong FPT Play_Box .
+Để cập_nhật BoxOS 3 , người dùng cần khởi_động lại sản_phẩm FPT Play_Box .
+Màn_hình hiển_thị mặc_định của sản_phẩm sẽ ở trang_chủ danh_sách các chuyên_mục có trên FPT Play_Box .
+Khách_hàng có_thể lựa_chọn các nội_dung theo sở_thích dễ_dàng .
+Sản_phẩm FPT Play_Box đang được phân_phối chính hãng tại Shop_Vn Express .
+Minh_Trí

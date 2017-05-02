@@ -1,0 +1,10 @@
+Lỗ_hổng i Message làm lộ lịch_sử tin nhắn
+Lỗi này khi được hacker khai_thác có_thể xem toàn_bộ nhắn_tin của nạn_nhân chỉ sau một cú click , song Apple đã âm_thầm vá lỗ_hổng đó .
+Hình_thức tấn_công này chủ_yếu nhắm đến dịch_vụ i Message trên máy_tính Mac dùng hệ_điều_hành OS X .
+Tuy_nhiên , tin nhắn trên i Phone cũng có nguy_cơ bị lộ nếu người dùng kích_hoạt tính_năng chuyển_tiếp SMS .
+Ban_đầu , hacker gửi một đường link đến địa_chỉ i Message của nạn_nhân .
+Sau khi người dùng bấm vào , kẻ tấn_công đã có_thể khai_thác các cuộc trò_chuyện bao_gồm tin nhắn văn_bản , hình_ảnh hay tin nhắn bằng giọng nói .
+Lỗi trên được phát_hiện bởi nhà_nghiên_cứu   Joe_De Mesy và Shubham_Shah , với sự giúp_đỡ của   Matt_Bryant từ đội bảo_mật của Uber - người đã báo_cáo với Apple về lỗ_hổng này trước khi công_bố chi_tiết phương_thức hack .
+Công_ty công_nghệ Mỹ đã vá lỗi trên và chưa có báo_cáo thiệt_hại nào do lỗ_hổng này gây ra .
+Video khai_thác lỗ_hổng i Message để đọc tin nhắn trên máy nạn_nhân :
+Đình_Nam

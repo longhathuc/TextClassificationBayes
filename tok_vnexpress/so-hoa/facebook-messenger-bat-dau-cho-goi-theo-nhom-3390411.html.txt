@@ -1,0 +1,12 @@
+Facebook_Messenger bắt_đầu cho gọi theo nhóm
+Người dùng Facebook có_thể không cần tìm đến cách dịch_vụ như Skype vì mạng xã_hội lớn nhất thế_giới bắt_đầu hỗ_trợ thực_hiện cuộc_gọi từ nhiều tài_khoản với nhau .
+Tính_năng này được triển_khai trên ứng_dụng Messenger dành cho Android và i OS .
+Người sử_dụng sẽ thấy nút gọi điện nằm ở góc trên cùng bên phải trong mỗi nhóm chat .
+Khi bấm vào , Facebook sẽ cho_phép lựa_chọn gọi hay không gọi những người nào trong một nhóm .
+Hiện mỗi cuộc_gọi nhóm giới_hạn tối_đa 50 người .
+Thử_nghiệm ban_đầu cho thấy chất_lượng đàm_thoại tốt , âm_thanh trong .
+Tuy_nhiên , Messenger chưa hỗ_trợ đàm_thoại hình ( video call ) theo nhóm .
+Cập_nhật mới của Facebook sẽ cạnh_tranh với các dịch_vụ gọi nhóm miễn_phí hiện có như   Google_Hangouts , Microsoft_Skype hay Slack .
+Người dùng thiết_bị Android và i OS sẽ thấy biểu_tượng gọi điện nằm ở góc trên bên phải .
+Khi bấm vào nút gọi , họ có_thể lựa_chọn gọi cho   một_vài   thành_viên trong một nhóm ( tối_đa 50 người ) .
+Những người tham_gia cuộc_gọi sẽ biết được họ đang đàm_thoại với ai , và những_ai bị loại khỏi cuộc_gọi này .

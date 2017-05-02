@@ -1,0 +1,11 @@
+Dự_án phát_triển ' đồng_hồ báo_tử ' dự_đoán tuổi qua_đời
+Các nhà_khoa_học Anh kết_hợp với công_ty bảo_hiểm phát_triển một thuật_toán nhằm tính ra khi nào một người qua_đời dựa trên tiền_sử bệnh_tật và lối sống .
+Theo Telegraph , Đại_học East_Anglia ( UEA ) , Anh , đang tiến_hành chương_trình nghiên_cứu 4 năm sử_dụng cơ_sở_dữ_liệu y_tế khổng_lồ ( Big_Data ) để xác_định tuổi_thọ và bệnh dài ngày .
+Dự_án này nhận được khoản quỹ hỗ_trợ 1,1 triệu USD từ Viện_Chuyên viên Thống_kê và quy_tụ các chuyên_gia từ tập_đoàn bảo_hiểm Aviva của Anh .
+" Mọi người trên khắp thế_giới đang sống lâu hơn " , giáo_sư Elena_Kulinskaya từ Trường_Khoa học Vi_tính trực_thuộc UEA , người đứng đầu nhóm nghiên_cứu " , cho_biết .
+" Chúng_tôi muốn phát_triển công_cụ phần_mềm sử_dụng dữ_liệu Big_Data do cơ_quan chăm_sóc sức_khỏe thu_thập định_kỳ để dự_đoán tuổi_thọ " .
+" Chúng_tôi muốn xác_định và đánh_giá những nhân_tố chủ_chốt ảnh_hưởng tới sự tử_vong và tuổi_thọ , như lối sống , tình_trạng sức_khỏe và can_thiệp y_tế .
+Chúng_tôi đặc_biệt quan_tâm đến việc tìm_hiểu những loại bệnh kinh_niên và phương_pháp điều_trị kèm theo ảnh_hưởng như_thế_nào đến tuổi_thọ " , Kulinskaya nói .
+Trong khi nhiều người không muốn biết họ còn sống được bao_lâu , nhóm nghiên_cứu khẳng_định dự_án sẽ đem lại những lợi_ích thực_tế trong lĩnh_vực tài_chính và y_khoa như giúp mọi người lên kế_hoạch nghỉ hưu và hiểu rõ tác_động của một_số loại thuốc đến tuổi_thọ .
+Ngoài_ra , dự_án cũng rất hữu_ích đối_với các cơ_quan y_tế địa_phương hoặc công_ty bảo_hiểm trong việc lên kế_hoạch phân_bổ nguồn_lực và cung_cấp gói sản_phẩm .
+Phương_Hoa

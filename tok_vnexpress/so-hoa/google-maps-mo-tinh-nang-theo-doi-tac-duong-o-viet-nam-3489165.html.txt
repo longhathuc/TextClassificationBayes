@@ -1,0 +1,16 @@
+Google_Maps mở tính_năng theo_dõi tắc đường ở Việt_Nam
+Dịch_vụ bản_đồ của Google bắt_đầu hiển_thị tình_trạng giao_thông tại một_số thành_phố lớn cho_phép người dùng dễ_dàng hơn trong việc sắp_xếp lộ_trình .
+Dữ_liệu giao_thông của Google_Maps ứng với một tuyến đường .
+Google mới_đây đã bật tính_năng theo_dõi tình_trạng giao_thông cho ứng_dụng bản_đồ tại Việt_Nam .
+Các thành_phố lớn như Hà_Nội , TP_HCM , Hải_Phòng đều hiển_thị mật_độ tham_gia giao_thông ở hầu_hết các tuyến đường lớn .
+Để sử_dụng tính_năng này , người dùng chọn Menu trong ứng_dụng Google_Maps ( hình 3 dấu_gạch_ngang bên trái ) và chọn   Traffic .
+Tình_trạng giao_thông được ứng_dụng thể_hiện thông_qua màu_sắc với từng đoạn đường khác_nhau .
+Màu xanh là đường thông_thoáng , màu cam , màu đỏ và đỏ đậm là thể_hiện mức_độ tăng dần của mật_độ tham_gia giao_thông .
+Người dùng nhờ vậy có_thể kiểm_tra hiện_trạng tắc đường trước khi rời nhà hoặc công_sở để chọn lộ_trình hợp_lý nhất .
+Dữ_liệu tình_trạng giao_thông có ở các tuyến đường lớn .
+Thử_nghiệm nhanh ở một_số tuyến đường cho thấy ứng_dụng thể_hiện khá chính_xác .
+Dữ_liệu được cập_nhật mới sau khoảng 5 phút vào giờ cao_điểm .
+Google hiện chưa công_bố chi_tiết về tốc_độ cập_nhật dữ_liệu đối_với hệ_thống bản_đồ tại Việt_Nam .
+Ở các quốc_gia như Mỹ , Anh , Singapore , Đức ... dữ_liệu được cập_nhật theo thời_gian_thực , đặc_biệt chính_xác vào giờ cao_điểm .
+Ứng_dụng Google_Maps có sẵn trên các smartphone chạy Android trong khi người dùng i OS có_thể tải về miễn_phí trên App_Store .
+Một_số hình_ảnh về dữ_liệu giao_thông của Google_Maps tại Việt_Nam :

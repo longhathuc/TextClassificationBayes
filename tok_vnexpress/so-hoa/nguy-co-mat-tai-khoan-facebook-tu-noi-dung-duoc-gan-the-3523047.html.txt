@@ -1,0 +1,20 @@
+Nguy_cơ mất tài_khoản Facebook từ nội_dung được gắn thẻ
+Lừa người dùng Facebook truy_cập website giả_mạo chứa tiêu_đề gây tò_mò , đồng_thời tự_động gắn thẻ ( auto tag ) nhiều người để chiếm_đoạt tài_khoản là thủ_đoạn không mới nhưng bùng_nổ gần đây .
+Trên_Facebook những ngày vừa_qua , rất nhiều người than_phiền về việc bị làm_phiền bởi những thông_báo gắn thẻ_bài viết .
+Nội_dung bài viết là những tiêu_đề " giật_gân " , gây tò_mò hoặc nội_dung không lành_mạnh , như " Bị chửi bán trái_cây Trung_Quốc , chị bán hàng … " , " Thì_ra đây là thủ_đoạn thâm_hiểm của vợ_chồng … " hay " Đêm tân_hôn , tôi … " .
+Khi bấm vào đó , hoặc sẽ xuất_hiện các website nội_dung sơ_sài , yêu_cầu người dùng phải bấm vào các liên_kết khác mới có_thể xem hết nội_dung .
+Một_số trang thiết_kế giao_diện y_hệt trang đăng_nhập của Facebook , yêu_cầu người dùng phải đăng_nhập mới có_thể xem được .
+Tuy_nhiên , tên_miền của những trang_web này không có dạng Facebook.com .
+Nếu_không để_ý , người dùng có_thể vô_tư đăng_nhập , từ đó lộ tài_khoản cho kẻ xấu mà không hề hay_biết .
+Kẻ xấu đánh_lừa người dùng truy_cập trang_web bằng các tiêu_đề   gây tò_mò , đồng_thời gắn thẻ rất nhiều người .
+Để xem được , bắt_buộc người dùng phải đăng_nhập , và đây cũng là lúc người dùng tự tay đưa tài_khoản Facebook cho kẻ xấu nếu_không để_ý .
+Thực_chất , thủ_đoạn lừa_đảo này không phải mới , từng xuất_hiện nhiều lần trong quá_khứ và cũng đã được nhiều chuyên_gia bảo_mật cảnh_báo .
+Sau khi chiếm_đoạt thành_công , chúng sẽ đăng_nhập và thực_hiện các trò lừa_đảo khác , như nhắn_tin nạp card điện_thoại , nhờ chuyển_tiền …
+Do_đó , cách tốt nhất_là người dùng không nên nhấp vào các liên_kết trên .
+Những liên_kết có dạng " ăn_theo " đều là lừa_đảo , không nên nhấp chuột .
+Đồng_thời , người dùng nên sử_dụng tính_năng báo_cáo bài viết , cũng_như bỏ theo_dõi hoặc chặn tài_khoản đã nhiễm virus ( tài_khoản tag bạn ) nếu cần .
+Trong trường_hợp đã nhấp vào liên_kết , người dùng nên thoát khỏi nó ngay_lập_tức , không được đăng_nhập vào tài_khoản Facebook trên trang_web đó , đồng_thời đổi mật_khẩu ( bằng cách vào Settings > Account_Settings > General > Password ) .
+Để tăng khả_năng bảo_vệ , nên đặt chế_độ bảo_mật 2 lớp để đề_phòng trường_hợp tài_khoản bị đánh_cắp , người dùng vẫn có_thể kiểm_soát đăng_nhập .
+Ngoài_ra , người dùng cũng cần cảnh_giác với các trang_web trò_chơi yêu_cầu đăng_nhập tài_khoản Facebook , nhằm tránh bị đánh_cắp thông_tin phục_vụ cho những mục_đích xấu .
+Nếu một trang_web nào_đó yêu_cầu quá nhiều quyền truy_cập , tốt nhất không nên đăng_nhập vào .
+Bảo_Lâm

@@ -1,0 +1,25 @@
+Tin_tặc Nga có_thể muốn người Mỹ tin cuộc bầu_cử bị hack
+Giới phân_tích cho rằng việc hacker can_thiệp vào quá_trình bầu_cử tổng_thống Mỹ là để gieo_rắc sự hoài_nghi của người_dân về kết_quả bỏ_phiếu .
+Tháng 8/2016 , cơ_sở_dữ_liệu cử_tri tại bang Arizona và Illinois bị đột_nhập , khiến bang Arizona phải đóng hệ_thống đăng_ký tham_gia bầu_cử gần một tuần , trong khi ở bang còn lại , thông_tin của hơn 200.000 cử_tri bị đánh_cắp .
+Theo quy_định , khi đăng_ký , cử_tri phải cung_cấp họ tên , địa_chỉ , giấy_phép lái_xe , thẻ căn_cước và đảng_phái .   Việc hacker thâm_nhập máy_chủ để lấy dữ_liệu cá_nhân của người sử_dụng đã quá quen_thuộc trong kỷ_nguyên Internet , khiến đa_số dân Mỹ chẳng buồn bận_tâm .
+Vì_thế , vụ hack này , cũng_như nhiều vụ khác , ban_đầu thu_hút rất ít sự chú_ý .
+Tuy_nhiên , hai tháng trôi qua , hacker tiếp_tục   tấn_công vào một loạt thành_viên Ủy_ban Quốc_gia Dân_chủ và các cựu quan_chức chính_phủ Mỹ .   Bộ
+An_ninh Nội_địa Mỹ và các công_ty bảo_mật như CrowdStrike đều nhận_định Nga đứng đằng sau những vụ_việc trên .
+Các vụ tấn_công diễn ra đồng_thời với tuyên_bố của ứng_viên Đảng_Cộng hòa Donald_Trump rằng cuộc bầu_cử đã bị sắp_đặt có lợi cho đối_thủ Hilary_Clinton và ông sẽ không công_nhận kết_quả nếu thua cuộc .
+Điều này khiến một_số nhà_phân_tích tin hacker Nga không định đánh sập hệ_thống bỏ_phiếu , mà mục_tiêu của họ là đánh vào niềm_tin của người Mỹ về chế_độ_dân_chủ ,   góp_phần gieo_rắc sự hoài_nghi về một cuộc bỏ_phiếu minh_bạch .
+Ảnh minh_họa :   SocialUnderground
+Việc khống_chế và điều_khiển quầy bỏ_phiếu không hề dễ_dàng .
+Giới_chức Mỹ cho_biết các quầy bỏ_phiếu không được kết_nối Internet .   Hệ_thống vẫn sử_dụng công_nghệ cũ_kỹ , lạc_hậu và có ý_kiến cho rằng đây chính là một lợi_thế giúp nó tránh khỏi những mã độc ra_đời trong kỷ_nguyên Internet of Things .
+Tuy_nhiên , trong ngày bầu_cử , hacker có_thể gây hoang_mang bằng cách   thực_hiện tấn_công từ_chối dịch_vụ ( DDoS ) , khiến thông_tin trên các lá phiếu không_thể xử_lý , làm gián_đoạn quá_trình bỏ_phiếu trong thời_gian ngắn ,   tạo cảm_giác kết_quả bầu_cử không đáng tin_cậy và   khiến cử_tri của cả hai bên không tin kết_quả nếu đối_thủ của họ thắng .
+Chuyên_gia tình_báo Mỹ cũng suy_đoán , Nga khó tấn_công vào cơ_sở_hạ_tầng nhưng sẽ có hành_động phá_hoại trên mạng , như phát_tán tài_liệu , văn_bản giả_mạo hay dùng mạng xã_hội để truyền_bá thông_tin sai_lệch .
+Chẳng_hạn , tuần này , hacker Guccifer2 . 0 đưa thông_tin lên Twitter rằng đảng Dân_chủ sẽ can_thiệp vào kết_quả bầu_cử Tổng_thống Mỹ và kêu_gọi những tin_tặc khác cùng tham_gia giám_sát việc bỏ_phiếu .
+Trước đó , cũng xuất_hiện nhiều thông_tin rằng các máy bỏ_phiếu sẽ bị gian_lận , cài cắm sẵn mã độc dù các quan_chức của cả đảng Dân_chủ và đảng Cộng_hòa đều khẳng_định các máy bỏ_phiếu không được nối_mạng .
+NBC News cho_biết chính_quyền Mỹ đang huy_động mọi nguồn_lực để chống lại những mối đe_dọa từ hacker , được đánh_giá là chưa từng có trong các kỳ bầu_cử Mỹ .
+Hacker_Nga có_thể vẫn dựa vào ba phương_pháp cơ_bản đã tồn_tại từ lâu để tiến_hành tấn_công .
+Thứ nhất , hình_thức lừa_đảo phi kỹ_thuật ( social engineering ) .
+Thay_vì mất_công đột_nhập vào mạng máy_tính , tin_tặc sẽ khai_thác tâm_lý người dùng .
+Chẳng_hạn , để nhắm vào một doanh_nghiệp , hacker có_thể giả_vờ đánh_rơi thẻ nhớ và chờ một nhân_viên vô_tình nhặt lên rồi cắm thử vào máy_tính , hay gửi e - mail với nội_dung dụ_dỗ người dùng bấm vào đường link .   Thứ
+hai , hacker giả_mạo danh_tính của người hoặc tổ_chức có liên_quan đến người nhận e - mail để lừa họ tải file đính kèm , click vào đường_dẫn chứa mã độc ...
+Thứ_ba , người sử_dụng có_thể truy_cập nhầm những site cài cắm sẵn mã độc và có giao_diện giống_hệt trang chính_thống , như giả_mạo Facebook , web ngân_hàng ... khiến họ đánh mất tài_khoản vào tay kẻ xấu .
+Người_Mỹ , và người dùng nói_chung , rất dễ rơi vào những cái bẫy này , trong đó có cả những người liên_quan đến việc tổ_chức bầu_cử .
+Xem thêm :   Hacker có_thể phá_hoại bầu_cử Mỹ như_thế_nào   /   Hacker_Nga kêu_gọi giám_sát bầu_cử Tổng_thống Mỹ

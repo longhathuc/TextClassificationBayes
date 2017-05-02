@@ -1,0 +1,21 @@
+Đáp_án cho bài_toán lớn nhất thế_giới tốn 200 TB dữ_liệu
+Các nhà toán_học quốc_tế đưa ra lời_giải cho bài_toán về bộ ba số_nguyên trong định_lý Pythagore với đáp_án tốn 200 TB dữ_liệu , dài gấp hàng chục_triệu lần độ dài của tiểu_thuyết đồ_sộ nhất thế_giới .
+Năm 1980 , nhà toán_học Ronald_Graham đã đưa ra một bài_toán về bộ ba số_nguyên dương ( a , b và c ) trong định_lý Pythagore a 2 + b2 = c2 .
+Graham đặt câu_hỏi nếu mỗi số_nguyên dương được tô màu xanh hoặc màu đỏ , liệu có cách tô màu nào để không bộ ba số Pythagore ( a , b và c ) nào có cùng màu hay không .
+Graham cũng tuyên_bố sẽ tặng 100 USD ( vào năm 1980 ) cho ai có câu trả_lời .
+Trên thực_tế , bài_toán này không đơn_giản .
+Mỗi số_nguyên dương có_thể nằm trong nhiều bộ ba Pythagore khác_nhau , vì_thế màu_sắc của các số_dương sẽ bị ràng_buộc chặt_chẽ với nhau khi các con_số càng lớn .
+Theo Science_Alert , ba nhà toán_học , Marijn_Heule từ Đại_học Texas , Victor_Marek từ Đại_học Kentucky , và Oliver_Kullmann từ Đại_học Swansea , đã đưa ra lời_giải cho bài_toán của Graham .
+Bằng cách sử_dụng siêu máy_tính Stampede tại Đại_học Texas kết_hợp với nhiều kỹ_thuật tính_toán khác_nhau , các nhà_khoa_học thu_hẹp khả_năng tô màu từ 102.300 nghìn tỷ khả_năng xuống chỉ còn một_nghìn tỷ khả_năng .
+Sau đó , siêu máy_tính với 800 bộ_vi_xử_lý cực mạnh cần tiếp hai ngày để kiểm_tra một_nghìn tỷ khả_năng này , cuối_cùng tìm được cách tô màu để không bộ ba số Pythagore nào có cùng màu với giá_trị lớn nhất_là 7.824 .
+Những số lớn hơn được cho là không có giá_trị phù_hợp .
+Graham cũng giữ lời và tờ séc 100 USD sẽ được trao_tặng cho ba nhà_khoa_học trong tháng này .
+Lời_giải của bài_toán được chứa trong 200 TB dữ_liệu và được đăng tóm_tắt trên tạp_chí ar Xiv.org hôm 3/5 .
+Nếu 1 TB có_thể lưu được 337.920 bản_sao của tiểu_thuyết Chiến_tranh và Hòa_bình , một trong những tiểu_thuyết dài nhất từng được viết , thì 200 TB có_thể chứa được hơn 67 triệu bản của cuốn tiểu_thuyết này .
+200 TB cũng có_thể chứa toàn_bộ các văn_bản của Thư_viện Quốc_hội Mỹ .
+Tuy_nhiên , nhiều ý_kiến cho rằng kết_quả này chưa đủ thuyết_phục .
+Theo tạp_chí Nature , đây mới chỉ là kết_quả liệt_kê của lời_giải , chứ không phải cách giải_quyết vấn_đề .
+Quan_trọng hơn , nó không_thể giải_thích tại_sao các số_từ 7825 trở_lên không thỏa_mãn cách tô màu của Graham .
+Nếu toán_học là những hiểu_biết và tri_thức tiến_bộ về ý_nghĩa của những con_số đối_với con_người và vũ trũ , lời_giải được đưa ra bởi máy_tính mà chúng_ta không hiểu về nó dường_như đi ngược_lại những nguyên_tắc khoa_học .
+Xem thêm :   Tìm thấy số_nguyên_tố lớn nhất từ trước tới nay
+Thanh_Tùng

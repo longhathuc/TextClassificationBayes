@@ -1,0 +1,14 @@
+WhatsApp kích_hoạt mã_hóa đầu_cuối cho hơn một tỷ người dùng
+Ứng_dụng nhắn_tin WhatsApp đã bật tính_năng mã_hóa đầu_cuối cho tất_cả các thành_viên của mình , nhằm đảm_bảo quyền riêng_tư .
+Với phương_thức này , toàn_bộ thông_tin trao_đổi , tập_tin đính kèm hay các cuộc_gọi thông_qua WhatsApp đều được bảo_vệ .
+Mã_hóa đầu_cuối cho_phép người nhận_biết được thông_tin được gửi là gì , nhưng ngay cả các nhà_cung_cấp dịch_vụ như chính WhatsApp cũng không_thể truy_cập vào .
+Thông_báo mã_hóa đầu_cuối được kích_hoạt   cho người dùng WhatsApp .
+" Từ hôm_nay , người dùng sẽ thấy một thông_báo trong màn_hình trò_chuyện cá_nhân hay nhóm chat , cho_biết mã_hóa đầu_cuối được kích_hoạt " .
+đại_diện WhatsApp viết trên blog .
+" Ngoài_ra , tình_trạng mã_hóa của bất_kỳ cuộc trò_chuyện nào cũng có_thể xem trên màn_hình tùy chọn của cuộc hội_thoại đó " .
+Việc áp_dụng mã_hóa đầu_cuối của WhatsApp được đẩy_mạnh sau khi Cục Điều tra Liên_bang Mỹ ( FBI ) và Apple đã phải lôi nhau ra tòa trong vụ bẻ_khóa chiếc i Phone của kẻ khủng_bố .
+Thời_điểm xảy_ra vụ tranh_luận này , nhà đồng sáng_lập WhatsApp , Jan_Koun , thể_hiện sự ngưỡng_mộ và ủng_hộ Apple khi hãng đứng ra bảo_vệ dữ_liệu người dùng .
+Ứng_dụng nhắn_tin này cũng được tiết_lộ sẽ là mục_tiêu tiếp_theo của tòa_án , yêu_cầu hỗ_trợ truy_cập vào các thông_tin trên đó .
+Báo_cáo cho_biết , đội_ngũ gồm 15 kỹ_sư của công_ty đã tham_gia vào việc đưa công_nghệ mã_hóa đầu_cuối đến với tất_cả người dùng .
+Dự_án này được   WhatsApp   triển_khai từ năm 2014 , song vấn_đề tương_thích đa nền_tảng đã khiến việc phổ_cập cho toàn_bộ thành_viên bị chậm_trễ .
+Đình_Nam

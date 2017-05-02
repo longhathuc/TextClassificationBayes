@@ -1,0 +1,29 @@
+Đáp_án bài_toán chia táo có_thể khiến bạn nhầm_lẫn
+Nhiều người chưa đưa ra được đáp_án đúng cho bài_toán này .
+Một_số khác giải bằng phương_pháp lập hệ phương_trình không phù_hợp .
+Đề_bài :
+Một ông bố chia táo cho các con_trai .
+Ông cho người con_trai thứ nhất 1 quả táo và 1/9 số táo còn lại .
+Sau đó , ông cho người con_trai thứ_hai 2 quả táo và 1/9 số táo còn lại , rồi tiếp_tục cho người con_trai thứ_ba 3 quả táo và 1/9 số táo còn lại ...
+Ông cứ chia như_vậy cho_đến người con cuối_cùng .
+Biết tất_cả con_trai ông nhận được số táo như nhau .
+Hỏi ông có bao_nhiêu người con_trai và bao_nhiêu quả táo ?
+Giả_sử ông bố có N người con_trai .
+Người con_trai thứ nhất nhận được 1 quả táo và 1/9 số còn lại .
+Người con_trai thứ_hai nhận được 2 quả táo và 1/9 số còn lại .
+...
+Người con_trai thứ N - 1 nhận được N - 1 quả táo và 1/9 số còn lại .
+Gọi số táo còn lại ở lần này là A .
+Suy ra số táo người con_trai thứ N - 1 nhận được là
+N - 1 + A / 9 .
+Người con_trai thứ N nhận được N quả táo .
+Sau khi chia xong cho người con_trai thứ N - 1 , số táo còn lại chỉ là 8A / 9 quả táo .
+Người con_trai thứ N sẽ nhận nốt số táo này .
+Suy ra N = 8A / 9 .
+Vì số táo tất_cả con_trai ông nhận được bằng nhau nên ta có :
+N - 1 + A / 9 = N .
+Suy ra A = 9 .
+Thay A = 9 vào phương_trình N = 8A / 9 ta được N = 8 .
+Như_vậy , ông bố có 8 người con_trai và mỗi người nhận được 8 quả táo .
+Từ đó suy ra tổng_số táo ông bố có ban_đầu là 8 x 8 = 64 ( quả ) .
+Thanh_Tâm

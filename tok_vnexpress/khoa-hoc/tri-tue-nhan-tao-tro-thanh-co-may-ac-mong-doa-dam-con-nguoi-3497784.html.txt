@@ -1,0 +1,13 @@
+Trí_tuệ_nhân_tạo trở_thành ' cỗ máy ác_mộng ' dọa_dẫm con_người
+Các nhà_khoa_học vừa chế_tạo thành_công " cỗ máy ác_mộng " có_thể biến một bức ảnh trở_nên đáng_sợ đối_với con_người .
+Nhóm nghiên_cứu thuộc Viện_Công nghệ Massachusetts , Mỹ vừa phát_triển thuật_toán trí thông_minh nhân_tạo ( AI ) mới mang tên " cỗ máy nhân_tạo " có_thể tìm_hiểu nỗi sợ của con_người , từ đó tạo ra những bức ảnh ghê_rợn khiến con_người sợ_hãi , IFL Science hôm 10/11 đưa tin .
+Ý_tưởng của nhóm chế_tạo xuất_phát từ nỗi lo_ngại rằng AI trong tương_lai sẽ chống lại những người sản_xuất ra chúng và giết tất_cả con_người .
+" Chúng_tôi biết AI đang khiến con_người sợ_hãi một_cách khó hiểu nhưng chúng_tôi tò_mò rằng liệu AI có_thể khiến nỗi sợ của chúng_ta xuất_hiện ngay_lập_tức theo bản_năng hay không " , Pinar_Yanardag , người đồng sáng_chế , cho_biết .
+Vì_thế , họ sáng_chế " cỗ máy ác_mộng " nhằm thử_nghiệm khả_năng của AI trong việc xâm_nhập trí_óc và tìm_hiểu nỗi sợ của con_người , từ đó khai_thác nỗi sợ này .
+Nhóm chế_tạo sử_dụng thuật_toán " deep learning " ( học sâu ) , dựa trên mạng_lưới thần_kinh của não người , để dạy cỗ máy những đặc_điểm khiến một bức ảnh trở_nên đáng_sợ .
+Cỗ máy sau đó sử_dụng dữ_liệu này để khiến những bức ảnh chụp chân_dung và phong_cảnh trở_nên ghê_rợn hơn .
+Những người tham_gia thí_nghiệm sẽ đánh_giá mức_độ đáng_sợ của bức ảnh nhằm giúp cỗ máy cải_thiện thuật_toán .
+" Elon_Musk nói sự phát_triển của AI đồng_nghĩa với việc chúng_ta đang triệu_hồi những con quỷ dữ .
+Vì_thế , chúng_tôi muốn làm một thí_nghiệm vui để xem AI có_thể thật_sự trở_thành ác_quỷ hay không và bằng cách nào " , Lyad_Rahwan , nhà đồng sáng_chế , trả_lời Live_Science .
+Xem thêm :   Robot đoán trước chính_xác phán_quyết của quan_tòa
+Hiền_Anh

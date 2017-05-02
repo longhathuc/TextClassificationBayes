@@ -1,0 +1,12 @@
+Apple âm_thầm sửa lỗi i Phone tự_động sập nguồn
+Trên phiên_bản i OS 10.2.1 ,
+Apple đã khắc_phục lỗi i Phone 6 hay 6s đột_ngột tắt nguồn dù máy vẫn còn nhiều pin .
+Cuối năm 2016 , hàng_loạt người dùng phàn_nàn i Phone của họ bỗng_dưng tắt nguồn ngay cả khi thiết_bị còn trên 30% pin .
+Sự_cố xảy_ra với i Phone 6 , 6s , 6 Plus và 6s Plus , đồng_thời Apple cũng lên_tiếng thừa_nhận vấn_đề .
+Apple cho_biết i OS 10.2.1 đã khắc_phục lỗi đột_ngột tắt nguồn cho i Phone .
+Trong thông_báo gửi   TechCrunch , Apple cho_biết lỗi sập nguồn đột_ngột đã được hãng khắc_phục thông_qua bản cật nhật i OS 10.2.1 .
+Điều đáng nói là phiên_bản nâng_cấp phần_mềm này được tung ra hôm 24/1 và một tháng sau thì công_ty công_nghệ Mỹ mới tiết_lộ cụ_thể tính_năng của nó .
+" Trên i OS 10.2.1 , chúng_tôi đã có những cải_tiến để giảm sự_cố máy đột_ngột tắt nguồn mà một_số người dùng gặp phải .
+Hiện phiên_bản nay được cài trên 50% số thiết_bị i OS và theo dữ_liệu chúng_tôi nhận được thì lượng i Phone 6s sập nguồn ngẫu_nhiên đã giảm hơn 80% , còn i Phone 6 là 70% " , Apple cho_biết .
+Trên hệ_điều_hành mới nhất , Apple cũng bổ_sung tính_năng giúp i Phone tự khởi_động lại mà không cần cắm sạc , trong trường_hợp thiết_bị nâng_cấp rồi nhưng vẫn lỗi .
+Nếu người dùng tiếp_tục gặp sự_cố , công_ty công_nghệ Mỹ khuyến_cáo khách_hàng liên_hệ với Apple để được giải_quyết .

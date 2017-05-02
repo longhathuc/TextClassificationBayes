@@ -1,0 +1,57 @@
+Những thông_số biểu_đạt sức_mạnh của ôtô
+Công_suất , mô-men xoắn và vòng tua là những thông_số thường được nhắc đến để biết phần_nào sức_mạnh của một chiếc xe .
+Công_suất rất được quan_tâm khi nói về chiếc xe vì đại_diện cho sức_mạnh tối_đa .
+Đơn_vị của công_suất thường tính theo mã_lực , trong tiếng Anh là " horse power " , được viết tắt là HP .
+James_Watt là người đầu_tiên đưa ra khái_niệm trên vào năm 1782 .
+Khi đó , ông phát_minh ra động_cơ hơi_nước và muốn bán chúng cho những người đã quen sử_dụng ngựa .
+Để có hình_ảnh trực_quan hơn , công_suất được tính theo đơn_vị mã_lực được mô_tả là công mà một chú ngựa bỏ ra để kéo 33.000 pound ( 1 pound = 454 gram ) lên một foot ( 30,48 cm ) trong thời_gian một phút ( minute ) .
+Ngoài_ra , công_suất còn có nhiều đơn_vị khác_nhau .
+Các nhà_vật_lý và toán_học rất thích dùng đơn_vị k W ( 1kW = 1,36 HP , 1kW = 1.000 Watt ) và coi đó như đơn_vị chính_xác nhất .
+Bên_cạnh đó , có_thể kể đến “ PS” ở Đức , “ CV” ở Pháp , “ PK” ở Hà_Lan .
+Dựa vào sự chênh_lệch giữa các đơn_vị , các nhà_sản_xuất sử_dụng điều này để tạo ấn_tượng cho sản_phẩm .
+Ví_như chiếc Volkswagen_Golf R được quảng_cáo có động_cơ 300 PS .
+Trong khi thực_tế quy_đổi ra chỉ bằng 296 HP .
+Nhưng nghe công_suất 300 PS vẫn ấn_tượng hơn .
+Tương_tự với đơn_vị k W , phép đo này ít được sử_dụng , chỉ thực_sự phổ_biến ở Australia và Nam_Phi .
+Chẳng hãng xe nào muốn nghe chiếc xe 400 HP của họ chỉ có công_suất 298 kW .
+Công_suất càng cao , đồng_nghĩa với tốc_độ tối_đa càng lớn .
+Nhưng với 2 xe cùng công_suất , tốc_độ tối_đa không hẳn giống nhau , bởi tốc_độ tối_đa còn bị ảnh_hưởng bởi nhiều yếu_tố khác_nhau như trọng_lượng , lực cản khí_động_học , ...
+Ví_dụ như Mazda3 và Mazda CX - 5 cùng công_suất 153 mã_lực , nhưng tốc_độ tối_đa của Mazda3 lớn hơn .
+Có một thực_tế , công_suất cực_đại mà các nhà_sản_xuất công_bố thường không phải công_suất thực .
+Ở thị_trường Mỹ , người_ta hay đo công_suất ở ngay động_cơ .
+Còn ở châu Âu lại chọn cách đo công_suất ở đầu_ra hộp_số .
+Sau đó công_suất phải đi qua nhiều bộ_phận rồi mới đến bánh_xe .
+Ảnh_hưởng của ma_sát khiến công_suất thực_tế sẽ bị hao_hụt từ 10-25 % tùy theo từng loại xe .
+Công_suất thể_hiện rằng chiếc xe mạnh thế_nào và nhanh đến đâu , thì mô - men xoắn lại thể_hiện thời_gian đạt được tốc_độ đó trong bao_nhiêu lâu .
+Mô-men xoắn càng cao , khả_năng tăng_tốc , leo dốc , vượt địa_hình càng tốt .
+Hay nói đơn_giản là xe càng " bốc " .
+Khi đạp hết ga một chiếc thể_thao , gia_tốc sẽ đẩy người ngồi dính chặt vào ghế , khả_năng này chính là nhờ mô - men xoắn tạo ra .
+Các dòng xe chuyên_dùng cho địa_hình , chở nặng như SUV và bán tải thường trang_bị động_cơ dầu ( mô-men xoắn lớn hơn động_cơ xăng nếu cùng dung_tích ) để tạo sức_kéo lớn .
+Xe_tải khổng_lồ Belaz 75710 có_thể chở 450 tấn hàng , và để nó di_chuyển , người_ta phải trang_bị khối động_cơ tạo mô - men xoắn lên tới 18.626 Nm .
+Trong khi công_suất chỉ 2.300 mã_lực , bằng 1/8 mô-men xoắn .
+Còn xe thể_thao dùng động_cơ xăng dung_tích lớn , tạo ra mô - men xoắn và công_suất lớn .
+Mô-men xoắn là một đại_lượng vật_lý biểu_thị một lực làm quay một vật_thể quanh một trục , đơn_vị Nm ( Newton x mét ) .
+Lấy ví_dụ như chiếc cờ - lê khi siết ốc , người_ta phải tác_dụng một lực kéo để con ốc xoay .
+Lực xoay ở con ốc chính là mô - men xoắn .
+Để dễ hiểu hơn , có_thể liên_tưởng đến hình_ảnh khởi_động xe công_nông thời trước .
+Người_ta dùng một trục_quay cắm thẳng vào trục khuỷu rồi quay .
+Người khỏe tạo ra nhiều công hơn , đồng_nghĩa với nhiều mô - men xoắn hơn so với người yếu , nên việc quay trục dễ_dàng hơn .
+Vòng tua máy là số vòng trục khuỷu có_thể quay trong một phút , đơn_vị rpm ( revolutions per minute ) .
+Quay càng nhanh , lực tạo ra càng nhiều .
+Công_suất , mô-men xoắn và vòng tua luôn quan_hệ chặt_chẽ với nhau .
+Mô-men xoắn luôn đạt cực_đại ở vòng tua sớm hơn công_suất .
+Lấy ví_dụ như biểu_đồ của chiếc BMW 760Li với mô - men xoắn 750 Nm và công_suất 400 kW .
+Có_thể thấy , mô-men xoắn đạt cực_đại rất nhanh , ngay ở vòng tua 1.500 vòng/phút , và cứ_thế đến khi chạm 5.000 vòng/phút rồi giảm dần .
+Công_suất có tỷ_lệ_thuận với vòng tua , tăng dần cho_đến khi đạt cực_đại ở vòng tua 5.000 vòng/phút .
+Nhưng sau đó đi ngang và giảm dần .
+Ở đây sinh_ra một mâu_thuẫn , vòng tua càng nhanh phải tạo ra lực càng nhiều .
+Vậy tại_sao công_suất và mô - men xoắn lại giảm khi đạt trên 5.000 vòng/phút ?
+Khi ở vòng tua thấp , nhiên_liệu được bơm vào buồng đốt ít , sinh_ra lực ít .
+Do_vậy mô - men xoắn và công_suất nhỏ .
+Ở vòng tua rất cao ( trên 5.000 vòng/phút ) , lò_xo đẩy xu - páp bị trơ không đóng không mở , gây ra hiện_tượng xu - páp bị treo lơ_lửng không còn tác_dụng .
+Hỗn_hợp nhiên_liệu vào buồng đốt rồi thải ra ngay .
+Ví_dụ 9.000 vòng chỉ 6.000 vòng sinh ra_công , 3.000 vòng gây tiêu_hao công .
+Công_suất và mô - men xoắn đều giảm .
+Ở dải vòng tua 1.500-5.000 vòng/phút , động_cơ hoạt_động ở trạng_thái gần_như lý_tưởng .
+Tất_cả vòng tua đều sinh công , dẫn đến mô - men xoắn đạt cực_đại , công_suất tăng dần theo vòng tua .
+Thế_Anh

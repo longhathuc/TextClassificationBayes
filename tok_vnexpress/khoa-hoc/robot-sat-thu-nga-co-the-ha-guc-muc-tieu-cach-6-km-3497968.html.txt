@@ -1,0 +1,17 @@
+Robot sát_thủ Nga có_thể hạ gục mục_tiêu cách 6 km
+Con robot " Flight " với khả_năng phát_hiện và tiêu_diệt mục_tiêu trong phạm_vi hơn 6 km có_thể được lắp_đặt ở biên_giới Nga .
+Nga vừa chế_tạo thành_công robot mang tên " Flight " có_thể phát_hiện và hạ gục mục_tiêu từ khoảng_cách hơn 6 km , Mirror hôm 11/11 đưa tin .
+Thiết_bị này chủ_yếu được sử_dụng để phát_hiện máy_bay_không_người_lái tầm thấp và các vũ_khí trên không khác xâm_nhập biên_giới .
+Nó có_thể giám_sát vị_trí của máy_bay , tìm_hiểu thông_tin về nguồn_gốc và theo_dõi chuyển_động của chúng rồi gửi tất_cả dữ_liệu về sở_chỉ_huy .
+Robot " Flight " có cấu_tạo gồm radar , camera ảnh nhiệt , máy quay đen_trắng và máy quay màu .
+" Radar của nó có_thể phát_hiện mục_tiêu con_người và xe_hơi ở khoảng_cách lần_lượt là 7 km và 10 km .
+Sau đó , mục_tiêu sẽ được theo_dõi bằng hệ_thống quang_học " , Dmitry_Perminov , kỹ_sư trưởng dự_án , giải_thích .
+Ông khẳng_định con robot đang thu_hút nhiều sự quan_tâm .
+Nó có_thể sử_dụng cho mục_đích quân_sự , cũng_như bảo_vệ các đối_tượng chiến_lược khác .
+" Thiết_bị này có_thể lắp_đặt trong lĩnh_vực dầu_khí để kiểm_soát đường_ống dẫn , ngăn_chặn hành_vi rút trộm dầu .
+Trong quá_trình thử_nghiệm hệ_thống , con robot đã phát_hiện một người đàn_ông đang cắt trộm cáp điện .
+Nhờ vậy , cảnh_sát được điều tới kịp_thời để bắt quả_tang " , Perminov nói .
+Ông cho_biết quá_trình nâng_cấp thiết_bị diễn ra liên_tục .
+Nó được bổ_sung máy_ảnh độ nét cao để dễ_dàng phát_hiện máy_bay_không_người_lái hơn , với mục_đích phân_biệt đồng_minh và kẻ_thù .
+Xem thêm :   Thiếu_nữ robot cử_động , trò_chuyện như người thật
+Hiền_Anh

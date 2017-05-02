@@ -1,0 +1,35 @@
+Các lý_thuyết về thời_gian
+Nhà_khoa_học Hawking tổng_hợp và phát_triển đưa ra mô_hình thời_gian khả_dĩ nhất đến nay , từ thuyết của Newton và Einstein .
+Trong cuốn sách " Các nguyên_lý toán_học "   xuất_bản năm 1687 , Newton mô_tả thời_gian và không_gian như một khung nền cho các sự_kiện diễn ra , và thời_gian không_thể làm ảnh_hưởng tới các sự_kiện đó .
+Thời_gian của Newton là đơn tuyến , như một đường_thẳng kéo_dài từ quá_khứ tới hiện_tại .
+Tuy_nhiên , nếu_vậy nghĩa_là vũ_trụ phải được sáng_tạo ra tại một thời_điểm , và tại_sao lại phải chờ_đợi quá lâu , dài gần_như vô_tận cho tới thời_điểm đó .
+Nói cách khác , " Chúa đã làm_gì trước khi sáng_tạo ra vũ_trụ ? " , Hawking viết .
+Đặc_biệt , nếu thời_gian là đơn tuyến , tại_sao vạn_vật trong vũ_trụ không đạt tới trạng_thái cân_bằng nhiệt , với nhiệt_độ của mọi thứ đều như nhau ?
+Ví_dụ để một cốc nước nóng trong phòng , tới một thời_điểm nhiệt_độ của cốc nước sẽ cân_bằng với nhiệt_độ phòng .
+Đây là các vấn_đề Hawking đặt ra trong cuốn sách " Vũ_trụ trong một vỏ hạt_dẻ " khi nói về thời_gian của Newton .
+Theo Immanuel_Kant , một nhà_triết_học Đức , thì đây là " một sự mâu_thuẫn thuần_lý tính " ( antinomy of pure reason ) và không_thể giải_đáp .
+Tuy_nhiên , nếu xét trên quan_điểm thuyết_tương_đối rộng của Einstein , kết_hợp thời_gian cùng_với 3 chiều không_gian thành cái gọi_là " không thời_gian " – spacetime , những thắc_mắc này sẽ được giải_quyết .
+Trong lý_thuyết của Einstein , không thời_gian không tách_biệt với các sự_kiện diễn ra , mà nó thực_sự tham_gia vào các sự_kiện đó .
+Bất_kỳ vật_thể có khối_lượng nào cũng làm cong không thời_gian xung_quanh nó , gây ra hiệu_ứng hấp_dẫn .
+Có_thể hình_dung tính_chất này như một quả bóng đặt trên đệm cao_su tượng_trưng cho không thời_gian .
+Do sức nặng của mình , quả bóng sẽ làm lún " không thời_gian " xung_quanh nó .
+Không_thể làm cong không_gian mà không làm biến_đổi thời_gian .
+Như_vậy , theo thuyết_tương_đối rộng , không thời_gian và vũ_trụ gắn liền với nhau .
+Hawking cũng thừa_nhận trong cuốn sách của mình , thời_gian " có một sự khởi_đầu và kết_thúc .
+Việc hỏi cái gì đã xảy_ra trước khi thời_gian bắt_đầu và cái gì sẽ xảy_ra sau khi thời_gian kết_thúc là vô_nghĩa vì lúc đó nó không được xác_định . "
+Từ đó , Hawking cho rằng " thời_gian phải có một hình_dáng " .
+Ông cho rằng không_chỉ khối_lượng của các vật_thể bẻ cong không thời_gian , mà_cả năng_lượng cũng góp_phần .
+Năng_lượng bẻ cong không thời_gian làm cho các tia_sáng cũng phải đi theo đường_cong và hướng lại gần nhau .
+Tưởng_tượng chúng_ta có một nón ánh_sáng , trong đó người quan_sát đứng ở đỉnh nón quan_sát về quá_khứ ( do ánh_sáng từ các sự_kiện xa_xôi trong vũ_trụ phải mất thời_gian tính bằng nhiều năm_ánh_sáng để tới người quan_sát , nên thực_ra người đó đang nhìn về quá_khứ ) .
+Càng ở phía dưới nón , người quan_sát sẽ càng thấy nhiều thiên_hà ở các thời_điểm rất sớm của vũ_trụ .
+Tuy_nhiên , các nhà_khoa_học đã chứng_minh được rằng vũ_trụ đang giãn_nở , nghĩa_là ban_đầu , mọi thứ phải ở rất gần nhau tại một nơi có mật_độ rất lớn .
+Do_đó người quan_sát sẽ thấy một phông bức_xạ vi_sóng ( microwave background ) lan_truyền tới dọc theo nón ánh_sáng .
+Thực_nghiệm đã xác_nhận điều này là đúng .
+Các máy đo đã phát_hiện ra một phổ bức_xạ đặc_trưng cho nhiệt_độ 2,7 K ( âm 270 độ C ) truyền tới Trái_Đất , nghĩa_là " bức_xạ cần phải đến từ các vùng có vật_chất làm tán_xạ vi_sóng " , theo Hawking .
+Từ các cơ_sở này , Hawking đã kết_luận , ánh_sáng từ quá_khứ truyền tới Trái_Đất theo nón ánh_sáng đã từng bị bẻ cong bởi một lượng vật_chất rất lớn .
+Nó đủ lớn để uốn các tia_sáng hội_tụ với nhau tại một điểm duy_nhất .
+Đây chính là điểm kỳ_dị , nơi phát_sinh vụ nổ lớn Big_Bang sinh_ra vũ_trụ hiên nay .
+Hawking cho rằng đây cũng là điểm thời_gian bắt_đầu .
+Như_vậy , thời_gian có hình_dáng giống như một quả lê , phình ra ở giữa và bé lại ở 2 đầu .
+Cũng theo Hawking , thời_gian sẽ kết_thúc khi " các ngôi_sao hoặc các thiên_hà suy sập dưới lực hấp_dẫn của bản_thân chúng để tạo thành các hố_đen . "
+Nguyễn_Thành_Minh

@@ -1,0 +1,16 @@
+Làm_chủ tốc_độ màn trập của máy_ảnh
+Kiểm_soát được tốc_độ màn trập máy_ảnh cũng đồng_nghĩa với việc kiểm_soát lượng ánh_sáng đến bộ cảm_biến , từ đó cho ra những bức ảnh theo ý người chụp .
+Cận_cảnh màn trập máy_ảnh .
+Để có_thể điều_tiết được lượng ánh_sáng vào bức ảnh cuối_cùng , máy_ảnh cần phải dựa vào màn trập .
+Khi chụp ảnh , màn trập sẽ mở ra để nhận ánh_sáng từ thấu_kính , sau đó chiếu đến bộ cảm_biến trong một khoảng thời_gian nhất_định .
+Khoảng thời_gian đó gọi_là tốc_độ màn trập .
+Như_vậy , thời_gian màn trập mở lâu hơn thì ánh_sáng truyền qua ống_kính sẽ nhiều hơn và ngược_lại .   Tốc_độ này có_thể thay_đổi tự_động hoặc bằng tay tùy theo người dùng cài_đặt , nhằm tùy biến với cường_độ ánh_sáng trong môi_trường mà họ đang chụp .
+  Tức_là , ở môi_trường nhiều sáng , nhiếp_ảnh_gia thường cài_đặt tốc_độ màn trập nhanh , còn ở môi_trường thiếu sáng , tốc_độ màn trập chậm hơn .
+Trên máy_ảnh , tốc_độ màn trập   đóng vai_trò rất lớn , quyết_định đến chất_lượng hình_ảnh .
+Với trường_hợp chuyển_động nhanh , thiết_lập tốc_độ màn trập nhanh ( từ 1/250 trở xuống , tức mẫu_số càng tăng ) giúp người chụp có_thể " đóng_băng chuyển_động " , thích_hợp để chụp các đối_tượng chuyển_động nhanh , như xe đang chạy , người đang hoạt_động ... mà không hề khiến chủ_thể bức ảnh bị mờ nhòe .
+Trong khi đó , tốc_độ màn trập sau 1 giây có_thể giúp cảm_biến có thêm thời_gian để nhận sáng , từ đó hình_ảnh sẽ có chất_lượng cao hơn .
+Điều này đặc_biệt quang trọng khi chụp ở môi_trường thiếu sáng như đêm_tối , nơi không đủ ánh_sáng ...
+Tuy_nhiên , do cần thời_gian nhận sáng nên chỉ cần một rung lắc nhỏ là ảnh dễ bị nhòe , nên cách tốt nhất_là khi chụp ảnh với tốc_độ màn trập cao , chân máy là vật_dụng không_thể thiếu .
+Tốc_độ màn trập và ảnh chụp tương_ứng .
+Nhấn vào để xem ảnh lớn .
+Bảo_Lâm

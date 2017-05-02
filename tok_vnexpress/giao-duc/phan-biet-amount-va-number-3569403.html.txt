@@ -1,0 +1,29 @@
+Phân_biệt ' amount ' và ' number '
+Bạn có phân_biệt được khi nào thì dùng " amount " và " number " ?
+Đây là cặp từ dễ gây nhầm_lẫn trong tiếng Anh .
+-   The number of cells that are growing in that petri dish is incredible ! ( Số_lượng tế_bào đang phát_triển trong đĩa petri - loại đĩa đựng mẫu xét_nghiệm - thật không_thể tin được ! )
+Do tế_bào ( cell ) có_thể đo_lường được bằng cách đếm ( 1 tế_bào , 10.000 tế_bào ... ) nên sử_dụng number là chính_xác .
+- The amount of effort that Jace put into the article was pitiful .
+No wonder the quality of it was so poor .
+( Những nỗ_lực mà Jace bỏ ra cho bài báo này là không đáng_kể .
+Không có gì ngạc_nhiên khi chất_lượng của nó quá kém ) .
+Nỗ_lực ( effort ) là thứ không_thể đo_lường trực_tiếp , bạn không_thể nói one effort mà chỉ có_thể nói one hour of effort .
+Nói cách khác , bạn phải sử_dụng một đơn_vị_đo_lường để định_lượng nỗ_lực .
+Do_đó , amount được sử_dụng trong trường_hợp này .
+- I have created a small number of videos that you can watch when you have the time .
+( Tôi đã làm một_vài video , bạn có_thể xem khi có thời_gian ) .
+Bạn có_thể làm một video hoặc một_triệu video , do_đó video là danh_từ đếm được .
+A small number of videos là cách dùng chính_xác .
+- The amount of trust that your boss has in your is really quite incredible ! ( Sự tin_tưởng mà sếp dành cho anh thật_sự đáng kinh_ngạc ! )
+Mặc_dù bạn có_thể có rất nhiều niềm_tin ( a lot of trust ) hoặc chỉ tin_tưởng một_chút ( a little trust ) , bạn không_thể biết chính_xác lượng hay mức_độ tin_tưởng mà bạn đang nói tới có trùng khớp với những gì người nghe hiểu .
+Bởi_vì niềm_tin , sự tín_nhiệm là danh_từ không đếm được , bạn cần sử_dụng amount .
+- Polly got a large amount of hair cut off at the barber shop today .
+( Polly cắt một lượng tóc lớn ở tiệm tóc hôm_nay ) .
+Ở trường_hợp này , hair là danh_từ không đếm được bởi nó đề_cập đến toàn_bộ số tóc mà Polly có , không phải những sợi tóc riêng_lẻ trên đầu .
+Bởi_vì không_thể biết chính_xác có bao_nhiêu tóc , amount là cách dùng chính_xác .
+- Can you believe that someone has to count the number of hairs there are on that wig ?
+( Bạn có tin ai đó phải đếm số sợi tóc trên bộ tóc giả đó không ? )
+Trái_ngược với ví_dụ trước , câu này đề_cập đến từng sợi tóc riêng_lẻ .
+Người được nói đến phải đếm từng sợi tóc một , và họ có_thể nói có 4.503 sợi tóc ( hoặc bất_kỳ con_số nào khác ) .
+Do_vậy , number là cách dùng đúng .
+Phiêu_Linh ( theo My_English_Teacher )

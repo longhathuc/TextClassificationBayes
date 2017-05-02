@@ -1,0 +1,26 @@
+' Like dạo ' trên Facebook nguy_hiểm thế_nào
+Việc bấm " like " tất_cả bài đăng của bạn_bè , hội nhóm hay bài quảng_cáo sẽ giúp hacker tận_dụng để khai_thác thông_tin cá_nhân của người dùng Facebook .
+Thủ_thuật mà nhiều tội_phạm mạng sử_dụng có tên “ like-farming ” .
+Like-farming là hành_động các hacker đăng những dòng " tít " có nội_dung giật_gân lên Facebook với mục_đích thu_hút càng nhiều lượt like và chia_sẻ càng tốt .
+Dựa trên cách_thức hoạt_động của Facebook , nếu nhiều bạn_bè của bạn like và chia_sẻ một bài đăng nào_đó , khả_năng cao là nó sẽ xuất_hiện trên News_Feed của bạn_bè .   Sau khi bài đăng nhận được một lượng like và chia_sẻ nhất_định , hacker sẽ thay_đổi nội_dung của nó và chèn vào những phần_mềm gián_điệp hoặc link download chứa virus .
+Một_khi người dùng ấn vào link này , virus sẽ lấy đi những thông_tin cá_nhân nhạy_cảm trên máy họ .
+Theo các chuyên_gia , điều nguy_hiểm là những phần_mềm gián_điệp như_vậy có_thể lấy đi không_chỉ những thông_tin về tên_tuổi , ngày_sinh , địa_chỉ email mà thậm_chí còn cả tài_khoản ngân_hàng .
+Nhưng người dùng lại không hề hay_biết về điều này .
+Những nội_dung câu " like " thường có tính_chất xúc_động hoặc kêu_gọi like để trúng thưởng .
+Những bài đăng mang tính_chất xúc_động trên Facebook là một trong những thủ_đoạn phổ_biến của hacker .
+Ví_dụ chuyện về trẻ_em nghèo , người khuyết_tật , tai_nạn giao_thông thảm_khốc hay những con thú bị đối_xử tàn_nhẫn .
+Để câu like và lượt chia_sẻ , những câu_chuyện này thường đi với dòng trạng_thái như " Hãy like và share nếu bạn đồng_cảm " .
+Một trong những dạng bài đăng khác mà bạn cần chú_ý là trúng thưởng .
+Các tổ_chức , công_ty có_thể yêu_cầu bạn like , chia_sẻ bài đăng lên dòng thời_gian và sau đó bạn sẽ có cơ_hội nhận quà , ví_dụ một chiếc i Phone 6s .
+Gần đây , người dùng Facebook tại Việt_Nam bị lừa bởi một   fanpage có tên Mercedes-Benz 2016 .
+Trang này hứa tặng 2 chiếc xe dòng E_Class 2016 trị_giá từ 2 đến 2,8 tỷ đồng ,   việc của người dùng là bấm nút Like trang này , comment màu_sắc yêu_thích và chia_sẻ tấm hình lên tường .
+Trang này còn cho_biết , họ sẽ bốc_thăm ngẫu_nhiên và trao quà vào ngày 8/3 .
+Tuy_nhiên , bộ_phận Truyền_thông Mạng xã_hội của   Mercedes-Benz nói đây không phải là chương_trình của họ và khuyến_cáo người dùng nên cẩn_trọng chia_sẻ thông_tin trên các kênh trực_tuyến .
+Ngoài_ra , hacker cũng có_thể tạo_lập những fanpage " ma " để giăng bẫy like - farming .
+Một_khi bạn thích trang Facebook nào_đó , những bài đăng mới của trang sẽ hiện lên News_Feed của bạn , và thậm_chí những bạn_bè khác .
+Cách tốt nhất để tự bảo_vệ mình trước nguy_cơ đến từ like - farming ngừng việc like tất_cả bài đăng trên Facebook .
+Hãy dành thời_gian để tìm_hiểu bài đó đến từ đâu , được đăng_tải bởi ai hoặc fanpage nào .
+Nếu nội_dung hứa_hẹn việc like và chia_sẻ sẽ đem đến cho bạn một món quà , rất nhiều khả_năng đó là cái bẫy của hacker .
+Ngừng thói_quen “ like dạo ” không_những giúp bạn bảo_vệ an_toàn cho bản_thân .
+Nó còn giúp bảo_vệ an_toàn cho người khác , bởi lẽ những bài đăng có tính_chất scam sẽ không còn cơ_hội lan_truyền đến News_Feed của cộng_đồng .
+Nguyễn_Mai_Đức

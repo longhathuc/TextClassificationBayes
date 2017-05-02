@@ -1,0 +1,28 @@
+Hệ_thống Vietnam_Airlines có_thể bị xâm_nhập từ 2014
+Cuộc tấn_công vào hệ_thống của hãng Hàng_không Quốc_gia là dạng tấn_công có chủ_đích , được chuẩn_bị kỹ_lưỡng , kéo_dài trước khi bùng_phát vào ngày 29/7 .
+Theo   Hiệp_hội An_toàn thông_tin Việt_Nam ( VNISA ) , có dấu_hiệu cho thấy có_thể hệ_thống đã bị tin_tặc xâm_nhập từ giữa năm 2014 .
+Tuy_nhiên , mã độc sử_dụng trong đợt vừa_rồi hoàn_toàn mới , được thiết_kế riêng cho cuộc tấn_công ngày 29/7 và đã vượt qua được các công_cụ giám_sát an_ninh thông_thường , chẳng_hạn các phần_mềm chống virus .
+Màn_hình hiển_thị thông_tin sân_bay ở Nội_Bài chiều 29/7 đã bị tắt sau khi bị tin_tặc tấn_công , chèn thông_tin xấu .
+Theo VNISA ,   những dấu_vết để lại hiện_trường chưa đủ cơ_sở để kết_luận chính_xác đối_tượng tấn_công là ai .
+Song có_thể khẳng_định chúng am_hiểu hệ_thống công_nghệ_thông_tin của các cụm_cảng hàng_không , cả ở mức cấu_trúc thông_tin lẫn cơ_chế vận_hành thiết_bị .
+Đáng chú_ý , chúng có ý_định khống_chế , vô_hiệu_hóa hoàn_toàn dữ_liệu hệ_thống .
+Bước_đầu , đội_ngũ an_ninh mạng từ nhiều đơn_vị đã xác_định được mã độc phá_hoại hệ_thống và thấy rằng cửa hậu đã bị khai_thác khá lâu trước thời_điểm phát_động tấn_công .
+Trước đó , chuyên_gia bảo_mật độc_lập Nguyễn_Hồng_Phúc đã nhận_định , khi tấn_công vào website của Vietnam_Airlines , hacker đã chia_sẻ ba liên_kết dẫn đến tập_tin chứa dữ_liệu khách_hàng .
+Tài_khoản ở đây được tạo ngày 25/7/2016 , bốn ngày_trước khi xảy_ra cuộc tấn_công .
+Do_đó , theo chuyên_gia này , thông_tin của hơn 400.000 thành_viên Golden_Lotus có_thể đã bị tin_tặc khai_thác 4 ngày_trước khi thực_hiện hack vào trang_web của hãng Hàng_không Việt_Nam .
+Về phía Vietnam_Airlines , khi đánh_giá về đợt tấn_công của tin_tặc ngày 29/7 , ông Nguyễn_Hải_Tùng , Trưởng_ban Công_nghệ_thông_tin của hãng đã cho_hay ,   các đối_tác công_nghệ_thông_tin của Vietnam_Airlines đã phát_hiện dấu_hiệu nghi_ngờ tin_tặc xâm_nhập từ tối 28/7 và đưa ra cảnh_báo đợt virus này có khả_năng bùng_nổ trên diện rộng .
+Hãng_Hàng không Quốc_gia ngay sau đó đã có một_số biện_pháp ứng_phó , ngăn_chặn virus phát_tán .
+Khách xếp_hàng trước quầy làm thủ_tục lên máy_bay khi hệ_thống thông_tin bị tấn_công .
+Khoảng 16h ngày 29/7 , tại sân_bay Nội_Bài , Tân_Sơn_Nhất , nhiều hành_khách đang làm thủ_tục hốt_hoảng khi thấy các màn_hình thông_tin chuyến bay bất_ngờ thay_đổi .
+Trên màn_hình hiển_thị các thông_tin kích_động , xúc_phạm Việt_Nam và Philippines , xuyên_tạc các nội_dung về Biển_Đông .
+Hệ_thống phát_thanh của sân_bay cũng phát đi những thông_điệp tương_tự .
+Sau khoảng 4 phút , nhà_chức_trách sân_bay đã tắt toàn_bộ hệ_thống âm_thanh , màn_hình .
+Cùng thời_điểm , trên website của hãng hàng_không Việt_Nam cũng bị thay_đổi nội_dung , đồng_thời đăng_tải thông_tin của hơn 400.000 thành_viên Golden_Lotus .
+Người dùng khi truy_cập vào địa_chỉ https : / / www.vietnamairlines.com , nhận được thông_báo website đã bị hack , nội_dung trang_chủ được thay_đổi hoàn_toàn với các ngôn_ngữ kích_động .
+Hôm_nay , sau 3 ngày xảy_ra sự_việc , Vietnam_Airlines thông_báo hệ_thống công_nghệ_thông_tin chính của họ đã hoàn_tất quá_trình kiểm_tra và trở_lại hoạt_động .
+Hãng đã phối_hợp với các chuyên_gia của Cục An ninh mạng ( Bộ Công an ) , Cục an_toàn thông_tin , Trung_tâm ứng_cứu khẩn_cấp máy_tính Việt_Nam VNCERT , Viettel , FPT và các đối_tác khác để giành quyền kiểm_soát , khôi_phục và khởi_động lại các chương_trình bị tấn_công cũng_như rà_soát chương_trình khác để đảm_bảo an_toàn .
+Hãng bay đã phối_hợp với Tổng_công_ty Cảng_hàng_không Việt_Nam khôi_phục các máy_tính tại quầy làm thủ_tục ở Nội_Bài , Tân_Sơn_Nhất .
+Đối_với khách_hàng chương_trình Bông_Sen_Vàng , Vietnam_Airlines thông_báo sẽ tạm ngừng các chức_năng trực_tuyến , tuy_nhiên vẫn đảm_bảo đầy_đủ quyền_lợi của hội_viên .
+Xem thêm :
+>   Sân_bay Nội_Bài , Tân_Sơn_Nhất bị tin_tặc tấn_công
+>   Hệ_thống thông_tin sân_bay hoạt_động như_thế_nào

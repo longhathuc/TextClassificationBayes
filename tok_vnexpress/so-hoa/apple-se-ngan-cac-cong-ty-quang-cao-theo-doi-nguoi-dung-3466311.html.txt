@@ -1,0 +1,15 @@
+Apple sẽ ngăn các công_ty quảng_cáo theo_dõi người dùng
+Tùy chọn mới trong hệ_điều_hành i OS 10 sẽ cho_phép chặn việc thu_thập thông_tin người dùng từ các ứng_dụng vốn phục_vụ việc quảng_cáo .
+Tùy chọn tắt định_danh quảng_cáo trên i OS 10 .
+Tính_năng giới_hạn việc theo_dõi liên_quan đến quảng_cáo đã có trong i OS 9 nhưng Apple sẽ thắt chặt hơn trong i OS 10 .
+Phiên_bản mới của hệ_điều_hành cho i Phone , iPad sẽ bắt_đầu cho tải về vào ngày 13/9 tới đây .
+Để sử_dụng tính_năng này , người dùng truy_cập vào mục Setting/Privacy/Advertising .
+Các nhà quảng_cáo hiện_nay thường sắp_xếp người dùng thành từng nhóm khác_nhau theo các cách phân_loại cụ_thể .
+Ví_dụ như nam_giới độ tuổi từ 18 đến 34 , sống ở Hà_Nội và quan_tâm đến bóng_đá sẽ được thấy các nội_dung về sản_phẩm tương_đồng .
+Các thông_tin riêng_tư dạng này được gọi_là định_danh cho quảng_cáo ( IDFA ) .
+Trong hệ_điều_hành i OS 9 , người dùng có_thể lựa_chọn tính_năng giới_hạn theo_dõi quảng_cáo để các quảng_cáo sẽ không_thể hiển_thị dựa trên thông_số IDFA .
+Tuy_nhiên , vẫn còn lỗ_hổng khi các đơn_vị cung_cấp có_thể sử_dụng dữ_liệu về vị_trí để tối_ưu việc hiển_thị quảng_cáo .
+Tuy_nhiên , việc này sẽ gần_như bất_khả_thi trên i OS 10 .
+Với hệ_điều_hành mới , các mã_số định_danh quảng_cáo IDFA gần_như chỉ là dãy các con_số 0 .
+Các công_ty quảng_cáo sẽ không có cách nào xác_định người dùng cụ_thể ngay cả khi họ không sử_dụng dữ_liệu đó cho việc hiển_thị các banner .
+Người tiêu_dùng chắc_chắn được hưởng lợi từ hệ_điều_hành mới của Apple nhưng cộng_đồng quảng_cáo cũng lo_ngại việc sụt_giảm doanh_số cũng_như các hệ_lụy khác .

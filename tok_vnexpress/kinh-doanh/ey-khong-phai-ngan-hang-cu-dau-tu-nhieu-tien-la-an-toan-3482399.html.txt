@@ -1,0 +1,24 @@
+EY : Không phải ngân_hàng cứ đầu_tư nhiều tiền là an_toàn
+Bất_cứ ai cũng có_thể là mục_tiêu của hacker nên đầu_tư 20 triệu USD chưa chắc đã an_toàn hơn một bên chỉ bỏ ra một_nửa , theo ông Jason_Yuen - lãnh_đạo cấp cao của Ernst & Young .
+Trong buổi hội_thảo chia_sẻ với lãnh_đạo các ngân_hàng Việt_Nam ngày 11/10 , ông Jason_Yuen - Phó_tổng giám_đốc phụ_trách an_ninh mạng , Dịch_vụ Tư_vấn của Ernst & Young ( EY ) Malaysia đã chỉ ra nhiều bài_học về an_toàn bảo_mật thông_tin mà mọi ngân_hàng , dù lớn_nhỏ đều phải đối_mặt .
+Một trong số đó là chắc_chắn sẽ có người bấm vào những đường link giả_mạo mà không dễ để nhận ra .
+Ông Jason_Yuen chia_sẻ những bài_học kinh_nghiệm từ các vụ tấn_công mạng với lãnh_đạo các ngân_hàng Việt_Nam .
+Ảnh : EY .
+Thực_tế , tội_phạm mạng xảy_ra với ngân_hàng Việt ngày_càng nhiều .
+Một trong những thủ_đoạn phổ_biến là kẻ_gian dùng chiêu_thức Phishing ( lấy thông_tin qua một website giả_mạo của ngân_hàng ) .
+Ông Jason_Yuen cũng dẫn số_liệu từ báo_cáo mới_đây của Kaspersky_Lab cho thấy , Việt_Nam đứng thứ 2 về nguồn_gốc của thư rác .
+Trong khi đó , theo thống_kê , 23% số người dùng sẽ mở các email giả_mạo và 11% sẽ click vào những tập_tin đính kèm .
+Đánh_giá chung về khả_năng bảo_mật của các ngân_hàng Việt_Nam , chuyên_gia của EY cho rằng , nhìn_chung các đơn_vị chủ_yếu là đang phòng_thủ , thường yếu_kém trong khâu giám_sát , ứng_phó xử_lý sự_cố và kể_cả yếu_kém trong khâu điều_tra sau khi sự_cố xảy_ra .
+Gần đây xảy_ra rất nhiều sự_cố về mất tiền trong tài_khoản ngân_hàng với những tranh_chấp giữa khách_hàng , nhân_viên ngân_hàng nhưng khi được yêu_cầu , các nhà_băng đều cho_biết không_thể cung_cấp dữ_liệu camera tại các phòng giao_dịch với lý_do quá 3 tháng nên không còn lưu .
+Trả_lời   VnExpress , ông Jason_Yuen cho_biết : " Thực_tế chi_phí để lưu_trữ dữ_liệu rẻ hơn rất , rất nhiều so với những hạng_mục khác trong đầu_tư công_nghệ mà các nhà_băng đang làm .
+Như_Google , họ còn phải lưu_trữ hàng núi dữ_liệu .
+Vấn_đề là bản_thân cơ_quan quản_lý phải có những quy_định cụ_thể về việc , dữ_liệu các ngân_hàng phải lưu_trữ trong thời_gian bao_lâu , miễn để đủ có_thể tái_hiện lại những gì xảy_ra để phục_vụ cho việc điều_tra khi gặp sự_cố " .
+Vị chuyên_gia này cũng cho_biết , trong quá_trình tham_gia đánh_giá , tư_vấn cho một_số tổ_chức tín_dụng , ông phát_hiện có nhiều ngân_hàng vẫn tồn_tại những điểm yếu cố_hữu và căn_bản như , đặt username và mật_khẩu quản_trị tất_cả đều là " admin " và " admin " .
+" Như_vậy rất dễ để kẻ_gian xâm_nhập và tiếm_quyền quản_trị hệ_thống .
+Điều này cho thấy ngân_hàng đó không có sự đầu_tư đúng_mực cho quy_trình vận_hành và rà_soát bảo_mật định_kỳ " , ông Jason nói .
+Ngoài_ra , theo ông , ai cũng có_thể trở_thành mục_tiêu tấn_công của hacker và không có mục_tiêu nào_là nhỏ .
+Ông Jason cũng dẫn số_liệu từ báo_cáo điều_tra của Verizon năm 2015 cho thấy , hầu_hết lĩnh_vực nào cũng từng gặp sự_cố về an_ninh thông_tin , trong đó , lĩnh_vực tài_chính đã đối_mặt với 642 vụ_việc .
+" Kể_cả kẻ mạnh nhất cũng có_thể bị đánh_bại " , ông Jason nói và đề_cập tới việc NASA - cơ_quan an_ninh được xem là mạnh của Mỹ cũng nhiều lần bị xâm_nhập , tấn_công có chủ_đích .
+Do_đó , theo chuyên_gia của EY , các ngân_hàng , từ vị_trí lãnh_đạo như những ông chủ nhà_băng đến các bộ_phận công_nghệ và từng nhân_viên nên thay_đổi cách tiếp_cận về rủi_ro an_ninh mạng .
+" Thay_vì tiếp_cận theo kiểu : tôi đầu_tư bao_nhiêu tiền vào hệ_thống đó thì sẽ an_toàn , các ngân_hàng nên xem an_toàn bảo_mật là rủi_ro kinh_doanh .
+Ngoài số tiền đầu_tư còn phải quan_tâm trọng_tâm đầu_tư , một ngân_hàng bỏ 20 triệu USD vào hệ_thống chưa chắc đã an_toàn hơn một nhà_băng chỉ đầu_tư 10 triệu USD " , ông Jason nói .

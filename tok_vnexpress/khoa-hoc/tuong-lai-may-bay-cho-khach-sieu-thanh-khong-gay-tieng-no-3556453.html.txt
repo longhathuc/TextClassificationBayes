@@ -1,0 +1,28 @@
+Tương_lai máy_bay chở khách siêu_thanh không gây tiếng nổ
+Tiến_bộ trong công_nghệ giảm tiếng ồn có_thể giúp máy_bay chở khách siêu_thanh khắc_phục hạn_chế do tiếng nổ siêu_âm gây ra .
+Khi máy_bay chở khách Concorde lần đầu_tiên xuất_hiện trên bầu_trời vào thập_niên 1970 , nó có_thể bay từ London , Anh đến New_York , Mỹ chỉ trong vòng ba giờ .
+Tuy_nhiên , sự phát_triển của máy_bay chở khách siêu_thanh bị hạn_chế bởi những tiếng nổ lớn phát khi chúng vượt tốc_độ âm_thanh .
+Những tiến_bộ gần đây trong công_nghệ giảm tiếng ồn , cùng_với sự hạ giá của các chuyến bay thương_mại có_thể giúp máy_bay chở khách siêu_thanh trở_nên khả_thi trong vòng 10 năm tới , theo Wired .
+" Nó thể_hiện sự co lại của thế_giới , giống như đường_sắt xuyên lục_địa và hàng_không cận âm trước đó .
+Đây cũng là dấu_hiệu cho thấy quá_trình đảo_ngược sự trì_trệ , chậm đổi_mới trong ngành_hàng không suốt 40 năm qua " , Samuel_Hammond , nhà_nghiên_cứu thuộc Đại_học George_Mason , Mỹ cho_biết .
+Nghiên_cứu của ông cho thấy rằng công_nghệ để xây_dựng các máy_bay siêu_thanh không phát ra tiếng nổ siêu_âm hoàn_toàn nằm trong tầm với .
+" Với vật_liệu nhẹ , động_cơ hiệu_quả , mô_hình máy_tính tốt và nhiều kinh_nghiệm hơn , chúng_ta có_thể tạo ra một chiếc máy_bay vừa nhanh hơn vừa rẻ hơn Concorde . "
+Phát_hiện này được công_bố giữa lúc các tập_đoàn công_nghệ đua nhau thiết_kế mẫu máy_bay dân_dụng siêu_thanh đầu_tiên kể từ sau Concorde .
+Công_ty khởi_nghiệp Aerion và Spike_Aerospace lên kế_hoạch ra_mắt sản_phẩm đầu_tiên vào năm 2023 .
+Hồi tháng 11/2015 , Airbus tuyên_bố đang hợp_tác với Aerion để chế_tạo máy_bay siêu_thanh AS2 có_thể bay với tốc_độ 1.931 km / h .
+Công_ty cho_biết chiếc máy_bay AS2 của họ sẽ có khả_năng đi du_hành siêu_thanh , cho_phép hành_khách đi_lại giữa London và New_York chỉ trong ba giờ , và Los_Angeles đến Tokyo trong sáu giờ .
+Nó sẽ bay với tốc_độ tối_đa 1.960 km / h , xấp_xỉ tốc_độ 2.170 km / h của Concorde .
+Nhóm nghiên_cứu tuyên_bố đã hoàn_thiện thiết_kế ban_đầu cho cấu_trúc cánh sợi carbon , thân máy_bay , càng hạ_cánh và hệ_thống nhiên_liệu .
+Phần cánh giúp giảm lực cản tới 20% , cho_phép giảm lượng nhiên_liệu tiêu_thụ , tăng tầm bay và trang_bị một khoang sang_trọng có_thể chứa đến 12 hành_khách .
+Một cải_tiến quan_trọng là hình_dạng mỏng dài của máy_bay , giúp giảm_thiểu tiếng ồn khi vượt tốc_độ âm_thanh .
+Với máy_bay siêu_thanh thông_thường , sóng xung_kích từ các bộ_phận như mũi và cánh cộng_hưởng thành sức_ép mạnh phát ra từ mũi tới đuôi .
+Khi sóng xung_kích này lan qua_mặt đất , áp_suất không_khí tăng mạnh rồi giảm đột_ngột , sau đó lại tăng lên nhanh_chóng , gây ra hiện_tượng " tiếng nổ kép " .
+Hình_dạng dài , thanh_mảnh hơn là cách tốt nhất để tạo ra sóng xung_kích có cường_độ yếu hơn .
+" Chúng_tôi thấy các giải_pháp kỹ_thuật rõ_ràng và có_thể đạt được để thiết_kế máy_bay_phản_lực siêu_thanh , cùng lộ_trình thực_tế để Aerion tiến_hành chế_tạo phi_cơ và bay thử " , phó_chủ_tịch Airbus_Ken_Mc Kenzie tuyên_bố .
+AS2 phải đối_mặt với sự cạnh_tranh từ Spike_Aerospace S-512 , mẫu máy_bay được thiết_kế bởi một nhóm kỹ_sư từ Boston .
+Cả hai hãng cho_biết phi_cơ của mình sẽ hoàn_thiện chỉ trong vài năm tới .
+Tuy_nhiên , tiến_sĩ Hammond chỉ ra rằng ngành_hàng không đang bị kìm_hãm bởi lệnh cấm các chuyến bay siêu_thanh dân_sự trên toàn nước Mỹ do Cục Quản lý Hàng_không Liên_bang ( FAA ) đặt ra từ năm 1973 .
+Họ đã kêu_gọi thay_thế lệnh cấm này bằng quy_định hạn_chế tiếng ồn .
+" Năm 1973 , FAA đã cấm bay siêu_thanh dân_sự ở Mỹ , cản_trở sự phát_triển của ngành_hàng không .
+Đã đến lúc phải hủy_bỏ lệnh cấm để xây_dựng tiêu_chuẩn tiếng ồn vừa_phải và hợp_lý hơn " , Hammond và các cộng_sự kết_luận .
+Hòa_Việt

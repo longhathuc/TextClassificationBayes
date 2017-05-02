@@ -1,0 +1,27 @@
+Thầy_giáo tìm việc nghìn USD cho sinh_viên
+Anh Nguyễn_Vũ_Hưng chỉ cho học_trò những kiến_thức , kỹ_năng cần bổ_sung ngay để tìm được công_việc có mức lương 1.000 USD .
+Đó là câu_chuyện tư_vấn nghề_nghiệp của mentor Nguyễn_Vũ_Hưng .
+Anh   hiện là CTO ( Chief_Technology_Officer ) của công_ty Fuji_Technology - 100% vốn Nhật_Bản , đồng_thời là   trưởng Ban cố_vấn nghề_nghiệp của Đại_học trực_tuyến FUNiX .
+Nhờ sự tư_vấn của anh , một học_viên đã   tìm được công_việc lương 1.000 USD , thay_vì 10 triệu đồng như trước đó .
+Anh kể , trong một lần tìm_hiểu các vị_trí tuyển_dụng trên VietnamWorks trong lĩnh_vực công_nghệ_thông_tin , anh thấy có công_ty nước_ngoài cần tuyển người phụ_trách Phát_triển toàn_diện website ( Fullstack web developer ) với mức lương 1.000 USD .
+Đánh_giá yêu_cầu công_việc khá hợp với học_viên của mình , anh liền chia_sẻ thông_tin .
+Khi biết học_viên còn thiếu một_vài kỹ_năng để đáp_ứng yêu_cầu tuyển_dụng ,   anh đã chỉ ra những kiến_thức cần bổ_sung thêm , ngoài   các kỹ_năng cơ_bản như HTML , CSS , PHP ...
+Kết_quả , chàng sinh_viên này được nhận vào làm sau một thời_gian nỗ_lực trau_dồi , học_tập và sự động_viên của thầy_giáo .
+Tại FUNiX , ngay từ lúc mới vào trường , Ban cố_vấn giúp mọi người định_hướng rõ việc theo học ngành Công_nghệ_thông_tin để làm_gì , học xong có những kỹ_năng gì .
+Trong quá_trình học sẽ tư_vấn mục_tiêu nghề_nghiệp cho mỗi người .
+Sau đó phân_tích rõ những yêu_cầu tuyển_dụng của doanh_nghiệp và vạch ra kỹ_năng cần bổ_sung để sinh_viên lên kế_hoạch học_tập rõ_ràng .
+Sau khi học xong chương_trình , Ban cố_vấn phải nắm rõ mục_đích , nguyện_vọng cũng_như những kỹ_năng mà sinh_viên có được để hỗ_trợ tối_đa .
+" Để làm ' bà mối ' thành_công không dễ chút nào .
+Hai bên , giữa sinh_viên của trường và doanh_nghiệp phải cần và đáp_ứng yêu_cầu của nhau thì mình mới kết_nối được " , anh Hưng chia_sẻ và cho_biết thường năng_lực người lao_động sở_hữu có_thể không khớp 100% với yêu_cầu từ phía nhà tuyển_dụng mà chỉ đáp_ứng 20% yêu_cầu đặt ra .
+Tới 50% năng_lực không dùng đến , lệch 30% năng_lực còn lại .
+Thị_trường Công_nghệ_thông_tin còn có đặc_thù của ngành này nên bản_thân người lao_động và nhà tuyển_dụng khó đến được với nhau hơn .
+Do_đó , việc kết_nối hai đối_tượng này rất quan_trọng .
+Ví_dụ , trong yêu_cầu vị_trí Web engineer , bên tuyển_dụng chỉ mô_tả danh_sách các kỹ_năng công_nghệ cần có là PHP , node.js ,
+SQL , jQuery , subversion , git và tiếng Anh nhưng lại có sự chênh_lệch giữa mức lương từ 600-2.000USD .
+Câu_hỏi đặt ra là nhà tuyển_dụng dựa vào tiêu_chí nào để loại hoặc nhận người với mức lương 600 USD hay 2.000 USD .
+Lúc này , người môi_giới ( thực_hiện việc kết_nối ) cần biết ứng_viên có và không có gì , ở mức nào ; phía tuyển_dụng cần ở mức nào , mức lương thị_trường là bao_nhiêu ... để có_thể tư_vấn , kết_nối hai bên với nhau .
+Người này cũng có nhiệm_vụ xử_lý tình_trạng một hay nhiều yêu_cầu bị vênh ( tức thừa , thiếu hoặc không có ) .
+Tuy_nhiên , theo anh Hưng , để làm được những điều trên , Ban cố_vấn nghề_nghiệp phải là người_làm trong lĩnh_vực IT và có mối quan_hệ rộng , thường_xuyên cập_nhật , nắm_bắt các nhu_cầu tuyển_dụng , đồng_thời hiểu rõ học_viên của mình có và thiếu những kỹ_năng gì .
+Ngoài việc được tư_vấn kỹ về định_hướng học_tập , nghề_nghiệp , sinh_viên FUNiX sẽ được học trực_tiếp với các mentor - là các nhà quản_lý , nhà tuyển_dụng của các tập_đoàn , công_ty công_nghệ hàng_đầu Việt_Nam .
+Ngoài kinh_nghiệm thực_tế , người học có_thể được mentor tuyển_dụng nếu đáp_ứng yêu_cầu .
+Ngọc_Anh

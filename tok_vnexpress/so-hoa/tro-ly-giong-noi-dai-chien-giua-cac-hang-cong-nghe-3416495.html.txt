@@ -1,0 +1,21 @@
+Trợ_lý giọng nói : Đại_chiến giữa các hãng công_nghệ
+Các ứng_dụng tương_tác bằng giọng nói kết_hợp trí_tuệ_nhân_tạo được đánh_giá là đang tạo nên cuộc_chiến lớn nhất giữa các đại_gia công_nghệ như Apple , Microsoft , Google , Amazon .
+Tạp_chí Time cho_biết , các " quái_kiệt " của làng công_nghệ đang nỗ_lực xây_dựng nền_tảng điện_toán tương_lai , mở ra một cuộc đại_chiến trong giới này hiện_nay .
+Đa_số người dùng có_thể không thấy rõ , nhưng kẻ chiến_thắng sẽ có tầm ảnh_hưởng rất lớn đến tương_lai của người dùng .
+Apple mở_màn cuộc_chiến khi giới_thiệu trợ_lý Siri vào năm 2011 .
+Người dùng i Phone có_thể sử_dụng Siri để tra thông_tin , ra_lệnh bằng giọng nói mà không cần thao_tác nhiều bằng tay .
+Công_nghệ ẩn sau Siri là các thuật_toán trí_tuệ_nhân_tạo ( AI ) , xử_lý ngôn_ngữ_tự_nhiên và công_nghệ_học máy ( machine learning ) .
+Nếu sử_dụng Siri một thời_gian , người dùng sẽ thấy nó trở_nên thông_minh hơn khi hiểu người dùng muốn gì , có những thói_quen gì ...
+Tất_nhiên , Google không muốn Apple tự_do tung_hoành trong lĩnh_vực đầy tiềm_năng như_thế .
+Không lâu sau khi Siri ra_đời , họ giới_thiệu Google_Now , trợ_lý AI dành cho thiết_bị Android .
+Microsoft cũng sớm nhập_cuộc với Cortana .
+Gần đây nhất_là Amazon với thiết_bị Echo cùng trợ_lý ảo tương_tác bằng giọng nói mang tên Alexa .
+Giới công_nghệ đang chờ_đợi người chiến_thắng trên đường đua trợ_lý ảo thông_minh .
+Trong khi các phần_mềm trí_tuệ_nhân_tạo đã xuất_hiện nhiều năm và được ứng_dụng trong hàng_loạt dịch_vụ , những trợ_lý ảo kiểu mới hoạt_động tốt hơn nhờ cơ_chế học máy , xử_lý ngôn_ngữ nhanh hơn .
+Trong nhiều tình_huống , chúng có_thể hiểu nghĩa câu nói mà không đòi_hỏi người dùng ra_lệnh đúng khuôn_mẫu .
+Bước đột_phá này không đơn_thuần do khả_năng nhận_diện giọng nói mà_còn nhờ khả_năng hiểu thông_tin dựa trên ngữ_cảnh .
+Mục_tiêu của bốn đại_gia công_nghệ kể trên - vốn đã đổ hàng trăm triệu USD cho nghiên_cứu , phát_triển và sáp_nhập - là tạo ra một trợ_lý ảo có_thể phản_hồi tự_nhiên với độ_chính_xác cao tùy theo ngữ_cảnh .
+Hãng nào tiên_phong trong việc giới_thiệu một trợ_lý AI thông_minh hơn , chính_xác hơn , giao_tiếp trơn_tru hơn thì hãng đó sẽ thu_hút được nhiều khách_hàng sử_dụng dịch_vụ và sản_phẩm hơn .
+Mỗi công_ty tham_gia đều hiểu rằng một_khi người dùng đã chấp_nhận nền_tảng mới , họ sẽ không bỏ đi , bởi trợ_lý AI đã trở_nên gắn_bó với họ .   Công_nghệ giọng nói kết_hợp trí_tuệ_nhân_tạo vì_vậy được coi là yếu_tố quan_trọng nhất giúp một hãng lật_ngược thế cờ và vươn lên dẫn_đầu thị_trường .
+Bởi_vậy , họ sẵn_sàng chi mạnh để đầu_tư hoặc mua lại các công_ty nhỏ đang sở_hữu những bí_quyết giúp họ tạo_dựng nên nền_tảng của tương_lai .   " Chúng_ta đang ở biên_giới nơi kết_nối giữa sức_mạnh của ngôn_ngữ_tự_nhiên với trí_tuệ tiên_tiến của máy_móc .
+Chúng_tôi gọi đây là Hội_thoại như một nền_tảng ( CaaP - Conversations as a Platform ) " ,   Satya_Nadella , CEO Microsoft , nhận_định .

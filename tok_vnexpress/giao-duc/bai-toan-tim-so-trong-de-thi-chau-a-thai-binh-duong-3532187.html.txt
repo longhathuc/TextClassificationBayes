@@ -1,0 +1,7 @@
+Bài_toán tìm số trong đề thi châu Á - Thái_Bình_Dương
+Bạn có_thể giải bài_toán nằm trong đề thi Olympic_Toán học châu Á - Thái_Bình_Dương ( APMOPS ) này trong vòng bao_lâu ?
+Một_số có 6 chữ_số bắt_đầu bằng chữ_số 1 .
+Nếu ta di_chuyển chữ_số 1 về hàng đơn_vị và đẩy các số đằng sau lên trước ( thứ_tự các chữ_số này vẫn giữ nguyên ) , ta được một_số mới gấp 3 lần số ban_đầu .
+Hỏi số có 6 chữ_số ban_đầu là số nào ?
+Thanh_Tâm
+> > Bài_toán về người say rượu khiến bạn chóng_mặt > > Bài_toán kiểm_tra đội ghi_nhớ kiến_thức tiểu_học

@@ -1,0 +1,18 @@
+Ứng_dụng ảnh Meitu âm_thầm gửi dữ_liệu về Trung_Quốc
+Ứng_dụng " hóa_trang " Meitu ẩn_chứa nhiều đoạn mã đáng ngờ , " đòi_hỏi " nhiều quyền truy_cập và thu_thập thông_tin thiết_bị rồi gửi dữ_liệu về máy_chủ Trung_Quốc .
+Ứng_dụng " hóa_trang " Meitu đang được nhiều người dùng ưa_thích .
+Theo phát_hiện của hãng nghiên_cứu bảo_mật Will_Strafach , Meitu không đơn_thuần là một ứng_dụng ảnh thông_thường mà ẩn_chứa nhiều nguy_hiểm , có_thể khiến dữ_liệu người dùng bị đánh_cắp bất_cứ lúc_nào .
+Cụ_thể , ngay từ khi cài_đặt , ứng_dụng ( trên cả i OS lẫn Android ) đòi_hỏi rất nhiều quyền_hạn khác_nhau như camera , kho ảnh , vị_trí . . , nhưng đáng ngờ nhất_là việc thu_thập địa_chỉ MAC và số IMEI , cũng_như tự_động khởi chạy khi bật thiết_bị cài_đặt nó .
+Jonathan_Zdziarski , một chuyên_gia pháp_lý và bảo_mật số , còn phát_hiện ra rằng , bên trong Meitu trên i OS có chứa " những đoạn mã phức_tạp và đáng ngờ " , làm nhiệm_vụ kiểm_tra điện_thoại một_cách âm_thầm , trong đó có nhận_dạng thiết_bị đã jailbreak hay chưa , số thuê_bao di_động , nhà mạng …
+Meitu đòi_hỏi rất nhiều quyền truy_cập trên i OS .
+Theo chuyên_gia bảo_mật này , các ứng_dụng ảnh thu_thập thông_tin người dùng và gửi về máy_chủ từ xa không quá xa_lạ .
+Những thông_tin này thường được bán cho các nhà quảng_cáo .
+Tuy_nhiên , việc thu_thập cả những thứ liên_quan đến quyền riêng_tư là xâm_hại nghiêm_trọng đến quyền cá_nhân .
+Nguy_hiểm hơn , việc âm_thầm đánh_cắp số IMEI của điện_thoại có_thể bị kẻ xấu lợi_dụng để chiếm quyền điều_khiển điện_thoại .
+Theo The_Verge , việc các ứng_dụng Trung_Quốc trong đó có Meitu thu_thập IMEI không có gì là bất_thường .
+Chúng thực_hiện dựa theo luật mới tại Trung_Quốc , trong đó IMEI máy được sử_dụng để định_dạng thiết_bị , hỗ_trợ chống thư rác và ngăn_cản các nội_dung cấm .
+Meitu là ứng_dụng phát_hành vào năm 2008 , khá phổ_biến tại Trung_Quốc .
+Đầu năm 2017 , Meitu chỉ đứng thứ 317 trong bảng xếp_hạng các ứng_dụng " Ảnh và Video " trên App_Store_Mỹ .
+Nhưng sau khi cập_nhật tính_năng Hand-drawn cho_phép người dùng biến_đổi ảnh chân_dung thành khuôn_mặt hoạt_hình , Meitu lập_tức vươn lên vị_trí thứ 2 trong top ứng_dụng tải nhiều nhất , sau Snapchat .
+Số_lượng người dùng tải về ứng_dụng này đã qua con_số 1 tỷ , tạo ra 6 tỷ tấm ảnh hóa_trang vui_nhộn mỗi tháng .
+Bảo_Lâm

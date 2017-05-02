@@ -1,0 +1,15 @@
+Hàng triệu smartphone Android nhiễm phần_mềm độc_hại từ Trung_Quốc
+Có ít_nhất 10 triệu smartphone Android bị nhiễm phần_mềm độc_hại HummingBad được phát_triển bởi Yingmob , một công_ty Trung_Quốc có danh_tiếng trong lĩnh_vực quảng_cáo .
+Ít_nhất 10 triệu smartphone Android đang bị nhiễm HummingBad trên thế_giới .
+Công_ty an_ninh mạng của Israel , Check_Point , vừa đưa ra cảnh_báo bảo_mật trên sau khi theo_dõi gần 85 triệu thiết_bị chạy Android có cài phần_mềm của Yingmob từ tháng 2/2016 tới nay .
+Nhóm phát_hiện ra rằng , có tới hơn 10 triệu trong số đó có_mặt của malware độc_hại .
+" Chúng_tôi khá ngạc_nhiên khi đứng sau HummingBad là một tổ_chức lớn mà không phải là các tin_tặc hay nhóm tin_tặc nhỏ_lẻ .
+Yingmob hoạt_động rất bài_bản và có tới 4 nhóm với 25 thành_viên chuyên nghiên_cứu theo_dõi quảng_cáo mang tên Development_Team for Overseas_Platform , chịu trách_nhiệm phát_triển những phần_mềm độc_hại phục_vụ mục_đích này " , Dan_Wiley , trưởng bộ_phận Ứng_phó sự_cố của Check_Point , cho_biết .
+Theo Wiley , cách_thức hoạt_động của HummingBad không khác nhiều so với các malware từng được phát_hiện trước_đây .
+Tức_là , nó sẽ xâm_nhập vào smartphone Android thông_qua ứng_dụng đáng tin_cậy , cài một loại phần_mềm rootkit và chiếm quyền quản_trị cao nhất của thiết_bị này .
+Sau đó , nó sẽ tự_động thực_hiện   các tác_vụ trên máy ( như cho_phép tự kích_hoạt quảng_cáo , truy_cập liên_kết bất_hợp_pháp , tải ứng_dụng lừa_đảo … ) hoặc các hoạt_động gián_điệp ( như tự_động gửi dữ_liệu điện_thoại về máy_chủ ) mà không cần xin_phép chủ_nhân của smartphone đó .
+" Từ số_liệu cho thấy , mỗi ngày HummingBad tự kích_hoạt tới 25 triệu quảng_cáo , 2,5 triệu lượt truy_cập liên_kết và tự tải hơn 50.000 ứng_dụng mỗi ngày trên thiết_bị bị nhiễm .
+Số tiền mà phần_mềm độc_hại này mang về cho Yingmob không dưới 10.000 USD mỗi ngày , tức 300.000 USD mỗi tháng " , Wiley nhấn_mạnh .
+Trong số hơn 10 triệu smartphone Android bị lây_nhiễm HummingBad được phát_hiện trên thế_giới , Trung_Quốc và Ấn Độ có số_lượng bị nhiễm cao nhất , lần_lượt là 1,6 triệu và 1,4 triệu .
+Philippines và Indonesia có hơn nửa triệu thiết_bị bị lây_nhiễm , trong khi Mỹ là 287.000 chiếc và Nga là 208.000 chiếc …
+Bảo_Lâm ( theo Fortune )

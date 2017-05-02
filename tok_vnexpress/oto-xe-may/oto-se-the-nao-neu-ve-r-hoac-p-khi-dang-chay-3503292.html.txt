@@ -1,0 +1,27 @@
+Ôtô sẽ thế_nào nếu về R hoặc P khi đang chạy ?
+Với xe_hơi hiện_nay , các hãng thiết_kế chức_năng ngăn_chặn hộp_số chuyển từ D về R hoặc P khi xe đang chạy , nhưng với xe đời cũ thì chưa chắc .
+Vô_tình đẩy cần số về R hoặc P khi xe đang lăn bánh là trường_hợp nhiều tài_xế gặp phải , có_thể do chính tài_xế hoặc do trẻ_em , người ngồi cạnh .
+Liệu hành_động này có làm tổn_hại hộp_số ?
+Câu trả_lời là không với xe hiện_đại .
+Chuyên_trang Autoblog dẫn lời   Craig_Renneker , Kỹ_sư trưởng của Ford cho_biết , hầu_hết các hãng đều lường trước việc này và chế_tạo một chức_năng cho hộp_số gọi_là " Ngăn_chặn cài số lùi "   ( Reverse_Inhibit ) .
+Theo đó , hộp_số sẽ phớt_lờ yêu_cầu của tài_xế khi xe đang chạy .
+Ví_dụ , xe đang chạy ở 30 km / h , tài_xế đẩy từ D về R , lúc này trên bảng đồng_hồ có_thể vẫn nhảy sang R , nhưng thực_tế thì hộp_số không sang R mà phớt_lờ , xe chạy giống như ở N , cho tới khi xe từ_từ giảm_tốc về 0 km / h thì lúc này hộp_số mới nhận lệnh và chuyển về R để lùi .
+Tương_tự cho trường_hợp về P .
+Ở video trên tài_xế chuyển sang R khi đang ở tốc_độ cao trên xe Toyota .
+Chuyên_gia của Toyota_Việt_Nam cho_biết cũng từng thử_nghiệm từ D về R trên chiếc Camry 3.5Q và kết_quả là không có gì tổn_hại hộp_số .
+Xe đang ở 30 km / h sẽ lăn theo quán_tính và dừng khi hết đà .
+Cần số_không liên_kết cơ_khí thuần_túy thẳng tới hộp_số phía dưới mà thông_qua bảng chọn điện_tử .
+Khi đẩy cần số_từ D về R xe đang chạy , số trên bảng đồng_hồ vẫn nhảy sang R bởi đơn_thuần là thiết_lập hiển_thị .
+Nhưng bộ_điều_khiển sẽ hiểu và ngăn_chặn hộp_số quay ngược , thay vào đó sẽ thả xe vào số mo ( N ) .
+Với xe số sàn , về cơ_bản cũng không_thể chuyển từ số tiến về lùi .
+Hộp_số có những khóa cơ_khí ngăn chuyển về số R khi xe đang tiến .
+Khi tài_xế đẩy R , hộp_số sẽ phát ra những tiếng kêu .
+Nếu tài_xế tiếp_tục cố_tình vào R , có_thể gây sinh nhiệt rất lớn và tổn_hại hộp_số .
+Bộ đồng tốc chỉ có tác_dụng giúp xe vào số mượt hơn còn việc xoay ngược hướng là những can_thiệp thô_bạo và khắc_nghiệt .
+Nhưng với xe đời cũ , kể_cả số tự_động và số sàn , đều có_thể khiến tài_xế trả_giá đắt .
+Xe đời cũ không có chức_năng " Ngăn_chặn cài số lùi " hoặc có cũng bằng thủy_lực , không đủ nhạy và phát_huy tối_đa tính_năng như số điện_tử .
+Nếu trả về R hoặc P từ D , các xe này sẽ chết máy sau một đoạn đường ngắn " lục khục " .
+Tổn_thất có_thể ít hoặc nhiều tùy tốc_độ lăn bánh , nhưng rủi_ro nhất_là thay cả hộp_số .
+Chuyên_gia các hãng khuyến cao , dù_cho xe hiện_đại đến mấy , có chức_năng hạn_chế rủi_ro tối_đa thì tài_xế cũng không nên thử_nghiệm những hành_động này .
+Để an_toàn cho người trên xe cũng_như tăng tuổi_thọ các bộ_phận trên xe , hãy dừng lại hoàn_toàn trước khi chuyển số_từ D sang R , P hoặc ngược_lại .
+Đức_Huy

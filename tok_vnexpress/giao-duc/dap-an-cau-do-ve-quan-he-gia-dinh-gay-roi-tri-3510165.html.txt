@@ -1,0 +1,22 @@
+Đáp_án câu_đố về quan_hệ gia_đình gây_rối trí
+Để xác_định chính_xác mối quan_hệ giữa nhân_vật kể chuyện với Teresa , ta có_thể vẽ cây gia_đình .
+Câu_đố :
+Nếu con_gái Teresa là mẹ của con_gái tôi , tôi có quan_hệ gì với Teresa ?
+a .
+Bà của Teresa
+b .
+Mẹ của Teresa
+c .
+Con_gái của Teresa
+d . Cháu gái của Teresa
+e .
+Tôi chính là Teresa
+Đáp_án : c .
+Con_gái của Teresa .
+Dựa vào dữ_liệu câu_đố , ta vẽ ra một cây gia_đình như trên .
+Nếu_Teresa là thế_hệ 1 , " tôi " ( me ) sẽ là thế_hệ 2 cùng_với con_gái Teresa , đồng_thời là mẹ của con_gái " tôi " .
+Vậy con_gái " tôi " là thế_hệ 3 , chính là đáp_án ( d ) của câu_đố .
+Tiếp_tục dùng phương_pháp loại_trừ .
+Bà của Teresa , mẹ của Teresa hay Teresa đều không nằm cùng thế_hệ với " tôi " .
+Nhiều độc_giả cho rằng nhân_vật kể chuyện là con_rể Teresa , đây là suy_luận đúng , tuy_nhiên đáp_án này không có sẵn .   Do_vậy , chỉ có đáp_án c là chính_xác .
+Phiêu_Linh

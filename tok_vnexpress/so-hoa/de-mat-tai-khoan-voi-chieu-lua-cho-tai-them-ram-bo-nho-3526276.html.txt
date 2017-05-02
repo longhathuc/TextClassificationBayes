@@ -1,0 +1,17 @@
+Dễ mất tài_khoản với chiêu lừa cho tải thêm RAM , bộ_nhớ
+Mục_đích những trang_web cho tải về bộ_nhớ RAM , card màn_hình ( VGA ) hay thậm_chí cả bộ_nhớ_trong là nhằm trêu những người " mù công_nghệ " nhưng cũng tiềm_ẩn nhiều nguy_cơ bảo_mật .
+Thời_gian qua , có khá nhiều các trang_web thông_báo cho_phép tải về dung_lượng RAM được chia_sẻ trên mạng , như downloadmoreram . com .
+Tại_Việt_Nam , cũng có một_số trang " ăn_theo " như tairam . com hay thậm_chí có các biến_thể cho_phép tải cả bộ_nhớ SSD hay VGA như taissd . com , taivga.com ...
+Những trang_web này nhìn_chung có giao_diện khá đơn_giản .   Khi click vào mức dung_lượng cần tải , một giao_diện tải về hiện ra , cho_phép nhấn vào để download .
+Tuy_nhiên , khi tải xong , hoặc là website bị " đơ " không_thể thao_tác được nữa , hoặc hiện lên thông_báo trêu_chọc .
+Cũng có trang cho_phép tải về tập_tin cài_đặt vào máy .
+Tất_nhiên , sau khi cài_đặt , dung_lượng RAM vẫn không thay_đổi .
+Giao_diện tải của một trang cho tải   RAM và thông_báo sau khi tải xong .
+Anh Huy_Phong , một kỹ_thuật_viên máy_tính tại quận 7 ( TP_HCM ) cho_biết , đây là một trò_đùa nhắm vào những người không biết gì về máy_tính .
+" RAM , VGA , SSD thuộc về phần_cứng , tức_là các bộ_phận lắp_đặt thêm vào máy và có thông_số kỹ_thuật cố_định , chứ không phải là một phần_mềm để có_thể download từ trên mạng về " , anh Phong giải_thích .
+Theo ông Võ_Đỗ_Thắng , Giám_đốc Trung_tâm An_ninh mạng Athena , người dùng cần cẩn_thận với những trang_web này , đặc_biệt là những trang không rõ nguồn_gốc và khi nhấn download có tập_tin tải về thực_sự .
+" Về cơ_bản , những trang dạng như để tải RAM chỉ là một trò_đùa , nhưng vẫn tiềm_ẩn nguy_cơ bảo_mật .
+Tập_tin tải về có_thể ẩn_chứa phần_mềm gây hại cho máy_tính , smartphone … " , ông Thắng_cảnh báo .
+Do_đó , khi có thông_báo tải về , người dùng không nên lưu các tập_tin này .
+Nếu đã lưu , tốt nhất_là nên xóa , không nên click vào tránh trường_hợp " tự tay " cài virus .
+Bảo_Lâm

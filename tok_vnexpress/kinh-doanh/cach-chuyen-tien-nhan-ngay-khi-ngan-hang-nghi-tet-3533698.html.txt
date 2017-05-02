@@ -1,0 +1,23 @@
+Cách chuyển_tiền nhận ngay khi ngân_hàng nghỉ Tết
+Bạn sẽ nhận được tiền ngay sau một phút thay_vì phải chờ đến mùng 6 Tết khi các ngân_hàng trở_lại làm_việc nhờ hệ_thống chuyển nhanh 24/7 đang được các tổ_chức tín_dụng triển_khai .
+Từ trước đến nay , phần_lớn mọi người vẫn chuyển_tiền qua cách thông_thường là hệ_thống ( CITAD ) do Ngân_hàng Nhà_nước cung_cấp , với sự tham_gia của tất_cả các ngân_hàng , ở mọi chi_nhánh .
+Tuy_nhiên , nhược_điểm của hệ_thống này là nếu chuyển sau 16h thứ Sáu hoặc vào ngày nghỉ thứ Bảy , Chủ_nhật hay lễ , Tết , tiền sẽ bị " treo " và phải đến ngày làm_việc tiếp_theo của ngân_hàng mới được nhận .
+Như_vậy , nếu chuyển_tiền từ ngày 29 Tết , đến mùng 6 Tết các giao_dịch mới hoàn_tất .
+Số thẻ là dãy số in trước mặt thẻ ATM .
+Ảnh : A . Q .
+Do_đó , để người thụ_hưởng nhận tiền bạn chuyển ngay , bạn nên chuyển qua số thẻ ( thay_vì số tài_khoản ) như cách thông_thường .
+Theo đó , trong những ngày Tết , bạn chỉ cần vào Internet_Banking hoặc đến máy ATM , nhập số thẻ người nhận ( số thẻ là 16 hoặc 19 chữ_số in ở mặt trước thẻ ATM ) .
+Sau khi nhập , hệ_thống sẽ tự_động hiển_thị tên chủ thẻ ( người thụ_hưởng tiền ) và người chuyển không cần nhập tên chi_nhánh mở thẻ , tài_khoản của người thụ_hưởng .
+Với cách này , tiền dù chuyển liên ngân_hàng , vẫn sẽ đến người thụ_hưởng ngay trong 8 giây , bất_kể là ngày nghỉ , lễ .
+Theo Công ty cổ_phần Thanh_toán quốc_gia Việt_Nam ( Napas ) , đơn_vị xây_dựng hệ_thống chuyển_tiền nhanh liên ngân_hàng 24/7 này , hiện đã có 39 trên tổng_số 46 nhà_băng hỗ_trợ cách chuyển_tiền này .
+Tuy_nhiên , trước khi chuyển , bạn nên tìm_hiểu kỹ danh_sách các đơn_vị đáp_ứng .
+Hơn_nữa , sẽ có đơn_vị chỉ chấp_nhận chuyển qua số thẻ bằng hình_thức Internet_Banking , có ngân_hàng lại chấp_nhận qua máy ATM hoặc SMS Banking hoặc cả ba .
+> > >   Danh_sách ngân_hàng chấp_nhận chuyển_tiền nhanh qua thẻ
+Phí chuyển_tiền nhanh liên ngân_hàng 24/7 dao_động từ 5.500 đồng đến 11.000 đồng ( tùy vào chính_sách của mỗi ngân_hàng ) .
+Mức phí này thực_tế cũng không đắt hơn so với cách chuyển_tiền thông_thường .
+Không_chỉ triển_khai với chuyển_tiền qua số thẻ , Napas cũng hỗ_trợ chuyển_tiền liên ngân_hàng nhanh qua số tài_khoản .
+Tuy_nhiên , số ngân_hàng kết_nối và đáp_ứng dịch_vụ này hiện mới là 36 đơn_vị .
+Với cách chuyển qua số tài_khoản , bạn cũng chỉ cần nhập tên ngân_hàng thụ_hưởng , số tài_khoản mà không cần nhập tên người nhận và tên chi_nhánh .
+Hệ_thống sẽ tự_động truy_vấn thông_tin người thụ_hưởng gồm : Tên chủ thẻ , số thẻ chuyển đên , số tiền chuyển_khoản , nội_dung chuyển_khoản , số tiền phí ...
+Như_vậy , khác với cách chuyển thông_thường , bạn phải nhập cả tên người thụ_hưởng , tên chi_nhánh thì khi chuyển qua hệ_thống liên ngân_hàng 24/7 , bạn chỉ cần nhập số tài_khoản người thụ_hưởng , hệ_thống sẽ tự_động trả về thông_tin người nhận .
+> > >   Danh_sách các ngân_hàng chấp_nhận chuyển_tiền nhanh qua số tài_khoản

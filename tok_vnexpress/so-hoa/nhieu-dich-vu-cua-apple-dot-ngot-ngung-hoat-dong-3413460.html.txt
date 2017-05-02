@@ -1,0 +1,9 @@
+Nhiều dịch_vụ của Apple đột_ngột ngừng hoạt_động
+Từ rạng sáng 3/6 , nhiều người dùng phản_ánh không_thể truy_cập được kho ứng_dụng App_Store , mua nội_dung từ i Tunes cũng_như dùng tính_năng liên_quan đến Apple ID .
+Trên trang_chủ , Appe đã phải mở ra một mục riêng để cập_nhật trạng_thái , thông_báo cho người dùng tình_trạng hoạt_động của các dịch_vụ .
+Tính đến 8h sáng 3/6 ( theo giờ Việt_Nam ) , các dịch_vụ i Cloud_Backup ( sao lữu dữ_liệu trực_tuyến ) , iCloud Drive ( kho lưu_trữ trực_tuyến ) , Photos ( kho ảnh trực_tuyến ) cũng_như ứng_dụng Notes , iWork hoạt_động trên web đều vẫn khó truy_cập vì tốc_độ chậm .
+Trước đó , theo CNBC , sự_cố đối_với các dịch_vụ của Apple đã diễn ra trên diện rộng gây lỗi cho nhiều ứng_dụng bắt_đầu_từ rạng sáng 3/6 .
+Khi đó , nhiều dịch_vụ thường dùng trên các thiết_bị của Apple bị lỗi và không_thể hoạt_động do mất kết_nối tới máy_chủ , từ kho ứng_dụng trực_tuyến App_Store , iTunes cho tới các dịch_vụ như Find_My iPhone , Mail_Drop ...
+Thậm_chí , Apple TV cũng không sử_dụng được .
+Hiện_tại , nguyên_nhân của sự_cố trên chưa được Apple công_bố và trong chia_sẻ trên mạng xã_hội , hãng cho_biết đang khắc_phục sự_cố và điều_tra nguyên_nhân .
+Vẫn có nhiều dịch_vụ của Apple chưa trở_lại hoạt_động bình_thường .

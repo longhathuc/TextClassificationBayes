@@ -1,0 +1,8 @@
+Bài_toán ' Truy_tìm kho báu '
+Một nhóm bạn nhặt được bản_đồ giấu kho báu với chỉ_dẫn như sau :
+Bắt_đầu_từ khu cổ mộ , đi thẳng về hướng đại giảng_đường , sau đó rẽ trái 90 độ và đi bằng đúng cự_ly đã đi , đánh_dấu điểm đó là điểm thứ 1 .
+Lại bắt_đầu_từ khu cổ mộ , đi thẳng về hướng của giếng nước , rẽ phải 90 độ và đi bằng đúng cự_ly đã đi , đánh_dấu điểm đó là điểm thứ 2 .
+Kho báu được chôn ở ngay giữa hai điểm này .
+Rủi thay , khi nhóm bạn đến địa_điểm chôn kho báu thì khu cổ mộ đã không còn dấu_tích , chỉ có_thể tìm ra đại giảng_đường và cái giếng .
+Làm cách nào tìm ra kho báu ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

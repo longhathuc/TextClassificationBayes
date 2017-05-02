@@ -1,0 +1,17 @@
+2 điện_thoại Lenovo ở Nga bị cài sẵn phần_mềm độc_hại
+Lenovo A319 , A6000 được phát_hiện chạy firmware chứa phần_mềm độc_hại , bí_mật lấy dữ_liệu người dùng , hiển_thị quảng_cáo hay tự_ý tải thêm tập_tin .
+Theo công_ty bảo_mật Nga_Dr . Web , mã độc được phát_hiện tích_hợp trong hệ_thống của một lượng lớn thiết_bị Android dùng chip MediaTek .
+Ẩn mình dưới tệp Android.DownLoader.473.origin và Android.Sprovider . 7 , mã độc có khả_năng thu_thập dữ_liệu trên các máy bị lây_nhiễm .
+Không_chỉ thế , những phần_mềm độc_hại này còn liên_lạc với máy_chủ và thực_hiện lệnh từ xa , tự_động cập_nhật phần_mềm , bí_mật tải về và cài_đặt các ứng_dụng khác , đồng_thời tự_động chạy mỗi khi thiết_bị được khởi_động lại hoặc được bật lên .
+Lenovo A319 , một mẫu smartphone cài firmware chứa phần_mềm độc_hại .
+" Tội_phạm mạng đã tạo ra thu_nhập bằng cách tăng lượng ứng_dụng tải về và phân_phối các phần_mềm quảng_cáo " , nhóm nghiên_cứu cho_biết .
+" Các phần_mềm độc_hại được tích_hợp vào smartphone Android sẽ tham_gia vào mạng_lưới kiếm tiền cho tin_tặc " .
+Danh_sách các thiết_bị Android dính mã độc bao_gồm : Lenovo A319 , A6000 , một_số sản_phẩm mang thương_hiệu MegaFon , Bravis , Irbis ...
+Đây đều là những smartphone giá rẻ , trong đó hai model của Lenovo có bán tại thị_trường Việt_Nam .
+Chi_tiết điện_thoại cài sẵn phần_mềm độc_hại
+Cụ_thể , Lenovo A319 và A6000 được cài Android.Sprovider . 7 Trojan , có_thể tải , cài_đặt và chạy các tập_tin APK , mở liên_kết được định sẵn trong trình_duyệt , thực_hiện cuộc_gọi , mở và hiển_thị quảng_cáo , tạo icon trên màn_hình chủ và cập_nhật một_số phần_mềm độc_hại khác .
+Trong khi đó các thiết_bị còn lại dính   Android.DownLoader.473.origin , sẽ tải và cài_đặt các chương_trình độc_hại , các phần_mềm không mong_muốn ...
+Tháng 11 , các nhà bảo_mật Kryptowire đã phát_hiện cửa hậu ( backdoor ) được giấu trong firmware của nhiều smartphone Android giá rẻ bán tại Mỹ .
+Những phần_mềm này ngầm thu_thập dữ_liệu người dùng rồi gửi về máy_chủ ở Trung_Quốc .
+Công_ty viết ra phần_mềm này là Shanghai_Adups_Technology , cho_biết ứng_dụng của họ chạy trên hơn 700 triệu thiết_bị thông_minh và có_thể xuất_hiện trên cả ôtô .
+Phần_mềm tự_động truyền thông_tin sang Trung_Quốc sau mỗi 72 giờ và mục_đích có_thể phục_vụ quảng_cáo hoặc hoạt_động gián_điệp .

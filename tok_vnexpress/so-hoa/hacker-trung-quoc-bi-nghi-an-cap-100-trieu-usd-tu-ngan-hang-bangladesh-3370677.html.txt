@@ -1,0 +1,21 @@
+Hacker_Trung_Quốc bị nghi ăn_cắp 100 triệu USD từ ngân_hàng Bangladesh
+Đại_diện ngân_hàng trung_ương Bangladesh cho_hay , họ tin rằng hacker Trung_Quốc đã sử_dụng một tài_khoản tại Cục dự_trữ Liên_bang Mỹ ( FED ) để thực_hiện hành_vi này .
+Những điều_tra gần đây từ phía Mỹ cho_hay hacker đã đột_nhập vào hệ_thống máy_tính của ngân_hàng trung_ương Bangladesh , ăn_cắp thông_tin về hệ_thống bảo_mật , phá vỡ hàng_rào an_ninh , tạo lệnh giả để Cục dự_trữ Liên_bang Mỹ tại New_York chuyển 81 triệu USD từ tài_khoản của ngân_hàng Bangladesh tới tài_khoản của 4 người đàn_ông ở Philippines .
+Tiếp_theo , chúng yêu_cầu chuyển thêm 20 triệu USD tới một ngân_hàng ở Sri_Lanka .
+Tuy_nhiên , lệnh này không được thực_hiện vì lệnh chuyển_tiền viết sai chính_tả .
+Ngoài_ra , hacker còn gửi hàng tá lệnh chuyển_tiền giả tới FED .
+Các nhà_chức_trách Bangladesh từ_chối bình_luận chi_tiết về vụ_việc .
+Bộ_trưởng Tài_chính Bangladesh cho_biết chính_phủ đang cân_nhắc việc kiện các ngân_hàng tại Mỹ và rằng các ngân_hàng Mỹ không_thể trốn_tránh trách_nhiệm trong việc này .
+Trong một động_thái đáp trả , FED đã có một bài đăng lên Twitter với nội_dung : “ Theo như những báo_cáo về hoạt_động tội_phạm mạng , chưa có đủ bằng_chứng để kết_tội FED và để kết_luận rằng FED có liên_quan đến vụ_việc ” .
+Các nhà_chức_trách tại FED cũng từ_chối đưa ra quan_điểm về vụ tranh_cãi với Bangladesh này .
+Giám_đốc ngân_hàng Trung_ương Bangladesh đã từ_chức sau vụ mất_cắp này .
+Theo báo địa_phương , ngân_hàng trung_ương Bangladesh đã thu_hồi được một phần của khoản tiền 100 triệu USD bị mất .
+Cơ_quan này cũng đang phối_hợp với Ngân_hàng Thế_giới và các chuyên_gia công_nghệ để truy_nguyên nốt khoản tiền bị lấy cắp .
+Trong một động_thái có liên_quan , chính_phủ Phillippines đã phong_tỏa một_số tài_khoản ngân_hàng tại quốc_gia này , với nghi_vấn các hacker Trung_Quốc đã chuyển số tiền đánh_cắp được sang các tài_khoản tại Phillippines .
+Theo BBC , để thực_hiện vụ tấn_công , các hacker đã dành thời_gian bí_mật theo_dõi cách_thức chuyển_khoản tại hệ_thống ngân_hàng Bangladesh .
+Từ đó , chúng có_thể thực_hiện những giao_dịch dưới danh_nghĩa là nhà_chức_trách làm_việc cho ngân_hàng trung_ương và chính_phủ .
+100 triệu USD đã bị bốc_hơi vì lý_do này , cho_đến khi hệ_thống ngân_hàng tại Mỹ phát_hiện những giao_dịch khả_nghi và gửi thông_báo cho phía Bangladesh .
+Trong khi các nhà kinh_tế_học bày_tỏ thái_độ lạc_quan rằng Bangladesh sẽ thu_hồi được hết số tiền bị đánh_cắp , giới công_nghệ lại tỏ ra lo_lắng .
+Nhiều chuyên_gia công_nghệ nhận_định vụ tấn_công mạng lần này cho thấy lỗ_hổng an_ninh mạng lớn tại hệ_thống ngân_hàng ở các quốc_gia đang phát_triển , nơi mà sự tăng_trưởng nhanh_chóng của tín_dụng đã khiến chính_phủ lơ_là những quy_định xung_quanh bảo_mật .
+Giám_đốc ngân_hàng trung_ương Bangladesh , ông Atiur_Rahman đã từ_chức sau vụ_việc .
+Nguyễn_Mai_Đức

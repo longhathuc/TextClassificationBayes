@@ -1,0 +1,16 @@
+Việt_Nam sẵn_sàng cho sự hiện_diện của robot
+Sự xuất_hiện của các dòng robot thông_minh đã khiến nhiều người đặt câu_hỏi liệu chúng có làm xáo_trộn cuộc_sống của con_người .
+Trước_đây , robot chỉ được ứng_dụng nhiều trong lĩnh_vực công_nghiệp , nhưng trong giai_đoạn 2014-2019 , thị_trường robot cho tiêu_dùng và văn_phòng dự_kiến tăng_trưởng với tốc_độ 17% .
+Không_chỉ Nhật_Bản mà nhiều quốc_gia trên thế_giới đã tích_cực khai_thác robot trong các lĩnh_vực của đời_sống , như ở Mỹ có robot thu_ngân , lễ_tân , ở Singapore có robot giám_sát chất_lượng nước , ở Trung_Đông sử_dụng robot trong các hoạt_động sản_xuất nông_nghiệp , còn các loại robot trợ_giúp người_bệnh và người_già thì đang hiện_diện ở nhiều nước châu Âu và Nhật_Bản .
+Theo nghiên_cứu của SoftBank , năm lĩnh_vực con_người mong_muốn có sự tham_gia của robot nhất_là hướng_dẫn khách_hàng ( 32,7% ) , tiếp_thị cửa_hàng bán_lẻ ( 26% ) , dịch_vụ sự_kiện ( 21,2% ) , giáo_dục ( 19,2% ) , xuất_nhập_khẩu ( 19,2% ) .   Dự_báo trong 20 năm tới , robot sẽ ngày_càng có ảnh_hưởng tới đời_sống của xã_hội và sẽ tham_gia thêm nhiều lĩnh_vực .
+Tuy_nhiên , việc phát_triển trí thông_minh của robot đến mức nào , khả_năng tương_tác của robot ra_sao vẫn là những bài_toán đặt ra cho các nhà_phát_triển .
+Trước câu_hỏi liệu robot có " cướp " việc_làm của con_người không , ông Takashi_Morimoto , Giám_đốc SoftBank Telecom_Việt_Nam , cho_hay : " Hơn 9.000 robot NAO của chúng_tôi đã được bán ra và sử_dụng cho các mục_đích như giáo_dục , nghiên_cứu , dịch_vụ khách_sạn , ngân_hàng , hướng_dẫn khách_hàng tại sân_bay … Chúng giải_phóng sức_lao_động của con_người chứ không_thể thay_thế hoàn_toàn các công_việc của con_người " .
+FPT đã nhiều lần tổ_chức cuộc_thi lập_trình ứng_dụng cho robot .
+Thị_trường robot đang bùng_nổ và Việt_Nam cũng không_thể đứng ngoài xu_thế này .   Ông
+Trần_Huy_Bảo_Giang , Giám_đốc công_nghệ của FPT Software , bày_tỏ sự lạc_quan với nguồn nhân_lực làm robot tại Việt_Nam : " Đội_tuyển Robocon_Việt_Nam đã giành chiến_thắng chung_cuộc 5 trong số 14 mùa thi Robocon thế_giới , trong khi cuộc_thi lập_trình ứng_dụng cho robot có tên SMAC Challenge do FPT tổ_chức cũng luôn thu_hút sự quan_tâm và tham_dự của các sinh_viên công_nghệ_thông_tin tại Hà_Nội và TP_HCM .
+Đây là tín_hiệu đáng mừng , cho thấy đội_ngũ lập_trình ứng_dụng cho robot của Việt_Nam đã sẵn_sàng cho sự chuyển_dịch công_nghệ " .
+Tại_Việt_Nam , robot đã được ứng_dụng trong một_số lĩnh_vực , chủ_yếu trong các nhà_máy công_nghiệp , tự_động lau dọn nhà_cửa ...
+Ngày 26/8 tại Hà_Nội , công_ty   SoftBank Việt_Nam và các đơn_vị triển_khai gồm FPT Software , Tổ_chức giáo_dục Hoa kỳ IAE sẽ tổ_chức hội_thảo " Robotic - Tương_lai trong tầm tay " .
+Người tham_gia có_thể   trực_tiếp lập_trình 6 robot NAO để trải_nghiệm khả_năng tương_tác của robot với con_người và các ứng_dụng trong lĩnh_vực giáo_dục .
+Đây cũng là lần đầu_tiên tại Việt_Nam   robot được ứng_dụng trong lĩnh_vực giáo_dục .
+Bà Nguyễn_Thị_Quang_Ngọc , Phó_chủ_tịch IAE , cho_biết : " Trong 5 tháng qua , chúng_tôi đã phối_hợp với FPT Software xây_dựng ứng_dụng đào_tạo và ' dạy ' kiến_thức cho robot NAO , giúp NAO không_chỉ đơn_thuần lặp lại các câu hỏi_đáp có sẵn , mà có_thể tương_tác với con_người theo ngữ_cảnh , hỗ_trợ giáo_viên dạy tiếng Anh cho trẻ_em " .

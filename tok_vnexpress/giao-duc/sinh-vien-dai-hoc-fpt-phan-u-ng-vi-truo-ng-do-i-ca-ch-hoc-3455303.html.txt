@@ -1,0 +1,28 @@
+Sinh_viên Đại_học FPT phản ư ́ ng vì trươ ̀ ng đô ̉ i ca ́ ch học
+Mỗi sinh_viên ngành Công_nghệ_thông_tin phải ho ̣ c 5 môn theo hình_thức học online vấp phải nhiều ý_kiến trái chiều của sinh_viên .
+Nguyễn_Huy - sinh_viên năm 2 của trường cho_biết , cách đây không lâu , sinh_viên ngành Công_nghệ_thông_tin của trường được thông_báo , mỗi người phải học 5 môn theo hình_thức online , tuy_nhiên lại thu mức học_phí bằng với chương_trình học trực_tiếp ở trường như trước_đây .
+Huy cho rằng điều này chưa hợp_lý .
+Một_số ý_kiến khác không đồng_tình vì sợ sau khi ra trường , bằng tốt_nghiệp sẽ có thêm chữ " đào_tạo từ xa " hay " đào_tạo online " trong hồ_sơ học_bạ .
+Ngọc_Minh , sinh_viên năm 2 ngành Công_nghệ_thông_tin cho_biết , chỉ việc học trực_tiếp mới giúp sinh_viên có cơ_hội giao_lưu , chia_sẻ với giảng_viên và bạn_bè , thay_vì chỉ cắm_đầu vào thiết_bị công_nghệ_học online .
+Trao_đổi về vấn_đề này , tiến_sĩ Đàm_Quang_Minh - hiệu_trưởng Đại_học FPT cho_biết , đây la ̀ chu ̉ trương cu ̉ a Ban điê ̀ u ha ̀ nh trươ ̀ ng va ̀ đang trong giai đoa ̣ n truyê ̀ n thông cho sinh_viên trươ ́ c khi a ́ p du ̣ ng vào ho ̣ c ky ̀ mơ ́ i .
+Theo tiến_sĩ Minh , go ̣ i la ̀ ho ̣ c online không chi ́ nh xa ́ c ma ̀ pha ̉ i go ̣ i đây la ̀ phương thư ́ c ho ̣ c mơ ́ i - ho ̣ c tâ ̣ p ti ́ ch hơ ̣ p ( blended learning ) .
+Ho ̣ c tâ ̣ p ti ́ ch hơ ̣ p la ̀ phương thư ́ c co ́ nhiê ̀ u ưu điê ̉ m đa ̃ đươ ̣ c nhiê ̀ u trươ ̀ ng trên thê ́ giơ ́ i a ́ p du ̣ ng nhưng co ̀ n râ ́ t mơ ́ i me ̉ ta ̣ i Viê ̣ t Nam .
+Cụ_thể , trong 5 học_kỳ đầu_tiên , mỗi sinh_viên sẽ học một môn ti ́ ch hơ ̣ p , trong đó ta ̀ i nguyên ho ̣ c tâ ̣ p đươ ̣ c đâ ̀ u tư nhiê ̀ u hơn , thâ ̀ y cô chỉ đo ́ ng vai tro ̀ ngươ ̀ i hươ ́ ng dâ ̃ n .
+" Mô ̣ t phâ ̀ n chương tri ̀ nh học của sinh_viên FPT se ̃ sư ̉ du ̣ ng ca ́ c ta ̀ i nguyên trư ̣ c tuyê ́ n tư ̀ ca ́ c nha ̀ cung câ ́ p uy ti ́ n nhâ ́ t trên thê ́ giơ ́ i , đươ ̣ c Viê ̣ t ho ́ a cho phu ̀ hơ ̣ p vơ ́ i sinh_viên Viê ̣ t Nam .
+Sinh_viên co ́ thê ̉ trao đô ̉ i vơ ́ i gia ̉ ng viên bâ ́ t ky ̀ lu ́ c na ̀ o hay pha ́ t sinh câu ho ̉ i trong quá_trình học .
+Các em hoa ̀ n toa ̀ n tự quyê ́ t đi ̣ nh tiê ́ n đô ̣ và thời_gian ho ̣ c tâ ̣ p cu ̉ a mi ̀ nh " , hiệu_trưởng Đại_học FPT chia_sẻ .
+Lợi_ích mà sinh_viên nhận được từ phương_thức mới này không_chỉ là kiến_thức chuyên_môn , mà_còn rèn tính chủ_động , tự_chủ cho sinh_viên , phát_triển kỹ_năng tự nghiên_cứu và khai_thác thông_tin .
+Theo ông Minh , đối_tác triển_khai hình_thức đào_tạo này được trường lựa_chọn là Đại_học trực_tuyến FUNiX .
+Theo đó , giảng_viên của Đại_học FPT và FUNiX sẽ cùng tham_gia hướng_dẫn , trả_lời khi sinh_viên gặp khó_khăn trong quá_trình học .
+Trước khi tiến_hành hợp_tác với FUNiX đê ̉ đào_tạo 5 môn ti ́ ch hơ ̣ p , trường đã tiến_hành khảo_sát rất kỹ chương_trình đào_tạo của đại_học trực_tuyến này va ̀ đô ́ i sa ́ nh chương tri ̀ nh chi tiê ́ t .
+FUNiX sở_hữu đô ̣ i ngu ̃ mentors đang la ̀ m viê ̣ c trong ca ́ c doanh nghiê ̣ p Công_nghệ_thông_tin lơ ́ n , co ́ ho ̣ c vi ̣ cao va ̀ nhiê ̀ u năm kinh nghiê ̣ m hô ̃ trơ ̣ sinh_viên .
+Ngoài_ra , chương_trình đào_tạo của FUNiX cũng được cập_nhật thường_xuyên , việc tham_gia học theo phương thư ́ c mơ ́ i sẽ giúp sinh_viên rèn_luyện những kỹ_năng , cập_nhật kiến_thức mới cũng_như thích_ứng nhanh với sự thay_đổi của công_nghệ .
+Trên thực_tế , có nhiều sinh_viên của FUNiX dù chưa học hết một năm đã có_thể đi làm , thậm_chí được mời vào làm_việc tại Công_ty công_nghệ lớn như FPT Software trong khi nhiê ̀ u nơi sinh_viên ho ̣ c xong 4 năm vâ ̃ n không co ́ viê ̣ c la ̀ m .
+Đây là minh_chứng thực_tế cho chất_lượng đào_tạo của họ .
+Về vấn_đề học_phí , tiến_sĩ Minh cho ră ̀ ng co ́ thông_tin chưa ro ̃ ra ̀ ng .
+Trường đã quyết_định mỗi học_kỳ có môn_học tích_hợp , sinh_viên sẽ được giảm 3 triệu đồng so với học_phí của chương_trình đào_tạo truyền_thống .
+Viê ̣ c ho ̣ c ti ́ ch hơ ̣ p cu ̃ ng chi ̉ a ́ p du ̣ ng cho 5 ho ̣ c ky ̀ đâ ̀ u tiên , mỗi học_kỳ chỉ học 1 trong 5 môn , chiê ́ m mô ̣ t phâ ̀ n nho ̉ trong tô ̉ ng chương tri ̀ nh ho ̣ c tâ ̣ p cu ̉ a sinh_viên .
+" Có_thể các bạn sinh_viên chưa hiểu đầy_đủ chương_trình nên trường vẫn đang tiếp_tục trao_đổi làm rõ với các em .
+Trước khi đưa vào áp_dụng chính_thức , chúng_tôi đa ̃ cân_nhắc kỹ để đảm_bảo quyền_lợi cũng_như chất_lượng đào_tạo cho sinh_viên của mình va ̀ hơn hê ́ t không cho phe ́ p trươ ̀ ng trơ ̉ nên la ̣ c hâ ̣ u , không câ ̣ p nhâ ̣ t nô ̣ i dung mơ ́ i , phương pha ́ p mơ ́ i " , tiến_sĩ Minh nói .
+Hiệu_trưởng Đại_học FPT khẳng_định việc học 5 môn ti ́ ch hơ ̣ p chỉ là thay_đổi phương_pháp đào_tạo , sinh_viên vâ ̃ n la ̀ sinh_viên hê ̣ chi ́ nh quy tâ ̣ p trung va ̀ sau khi tốt_nghiệp ra trường vẫn nhận bằng đại_học chính_quy do Đại_học FPT cấp .
+Nguyễn_Loan

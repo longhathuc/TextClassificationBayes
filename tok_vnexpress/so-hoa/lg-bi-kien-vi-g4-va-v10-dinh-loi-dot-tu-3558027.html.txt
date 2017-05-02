@@ -1,0 +1,14 @@
+LG bị kiện vì G4 và V10 dính lỗi ' đột_tử '
+Một nhóm người dùng đã nộp đơn_kiện lên tòa_án Mỹ yêu_cầu LG bồi_thường thiệt_hại do lỗi khởi_động liên_tục và treo logo ( bootloop ) trên G4 và V10 khiến họ không_thể sử_dụng .
+Theo   ArsTechnica , một nhóm người dùng nộp đơn lên tòa_án California ( Mỹ ) , yêu   cầu hãng Hàn_Quốc phải bồi_thường do đã " đối_xử không công_bằng với khách_hàng và vi_phạm các quy_định của   luật bảo_hành " .
+Phía nguyên_đơn cho rằng , smartphone G4 và V10 dính lỗi bootloop   nhưng không được hỗ_trợ , hoặc không có biện_pháp cải_thiện triệt_để vấn_đề .
+LG bị khởi_kiện vì lỗi bootloop trên G4 và V10 .
+" LG đã không thu_hồi và đưa ra biện_pháp khắc_phục thích_hợp cho những_ai đã mua G4 , bởi nhiều trường_hợp kể_cả thay mới thiết_bị này vẫn dính lỗi " , đơn_kiện nêu .
+Những người này cũng cho rằng trên V10 , hãng " mang toàn_bộ phần_cứng G4 lên và chỉ nâng_cấp một_số chi_tiết nhỏ " , do_đó thiết_bị cũng gặp lỗi bootloop nhưng bị phớt_lờ để bán hàng .
+Bootloop   lần đầu xuất_hiện trên G4 và LG từng thừa_nhận điều này .
+Lỗi khiến smartphone đang sử_dụng bình_thường trở_nên vô_dụng bởi thiết_bị sẽ   khởi_động lại liên_tục , chỉ hiển_thị logo và không_thể vào màn_hình chính .
+Khi chưa đưa ra biện_pháp khắc_phục triệt_để , lỗi lại tiếp_tục xảy_ra trên V10 và một số_ít trường_hợp của V20 .
+Trước đó , không ít người dùng G4 và V10 chia_sẻ việc smartphone của họ bị bootloop khiến dữ_liệu bị mất , cũng_như tốn thời_gian đi bảo_hành .
+Thậm_chí , có người cho_biết đã đổi tới ba chiếc G4 nhưng lỗi vẫn tiếp_diễn .
+Lỗi bootloop trên LG_V1 0 :
+Bảo_Lâm Video : Ria Z/YouTube

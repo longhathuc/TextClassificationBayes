@@ -1,0 +1,15 @@
+Ứng_dụng giúp ẩn vị_trí khi tra_cứu trực_tuyến
+Ứng_dụng mới sẽ cho_phép người dùng mã_hóa vị_trí khi tìm_kiếm thông_tin trên mạng để các dịch_vụ bên thứ_ba không_thể dò ra .
+Các dịch_vụ trực_tuyến vẫn thường lưu lại lịch_sử hoạt_động của người dùng như họ đến từ đâu , thường truy_cập những thông_tin gì , tra_cứu bằng từ_khóa gì ... để từ đó hiển_thị nội_dung quảng_cáo phù_hợp hơn .
+Nhóm nghiên_cứu của Đại_học   Binghamton đang xây_dựng ứng_dụng Anti-GPS sử_dụng khóa PGP với khả_năng mã_hóa vị_trí .
+Nhờ đó , khi người dùng tìm_kiếm gì đó trên Google hay bất_cứ dịch_vụ nào có tích_hợp vị_trí như Facebook , Foursquare , thông_tin mã_hóa sẽ được gửi tới nhà_cung_cấp dịch_vụ để họ có_thể xử_lý yêu_cầu của người dùng nhưng không_thể biết người dùng đó ở đâu .
+Sau khi cài trên điện_thoại , các dịch_vụ bên thứ_ba sẽ không_thể thu_thập thông_tin vị_trí của người dùng .
+" Mọi người đang sử_dụng dịch_vụ tìm_kiếm và mạng xã_hội trên smartphone nhưng lại không được hỗ_trợ những công_cụ bảo_vệ đủ hiệu_quả .
+Đôi_khi , họ vô_tình chia_sẻ quá nhiều dữ_liệu " ,   Phó_giáo_sư   Linke_Guo , trưởng nhóm nghiên_cứu , cho_hay .
+" Năm năm trước , chẳng mấy_ai quan_tâm đến quyền riêng_tư trên mạng , nhưng giờ mọi thứ đã thay_đổi .
+Mọi người bắt đầu_đọc các điều_khoản trước khi tải một ứng_dụng .
+Các nhà_cung_cấp dịch_vụ cũng_nên tích_hợp công_nghệ này để hỗ_trợ người dùng ẩn vị_trí " .
+Ứng_dụng Anti-GPS bắt_đầu được phát_triển cho điện_thoại Android từ tháng 1/2015 .
+Dự_kiến sau khi hoàn_thiện , người dùng có_thể tải miễn_phí về thiết_bị .
+Nghiên_cứu này cũng đã vượt qua hơn 3.000 đề_cử và đoạt giải   Best_Paper_Award ( Nghiên_cứu xuất_sắc ) do Viện kỹ_nghệ điện và điện_tử IEEE tổ_chức tại Mỹ vào tháng 12/2015 .
+Minh_Minh

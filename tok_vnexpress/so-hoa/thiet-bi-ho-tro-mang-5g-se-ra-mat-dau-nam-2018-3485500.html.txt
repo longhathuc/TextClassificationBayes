@@ -1,0 +1,13 @@
+Thiết_bị hỗ_trợ mạng 5G sẽ ra_mắt đầu năm 2018
+Qualcomm đã giới_thiệu modem 5G đầu_tiên trên thế_giới , đặt cột mốc cho việc thương_mại các sản_phẩm hỗ_trợ kết_nối tốc_độ lên đến 5 gigabit mỗi giây .
+Snapdragon X50 , modem 5G của Qualcomm ,   được thiết_kế nhằm hỗ_trợ thử_nghiệm sớm công_nghệ mạng không dây thế_hệ thứ_năm .
+Verizon của Mỹ và Korea_Telecom tại Hàn_Quốc sẽ là những nhà mạng đầu_tiên triển_khai .
+Modem X50 của Qualcomm cho tốc_độ tải lên tới 5 gigabit mỗi giây .
+Sử_dụng dải tần 28 GHz , giải_pháp của Qualcomm cho tốc_độ tải lên đến 5 gigabit mỗi giây , bỏ xa tốc_độ 4G LTE hiện_nay vốn phổ_biến ở mức 150-450 megabit trên giây .
+Đặc_biệt , X50 có_thể chuyển_đổi linh_hoạt giữa 5G và LTE , một yếu_tố quan_trọng bởi mạng 5G khó phủ_sóng rộng khi mới được triển_khai .
+Công_nghệ mạng không dây thế_hệ thứ_năm hứa_hẹn đem đến nhiều tiện_ích mới .
+Với các thiết_bị di_động , mạng 5G giúp nâng cao trải_nghiệm thời_gian_thực , các nội_dung thực_tế ảo và giải_trí đa_phương_tiện .
+Đây còn là nền_tảng kết_nối để phát_triển IoT với giải_pháp thành_phố thông_minh , xe tự_hành ...
+Trong khi đó , modem X16 LTE , đã được   Qualcomm   giới_thiệu trước đó , dự_kiến được   thương_mại trên một_số thiết_bị cuối năm nay , tiêu_biểu là router di_động MR1100 của NetGear .
+Modem này cũng xuất_hiện trên các smartphone cao_cấp dùng chip Snapdragon 800 thế_hệ mới .
+Theo Qualcomm , X16 LTE cho tốc_độ tải tối_đa tới 1 gigabit mỗi giây .

@@ -1,0 +1,17 @@
+Đáp_án bài_toán khó nhất cuộc_thi Olympic vùng Vịnh 2016
+Bài_toán khó nhất trong cuộc_thi nhưng có nhiều mở_rộng thú_vị và có những vấn_đề chưa có câu trả_lời .
+Ngày 4/4 vừa_qua tại Madinah , Arập_Saudi , đã diễn ra cuộc_thi Olympic_Toán các nước vùng Vịnh lần thứ 5 .
+Đề thi Olympic vùng Vịnh được đánh_giá là không khó , và bài_toán dưới đây được coi là khó nhất cuộc_thi .
+Mời bạn_đọc thử sức .
+Giả_sử có 4 người A , B , C và D đánh tennis đôi với nhau .
+Họ có_thể tổ_chức các trận đấu như sau : trận đấu A và B đấu với C và D , trận tiếp_theo A và C đánh với B và D , cuối_cùng A và D đánh với B và C .
+Cái hay của cách sắp_xếp này là hai điều_kiện sau được thỏa_mãn :
+a ) Hai cây vợt bất_kỳ chung đội với nhau đúng 1 lần .
+b ) Hai cây vợt bất_kỳ đấu ở hai đội khác_nhau đúng 2 lần .
+Hỏi có_thể sắp_xếp các trận đấu sao cho các điều_kiện a và b được thỏa_mãn trong các trường_hợp sau ?
+Giải_thích rõ câu trả_lời .
+i ) Có 5 người chơi .
+ii ) Có 7 người chơi .
+iii ) Có 9 người chơi .
+Việc sắp lịch cho 9 người chơi thỏa_mãn đề_bài thực_ra hoàn_toàn không đơn_giản .
+Cụ_thể là cả 4 học_sinh đoạt huy_chương vàng của kỳ thi đều không làm được câu này , cũng là câu duy_nhất cả bạn không làm được .

@@ -1,0 +1,6 @@
+Bạn có_thể phá xe nếu_không thay những bộ_phận này
+Dầu_máy , lọc dầu , lọc gió , lốp là những bộ_phận cần kiểm_tra định_kỳ và thay mới để đảm_bảo xe luôn hoạt_động hiệu_quả nhất .
+Khoảng thời_gian hoặc số km định_kỳ thay_thế dưới đây là những lời khuyên chung nhất cho các xe tại Việt_Nam .
+Mỗi dòng xe có_thể sẽ khác tùy hãng .
+Độc_giả click từng bộ_phận để xem hướng_dẫn .
+Đức_Huy

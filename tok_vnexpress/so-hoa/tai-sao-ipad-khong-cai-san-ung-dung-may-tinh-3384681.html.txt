@@ -1,0 +1,22 @@
+Tại_sao i Pad không cài sẵn ứng_dụng Máy_tính
+Trong khi Máy_tính ( Calculator ) là phần_mềm mặc_định trên i Phone , với máy_tính bảng , Apple lại không trang_bị ứng_dụng này .
+Theo Cultofmac , tài_khoản Twitter   Tangoshukudai , người tự_xưng là cựu nhân_viên của Apple , đã đưa ra lời giải_thích khá thỏa_đáng cho thắc_mắc : ứng_dụng Máy_tính trên i Phone thì_có , trên i Pad lại không .
+Và nguyên_nhân của vấn_đề này có liên_quan đến Steve_Jobs , cố CEO Apple .
+iPad mặc_định không có ứng_dụng Máy_tính mà người dùng phải cài thêm .
+Ảnh : iMore .
+" Đây là một câu_chuyện đầy thú_vị " , Tangoshukudai viết .
+" Khi nguyên_mẫu i Pad được tạo ra , họ đã chuyển ứng_dụng Máy_tính từ i Phone qua và chỉ kéo_dài để phù_hợp với kích_cỡ màn_hình lớn .
+Việc này được định_hình từ thời sơ_khai và đội_ngũ phát_triển vẫn nghĩ các phần_mềm sẽ được làm như_thế " .
+Tuy_nhiên , một tháng trước khi i Pad được phát_hành chính_thức , mọi thứ đã thay_đổi .
+Steve_Jobs đã gọi   Scott_Forstall , người từng giữ chức Phó_chủ_tịch phụ_trách i OS , và nói rằng ứng_dụng Máy_tính trên màn_hình lớn trông thật kinh_khủng .
+" Đây là những gì chúng_ta sẽ mang đến cho khách_hàng ? " , cố CEO Apple chỉ tay vào phần_mềm   Calculator và hỏi .
+" Không , loại_bỏ nó đi .
+Chúng_ta không_thể xuất_xưởng sản_phẩm như_vậy được " .
+Sau đó ,   Scott_Forstall đã cố_gắng thuyết_phục Steve_Jobs giữ ứng_dụng này lại nhưng không thành .
+Scott cùng đội của mình đã xây_dựng ứng_dụng Máy_tính mới .   Tuy_nhiên , một tháng không đủ để nhóm hoàn_thành , nên phần_mềm này đã bị loại_bỏ trên i Pad .   Kể từ đó , không còn ai nhớ tới việc máy_tính bảng của Apple thiếu ứng_dụng Calculator .
+Đây không phải lần đầu Steve_Jobs tham_gia vào việc phát_triển ứng_dụng Máy_tính trên các sản_phẩm của Apple .
+Thời_kỳ mới xây_dựng hệ_điều_hành Macintosh , Steve liên_tục chỉ_trích kỹ_sư Chris_Espinosa với các bản thử_nghiệm , cho_đến khi ông đưa ra được phần_mềm Máy_tính hoàn_chỉnh .
+Espinosa " bực_dọc " nên đã đặt tên chương_trình này là   " Steve_Jobs_Roll_Your_Own_Calculator_Construction_Set " .
+Cố CEO Apple đã làm_việc với ứng_dụng trong khoảng 10 phút rồi đưa ra thiết_kế theo đúng ý ông .
+Và phần_mềm này đã được sử_dụng làm tiêu_chuẩn trên các máy_tính Mac trong 15 năm tiếp_theo .
+Đình_Nam

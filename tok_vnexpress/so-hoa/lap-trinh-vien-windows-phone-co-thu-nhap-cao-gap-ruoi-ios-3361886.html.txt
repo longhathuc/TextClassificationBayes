@@ -1,0 +1,14 @@
+Lập_trình_viên Windows_Phone có thu_nhập cao gấp rưỡi i OS
+Trong khi các chuyên_gia phát_triển ứng_dụng cho Windows_Phone đạt thu_nhập trung_bình 11.400 USD/tháng thì " đồng_nghiệp " bên phía i OS nhận được 8.100 USD/tháng .
+Trong báo_cáo State of Mobile_App_Developers , công_ty InMobi đã khảo_sát hơn 1.000 lập_trình_viên .
+Kết_quả cho thấy , có đến 86% viết ứng_dụng cho Android , 56% viết cho i OS và chỉ khoảng 21% phát_triển ứng_dụng cho Windows_Phone .
+Ngược_lại , thu_nhập của các lập_trình_viên khi xây_dựng phần_mềm cho hệ_điều_hành của Microsoft lên tới 11.400 USD mỗi tháng .
+Đây là con_số đầy bất_ngờ nếu so với mức 4.900 USD/tháng của Android và 8.100 USD/tháng đối_với i OS .
+Cụ_thể hơn , có 49% lập_trình_viên Windows_Phone có thu_nhập hơn 10.000 USD mỗi tháng , trong khi Android là 45% và i OS là 53% .
+Thu_nhập cao của lập_trình_viên Windows_Phone .
+InMobi cho rằng số_lượng người phát_triển ứng_dụng Windows_Phone rất ít nên sức cạnh_tranh thấp và sản_phẩm dễ tiếp_cận đa_số người tiêu_dùng , do_đó không có sự chênh_lệch thu_nhập như hai nền_tảng còn lại .
+Các chuyên_gia Windows_Phone cũng rất tin_tưởng vào tương_lai khi 28% cho rằng thu_nhập của họ sẽ còn tăng cao trong ba năm tới , trong khi chỉ 16% nghĩ sẽ đi xuống .
+Trước đó , trong lễ ra_mắt AppMarket tại Việt_Nam , ông Nguyễn_Việt_Anh , Giám_đốc Opera_Việt_Nam , cũng tiết_lộ kho ứng_dụng này hiện thu_hút khoảng gần 200 chuyên_gia lập_trình game Việt_Nam tham_gia - mức khiêm_tốn so với kho ứng_dụng App_Store và Google_Play - nhưng có những lập_trình_viên có_thể kiếm được tới hơn 10.000 USD mỗi tháng .
+Nguồn thu này đến từ nhiều cách như hiển_thị quảng_cáo , hay người dùng trả tiền mua vật_phẩm trong quá_trình chơi game ...
+Một nguồn thu khác là yêu_cầu người dùng trả một khoản tiền nhất_định để mua ứng_dụng , đổi lại họ sẽ không gặp phiền_toái bởi những banner , video quảng_cáo thường_xuyên xuất_hiện trong quá_trình sử_dụng .
+Châu_An

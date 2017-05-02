@@ -1,0 +1,25 @@
+Đáp_án bài_toán ' đi qua hầm tối '
+Bí_quyết để giải những bài_toán này là phải cho các bạn đi nhanh đi với nhau và các bạn đi chậm đi với nhau .
+Đề_bài :
+An , Bình , Châu , Danh muốn đi qua một cái hầm tối .
+Họ có một chiếc đèn_pin còn đủ sáng được trong vòng 12 phút .
+An có_thể đi qua hầm trong 1 phút , B trong 2 phút , Châu trong 4 phút và Danh trong 5 phút .
+Tuy_nhiên , chiếc hầm rất hẹp , chỉ có_thể đi cùng một lúc 2 người .
+Họ đều rất sợ bóng_tối nên không_thể đi qua hầm mà không có đèn_pin .
+Hầm cũng ngoằn_ngòeo không_thể đứng 1 chỗ để rọi đèn phi được .
+Hỏi các bạn phải làm thế_nào để tất_cả cùng qua được hầm trước khi đèn_pin hết sáng ?
+Giải :
+Rất nhiều bạn_đọc đã tham_gia giải bài_toán này .
+Bên_cạnh lời_giải thuần_túy toán_học , bạn_đọc đã đề_xuất nhiều giải_pháp “ đời ” hơn như nối_đuôi nhau đi qua hầm với vận_tốc của người chậm nhất , hay buộc dây vào đèn_pin để đến bên kia thì kéo về chứ không cần phải quay về …
+Tuy_nhiên , đại_đa_số độc_giả vẫn hiểu bài_toán này theo nghĩa toán_học và cho lời_giải chính_xác .
+Dưới đây là lời_giải mà nhiều bạn_đọc đã đề_xuất .
+Bí_quyết để giải những bài_toán này là phải cho các bạn đi nhanh đi với nhau và các bạn đi chậm đi với nhau .
+Và người quay về phải là người đi nhanh .
+Cụ_thể thế_nào ?
+Lần 1 : Cho_An và Bình qua , hết 2 phút .
+An quay về hết 1 phút .
+Lần 2 : Cho_Châu và Danh qua , hết 5 phút .
+Bình quay về hết 2 phút .
+Lần 3 : Anh và Bình qua , hết 2 phút .
+Tổng_cộng hết 3 + 7 + 2 = 12 phút .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

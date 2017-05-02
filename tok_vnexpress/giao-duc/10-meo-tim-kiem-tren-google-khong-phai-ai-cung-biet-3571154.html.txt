@@ -1,0 +1,38 @@
+10 mẹo tìm_kiếm trên Google không phải ai cũng biết
+Các ký_hiệu " ~ " , " - " , " * " có ý_nghĩa quan_trọng trong ô tìm_kiếm của Google , giúp bạn tìm được thông_tin chính_xác trong thời_gian ngắn .
+Trong kỷ_nguyên công_nghệ tiên_tiến và kết_nối Internet tốc_độ cao , bạn có_thể tìm thấy bất_cứ thông_tin nào .
+Tuy_nhiên , bạn cần sàng_lọc lượng lớn kiến_thức để có được thông_tin cần nhất , điều này có_thể mất hàng giờ .
+Do_đó , Bright_Side tổng_hợp phương_pháp hiệu_quả để tìm_kiếm chỉ trong vài cú nhấp chuột .
+1 . Tìm_kiếm a hoặc b
+Nếu bạn không chắc_chắn nhớ đúng thông_tin hoặc tên cần tìm_kiếm , hãy chỉ đơn_giản thêm một_vài dấu_hiệu như dấu " | " hay_chữ " or " giữa các từ_khóa bạn băn_khoăn để dễ_dàng tìm ra kết_quả hợp_lý nhất .
+2 . Tìm_kiếm bằng cách sử_dụng từ_đồng_nghĩa
+Nếu bạn cần tìm website về một chủ_đề nào_đó hơn là website chứa một cụm_từ cụ_thể , hãy thêm ký_hiệu " ~ " vào giữa các từ cùng một nhóm nghĩa trong ô tìm_kiếm .
+Chẳng_hạn , nếu bạn gõ cụm_từ " healthy ~ food " , bạn sẽ nhận được kết_quả về các nguyên_tắc ăn_uống lành_mạnh , công_thức nấu_ăn cũng_như cách lựa_chọn thực_phẩm bổ_dưỡng .
+3 . Tìm_kiếm trong website
+Đôi_khi bạn_đọc được bài viết thú_vị trên một trang_web và sau đó muốn chia_sẻ với bạn_bè hoặc muốn đọc lại .
+Cách dễ nhất để tìm_kiếm là nhập địa_chỉ trang_web cùng một từ_khóa hoặc một cụm_từ trong bài viết , nó sẽ xuất_hiện ngay .
+4 . Sức_mạnh của dấu " * "
+Khi bạn không_thể nhớ chính_xác cụm_từ hoặc câu hoàn_chỉnh mà chỉ nhớ mang_máng , dấu " * " rất hữu_ích trong trường_hợp này .
+Chỉ cần sử_dụng dấu " * " ở những vị_trí của từ hoặc cụm_từ bạn không_thể nhớ , Google sẽ cho ra kết_quả bạn muốn tìm_kiếm một_cách dễ_dàng .
+5 . Khi thiếu nhiều từ
+Nếu bạn không_chỉ quên một từ mà đến một_nửa cụm_từ quan_trọng , hãy thử viết ra những từ đầu_tiên và cuối_cùng rồi đặt " AROUND + ( ước_lượng số từ_vựng không nhớ ra ) " giữa chúng .
+Ví_dụ : Khi gõ " I wandered AROUND ( 4 ) cloud " , bạn sẽ tìm được kết_quả là cuốn thơ nổi_tiếng " I wandered lonely as a cloud " của   William_Wordsworth .
+6 . Sử_dụng khung thời_gian
+Đôi_khi chúng_ta cần biết những sự_kiện đã xảy_ra trong khoảng thời_gian nhất_định .
+Để tìm_kiếm , bạn có_thể thêm khung thời_gian vào ô tìm_kiếm với sự trợ_giúp của dấu 3 chấm giữa hai mốc thời_gian .
+Ví_dụ , nếu muốn tìm khám_phá khoa_học trong thế_kỷ 20 , bạn có_thể viết " scientific discoveries 1900 ... 2000 " .
+7 . Tìm_kiếm tiêu_đề hoặc URL
+Để tìm các từ_khóa có trong tiêu_đề của một bài báo hay website , hãy gõ " intitle : " trước từ cụm_từ đó , không có dấu cách giữa chúng .   Để tìm các từ có trong URL , hãy sử_dụng cú_pháp tương_tự với " inurl : " .
+8 . Tìm các website tương_tự
+Nếu bạn xem được thứ gì đó rất thích trên mạng và muốn tìm trang_web tương_tự , hãy nhập " related : " và địa_chỉ của trang_web ( lưu_ý không có dấu cách giữa chúng ) .
+9 .
+Toàn_bộ cụm_từ
+Đưa cụm_từ vào trong dấu ngoặc_kép là cách đơn_giản và hiệu_quả nhất để tìm thứ gì đó cụ_thể và theo thứ_tự chính_xác mà bạn đã nhập .
+Ví_dụ , nếu bạn gõ những từ   I’ m picking up   good vibrations   mà không dùng dấu ngoặc_kép , công_cụ tìm_kiếm sẽ hiển_thị các website mà những từ này xuất_hiện theo thứ_tự bất_kỳ .
+Tuy_nhiên , nếu gõ có dấu ngoặc_kép , bạn sẽ chỉ nhận được kết_quả theo đúng thứ_tự bạn nhập vào ô   tìm_kiếm .
+Đây là cách hữu_ích khi tìm lời bài hát nếu bạn chỉ biết một câu .
+10 . Bỏ những từ không quan_trọng
+Để loại_bỏ các từ không quan_trọng khi tìm_kiếm , bạn chỉ cần viết ký_hiệu " - " trước mỗi từ đó .
+Ví_dụ , nếu bạn muốn tìm một trang_web về các cuốn sách thú_vị , nhưng không muốn mua chúng , bạn có_thể gõ " interesting books - buy " .
+Google sẽ giúp bạn loại_bỏ thông_tin không cần_thiết .
+Phiêu_Linh

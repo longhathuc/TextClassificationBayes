@@ -1,0 +1,17 @@
+Máy bỏ_phiếu điện_tử bầu Tổng_thống Mỹ cũng có_thể bị hack
+Tin_tặc có_thể tấn_công làm sai_lệch kết_quả bầu_cử trên máy bỏ_phiếu điện_tử dù việc này không dễ_dàng .
+Các nhà_nghiên_cứu bảo_mật   Cylance đã hack thành_công thiết_bị   Sequoia AVC Edge_Mk 1 , một loại máy điện_tử được sử_dụng tại 13 bang của Mỹ trong cuộc bầu_cử Tổng_thống năm nay .
+Bằng cách thay_thế thẻ lưu_trữ bên trong , các chuyên_gia đã thay_đổi được tên ứng_viên cũng_như số phiếu mà họ nhận được .
+Phiếu được in từ máy bỏ_phiếu điện_tử .
+Cụ_thể , dòng máy bỏ_phiếu điên tử   Sequoia sử_dụng thẻ   PCMCIA để lưu_trữ thông_tin , nó tương_tự những chiếc thẻ nhớ trên máy_ảnh kỹ_thuật_số .
+Gian lân sẽ được thực_hiện bằng cách thay_đổi chiếc thẻ này .
+Như_vậy ,   Sequoia không bị hack từ xa mà buộc phải thao_tác vật_lý , đồng_thời cách này sẽ làm rách tem niêm_phong máy .
+Mục_đích nghiên_cứu của   Cylance là cảnh_báo rằng máy bỏ_phiếu điện_tử không hề an_toàn tuyệt_đối , dù việc tấn_công không đơn_giản .
+Nguy_cơ an_ninh này cần xem_xét kỹ hơn nhằm hạn_chế tối_đa gian_lận trong bầu_cử , tránh ảnh_hưởng đến niềm_tin của cử_tri .
+Máy bỏ_phiếu điện_tử   trông giống như một máy ATM , cho_phép cử_tri bỏ_phiếu bằng màn_hình cảm_ứng , bấm nút hoặc quay số .
+Các máy lập bảng phiếu tự_động , giúp tăng tốc_độ cho quá_trình bỏ_phiếu .
+Trong trường_hợp nhiều máy hỏng cùng lúc , cử_tri có_thể sử_dụng lá phiếu giấy như bình_thường .
+Tính linh_hoạt của hệ_thống điện_tử này có_thể hữu_ích trong các khu_vực mà cử_tri nói nhiều thứ tiếng , cũng_như giúp những người khuyết_tật có_thể thực_hiện quyền_công_dân của mình .
+Tuy_nhiên , không phải tất_cả các máy đều in biên_lai xác_nhận cho các phiếu bầu , tạo ra một nguy_cơ gây tranh_cãi về kết_quả khi có vấn_đề xảy_ra .
+Trong một báo_cáo hồi năm 2015 của Lawrence_Norden , Phó_giám_đốc Trung_tâm tư_pháp Brennan , đại_học New_York ước_tính sẽ tốn khoảng 1 tỷ USD để thay_thế toàn_bộ các máy bỏ_phiếu điện_tử đã " già_cỗi " trên cả nước Mỹ .
+Video trình_diễn hack máy bỏ_phiếu điện_tử :

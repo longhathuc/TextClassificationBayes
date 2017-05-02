@@ -1,0 +1,15 @@
+Kiểm_soát Internet trong nhà
+Thiết_bị mang tên Cujo sẽ kiểm_soát các thiết_bị kết_nối Internet trong nhà và tạo ra tường lửa , ngăn_chặn rò_rỉ dữ_liệu .
+Smartphone , máy_tính dù có sẵn các phần_mềm tường lửa , diệt virus nhưng vẫn thường_xuyên là mục_tiêu tấn_công của hacker .
+Trong khi đó ,   hàng trăm thiết_bị IoT khác lại tỏ ra dễ bị tổn_thương hơn nhiều .
+Gần đây nhất , những chiếc máy chơi game PlayStation hay Smart TV đều là mục_tiêu tấn_công của kẻ_gian .
+Các dữ_liệu về thông_tin cá_nhân , thẻ_tín_dụng , video nhạy_cảm bị đánh_cắp mà ít gặp phải các trở_ngại .
+Lý_do là bởi các thiết_bị kết_nối Internet như_vậy chưa được phát_triển đủ tốt để có_thể tự bảo_vệ .
+Để hạn_chế các nguy_cơ nói trên , một thiết_bị mang tên Cujo_Smart_Firewall đã được giới_thiệu và gây_sự chú_ý lớn tại CES 2017 vừa_qua .
+Sản_phẩm này kiểm_soát các kết_nối của mọi thiết_bị trong mạng .
+Số này ngoài tablet , smartphone , laptop còn bao_gồm cả máy chơi game , hub cho smarthome hay Smart TV .
+CUJO Smart_Firewall .
+Cujo sẽ thiết_lập tường lửa và đảm_bảo không có thiết_bị nào có_thể bí_mật gửi thông_tin thông_qua phần_mềm độc_hại .
+Sản_phẩm cũng ngăn_ngừa việc hack webcam hay microphone cũng_như những mối đe_dọa an_ninh khác .
+Nhà_sản_xuất cũng hứa_hẹn Cujo sẽ kiểm_soát các trang_web mà trẻ_em truy_cập cũng_như thời_gian sử_dụng .
+Cujo_Smart_Firewall hiện có_giá 225 USD .

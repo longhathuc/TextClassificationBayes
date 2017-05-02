@@ -1,0 +1,20 @@
+Cáp_quang Liên Á lại lỗi , Internet ra nước_ngoài vẫn chậm
+Tuyến cáp_quang biển Liên Á ( IA ) tiếp_tục xuất_hiện lỗi mới , khiến thời_gian sửa_chữa kéo_dài và chưa xác_định được ngày hoàn_thành .
+Theo thông_tin từ một nhà_cung_cấp dịch_vụ Internet ( ISP ) tại Việt_Nam , hệ_thống cáp_quang biển Liên Á phân_đoạn Singapore xuất_hiện lỗi mới trên nhánh cáp S1 .
+Vì_thế , thời_gian sửa_chữa sẽ lùi lại và hiện đơn_vị vận_hành chưa công_bố thời_điểm thông tuyến trở_lại .
+Tuyến cáp_quang Liên Á tiếp_tục phải sửa_chữa .
+Ảnh minh_họa .
+Cáp_quang biển Liên Á gặp sự_cố ngày 10/1 và đã khắc_phục trong hôm đó .
+Tuy_nhiên đến 11/1 , tuyến này lại xuất_hiện lỗi gây sụt nguồn tại vị_trí gần Singapore và dự_kiến sửa xong ngày 25/2 .
+Nhưng các sự_cố khác liên_tiếp được phát_hiện , khiến việc sửa_chữa kéo_dài đến 1/3 , rồi lùi đến 4/3 và hiện chưa xác_định ngày sửa xong .
+Một_số người dùng cho_biết sự_cố liên_tiếp với hệ_thống cáp_quang biển khiến việc truy_cập Internet từ Việt_Nam đi quốc_tế gặp nhiều khó_khăn .
+" Trước_đây mạng thường chậm vào buổi tối có_thể do nhiều người cùng truy_cập , nhưng thời_gian này mạng chập_chờn bất_kể khi nào " , Hồng_Anh , nhân_viên kế_toán ở Hà_Nội , chia_sẻ .
+" Việc sửa cáp_quang lần này khá lâu , bị cả trên AAG và Liên Á , nên công_việc của tôi ảnh_hưởng khá nhiều " , anh Trương_Minh_Đức làm_việc trong mảng nội_dung YouTube , phàn_nàn .
+" Tốc_độ truy_cập tới các trang trong nước vẫn tốt , nhưng việc vào website hay máy_chủ ảo ( VPS ) ở nước_ngoài khá ì_ạch , nhất_là thời_điểm tối " .
+Cáp_quang biển được sửa thế_nào .
+Video :   GlobalMarineSystems .
+Được đưa vào vận_hành cuối năm 2009 , tuyến cáp_quang biển Liên Á có tổng chiều dài 6.800 km , kết_nối Việt_Nam , Singapore , Philippines , Hong_Kong và Nhật_Bản .
+Hệ_thống này có tốc_độ truyền dữ_liệu thiết_kế lên đến 3,84 Tb/giây .
+Trong năm 2017 , tuyến cáp_quang khác là Asia_America_Gateway - AAG cũng gặp sự_cố hai lần , gần đây nhất vào 19/2 .
+Dự_kiến đến 27/3 , hệ_thống mới được khắc_phục , đưa Internet đi quốc_tế qua kênh này trở_lại bình_thường .
+Tăng_tốc mạng trong những ngày cáp_quang bị đứt

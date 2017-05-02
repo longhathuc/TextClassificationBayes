@@ -1,0 +1,8 @@
+Bài_toán chuyển_động thú_vị từ đề thi Olympic của Hà_Lan
+Có 3 bến xe_buýt B1 , B2 , B3 , trong đó B2 ( bến giữa ) cách đều B1 ( bến đầu ) và B3 ( bến cuối ) .
+Marco đang đứng chờ xe_buýt ( A ) ở bến giữa .
+Nếu_Marco cứ đừng chờ ở bến giữa thì sẽ phải chờ 15 phút .
+Nếu_Marco lấy xe_đạp và chạy về bến đầu thì sẽ đến bến đầu đúng lúc xe_buýt tới .
+Nếu_Marco chạy bộ về bến cuối thì cậu cũng đến bến cuối đúng lúc xe_buýt tới .
+Hỏi nếu Marco đi xe_đạp về bến cuối sau đó chạy bộ ngược về bến giữa thì hết bao_nhiêu thời_gian ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

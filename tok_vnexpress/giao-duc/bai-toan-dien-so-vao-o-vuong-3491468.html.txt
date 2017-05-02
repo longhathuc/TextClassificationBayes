@@ -1,0 +1,4 @@
+Bài_toán điền số vào ô vuông
+Các số trong mỗi ô vuông đều tuân theo một quy_luật .
+Bạn hãy tìm ra quy_luật đó để điền một con_số thích_hợp vào ô vuông chứa dấu_chấm_hỏi ?
+Thanh_Tâm ( theo Tree_Knox )

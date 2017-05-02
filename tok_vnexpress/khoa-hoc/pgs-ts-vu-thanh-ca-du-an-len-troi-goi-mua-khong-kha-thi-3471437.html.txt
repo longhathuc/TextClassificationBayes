@@ -1,0 +1,47 @@
+PGS.TS Vũ_Thanh_Ca : Dự_án ' lên trời gọi mưa ' không khả_thi
+Nghiên_cứu về mưa nhân_tạo trên thế_giới không giải_thích rõ cơ_chế tăng lượng mưa tới mức thương_mại và chỉ diễn ra ở quy_mô nhỏ chứ không tạo thành trận mưa để thay_đổi tình_trạng khô_hạn .
+PGS.TS Vũ_Thanh_Ca , chủ_nhiệm đề_tài cấp Bộ Tài nguyên và Môi_trường " Nghiên_cứu cơ_sở khoa_học để làm mưa nhân_tạo ở Việt_Nam " năm 2006 có bài viết gửi VnExpress sau khi Công_ty_cổ_phần khoa_học công_nghệ An_Sinh_Xanh ( Đà_Nẵng ) đưa ra dự_án " lên trời gọi mưa " với kinh_phí 5.000 tỷ đồng .
+Thí_nghiệm đầu_tiên về tác_động lên mây được thực_hiện cuối những năm 1940 .
+Vào những năm 1950 , nhiều quốc_gia đặc_biệt là Mỹ và Liên_Xô đã tập_trung nghiên_cứu vấn_đề này .
+Khi đó , người_ta bắt_đầu nghĩ tới một buổi_sáng có_thể tỉnh_giấc và bấm nút quyết_định hôm_nay trời mưa hay nắng , hy_vọng con_người có_thể điều_khiển được thiên_nhiên .
+Năm 2005 , Nga rất tự_tin về nghiên_cứu mưa nhân_tạo .
+Một_số nhóm khoa_học tại Mỹ và Israel cũng công_bố phương_pháp và công_nghệ mới tác_động lên mây làm mưa nhân_tạo .
+Cạnh_Việt_Nam có Trung_Quốc , Thái_Lan cũng đầu_tư rất lớn cho nghiên_cứu và triển_khai nhiều dự_án như_vậy nhằm chống hạn , sạch không_khí và nhiều mục_đích khác .
+Nga , Trung_Quốc và Thái_Lan tuyên_bố đã thành_công dự_án gây mưa nhân_tạo với giá_thành rất rẻ .
+Thực_hiện đề_tài cấp_bộ với kinh_phí không lớn , chúng_tôi nhận được hỗ_trợ của nhiều cơ_quan , nhất_là Bộ Tài nguyên và Môi_trường , Bộ Khoa học và Công_nghệ trong việc liên_hệ , sắp_xếp chương_trình hợp_tác với các nước .   Đề_tài đã mời được nhiều chuyên_gia nổi_tiếng thế_giới về tác_động lên mây và làm mưa nhân_tạo từ Mỹ , Nga sang Việt_Nam phối_hợp nghiên_cứu , tổ_chức hội_thảo .
+Ngược_lại , chúng_tôi cũng sang Nga , Trung_Quốc và Thái_Lan để học_tập kinh_nghiệm .
+Không_chỉ Trung_Quốc , Nga và Thái_Lan cùng hai nhóm nhà_khoa_học Mỹ hợp_tác với chúng_tôi tuyên_bố công_nghệ của họ rất hiệu_quả trong việc_làm mưa nhân_tạo và sẵn_sàng chuyển_giao cho Việt_Nam .
+Một nhóm nhà_khoa_học Israel cũng chuyển_giao miễn_phí cho chúng_tôi mô_hình số trị mã nguồn mở về mô_phỏng chi_tiết quá_trình vi vật_lý mây và tác_động lên mây làm mưa nhân_tạo .
+Nó có_thể được sử_dụng để thực_hiện các thực_nghiệm số trị , tìm phương_án tốt nhất để làm mưa nhân_tạo .
+Các nhà_khoa_học Mỹ ngoài việc tự_túc kinh_phí để sang Việt_Nam hỗ_trợ , còn chuyển_giao miễn_phí cho chúng_tôi một mô_hình số trị dự_báo thời_tiết với thời_hạn cực ngắn ( 2 đến 3 giờ ) với độ_chính_xác cao sử_dụng các số_liệu của ra đa_số hóa , phục_vụ nghiên_cứu và tác_nghiệp làm mưa nhân_tạo cũng_như để cảnh_báo các hiện_tượng thời_tiết nguy_hiểm .
+Tuy_nhiên , để thực_hiện " lên trời gọi mưa " trong thực_tế cần lượng kinh_phí rất lớn nên thực_hiện chỉ_đạo của Bộ Tài nguyên , đặc_biệt là Thứ_trưởng Nguyễn_Công_Thành lúc bấy_giờ cần đánh_giá công_nghệ của các nước và báo_cáo với Bộ một_cách trung_thực , nhóm đã tập_trung vào các nghiên_cứu đánh_giá hiệu_quả thực_sự của các dự_án làm mưa nhân_tạo .
+Chúng_tôi rà_soát tất_cả kết_quả đánh_giá , chủ_yếu là từ Mỹ về làm mưa nhân_tạo .
+Theo đó , việc này chỉ thành_công nếu thỏa_mãn ba điều_kiện : Một là giải_thích được cơ_chế vật_lý của việc tăng lượng mưa do tác_động làm mưa nhân_tạo ; hai là kết_quả phải đảm_bảo độ tin_cậy thống_kê ; ba là kết_quả làm mưa nhân_tạo phải được lặp lại với các điều_kiện mây và tác_động tương_tự nhau , hay nói cách khác , công_nghệ được nghiên_cứu và phát_triển tại vùng này phải áp_dụng được một_cách hiệu_quả tại vùng khác .
+Nhóm nghiên_cứu đã phối_hợp với một_số nhà_khoa_học Mỹ để làm rõ và đánh_giá các kết_quả , thực_nghiệm làm mưa nhân_tạo trước đó .
+Kết_quả , hầu_như các nghiên_cứu trên thế_giới đều giải_thích rõ cơ_chế tác_động để biến mây thành mưa , nhưng không giải_thích rõ được cơ_chế tăng lượng mưa tới mức thương_mại được khi tác_động , tức_là không khẳng_định được hiệu_quả kinh_tế của việc_làm mưa nhân_tạo .
+Khi đó các nhà_khoa_học Thái_Lan đã xây_dựng và áp_dụng một công_nghệ có_thể tạo mây trong điều_kiện trời không mây và tác_động tiếp để đám mây phát_triển , gây mưa .
+Tại một cuộc họp ở Thái_Lan , trên cơ_sở kết_quả nghiên_cứu chung với các nhà_khoa_học Mỹ , tôi đã chỉ ra rằng các trận mưa có lượng mưa đủ để cải_thiện đáng_kể tình_trạng hạn_hán phải có nguồn cung_cấp lượng ẩm từ quá_trình hoàn_lưu quy_mô lớn .
+Tác_động làm mưa nhân_tạo tại một quy_mô rất nhỏ không_thể huy_động đủ lượng ẩm để tạo ra một trận mưa để làm thay_đổi đáng_kể tình_trạng khô_hạn .
+Hay nói một_cách khác , có_thể tạo mưa từ tác_động , nhưng lượng mưa tạo được không hiệu_quả về mặt kinh_tế .
+Ông Giám đốc văn_phòng làm mưa nhân_tạo Hoàng_gia của Thái_Lan đã không trả_lời được câu_hỏi này của tôi .
+Trên thực_tế , phân_tích các kết_quả làm mưa nhân_tạo tại Thái_Lan cho thấy nhận_định của chúng_tôi là đúng .
+Vì không có số_liệu tại Trung_Quốc , giới khoa_học Mỹ đánh_giá hiệu_quả làm mưa nhân_tạo tại các thí_nghiệm , dự_án thực_hiện tại Mỹ , Nga , Thái_Lan và Cu_Ba ( do Liên_Xô thực_hiện ) không đủ độ tin_cậy thống_kê để khẳng_định các tác_động làm mưa nhân_tạo làm tăng lượng mưa .
+Hơn_nữa , cùng một công_nghệ nhưng áp_dụng tại các khu_vực lại cho kết_quả khác_nhau .
+Chúng_tôi hợp_tác với 3 nhóm nhà_khoa_học Mỹ .
+Hai nhóm đầu đề_xuất công_nghệ và sẵn_sàng chuyển_giao để làm mưa nhân_tạo ở Việt_Nam .
+Nhóm thứ_ba lại nêu ra nghi_ngờ về kết_quả làm mưa nhân_tạo và khuyến_nghị chưa nên làm_vì không có đủ cơ_sở khoa_học .
+Khi chúng_tôi sử_dụng các kết_quả nghiên_cứu , đánh_giá hiệu_quả làm mưa nhân_tạo của nhóm thứ_ba để trao_đổi với nhà_khoa_học Mỹ thuộc hai nhóm đầu , Thái_Lan và Trung_Quốc , tất_cả đều không phản_bác các kết_quả này .
+Tuy_vậy , một_số nhà_khoa_học Nga nói với chúng_tôi rằng đã và đang có những nghiên_cứu đủ cơ_sở khoa_học để bác_bỏ kết_luận về hiệu_quả làm mưa nhân_tạo của nhóm khoa_học Mỹ .
+Nga cũng khẳng_định công_nghệ của họ là hiệu_quả và hứa chuyển_giao cho chúng_tôi các kết_quả này .
+Về sau chúng_tôi đã nhiều lần liên_hệ đề_nghị họ cung_cấp các kết_quả nhưng không thấy .
+Chúng_tôi theo_dõi rất kỹ các tạp_chí quốc_tế từ đó đến nay nhưng cũng không thấy các nhà_khoa_học Nga phản_bác Mỹ .
+Chúng_tôi đã báo_cáo kết_quả nghiên_cứu với Bộ Tài nguyên , lãnh_đạo Bộ nhận thấy rằng hiện trình_độ khoa_học , công_nghệ của ta còn hạn_chế , phương_tiện , thiết_bị còn lạc_hậu , trong khi phải đầu_tư lượng kinh_phí rất lớn nhưng chưa khẳng_định được hiệu_quả .
+Vì_vậy , Bộ chỉ_đạo chưa triển_khai ngay dự_án làm mưa nhân_tạo mà tiếp_tục nghiên_cứu cho tới khi khẳng_định được hiệu_quả kinh_tế .
+Từ năm 2006 , năm kết_thúc đề_tài đến nay , tôi tiếp_tục theo_dõi các kết_quả nghiên_cứu khoa_học trên thế_giới về tác_động nhân_tạo biến_đổi thời_tiết .
+Tôi khẳng_định rằng các nghiên_cứu chưa cung_cấp được kết_quả nào khác hơn với những nhận_định của chúng_tôi .
+Vì_vậy , tôi cho rằng đầu_tư nghiên_cứu làm mưa nhân_tạo hiện_nay ở Việt_Nam là lãng_phí vì chắc_chắn là không hiệu_quả .
+Cách hiệu_quả nhất để tác_động tới tự_nhiên là nghiên_cứu kỹ các quy_luật của nó để có tác_động phù_hợp , giúp quá_trình tự_nhiên xảy_ra theo hướng có lợi cho mình .
+Trường_hợp này , khi đủ độ_ẩm hoặc có mây nhưng không mưa , tác_động tạo mưa nhân_tạo như một que diêm gây nên một đám cháy trên lớp cỏ khô .
+Nhưng khi mưa to hoặc bão thì tác_động của con_người không còn có tác_dụng nữa vì quá_trình tự_nhiên gây mưa đã cực_kỳ hiệu_quả .
+Lúc này tác_động của con_người là quá nhỏ_bé so với tự_nhiên , cũng_như vứt một que diêm vào một đám cháy lớn không làm đám cháy lớn hơn .
+Vì_vậy , ý_tưởng dùng tác_động của con_người để điều_khiển các quá_trình mưa lớn và bão là hoàn_toàn không có cơ_sở khoa_học và không_thể thực_hiện được .

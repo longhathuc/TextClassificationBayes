@@ -1,0 +1,35 @@
+Lưu ảnh chụp trực_tiếp vào thẻ nhớ trên smartphone Android
+Chỉ cần chỉnh vài bước đơn_giản ở phần cài_đặt máy_ảnh của smartphone , người dùng đã có_thể lưu ảnh vào thẻ nhớ sau khi chụp thay_vì mặc_định ở bộ_nhớ máy như trước_đây .
+Ảnh sau khi chụp trên điện_thoại Android thường được lưu vào bộ_nhớ_trong .
+Đa_số smartphone Android hiện_nay đều hỗ_trợ khe cắm thẻ nhớ , nhưng có một thực_tế là không nhiều sản_phẩm mặc_định lưu_trữ ảnh chụp vào đây .
+Những thiết_bị có bộ_nhớ_trong hạn_hẹp sẽ khiến ảnh lấp đầy bộ_nhớ và chủ_sở_hữu không_thể cài thêm ứng_dụng khác .
+Trong khi đó , việc cài ứng_dụng lên thẻ nhớ không mang lại hiệu_quả bằng việc cài_đặt trên bộ_nhớ_trong .
+Như_vậy , cách tốt nhất_là cài_đặt ảnh lưu_trữ vào thẻ nhớ .
+Quá_trình này khá đơn_giản , mặc_dù các bước có khác_nhau đôi_chút theo từng thiết_bị , nhưng nhìn_chung vẫn tương_tự nhau .
+Trên_Android 6.0 Marshmallow
+Với các thiết_bị chạy nền_tảng Android mới nhất này , sau khi chèn thẻ nhớ và mở ứng_dụng camera , sẽ có một thông_báo xuất_hiện yêu_cầu bạn lựa_chọn lưu_trữ ảnh chụp trên bộ_nhớ máy hay thẻ nhớ ngoài .
+Lúc này , bạn chỉ việc chọn thẻ nhớ .
+Tùy chọn lưu_trữ ảnh mặc_định trên thẻ nhớ với   Marshmallow khá dễ_dàng .
+Nếu thông_báo không xuất_hiện dù đã gắn thẻ nhớ ngoài , bạn cũng đừng quá lo_lắng .
+Lúc này , hãy cấu_hình bằng tay , bằng cách vào Settings ( Cài_đặt ) trên ứng_dụng máy_ảnh > kéo xuống tùy chọn Storage ( Lưu_trữ )   > lựa_chọn Device ( Bộ_nhớ máy ) hoặc Memory_Card ( Thẻ nhớ ) .
+Trên_Marshmallow cũng có_mặt của chức_năng cho_phép biến thẻ nhớ thành bộ_nhớ nội_bộ .
+Mặc_dù có_thể tăng thêm bộ_nhớ_trong nhưng bạn phải cẩn_thận với tính_năng này bởi nếu kích_hoạt , hình_ảnh bạn chụp chỉ mở được trên thiết_bị đó ( do đã bị mã_hóa ) .
+Nếu muốn lấy tập_tin , cách duy_nhất là cắm cáp micro SD vào máy_tính bởi không có smartphone nào nhận thẻ đó nữa .
+Tính_năng biến thẻ nhớ thành bộ_nhớ nội_bộ .
+Với_Android 4.4 KitKat
+Có_vẻ như đây là nền_tảng “ ghét ” thẻ nhớ , bởi hầu_hết máy chạy nó đều chỉ lưu vào bộ_nhớ máy và không_thể thay_đổi sang vị_trí khác .
+Lúc này , cách tốt nhất_là tải ứng_dụng Camera MX thay_thế cho camera mặc_định .
+Sau khi tải về , bạn mở ứng_dụng , đi đến Settings ( Cài_đặt ) > Camera ( Máy_ảnh ) > Custom   save location ( Chỉnh vị_trí lưu ) .
+Với_Android 4.4 thường phải cài ứng_dụng từ bên thứ_ba mới có_thể lưu_trữ ảnh sang thẻ nhớ .
+Các thiết_bị chạy Android 5.0 Lollipop
+Trên_Lollipop , Google đã khắc_phục được nhược_điểm không_thể lưu_trữ hình_ảnh trên thẻ nhớ .
+Việc lưu_trữ trên phiên_bản Android 5.0 khá dễ và bạn chỉ cần thiết_lập trong phần cài_đặt cũng_như cập_nhật hệ_điều_hành lên phiên_bản mới nhất .
+Việc lưu_trữ ảnh qua thẻ nhớ trên Lollipop cũng không khó .
+Nếu thiết_bị Lollipop của bạn không cho_phép lưu ảnh ở thẻ nhớ ngoài , cách tốt nhất_là tải một ứng_dụng chụp ảnh khác có hỗ_trợ tính_năng đó từ bên thứ_ba .
+Riêng các thiết_bị của Samsung
+Hầu_hết smartphone có hỗ_trợ khe cắm thẻ nhớ của Samsung đều có tùy chọn lưu_trữ hình_ảnh ở bộ_nhớ_ngoài .
+Sẽ có những thiết_bị hiện lên thông_báo ngay sau khi thẻ micro SD được gắn và ứng_dụng máy_ảnh được bật .
+Tuy_nhiên , cũng có những máy phải thiết_lập bằng tay .
+Cách cấu_hình cũng khá đơn_giản : mở menu Settings trong ứng_dụng máy_ảnh ( biểu_tượng bánh_răng ) > Storage location ( Vị_trí lưu_trữ ) > Memory card ( Thẻ nhớ ) .
+Tùy chọn lưu_trữ ảnh chụp mặc_định trên smartphone Samsung .
+Bảo_Lâm

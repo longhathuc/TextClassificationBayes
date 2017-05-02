@@ -1,0 +1,15 @@
+Bài_toán hay trong đề Olympic vùng Vịnh
+Ngày 4/4 vừa_qua tại Madinah , Arập_Saudi , đã diễn ra cuộc_thi Olympic_Toán các nước vùng Vịnh lần thứ 5 .
+Đề thi Olympic vùng Vịnh được đánh_giá là không khó , và bài_toán dưới đây được coi là khó nhất cuộc_thi .
+Mời bạn_đọc thử sức .
+Giả_sử có 4 người A , B , C và D đánh tennis đôi với nhau .
+Họ có_thể tổ_chức các trận đấu như sau : trận đấu A và B đấu với C và D , trận tiếp_theo A và C đánh với B và D , cuối_cùng A và D đánh với B và C .
+Cái hay của cách sắp_xếp này là hai điều_kiện sau được thỏa_mãn :
+a ) Hai cây vợt bất_kỳ chung đội với nhau đúng 1 lần .
+b ) Hai cây vợt bất_kỳ đấu ở hai đội khác_nhau đúng 2 lần .
+Hỏi có_thể sắp_xếp các trận đấu sao cho các điều_kiện a và b được thỏa_mãn trong các trường_hợp sau ?
+Giải_thích rõ câu trả_lời .
+i ) Có 5 người chơi .
+ii ) Có 7 người chơi .
+iii ) Có 9 người chơi .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

@@ -1,0 +1,14 @@
+Đáp_án bài_toán ' con cừu ' của học_sinh lớp 6
+Nhiều bạn cho rằng quá dễ để tìm ra đáp_án của bài_toán trong đề thi đánh_giá năng_lực tư_duy này , trong khi một_số khác không_thể đưa ra câu trả_lời đúng .
+Đề_bài :
+Một con cừu được buộc dây ở đồng_cỏ như hình_vẽ :
+Sợi dây dài 10 m .
+Thanh sắt nơi cố_định sợi dây buộc con cừu dài 3 m .
+Coi chiều dài của con cừu là không đáng_kể .
+Lấy π = 3,14 .
+Diện_tích cỏ lớn nhất mà con cừu ăn được là bao_nhiêu ?
+Đáp_án :   374   m2 .
+Diện_tích ăn cỏ của cừu được minh_họa như hình sau :
+Diện_tích cỏ lớn nhất mà cừu ăn được là diện_tích của 4 phần , bao_gồm hai hình_chữ_nhật cùng có chiều dài 10 m , chiều rộng 3 m ; và hai nửa hình_tròn cùng có bán_kính 10 m ( hay chính là một hình_tròn có bán_kính 10 m ) .
+Áp_dụng công_thức tính diện_tích hình_chữ_nhật và diện_tích hình_tròn , ta có diện_tích cỏ lớn nhất mà cừu ăn được là 2 x 10 x 3 + π . 102 = 374 m2 .
+Thanh_Tâm

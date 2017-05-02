@@ -1,0 +1,18 @@
+Điện_thoại tự hủy thành hiện_thực
+Khi người dùng ra khỏi vùng địa_lý thiết_lập từ trước hoặc nhập sai mật_khẩu quá số lần nhất_định , điện_thoại sẽ kích_hoạt cơ_chế tự phá_hủy chip xử_lý , bộ_nhớ .
+Ý_tưởng về một chiếc điện_thoại tự hủy vốn chỉ   xuất_hiện trên các bộ phim khoa_học_viễn_tưởng trước_đây .
+Tính_năng độc_đáo này được nhiều người dùng mong_muốn sở_hữu để bảo_mật các dữ_liệu tối quan_trọng .
+Một nhóm các nhà_nghiên_cứu ở Arab   Saudi mới_đây đã biến công_nghệ này thành hiện_thực khi một thiết_bị có_thể tự phá_hủy trong tối_thiểu 10 giây .
+Máy được lập_trình để tự_động kích_hoạt trong các điều_kiện nhất_định .
+Cơ_chế hoạt_động của các hệ_thống như_vậy sử_dụng kênh năng_lượng từ pin và gây ra hiện_tượng quá nóng và kích_hoạt một loại polymer đặc_biệt giúp nhanh_chóng phá_hủy thiết_bị .
+Điểm khó nhất của cơ_chế này là biến các tác_động về phần_mềm thành việc kích_hoạt phần_cứng .
+Các nhà_nghiên_cứu đã thử_nghiệm thành_công trong trường_hợp sử_dụng thiết_bị định_vị GPS có sẵn trên điện_thoại .
+Khi máy vượt ra ngoài một vùng cụ_thể , bộ_phận kích_hoạt tự hủy sẽ hoạt_động .
+Nhóm cũng đang phát_triển tính_năng nếu người dùng nhập mật_khẩu sai quá số lần quy_định , thiết_bị sẽ kích_hoạt tự hủy .
+Hiện công_nghệ này vẫn đang trong quá_trình thử_nghiệm cuối_cùng với nhiều nguyên_mẫu cho các giai_đoạn khác_nhau .
+Nhóm nghiên_cứu của King_Abdullah_University of Science and Technology ( KAUST ) hy_vọng cơ_chế tự hủy sẽ áp_dụng thành_công với tất_cả thành_phần trên máy bao_gồm chip , bộ_nhớ ... .
+Năm 2014 , Boeing từng nộp hồ_sơ lên FCC về việc phát_triển một điện_thoại siêu bảo_mật có tên   Boeing_Black .
+Sản_phẩm này cũng được gán mác " tự hủy " để bảo_mật dữ_liệu nhưng chỉ_thiên về phần_mềm .
+Khi một người lạ cố_gắng mở máy bằng thao_tác vật_lý , máy sẽ kích_hoạt chế_độ xóa sạch dữ_liệu thiết_bị .
+Xét về mặt an_toàn , thiết_bị của KAUST tốt hơn do hủy cả các chi_tiết phần_cứng .
+Video điện_thoại tự hủy của Boeing :

@@ -1,0 +1,22 @@
+Đáp_án bài_toán ' chú lùn lấy cắp vàng '
+Các câu nói là hoán_vị vòng_quanh , do_đó vai_trò của Anne , Bert , Chris và Dirk là hoàn_toàn như nhau .
+Đề_bài :
+Một trong bốn chú lùn Anne , Bert , Chris và Dirk đã lấy cắp vàng của vua .
+Các chú lùn , vốn biết rất rõ về nhau , đã phát_biểu , mỗi người hai câu .
+Nếu chú lùn là kẻ nói_dối thì ít_nhất một trong hai câu nói của chú ta sẽ sai .
+Nếu chú lùn không phải là kẻ nói_dối thì cả hai câu nói của chú đều đúng .
+Anne nói “ Bert là kẻ nói_dối ” và “ Chris hoặc Dirk đã lấy cắp vàng ” .
+Bert nói “ Chris là kẻ nói_dối ” và “ Dirk hoặc Anne đã lấy cắp vàng ” .
+Chris nói “ Dirk là kẻ nói_dối ” và “ Anne hoặc Bert đã lấy cắp vàng ” .
+Dirk nói “ Anne là kẻ nói_dối ” và “ Bert hoặc Chris đã lấy cắp vàng ” .
+Hỏi trong 8 câu nói trên , có mấy câu đúng ?
+Đáp_án :
+Nghiên_cứu kỹ các câu nói thì ta thấy đây là các câu hoán_vị vòng_quanh , do_đó vai_trò của Anne , Bert , Chris và Dirk là hoàn_toàn như nhau .
+Như_vậy ai cũng có_thể là người lấy cắp vàng .
+Do đề_bài không yêu_cầu tìm ra người lấp cắp vàng mà chỉ cần tìm xem số câu đúng trong 8 câu ở trên nên ta có_thể giả_sử , chẳng_hạn là Anne là người ăn_cắp vàng .
+Khi đó thì Anne và Dirk là kẻ nói_dối .
+Từ đó Chris không phải là kẻ nói_dối , suy ra Bert là kẻ nói_dối .
+Từ đây các câu 1 , 4 , 5 , 6 , 7 là các câu đúng , còn 2 , 3 , 8 là các câu sai .
+Các trường_hợp còn lại cũng hoàn_toàn tương_tự .
+Ta luôn có số câu đúng bằng 5 .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

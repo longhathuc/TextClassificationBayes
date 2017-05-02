@@ -1,0 +1,24 @@
+Đáp_án bài_toán lớp 5 ' thầy Tom , trò Jerry '
+Tuổi của thầy Tom là 14 và số mà Jerry cộng thiếu là 5 .
+Đề_bài :
+Thầy_giáo Tom yêu_cầu Jerry cộng các số_nguyên từ 1 đến tuổi của thầy .
+Jerry hì_hục cộng và nói đáp_số là 100 .
+Thầy_giáo nói : Đáp_số sai rồi , cậu đã cộng thiếu 1 số .
+Hỏi_đáp số đúng là bao_nhiêu và thầy Tom bao_nhiêu tuổi ?
+Giải :
+Ta thấy rằng nếu thầy Tom 10 tuổi thì tổng thầy yêu_cầu tính là :
+1 + 2 + 3 + 4 + ... . + 10 = 55
+Tổng của Jerry tính thiếu đi 1 số nên phải nhỏ hơn giá_trị này .
+Do_đó số 10 không thoả_mãn và tuổi của thầy Tom phải lớn hơn .
+Ta thử lần_lượt :
+Tổng các số_từ 1 đến 11 là : 66
+Tổng các số_từ 1 đến 12 là : 78
+Tổng các số_từ 1 đến 13 là : 91
+Tổng các số_từ 1 đến 14 là : 105 .
+Tổng các số_từ 1 đến 15 là : 120 .
+Đến đây , ta thấy rằng tuổi thầy Tom không_thể là 15 vì nếu Tom cộng thiếu đi một giá_trị thì số nhỏ nhất có_thể nhận được là 120 - 15 = 105 > 100 .
+Do_đó , tuổi của thầy Tom là 14 và số mà Jerry cộng thiếu là 5 .
+Bổ_sung :
+Đối_với học_sinh lớp 8 , 9 có_thể sử_dụng lời_giải không thông_qua phép thử và sai như sau :
+Gọi n là số tuổi của thầy Tom , ta thấy :
+TS Trần_Nam_Dũng ĐH Khoa_học_tự_nhiên , ĐH Quốc_gia TP_HCM

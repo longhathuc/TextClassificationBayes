@@ -1,0 +1,19 @@
+Đáp_án bài_toán đàn bò ăn cỏ
+Bài_toán đàn bò ăn cỏ đã làm_khó người giải và gây ra nhiều trang cãi .
+Đây thực_chất là câu_đố dựa trên bài_toán cổ của Isaac_Newton .
+Đề_bài :
+Cỏ trên đồng mọc với tốc_độ đều_đặn mỗi ngày .
+Có rất nhiều bò ăn cỏ , số bò càng ít thì cỏ càng lâu hết .
+200 con bò ăn hết đồng_cỏ trong 100 ngày .
+150 con bò ăn hết đồng_cỏ trong 150 ngày .
+Hỏi 100 con bò ăn hết đồng_cỏ trong bao_nhiêu ngày ?
+Giả_sử một con bò ăn hết 1 đơn_vị cỏ trong một ngày .
+200 con bò ăn hết đồng_cỏ trong 100 ngày thì số cỏ bò ăn là 200 x 100 = 20000 ( đơn_vị )
+150 con bò ăn hết đồng_cỏ trong 150 ngày thì số cỏ bò ăn là 150 x 150 = 22500 ( đơn_vị )
+Từ đó suy ra , số cỏ mọc thêm trong một ngày bằng :
+( 22500 - 20000 ) / ( 150 - 100 ) = 50 ( đơn_vị )
+Như_vậy , số cỏ mọc sẵn trên cánh đồng_bằng 20000 - 100 x 50 = 15000 ( đơn_vị )
+Theo giả_thiết đặt ra ban_đầu ta thấy cứ mỗi ngày 100 con bò ăn hết 100 đơn_vị cỏ , mà cỏ mọc thêm 50 đơn_vị mỗi ngày nên suy ra số cỏ trên cánh đồng thực_chất mỗi ngày giảm đi 50 đơn_vị .
+Vậy , để ăn hết cánh đồng_cỏ 15000 đơn_vị , 100 con bò cần ăn trong số ngày là 15000/50 = 300 ( ngày ) .
+Thanh_Tâm
+> > Bài_toán đàn bò ăn cỏ có_thể khiến bạn bị rối

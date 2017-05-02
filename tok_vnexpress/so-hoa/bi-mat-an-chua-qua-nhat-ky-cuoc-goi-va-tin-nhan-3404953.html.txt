@@ -1,0 +1,20 @@
+Bí_mật ẩn_chứa qua nhật_ký cuộc_gọi và tin nhắn
+Thống_kê hoạt_động nhắn_tin gọi điện có_thể làm lộ ra những thông_tin bí_mật và riêng_tư nhất của con_người , từ những vấn_đề sức_khỏe cho tới tình_cảm .
+Các nhà_nghiên_cứu tại Đại_học   Stanford ( Mỹ ) đã xây_dựng một ứng_dụng có_thể âm_thầm thu_thập và ghi lại nhật_ký hoạt_động trên smartphone , còn gọi_là metadata ( siêu dữ_liệu ) từ hơn 800 tình_nguyện_viên .
+Những dữ_liệu này tương_tự thông_tin chính_phủ một_số nước vẫn lấy từ người_dân , như danh_sách thống_kê họ gọi điện cho ai , độ dài bao_nhiêu , trong một tháng nhắn_tin mấy lần ... chứ không nghe hay xem được nội_dung cuộc_gọi , tin nhắn vốn đã được mã_hóa .
+Sau 6 tháng , các nhà_nghiên_cứu ghi lại 250.000 cuộc_gọi và 1,2 triệu SMS .
+Từ nhật_ký này , họ xác_định được tên của các cá_nhân , địa_chỉ , tên và số điện_thoại của nửa kia ( vợ , chồng , người_yêu ... ) .
+Họ còn biết ai đang bị bệnh tim , đa xơ_cứng hay ai đang mang bầu , thậm_chí còn phát_hiện một người đang sở_hữu một khẩu súng_trường bán_tự_động .
+Những dự_đoán này dựa trên các cuộc_gọi của một người tới trung_tâm chăm_sóc bệnh mãn_tính , thực_hành thần_kinh và đường_dây_nóng về dược_phẩm ...
+Trong khi đó , người được phát_hiện sở_hữu súng_trường là do " tần_suất các cuộc_gọi tới một cơ_sở bán súng thường_xuyên quảng_cáo về súng bán_tự_động AR cũng_như tới đường_dây_nóng của một nhà_sản_xuất súng , trong đó có loại súng kể trên " .
+Người thứ_ba lại thực_hiện vài cuộc_gọi tới phòng_khám Planned_Parenthood gần nhà cô với chu_kỳ khoảng một tháng_một lần .
+Không cần nghe cuộc_gọi hay xem nội_dung tin nhắn , các nhà_nghiên_cứu cũng có_thể biết nhiều điều về người dùng chỉ cần dựa trên nhật_ký cuộc_gọi , SMS .
+Ảnh minh_họa : Adweek
+" Nghiên_cứu này chỉ nhằm khẳng_định lại điều mà các chuyên_gia bảo_mật đã khuyến_cáo từ lâu , rằng nhật_ký cuộc_gọi , tin nhắn trông có_vẻ khô_khan và chẳng có gì đáng tò_mò cũng ẩn_chứa những điều nhạy_cảm " , Steven_Murdoch , chuyên_gia bảo_mật tại Đại_học London ( Anh ) nhận_định . " Metadata có_thể nói lên mọi điều về người dùng " .
+Hiện chính_phủ một_số nước được phép lấy thông_tin metadata về người dùng , từ đó họ không cần phải trực_tiếp nghe nội_dung cuộc_gọi , đọc tin nhắn mà chỉ cần dựa trên lịch_sử hoạt_động ( như bạn gọi cho ai , tần_suất thế_nào ... ) là đã có_thể suy ra được nhiều điều về bạn .
+Hồi tháng 6/2013 , thế_giới ngỡ_ngàng khi cựu điệp_viên Edward_Snowden đã " tuồn " cho giới truyền_thông khoảng 50.000-200.000 tài_liệu tuyệt_mật của Cơ_quan an_ninh quốc_gia Mỹ ( NSA ) .
+Đáng chú_ý trong số này là chương_trình do_thám có tên PRISM .
+Cụ_thể , NSA và Cục Điều tra Liên_bang Mỹ ( FBI ) có khả_năng truy_cập vào máy_chủ để lấy nhật_ký chat , e-mail , cuộc_gọi ... của người dùng từ các công_ty công_nghệ như Apple , Microsoft , Google , Facebook ...
+Họ đã thu_thập gần 100 tỷ mẫu dữ_liệu ( data report ) toàn_cầu , trong đó Mỹ chiếm 3 tỷ còn Iran đứng đầu với 14 tỷ .
+Snowden cho_hay lý_do anh công_khai thông_tin về PRISM là để bảo_vệ " sự tự_do cơ_bản của mọi người khắp thế_giới " .
+Khi đó , anh được tôn là người_hùng nhưng cũng bị gán tội " kẻ phản_bội nước Mỹ " .

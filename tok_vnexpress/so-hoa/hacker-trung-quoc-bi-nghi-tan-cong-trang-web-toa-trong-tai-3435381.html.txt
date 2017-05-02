@@ -1,0 +1,16 @@
+Hacker_Trung_Quốc bị nghi tấn_công trang_web Tòa_Trọng tài
+Tin_tặc Trung_Quốc có_thể đã tấn_công , đặt mã độc trên website của   Tòa_Trọng tài Thường_trực ( PCA ) khi cơ_quan này tiến_hành xử vụ_kiện " đường lưỡi bò " .
+Tháng 7/2015 , Tòa_Trọng tài Thường_trực tại The_Hague ( Hà_Lan ) tiến_hành cuộc điều_trần vụ tranh_chấp lãnh_thổ trên Biển_Đông giữa Philippines và Trung_Quốc .
+Trong ngày làm_việc thứ_ba của phiên điều_trần , website PCA đã bất_ngờ bị sập .
+Hacker_Trung_Quốc từng bị nghi đứng sau vụ đặt mã độc trên website của PCA .
+Ảnh minh_họa .
+Dựa trên phân_tích phần_mềm và cơ_sở_hạ_tầng , các chuyên_gia của ThreatConnect , một công_ty an_ninh từ Mỹ , cho rằng trang_web Tòa_Trọng tài đã bị nhiễm phần_mềm độc_hại có nguồn_gốc từ Trung_Quốc .
+The_Diplomat nói , những_ai quan_tâm đến vụ_kiện khi truy_cập website PCA có nguy_cơ dính mã độc đánh_cắp dữ_liệu .
+Bằng cách lây_nhiễm vào máy_tính của các nhà_báo , giới ngoại_giao , luật_sư và những người có liên_quan , tin_tặc Trung_Quốc có_thể biết được những người đang tham_gia vụ_kiện và đoán trước kịch_bản nếu tòa_án ra phán_quyết chống lại Trung_Quốc .   The_Diplomat lấy ví_dụ , nếu các nhà ngoại_giao Việt_Nam hay Nhật_Bản truy_cập website và máy_tính của họ dính mã độc , Trung_Quốc có_thể truy_cập vào tài_liệu nội_bộ , từ đó biết được các động_thái tiếp_theo thông_qua dữ_liệu đánh_cắp .
+Trang_web của PCA không truy_cập được trong một thời_gian ngắn do vấn_đề kỹ_thuật , một đại_diện của Tòa_Trọng tài cho_biết .
+Trong khi đó , Abigail_Valte ,   phó phát_ngôn_viên của Tổng_thống Philippines , cho_biết đã nghe thông_tin về vụ tấn_công .
+" Chúng_tôi đã rất ngạc_nhiên " , bà nói .
+Hôm_qua , sau khi Tòa_Trọng tài Thường_trực ra tuyên_bố Trung_Quốc không có cơ_sở pháp_lý để đòi quyền lịch_sử với các nguồn tài_nguyên bên trong " đường lưỡi bò " , website của cơ_quan này đã không_thể truy_cập được .
+Người dùng khi đến website của PCA tại địa_chỉ http : / / www.pcacases.com sẽ nhận được thông_báo lỗi máy_chủ   500 - Internal_Server_Error .
+Chưa rõ nguyên_nhân dẫn đến sự_cố này .
+Xem thêm : >   Trang_web Tòa trọng_tài bị sập sau phán_quyết " đường lưỡi bò "

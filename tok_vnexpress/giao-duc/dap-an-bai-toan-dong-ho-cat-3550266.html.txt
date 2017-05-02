@@ -1,0 +1,18 @@
+Đáp_án bài_toán ' đồng_hồ cát "
+Với cách suy_luận đơn_giản , nhiều người đã đưa ra câu trả_lời và cách giải_thích đúng cho bài_toán ' đồng_hồ cát ' trong đề thi quốc_tế này .
+Một bộ đếm thời_gian luộc trứng được tạo từ 3 chiếc đồng cát riêng_biệt gắn vào hai thanh gỗ ( như hình_vẽ ) .
+Mỗi lần bộ đếm thời_gian đó được lật từ vị_trí như ban_đầu ( cát hoàn_toàn ở bình thủy_tinh dưới ) thì cát từ ba chiếc đồng_hồ sẽ chảy hết trong vòng lần_lượt là 3 , 4 và 5 phút .
+Không chiếc đồng_hồ cát nào có_thể lật một_cách độc_lập với những chiếc khác .
+Để luộc một quả trứng có hương_vị ngon nhất thì cần 7 phút .
+Hỏi bộ đếm thời_gian được đặt như vị_trí ban_đầu thì cần lật ít_nhất bao_nhiêu lần để đo được đúng 7 phút luộc trứng ?
+Đáp_án : 2 lần .
+Lần đầu_tiên lật đồng_hồ chỉ đo được 3 phút , 4 phút hoặc 5 phút .   Do
+đó không_thể đo được 7 phút trong một lần lật .
+Xét hai lần lật , ta có :
+- Lần thứ nhất : Lật bộ đếm thời_gian thì 3 chiếc đồng_hồ cát sẽ chảy , đợi cho tới khi chiếc đồng_hồ cát 4 phút chảy hết thì lật tiếp lần thứ_hai .
+Ta đo được thời_gian 4 phút .
+- Lần thứ_hai : Sau khi lật bộ đếm thời_gian thì 3 chiếc đồng_hồ cát sẽ chảy , đợi cho tới khi chiếc đồng_hồ cát 3 phút chảy hết .
+Ta đo được thêm 3 phút nữa .
+Vậy tổng_cộng hai lần lật là 7 phút .
+Trần_Phương
+> > Bài_toán xoay đồng xu khiến bạn chóng_mặt > > Bài_toán xác_suất trong đề thi chọn học_sinh giỏi Mỹ

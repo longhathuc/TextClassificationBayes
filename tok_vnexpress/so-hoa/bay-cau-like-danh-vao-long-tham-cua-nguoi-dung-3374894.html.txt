@@ -1,0 +1,32 @@
+Bẫy câu Like đánh vào lòng tham của người dùng
+Trò lừa trúng thưởng , tặng tiền ... đã xuất_hiện liên_tục từ nhiều năm qua nhưng vẫn có hàng trăm_nghìn người cả_tin và sập bẫy .
+Mỗi ngày truy_cập Facebook , người sử_dụng không khó gặp những nội_dung được bạn_bè họ chia_sẻ lại như " Hãy bấm Like thông_tin này để giành một kỳ nghỉ tới   Barbados " , " Hãy chia_sẻ post này để trở_thành một trong 1.000 người may_mắn được Mark_Zuckerberg tặng 4,5 triệu USD " ...
+Ở Việt_Nam , gần đây rộ lên trò lừa kêu_gọi người dùng bình_luận chọn màu_sắc xe sau đó bấm like và share trang fanpage công_khai để có cơ_hội trúng thưởng xe Honda SH , Piaggio_Vespa , Porsche_Cayenne S 2015 ...
+Tuy đã có nhiều thông_tin cảnh_báo từ trước , vẫn có hàng chục nghìn lượt thích và bình_luận trên các trang fanpage giả_danh này .
+Không ít người tỏ ra nghi_ngờ nhưng vẫn Like với tâm_lý " nếu_không trúng thì cũng có mất gì đâu " .
+Có khoảng 5% tài_khoản trên Facebook là giả_mạo và tỷ_lệ này vẫn đang tăng lên .
+Các post tặng quà này ban_đầu trông có_vẻ vô_hại , nhưng về sau thường bị thay_đổi để lừa_đảo , thu_thập thông_tin cá_nhân hoặc dụ người dùng tải mã độc về máy .
+Không ít người đã bị hack , mất tài_khoản Facebook mà không hiểu vì_sao .
+Hàng chục nghìn người chia_sẻ thông_tin tặng xe mà không cần biết trang đăng_tải nội_dung có phải trang chính_thức của thương_hiệu đó hay không .
+Telegraph đã đưa ra những cách để người dùng hạn_chế rơi vào bẫy câu Like :
+1 . Cảnh_giác trước những món quà quá hời
+Luôn thận trong trước những nội_dung tặng quà , như tặng xe , tiền_mặt , điện_thoại ... bởi thực_tế , món quà đó là quá hậu_hĩnh trong khi_không có gì là miễn_phí .
+Khi thấy thông_tin như_vậy , cần tìm_hiểu kỹ về tài_khoản đăng cùng những yêu_cầu đi kèm ... thay_vì vội_vàng bấm Like và Share không suy_nghĩ .
+2 . Chỉ_Like những nội_dung từ thương_hiệu và người mà bạn biết
+Bất_cứ ai cũng có_thể lập tài_khoản Facebook có tên kiểu " Honda_Việt_Nam " , " Mercedes-Benz Việt_Nam " ... nên khi bắt_gặp , không nên mặc_định những trang đó là trang chính_thống .
+Bạn chỉ nên tin_tưởng tài_khoản đã được Facebook xác_nhận ( có dấu tick màu xanh bên_cạnh tên ) hay những thương_hiệu chưa được xác_thực nhưng bạn biết rõ , từng tương_tác trước_đây .
+3 . Thận_trọng khi chấp_nhận các điều_khoản
+Luôn xem kỹ dữ_liệu nào được yêu_cầu cung_cấp trước khi bấm " Đồng_ý " .
+Chẳng_hạn , một công_ty có tên Vonvon đã phát_triển ứng_dụng có_thể phân_tích những từ nào các thành_viên hay sử_dụng nhất trên Facebook .
+Hàng chục_triệu người đã tham_gia và chấp_nhận cho công_ty này tiếp_cận mọi thông_tin trên Facebook như tên , giới_tính , học_vấn , danh_sách bạn_bè , status , thậm_chí cả địa_chỉ nhà , địa_chỉ IP ...
+Công_ty này cho_biết dữ_liệu sẽ được lưu trên máy_chủ " ở nhiều nước trên toàn thế_giới " và họ có_thể bán   cho bên thứ_ba vì người dùng đã đọc các chính_sách về bảo_mật và đã đồng_ý cho Vonvon làm điều đó .
+4 . Xem_lại các hoạt_động của bạn
+Truy_cập Activity_Log trên tài_khoản để xem bạn từng Like hay chia_sẻ những gì .
+Nếu có nội_dung nào bị thay_đổi , hoặc trông đáng ngờ , hãy bỏ Like và gửi báo_cáo đến Facebook .
+5 . Bỏ thói_quen Like dạo
+Nghĩ kỹ trước khi tương_tác trên Facebook , đặc_biệt khi được yêu_cầu chia_sẻ thông_tin để nhận quà .
+Những hoạt_động của bạn đều được lưu lại và có_thể một lúc_nào đó , bạn vô_tình rơi vào bẫy lừa_đảo mà không hay_biết .
+6 . Thận trong trước các nội_dung đa_phương_tiện
+Kẻ lừa_đảo thường chọn nội_dung như video , game , trò_chơi , trắc_nghiệm , giải đố ... để ấn mã độc .
+Nếu người dùng bị yêu_cầu cung_cấp quá nhiều thông_tin cá_nhân hoặc phải cài thêm phần_mềm mới có_thể xem thì khả_năng cao nội_dung đó có chứa chương_trình độc_hại .
+Châu_An

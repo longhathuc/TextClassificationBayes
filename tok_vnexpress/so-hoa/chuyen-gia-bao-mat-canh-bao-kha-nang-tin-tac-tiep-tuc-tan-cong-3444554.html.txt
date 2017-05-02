@@ -1,0 +1,26 @@
+Chuyên_gia bảo_mật cảnh_báo khả_năng tin_tặc tiếp_tục tấn_công
+Việc hệ_thống thông_tin sân_bay Nội_Bài và Tân_Sơn_Nhất bị tấn_công được các chuyên_gia an_ninh mạng nhận_định là đặc_biệt nghiêm_trọng và không loại_trừ khả_năng sẽ có đợt tấn_công tiếp_theo .
+Theo chuyên_gia bảo_mật Nguyễn_Minh_Đức , website của Việt_Nam_Airline bị tấn_công đã là sự_việc rất nghiêm_trọng và khủng_khiếp hơn khi hệ_thống thông_báo tại hai sân_bay lớn nhất cả nước cũng bị chiếm quyền điều_khiển .
+Các chuyên_gia bảo_mật nhận_định vụ tấn_công thông_tin ở sân_bay Nội_Bài và Tân_Sơn_Nhất đã được hacker chuẩn_bị kỹ_lưỡng từ trước .
+Ảnh minh_họa .
+" Để phát đi được âm_thanh , thay_đổi màn_hình hiển_thị ở cả Nội_Bài và Tân_Sơn_Nhất , hacker phải nắm được từng chân_tơ_kẽ_tóc bên trong hệ_thống mạng , biết máy_chủ nào thực_hiện nhiệm_vụ gì .
+Hơn_nữa , chúng phải ' nằm_vùng ' từ trước đó rất lâu rồi mà quản_trị viên không hề hay_biết " , ông Đức nhấn_mạnh .
+Theo vị này , kế_hoạch tấn_công đã được tin_tặc chuẩn_bị kỹ_càng , bài_bản .
+Trong khi đó , phía Vietnam_Airlines thiếu một sự bài_bản trong công_tác bảo_vệ .
+" Không_thể chỉ là phụ_thuộc vào thiết_bị máy_móc bảo_mật chạy đèn sáng_trưng , mà phải cần một đội_ngũ cùng hệ_thống giám_sát phát_hiện sớm những dấu_hiệu bất_thường 24/7 " , ông Đức cho_hay .
+Đồng quan_điểm , chuyên_gia bảo_mật Nguyễn_Hồng_Phúc   cho_biết để thâm_nhập đến mức_độ này , hacker phải có trình_độ rất cao .
+" Cuộc tấn_công trên không phải ngày_một_ngày_hai mà có_thể đã xảy_ra một thời_gian âm_thầm , đúng chất của một cuộc tấn_công chuyên_nghiệp " .
+Ông Phúc cảnh_báo , sau thông_tin về việc sân_bay Nội_Bài , Tân_Sơn_Nhất bị tấn_công , rất có_thể sẽ có thêm các vụ hack khác nhắm đến các website và hệ_thống mạng của Việt_Nam .
+Ông Phúc cho rằng các quản_trị mạng , điều_hành hệ_thống cần rà_soát toàn_bộ hệ_thống của mình , tăng_cường các lớp bảo_mật trong những ngày này .
+Theo ông Ngô_Tuấn_Anh , Phó_chủ_tịch Phụ_trách An_ninh mạng của BKAV , kịch_bản tấn_công đơn_giản thường được những kẻ đứng đằng sau mạng_lưới ngầm này sử_dụng để phát_tán phần_mềm gián_điệp là gửi email đính kèm các file văn_bản , với nội_dung là một văn_bản có thật của nơi bị tấn_công , địa_chỉ email là có thật .
+Mở file ra thì đúng là có nội_dung thật , nhưng đồng_thời lại bị nhiễm virus do trong file có chứa sẵn phần_mềm gián_điệp .
+Khi các file văn_bản này được mở ra , phần_mềm gián_điệp sẽ xâm_nhập , kiểm_soát máy_tính .
+Chúng ẩn_náu bằng cách giả_dạng các phần_mềm phổ_biến như Windows_Update , Adobe_Flash , Bộ_gõ Unikey , Từ_điển … Chúng chỉ hoạt_động khi có lệnh của những kẻ điều_khiển nên rất khó phát_hiện .
+Các mã độc này âm_thầm đánh_cắp thông_tin … gửi về máy_chủ điều_khiển , đồng_thời thông_qua máy_chủ điều_khiển , chúng nhận lệnh để thực_hiện các hành_vi phá_hoại khác .
+Hôm_nay 29/7 , hàng_loạt màn_hình hiển_thị thông_tin chuyến bay tại sân_bay Nội_Bài , Tân_Sơn_Nhất cùng hệ_thống phát_thanh của sân_bay bất_ngờ bị chèn nội_dung kích_động , xuyên_tạc về biển Đông .
+Tại website của Hãng hàng_không Việt_Nam , người dùng khi truy_cập vào nhận được thông_báo website đã bị hack , nội_dung trang_chủ được thay_đổi hoàn_toàn .
+Trên trang xuất_hiện các ngôn_ngữ kích_động và để lại thông_tin rằng nhóm hacker 1937cn đã thực_hiện vụ tấn_công này .
+Ngoài_ra , trên Internet còn xuất_hiện file tập_hợp danh_sách trên 400 nghìn tài_khoản khách_hàng thành_viên của Việt_Nam_Airlines , trong đó bao_gồm họ tên , ngày_sinh , địa_chỉ .
+1937cn được biết đến là nhóm tin_tặc nổi_tiếng Trung_Quốc .
+Theo hack - cn.com - trang thống_kê và xếp_hạng hacker của Trung_Quốc , 1937cn đã thực_hiện trên 40.000 cuộc tấn_công trong thời_gian qua .
+Xem thêm : > Nhận_diện nhóm tin_tặc tấn_công hệ_thống thông_tin sân_bay Việt_Nam >   Thông_tin 400.000 hành_khách của Vietnam_Airlines có_thể chứa mã độc

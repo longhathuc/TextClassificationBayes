@@ -1,0 +1,13 @@
+iPhone sẽ cảnh_báo khi bị giám_sát tại nơi làm_việc
+Với phiên_bản i OS 9.3 , khi công_ty hay các tổ_chức theo_dõi i Phone của người lao_động , thiết_bị sẽ thông_báo cho người dùng biết .
+Các công_ty , văn_phòng quốc_tế thường tìm cách kiểm_soát nhân_viên nhằm tránh lộ thông_tin hay bị đánh_cắp dữ_liệu , nhất_là khi nhân_viên mang thiết_bị cá_nhân đi làm .
+Thông_báo xuất_hiện trên i Phone khi thiết_bị của bạn được công_ty , tổ_chức giám_sát .
+Trên phiên_bản i OS 9.3 sắp phát_hành , Apple sẽ cung_cấp một loạt tính_năng cho_phép người sử_dụng lao_động có_thể theo_dõi chi_tiết các hoạt_động của nhân_viên .
+Chẳng_hạn , bộ_phận IT của công_ty có_thể thiết_lập khóa màn_hình chủ trên i Phone , đưa ra danh_sách đen ( blacklist ) các ứng_dụng nhân_viên không được tải về cũng_như   khóa các trò_chơi , phần_mềm giải_trí mà họ nghĩ rằng bạn không nên dùng trong giờ làm_việc .
+Ngoài_ra , tổ_chức còn được phép gửi thông_báo , tin nhắn đến i Phone của người lao_động mà bạn bắt_buộc phải đọc .
+Vì_thế , không có lý_do gì giải_thích việc bạn không nhận được hay không nhìn thấy tin nhắn .
+Dĩ_nhiên , khi công_ty giám_sát thì người dùng cũng nhận được cảnh_báo về vấn_đề này .
+Trên màn_hình khóa thiết_bị sẽ cho_biết : " iPhone này đang bị giám_sát " .
+Bên_cạnh đó , khi kiểm_tra ở phần About trong menu Settings sẽ liệt_kê các dữ_liệu mà công_ty đang kiểm_tra hoặc ngăn_cấm .
+So với các bản trước_đây , tính_năng cảnh_báo giám_sát mới xuất_hiện trên hệ_điều_hành i OS 9.3 dự_kiến phát_hành ngày 21/3 tới .
+Đình_Nam

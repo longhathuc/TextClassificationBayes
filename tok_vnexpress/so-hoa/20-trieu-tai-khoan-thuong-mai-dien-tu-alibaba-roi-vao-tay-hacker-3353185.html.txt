@@ -1,0 +1,14 @@
+20 triệu tài_khoản thương_mại_điện_tử Alibaba rơi vào tay hacker
+Tin_tặc đã nắm trong tay thông_tin về hơn 20 triệu tài_khoản trên trang thương_mại_điện_tử Taobao của Alibaba_Group , khiến cổ_phiếu của hãng giảm 3,7% giữa tuần này .
+Phát_ngôn_viên của   Alibaba cho_biết họ đã sớm phát_hiện cuộc tấn_công và khuyến_cáo người dùng nên thay_đổi mật_khẩu .
+Công_ty đang phối_hợp với cảnh_sát để điều_tra .
+Giữa tháng 10/2015 , hacker thâu_tóm một cơ_sở_dữ_liệu chứa 99 triệu tên người dùng và mật_khẩu từ một loạt website khác_nhau .
+Sau đó , chúng sử_dụng nền_tảng điện_toán đám mây của Alibaba để nhập và đối_chiếu dữ_liệu của Taobao .
+Trong số gần 100 triệu tài_khoản này , hacker lọc được 20,59 triệu tài_khoản thuộc Taobao -   trang thương_mại_điện_tử rất nổi_tiếng ở Trung_Quốc .
+Tin_tặc đã dùng những tài_khoản bị khống_chế này để đặt các đơn hàng ảo nhằm tăng thứ_hạng cho người bán .
+Đồng_thời , chúng rao bán tài_khoản cho kẻ xấu để dùng vào mục_đích lừa_đảo .
+Ảnh : Reuters .
+Các công_ty Trung_Quốc từ lâu luôn là mục_tiêu của các cuộc tấn_công mạng , Giới chuyên_môn cho rằng hệ_thống bảo_mật của doanh_nghiệp Trung_Quốc lại không chuyên_nghiệp bằng ở Mỹ .
+Alibaba thừa_nhận sự_cố nhưng cho_biết vụ tấn_công diễn ra cho hacker dùng thủ_thuật để ăn_cắp thông_tin của hàng triệu người dùng chứ không phải do lỗ_hổng trong nền_tảng đám mây của Alibaba .
+" Hệ_thống của Alibaba chưa bao_giờ bị thâm_nhập " , phát_ngôn_viên nói .
+Minh_Minh

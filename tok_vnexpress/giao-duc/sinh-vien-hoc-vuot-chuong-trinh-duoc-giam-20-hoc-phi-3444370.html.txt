@@ -1,0 +1,31 @@
+Sinh_viên học vượt chương_trình được giảm 20% học_phí
+Những_ai hoàn_thành chứng_chỉ trong vòng 60 ngày tại FUNiX sẽ được giảm 20% học_phí   cho chứng_chỉ tiếp_theo .
+Đây là học_bổng đặc_biệt của Đại_học trực_tuyến FUNiX .
+Theo đó , trường khuyến_khích sinh_viên tích_cực học_tập , hoàn_thành sớm chương_trình để nhanh đi kiếm tiền .
+Cụ_thể , học_viên hoàn_thành chứng_chỉ trong vòng 60 ngày sẽ được giảm 20% học_phí , trong 90 ngày giảm 15% và trong 120 ngày giảm 10% học_phí cho chứng_chỉ tiếp_theo .
+Chương_trình dành cho tất_cả sinh_viên của trường .
+FUNiX là đại_học trực_tuyến đầu_tiên của Việt_Nam , chuyên đào_tạo ngành Công_nghệ_thông_tin .   Chương_trình học của trường gồm 8 chứng_chỉ , mỗi chứng_chỉ thường gồm 4-5 môn , mỗi môn_học theo tiến_độ chuẩn là một tháng .
+Tuy_nhiên , vì chương_trình học online nên trường không cố_định lịch học như các đại_học truyền_thống , sinh_viên có_thể học bất_cứ lúc_nào .
+Trong quá_trình học , nếu gặp khó_khăn , sinh_viên có_thể đặt câu_hỏi và được các mentor - là các nhà quản_lý , tuyển_dụng của các công_ty công_nghệ hàng_đầu Việt_Nam hướng_dẫn , trả_lời .
+Ở chứng_chỉ đầu_tiên - Digital_Citizenship - Công_dân số , sinh_viên nắm_bắt cách làm_chủ máy_tính , xây_dựng website và phần_mềm .
+Sau khi hoàn_thành chứng_chỉ này , sinh_viên có khả_năng sử_dụng máy_tính và các công_cụ thành_thạo , có_thể dựng cho mình website và lập_trình đơn_giản , kinh_doanh trên mạng ...
+Chứng_chỉ Lập_trình_viên ứng_dụng mobile là những tiết học giới_thiệu về khoa_học máy_tính ; Lập_trình hướng đối_tượng ( bằng Java ) ; Lập_trình di_động ; Phát_triển game ; Online lab 1 .
+Sau chứng_chỉ này , người học có khả_năng lập các ứng_dụng trên mobile và games , có_thể ứng_tuyển vào các công_ty mobile apps .
+Ở chứng_chỉ số 3 - Chứng_chỉ Lập_trình_viên ứng_dụng doanh_nghiệp , sinh_viên học Hệ cơ_sở_dữ_liệu ; Phát_triển ứng_dụng Java desktop ; Cấu_trúc dữ_liệu và giải_thuật ( với Java ) ; Phát_triển ứng_dụng web ; Online lab 2 .
+Sinh_viên sẽ học và thực_hành các kỹ_năng xây_dựng phần_mềm lớn , phục_vụ doanh_nghiệp , có_thể tham_gia các dự_án phần_mềm .
+Không_chỉ đào_tạo sâu về chuyên_môn , chứng_chỉ số 4 giới_thiệu các kỹ_năng mềm , giúp sinh_viên làm_quen với môi_trường làm_việc .
+Với chứng_chỉ Thông_thạo môi_trường làm_việc công_nghệ_thông_tin , sinh_viên học về An_ninh mạng ; Quản_trị dự_án ; Đạo_đức trong công_nghệ_thông_tin và giao_tiếp trong kinh_doanh .
+Chứng_chỉ số 5 với tên gọi Kỹ_sư phần_mềm cơ_bản sẽ đào_tạo về : Nhập_môn kỹ_thuật phần_mềm ; Yêu_cầu phần_mềm ; Kiến_trúc và Thiết_kế phần_mềm ; Đảm_bảo Chất_lượng và kiểm_thử phần_mềm ; Online lab 3 .
+Đạt chứng_chỉ này , sinh_viên sẽ nắm được quy_trình sản_xuất một phần_mềm lớn chuyên_nghiệp , có_thể đi thực_tập hoặc tham_gia vào vị_trí bắt_đầu tại các công_ty phần_mềm chuyên_nghiệp .
+Còn chứng_chỉ Dưỡng nghiệp sẽ đào_tạo các kiến_thức cơ_bản để mỗi học_viên có_thể khởi_nghiệp tốt , có kinh_nghiệm trong lĩnh_vực kinh_doanh .
+Các môn_học trong chứng_chỉ này gồm : Kế_toán căn_bản ; Luật thực_hành ; Khởi_nghiệp ; Kinh_doanh kiểu FPT .
+Đây cũng là một trong những chứng_chỉ độc_lập .
+Chứng_chỉ số 7 - Chuyên_viên hệ_thống thông_tin gồm các môn_học : Dữ_liệu lớn ; Điện_toán đám mây ; Toán rời_rạc ; Hệ_điều_hành và mạng máy_tính ; Online lab 3 .
+Ở chứng_chỉ này , sinh_viên có_thể chọn các chuyên_ngành để đi_sâu như : Hệ_thống thông_tin , Phần_mềm nhúng , Robotic , Trí_tuệ_nhân_tạo … Có chứng_chỉ này , sinh_viên có_thể tham_gia các dự_án chuyên_sâu .
+Chứng_chỉ cuối_cùng - Kỹ_sư phần_mềm .
+Học_viên sẽ được học các kiến_thức cần_thiết để có_thể trở_thành một kỹ_sư chuyên_nghiệp như : Toán cao_cấp cho kỹ_thuật ; Xác_suất thống_kê .
+Tiếp đến , sinh_viên phải hoàn_thành các môn đại_cương cơ_bản bắt_buộc của chương_trình đại_học gồm : Các nguyên_lý cơ_bản của Chủ_nghĩa Mác - Lênin ; Tư_tưởng Hồ_Chí_Minh và Đường_lối cách_mạng của Đảng cộng_sản Việt_Nam .
+Sinh_viên sẽ phải làm đồ_án tốt_nghiệp để nhận bằng Kỹ_sư công_nghệ_thông_tin .
+Đây là bằng đại_học được Bộ Giáo dục - Đào_tạo công_nhận .
+Với bằng này , sinh_viên dễ_dàng tìm việc trong các công_ty công_nghệ hoặc học lên bậc cao_học , tiến_sĩ .
+Ngọc_Anh

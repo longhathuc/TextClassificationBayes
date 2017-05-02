@@ -1,0 +1,18 @@
+Sự lỏng_lẻo trong hệ_thống máy_tính của công_ty luật Panama
+Hệ_thống máy_tính của Mossack_Fonseca , công_ty luật ở Panama bị lộ tới 2,6 TB dữ_liệu , đã lạc_hậu và chứa đầy lỗ_hổng bảo_mật .
+Theo tạp_chí Wired , trang_web của hãng này tồn_tại lỗi bảo_mật Drown , khai_thác điểm yếu của giao_thức SSLv2 , ảnh_hưởng tới kết_nối có mã_hóa như HTTPS và các dịch_vụ khác dựa trên giao_thức SSL và TLS .   Lỗ_hổng này được các chuyên_gia mô_tả như một cuộc tấn_công chi_phí thấp , tạo cơ_hội cho tội_phạm mạng lấy_được thông_tin nhạy_cảm của người dùng như mật_khẩu , dữ_liệu cá_nhân hoặc xâm_nhập trái_phép vào mạng nội_bộ của cơ_quan .
+Website của Mossack_Fonseca sử_dụng hệ quản_trị nội_dung ( CMS ) nguồn mở Drupal được cập_nhật từ cách đây 3 năm ( tháng 8/2013 ) .
+Phiên_bản này chứa tới 25 lỗ_hổng , trong đó có một lỗ_hổng đặc_biệt nguy_hiểm , có khả_năng tiến_hành một cuộc tấn_công khai_thác SQL thông_qua các request được thiết_kế đặc_biệt và kéo_theo các hình_thức sự leo_thang đặc_quyền .
+Ngoài_ra , trang_web này cũng được trang_bị nền_tảng WordPress 4.1 phát_hành từ tháng 12/2014 chứa các plugin lỗi_thời .
+Trong khi đó , hệ_thống webmail Outlook_Web_Access của hãng thậm_chí không được cập nhập phần_mềm từ năm 2009 .
+Các e - mail của Mossack_Fonseca cũng không hề được mã_hóa , khiến không ít chuyên_gia an_ninh mạng phải tỏ ra ngạc_nhiên .
+Các tài_liệu trong vụ Hồ_sơ Panama có_thể bị lộ qua các cuộc khai_thác lỗ_hổng bảo_mật .
+Mossack_Fonseca hứa_hẹn cung_cấp " tài_khoản trực_tuyến an_toàn " , nhưng cách họ quản_lý máy_chủ và website thì vô_cùng lỏng_lẻo và dễ_dàng mở_đường cho hacker tiếp_cận dữ_liệu nhạy_cảm .   Giáo_sư Alan_Woodward thuộc Đại_học Surrey ( Anh ) nhận_định , cơ_chế bảo_mật của công_ty luật trong vụ Hồ_sơ Panama là " lạc_hậu không_thể hiểu nổi " .
+Hiện chưa rõ những lỗ_hổng nào trong hệ_thống của Mossack_Fonseca bị khai_thác .
+Ramon_Fonseca , đồng sáng_lập Mossack_Fonseca , trước đó khẳng_định với AP rằng hệ_thống nội_bộ của công_ty đã bị thâm_nhập trái_phép và " bị hacker lấy cắp dữ_liệu " , nhưng báo_chí lại không hề đả_động tới hành_vi bất_hợp_pháp này mà chỉ nhắm vào tên_tuổi của những khách_hàng nổi_tiếng .
+Ngày 3/4/2016 , khoảng 11,5 triệu tài_liệu , trong đó có 4,8 triệu e - mail , 2,5 triệu bộ hồ_sơ với dung_lượng 2,6 terabyte từ năm 1977 đến cuối 2015 của công_ty luật Mossack_Fonseca ở Panama bị rò_rỉ , hé lộ mạng_lưới công_ty " ma " khổng_lồ trên thế_giới .
+Chúng được cho là lập ra để giúp người giàu né thuế và trong một_số trường_hợp là rửa_tiền .
+Nhiều công_ty được đề_cập có liên_quan đến thân_tín của các chính_khách và người nổi_tiếng trên thế_giới .
+Phát_hiện chấn_động này đòi_hỏi nỗ_lực của nhiều nhà_báo , mà trong đó Hiệp_hội Phóng_viên Điều_tra Quốc_tế ICIJ là tổ_chức đóng vai_trò trung_tâm .
+Trước đó , ICIJ đã phơi_bày bí_mật về nhiều vụ gian_lận tài_chính , rửa_tiền , trốn_thuế ... qua các dự_án Offshore_Leaks 2013 ( 230 GB dữ_liệu ) , Lux_Leaks 2014 ( 4 GB ) và Swiss_Leaks 2015 ( 3,3 GB ) .
+Châu_An

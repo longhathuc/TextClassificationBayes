@@ -1,0 +1,23 @@
+FPT cấp xe đua không người lái cho các trường đại_học
+Tập_đoàn FPT sẽ cấp 8 mô_hình xe đua không người lái tỷ_lệ 1/10 so với kích_thước thật cho các trường có đội lọt vào trận chung_kết cuộc_thi Cuộc đua số .
+71 đội thi của 16 trường đại_học đã tham_dự vòng thi Tìm_kiếm đại_diện trường của Cuộc đua số 2016-2017 .   Sau loạt trận vòng_loại từ ngày 9/1 đến 18/1 , 8 đội thi xuất_sắc của Đại_học Công_nghệ ( Đại_học Quốc_gia Hà_Nội ) , Học_viện Bưu_chính viễn_thông , Đại_học Bách_khoa Hà_Nội , Đại_học FPT , Đại_học CNTT ( Đại_học Quốc_gia TP_HCM ) , Học_viện Khoa_học_kỹ_thuật quân_sự , Đại_học Bách_Khoa TP_HCM , Đại_học Lạc_Hồng đã lọt vào vòng chung_kết Cuộc đua số .
+Ở vòng thi Tìm_kiếm , các thí_sinh trải qua hai phần thi : Xử_lý ảnh và Lập_trình nhanh .
+Vòng thi này giúp sinh_viên được tiếp_cận và thực_hành kỹ_năng xử_lý ảnh / video trong công_nghệ xe tự_hành ở mức sơ_cấp .
+Sự xuất_hiện của đội_ngũ các chuyên_gia công_nghệ đến từ FPT và các trường đại_học cũng giúp thí_sinh mở_rộng kiến_thức về lĩnh_vực này .
+Mô_hình xe đua của FPT .
+FPT sẽ cấp 8 mô_hình xe đua không người lái tỷ_lệ 1/10 so với kích_thước thật cho các trường có đội lọt vào trận chung_kết .
+Ngoài_ra , các đội thi cũng sẽ được cung_cấp các thuật_toán cơ_bản ( mã nguồn thuật_toán đọc dữ_liệu từ cảm_biến siêu_âm ; tính tốc_độ động_cơ ; điều_khiển động_cơ PID cơ_bản cho vòng tốc_độ và vị_trí ) ; chương_trình mã nguồn mở cho_phép xe chạy được trên đường_cong ( địa_hình đơn_giản ) và tránh được vật cản ( thuật_toán phát_hiện biên của ảnh , từ đó làm cơ_sở để xác_định đường di_chuyển của xe .
+Ở vòng chung_kết , đội_ngũ huấn_luyện_viên gồm nhiều chuyên_gia về công_nghệ xử_lý hình_ảnh , tự_động_hóa … cũng sẽ trực_tiếp hướng_dẫn cho các thí_sinh .
+TS .
+Nguyễn_Thị_Oanh , Giảng_viên Đại_học Bách_Khoa_Hà_Nội , đánh_giá : " Các đội đều thể_hiện phong_độ xuất_sắc , dù bị các chuyên_gia ' xoáy ' rất nhiều .
+Nhiều sinh_viên có kiến_thức và kỹ_năng công_nghệ tốt khiến giám_khảo rất khó_khăn trong việc lựa_chọn đội đi tiếp vào vòng trong " .
+PGS.TS .
+Trần_Văn_Lăng , Trưởng khoa CNTT Đại_học Lạc_Hồng , cho_biết dù thuộc thế_hệ già nhưng nghe tin về Cuộc đua số , ông rất háo_hức .
+" Chúng_ta khó có_thể tạo_dựng một ngành công_nghiệp xe_hơi đúng nghĩa .
+Nhưng phần_mềm giờ mới là bộ_não .
+Chỉ một ứng_dụng thôi cũng có_thể điều_khiển cả chiếc xe tiền tỷ .
+Đó chính là ước_mơ và nó không quá xa_vời với sức trẻ , với kiến_thức của các sinh_viên Việt_Nam hiện_nay .
+Đó cũng chính là lý_do Đại_học Lạc_Hồng cổ_vũ hết_mình cho các sinh_viên tham_dự cuộc_thi này ” , ông Lăng nhận_định .
+Cuộc đua số , diễn ra từ tháng 11/2016 đến tháng 4/2017 , là cuộc_thi dành cho sinh_viên đại_học trên cả nước .
+Mỗi đội thi lọt vào vòng chung_kết sẽ được ban tổ_chức cung_cấp một xe ôtô mô_hình đã được thiết_lập sẵn và bộ thư_viện mã nguồn mở để tham_gia thi_đấu .
+Tổng giá_trị giải_thưởng của cuộc_thi lên tới 700 triệu đồng , trong đó giải Nhất trị_giá 450 triệu đồng ( gồm một chuyến trải_nghiệm 7 ngày tại Mỹ cho các thành_viên đội thi và 3 laptop ) .

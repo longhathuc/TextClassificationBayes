@@ -1,0 +1,14 @@
+Phân_bón sản_xuất bằng ánh_sáng Mặt_Trời
+Các nhà_khoa_học Mỹ phát_hiện cách_thức sử_dụng ánh_sáng Mặt_Trời để tổng_hợp amoniac , thành_phần quan_trọng trong việc sản_xuất phân_bón .
+Theo UPI , hiện_nay có hai cách chính để tổng_hợp amoniac ( NH3 ) từ khí nitơ ( N2 ) .
+Đầu_tiên là biện_pháp sinh_học , vi_khuẩn có trong nốt sần của rễ cây họ đậu và một_số loài cây khác sử_dụng protein nitrogenase biến_đổi nitơ thành amoniac .
+Cách thứ_hai dựa trên quy_trình công_nghiệp Haber - Bosch , gồm nhiều phản_ứng_hóa_học ở điều_kiện nhiệt_độ và áp_suất cao .
+Các nhà_khoa_học ở Phòng_thí_nghiệm Năng_lượng Tái_tạo Quốc_gia ( NREL ) thuộc Bộ Năng lượng Mỹ hợp_tác với Đại_học Colorado , tìm ra quy_trình tổng_hợp mới , khai_thác tiềm_năng sinh_hóa của nitrogenase trên quy_mô sản_xuất công_nghiệp .
+Nhóm nghiên_cứu kết_hợp nitrogenase với tinh_thể nano của hợp_chất cadmium sulfide ( CdS ) .
+Năng_lượng ánh_sáng Mặt_Trời kích_thích các electron trong tinh_thể nano , tạo ra sự chuyển_đổi nitơ thành amoniac .
+Kết_quả nghiên_cứu được công_bố trên tạp_chí Science hôm 22/4 .
+" Bí_quyết nằm ở chỗ kết_hợp các tinh_thể nano bán_dẫn có khả_năng hấp_thụ năng_lượng ánh_sáng Mặt_Trời với nitrogenase , chất_xúc_tác tự_nhiên giúp chuyển_đổi nitơ thành amoniac " , Gordana_Dukovic , đồng_tác_giả nghiên_cứu , cho_biết .
+Hiện_nay , sản_xuất phân_bón là một quy_trình tốn nhiều năng_lượng , chủ_yếu dựa vào nguồn nhiên_liệu hóa_thạch .
+Công_nghệ mới mang đến hy_vọng sản_xuất phân_bón theo cách bền_vững hơn .
+" Sử_dụng ánh_sáng Mặt_Trời để thực_hiện những phản_ứng_hóa_học xúc_tác khó mở ra tiềm_năng chế_tạo các hóa_chất mới và sản_xuất nhiên_liệu hiệu_quả hơn " , Katherine_Brown , nhà_nghiên_cứu tại NREL , chia_sẻ .
+Lê_Hùng

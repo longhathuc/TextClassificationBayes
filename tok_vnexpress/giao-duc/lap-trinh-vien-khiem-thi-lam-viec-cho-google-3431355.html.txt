@@ -1,0 +1,24 @@
+Lập_trình_viên khiếm_thị làm_việc cho Google
+Lucas_Radaelli nhận thấy những người khiếm_thị vẫn có năng_lực làm_việc như các đồng_nghiệp khác .
+Lucas_Radaelli chia_sẻ niềm đam_mê lập_trình và cách vượt qua những trở_ngại để hoàn_thành tốt công_việc được giao .
+Tôi   là người khiếm_thị hoàn_toàn , hiện làm_việc cho Google với nhiệm_vụ chỉnh_sửa thuật_toán xếp_hạng kết_quả tìm_kiếm .
+Theo kinh_nghiệm cá_nhân , tôi tin rằng nhiều bạn có hoàn_cảnh như tôi có_thể làm_việc không khác_gì so với những đồng_nghiệp bình_thường khác .
+Phần_lớn thời_gian , tôi sử_dụng một trình_soạn_thảo ( chính_xác là trình_soạn_thảo đa chức_năng Ecmas với tiện_ích Emacspeak có_thể đọc nội_dung trên màn_hình ) và một trình_duyệt web để theo_dõi trang nội_bộ của Google với các văn_bản cùng một_số thứ khác .
+Sự khác_biệt lớn nhất_là chúng_tôi   nghe   những gì được đọc ra từ màn_hình hoặc   đọc   với sự trợ_giúp của công_cụ hiển_thị chữ_nổi Braille .
+Mức giá quá đắt khiến tôi không_thể tự sở_hữu một chiếc , nên chỉ có_thể lập_trình bằng cách nghe những gì được viết ra từ trên màn_hình .
+Thử_thách lớn nhất khi lập_trình chỉ bằng cách nghe chính là việc bạn phải học cách ghi_nhớ rất nhiều thứ .
+Bạn di_chuyển từng dòng để nghe đọc toàn_bộ câu đó hoặc thậm_chí , di_chuyển qua_lại giữa các từ và ký_tự .
+Điểm đáng nói là , vào mỗi thời_điểm , bạn chỉ nắm_bắt được một phần nhỏ tất_cả những gì có trên màn_hình .
+Bạn cũng không_thể tra_cứu định_nghĩa các hàm , biến bắt_gặp một_cách nhanh_chóng mà phải nhớ chúng .
+Nếu thực_sự cần tra_cứu , bạn phải đánh_dấu chúng , tìm_kiếm định_nghĩa , đọc rồi mới quay lại với công_việc lập_trình đang dang_dở .
+Vì việc này tốn thời_gian nên tôi chọn cách luyện khả_năng ghi_nhớ mọi thứ .
+Cá_nhân tôi thích sử_dụng Emacspeak vì nó mang lại nhiều điều thú_vị khi lập_trình bằng ngôn_ngữ C+ + .
+Ví_dụ , nó có khả_năng điều_chỉnh tông giọng , có_thể đọc các biến , hàm và những thành_phần khác của ngôn_ngữ_lập_trình với giọng nói phân_hóa độ cao khác_nhau .
+Việc đánh_dấu mọi thứ riêng_biệt giúp tôi nhận_biết mọi thứ dễ_dàng hơn .
+Và có một điều nhiều người không biết , lập_trình_viên khiếm_thị không căn lề khi làm_việc .
+Chúng_tôi thường hoàn_thành mọi thứ rồi sau đó mới chỉnh lề và điều này chẳng có ích_lợi gì với bản_thân chúng_tôi cả .
+Tiết_lộ này khiến nhiều người có_thể thắc_mắc khi lập_trình ngôn_ngữ Python ( ngôn_ngữ_lập_trình này coi_trọng việc căn lề ) .
+Ngay cả với Python , việc căn lề cũng không ý_nghĩa với chúng_tôi .
+Tôi tự_tạo cho mình một_vài bí_quyết , chẳng_hạn như cách thêm một dòng ở cuối mỗi cụm mã để ngăn riêng chúng ra và dễ nhận_biết hơn .
+Khi đọc code của người khác , tôi cài_đặt chế_độ đọc tùy chọn ở màn_hình của mình theo từng mức_độ căn lề , nhưng việc này khá phiền_phức bởi với mỗi dòng mà bạn được đọc lên , tiện_ích sẽ đọc luôn cả những phím cách xuất_hiện ở dòng đó .
+Thu_Ngân ( theo Huffingtonpost )

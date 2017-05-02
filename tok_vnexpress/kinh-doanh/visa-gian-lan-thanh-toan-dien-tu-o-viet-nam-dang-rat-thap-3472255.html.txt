@@ -1,0 +1,28 @@
+Visa : Gian_lận thanh_toán điện_tử ở Việt_Nam đang rất thấp
+Dù có một_vài sự_cố về mất tiền trong tài_khoản ngân_hàng thời_gian gần đây , nhưng theo nhận_định của Visa thì riêng về mặt thanh_toán điện_tử , tỷ_lệ gian_lận ở Việt_Nam đang rất thấp .
+Theo đánh_giá từ Visa , tỷ_lệ gian_lận thanh_toán trên hệ_thống Visa tại Việt_Nam đang ở gần mức thấp lịch_sử , dưới 6 cents trên mỗi 100 đôla được giao_dịch ( tức chỉ khoảng 0,06% ) .
+Tỷ_lệ gian_lận năm 2016 giảm hai_phần_ba so với một thập_kỷ trước_đây - ngay cả khi khối_lượng giao_dịch so với cùng kỳ tăng hơn 50 lần .
+Ông Sean_Preston , Giám_đốc của Visa tại Việt_Nam , Campuchia và Lào cho rằng , việc các ngân_hàng lớn tại Việt_Nam đang mở_rộng sử_dụng thẻ chip EMV thay cho thẻ từ là nguyên_nhân chính góp_phần kéo giảm nguy_cơ gian_lận .
+Ông Sean_Preston cho rằng gian_lận thanh_toán trên hệ_thống Visa tại Việt_Nam đang ở gần mức thấp lịch_sử .
+Cũng theo Visa , ngành thanh_toán chuyển_động rất nhanh và liên_tục thay_đổi .
+Khi người tiêu_dùng ngày_càng có nhiều chọn_lựa trong phương_thức thanh_toán dịch_vụ , việc đảm_bảo an_toàn , an_ninh cho hệ_thống thanh_toán chưa bao_giờ quan_trọng hơn thế .
+“ Môi_trường thanh_toán trở_nên năng_động và phức_tạp hơn mỗi ngày .
+Viễn_cảnh trong 10 năm tới sẽ có rất nhiều thay_đổi so với những gì chúng_ta chứng_kiến trong hơn 50 năm trước đó cộng lại .
+Trong khi các sáng_kiến mới ra_đời để cải_thiện trải_nghiệm thanh_toán cho người tiêu_dùng , việc đảm_bảo an_ninh và duy_trì tính toàn_vẹn của hệ_thống thanh_toán chính là chìa_khóa để phát_triển thương_mại_điện_tử ” , ông Preston nhận_định .
+Thưc tế , thanh_toán điện_tử vẫn đang tiếp_tục tăng_trưởng mạnh_mẽ tại Việt_Nam .
+Trong vòng 12 tháng tính đến tháng 6/2016 , tổng_lượng giao_dịch qua thẻ Visa tăng 38% , mua_sắm trực_tuyến tăng 53% .
+Một nghiên_cứu mới_đây của Visa cũng cho_biết , người Việt_Nam đang nhìn_nhận khá tích_cực về thẻ và thanh_toán điện_tử .
+79% chủ thẻ cho_biết họ muốn gia_tăng thanh_toán điện_tử và giảm_thiểu sự phụ_thuộc vào thanh_toán tiền_mặt .
+51% người tham_gia khảo_sát thừa_nhận rằng họ đang thanh_toán qua thẻ nhiều hơn so với 5 năm trước_đây .
+Sự bùng_nổ của thanh_toán điện_tử đang buộc các công_ty công_nghệ thanh_toán như Visa phải liên_tục áp_dụng các công_nghệ hiện_đại hơn như thẻ chip EMV , công_cụ mã_hóa ( tokenization ) và mã_hóa điểm - điểm ( point-to-point encryption ) .
+Ông Preston cho_biết , hiện_nay đơn_vị này đang đầu_tư vào phân_tích dữ_liệu tiên_tiến và công_cụ thông_minh để ngăn_ngừa và phòng_chống gian_lận .
+Trong vòng chưa đầy một phần nghìn giây , công_nghệ của hãng có khả_năng phân_tích đến 500 thuộc_tính rủi_ro của một giao_dịch bất_kỳ để xác_định gian_lận .
+Cùng_với đó , các công_nghệ này là một phần của hệ_thống đa tầng nhằm đảm_bảo an_ninh thanh_toán .
+" Mặc_dù Visa áp_dụng một hệ_thống các biện_pháp an_ninh để chống gian_lận , nhưng người tiêu_dùng vẫn giữ một vai_trò quan_trọng trong việc duy_trì các tiêu_chuẩn bảo_mật ở mức cao nhất " , ông Preston khuyến_cáo .
+Ông cho rằng , với khách_hàng đã sở_hữu thẻ chip EMV thì nên ưu_tiên thanh_toán tại các máy POS có khả_năng đọc chip , do công_nghệ EMV giúp thông_tin được mã_hóa và hầu_như không_thể sao_chép .
+Trong khi đó , thẻ từ chỉ là một mẫu thông_tin được lưu và hoàn_toàn có khả_năng bị sao_chép và làm giả .
+Đồng_thời , chủ thẻ nên thận_trọng với những yêu_cầu cung_cấp thông_tin tài_khoản , và tuyệt_đối giữ bí_mật mã PIN hoặc mật_khẩu .
+Ngoài_ra , còn có một_số giải_pháp được cung_cấp bởi các ngân_hàng phát_hành thẻ , như xác_thực hai yếu_tố , còn được gọi_là One-Time-Passcode ( mật_khẩu dùng một lần ) cho các giao_dịch trực_tuyến , và thông_báo giao_dịch qua tin nhắn SMS hoặc email .
+Đó là điều khách_hàng phải luôn_luôn đòi_hỏi .
+" Khi_Việt_Nam mở_rộng thanh_toán điện_tử trên toàn_quốc , nhà_nước và khu_vực tư_nhân cần phối_hợp để đảm_bảo rằng cả chủ thẻ và các công_ty có_thể thanh_toán và được thanh_toán một_cách an_toàn và thuận_tiện dù ở bất_kỳ nơi nào " , ông Preston kết_luận .
+Viễn_Thông

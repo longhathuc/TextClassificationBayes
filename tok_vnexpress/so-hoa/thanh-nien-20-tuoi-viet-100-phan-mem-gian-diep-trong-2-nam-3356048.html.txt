@@ -1,0 +1,23 @@
+Thanh_niên 20 tuổi viết 100 phần_mềm gián_điệp trong 2 năm
+Một thanh_niên người Brazil đã viết hơn 100 phần_mềm gián_điệp và bán với giá 300 USD một bản trong_suốt 2 năm .
+Công_ty an_ninh mạng Brazil , Trend_Micro , đã theo_dõi các hoạt_động tấn_công mạng của thanh_niên này từ tháng 4/2013 .
+Với biệt_danh “ Lordfenix ” , “ Hacker ’ son ” và ” Filho de Hacker ” , thanh_niên 20 tuổi đến từ Tocantis , Brazil , đã bắt_đầu việc viết phần_mềm gián_điệp bằng cách tìm_kiếm sự trợ_giúp trên các diễn_đàn trực_tuyến .
+“ Ban_đầu Lordfenix đã đăng những câu_hỏi cơ_bản giúp phát_triển những phần_mềm gián_điệp mà cậu ta đang nghiên_cứu ” , Trend_Micro cho_hay .
+Tuy_nhiên , qua thời_gian , kỹ_năng tin_học của Lordfenix đã được cải_thiện nhanh_chóng .
+Từ chỗ phải đi hỏi cách lập_trình phần_mềm máy_tính , giờ_đây hoạt_động của cậu học_sinh này đã nhắm vào những ngân_hàng lớn tại Brazil như Banco de Brasil , HSBS Brasil và Caixa .
+Ảnh xếp tiền trên Facebook của Lordfenix .
+Tổ_chức an_ninh mạng này đã tiết_lộ một bức ảnh Lordfenix đã đăng lên trang Facebook cá_nhân của mình .
+Bức ảnh chụp một lượng lớn tiền Real ( đồng nội_tệ của Brazil ) được xếp thành_hình chữ VIP .
+Theo Tech_Times , bức ảnh được đăng vào tháng 9/2013 cho thấy sự giàu_có của Lordfenix nói_riêng và một_số hacker nói_chung .
+Để tăng tầm ảnh_hưởng của mình , gần đây Lordfenix đã cung_cấp các phiên_bản phần_mềm gián_điệp miễn_phí .
+Khách_hàng của anh chủ_yếu là giới tội_phạm kinh_tế của thế_giới ngầm , những người sử_dụng phần_mềm gián_điệp để đánh_cắp thông_tin cá_nhân và thông_tin tài_chính từ khách_hàng của các tổ_chức ngân_hàng .
+Tuy_nhiên ,   nếu họ muốn một công_cụ hiệu_quả hơn thì_phải trả tiền để có được phần_mềm “ Tspy _ Banker.NJH ” do Lordfenix phát_triển .
+Phần_mềm gián_điệp này một_khi được cài_đặt lên máy người dùng sẽ đánh sập cửa_sổ trình_duyệt web , hiển_thị thông_báo lỗi và sau đó mở một cửa_sổ Chrome giả_mạo .
+Một_khi người dùng đăng_nhập vào cửa_sổ giả_mạo này , thông_tin cá_nhân của họ sẽ được gửi về máy_chủ của hacker .
+Trong trường_hợp người dùng sử_dụng trình_duyệt web Internet_Explorer hay Firefox , cửa_sổ giả_mạo sẽ xuất_hiện trong khi cửa_sổ thật vẫn được mở .
+Những vấn_đề về an_ninh mạng đang trở_nên ngày_càng đáng quan_ngại ở những hệ_thống ngân_hàng tại Brazil .
+Ở quốc_gia châu Mỹ này , gần nửa giao_dịch tài_chính được thực_hiện trên mạng , trong khi 75% người dùng dịch_vụ ngân_hàng trực_tuyến thừa_nhận mình đã từng là nạn_nhân của những vụ tấn_công mạng .
+Theo Trend_Micro , Lordfenix còn phát_triển thành_công một phần_mềm gián_điệp có_thể vượt qua được hệ_thống bảo_mật có tên “ GbpSV.exe ” ,
+công_cụ đang được phần_lớn ngân_hàng tại Brazil sử_dụng để phòng_tránh các nguy_cơ về an_ninh mạng .
+Câu_chuyện tại Brazil càng trở_nên tồi_tệ khi chính_phủ nước này thường có thái_độ khoan_dung với tội_phạm công_nghệ_cao để tập_trung xử_lý những loại tội_phạm bạo_lực , tham_nhũng .
+Nguyễn_Mai_Đức

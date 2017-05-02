@@ -1,0 +1,19 @@
+Ma ́ y bay cung_cấp không_khí cho hành_khách như_thế_nào
+Khi ma ́ y bay bay lên cao , không khi ́ loa ̃ ng dâ ̀ n , do đo ́ ma ́ y bay câ ̀ n co ́ mô ̣ t hê ̣ thô ́ ng thông khi ́ đê ̉ đa ̉ m ba ̉ o cung câ ́ p đu ̉ oxy cho ha ̀ nh kha ́ ch ơ ̉ a ́ p suâ ́ t giô ́ ng như trên mă ̣ t đâ ́ t .
+Nguô ̀ n cung câ ́ p không khi ́ chu ̉ yê ́ u cu ̉ a ca ́ c ma ́ y bay thương ma ̣ i hiê ̣ n nay đê ́ n tư ̀ đô ̣ ng cơ .
+Không khi ́ bên ngoa ̀ i đươ ̣ c hu ́ t va ̀ o va ̀ ne ́ n qua nhiê ̀ u giai đoa ̣ n đê ̉ phu ̣ c vu ̣ cho_qua ́ tri ̀ nh đô ́ t cha ́ y nhiên liê ̣ u ta ̣ o lư ̣ c đâ ̉ y cho ma ́ y bay .
+Trươ ́ c khi tơ ́ i buô ̀ ng đô ́ t , mô ̣ t phâ ̀ n nho ̉ cu ̉ a không khi ́ đươ ̣ c dâ ̃ n quay trơ ̉ la ̣ i tư ̀ ô ́ ng dâ ̃ n khi ́ .
+Khi ́ na ̀ y co ́ a ́ p suâ ́ t va ̀ nhiê ̣ t đô ̣ cao , ngoa ̀ i đê ̉ cung câ ́ p cho ha ̀ nh kha ́ ch co ̀ n co ́ ta ́ c du ̣ ng la ̀ m tan băng ơ ̉ ca ́ nh va ̀ ca ́ c bô ̣ phâ ̣ n ma ́ y bay , theo Lufthansa_Technik .
+Luô ̀ ng khi ́ co ́ tên go ̣ i " bleed air " na ̀ y se ̃ đươ ̣ c la ̀ m nguô ̣ i bă ̀ ng phương pha ́ p trao đô ̉ i nhiê ̣ t xuô ́ ng tơ ́ i nhiê ̣ t đô ̣ 200 đô ̣ C .
+Thông_qua ca ́ c van do phi ha ̀ nh đoa ̀ n điều_khiển , no ́ đươ ̣ c dâ ̃ n tơ ́ i ma ́ y điê ̀ u ho ̀ a không khi ́ đê ̉ ha ̣ tiê ́ p nhiê ̣ t đô ̣ xuô ́ ng phu ̀ hơ ̣ p cho ha ̀ nh kha ́ ch .
+Không khi ́ đa ̃ đươ ̣ c la ̀ m ma ́ t se ̃ tiê ́ p tu ̣ c đươ ̣ c dâ ̃ n qua buô ̀ ng trô ̣ n , trô ̣ n lâ ̃ n vơ ́ i không khi ́ đa ̃ đươ ̣ c sư ̉ du ̣ ng tư ̀ cabin ma ́ y bay .
+Cuô ́ i cu ̀ ng , ca ́ c van điê ̀ u tiê ́ t dâ ̃ n khi ́ na ̀ y vê ̀ la ̣ i cabin ma ́ y bay , chia la ̀ m nhiê ̀ u khu vư ̣ c kha ́ c nhau .
+Viê ̣ c sư ̉ du ̣ ng không khi ́ ta ́ i tuâ ̀ n hoa ̀ n la ̀ m tăng đô ̣ â ̉ m , cu ̃ ng la ̀ tăng thêm sư ̣ thoa ̉ i ma ́ i cho ha ̀ nh kha ́ ch .
+Sư ̣ chia ta ́ ch cu ̉ a cabin ma ́ y bay tha ̀ nh ca ́ c khu vư ̣ c cho phe ́ p điê ̀ u chi ̉ nh nhiê ̣ t đô ̣ đô ̣ c lâ ̣ p ta ̣ i ca ́ c nơi kha ́ c nhau , như giư ̃ a ca ́ c khu vư ̣ c ve ́ phô ̉ thông va ̀ thương_gia .
+Hai nơi na ̀ y co ́ sư ̣ kha ́ c biê ̣ t râ ́ t lơ ́ n vê ̀ nhiê ̣ t to ̉ a ra tư ̀ ha ̀ nh kha ́ ch , do khu ve ́ phô ̉ thông đông kha ́ ch hơn .
+Nhiê ̣ t đô ̣ khi ́ đươ ̣ c điê ̀ u chi ̉ nh no ́ ng lên hay la ̣ nh đi nhơ ̀ thay đô ̉ i phâ ̀ n trăm tha ̀ nh phâ ̀ n khi ́ no ́ ng .
+Phi ha ̀ nh đoa ̀ n co ́ thê ̉ kiê ̉ m tra nhiê ̣ t đô ̣ na ̀ y qua hê ̣ thô ́ ng ECAM ( Electronic_Centralised_Aircraft_Monitor – Thiê ́ t bi ̣ gia ́ m sa ́ t điê ̣ n tư ̉ ma ́ y bay tâ ̣ p trung ) .
+Sô ́ lươ ̣ ng khu vư ̣ c tu ̀ y thuô ̣ c theo loa ̣ i ma ́ y bay .
+Airbus A320 co ́ 2 khu vư ̣ c kha ́ c nhau trong khi loa ̣ t A330/A340 co ́ 6 .
+Ngoa ̀ i ra , co ̀ n co ́ hê ̣ thô ́ ng lo ̣ c co ́ kha ̉ năng loa ̣ i bo ̉ 99,999% ca ́ c loa ̣ i virus va ̀ vi khuâ ̉ n đa ̃ biê ́ t tư ̀ không khi ́ .
+Nguyê ̃ n Tha ̀ nh Minh

@@ -1,0 +1,38 @@
+Phần_mềm gián_điệp được cài lên máy_tính thế_nào
+Phần_mềm gián_điệp có_thể được cài vào máy_tính thông_qua cửa_sổ quảng_cáo , các tiện_ích mở_rộng hay những ứng_dụng có sẵn của nhà_sản_xuất ...
+Spyware hay phần_mềm gián_điệp , là thuật_ngữ thường dùng để chỉ các ứng_dụng tự_ý thu_thập thông_tin người dùng , thay_đổi cấu_hình máy_tính , thậm_chí cướp quyền điều_khiển thiết_bị ...
+Nói cách khác , phần_mềm gián_điệp cài_đặt và thực_hiện các hành_vi một_cách lén_lút , bí_mật , không được sự cho_phép của chủ_sở_hữu .
+Theo Face Time_Communications , ước_tính hơn 80% trong tổng_số máy_tính_cá_nhân trên toàn thế_giới đang nhiễm phần_mềm gián_điệp .
+Một_số người nhầm_lẫn giữa spyware và virus máy_tính , nhưng hai khái_niệm này khác_nhau .
+Virus máy_tính là một đoạn mã được thiết_kế để tự " nhân_bản " , lan_truyền từ thiết_bị này sang thiết_bị khác thông_qua một kết_nối nào_đó .
+Virus máy_tính có xu_hướng phá_hoại các tập_tin , thậm_chí " ăn " và phá hỏng cả hệ_điều_hành .
+Trong khi đó , phần_mềm gián_điệp nhìn_chung không làm hỏng thiết_bị của người dùng .
+Nó thường chạy ngầm và tránh để người dùng phát_hiện , đồng_thời nó thu_thập thông_tin một_cách bí_mật , từ lịch_sử duyệt web , tên tài_khoản , mật_khẩu , các giao_dịch ngân_hàng ... hoặc hiển_thị quảng_cáo , tự_động đổi hướng khi truy_cập Internet ...
+Hiện_nay hầu_hết các phần_mềm gián_điệp xuất_hiện trên hệ_điều_hành Windows .
+Một trong những spyware " khét_tiếng " là Trymedia , Nuvens , Estalive , Hotbar và New.Net.Domain.Plugin ...
+Phần_mềm gián_điệp được cài vào máy_tính thế_nào
+Có nhiều nguyên_nhân khiến thiết_bị nhiễm spyware .
+Khi sử_dụng máy_tính , người dùng thường vô_tình cài_đặt phần_mềm gián_điệp thông_qua cửa_sổ pop - up , cài_đặt thêm một_số tính_năng trong gói phần_mềm chung ...
+Cách đầu_tiên để phần_mềm gián_điệp xâm_nhập vào thiết_bị là qua việc download phần_mềm .
+Khi tải các ứng_dụng từ Internet hay truy_cập web , một cửa_sổ pop - up hiện lên và spyware sẽ gợi_ý được cài_đặt .
+Cảnh_báo duy_nhất người dùng nhận được là tên của phần_mềm , thậm_chí nếu máy thiết_lập bảo_mật ở mức thấp thì không có cảnh_báo nào .
+Ngoài_ra , khi cài_đặt phần_mềm , người dùng được gợi_ý cài thêm các phần_mềm khác , lại chính là spyware .
+Nếu_không đọc kỹ thông_tin , bạn sẽ chấp_nhận cho các phần_mềm này thu_thập thông_tin cá_nhân hay tự_ý quảng_cáo ...
+Con đường khác để spyware lây_lan vào máy_tính là thông_qua việc cài_đặt tiện_ích mở_rộng ( add-ons ) cho trình_duyệt .
+Spyware cũng có_thể được cài_đặt sẵn trên máy_tính từ khi xuất_xưởng .
+Một_số nhà_sản_xuất có sẵn các tiện_ích cho khách_hàng , trong số này có cả ứng_dụng thu_thập thông_tin mà các hãng thường nói là " để nâng cao trải_nghiệm người dùng " .
+Phần_mềm này hội_tụ đầy_đủ các yếu_tố của spyware và do cài sẵn nên đôi_khi người dùng không biết hoặc quên mất sự tồn_tại của nó .
+" Thủ_đoạn tàn_bạo " nhất_là phần_mềm gián_điệp được thiết_kế giả_mạo như_là một phần_mềm diệt virus , diệt spyware .
+Bạn từng thấy một thông_báo hiện lên nói rằng máy_tính chạy chậm , có virus ... và cần khắc_phục .
+Ngay khi bấm Đồng_ý , người dùng đã cho_phép spyware được cài_đặt trên thiết_bị của mình .
+Phần_mềm gián_điệp gây hại ra_sao
+Ở mức thấp nhất , hầu_hết các phần_mềm gián_điệp được thiết_kế để chạy ngầm ngay khi bạn bật máy_tính .
+Do_đó nó gây tiêu tốn điện_năng , bộ_nhớ RAM và ảnh_hưởng đến hiệu_suất xử_lý của thiết_bị .
+Phần_mềm gián_điệp có_thể phát_sinh quảng_cáo và thường " nhảy ra " dưới dạng cửa_sổ pop - up .
+Nó gây khó_chịu khi liên_tục xuất_hiện , đôi_khi ở ngay trang_chủ và còn chứa các nội_dung phản_cảm .
+Ngoài_ra , phần_mềm gián_điệp có_thể thay_đổi hướng khi bạn truy_cập Internet , thao_túng kết_quả khi tìm_kiếm ...
+Nguy_hiểm hơn , nó có khả_năng điều_khiển toàn_bộ máy_tính , ghi lại nội_dung bạn gõ ( keylogger ) , đọc các tập_tin trên ổ_cứng , cài thêm spyware mới , đánh_cắp tài_khoản ngân_hàng ... sau đó gửi về máy chủ_đích và có_thể dùng cho các mục_đích xấu .
+Nhìn_chung , khi máy nhiễm spyware thì sự riêng_tư của người dùng bị mất .
+Ông Nguyễn_Minh_Đức , chuyên_gia bảo_mật của FPT , cho_biết spyware là một trong những loại mã độc khó phát_hiện ra nhất ( kể_cả với người biết về kỹ_thuật ) .
+Do_đó , người dùng nên sử_dụng các phần_mềm diệt virus để chặn các kết_nối không mong_muốn .
+Bảo_Anh

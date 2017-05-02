@@ -1,0 +1,33 @@
+Máy_bay_không_người_lái của 5 thế_hệ sinh_viên Bách_khoa
+Từ khi chiếc Solar UAV còn nằm trên giấy đến lúc sải cánh bay trên bầu_trời , các chàng_trai bộ_môn Kỹ_thuật Hàng_không và Vũ_trụ ( Đại_học Bách_khoa Hà_Nội ) khóa 52 đến 56 đã cùng tham_gia thiết_kế sơ_bộ , chế_tạo mô_hình , hoàn_thiện , bay thử ...
+Máy_bay_không_người_lái sử_dụng pin_năng_lượng_mặt_trời ( Solar UAV ) của thầy_trò bộ_môn Kỹ_thuật Hàng_không và Vũ_trụ , Viện_Cơ khí động_lực thuộc nhóm sản_phẩm giành giải Nhất , thu_hút người xem tại Ngày hội sáng_tạo khoa_học trẻ Bách_khoa năm 2016 .
+Máy_bay có sải cánh 2,5 m ; dài 1,5 m ; tải_trọng có_ích 1,5 kg với vận_tốc hành_trình trung_bình 15 m / s và trần bay 300 m ứng_dụng trong khảo_sát , giám_sát trồng rừng , phục_vụ cứu_hộ , cứu nạn .
+Máy_bay do nhóm sinh_viên K56 là Bùi_Văn_Thành , Trần_Trung_Đức , Ngô_Xuân_Chính , Đào_Văn_Long và Nguyễn_Văn_Dinh ( cựu sinh_viên K55 ) thực_hiện dưới sự hướng_dẫn của hai giảng_viên bộ_môn TS Đinh_Tấn_Hưng và TS Vũ_Đình_Quý .   Trưởng nhóm Bùi_Văn_Thành cho_hay , việc triển_khai nghiên_cứu chiếc Solar UAV này được bắt_đầu_từ tháng 7/2015 tại Viện_Nghiên cứu Công_nghệ Không_gian và Dưới nước thuộc Đại_học Bách_khoa Hà_Nội .
+Trước đó vào năm 2012 , TS Hưng đề_xuất nghiên_cứu chế_tạo máy_bay_không_người_lái sử_dụng năng_lượng mặt_trời .   Đây là thiết_bị có_thể ứng_dụng trong quân_sự và dân_sự .
+Nếu máy_bay_không_người_lái ( UAV ) có động_cơ dùng nhiên_liệu hóa_thạch thì thời_gian bay tốt nhưng khó hoạt_động khi nhiệt_độ , áp_suất thay_đổi , tiếng ồn lớn và có_thể gây nhiễm môi_trường .
+UAV với động_cơ_điện lại có thời_gian bay ngắn , pin lưu_trữ hạn_chế .
+Vì_vậy , Solar UAV được ưu_tiên nghiên_cứu phát_triển .
+Để có được sản_phẩm " made in Bách_khoa " , sinh_viên bộ_môn Kỹ_thuật Hàng_không và Vũ_trụ các khóa từ K52 đến K55 đã lần_lượt tham_gia .
+Họ nghiên_cứu , thiết_kế sơ_bộ , chế_tạo mô_hình , giải_quyết dần bài_toán từ lý_thuyết đến thực_hành , từ thiết_kế chế_tạo đến thử_nghiệm .
+Tới nhóm sinh_viên K56 , sản_phẩm Solar UAV mới được hoàn_thiện .
+Mỗi thành_viên trong nhóm chịu trách_nhiệm một khâu .
+Thành và Đức nghiên_cứu hệ_thống điều_phối năng_lượng ; Long thiết_kế cải_tiến và hoàn_thiện sản_phẩm theo yêu_cầu mới , Dinh gia_công chế_tạo tổng_thể , Chính chế_tạo hệ_thống cứu_hộ khẩn_cấp bằng dù .
+Cuối năm 2015 , Solar UAV bắt_đầu bay thử_nghiệm tĩnh trong nhiều môi_trường .
+Tháng 1/2016 , thiết_bị thử_nghiệm bay ngoài_trời lên đến 24 lần , tổng thời_gian bay thử hơn 8 giờ .
+" Đầu tháng 4 , lần đầu_tiên thiết_bị bay được 35 phút trong tiết trời có gió và nắng nhẹ lúc 15h chiều .
+Bọn em mừng_rơn " , thành_viên Ngô_Xuân_Chính nhớ lại và cho_biết , thiết_bị nhìn mảnh_mai nhưng nhờ sải cánh rộng   nên khả_năng lượn tốt , cho_phép thích_ứng với các luồng gió và tốn ít năng_lượng .
+Khi trời nắng gắt , năng_lượng mặt_trời thu qua 36 tấm pin khiến thiết_bị hoạt_động ổn_định .
+Năng_lượng thừa được sạc vào pin lipo lưu_trữ trong thân máy_bay .
+Khả_năng này cho_phép Solar UAV khảo_sát , giám_sát tại các khu_vực lớn , yêu_cầu tầm bay xa như rừng , bờ biển ...   Hệ_thống theo_dõi trực_tuyến năng_lượng mặt_trời và pin lưu_trữ cho_phép giám_sát trực_tiếp và liên_tục trong quá_trình Solar UAV hoạt_động .
+Trường_hợp khẩn_cấp , hệ_thống cứu_hộ bằng dù tự_động sẽ đảm_bảo an_toàn cho thiết_bị bay .
+Thầy_trò Bách_khoa cho_biết gặp khó_khăn về vấn_đề kinh_phí .
+May_mắn , một doanh_nghiệp hoạt_động trong lĩnh_vực nông lâm_nghiệp chịu đầu_tư cho cả nhóm .
+Khi trao_đổi về chiến_lược phát_triển của doanh_nghiệp này , thầy Hưng đã đề_xuất nên có thiết_bị giám_sát thường_xuyên khu_vực trồng cây , trồng rừng để hạn_chế nạn chặt phá và họ đã đồng_ý ...
+Thầy_trò làm từng bước và doanh_nghiệp cũng đầu_tư từng bước một .
+Mới_đây nhất vào ngày 1/6 tại vùng rừng_núi phía Đông_Bắc của doanh_nghiệp đầu_tư , khi trời nhiều nắng , ít mây , Solar UAV đã bay thử_nghiệm theo hành_trình quỹ_đạo điểm , phục_vụ dựng địa_hình 3D khu_vực rộng gần 50 ha .
+Máy_bay hoạt_động khoảng 3 vòng theo quỹ_đạo đường zich zac liên_tục , tổng quãng đường khoảng 50 km trong hơn một tiếng .
+Có được kết_quả này , nhóm dự_định thời_gian tới tiếp_tục thử_nghiệm với yêu_cầu cao hơn để hoàn_thiện kỹ_thuật , đáp_ứng độ tin_cậy , sớm đưa sản_phẩm vào ứng_dụng .
+Theo TS Đinh_Tấn_Hưng , nếu ứng_dụng máy_bay_không_người_lái sử_dụng năng_lượng mặt_trời vào công_tác cứu_hộ , cứu nạn trong thời_tiết kém như mưa , bão … thì chưa khả_thi .
+Nhóm nghiên_cứu dự_định cải_tiến , phát_triển sản_phẩm theo hướng có_thể bay cao hơn tầng mây để giảm tác_động của thời_tiết , ổn_định cường_độ ánh_sáng cho nguồn năng_lượng mặt_trời .
+" Nhất_định chúng_tôi sẽ cải_tiến thiết_bị theo hướng có độ sải cánh lớn , trần bay cao để thực_hiện nhiệm_vụ tốt hơn " , thầy Hưng nói .
+Hoàng_Phương

@@ -1,0 +1,19 @@
+Nhu_cầu chuyên_gia khoa_học dữ_liệu tăng cao tại Anh
+Chỉ trong nửa đầu năm 2016 , yêu_cầu tuyển_dụng nhân_sự cho ngành khoa_học dữ_liệu đã tăng đến 32% , theo khảo_sát của công_ty tư_vấn Procorre .
+Ông Wiktor_Podgorski - Giám_đốc quản_lý quan_hệ khách_hàng của Procorre cho_biết cần nhiều nhân_lực để xử_lý dữ_liệu lớn ( Big_Data ) cùng nguồn thông_tin phong_phú đến từ Internet vạn_vật ( Internet of Things - IoT ) .
+" Chiến_lược định_hướng dữ_liệu vốn chỉ phổ_biến trong các doanh_nghiệp công_nghệ đã mở_rộng phạm_vi ảnh_hưởng sang nhiều lĩnh_vực khác .
+Như một hệ_quả tất_yếu , nguồn cung chuyên_gia tư_vấn và thi_công hệ_thống phải sẽ tăng theo , nhất_là trong lĩnh_vực sản_xuất và dịch_vụ tài_chính " , ông Wiktor_Podgorski chia_sẻ .
+Trong những năm gần đây , các lĩnh_vực liên_quan đến xử_lý Big_Data và một_số kỹ_năng công_nghệ_thông_tin khác liên_tục phát_triển .
+Dự_kiến đến năm 2020 , số_lượng việc_làm kỹ_thuật_số ở châu Âu_là gần 800.000 .
+Tuy_nhiên người có đủ kỹ_năng đáp_ứng yêu_cầu nghề_nghiệp lại có xu_hướng sụt_giảm , đặc_biệt ở ngành khoa_học dữ_liệu .
+Trung_tâm Kinh_tế và Nghiên_cứu Kinh_doanh ( CEBR ) vừa đưa ra dự_đoán cho_đến năm 2020 , Anh sẽ cần 182.000 việc_làm mới liên_quan đến Big_Data và IoT , trong đó nổi_bật lên là vai_trò chủ_chốt của các nhà_khoa_học dữ_liệu , chuyên_viên phân_tích , lập_trình_viên và kỹ_sư .
+Bên_cạnh đó , các nước châu Âu khá cũng ghi_nhận nhu_cầu chuyên_gia khoa_học dữ_liệu tăng_trưởng trong 6 tháng đầu năm nay .
+Cụ_thể Pháp tăng 59% , Bồ_Đào_Nha vượt 79% , Đức , Tây_Ban_Nha và Hà_Lan đều có tỷ_lệ cao .
+Các ngành công_nghiệp thu_thập , phân_tích và sử_dụng dữ_liệu để cải_thiện hiệu_quả chi_phí đầu_tư , tăng_cường dịch_vụ khách_hàng .
+Tuy_nhiên họ không đủ khả_năng để xử_lý một nguồn thông_tin quá đồ_sộ .
+Do_vậy , song_song tuyển_dụng các nhà_khoa_học dữ_liệu để giải_quyết vấn_đề này , nhiều doanh_nghiệp cũng tận_dụng đội_ngũ kỹ_sư tại_chỗ , tự đào_tạo để theo kịp xu_hướng khai_thác xu_hướng dữ_liệu .
+Mặc_dù các chương_trình đào_tạo mới tại Anh đã thiết_kế giới_thiệu các khái_niệm mã_hóa và tư_duy tính_toán .
+Nhưng các chuyên_gia cho rằng cần đưa nội_dung siêu máy_tính và phân_tích dữ_liệu vào giảng_dạy sớm hơn để theo kịp sự phát_triển của khoa_học dữ_liệu .
+Đồng_thời khi các công_ty thu_thập và sử_dụng ngày_càng nhiều dữ_liệu , chính_phủ phải có hành_động để đảm_bảo hệ_thống dữ_liệu cá_nhân được sử_dụng một_cách minh_bạch và an_toàn .
+Cơ_quan quản_lý cần thành_lập các hội_đồng giám_sát nhằm giải_quyết những thách_thức về pháp_lý và đạo_đức gây ra từ việc khai_thác dữ_liệu .
+Minh_Trí

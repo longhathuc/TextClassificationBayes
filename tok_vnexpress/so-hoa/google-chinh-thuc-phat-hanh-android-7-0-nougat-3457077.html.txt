@@ -1,0 +1,13 @@
+Google chính_thức phát_hành Android 7.0 Nougat
+Ngày 22/8 , Google đã cho_phép người dùng tải về phiên_bản Android 7.0 Nougat mới nhất và smartphone Nexus là những thiết_bị đầu_tiên được cập_nhật .
+Android_Nougat đã có_mặt trên các thiết_bị Nexus .
+Trên trang_chủ , Google cho_biết Nexus 6P , Nexus 5X , Nexus 6 , Nexus 9 , Pixel C và Nexus_Player là những thiết_bị được phép tải về Android 7.0 Nougat ngay từ lúc này .
+Bên_cạnh đó , hãng cũng đưa vào một_số sản_phẩm sẽ có_mặt của nền_tảng mới khi ra_mắt , đó là LG_V2 0 và Nexus thế_hệ tiếp_theo .
+Động_thái này đồng_nghĩa với Android 7.0 Nougat đã được phát_hành chính_thức và sẽ sớm có_mặt trên những smartphone mới của Samsung , LG , Sony … bởi họ cần có thời_gian để tạo các bản cập_nhật riêng .
+Trước_đây , đối_với các phiên_bản Android mới , các hãng này thường nâng_cấp cho dòng sản_phẩm của mình sau một đến vài tháng và có_thể lần này cũng trong thời_gian tương_tự .
+Android 7.0 Nougat là bản nâng_cấp theo hướng tăng khả_năng trải_nghiệm và sự đơn_giản cho người dùng .
+Hệ_điều_hành sẽ được bổ_sung khả_năng chạy đa_nhiệm , trả_lời tin nhắn trực_tiếp ngay tại thông_báo mà không cần vào ứng_dụng nhắn_tin , gom nhóm các thông_báo theo từng ứng_dụng trên thanh Notification , Settings mới gợi_ý những thao_tác quan_trọng , tối_ưu đồ_họa 3D …
+Đối_với các dòng máy đã được hỗ_trợ , người dùng có_thể tải về bằng cách vào Settings > About phone > System_Update .
+Nếu chưa có , hãy kiên_nhẫn đợi thêm thời_gian vì có_thể Google đang phát_hành Android 7.0 Nougat dần cho từng khu_vực thay_vì cùng lúc trên toàn thế_giới .
+Những tính_năng mới trên Android 7.0 Nougat :
+Bảo_Lâm

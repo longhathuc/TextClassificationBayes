@@ -1,0 +1,10 @@
+Bài_toán đổ dầu thách_thức trí thông_minh của bạn
+Bạn có_thể giải bài_toán về những thùng dầu trong bộ đề thi Olympic_Toán học châu Á - Thái_Bình_Dương trong bao_nhiêu thời_gian ?
+Hai thùng X và Y chứa lượng dầu khác_nhau .
+Lần thứ nhất , người_ta đổ một_ít dầu ở thùng X sang thùng Y để số dầu trong Y gấp đôi ban_đầu .
+Lần thứ_hai , người_ta đổ lại dầu từ thùng Y sang thùng X để số dầu trong X được gấp đôi .
+Sau hai lần đổ , số dầu trong hai thùng bằng nhau và bằng 18 lít .
+Hỏi số dầu ở thùng X ban_đầu là bao_nhiêu ?
+Thanh_Tâm
+> > Bài_toán đàn bò ăn cỏ có_thể khiến bạn bị rối
+> > Bài_toán kiểm_tra độ ghi_nhớ kiến_thức tiểu_học

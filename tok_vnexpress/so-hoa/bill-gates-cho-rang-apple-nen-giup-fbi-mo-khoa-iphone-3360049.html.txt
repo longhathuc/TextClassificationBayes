@@ -1,0 +1,24 @@
+Bill_Gates cho rằng Apple nên giúp FBI mở khóa i Phone
+Giới công_nghệ và người tiêu_dùng đang " chia phe " trong cuộc_chiến giữa FBI và Apple xung_quanh việc mở khóa chiếc i Phone của kẻ khủng_bố .
+Trong khi CEO Google_Sundar_Pichai , đồng sáng_lập Apple_Steve_Wozniak hay CEO Facebook_Mark_Zuckerberg ... ủng_hộ Apple thì tỷ_phú Donald_Trump , đồng sáng_lập Microsoft_Bill_Gates ... lại tán_đồng với Cục Điều tra liên_bang Mỹ FBI lần này .
+" Chính_phủ yêu_cầu truy_cập thông_tin một chiếc điện_thoại cụ_thể .
+Họ không đòi_hỏi công_cụ để mở khóa bất_cứ thiết_bị nào .
+Họ đang đề_cập một trường_hợp cụ_thể " , Gates phân_tích với Financial_Times .
+Tuy_nhiên , trong cuộc phỏng_vấn với   Bloomberg , Bill_Gates nói ông " thất_vọng " khi nhiều bài báo hiểu sai ý và nói rằng ông " ủng_hộ FBI chống lại Apple " .
+Nhà đồng sáng_lập Microsoft giải_thích , ông không đứng về phe nào và không chấp_nhận việc mở cổng hậu trên thiết_bị , mà chỉ đề_cập đến trường_hợp cụ_thể là chiếc i Phone 5c của khủng_bố .
+Bill_Gates .
+Ảnh : Reuters .
+Nhận_định của Gates được đưa ra sau khi CEO Apple_Tim_Cook cho rằng tạo công_cụ giúp FBI truy_cập chiếc i Phone 5c của tên khủng_bố Syed   Farook   sẽ tạo tiền_lệ xấu .
+" Chính_phủ nói công_cụ bẻ_khóa chỉ được sử_dụng một lần trên một chiếc điện_thoại .
+Nhưng một_khi được tạo ra , kỹ_thuật đó có_thể áp_dụng nhiều lần trên bất_cứ thiết_bị nào " , Cook cho_hay .
+" Vụ_việc này không_chỉ đơn_thuần là về một chiếc điện_thoại hay một cuộc điều_tra .
+Khi nhận phán_quyết của tòa_án , ta cần phải lên_tiếng .
+Phán_quyết đó đã tạo ra một tiền_lệ nguy_hiểm chưa từng có , đe_dọa nghiêm_trọng bảo_mật thông_tin của hàng trăm triệu khách_hàng .
+Trong khi đó , hãng nghiên_cứu Pew đã tiến_hành khảo_sát từ ngày 18/2 đến 21/2 và nhận thấy có tới 51% những người tham_gia cho rằng Apple nên hỗ_trợ FBI mở khóa , 38% đứng về phía của Apple và 11% không chọn phe nào .
+FBI bắt_đầu tiến_hành điều_tra cuộc xả súng đẫm máu ở   San_Bernadino ( Mỹ ) khiến 14 người thiệt_mạng của cặp vợ_chồng Syed_Farook và Tashfeen_Malik tháng 12/2015 .
+Họ tin smartphone của Farook " có_thể chứa những thông_tin liên_lạc quan_trọng " xung_quanh thời_điểm diễn ra vụ thảm_sát .
+FBI muốn truy_cập i Phone 5c của Farook nhưng công_nghệ mã_hóa của Apple sẽ xóa toàn_bộ dữ_liệu trong máy sau 10 lần nhập sai mã .
+Thực_tế , FBI và quan_chức quận San_Bernadino đã tìm cách truy_cập vào tài_khoản i Cloud của Farook bằng cách reset mật_khẩu của tên này chỉ vài giờ sau khi chiếc điện_thoại được thu_hồi .
+Apple sau đó đã chỉ_trích rằng nếu FBI không " hấp_tấp " cài_đặt lại mật_khẩu , họ đã có_thể truy_cập được vào nội_dung sao lưu mà không cần tạo ra một cổng hậu để phá mã_hóa của i Phone .
+Bên_cạnh đó , dữ_liệu trong i Phone của khủng_bố đã ngừng đồng_bộ lên i Cloud từ ngày 19/10/2015 , tức FBI hoàn_toàn không có thông_tin gì về hoạt_động của tên này trong khoản 7 tuần trước vụ tấn_công trừ khi họ bẻ_khóa điện_thoại thành_công .   " Có_thể điện_thoại chứa nhiều manh_mối hơn để chúng_tôi lần ra những tên khủng_bố khác " , Giám_đốc FBI nói .
+Châu_An

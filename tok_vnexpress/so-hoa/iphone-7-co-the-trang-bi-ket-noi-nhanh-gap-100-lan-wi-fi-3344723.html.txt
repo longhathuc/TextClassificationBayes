@@ -1,0 +1,16 @@
+iPhone 7 có_thể trang_bị kết_nối nhanh gấp 100 lần Wi-Fi
+Apple đang nghiên_cứu kết_nối Li-Fi được truyền_tải thông_qua giao_thức ánh_sáng không_thể nhìn thấy cho tốc_độ đạt tối_đa 28 GB/giây .
+Li-Fi sử_dụng giao_tiếp ánh_sáng không nhìn thấy để truyền_tải dữ_liệu .
+Một đoạn mã được phát_hiện trong hệ_điều_hành i OS gần đây cho thấy Apple có_thể đang nghiên_cứu để đưa kết_nối Li-Fi vào các mẫu i Phone trong tương_lai .
+Loại kết_nối này mới chỉ được thử_nghiệm thực_tế vào cuối năm_ngoái và có_thể đạt tốc_độ lên tới 28 GB/giây , đủ để tải nhiều bộ phim HD chỉ trong vòng vài giây .
+Đoạn mã nhắc đến Li-Fi được phát_hiện bởi nhóm chuyên jailbreak hệ_điều_hành i OS là   Chase_Fromm .
+Theo BGR , những tín_hiệu này cho thấy Apple đang tỏ ra rất quan_tâm tới Li-Fi nhưng khả_năng tích_hợp ngay vào i Phone 7 là không cao .
+Chuẩn kết_nối mới phần_lớn mới chỉ xuất_hiện trong phòng_thí_nghiệm và còn một_số hạn_chế cũng_như cần tối_ưu thêm trước khi đưa vào sử_dụng rộng_rãi .
+Li-Fi sử_dụng ánh_sáng nhìn thấy được giữa tần_số 400 và 800 THz và truyền dữ_liệu thông_qua các mã nhị_phân .
+Hệ_thống hoạt_động tương_tự như mã Morse , sử_dụng giao_tiếp ánh_sáng nhìn thấy VLC nhưng ở tốc_độ rất cao để không_thể phát_hiện được bằng mắt thường .
+Đoạn mã nhắc đến Li-FI trong i OS 9 .
+Kết_nối mới chỉ truyền trong các môi_trường liền mạch không vật cản với ánh_sáng .
+Tuy không truyền xa được nhưng Li-Fi lại có tính bảo_mật cao hơn , nhất_là với các hệ_thống mạng trong văn_phòng , công_sở .
+Động_thái mới về việc chuẩn_bị sẵn cho Li-Fi ngay từ i OS 9 tiếp_tục khẳng_định quyết_tâm theo_đuổi về các công_nghệ kết_nối hoàn_toàn mới của Apple .
+Vào năm 1999 , " Quả táo " cũng là nhà_sản_xuất đầu_tiên tung ra thị_trường một mẫu máy_tính_xách_tay có tích_hợp Wi-Fi là i Book .
+Tuấn_Hưng

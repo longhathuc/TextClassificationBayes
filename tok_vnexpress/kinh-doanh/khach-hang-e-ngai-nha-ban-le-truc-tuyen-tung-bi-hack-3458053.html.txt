@@ -1,0 +1,14 @@
+Khách_hàng e_ngại nhà_bán_lẻ trực_tuyến từng bị hack
+Gần một phần năm người mua hàng ( 19% ) sẽ tránh giao_dịch với các nhà_bán_lẻ từng là nạn_nhân của những cuộc tấn_công mạng .
+Đây là số_liệu từ nghiên_cứu Consumer_Loss_Barometer 2016 do tập_đoàn kiểm_toán , thuế và tư_vấn KPMG ( Thụy_Sĩ ) thực_hiện .
+Khoảng 33% người được khảo_sát nói rằng họ sợ thông_tin cá_nhân sẽ bị lộ từ các giao_dịch thực_hiện trong vòng 3 tháng với những nhà_bán_lẻ có lỗ_hổng an_ninh mạng .
+Các chuyên_gia KPMG thực_hiện nghiên_cứu này đã tiến_hành phỏng_vấn 100 chuyên_viên an_ninh mạng và kết_quả rất đáng lo_ngại khi 55% cho_biết công_ty họ không dành ngân_sách cho an_ninh mạng trong năm qua .
+42% nhìn_nhận , hiện_tại , doanh_nghiệp của mình chưa có một nhà_lãnh_đạo phụ_trách an_ninh thông_tin đúng nghĩa .
+Điều này cho thấy các nhà_bán_lẻ đang tụt_hậu khá xa về bảo_mật so với những ngành công_nghiệp khác như dịch_vụ tài_chính hay công_nghệ .
+Ông Mark_Larson - Giám_đốc kinh_doanh thị_trường tiêu_dùng KPMG nhận_xét , có nhiều mối đe_dọa tiềm_tàng với các nhà_bán_lẻ .
+Điểm mấu_chốt là do họ chưa nhận_thức được tầm quan_trọng của việc xây_dựng chiến_lược đảm_bảo an_toàn thông_tin .
+Còn ông Tony_Buffomante - Lãnh_đạo an_ninh mạng của KPMG , cho_biết nhiều nhà_bán_lẻ không đủ khả_năng tự_vệ trước những cuộc tấn_công mạng hay phản_ứng lại khi việc xâm_nhập xảy_ra .
+Để bảo_vệ và phát_triển kinh_doanh , các doanh_nghiệp cần phải chú_trọng nhiều hơn_nữa đến vấn_đề an_ninh hệ_thống .
+Kết_quả khảo_sát cũng chỉ ra bên_cạnh bán_lẻ thì ngành công_nghiệp ôtô cũng chậm_chạp không kém trong việc bố_trí nhân_lực phân_tích các nguy_cơ và đưa ra kế_hoạch bảo_vệ an_ninh mạng .
+Đứng đầu_bảng về đầu_tư chuyên_nghiệp cho hệ_thống bảo_mật và đội_ngũ chuyên_gia là ngành dịch_vụ tài_chính cùng các ngành công_nghiệp công_nghệ_cao .
+Minh_Trí

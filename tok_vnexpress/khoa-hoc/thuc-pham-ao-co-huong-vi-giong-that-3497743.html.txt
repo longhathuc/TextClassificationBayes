@@ -1,0 +1,29 @@
+Thực_phẩm ảo có hương_vị giống thật
+Các nhà_khoa_học Nhật_Bản sử_dụng thiết_bị điện_tử để mô_phỏng hương_vị và cảm_giác giống_hệt như thức_ăn thật .
+Các nhà_khoa_học trên thế_giới đang thử_nghiệm " thực_phẩm ảo " sử_dụng thiết_bị điện_tử để mô_phỏng hương_vị và cảm_giác của thức_ăn ngoài thực_tế , ngay cả khi trong miệng không có gì .
+Công_nghệ này có_thể thêm đầu_vào cảm_giác cho trò_chơi thực_tế ảo , làm tăng trải_nghiệm ăn_uống trong thế_giới thực , theo New_Scientist .
+Một_số dự_án đạt thành_công trong việc đánh_lừa cảm_giác , giúp chúng_ta nếm mùi_vị của thức_ăn không có thật .
+Năm 2013 , Nimesha_Ranasinghe , nhà_nghiên_cứu tại Đại_học Quốc_gia Singapore , thử_nghiệm " kẹo mút kỹ_thuật_số " mô_phỏng theo nhiều hương_vị khác_nhau và thí_nghiệm một chiếc thìa gắn điện_cực có khả_năng khuếch_đại các vị mặn , chua , đắng trong thức_ăn .
+Nhưng thí_nghiệm của Ranasinghe với sự kích_thích điện chưa đạt được nhiều thành_công trong việc mô_phỏng vị ngọt .
+Vì_vậy , Ranasinghe và đồng_nghiệp của ông tên là Ellen_Yi - Luen_Do bắt_đầu chuyển_hướng thử_nghiệm sang công_nghệ kích_thích nhiệt .
+Họ trình_bày dự_án mới tại Hội_nghị chuyên_đề Công_nghệ và Phần_mềm Giao_diện Người dùng ACM 2016 ( UIST ) tổ_chức ở Tokyo , Nhật_Bản , vào tháng 10/2016 .
+Ranasinghe sử_dụng sự thay_đổi nhiệt_độ để mô_phỏng cảm_giác của vị ngọt trên lưỡi .
+Người dùng đặt đầu_lưỡi trên một bảng nhiệt_điện hình_vuông có khả_năng nhanh_chóng nóng lên hoặc nguội đi .
+Thiết_bị sẽ chèn tín_hiệu lên các tế_bào thần_kinh nhạy_cảm với nhiệt_độ trên lưỡi , tạo ra cảm_giác hương_vị .
+Ở thử_nghiệm đầu_tiên , công_nghệ kích_thích nhiệt cho thấy hiệu_quả trên khoảng một_nửa số người tham_gia .
+Nhiều người báo_cáo có cảm_giác cay khi thiết_bị ấm hơn ( khoảng 35° C ) và có hương_vị bạc_hà khi thiết_bị mát hơn ( khoảng 18° C ) .
+Ranasinghe và Do cho rằng hệ_thống trên có_thể được nhúng vào trong cốc hoặc ly để làm đồ uống ít đường trở_nên ngọt hơn .
+Tuy_nhiên , thực_phẩm không đơn_thuần chỉ có hương_vị .
+Đặc_điểm kết_cấu thức_ăn cũng rất quan_trọng .
+Trong tuần này , Arinobu_Niijima và Takefumi_Ogawa , hai nhà_nghiên_cứu tại trường Đại_học Tokyo , Nhật_Bản , giới_thiệu một thiết_bị sử_dụng điện để mô_phỏng trải_nghiệm nhai với kết_cấu thức_ăn khác_nhau .
+" Hệ_thống Kết_cấu Thức_ăn Điện_tử " của Niijima và Ogawa cũng dùng các điện_cực nhưng không phải ở trên lưỡi .
+Thay vào đó họ đặt chúng trên_cơ cắn ( masseter muscle ) , một cơ ở hàm dùng để nhai , nhằm tạo ra cảm_giác về độ cứng và độ dai của thức_ăn khi người dùng cắn xuống .
+" Không có thức_ăn ở trong miệng , nhưng người dùng cảm_thấy như họ đang nhai một_ít thức_ăn nhờ thông_tin phản_hồi xúc_giác do sự kích_thích cơ_bắp bằng điện " , Niijima nói .
+Để khiến " thức_ăn ảo " có kết_cấu cứng hơn , nhóm nghiên_cứu kích_thích các cơ_bắp ở tần_số điện cao hơn .
+Trong khi đó , một xung_điện dài mô_phỏng kết_cấu thức_ăn đàn_hồi hơn .
+Niijima cho_biết hệ_thống của họ đạt được hiệu_quả cao nhất trong việc mô_phỏng kết_cấu kẹo dẻo .
+Cả hai công_trình nghiên_cứu trên vẫn đang trong giai_đoạn thử_nghiệm nhưng chúng hứa_hẹn sẽ giúp_đỡ được những người có chế_độ ăn_uống đặc_biệt hoặc gặp các vấn_đề sức_khỏe .
+" Có rất nhiều người không_thể ăn thức_ăn một_cách thoải_mái vì hàm_răng yếu , dị_ứng và do yêu_cầu chế_độ ăn_uống .
+Chúng_tôi muốn giúp họ thỏa_mãn sở_thích ăn_uống và tận_hưởng cuộc_sống hàng ngày " , Niijima nói .
+Xem thêm :   Thiết_bị đánh_lừa vị_giác giúp ăn ngon_miệng hơn
+Lê_Hùng

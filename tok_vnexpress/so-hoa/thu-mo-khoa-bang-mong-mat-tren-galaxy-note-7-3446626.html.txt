@@ -1,0 +1,10 @@
+Thử mở khoá bằng mống mắt trên Galaxy_Note 7
+Samsung đã tạo nên sự khác_biệt cho mẫu điện_thoại cao_cấp thứ_hai trong năm 2016 của họ bằng cảm_biến nhận_diện mống mắt .
+Tính_năng mới này cho_phép người sử_dụng mở khoá điện_thoại và truy_cập vào thư_mục bí_mật nhanh_chóng .
+Camera hồng_ngoại ở phía trước sẽ " đọc " mẫu mống mắt của người sử_dụng khi họ giơ điện_thoại lên trước mặt .
+Để kích_hoạt , truy_cập mục Settings , chọn phần Lock_Screen và tìm đến Irises ( mống mắt ) .
+Giơ máy lên trước mặt sao cho hai vòng_tròn trên màn_hình khớp với hai mắt để hệ_thống phân_tích và lưu lại .
+Quá_trình này diễn ra tương_đối nhanh , chỉ khoảng 10-15 giây .
+Tuy_nhiên , với người đeo kính , hệ_thống nhận_diện chậm hơn nhiều .
+Sau đó , người sử_dụng có_thể mở khoá bằng mống mắt nhanh và bảo_mật hơn so với mở khoá bằng vân tay .
+Mỗi điện_thoại chỉ chấp_nhận một mẫu mống mắt , do_đó nếu muốn thay_đổi , người dùng phải xoá mẫu cũ trước khi nhập mẫu mới .

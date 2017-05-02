@@ -1,0 +1,5 @@
+Bài_toán tìm số thay chữ
+Đề_bài bao_gồm 5 chữ_cái và các ký_hiệu toán_học đơn_giản .
+Trong vòng 3 phút , bạn có_thể tìm ra những số thích_hợp thay_thế 5 chữ_cái này ?
+> > Câu_đố ký_hiệu toán_học tưởng dễ nhưng khó
+> > Câu_đố đếm bóng 95% người trả_lời sai

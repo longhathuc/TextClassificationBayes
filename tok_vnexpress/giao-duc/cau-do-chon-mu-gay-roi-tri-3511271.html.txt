@@ -1,0 +1,16 @@
+Câu_đố chọn mũ gây_rối trí
+Để giành được phần_thưởng 50.000 USD , một trong ba người tham_gia trò_chơi phải đoán đúng màu mũ của mình .
+Họ được bàn_bạc chiến_thuật trước khi chơi .
+Bạn có_thể giúp họ đưa ra chiến_thuật có tỷ_lệ thành_công cao nhất .
+Bắt_đầu một trò_chơi , ba người được đưa vào một căn phòng và được đội lên những chiếc mũ xanh hoặc đỏ .
+Họ không_thể nhìn thấy mũ của họ nhưng có_thể nhìn thấy mũ của người khác .
+Màu của mỗi chiếc mũ họ đội hoàn_toàn là ngẫu_nhiên .
+Có_thể tất_cả mũ đều màu xanh .
+Có_thể có một mũ màu xanh và hai mũ màu đỏ hoặc cũng có_thể là một mũ màu đỏ và hai mũ màu xanh .
+Họ cần đoán chiếc mũ trên đầu màu gì bằng cách viết đáp_án ra một tờ giấy , nếu_không biết họ có_thể viết “ bỏ_qua ” .
+Họ không được trò_chuyện với nhau cho_đến khi trò_chơi bắt_đầu , nhưng có_thể bàn_bạc trước đó .
+Nếu ít_nhất một người trong số họ trả_lời đúng , mỗi người sẽ nhận được 50.000 USD .
+Nhưng bất_kỳ ai trong số họ đoán sai hoặc tất_cả đều bỏ_qua , họ sẽ không được gì cả .
+Chiến_lược nào sẽ giúp họ có nhiều cơ_hội thành_công nhất ?
+( 100% cơ_hội thành_công là điều không_thể ) .
+Thanh_Tâm ( theo Math is fun )

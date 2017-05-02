@@ -1,0 +1,14 @@
+Phần_mềm chấm điểm có_thể làm giảm kết_quả bài thi
+Các bài thi được quét lên máy_tính sẽ rất khó để giáo_viên chấm điểm nếu chữ sinh_viên quá xấu hoặc sử_dụng bút có mực không phải màu đen .
+The_Guardian   dẫn báo_cáo của những người chấm thi cho_hay , điều khiến ban lãnh_đạo hội_đồng khảo_thí AQA ( Anh ) quan_ngại là điểm_số các bài thi của sinh_viên có_thể bị ảnh_hưởng bởi lối viết ẩn_ý và phương_pháp chấm thi trên máy_tính .
+Hiện_nay ở Anh , đa_phần các bài thi giấy đều được quét và điện_tử_hóa để có_thể chấm điểm trên máy_tính .
+Tuy_nhiên , hệ_thống phần_mềm chấm điểm lại không phải là giải_pháp tối_ưu .
+Những người chấm thi lại than_phiền về câu trả_lời của nhiều sinh_viên quá khó để đọc .
+Trong một_số trường_hợp , đây có_thể là do chữ sinh_viên xấu , viết bẩn hoặc trình_bày không mạch_lạc .
+Hoặc có_thể do sinh_viên không làm theo đúng yêu_cầu của bài thi là phải trình_bày bằng bút mực đen hoặc bút_bi đen .
+Thực_tế , không ít sinh_viên sử_dụng các loại bút mực xanh rất khó hiển_thị rõ nét khi quét lên hệ_thống .
+Báo_cáo này cũng cho_hay chữ_viết quá bé hoặc nghiêng sẽ rất khó để đọc qua màn_hình máy_tính và có_thể khiến sinh_viên bỏ lỡ một_số điểm đáng quý .   Một thầy_giáo từng chấm điểm trên máy_tính cho_hay tình_hình năm nay còn tệ hơn trước_đây và nhận_xét một_số bài thi " thực_sự rất khó đọc " .
+Phát_ngôn_viên của AQA cho_hay : " Mỗi năm sẽ có một_số rất nhỏ các bài thi không_thể đọc được khi đưa lên màn_hình .
+Với những trường_hợp này , chúng_tôi sẽ yêu_cầu bản_gốc do trung_tâm quét dữ_liệu giữ và chấm lại trên bản này " .
+Tuy_nhiên , một_số giáo_viên khẳng_định không ít trường_hợp chữ của sinh_viên xấu tới mức dù nhìn bản_gốc cũng chẳng có tác_dụng gì .
+Hải_Khanh

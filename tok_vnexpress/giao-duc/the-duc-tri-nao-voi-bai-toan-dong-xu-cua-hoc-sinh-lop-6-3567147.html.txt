@@ -1,0 +1,8 @@
+Thể_dục trí_não với bài_toán ' đồng xu ' của học_sinh lớp 6
+Bài_toán tính diện_tích hai đồng xu xếp chồng lên nhau nằm trong đề thi quốc_tế IMAS dành cho học_sinh lớp 5-6 .
+Bạn mất bao_nhiêu thời_gian để giải bài_toán này ?
+Cho 2 đồng xu cùng loại xếp chồng lên nhau .
+Mỗi đồng xu có bán_kính 10 cm và chia thành 4 phần màu xám bằng nhau như hình_vẽ .
+Hỏi diện_tích tất_cả phần tô màu xám trong hình bằng bao_nhiêu ?
+( π = 3,14 )
+Thanh_Tâm

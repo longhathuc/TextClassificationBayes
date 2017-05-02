@@ -1,0 +1,44 @@
+Singapore dùng robot vì thiếu lao_động
+Robot y_tá có_thể theo_dõi các chỉ_số của bệnh_nhân trong phòng chăm_sóc đặc_biệt , còn robot bồi_bàn sẽ giúp mang bát đũa bẩn của khách vào bếp .
+Mỹ và rất nhiều nước châu Âu đang lo_ngại sự tiến_bộ nhanh_chóng của trí_tuệ_nhân_tạo .
+Các nhà_khoa_học cho rằng chúng sẽ gây ra tình_trạng thất_nghiệp hàng_loạt .
+Tuy_nhiên , tại Singapore , quy_định ngặt_nghèo với lao_động nước_ngoài đang khiến các công_ty chật_vật vì thiếu nhân_lực .
+Sử_dụng robot trong các ngành dịch_vụ , từ nhà_hàng đến bệnh_viện , vì_thế đang trở_thành giải_pháp tối_ưu .
+Louis_Tan – Giám_đốc Tác_nghiệp ( COO ) tại bệnh_viện Mount_Elizabeth_Novena ( Singapore ) cho_biết : " Chính_phủ đang hạn_chế nhân_lực nước_ngoài .
+Chúng_tôi giờ khó tuyển nhân_sự giỏi lắm .
+Công_nghệ cũng chỉ là một trong các giải_pháp mà thôi " .
+Bệnh_viện này đã dùng công_nghệ Watson của IBM cho các robot y_tá , theo_dõi dấu_hiệu sinh_tồn của bệnh_nhân trong phòng chăm_sóc đặc_biệt .
+Chúng có_thể kết_hợp các chỉ_số như huyết_áp , nhịp tim , rồi dùng thuật_toán để tính xác_suất tình_trạng bệnh_nhân diễn_biến xấu đi .
+Robot gom bát   đũa bẩn tại quán Chilli_Padi_Nonya .
+Ảnh : Reuters
+" Trong quá_khứ , việc này cần sự phân_tích và phán_đoán của con_người .
+Nhưng hiện_tại , chúng_tôi có_thể dùng công_nghệ để xử_lý chúng " , Tan cho_biết .
+Chương_trình thử_nghiệm này được áp_dụng từ năm nay và đã cải_thiện đáng_kể sự an_toàn của bệnh_nhân .
+" Nó không có_nghĩa các y_tá không cần_thiết nữa .
+Chỉ là họ được hỗ_trợ thêm mà thôi .
+Việc này sẽ làm tăng hiệu_suất và giúp bệnh_nhân an_toàn hơn " , Tan nói .
+Tại quán café Chilli_Padi_Nonya gần Đại_học Quốc_gia Singapore , bát đĩa bẩn cũng được thu_gom bởi một robot bồi_bàn .
+Dù_vậy , nó không_thể tự nhặt đồ , mà phải thông_báo với thực_khách : " Quý_khách có_thể giúp tôi dọn bàn đươc không ? " .
+Sau khi khách đặt đồ lên khay , robot sẽ mang chúng trở_lại bếp .
+Kannan_Thangaraj – quản_lý cửa_hàng cho_biết : " Ở Singapore , chúng_tôi rất khó thuê lao_động   nước_ngoài .
+Thế nên dùng robot là hữu_ích nhất .
+Khách_hàng cũng thích chúng và thường_xuyên tới đây nữa " .
+Dù_vậy , đến nay , chỉ một_số nhà_hàng tại đây là dùng robot thử_nghiệm .
+Một trong những thách_thức là chi_phí .
+Công_ty sản_xuất robot Unitech_Mechatronics tại Singapore bán mỗi robot với giá hơn 34.300
+USD .
+Dù_vậy , Chính_phủ Singapore sẽ trợ_giá gần 70% cho chương_trình thử_nghiệm của các nhà_hàng .
+Cũng tại Singapore , một trung_tâm nghiên_cứu cho MasterCard đã thiết_kế ứng_dụng thanh_toán đầu_tiên dùng cho robot Pepper của SoftBank Robotics .
+Nhiều cửa_hàng Pizza_Hut tại châu Á năm nay sẽ dùng robot này để nhận đặt món và xử_lý thanh_toán thẻ cho khách_hàng .
+Mục_tiêu là giúp các nhân_viên phục_vụ tập_trung cho những tương_tác phức_tạp hơn với khách .
+Trong ngân_sách năm nay , Chính_phủ Singapore dự_định chi hơn 450 triệu đôla Singapore cho 3 năm tới để hỗ_trợ triển_khai sử_dụng robot .
+Họ sẽ tập_trung cung_cấp robot giá phải_chăng cho các doanh_nghiệp vừa và nhỏ .
+Dù_vậy , không phải lúc_nào công_nghệ cũng được chào_đón .
+Robot thu đĩa của một nhà_hàng Singapore còn từng bị một nhân_viên đập nát .
+Theo Liên đoàn Robot_Quốc tế , dù việc sử_dụng robot trong công_nghiệp toàn_cầu đang bùng_nổ , với gần 250.000 con bán ra năm_ngoái , ngành dịch_vụ lại chưa phổ_biến .
+Năm 2014 , số robot bán ra cho ngành này chỉ là 24.000 .
+Giới phân_tích dự_báo thị_trường robot cho ngành dịch_vụ toàn_cầu sẽ tăng_tốc .
+Do công_nghệ tiên_tiến cho_phép các robot thực_hiện nhiều công_việc phức_tạp hơn trong môi_trường khó_khăn hơn .
+Ở Nhật_Bản , robot được sử_dụng phổ_biến trong sản_xuất .
+Chính_phủ cũng hỗ_trợ việc dùng robot trong các ngành dịch_vụ như y_tế và điều_dưỡng .
+Hà_Thu ( theo FT )

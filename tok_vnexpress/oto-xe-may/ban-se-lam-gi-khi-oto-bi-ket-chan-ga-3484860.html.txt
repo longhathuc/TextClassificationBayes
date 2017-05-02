@@ -1,0 +1,10 @@
+Bạn sẽ làm_gì khi ôtô bị kẹt chân ga ?
+Sử_dụng phanh tay kết_hợp đánh lái , trả số về N hay tắt động_cơ , đâu là cách làm hiệu_quả để dừng xe khi kẹt ga .
+Chân ga do lỗi kỹ_thuật thuần cơ_khí hoặc điện_tử có_thể kẹt cứng khi đang lưu_thông trên đường .
+Lúc này , vì chân ga vẫn đạp nên động_cơ hoạt_động ngày_càng mạnh , tốc_độ ngày_càng cao , vậy làm thế_nào để dừng xe an_toàn ?
+Độc_giả xem video dưới đây và đưa ra câu trả_lời , bấm vào từng phương_án để xem giải_thích .
+A . Sử_dụng phanh tay kết_hợp đánh lái
+B . Trả cần số về N ( mo )
+C . Tắt động_cơ
+D . Kết_hợp 3 động_tác trên
+Đức_Huy

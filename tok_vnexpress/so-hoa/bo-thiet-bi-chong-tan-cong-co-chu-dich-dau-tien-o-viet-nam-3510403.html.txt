@@ -1,0 +1,27 @@
+Bộ thiết_bị chống tấn_công có chủ_đích đầu_tiên ở Việt_Nam
+Công_ty Bkav cho_biết đã mất 10 năm để nghiên_cứu và cho ra_đời bộ thiết_bị phần_cứng chuyên_dụng với khả_năng bảo_vệ hệ_thống trước các nguy_cơ tấn_công mạng .
+Tấn_công mạng , đặc_biệt là các cuộc tấn_công có chủ_đích APT , đang là mối đe_dọa thường_trực cho các hệ_thống mạng tại Việt_Nam .
+APT là hình_thức tấn_công có chủ_đích , nhằm vào cơ_quan , tổ_chức cụ_thể để đánh_cắp các thông_tin quan_trọng .
+Trong cuộc tấn_công này , hacker thường sử_dụng mã độc đặc_chủng có khả_năng vượt qua tường lửa và phần_mềm diệt virus để nằm_vùng trong hệ_thống .
+Ông Ngô_Tuấn_Anh , Phó_chủ_tịch phụ_trách An_ninh mạng Bkav cho_biết , những mã độc dạng này đã bị cài cắm , ẩn sâu trong hệ_thống của nhiều cơ_quan , doanh_nghiệp ở Việt_Nam để chờ cơ_hội bùng_phát .
+Trước những nguy_cơ này , ngày 7/12 , tại Hà_Nội , Bkav cho ra_đời firewall và bộ thiết_bị chống tấn_công có chủ_đích APT đầu_tiên ở Việt_Nam và được đầu_tư nghiên_cứu từ cách đây 10 năm .
+Bộ sản_phẩm giúp cơ_quan , tổ_chức , doanh_nghiệp phát_hiện sớm , cảnh_báo và ngăn_chặn nguy_cơ bị tấn_công , bao_gồm thiết_bị Firewall thế_hệ mới BIF ( Bkav IPS Firewall_Next_Generation ) , thiết_bị phát_hiện và cảnh_báo tấn_công BNI ( Bkav_Network_Inspector ) , thiết_bị kiểm_soát chính_sách an_ninh thông_tin BTN ( Bkav_Total NAC ) .
+Bộ ba sản_phẩm an_ninh mạng của Bkav .
+BNI là thiết_bị phòng_vệ vòng ngoài , phát_hiện và cảnh_báo tấn_công .
+Bên_cạnh việc giám_sát tính sẵn_sàng của các dịch_vụ quan_trọng trong hệ_thống , BNI còn có khả_năng phát_hiện sớm kiểu tấn_công nằm_vùng , đặc_trưng của các cuộc tấn_công APT .
+Từ đó cảnh_báo để quản_trị hệ_thống cách_ly , xử_lý các máy_tính đã bị xâm_nhập , ngăn_chặn hacker có_thể thọc_sâu vào hệ_thống .
+Thiết_bị kiểm_soát chính_sách an_ninh thông_tin BTN chuẩn_hóa chính_sách an_ninh mạng , chặn tấn_công APT bằng mã độc .
+Hiện_nay , các giải_pháp NAC phổ_biến trên thị_trường có tính_năng đảm_bảo các máy_tính được cài đầy_đủ phần_mềm diệt virus .
+Tuy_nhiên , biện_pháp này không chống được loại virus đặc_chủng sử_dụng trong tấn_công APT .
+BTN là một giải_pháp NAC toàn_diện được tích_hợp tính_năng cao_cấp chống các loại virus đặc_chủng tấn_công APT .
+Trong khi đó , thiết_bị Firewall BIF là một trong số_ít những Firewall thế_hệ mới trên thế_giới được trang_bị đầy_đủ tính_năng chống tấn_công từ_chối dịch_vụ DDoS và chống tấn_công xâm_nhập web .
+Ông Vũ_Ngọc_Sơn , Phó_chủ_tịch phụ_trách mảng Chống mã độc ( Anti_Malware ) của Bkav , cho_biết : " Nhiều năm hoạt_động trên cả hai lĩnh_vực phần_mềm diệt virus và an_ninh mạng , chúng_tôi có đủ công_nghệ và kinh_nghiệm để chống lại những kỹ_thuật tinh_vi của các cuộc tấn_công APT " .
+Sơ_đồ hoạt_động của bộ thiết_bị .
+Các nguy_cơ tấn_công APT bắt_đầu được chú_ý vào năm 2015 khi hãng bảo_mật FireEye ( Mỹ ) cho_biết đã phát_hiện ra một nhóm tin_tặc , có_thể do chính_phủ Trung_Quốc hậu_thuẫn , đã âm_thầm nhắm đến các cơ_quan chính_phủ và tổ_chức nắm giữ những thông_tin quân_sự , kinh_tế chính_trị quan_trọng tại các nước Đông_Nam Á , trong đó có Việt_Nam , từ năm 2005 đến nay .
+Cuối tháng 7/2016 , hệ_thống thông_tin của Vietnam_Airlines bị tấn_công và kết_quả phân_tích cho thấy mã độc được cài cắm tại Vietnam_Airlines cũng đã xuất_hiện tại nhiều cơ_quan , doanh_nghiệp khác .
+Sau khi xâm_nhập , chúng sẽ ẩn mình dưới vỏ bọc là phần_mềm diệt virus và nằm yên trong thời_gian dài mà không bị phát_hiện .
+Mã độc này kết_nối thường_xuyên , gửi các dữ_liệu về máy_chủ điều_khiển như thông_tin tài_khoản , mật_khẩu , nhận lệnh cho_phép hacker kiểm_soát máy_tính nạn_nhân từ xa , thực_hiện các hành_vi phá_hoại như xóa dấu_vết , thay_đổi âm_thanh , hiển_thị hình_ảnh , mã_hóa dữ_liệu …
+Ông Ngô_Tuấn_Anh , Phó_chủ_tịch Bkav , cho rằng các cơ_quan , doanh_nghiệp Việt_Nam chưa đầu_tư đúng_mức cho an_ninh thông_tin .
+Nhấn_mạnh vào yếu_tố thiết_bị , công_nghệ và con_người nhưng ông Tuấn_Anh cho_biết , việc điều_phối ứng_phó với an_ninh mạng cũng đặc_biệt quan_trọng .
+Trong trường_hợp xảy_ra sự_cố cần tổng_hợp các nguồn_lực nhưng nếu_không có kịch_bản để ứng_phó thì hệ_thống nhân_lực và nguồn_lực đều không có giá_trị .
+Việc này tương_tự các cuộc diễn_tập phòng cháy , chữa_cháy được thực_hiện suốt nhiều năm qua .

@@ -1,0 +1,49 @@
+Những kinh_nghiệm phổ_biến cho i Phone , iPad năm 2016
+Với việc được cập_nhật lên phiên_bản i OS 10 , việc sử_dụng i Phone , iPad cũng có nhiều thay_đổi .
+1 . Hiển_thị widget trên màn_hình khoá
+Trên i OS 10 , iPhone , iPad có_thể cập_nhật hệ_điều_hành này được trang_bị thêm tính_năng hiển_thị widget trên màn_hình khóa .
+Để kích_hoạt , người dùng chọn Notification_Center > kéo xuống dưới và chọn mục Edit > tìm widget muốn hiển_thị và nhấn vào biểu_tượng dấu “ + ” để thêm .
+Để truy_cập Widget từ màn_hình khóa , chỉ cần vuốt màn_hình sang bên phải .
+2 . Trả_lời tin nhắn trực_tiếp trên màn_hình khoá
+Người dùng có_thể trả_lời tin nhắn trực_tiếp trên màn_hình khóa bằng cách nhấn và giữ phần thông_báo tin nhắn muốn trả_lời .
+Tuy_nhiên , tin nhắn chỉ được gửi đi khi sử_dụng Touch ID .
+Nếu lo_ngại nội_dung hiển_thị bị người khác đọc trộm , người dùng vào Settings chọn Touch ID & Passcode > Nhập mật_khẩu ( nếu có ) > Tắt tùy chọn Reply with Message .
+Các bước bật lại cũng tương_tự .
+3 . Truy_cập camera từ màn_hình khoá
+Để truy_cập ứng_dụng Camera từ màn_hình khóa , chỉ cần vuốt màn_hình sang bên trái .
+Nếu_không cần_thiết , người dùng có_thể vô_hiệu_hóa nó bằng cách vào Setting > General > Restrictions > nhập mật_khẩu > tìm đến ứng_dụng Camera và tắt nó đi .
+Xem video thao_tác màn_hình khóa trên   iPhone
+Xem video thao_tác màn_hình khóa trên i Pad
+4 . Ẩn các ứng_dụng mặc_định
+Trên i OS 10 , Apple đã cho_phép xóa ( thực_chất là ẩn ) các ứng_dụng mặc_định .
+Nếu cảm_thấy “ rối mắt ” , người dùng có_thể loại_bỏ nó bằng cách nhấn và giữ ứng_dụng , sau đó chọn dấu X để xóa .
+Tuy_nhiên , trước khi sử_dụng , người dùng cần vô_hiệu_hóa tính_năng 3D Touch .
+Xem video
+5 . Chỉnh độ nhạy phím Home cảm_ứng
+Riêng với i Phone 7 , 7 Plus , do phím Home vật_lý đã bị loại_bỏ và thay bằng phím cảm_ứng .
+Nếu chưa quen , người dùng có_thể tùy chỉnh lại độ nhạy và độ rung phím bấm bằng cách vào Settings > General > Home_Button   > lựa_chọn 3 mức_độ nhạy .
+6 . Hạ_cấp i OS 10 xuống 9.3
+Tuy_nhiên , việc i OS 10 có quá nhiều lỗi cũng khiến những người dùng i Phone , iPad đã “ lỡ ” nâng_cấp tìm cách hạ_cấp xuống phiên_bản i OS cũ hơn .
+Quá_trình này rất phức_tạp , đòi_hỏi người_làm phải am_hiểu .
+Trên đây là đoạn video hạ_cấp i OS 10 xuống 9.3 được thực_hiện bởi tài_khoản YouTube EverythingApplePro .
+Xem video
+7 . Tăng_tốc i Phone mà không cần jailbreak
+Cũng trong năm 2016 , nhiều người chia_sẻ kinh_nghiệm về việc trải_nghiệm i Phone , iPad tốt hơn .
+Ví_dụ như để tăng_tốc i Phone bằng cách tận_dụng lỗi trên i OS cho_phép tắt hiệu_ứng chuyển_động mà không cần jailbreak máy .
+Người dùng có_thể xem các bước thực_hiện qua video .
+Xem video
+8 . Chụp ảnh đẹp
+Để chụp ảnh đẹp với i Phone , người dùng cũng cần đến những thủ_thuật để cho ra hình_ảnh ưng_ý .
+Để làm được điều đó , ngoài khả_năng sáng_tạo , họ cũng cần phải kích_hoạt những tính_năng hỗ_trợ , như bật lưới ( Grid ) để căn_chỉnh bố_cục ( Settings > Photos & Camera và bật Grid ) ; thay_đổi độ sáng ( chạm vào điểm lấy nét trên màn_hình để kích_hoạt ) ; bật chế_độ HDR tự_động ; hạn_chế dùng đèn Flash …
+Xem video
+9 . Kích_hoạt bàn_phím cảm_xúc
+Trên i Phone , iPad , có một “ bàn_phím cảm_xúc ” ẩn đi , nhưng người dùng có_thể kích_hoạt trở_lại nó bằng cách vào Settings > General > Keyboard > bấm Add_New_Keyboard ... và chọn ngôn_ngữ Japanese .
+Bàn_phím này đặc_biệt hữu_dụng cho các bạn trẻ , những người tìm_kiếm cách nhắn_tin mới_lạ … có_thể trò_chuyện nhanh với các biểu_tượng cảm_xúc mà không cần phải lựa_chọn emoji .
+Xem video
+10 . Vệ_sinh cổng sạc
+Sau một thời_gian sử_dụng , iPhone , iPad thường nạp điện chậm hơn , chập_chờn hoặc thậm_chí không sạc được .
+Có_thể có nguyên_nhân từ máy , nhưng cũng có_thể do người dùng lâu không vệ_sinh cổng sạc .
+Người dùng có_thể tự vệ_sinh bằng cách dùng tăm tre , tăm bông nhỏ khéo_léo đưa vào cổng kết_nối để lấy hết các bụi bẩn ra .
+Nếu tình_trạng sạc chậm vẫn tiếp_diễn , lúc này mới nên mang thiết_bị lên cửa_hàng sửa_chữa .
+Xem video
+Bảo_Lâm

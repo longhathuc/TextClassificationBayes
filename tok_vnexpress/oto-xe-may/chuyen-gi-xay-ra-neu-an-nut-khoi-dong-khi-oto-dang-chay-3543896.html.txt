@@ -1,0 +1,25 @@
+Chuyện gì xảy_ra nếu ấn nút khởi_động khi ôtô đang chạy ?
+Ấn lần thứ nhất , xe hoạt_động bình_thường nhưng mọi chuyện sẽ khác nếu ấn lần thứ_hai hoặc giữ quá lâu .
+Thử_nghiệm thứ 2 được thực_hiện trên Honda_City .   Nhấn ga để đạt 20 km / h rồi bấm nút khởi_động , không có chuyện gì xảy_ra .
+Xe vẫn hoạt_động bình_thường , và tự hiểu rằng tài_xế gặp nhầm_lẫn .
+Bấm lần thứ 2 , máy tắt , mọi thứ ngưng hoạt_động , xe trôi theo quán_tính .
+Vô-lăng vẫn có_thể xoay , nhưng nặng dần cho_đến khi cứng_ngắc .
+Phanh không mất tác_dụng .
+Tiếp_tục thử ở vận_tốc 60 km / h , mọi chuyện xảy_ra tương_tự .
+Bấm một lần không có chuyện gì xảy_ra , và ngừng hoạt_động khi bấm lần thứ 2 .
+Do_vậy , nếu do nhầm_lẫn , vô_tình hoặc trẻ_em nghịch bấm vào nút khởi_động khi xe chạy thì bạn có_thể an_tâm là không có chuyện gì xảy_ra .
+Xe sẽ tự hiểu khi bấm 2 lần có_nghĩa bạn thực_sự muốn dừng khẩn_cấp .
+Đây là một tính_năng an_toàn mà các nhà_sản_xuất đã tính đến .
+Tuy_nhiên , cách_thức này ở mỗi xe lại khác_nhau .
+Ví_dụ , kênh   AutoVlog   từng thử trên Ford_Fusion_Titanium .
+Xe sẽ tắt khi đang chạy ở tốc_độ chưa tới 8 km / h .
+Nhưng ở tốc_độ 88 km / h , dù bấm bao_nhiêu lần cũng vô tác_dụng .
+Tài_xế muốn dừng khẩn_cấp phải nhấn giữ nút khởi_động 3 giây .
+Nhưng dù_sao cũng không nên thực_hiện nếu_không cần_thiết , hành_động trên rất có hại cho chiếc xe của bạn .
+Thử_nghiệm ném chìa_khóa ra ngoài được thực_hiện trên mẫu xe Ford_Eco Sport dùng chìa_khóa thông_minh .
+Khi xe bắt_đầu di_chuyển , tài_xế ném chìa_khóa ra ngoài .
+Xe vẫn tiếp_tục chạy .
+Chỉ cảnh_báo trên bảng táp - lô cho_biết chìa_khóa đang ở phía ngoài .
+Xe tiếp_tục đi , mọi hệ_thống hoạt_động bình_thường .
+Chỉ đến khi tài_xế tắt máy , lúc đó xe không khởi_động lại được nữa .
+Thế_Anh

@@ -1,0 +1,59 @@
+10 đô_thị Trung_Quốc có dân_số tăng_trưởng nhanh_nhất trong 30 năm
+Ảnh vệ_tinh timelapse cho thấy sự tăng_trưởng dân_số gấp hàng trăm , hàng nghìn lần của nhiều thành_phố Trung_Quốc như Thâm_Quyến , Đông_Quan , Nghĩa Ô trong 30 năm .
+30 năm trước , đa_phần những thành_phố này không có trên bản_đồ .
+Ví_dụ như Nghĩa Ô , một huyện_thị thuộc tỉnh Chiết_Giang chỉ có 73.000 dân vào năm 1985 , đã tăng lên 1,1 triệu người sau 20 năm , tương_đương mức tăng_trưởng dân_số 1.380% , theo Guardian .
+Dưới đây là 10 thành_phố Trung_Quốc có tốc_độ tăng dân_số nhanh_nhất trong thời_kỳ 1985-2015 , theo số_liệu lấy từ báo_cáo Triển_vọng Đô_thị_hóa Thế_giới ( World_Urbanisation_Prospects ) của Ủy_ban dân_số Liên_Hợp_Quốc .   Sự tăng_trưởng của các đô_thị Trung_Quốc được ghi lại qua tương_tác ảnh vệ_tinh timelapse Earth_Engine của Google từ năm 1984 tới 2016 .
+Tốc_độ tăng_trưởng dân_số từ năm 1985 đến 2015 :   6.040%
+Năm 1955 : 5.000   người
+Năm 1985 : 175.000   người
+Năm 2015 : 10,7   triệu   người
+Tốc_độ tăng_trưởng dân_số từ năm 1985 đến 2015 :   3.040%
+Năm 1955 : 95.000   người
+Năm 1985 : 237.000   người
+Năm 2015 : 7,4   triệu   người
+Từ một thị_trấn nông_nghiệp , Đông_Quản chuyển_mình thành một trung_tâm sản_xuất theo xu_thế phát_triển của đồng_bằng Châu_Giang từ những năm 1980 .
+Nơi đây còn nổi_tiếng với tên gọi " thành tội_lỗi " hay " kinh_đô tình_dục " của Trung_Quốc với nạn mại_dâm tồn_tại trong nhiều năm .
+Tốc_độ tăng_trưởng dân_số từ năm 1985 đến 2015 :   1.740%
+Năm 1955 : 5.000   người
+Năm 1985 : 84.000   người
+Năm 2015 :   1,5 triệu   người
+Châu_Hải , hay còn gọi_là Chu_Hải , mang ý_nghĩa là " biển ngọc_trai " .
+Đây là một trong 4 đặc_khu_kinh_tế đầu_tiên của Trung_Quốc , ngoài Thâm_Quyến , Hạ_Môn và Sán_Đầu .
+Thành_phố nằm ở phía nam tỉnh Quảng_Đông , gần Macau và là cảng biển lớn thứ_hai ở Trung_Quốc sau Thâm_Quyến .
+Tốc_độ tăng_trưởng dân_số từ năm 1985 đến 2015 :   1.620%
+Năm 1955 : 1.000   người
+Năm 1985 : 61.000   người
+Năm 2015 :   1,2 triệu   người
+Thành_phố nằm cách Thượng_Hải 320 km về phía bắc , có lịch_sử từ năm 760 và được mệnh_danh là " Trung_Quốc bạch tửu chi đô " , quê_hương của hai loại rượu nổi_tiếng .
+Tốc_độ tăng_trưởng dân_số từ năm 1985 đến 2015 :   1.520%
+Năm 1955 : 19.000   người
+Năm 1985 : 62.000   người
+Năm 2015 :   1 triệu   người
+Phổ_Ninh là thành_phố cấp huyện nằm ở phía đông tỉnh Quảng_Đông , nổi_tiếng là vựa trái_cây của cả nước và ngành dệt_may phát_triển .
+Tốc_độ tăng_trưởng dân_số từ năm 1985 đến 2015 :   1.380%
+Năm 1955 :   5.000   người
+Năm 1985 :   73.000   người
+Năm 2015 :   1,1   triệu   người
+Nghĩa Ô là nơi thu_hút lượng lớn người nước_ngoài tới buôn_bán bởi đây là thị_trường hàng_hóa loại nhỏ lớn nhất thế_giới .
+Thành_phố có hơn 75.000 cửa_hàng cung_cấp sản_phẩm nhựa cho toàn thế_giới , từ hoa giả , hạt cườm cho tới dây buộc tóc , đồ_chơi bơm hơi , dây kim_tuyến , mũ đội tiệc , ô_dù và 70% các món đồ trang_trí Giáng_sinh trên thế_giới .
+Tốc_độ tăng_trưởng dân_số từ năm 1985 đến 2015 :   1.250%
+Năm 1955 :   58.000   người
+Năm 1985 :   171.000   người
+Năm 2015 :   2,3   triệu   người
+Nằm ở phía bắc đồng_bằng Châu_Giang , thành_phố Huệ_Châu là nơi có ngành công_nghiệp ôtô , điện_tử , hóa_chất và công_nghệ_cao phát_triển mạnh , thu_hút nhiều nhà_đầu_tư nước_ngoài như Sony , Coca-Cola và Siemens .
+Thành_phố kết_nghĩa với làng Hallstatt ở Áo và đã cho xây_dựng bản_sao ngôi làng có lịch_sử hơn 900 tuổi được công_nhận là Di_sản Thế_giới Unesco ở phía đông_nam thành_phố .
+Tốc_độ tăng_trưởng dân_số từ năm 1985 đến 2015 :     1.100%
+Năm 1955 :   71.000   người
+Năm 1985 :   308.000   người
+Năm 2015 :   3,7 triệu   người
+Thành_phố Trung_Sơn nằm ở phía nam đồng_bằng Châu_Giang - một trong những vùng đô_thị_hóa đông_đúc nhất thế_giới và là một trong những trung_tâm tăng_trưởng kinh_tế lớn nhất Trung_Quốc .
+Thành_phố trước_đây là một huyện có tên Hương_Sơn , sau đó được đổi tên để vinh_danh Tôn_Trung_Sơn , nhà cách_mạng tiên_phong của Trung_Quốc hiện_đại .
+Tốc_độ tăng_trưởng dân_số từ năm 1985 đến 2015 : 960%
+Năm 1955 : 5.000   người
+Năm 1985 :   123.000   người
+Năm 2015 :     1,3 triệu   người
+Thành_phố Từ_Khê trải từ vịnh Hàng_Châu tới phía nam Thượng_Hải , nổi_tiếng là nơi khởi_nguồn của nghệ_thuật gốm sứ Yue của Trung_Quốc .
+Năm 1955 :   22.000 người
+Năm 1985 :   182.000 người
+Năm 2015 :   1,7 triệu người
+Đây là thành_phố cấp tỉnh nằm ở phía đông_nam tỉnh Sơn_Đông , đông_bắc Trung_Quốc .   Lâm_Nghi có lịch_sử 2.400 năm , là quê_hương của Gia_Cát_Lượng , nhà chính_trị quân_sự nổi_tiếng thời Tam_Quốc và Vương_Hi_Chi , nhà thư_pháp nổi_tiếng thời Đông_Tấn trong lịch_sử Trung_Quốc .

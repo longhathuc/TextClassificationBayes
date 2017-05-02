@@ -1,0 +1,14 @@
+Robot xây nhà cao 200 m trong một ngày
+Một nhóm kỹ_sư Iran đang phát_triển robot có_thể xây tòa nhà cao tới 200 m chỉ trong vòng một ngày .
+Mehr_News đưa tin , Behrokh_Khoshnevis , giáo_sư người Iran ở Trường_Kỹ thuật Viterbi ( USC ) tại California , Mỹ , cho_biết ông sẽ tập_trung vào dự_án Selective_Separation_Sintering ( SSS ) trong 20 năm tới .
+SSS là phương_pháp gia_cố sử_dụng một loại bột liên_kết đặc_biệt cho_phép tự_động xây_dựng các công_trình kiến_trúc dựa trên nền_tảng công_nghệ in 3D .
+Theo Khoshnevis , SSS là quá_trình đầu_tiên có_thể thực_hiện ở môi_trường không trọng_lượng .
+So với những công_nghệ có chi_phí cao như laser , SSS cho tốc_độ cao , độ_chính_xác và tính độc_lập lớn hơn , đồng_thời có tiềm_năng ứng_dụng cao trong không_gian và trên các hành_tinh .
+Khoshnevis , người từng hai lần giành giải quán_quân trong các cuộc_thi của Cơ_quan Hàng_không Vũ_trụ Mỹ ( NASA ) , nhấn_mạnh công_việc xây_dựng rất nguy_hiểm , và số_liệu chỉ ra khoảng 60.000 người thiệt_mạng khi thi_công công_trình .
+" Quá_trình xây_dựng cũng tiêu tốn nhiều thời_gian và tiền_bạc , do_đó xây công_trình bằng robot đang trở_thành nhu_cầu cấp_thiết " , Khoshnevis nói .
+" Trong nhiều năm , tôi đã tiến_hành nghiên_cứu , phát_triển kỹ_thuật xây_dựng công_trình trên Mặt_Trăng và sao Hỏa từ những vật_liệu sẵn có trong không_gian .
+Tôi hy_vọng có_thể tiến_hành dự_án này ở đất_nước đầu_tiên là Iran " , Khoshnevis cho_biết .
+" Với phương_pháp này , công_trình cao 200 m có_thể hoàn_thành trong một ngày .
+Tất_nhiên , chúng_tôi sẽ bắt_đầu với những tòa nhà nhỏ hơn " .
+Xem thêm :   Robot phẫu_thuật tự_động giỏi hơn bác_sĩ
+Phương_Hoa

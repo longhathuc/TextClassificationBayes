@@ -1,0 +1,30 @@
+Mã độc vô_hình tấn_công hệ_thống ngân_hàng toàn_cầu
+Đã có hơn 140 ngân_hàng ở 40 nước bị dính malware có khả_năng ẩn mình trong bộ_nhớ máy_tính để âm_thầm ăn_cắp mật_khẩu và thông_tin tài_chính .
+Các chuyên_gia bảo_mật tại Kaspersky cho_biết mã độc có tên Duqu 2.0 không được phát_hiện trên ổ_cứng mà nằm trong bộ_nhớ RAM của những máy_tính bị khống_chế , nên được đánh_giá là " vô_hình " khi chúng âm_thầm thu_thập dữ_liệu nhạy_cảm .
+Khi một máy_tính nhiễm mã độc khởi_động lại , mọi dấu_vết hoạt_động của malware cũng biến_mất .
+Hơn 140 mạng_lưới doanh_nghiệp gồm ngân_hàng , tổ_chức chính_phủ , các công_ty viễn_thông từ 40 nước đã dính   Duqu 2.0 .   Tội_phạm mạng nhắm vào những máy_tính điều_khiển các hệ_thống ATM nhằm ra_lệnh cho chúng nhả tiền .
+" Các ngân_hàng chưa chuẩn_bị đầy_đủ để đối_phó với những cuộc tấn_công thế_này " , chuyên_gia Kurt_Baumgartner của Kaspersky nhận_định .
+Hãng bảo_mật   cho_biết đây là mã độc tinh_vi từng được các hacker khai_thác để thực_hiện các cuộc chiến_tranh mạng ở tầm quốc_gia .
+Ảnh minh_họa : ComputerWorld
+Các công_ty Mỹ bị nhắm đến nhiều nhất với 21 cuộc tấn_công , tiếp đến là 10 ở Pháp , 9 ở Ecuador , 8 ở Kenya , 7 ở Anh và Nga .
+Do mã độc ẩn mình quá kỹ và các bằng_chứng bị xóa sạch sau khi khởi_động máy , con_số lây_nhiễm trên thực_tế còn cao hơn rất nhiều những gì được thống_kê .
+Kẻ tấn_công đã rất thông_minh khi tải mã độc vào RAM thay_vì ổ_cứng để không bị phát_hiện .
+Chúng cũng sử_dụng những tên_miền đã hết hạn , không còn chứa thông_tin trên WHOIS .
+Kaspersky đã theo_dõi Duqu 2.0 , được cho là có nguồn_gốc từ Stuxnet , từ năm 2015 khi chính hệ_thống của họ - một công_ty chuyên về bảo_mật nổi_tiếng thế_giới - lại bị hacker thâm_nhập thông_qua một chiến_dịch có chi_phí 10 triệu USD .
+Khi đó , Duqu 2.0 được phát_tán nhằm thu_thập , ăn_trộm thông_tin về những công_nghệ mới của hãng .
+Kaspersky mô_tả cuộc tấn_công cách đây hai năm là " một trong những chiến_dịch tinh_vi nhất họ từng chứng_kiến " .
+Mã độc không ghi bất_kỳ file nào ra ổ_đĩa , mà thay vào đó chỉ hoạt_động trong bộ_nhớ ( RAM ) nên rất khó bị phát_hiện .
+Giờ_đây , mã độc tinh_xảo này đang tiếp_tục lan_rộng với mục_đích đánh_cắp tiền_của ngân_hàng trên toàn_cầu .
+Nguồn_gốc của   Duqu
+Tháng 9/2010 , Iran cho_biết một_số máy_tính trong chương_trình hạt_nhân của họ bị lây_nhiễm bởi một virus bí_ẩn mang tên Stuxnet .
+Stuxnet được đánh_giá là " độc_hại một_cách bất_thường " và là phần_mềm đầu_tiên được lập_trình với mục_đích kiểm_soát các hệ_thống liên_quan đến các công_trình trọng_điểm của ngành công_nghiệp .
+Năm 2012 , nhà_báo David_Sanger của New_York_Times tiết_lộ thông_tin gây sốc : Stuxnet là do chính_quyền Barack_Obama hậu_thuẫn ( dù trước đó Mỹ phủ_nhận liên_quan đến sâu này ) .
+Với sự trợ_giúp của Israel , Mỹ xây_dựng chương_trình thâm_nhập vào nhà_máy hạt_nhân Natanz của Iran với nhiệm_vụ ghi lại thiết_kế của hệ_thống chịu trách_nhiệm kiểm_soát máy ly_tâm tinh_chế uranium nằm sâu dưới lòng đất .
+Sau khi có sơ_đồ chi_tiết , họ tung ra virus siêu_hạng để điều_khiển hệ_thống bị lây_nhiễm từ xa .
+Virus đó không bị lộ cho_đến khi một lỗi lập_trình xảy_ra khiến nó lọt ra ngoài cơ_sở Natanz vào năm 2010 , lây_lan trên diện rộng trên Internet và trở_nên nổi_tiếng với tên gọi Stuxnet .
+Trong khi đó , Duqu , được biết đến từ năm 2011 , được tạo trên nền_tảng phần_mềm chung với Stuxnet .
+Các chuyên_gia bảo_mật nhận_định cả hai có cùng tác_giả .   " Không nghi_ngờ về việc Stuxnet và Duqu được viết với sự quan_tâm của một chính_phủ nào_đó , nhưng chính_phủ nào thì không có bằng_chứng " , Kaspersky cho_hay .
+Ước_tính Stuxnet và Duqu đã loại_bỏ khoảng 1.000 trong số 5.000 máy ly_tâm ở Natanz bằng cách kích_hoạt và quay chúng ở tốc_độ cực cao dẫn đến hỏng_hóc .
+Tới giữa năm 2012 , đến lượt Flame - được mệnh_danh là sâu máy_tính tinh_xảo nhất mọi thời_đại - lộ_diện .
+Flame bị phát_hiện đang bí_mật lùng_sục trên các máy_tính bị lây_nhiễm ở Trung_Đông và virus này cũng được cho là do một chính_phủ nào_đó hậu_thuẫn .
+Bộ an_ninh nội_địa Mỹ tuyên_bố không có bằng_chứng Flame liên_quan đến Stuxnet hay Duqu .

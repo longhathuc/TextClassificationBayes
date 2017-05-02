@@ -1,0 +1,17 @@
+Prisma - ứng_dụng ' siêu hot ' của chàng_trai người Nga
+Cách đây ba_tháng , Alexey_Moiseenkov , 25 tuổi , nảy ra ý_tưởng tạo một ứng_dụng có_thể biến ảnh thành tác_phẩm nghệ_thuật chỉ với một nút bấm .
+Không như các công_cụ chỉnh_sửa khác , Moiseenkov sử_dụng công_nghệ_học sâu để tạo ra những tấm hình hoàn_toàn mới từ các bức ảnh của người dùng .
+Moiseenkov , khi đó đang làm cho hãng dịch_vụ Internet_Mail . Ru , đã cùng đồng_nghiệp xây_dựng phần_mềm để " sản_xuất " tác_phẩm nghệ_thuật trong vài giây .
+Kết_quả là Prisma , ứng_dụng áp_dụng công_nghệ_học máy ( machine learning ) ra_đời .
+" Prisma hình_thành từ một ý_tưởng , chứ không phải một kế_hoạch kinh_doanh hoành_tráng " , Moiseenkov chia_sẻ với Telegraph .
+" Chúng_tôi muốn mang đến cơ_hội cho người dùng tạo ra những bức ảnh đẹp .
+Tất_cả chỉ có vậy " .
+Hai tháng sau , Moiseenkov xin nghỉ_việc và dành toàn_bộ thời gia cho Prisma .
+Ngay khi xuất_hiện vào giữa tháng 6/2016 , Prisma lập_tức trở_thành một cú " hit " với 10 triệu lượt tải trên i OS chỉ sau một tháng .
+Nó có_mặt trong bảng xếp_hạng các ứng_dụng video và ảnh phổ_biến nhất của Apple tại 52 nước .
+" Không ai trong nhóm nghĩ Prisma có_thể phát_triển nhanh đến vậy chỉ sau vài tuần " , Moiseenkov nói .
+Nhóm 9 người của anh hoạt_động tại Moscow ( Nga ) và liên_tục hoàn_thiện ứng_dụng để biến bức ảnh bình_thường thành tranh nghệ_thuật theo phong_cách của các họa_sĩ Edvard_Munch , Van_Gogh , Andy_Warhol ...
+Ngày 24/7 , phiên_bản Prisma dành cho Android cũng đã chính_thức được phát_hành .
+Cả nhóm đang dự_định sớm ra_mắt Prisma cho video trong vài tuần tới .
+Moiseenkov gần đây đã tới San_Francisco_Bay_Area ( Mỹ ) để trò_chuyện với Facebook về việc tích_hợp nhưng " chưa_thể tiết_lộ gì thêm vào lúc này " .
+Một_số ảnh chỉnh_sửa với Prisma :

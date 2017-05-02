@@ -1,0 +1,16 @@
+Cách kiểm_tra i Phone , iPad cũ có phải hàng ăn_cắp
+Apple đóng trang_web Activation_Lock nhưng người dùng vẫn có cách khác để biết máy có bị khóa i Cloud hay không .
+Cuối tháng 1/2017 , nhiều báo_cáo nói Apple đã âm_thầm gỡ công_cụ Activation_Lock giúp người dùng tránh mua phải những chiếc i Phone bị mất_cắp hay thiết_bị chạy i OS khóa i Cloud .
+Activation_Lock của Apple là trang cho_phép người dùng nhập số IMEI hoặc Series_Number ( SN ) để xem khóa bảo_vệ i Cloud trên máy đã được vô_hiệu_hóa chưa .
+Giao_diện trang   Activation_Lock thời_điểm còn hoạt_động .
+Sau khi Apple bỏ trang_web kiểm_tra , người mua i Phone , iPad đã qua sử_dụng vẫn có_thể biết được máy đã gỡ hết tài_khoản chưa bằng cách   vào   Settings > General > Reset > Erase_All_Content and Settings   để khôi_phục về trạng_thái ban_đầu .   Trong quá_trình cài lại , nếu máy yêu_cầu mật_khẩu tức_là thiết_bị chưa " sạch " hoàn_toàn , không nên mua .
+Kể từ i OS 7 trở_lên , Apple trang_bị tính_năng Activation_Lock mà mỗi khi i Phone , iPad được khôi_phục cài_đặt gốc hay nâng_cấp trực_tiếp lên phiên_bản mới sẽ cần đăng_nhập tài_khoản i Cloud .   Activation
+Lock cần được vô_hiệu_hóa khi bán i Phone , iPad cho người khác , nếu_không máy có_thể thành " cục gạch " , bị khóa toàn_bộ chức_năng kể_cả vào màn_hình chính .
+Về lý_do đóng tính_năng kiểm_tra Activation_Lock , theo BGR , có_thể Apple làm_vậy để khóa lỗ_hổng mà tin_tặc hay các kỹ_thuật_viên sửa điện_thoại hay khai_thác để bẻ_khóa i Cloud .
+Cụ_thể , với mỗi chiếc i Phone , iPad , IMEI và SN là số định_danh duy_nhất .
+Bằng cách can_thiệp phần_cứng với công_cụ chuyên_dụng , hacker có_thể đổi IMEI và SN vốn bị khóa i Cloud sang một_số khác .
+Ở đây , trang   Activation_Lock mà Apple tạo ra vô_tình trở_thành công_cụ để các kỹ_thuật_viên tìm được một_số IMEI và SN hợp_lệ khác , không bị khóa i Cloud .
+Sau khi đổi thành_công , iPhone , iPad ban_đầu bị khóa i Cloud được hệ_thống của Apple hiểu rằng đó là thiết_bị mới , không khóa .
+Như_vậy , những chiếc máy này có_thể kích_hoạt và sử_dụng bình_thường .
+Lỗ_hổng trong cơ_chế   Activation_Lock của Apple cũng giải_thích lý_do tại_sao một chiếc i Phone 7 mới bóc hộp , chưa từng sử_dụng nhưng đã cài sẵn tài_khoản i Cloud .
+Video bẻ_khóa i Cloud trên i Pad_Air bằng phần_cứng :

@@ -1,0 +1,23 @@
+Ý_nghĩa của số_hiệu các chuyến bay
+Số_hiệu chuyến bay giúp ta kiểm_tra thông_tin về cửa ra hoặc trạng_thái chuyến bay , thậm_chí có_thể là chỉ dấu bạn sẽ có một chuyến bay tuyệt_vời hay ít tiện_nghi .
+Số_hiệu chuyến bay là một dãy kết_hợp giữa cả chữ_cái và chữ_số .
+Trong đó , hai chữ_cái đầu_tiên là mã hãng hàng_không ( ví_dụ : AA - American_Airlines , VN - Vietnam_Airlines , VJ - Vietjet_Air ... ) .
+Thông_thường , những chuyến bay đi_về hướng đông hoặc bắc được đánh số_chẵn , còn những chuyến đi_về phía tây hoặc nam được đánh số_lẻ .
+Chuyến bay lượt_về thường được đánh_số lớn hơn hoặc nhỏ hơn một_số so với số_hiệu của chuyến bay lượt_đi giữa cùng một điểm đến .
+Vì_vậy , nếu bạn di_chuyển giữa Hà_Nội và TPHCM , chuyến bay 1209 sẽ có hướng xuống phía nam ; trong khi 1208 đưa bạn về phía bắc .
+Ý_nghĩa thực_sự của số_hiệu chuyến bay không phải ai cũng hiểu rõ .
+Ảnh : Wanderplex
+Một thông_tin thú_vị khác là nếu số_hiệu chuyến bay của bạn càng nhỏ thì mức_độ uy_tín của hãng hàng_không bạn đang bay lại càng cao hơn .
+Số_hiệu có từ 1 đến 2 chữ_số được dành cho hãng hàng_không lớn và những chặng bay dài , vì_vậy nếu sở_hữu tấm vé trên chuyến bay này thì bạn có_thể yên_tâm về chất_lượng và dịch_vụ trong_suốt hành_trình .
+Số_hiệu chuyến bay có 4 chữ_số , thường bắt_đầu bằng số 3 hoặc lớn hơn 3 , là các chuyến bay liên_danh Code_Share .
+Khi đó , vé máy_bay cho hành_trình có_thể được đặt bởi một hãng nhưng trên thực_tế hành_khách có_thể bay kết_hợp trên nhiều chuyến bay của các hãng hàng_không khác_nhau với mã chuyến bay khác_nhau .
+Chính vì_thế , việc hiểu rõ Code_Share này rất quan_trọng để đảm_bảo cho hành_khách biết và nắm được hành_trình của chuyến đi .
+Hiểu rõ số_hiệu chuyến bay là việc_làm rất quan_trọng để đảm_bảo cho hành_khách biết và nắm được hành_trình của chuyến đi .
+Ảnh : news.com.au
+Một số_hiệu chuyến bay có_thể được tái_sử_dụng nhiều lần với hành_trình và máy_bay khác_nhau trong nhiều năm .
+Tuy_nhiên , đối_với các chuyến bay từng gặp tai_nạn thì số_hiệu của chuyến bay đó sẽ ngay_lập_tức bị " cho về hưu " .
+Ví_dụ chuyến AA11 của hãng hàng_không American_Airlines , trên hành_trình Boston-Los Angeles .
+Tuy_nhiên , chuyến bay này đã khởi_hành lần cuối_cùng vào ngày 11/9/2001 , trước khi bị không_tặc tấn_công và đâm vào tòa nhà trung_tâm Thương_mại Thế_giới .
+Kể từ sau sự_kiện đó , số_hiệu AA11 bị xóa_bỏ khỏi kho số_hiệu của AA .
+Xem thêm : Điều gì xảy_ra nếu điện_thoại không chuyển ' airplane mode ' khi bay
+Ngọc_Mai

@@ -1,0 +1,16 @@
+' Cứng hóa phần_mềm ' trong xu_hướng Internet vạn_vật
+Nguyễn_Đình_Nam , CEO của VP9 , cho rằng hiện_nay làm thuần_túy phần_mềm rất khó cạnh_tranh và các công_ty công_nghệ , nhất_là startup nên hướng tới việc cho ra_đời giải_pháp kết_hợp giữa phần_cứng và phần_mềm .
+Chia_sẻ trong buổi gặp_gỡ hội_viên đầu xuân 2016 của Hiệp_hội Phần_mềm và Dịch_vụ CNTT Việt_Nam ( VINASA ) , Nguyễn_Đình_Nam cho_hay : " Hiện_nay có nhiều công_ty đầu_tư phát_triển phần_mềm nhưng lại bán dưới dạng phần_cứng , hay còn gọi_là ' cứng hóa phần_mềm ' .
+Đây chính là   xu_hướng Internet of Things ( IoT - Internet vạn_vật ) , nơi phần_mềm và phần_cứng thống_nhất và kết_hợp làm một .
+Ngành điện_tử Việt_Nam cần chú_trọng đi theo xu_hướng này khi mà phần_mềm thuần_túy chưa phải thế mạnh ,   vẫn bán được nhưng việc giành_giật thị_trường với   Ấn Độ , Đông_Âu ... rất khó_khăn " .
+Theo CEO của VP9 , tương_lai của ngành điện_tử nằm ở những thiết_bị điện_tử thông_minh có kết_nối Internet .
+IoT là một xu_hướng lớn với doanh_thu dự_kiến đạt 7.100 tỷ USD vào năm 2020 , so với 1.900 tỷ USD năm 2013 .   Ở thị_trường IoT , các chuyên_môn công_nghệ_thông_tin ( phần_mềm ) và điện_tử viễn_thông ( phần_cứng ) được pha_trộn vào nhau để tạo nên sản_phẩm thương_mại .   Về mặt thương_mại , những sản_phẩm đó được xếp vào ngành điện_tử , nhưng hàm_lượng công_nghệ_thông_tin rất cao .
+Các kỹ_sư phần_mềm nên tìm_kiếm những giải_pháp đi kèm phần_cứng , phù_hợp xu_hướng IoT , thay_vì phát_triển phần_mềm thuần_túy .
+Những sản_phẩm phần_cứng mà phần_mềm đóng vai_trò chủ_đạo này có_thể kể đến giải_pháp đèn thông_minh giúp người dùng điều_chỉnh màu_sắc và độ sáng từ điện_thoại , máy pha cafe được điều_khiển qua kết_nối Wi-Fi , tủ_lạnh tự_động mở_cửa khi có người tiến đến gần , ổ_khóa thông_minh ...
+Google là một công_ty về dịch_vụ Internet nhưng lại tiên_phong trong việc phát_triển xe_hơi không người lái - chiếc xe_hơi tự_hành nhờ phần_mềm , kết_nối với smartphone và smartwatch của chủ_nhân .
+Ông Trương_Gia_Bình , Chủ_tịch VINASA ,   cho_biết VINASA luôn muốn tạo điều_kiện cho các startup ( công_ty khởi_nghiệp ) có ý_tưởng mới , sản_phẩm mới để thành_công ở quy_mô lớn toàn_cầu .   Trước
+đó , trao_đổi với giới truyền_thông , ông Bình cũng nhấn_mạnh IoT là xu_thế công_nghệ đầy tiềm_năng và không_thể đảo_ngược .
+Việt_Nam cần nhiều hơn_nữa các công_ty làm về IoT , đặc_biệt là cung_cấp phần_cứng .
+Đây là " cuộc_chơi chung " của toàn_cầu và những công_ty đứng ngoài xu_hướng sẽ khó có_thể tồn_tại .
+Theo phân_tích của Gartner , trong năm 2016 thế_giới sẽ có 6,4 tỷ thiết_bị kết_nối Internet và đến năm 2020 , con_số này sẽ tăng lên 21 tỷ .
+Châu_An

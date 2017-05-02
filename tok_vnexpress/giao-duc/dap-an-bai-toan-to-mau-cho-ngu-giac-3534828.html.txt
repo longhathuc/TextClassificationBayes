@@ -1,0 +1,24 @@
+Đáp_án bài_toán tô màu cho ngũ_giác
+Với bài_toán tô màu cho ngũ_giác này , bạn không cần dùng đến những công_thức tổng_quát phức_tạp .
+Suy_luận một_chút và sử_dụng những phép_tính đơn_giản có_thể giúp bạn tìm ra đáp_án .
+Đề_bài :
+Cho một hình ngũ_giác ABCDE .
+Với 3 màu xanh , đỏ , vàng , có bao_nhiêu cách tô màu cho 5 cạnh của ngũ_giác này sao cho không có hai cạnh liền kề nào trùng màu với nhau ?
+- Chọn AB là cạnh thứ nhất để tô màu , ta có 3 cách tô cho cạnh này ( vì có 3 màu ) .
+- BC và EA là hai cạnh liền kề với AB nên chúng không_thể cùng màu với AB , nhưng có_thể cùng màu với nhau .
+Ta chia làm hai trường_hợp :
+Trường_hợp 1 : Hai cạnh BC và EA cùng màu .
+Ta có hai cách tô màu cho BC và EA ( chỉ cần màu đó khác màu cạnh AB ) .
+Màu cần tô vào hai cạnh còn lại CD và DE sẽ trừ đi màu đã tô ở BC , EA và chúng cũng khác màu nhau .
+Từ đó ta có 2 x 2 - 2 = 2 cách tô màu cho hau cạnh này .
+Như_vậy , số cách tô màu cho cả hình ngũ_giác ở trường_hợp 1 là 3 x 2 x 2 = 12 cách .
+Trường_hợp 2 : Hai cạnh BC và EA khác màu .
+Ta có 2 x 2 - 2 = 2 cách tô màu cho hai cạnh BC và EA ( vì có_thể tô 2 màu khác màu của AB vào hai cạnh này nhưng phải trừ đi trường_hợp hai cạnh có màu giống nhau ở trường_hợp 1 ) .
+Cả 3 màu đều có_thể tô vào cạnh CD và DE nhưng màu CD phải khác màu BC nên chỉ có hai màu để tô .
+DE phải khác màu EA nên cũng chỉ còn hai màu để tô .
+Hai cặp màu tô cho DE và CD chắc_chắn có một màu giống nhau , mà DE và CD kề nhau nên phải trừ đi trường_hợp chúng cùng màu nhau .
+Từ đó suy ra số cách tô CD và DE là 2 x 2 - 1 = 3 cách
+Như_vậy , số cách để tô màu cho cả hình ngũ_giác ở trường_hợp 2 là
+3 x 2 x 3 = 18 cách .
+Cộng hai trường_hợp đã xét_lại , ta có tổng_số cách tô màu cho hình ngũ_giác này sao cho phù_hợp với điều_kiện của đề_bài là 12 + 18 = 30 cách .
+Thanh_Tâm

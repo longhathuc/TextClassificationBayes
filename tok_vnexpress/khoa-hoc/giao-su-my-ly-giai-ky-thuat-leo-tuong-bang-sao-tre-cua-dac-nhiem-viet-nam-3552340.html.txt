@@ -1,0 +1,24 @@
+Giáo_sư Mỹ lý_giải kỹ_thuật leo tường bằng sào tre của đặc_nhiệm Việt_Nam
+Chỉ dùng một thanh tre dài , các đặc_nhiệm Việt_Nam có_thể leo tường nhanh thoăn thắt theo phương vuông_góc với mặt tường , điều tưởng_chừng bất_khả_thi .
+Video leo tường bằng sào tre của lực_lượng cảnh_sát đặc_nhiệm Việt_Nam do tài_khoản Sadam_Alan chia_sẻ trên YouTube hôm 2/3 thu_hút hơn 96.000 lượt xem , theo Wired .
+Nhóm đặc_nhiệm trong video gây ấn_tượng mạnh với kỹ_thuật điêu_luyện , sức_mạnh , tốc_độ , độ_chính_xác trong từng động_tác .
+Tuy_nhiên , cơ_chế vật_lý đằng sau kỹ_thuật đặc_biệt này đang là chủ_đề được các nhà_khoa_học quốc_tế quan_tâm .
+" Điều gì thế_này ?
+Không còn nghi_ngờ gì nữa , họ đã làm được .
+Nhưng bằng cách nào ? " Rhett_Allain , giáo_sư vật_lý tại Đại_học Southeastern_Lousiana , Mỹ , trao_đổi trên tạp_chí Wired .
+Để giải_thích hiện_tượng này , giáo_sư Allain thiết_lập giản_đồ lực phân_bố trên sào tre .
+Ông đặt giả_thiết các chiến_sĩ đặc_nhiệm Việt_Nam di_chuyển đủ chậm để tổng các lực đặt lên họ được coi là cân_bằng .
+Tổng các lực tác_dụng lên chiến_sĩ leo trên tường được biểu_diễn trong Hình 1 .
+Các lực này bao_gồm trọng_lực mg trong đó m là khối_lượng của chiến_sĩ đặc_công , g là gia_tốc trọng_trường .
+Ba lực còn lại gồm lực đẩy của sào tre Fp , phản_lực của tường N , và lực ma_sát Ff .
+Trong điều_kiện cân_bằng , hợp_lực theo phương nằm ngang và theo phương dọc phải bằng_không .
+Điều đó đồng_nghĩa với việc thỏa_mãn hệ phương_trình :
+Từ đây có_thể thấy lực đẩy của sào tre có cả hai thành_phần dọc và ngang với biên_độ phụ_thuộc vào góc tiếp_xúc của thanh tre với mặt_đất .
+Với giả_thiết lực ma_sát tĩnh tỷ_lệ với độ lớn của phản_lực Ff = µ sN , lực đẩy của thanh tre có_thể được viết lại như sau :
+Giả_sử chiến_sĩ có trọng_lượng 70 kg và   hệ_số ma_sát µ s = 0,7 , giáo_sư Allain biểu_diễn lực đẩy cần_thiết theo góc tới của thanh tre ( Hình 2 ) .
+Kết_quả cho thấy chúng_ta cần một lực ban_đầu chỉ lớn hơn trọng_lượng của người leo một_chút ( khoảng 1000 Newton với người 70 kg ) khi thanh tre gần_như song_song với mặt_đất .
+Khi chiến_sĩ bắt_đầu leo lên tường , lực này giảm dần tới góc 50o vì thành_phần dọc của lực đẩy tăng lên .
+Ở góc cao hơn , lực đẩy lại tăng do lực ma_sát lúc này giảm .
+Tại góc 90o , lực đẩy bằng chính trọng_lượng của chiến_sĩ .
+Như_vậy , kỹ_thuật leo tường bằng thanh tre tưởng_chừng rất không khả_thi lại được các chiến_sĩ đặc_nhiệm Việt_Nam thực_hiện dựa trên những tính_toán khoa_học hoàn_toàn hợp_lý .
+Thanh_Tùng

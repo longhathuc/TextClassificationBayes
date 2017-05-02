@@ -1,0 +1,15 @@
+iPhone dính lỗi bị ' đơ ' sau khi xem video dài 5 giây
+Các thử_nghiệm cho thấy i Phone chạy i OS 10.1 hoặc bản i OS 10.2 beta đều bị đơ hoàn_toàn khoảng 10 giây sau khi xem video .
+Một_số người dùng trên Reddit hôm_qua đã phát_hiện ra lỗi liên_quan đến việc phát một đoạn video định_dạng MP4 có độ dài khoảng 5 giây .
+Theo đó , khi gửi qua tin nhắn i Message , người nhận click vào đoạn video để xem bằng ứng_dụng mặc_định thì i Phone sẽ chạy chậm dần và " đơ " ( crash ) chỉ sau khoảng hơn 10 giây .
+Cách duy_nhất để thoát khỏi tình_trạng này là người dùng phải nhấn lì nút Home và nguồn để tắt nóng máy .
+iPhone sẽ hoạt_động bình_thường sau khi khởi_động lại .
+Trang_Theverge đã thử_nghiệm với nhiều i Phone đã nâng_cấp lên i OS 10.1 và cả bản beta i OS 10.2 .
+Tất_cả đều gặp tình_trạng tương_tự .
+Điều này cho thấy đây là lỗi chung của các phiên_bản i OS 10.1 trở_lên .
+Đây không phải là lần đầu_tiên lỗi crash xuất_hiện trên i OS .
+Năm_ngoái , một chuỗi các ký_tự được gửi qua i Message cũng có_thể gây ra lỗi tương_tự .
+Trước đó , trình_duyệt Safari cũng khiến máy i Phone đôi_lúc gặp tình_trạng " đơ " hoàn_toàn .
+Apple hiện chưa đưa ra phản_hồi về lỗi này .
+Tuy_nhiên , người dùng cần tránh nhấn vào các đoạn video do bạn_bè gửi để i Phone không gặp lỗi .
+Đoạn video thử_nghiệm lỗi trên i Phone :

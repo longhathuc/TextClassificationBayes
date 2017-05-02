@@ -1,0 +1,7 @@
+Sinh_viên Việt_Nam đứng thứ 3 thế_giới về lập_trình
+Theo kết_quả khảo_sát từ HackerRank , sinh_viên Đại_học Khoa_học Tự_nhiên ( ĐHQG_TP_HCM ) đứng thứ_ba thế_giới về lập_trình , xếp sau Nga và Trung_Quốc .
+Ba trường đại_học đạt kết_quả cao nhất được trang_web HackerRank công_bố gồm Russian_Federation_College - ITMO University ( Nga ) , Sun_Yat - sen Memorial_Middle_School ( Trung_Quốc ) và Đại_học Khoa_học Tự_nhiên ( ĐHQG_TP_HCM ) .
+Hơn 5.500 sinh_viên đến từ 126 trường đại_học trên thế_giới tham_gia vào sự_kiện trực truyến của trang HackerRank .
+Mỗi trường có ít_nhất 10 sinh_viên tham_gia giải_quyết các đoạn mã hóc_búa gồm 8 bài thi lập_trình trong 72 giờ .   Điểm_số được tính căn_cứ vào khả_năng của sinh_viên và số người tham_gia .
+Cũng theo bảng xếp_hạng , Mỹ có 8 trường đại_học lọt top 50 , trong khi Ấn Độ có 24 trường vào trong danh_sách này .
+Mạnh_Tùng

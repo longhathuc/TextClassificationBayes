@@ -1,0 +1,10 @@
+Ứng_dụng AI biến ảnh đen_trắng thành ảnh màu
+Có rất nhiều phần_mềm để chuyển ảnh màu thành ảnh đen_trắng , nhưng làm điều ngược_lại thì không hề dễ_dàng .
+Trước một bức ảnh chỉ có hai màu đen và trắng , phần_mềm biên_tập ảnh thông_thường sẽ không tự_động nhận_biết được phần ảnh nào có màu gì .   Một ứng_dụng web đã sử_dụng công_nghệ " học sâu " ( deep learning ) để phân_tích nội_dung ảnh , từ đó chọn ra những mảng màu phù_hợp cho tấm hình .
+Ứng_dụng được trang_bị thuật_toán Colorful_Image_Colorization do nhóm nghiên_cứu tại Đại_học UC Berkeley ( Mỹ ) phát_triển dưới sự dẫn_dắt của trưởng nhóm Richard_Zhang .
+Để dùng thử và đánh_giá , người dùng có_thể truy_cập website , dán đường link có ảnh đen_trắng vào và bấm Colorize_It ( Tô màu cho ảnh ) .
+Sau vài giây xử_lý , trang_web sẽ hiển_thị song_song hai bức ảnh để người dùng so_sánh .
+Ứng_dụng này mới chỉ mang tính demo ( trình_diễn , thử_nghiệm công_nghệ ) nhưng cũng đã hoạt_động tương_đối tốt :
+Chọn đường link của một bức ảnh đen_trắng   trên trang_web bất_kỳ   ( Copy link address hoặc Copy image address ) .
+Dán link vào ô trống và bấm Colorize it .
+Ứng_dụng web sẽ hiển_thị song_song hai ảnh trước và sau để người dùng so_sánh .

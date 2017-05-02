@@ -1,0 +1,11 @@
+Ốp lưng giúp i Phone chạy Android
+Ốp lưng được tích_hợp phần_cứng có_thể hỗ_trợ i Phone chạy hệ_điều_hành Android 6.0 mượt_mà không cần thêm thủ_thuật nào khác .
+Trước_đây , có một_số cách cho chạy Android trên i Phone , iOS trên điện_thoại Android , hoặc chạy song_song cả hai hệ_điều_hành trên một thiết_bị duy_nhất được các hacker và chuyên_viên kỹ_thuật thực_hiện .
+Tuy_nhiên , điểm chung của chúng là thiếu đi tính ổn_định và thao_tác phức_tạp .
+Chiếc ốp lưng nhỏ gọn tích_hợp cả cổng USB , HDMI , đầu_đọc thẻ micro SD  và hỗ_trợ i Phone chạy Android .
+Thế_nhưng , chuyên_gia phần_cứng Nick_Lee , Giám_đốc công_nghệ của studio thiết_kế và phát_triển ứng_dụng di_động Tendigi , đã đơn_giản_hóa điều đó bằng cách tạo ra một ốp lưng cho_phép i Phone chạy Android mượt_mà .
+Sản_phẩm thậm_chí có_thể kích_hoạt nền_tảng ngay mà không cần khởi_động lại thiết_bị .
+Theo Lee , cấu_tạo của chiếc ốp lưng khá đơn_giản , gồm phần vỏ được in bằng máy_in 3D , bên trong tích_hợp mạch với vi_xử_lý 8 lõi 64-bit ARM Cortex-A53 cùng pin , biến_áp , điện_trở … Bảng mạch này có_thể chạy phiên_bản Android 6.0 tùy biến , nằm trong dự_án mã nguồn mở Android ( Android_Open_Source_Project ) do ông và cộng_sự phát_triển .
+Ốp lưng sau đó kết_nối với i Phone thông_qua cổng lightning .
+Tuy_nhiên , để kích_hoạt hệ_điều_hành , phải thông_qua một ứng_dụng cho i OS có tên Tendigi được nhóm của Lee   tạo ra .
+Bảo_Lâm ( theo The_Hacker_News )

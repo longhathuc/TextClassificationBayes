@@ -1,0 +1,14 @@
+Smartphone chạy Android 4.1 hoặc cũ hơn dễ nhiễm mã độc
+Hai loại mã độc tự kích_hoạt gửi tin nhắn đến bất_kỳ số điện_thoại nào có_thể lây_lan khi người dùng truy_cập một_số trang_web lạ .
+Người dùng smartphone chạy Android 4.1 . x trở_về trước dễ dính mã độc .
+Theo nghiên_cứu của   Kaspersky , một mã code gây hại đang lây_lan trên nhiều trang_web   có_thể tự_động tải xuống một_số máy chạy hệ_điều_hành Android .
+Mã này   thường kích_hoạt tải xuống dựa trên lỗ_hổng flash nhằm tấn_công người dùng Windows trước_đây .
+Tuy_nhiên , một_số thay_đổi đã giúp chúng có_thể làm điều tương_tự với các máy chạy Android phiên_bản 4.1 trở_về trước .
+Mã code là một tập_hợp các dòng lệnh thực_hiện trên trình_duyệt được nhúng vào mã của các trang_web bị lây_nhiễm .
+Các loại mã độc mới được phát_hiện có_thể khiến thiết_bị gửi tin nhắn đến bất_kỳ số điện_thoại nào hoặc tạo ra các tập_tin độc_hại trên thẻ nhớ .
+Điểm đặc_biệt là các loại mã này có_thể hoạt_động độc_lập và tự kích_hoạt khi người dùng chỉ thỉnh_thoảng ghé thăm trang_web bị lây_nhiễm .
+Nguồn tin cũng cho_biết các lỗ_hổng trên hệ_điều_hành Android được phát_hiện ở các phiên_bản từ 4.1 . x trở_về trước .
+Google đã vá lỗi cho các phiên_bản này từ năm 2012 đến năm 2014 nhưng nguy_cơ bị khai_thác vẫn tồn_tại .
+Nguyên_nhân là bởi nhiều nhà_sản_xuất Android " bỏ_rơi " thiết_bị của mình hoặc không phát_hành các bản cập_nhật mới thường_xuyên .
+Các chuyên_gia khuyến_cáo nếu người dùng đang sử_dụng máy Android dùng phiên_bản 4.1 . x cần nâng_cấp lên bản mới hơn .
+Trong trường_hợp không có bản nâng_cấp , người dùng nên hạn_chế cài_đặt các ứng_dụng từ nguồn khác ngoài Google_Play , không truy_cập vào các trang_web lạ và cài_đặt thêm các phần_mềm bảo_mật uy_tín cho thiết_bị .

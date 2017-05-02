@@ -1,0 +1,20 @@
+Bộ Giáo dục chốt lịch thi THPT quốc_gia
+Năm 2017 thí_sinh làm thủ_tục thi vào buổi chiều 21/6 , sau đó bắt_đầu làm bài thi vào 7h30 sáng ba ngày tiếp_theo .
+Lịch thi chi_tiết như sau :
+Để xét công_nhận tốt_nghiệp THPT , thí_sinh học chương_trình THPT phải dự thi 4 bài , gồm 3 bài thi độc_lập là Toán , Ngữ_văn , Ngoại_ngữ và một bài thi do thí_sinh tự chọn trong số 2 bài thi tổ_hợp .
+Thí_sinh học chương_trình giáo_dục thường_xuyên phải dự thi 3 bài , gồm 2 bài thi độc_lập là Toán , Ngữ_văn và một bài thi do thí_sinh tự chọn trong số 2 bài thi tổ_hợp .
+Thí_sinh được chọn dự thi cả 2 bài thi tổ_hợp , điểm bài thi tổ_hợp nào cao hơn sẽ được chọn để tính điểm xét công_nhận tốt_nghiệp THPT .
+Thí_sinh phải có chứng_minh_thư khi làm thủ_tục dự thi
+Các_Sở_Giáo dục , trường phổ_thông hướng_dẫn để học_sinh có Chứng_minh nhân_dân trước khi nộp Phiếu_Đăng ký dự thi ( ĐKDT ) .
+Trường_hợp không có Chứng_minh nhân_dân thì phần_mềm quản_lý thi sẽ gán cho thí_sinh một mã_số gồm 12 ký_tự để quản_lý .
+Những thí_sinh muốn điều_chỉnh nguyện_vọng đăng_ký xét tuyển đại_học , cao_đẳng thì_phải đăng_ký số điện_thoại , email khi ĐKDT .
+Sau khi nộp Phiếu ĐKDT , thí_sinh sẽ được đơn_vị ĐKDT cấp một tài_khoản và mật_khẩu để đăng_nhập vào phần_mềm quản_lý thi qua Internet tại địa_chỉ http : / / thisinh.thithptquocgia.edu.vn .
+Tài_khoản này được thí_sinh dùng để đăng_nhập vào phần_mềm Quản_lý thi từ khi ĐKDT đến khi xem kết_quả thi , xét công_nhận tốt_nghiệp THPT , xét tuyển_sinh .
+Để bảo_mật thông_tin , khi nhận được tài_khoản và mật_khẩu thí_sinh nên thay_đổi ngay mật_khẩu .
+Trong trường_hợp thí_sinh quên tài_khoản và mật_khẩu thì có_thể liên_hệ với đơn_vị ĐKDT để xin cấp lại .
+Tùy từng thời_điểm , khi đăng_nhập vào phần_mềm quản_lý thi , thí_sinh có_thể biết được thông_tin như : Thông_tin ĐKDT ( phản_hồi các sai_sót nếu có trước ngày 25/4 ) ; thông_tin xét công_nhận tốt_nghiệp THPT ( phản_hồi sai_sót nếu có trước ngày 25/5 ) ; giấy_báo dự thi ; địa_điểm thi ; kết_quả xét công_nhận tốt_nghiệp THPT ; kết_quả xét tuyển_sinh đại_học , cao_đẳng .
+Thời_hạn đăng_ký dự thi từ ngày 1/4 đến ngày 20/4 .
+Sau ngày 20/4 thí_sinh không được thay_đổi điểm thi và các thông_tin về bài thi / môn thi đã đăng_ký .
+Hội_đồng thi_công bố và thông_báo kết_quả cho thí_sinh vào ngày 7/7 và công_bố kết_quả xét công_nhận tốt_nghiệp THPT chậm nhất ngày 14/7 .
+> > Các trường_hợp được miễn bài thi Ngoại_ngữ trong xét tốt_nghiệp THPT> > Thí_sinh làm bài thi_trắc_nghiệm như_thế_nào
+Hoàng_Thùy

@@ -1,0 +1,16 @@
+Apple ra bản vá lỗi sau khi ngừng cập_nhật i OS 9.3
+Nhiều thiết_bị không_thể kích_hoạt hoặc lỗi đứng máy gây mất dữ_liệu đã khiến Apple phải tạm ngừng việc cập_nhật i OS và đưa ra bản vá lỗi sau đó .
+Việc cập_nhật i OS 9.3 khiến nhiều thiết_bị gặp lỗi .
+Sau khi nhận được những phản_ánh của người dùng về lỗi trong quá_trình nâng_cấp i OS 9.3 ,
+Apple đã ngừng việc cập_nhật từ chiều_qua .
+Theo i More , Apple thừa_nhận có hiện_tượng bị đơ máy , không_thể hoàn_thành việc nâng_cấp cũng_như bị " kẹt cứng " ở công_đoạn nhập thông_tin mật_khẩu tài_khoản i Cloud trên một_số máy .
+Các thiết_bị được cho là dễ bị ảnh_hưởng nhất bao_gồm i Phone 5s , iPad Air , iPad 2 .
+Một_số người dùng đã thử kết_nối với i Tunes để hoàn_tất việc nâng_cấp nhưng hầu_hết đều không thành_công và thậm_chí bị mất dữ_liệu và đưa về chế_độ DFU .
+Sau nhiều giờ tạm dừng việc cập_nhật , Apple từ chiều nay đã đưa ra bản i OS 9.3 khác đã sửa lỗi với số_hiệu là   13E236 .
+Người dùng có_thể tải về và cài thông_qua i Tunes hoặc tải trực_tiếp trên máy .
+Với những máy đã bị " đơ " trong quá_trình nâng_cấp , hãng khuyến_cáo việc nâng_cấp chỉ có_thể thông_qua i Tunes trên máy_tính .
+iOS 9.3 mang đến một_số thay_đổi quan_trọng như thêm chế_độ Night_Shift giúp hạn_chế ánh_sáng xanh nhằm bảo_vệ mắt .
+Ứng_dụng ghi_chú ( Note ) cũng có_thể được khóa bằng vây tay , tăng_cường tính bảo_mật .
+Ngoài_ra , Apple cũng bổ_sung thêm tính_năng cho bộ ứng_dụng theo_dõi sức_khỏe , 3D Touch ...
+Nhiều máy i Pad 2 thành ' cục gạch ' khi nâng_cấp i OS 9.3
+Tuấn_Hưng

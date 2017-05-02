@@ -1,0 +1,4 @@
+Thử_thách cuối tuần : ' Đua ôtô '
+Tại một giải đua ôtô đường_trường , người_ta thấy 5 lái_xe về đích với mốc thời_gian khác_nhau và ngẫu_nhiên các kết_quả này tuân theo một quy_luật toán_học rất thú_vị gắn với tên của họ .
+Bạn hãy xác_định quy_luật và cho_biết ôtô của Arthur_Hastings về đích trong thời_gian bao_lâu ?
+Trần_Phương

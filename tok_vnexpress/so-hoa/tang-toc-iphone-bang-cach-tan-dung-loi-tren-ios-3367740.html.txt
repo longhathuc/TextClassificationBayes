@@ -1,0 +1,19 @@
+Tăng_tốc i Phone bằng cách tận_dụng lỗi trên i OS
+Thủ_thuật nhỏ giúp smartphone của Apple chạy nhanh hơn , nhờ việc loại_bỏ các hiệu_ứng chuyển_động mà không cần jailbreak máy .
+Một trong những tính_năng khiến i OS khác_biệt so với các hệ_điều_hành khác là hiệu_ứng chuyển_động khi đóng , mở ứng_dụng .
+Tuy_nhiên , nó cũng khiến thiết_bị của Apple cho cảm_giác phản_hồi chậm do phải thực_hiện các thao_tác đồ_họa 3D .
+Mặc_định , Apple không cho tắt hiệu_ứng chuyển_động nhưng một lỗi trên hệ_điều_hành i OS cho_phép người dùng triệt_tiêu mọi hiệu_ứng này .
+Đặc_biệt khi bạn có_thể thực_hiện mà không cần bẻ_khóa - jailbreak máy .
+Đầu_tiên , truy_cập Settings > General > Accessibility > Assistive_Touch và kích_hoạt Assistive_Touch ( phím Home ảo ) .
+Tiếp_theo , di_chuyển phím Home ảo xuống góc dưới cùng bên phải màn_hình .
+Từ màn_hình chủ , vuốt từ trên xuống dưới để mở mục tìm_kiếm Spotlight , lúc này phím Home ảo sẽ tự_động chuyển lên phía trên bàn_phím ảo .
+Tại bước này , người dùng thực_hiện nhiều lần sao cho khi phím Home ảo vừa nhảy lên trên bàn_phím thì ngay_lập_tức chạm vào màn_hình để tắt Spotlight và đưa phím Home về vị_trí cũ .
+Trang 9to5mac khuyến_cáo , bạn có_thể phải thử đến 20 lần mới thành_công , vì thực_chất đây là khai_thác một lỗi trên i OS chứ không phải tính_năng trong thiết_kế của Apple .
+Khi thực_hiện thành_công , hãy thử mở các ứng_dụng khác để xem hiệu_ứng chuyển_động đã được loại_bỏ chưa .
+Với các thiết_bị màn_hình 5,5 inch như i Phone 6 Plus hay 6s Plus , có một_cách khác là mở phím Home ảo , tiếp_theo kéo Spotlight xuống , xoay ngang máy rồi xoay dọc trở_lại nhanh ( phải bật tính_năng tự_động xoay màn_hình ) .
+Thực_hiện một_vài lần sẽ được .
+Xem video hướng_dẫn các bước làm
+Lỗi xuất_hiện trên i OS sẽ duy_trì cho_đến khi người dùng khởi_động lại máy .
+Sau khi restart , bạn có_thể thực_hiện lại để bỏ hiệu_ứng chuyển_động .
+Thủ_thuật này áp_dụng với cả thiết_bị đời cũ như i Phone 4 , trên i OS 8 .
+Đình_Nam

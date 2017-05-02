@@ -1,0 +1,15 @@
+Facebook lên_tiếng sau khi bị tố nghe lén người dùng
+Mạng xã_hội lớn nhất thế_giới cho_biết không sử_dụng trái_phép micro trên điện_thoại của người dùng để phục_vụ cho mục_đích quảng_cáo .
+Tờ_The_Independent đưa nguồn từ bà Kelli_Burns , giáo_sư ngành truyền_thông tại Đại_học Nam_Florida ( Mỹ ) , cáo_buộc Facebook đã bí_mật nghe lén thông_tin mà bà trao_đổi qua điện_thoại .
+Một_số thành_viên mạng xã_hội này cũng đồng_tình với quan_điểm trên , dù không có bằng_chứng cụ_thể .   Câu_chuyện nhanh_chóng lan_truyền trên Facebook và được nhiều trang công_nghệ thảo_luận .
+Facebook khẳng_định không nghe lén người dùng .
+Ảnh minh_họa .
+Về phía mình , Facebook khẳng_định " không sử_dụng micro cho mục_đích tối_ưu_hóa dịch_vụ quảng_cáo , điều_chỉnh các câu_chuyện trên bảng tin ( News_Feed ) .
+Doanh_nghiệp có_thể quảng_cáo dựa trên thói_quen của người dùng và các thông_tin nhân_khẩu_học khác , nhưng không bằng cách thu_thập âm_thanh " .
+Mạng xã_hội lớn nhất thế_giới cho rằng họ truy_cập vào micro trên smartphone của thành_viên một_cách phù_hợp .
+Hầu_hết người dùng Facebook đều cho_phép truy_cập micro bởi nó liên_quan trực_tiếp đến tính_năng quay video .
+Ngoài_ra , Facebook từng đưa ra tính_năng nhận_dạng bài hát hoặc chương_trình truyền_hình bằng cách ghi lại một đoạn âm_thanh .
+Theo CNet , khó có_thể xác_định chính_xác Facebook sử_dụng micro trong trường_hợp nào .
+Song để đảm_bảo mạng xã_hội này không nghe lén ( nếu có ) , người dùng có_thể vô_hiệu_hóa tính_năng này .
+Trên i OS , truy_cập Settings rồi tìm mục Facebook , sau đó chuyển Microphone sang trạng_thái Off .
+Với các thiết_bị Android , tìm mục   " Privacy and Safety " trong Settings và tắt micro của Facebook .

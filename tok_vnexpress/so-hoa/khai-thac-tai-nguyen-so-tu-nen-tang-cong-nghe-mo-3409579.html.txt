@@ -1,0 +1,31 @@
+Khai_thác tài_nguyên số_từ nền_tảng công_nghệ mở
+Hơn 14.000 là số giao_diện lập_trình ( API ) đang được các công_ty công_nghệ mở ra cho cộng_đồng sử_dụng trên phạm_vi toàn_cầu .
+Google , IBM , Twitter , Facebook , Amazon , Dropbox … là những " đại_gia " hào_phóng trong việc chia_sẻ tài_nguyên số .
+Trong đó , Google_Maps được xem là phổ_biến hàng_đầu .
+API này được tích_hợp trên hàng triệu trang_web khắp thế_giới như một chuẩn_mực bản_đồ số thời hiện_đại .
+Điểm thú_vị là nền_tảng của Google_Maps hoàn_toàn miễn_phí cho cộng_đồng nếu phát_triển các ứng_dụng không vì mục_đích kinh_doanh .
+Hay IBM Watson cũng   nổi_tiếng nhờ hệ_thống trí_tuệ_nhân_tạo thông_qua API .
+Công_nghệ của Watson được gọi_là công_nghệ xử_lý ngôn_ngữ_tự_nhiên ( NLP ) , hỗ_trợ lập_trình_viên rất nhiều trong việc truy_cập vào kho thư_viện nghiên_cứu đã được tích_trữ trong nhiều năm .
+Tại_Việt_Nam , xu_hướng mở API để chia_sẻ tài_nguyên cho cộng_đồng cũng đã được các công_ty công_nghệ chú_ý và bắt_đầu có những động_thái tích_cực .
+Năm 2015 , trong khuôn_khổ của một cuộc_thi dành cho giới trẻ , FPT mở miễn_phí một phần API xử_lý ngôn_ngữ_tự_nhiên .
+Đã có hàng chục ứng_dụng được những lập_trình_viên tương_lai phát_triển thành_công dựa trên nền_tảng đó như Hỗ_trợ nấu_ăn , Tìm đường , Dạy bé học nói , Kể chuyện cho bé …
+Tại_Ngày_Công nghệ 2016 diễn ra giữa tháng 5 , FPT tuyên_bố một_số sản_phẩm công_nghệ của họ sẽ mở nền_tảng miễn_phí cho cộng_đồng cùng sử_dụng và phát_triển .
+Dự_kiến , trong năm 2016 , tập_đoàn này sẽ mở các sản_phẩm , dịch_vụ như Ngôn_ngữ giọng nói , Xử_lý ngôn_ngữ_tự_nhiên , Bảo_mật - An_ninh mạng , Xử_lý hình_ảnh , Phân_tích dữ_liệu , Giao_thông , Thương_mại , Hạ_tầng , Thống_kê kinh_doanh …
+Các sản_phẩm , dịch_vụ của FPT sẽ được mở theo dạng API qua một cổng chung của FPT ( API Gateway ) là   openfpt.vn .
+Qua cổng Open FPT , cộng_đồng công_nghệ có_thể khai_thác được một_số nền_tảng công_nghệ , kết_quả nghiên_cứu của FPT , các dịch_vụ phía sau cho các ứng_dụng IoT , dữ_liệu về hành_vi người dùng …
+Trình_duyệt   YoLo tích_hợp CyRadar   là sản_phẩm đầu_tiên được xây_dựng nhờ khai_thác hạ_tầng mở từ Open FPT .
+Trình_duyệt di_động YoLo là sản_phẩm đầu_tiên được xây_dựng thành_công nhờ khai_thác hạ_tầng mở từ Open FPT .
+YoLo tích_hợp nền_tảng bảo_mật của Hệ_thống phát_hiện mối đe_dọa nâng cao CyRadar do FPT phát_triển vào trình_duyệt di_động của mình .
+Trình_duyệt Yolo có_thể đưa ra các phân_tích sâu và cảnh_báo chính_xác nguy_cơ bị tấn_công của người dùng .
+Trước_đây , trình_duyệt Yolo có khả_năng cảnh_báo hơn 30.000 website và các phần_mềm độc_hại , và với việc hợp_tác với CyRadar , số_lượng website sẽ tăng gấp hơn 40 lần .
+Danh_sách phần_mềm , virus , malware và các trang_web độc_hại sẽ được cập_nhật liện tục vào hệ_thống , giúp loại_bỏ tối_đa khả_năng bị tấn_công cho người dùng .
+Việc FPT tuyên_bố mở API nhận được sự ủng_hộ của cộng_đồng công_nghệ .
+Dự_kiến , nhiều ứng_dụng được ra_đời dựa trên những nền_tảng công_nghệ có sẵn của tập_đoàn này .
+Có_thể kể đến công_nghệ Nhận_diện và đọc biển_số xe do FPT nghiên_cứu .
+Ưu_điểm của công_nghệ này là tối_ưu cho người Việt , độ nhận_diện chính_xác cao ( 95% ) .
+Hiện công_nghệ này được ứng_dụng trong Hệ_thống giám_sát , xử_lý bằng hình_ảnh ở tuyến cao_tốc Nội_Bài - Lào_Cai , và đo tải_trọng ở cầu Thuận_Phước , Đà_Nẵng .
+Các chuyên_gia phát_triển có_thể dùng công_nghệ này để tạo các ứng_dụng như kiểm_soát ra_vào ở các tòa nhà , bãi xe tự_động … Hay như Bản_đồ tình_trạng giao_thông theo thời_gian_thực của FPT khi mở ra , lập_trình_viên chỉ mất khoảng 10 phút là có_thể dễ_dàng tích_hợp vào Google_Map SDK…
+Cùng_với FPT , thời_gian tới sẽ có nhiều hơn_nữa doanh_nghiệp công_nghệ Việt mở các nền_tảng để cộng_đồng cùng phát_triển .
+Điều này không_chỉ tạo ra hàng ngàn sản_phẩm công_nghệ có giá_trị , mà_còn tạo ra hệ_sinh_thái công_nghệ vững_mạnh góp_phần giúp Việt_Nam nâng cao vị_thế trên bản_đồ công_nghệ số .
+Xem thêm :
+> Lừa người dùng Facebook chơi game để ăn_cắp mật_khẩu

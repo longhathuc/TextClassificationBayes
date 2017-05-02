@@ -1,0 +1,11 @@
+Người dùng i Phone , iPad tại Việt_Nam có_thể sử_dụng mạng 4G
+Các thuê_bao của Viettel và Vinaphone sử_dụng thiết_bị chạy i OS đã có_thể tận_hưởng mạng 4G tốc_độ cao từ hai nhà mạng này .
+Sau khi ra_mắt i OS 9.3 thì Apple cũng đã mở khoá 4G cho các nhà mạng tại Việt_Nam
+Tại_Việt_Nam , Viettel và Vinaphone đang thử_nghiệm 4G LTE tại trung_tâm TP_HCM và đảo Phú_Quốc .
+Hai nhà mạng cho_biết , sau khi Apple nâng_cấp hệ_điều_hành i OS lên 9.3 , các thiết_bị i OS của họ đều có_thể sử_dụng mạng 4G LTE .
+Tuy_nhiên , mạng di_động tốc_độ cao mới chỉ hỗ_trợ i Phone 5 , iPad 4 và các sản_phẩm ra_đời sau đó .
+Khi lắp sim 4G của Viettel , người dùng kiểm_tra thiết_bị đã được hỗ_trợ 4G LTE chưa bằng cách vào phần Cài_đặt ( Settings ) , chọn Cài_đặt chung ( General ) , tiếp đến là Giới_thiệu ( About ) , tìm mục Nhà_cung_cấp ( Carrier ) .
+Nếu thông_tin nhà_cung_cấp hiện_tại là Viettel 24.1 nghĩa_là đã hỗ_trợ 4G LTE .
+Nếu chưa , cần cập_nhật hệ_điều_hành i OS 9.3 .
+Trước_đây , Apple không hỗ_trợ mạng 4G cho i Phone , iPad tại Việt_Nam .
+Huy_Đức

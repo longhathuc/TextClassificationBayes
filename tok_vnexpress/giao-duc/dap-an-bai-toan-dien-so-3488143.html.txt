@@ -1,0 +1,2 @@
+Đáp_án bài_toán điền số
+Để tìm ra cách giải bài_toán , ta phải chú_ý đến việc mỗi con_số ở 3 đỉnh được tính hai lần .

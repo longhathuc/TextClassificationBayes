@@ -1,0 +1,24 @@
+Apple và FBI sẽ đối_mặt tại phiên điều_trần Quốc_hội ngày 1/3
+Các hãng công_nghệ như Microsoft , Facebook , Google ... cũng đã chuẩn_bị sẵn_sàng các hồ_sơ để ủng_hộ Apple trong cuộc_chiến liên_quan đến mở khóa i Phone .
+Tuần này , Apple đệ đơn đề_nghị tòa_án thay_đổi lệnh trước đó là yêu_cầu Apple hỗ_trợ Cục Điều tra liên_bang Mỹ FBI truy_cập vào chiếc i Phone 5c được sử_dụng trong vụ thảm_sát ở   San_Bernardino ( Mỹ ) cuối năm 2015 .
+Ảnh : BBC .
+FBI và Nhà_Trắng cùng khẳng_định " lời nhờ_vả " chỉ giới_hạn trong một chiếc điện_thoại , sau khi hoàn_thành , Apple có_thể giữ hoặc hủy phần_mềm theo ý_muốn .
+Tuy_nhiên , trong tài_liệu mới nhất , Apple một lần nữa khẳng_định , phần_mềm để thực_hiện yêu_cầu của FBI " đơn_giản là không tồn_tại " .
+Apple chưa viết một phần_mềm như_thế , do_đó họ phải tạo ra một phiên_bản hệ_điều_hành mới mới có_thể tiếp_cận kho dữ_liệu mã_hóa trong i Phone .
+Hành_động này sẽ tạo tiền_lệ xấu cũng_như vi_phạm nghiêm_trọng đến quyền riêng_tư của khách_hàng .
+Apple từng hợp_tác với tòa_án để truy_cập hơn chục chiếc i Pad và i Phone trước_đây , nhưng chưa có lệnh nào của tòa buộc công_ty phải làm yếu bảo_mật sản_phẩm như_vậy .
+CEO Apple_Tim_Cook đã phải chia_sẻ tới hai " tâm_thư " liên_quan đến vụ này .
+Ngày 1/3 , Apple và FBI sẽ điều_trần trước Quốc_hội Mỹ với chủ_đề " Sự căng_thẳng của mã_hóa : Cân_bằng giữa an_ninh và quyền riêng_tư của người Mỹ " .
+Các thành_viên Quốc_hội sẽ nghe trình_bày của cả hai bên .
+Trong khi đó , trang công_nghệ Mashable cho_biết một_số hãng công_nghệ lớn như Facebook , Microsoft , Google , Twitter , Amazon ... đã chuẩn_bị gửi hồ_sơ ủng_hộ Apple lên tòa_án trong tuần tới .
+FBI bắt_đầu tiến_hành điều_tra cuộc xả súng đẫm máu ở San_Bernadino khiến 14 người thiệt_mạng của cặp vợ_chồng Syed_Farook và Tashfeen_Malik đầu tháng 12/2015 .
+Họ tin smartphone của Farook " có_thể chứa thông_tin liên_lạc quan_trọng " xung_quanh thời_điểm diễn ra vụ thảm_sát .
+FBI muốn truy_cập i Phone 5c của Farook nhưng công_nghệ mã_hóa của Apple sẽ xóa toàn_bộ dữ_liệu trong máy sau 10 lần nhập sai mã .
+Thực_tế , FBI và quan_chức quận San_Bernadino đã tìm cách truy_cập vào tài_khoản i Cloud của Farook bằng cách reset mật_khẩu của tên này chỉ vài giờ sau khi chiếc điện_thoại được thu_hồi .
+Apple sau đó đã chỉ_trích rằng nếu FBI không " hấp_tấp " cài_đặt lại mật_khẩu , họ đã có_thể lấy_được vào nội_dung sao lưu mà không cần tạo ra một cổng hậu để phá mã_hóa của i Phone như_thế_này , bởi thực_tế , trước_đây Apple cũng từng được yêu_cầu unlock i Phone , iPad trong 12 vụ_án khác .
+" Chính_phủ nói công_cụ bẻ_khóa chỉ được sử_dụng một lần trên một chiếc điện_thoại .
+Nhưng một_khi được tạo ra , kỹ_thuật đó có_thể áp_dụng nhiều lần trên bất_cứ thiết_bị nào .
+Vụ_việc này không_chỉ đơn_thuần là về một chiếc điện_thoại hay một cuộc điều_tra .
+Khi nhận phán_quyết của tòa_án , ta cần phải lên_tiếng .
+Phán_quyết đó đã tạo ra một tiền_lệ nguy_hiểm chưa từng có , đe_dọa nghiêm_trọng bảo_mật thông_tin của hàng trăm triệu khách_hàng " , Tim_Cook nhấn_mạnh .
+Châu_An

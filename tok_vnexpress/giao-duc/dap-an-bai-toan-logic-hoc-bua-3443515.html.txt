@@ -1,0 +1,32 @@
+Đáp_án bài_toán ' logic hóc_búa '
+Nếu_như tất_cả nhà quản_lý đều nói_dối thì không_thể xác_định ra ai là ai khi số_lượng nhà quản_lý lớn hơn số kỹ_sư tin_học .
+Đề_bài :
+Có n người bị tình_nghi một vụ ăn_cắp tài_khoản ngân_hàng .
+Những người này chỉ là kỹ_sư tin_học hoặc nhà quản_lý .
+Tuy_nhiên , hồ_sơ của họ đều đã bị hủy và không ai biết ai là ai , do_vậy cảnh_sát cần thẩm_vấn từng người .
+Điều_tra ban_đầu cho thấy chắc_chắn hung_thủ là người_quản_lý .
+Biết rằng các kỹ_sư tin_học luôn_luôn nói thật còn các nhà quản_lý thì không chắc như_vậy .
+Và hơn_nữa , n người này đều biết nghề_nghiệp thật_sự của nhau .
+Cảnh_sát cần đặt câu_hỏi để xác_định ai làm nghề gì và câu_hỏi chỉ có_thể ở dạng trả_lời có hoặc không , đúng hoặc sai …
+1 . Nếu_như số kỹ_sư tin_học nhiều hơn số nhà quản_lý ( trong n người ) , phải hỏi ít_nhất bao_nhiêu câu để tìm ra ít_nhất một kỹ_sư tin_học ?
+2 . Nếu số kỹ_sư ít hơn số nhà quản_lý , liệu có_thể tìm ra hung_thủ ?
+Giải :
+Đáp_án câu 1 .
+Với n lẻ , cần n - 2 câu_hỏi và với n chẵn , cần n - 3 câu_hỏi .
+Chúng_tôi gợi_ý một chiến_thuật như sau : chia hàng người thành 3 hàng : hàng nghi_vấn , hàng khả tin , và hàng bị loại .
+Bắt_đầu chọn ngẫu_nhiên 1 người cho vào hàng “ khả tin ” và tất_cả những người còn lại cho vào hàng “ nghi_vấn ” .
+Tiến_hành hỏi như sau : chọn một người X trong hàng “ nghi_vấn ” và một người Y ở đầu_hàng “ khả tin ” và hỏi Y : “ X là nhà quản_lý hay kỹ_sư tin_học ? ” ( hoặc “ X có phải là nhà quản_lý ? ” … ) .
++ Nếu câu trả_lời là “ quản_lý ” , cho cả X lẫn Y vào hàng “ bị loại ” .
++ Nếu câu trả_lời là “ kỹ_sư ” , cho X vào đầu_hàng “ khả tin ” .
++ Nếu hàng “ khả tin ” không còn ai , chọn ngẫu_nhiên một người_ở hàng “ nghi_vấn ” cho vào hàng “ khả tin ” .
+Tiến_hành hỏi như trên cho_đến khi_không còn ai trong hàng “ nghi_vấn ” .
+Người đứng đầu_hàng “ khả tin ” lúc này chắc_chắn là kỹ_sư tin_học .
+Theo cách làm này , sau mỗi câu_hỏi ta thấy rằng có ít_nhất một người sẽ bị chuyển vào hàng “ bị loại ” , do_vậy sau tối_đa n - 1 câu_hỏi , chúng_ta sẽ tìm ra kỹ_sư tin_học .
+Vì_sao điều này đúng : nhận thấy rằng mỗi khi cho một cặp vào hàng “ bị loại ” , ít_nhất một trong 2 phải là nhà quản_lý , do_đó ở mỗi lần hỏi , số_lượng kỹ_sư tin_học ở hai hàng “ khả tin ” và “ nghi_vấn ” luôn lớn hơn số nhà quản_lý , và do_vậy khi hàng “ nghi_vấn ” trống thì người đứng đầu_hàng “ khả tin ” phải là kỹ_sư tin_học .
+Với chiến_thuật này , ta có_thể dừng trước 1 bước : khi hàng “ nghi_vấn ” còn 1 người , nếu hàng “ khả tin ” không có ai , người còn lại này chính là kỹ_sư tin_học , ngược_lại , người đứng đầu_hàng “ khả tin ” là kỹ_sư tin_học .
+Do_vậy , chỉ cần n - 2 câu_hỏi .
+Với n chẵn , ta có_thể loại_bỏ 1 người bất_kỳ và áp_dụng cách làm trên với n - 1 người còn lại với n - 3 câu_hỏi .
+Đáp_án này có_thể chứng_minh là tối_ưu .
+Đáp_án câu 2 .
+Nếu_như tất_cả các nhà quản_lý đều nói_dối thì không_thể xác_định ra ai là ai khi số_lượng nhà quản_lý lớn hơn số kỹ_sư tin_học .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

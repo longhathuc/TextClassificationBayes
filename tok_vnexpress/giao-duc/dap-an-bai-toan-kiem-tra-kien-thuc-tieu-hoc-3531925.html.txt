@@ -1,0 +1,10 @@
+Đáp_án bài_toán kiểm_tra kiến_thức tiểu_học
+Tư_duy một_chút và vận_dụng kiến_thức tìm hai số khi biết tổng và hiệu là bạn có_thể giải bài_toán chuyển_động trong đề thi Olympic của Malaysia này .
+Một hồ nước có chu_vi 500 m .
+Ali và Hassan đi bộ vòng_quanh hồ .
+Họ cùng xuất_phát ở một điểm .
+Nếu_Ali và Hassan đi ngược hướng với nhau thì cứ 5 phút họ gặp nhau một lần .
+Còn nếu đi cùng hướng với nhau thì cứ 50 phút họ mới gặp nhau một lần .
+Biết_Ali đi bộ nhanh hơn Hassan .
+Hỏi vận_tốc của Hassan là bao_nhiêu mét / phút ?
+> > Bài_toán kiểm_tra độ ghi_nhớ kiến_thức tiểu_học

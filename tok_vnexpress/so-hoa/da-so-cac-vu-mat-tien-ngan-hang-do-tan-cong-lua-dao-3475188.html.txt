@@ -1,0 +1,20 @@
+Đa_số các vụ mất tiền ngân_hàng do tấn_công lừa_đảo
+Ông Nguyễn_Hưng , Tổng_giám_đốc TPBank , cho_biết các trường_hợp mất tiền trong tài_khoản ngân_hàng gần đây chủ_yếu do khách_hàng bị lừa_đảo dạng phishing , còn hệ_thống máy_chủ vẫn an_toàn .
+Trong tọa_đàm " An_toàn thông_tin và mối đe_dọa tới nền kinh_tế " do Câu_lạc_bộ Nhà_báo ICT tổ_chức tại Hà_Nội ngày 27/9 , ông Nguyễn_Hưng cho_hay , những sự_cố xảy_ra thời_gian qua ( như vụ mất 500 triệu đồng của khách_hàng Vietcombank ) , hoàn_toàn là vấn_đề lừa_đảo chứ không phải vấn_đề an_ninh bảo_mật máy_chủ .
+Các ngân_hàng đều đầu_tư bảo_mật để đảm_bảo độ an_toàn cao nhất , có hệ_thống sao lưu dự_phòng , quy_trình đối_chiếu ... để bảo_vệ và khôi_phục dữ_liệu của khách_hàng khi cần .
+Ngân_hàng quy_định giới_hạn giao_dịch mỗi lần , mỗi ngày nên hacker cũng khó đánh_cắp được số tiền lớn cùng lúc .
+Ông Nguyễn_Hưng , Tổng_giám_đốc TPBank .
+Trong khi đó , việc lấy cắp thông_tin người dùng , gian_lận , giả_mạo thẻ đã tồn_tại cả chục năm nay nhưng gần đây trở_thành vấn_đề nóng .
+Người sử_dụng có_thể bị mất thông_tin cá_nhân khi truy_cập các trang_web lừa_đảo , thanh_toán online hay khi rút_tiền tại các cây ATM bị kẻ_gian cài đầu_đọc giả , gắn camera quay trộm dải số để in thẻ ATM khác và rút_tiền ...
+Ông Hưng cho rằng người dùng cần nhìn_nhận được các rủi_ro để ý_thức hơn trong việc giữ_gìn thông_tin cá_nhân , hạn_chế mất_mát tài_chính .
+Những biện_pháp đó có_thể là không bấm vào đường link lạ , không chia_sẻ mật_khẩu , mã PIN , không cho mượn thẻ ...
+Ông Tống_Viết_Trung , Phó_tổng giám_đốc Viettel , cũng nhận_định , một hệ_thống an_ninh thông_tin tốt đến đâu nhưng nhận_thức kém từ phía lãnh_đạo và người dùng thì vẫn dễ " dính đòn " .
+" Xây_dựng được một   hệ_thống thực_sự an_toàn không dễ , và không phải xây xong là có_thể ăn ngon ngủ yên .
+Ngoài công_cụ , hệ_thống , trang_bị , còn một vấn_đề quan_trọng là nhận_thức của cả lãnh_đạo và người dùng .
+Chỉ một người vô_thức mở_cửa hậu ( như tải file đính kèm trong e - mail chứa mã độc ) , là tin_tặc thoải_mái chui vào hệ_thống từ xa " , ông Trung nhấn_mạnh và ví chuyện này giống như mua khoá xịn nhưng để quên chìa ngoài thềm thì ổ_khoá ấy cũng vô_nghĩa .
+Đồng quan_điểm , theo ông Triệu_Trần_Đức , Giám_đốc CMC InfoSec , nếu chỉ   đầu_tư công_nghệ thì không_bao_giờ khắc_phục hết sự_cố .
+" Công_nghệ có bảo_vệ kiểu gì cũng không_thể hơn được hacker mũ đen , những người luôn đi trước đội_ngũ quản_trị mạng .
+Tin_tặc biết nhiều thứ mà chúng_ta không biết .
+Tình_trạng an_toàn thông_tin ở Việt_Nam rất tệ , nhận_thức của ta rất kém , phần_lớn hệ_thống đều có_thể bị đột_nhập .
+Nhiều công_ty   Việt_Nam mất bò rồi vẫn không làm chuồng " , ông Đức chia_sẻ .
+Ông Ngô_Tuấn_Anh , Phó_chủ_tịch Bkav , cho_biết họ vừa khảo_sát sơ_bộ hơn 2.000 website ( cả website chính_thức và website nhánh ) có tên_miền . gov.vn thì phát_hiện hơn 10% có khả_năng bị tấn_công xâm_nhập .

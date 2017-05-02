@@ -1,0 +1,14 @@
+Trí_tuệ_nhân_tạo hỗ_trợ phát_hiện ung_thư vú
+Bằng phương_pháp deep learning , trí_tuệ_nhân_tạo ( AI ) đã có khả_năng phát_hiện ung_thư vú gần tốt như con_người .
+Trong tương_lai không xa , máy_tính sẽ giúp các bác sỹ chẩn_đoán bệnh nhanh hơn , chính_xác hơn so với ngày_nay .
+Các nhà_nghiên_cứu thuộc Trung_tâm Y_tế   Beth_Israel_Deaconess ( BIDMC ) và Trường Y_khoa Harvard ( HMS ) đã phát_triển một phương_pháp nhằm đào_tạo AI đọc và giải_thích hình_ảnh bệnh_lý .
+AI hứa_hẹn giúp nâng cao_độ chính_xác trong chẩn_đoán bệnh .
+Ảnh minh_họa : Engadget .
+BIDMC cho_biết , cách_thức mà họ sử_dụng là deep learning , phương_pháp thường dùng để đào_tạo AI phát_hiện giọng nói , hình_ảnh và các đối_tượng .
+Để chứng_minh tính hiệu_quả , các nhà_nghiên_cứu đã trình_diễn kết_quả đạt được tại Hội_nghị quốc_tế thường_niên về y_sinh học .
+Ở đó , AI được giao nhiệm_vụ phát_hiện ung_thư vú dựa trên hình_ảnh chiếu chụp .
+Các nhà_khoa_học chia_sẻ , AI bắt_đầu được dạy bằng cách xem hàng trăm slide có đánh_dấu vùng chứa các tế_bào ung_thư , so_sánh với tế_bào của những người bình_thường .
+Sau đó , nhóm xác_định những slide mà trí_tuệ_nhân_tạo gặp khó_khăn nhất rồi cho AI học với những mẫu khó hơn .
+Nhờ phương_pháp này , trí_tuệ_nhân_tạo ngày_càng thông_minh và có_thể phát_hiện chính_xác 92% và giành chiến_thắng ở hai hạng_mục của cuộc_thi .
+Kết_quả trên vẫn chưa bằng khả_năng của con_người với độ_chính_xác 96% , nhưng sẽ là bước_đi đầy hứa_hẹn .
+Nhóm nghiên_cứu   BIDMC nói thêm , máy_móc ngày_càng thông_minh hơn và khi kết_hợp cùng con_người sẽ cho kết_quả chẩn_đoán chính_xác hơn , từ đó có hướng đi đúng_đắn cho các phương_pháp điều_trị bệnh .

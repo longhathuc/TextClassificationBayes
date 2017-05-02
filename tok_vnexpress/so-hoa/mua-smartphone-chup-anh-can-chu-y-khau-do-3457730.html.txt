@@ -1,0 +1,34 @@
+Mua smartphone chụp ảnh cần chú_ý khẩu_độ
+Ngoài số_lượng điểm_ảnh megapixel , camera trên điện_thoại có khẩu_độ càng lớn sẽ hỗ_trợ tốt cho việc chụp ảnh .
+Hiện_nay , chỉ có các dòng smartphone cao_cấp mới có khẩu_độ lớn ( f / 1.9 , f / 1.8 , f / 1.7 ) , còn smartphone tầm trung hay phổ_thông đều có khẩu_độ nhỏ ( f / 2.2 , f / 2.0 ) .
+Trong khi đó , chỉ_số megapixel lại không có sự khác_biệt quá lớn giữa dòng điện_thoại cao_cấp và tầm trung .
+Về cơ_bản , megapixel chính là số điểm_ảnh có trong một bức ảnh .
+Còn khẩu_độ chính là độ mở ( to hay nhỏ ) của màn trập để ánh_sáng đi vào ( nhiều hay ít ) .
+Chẳng_hạn , với 2 smartphone có cùng chỉ_số megapixel thì loại nào có khẩu_độ lớn hơn ( tức_là chỉ_số f nhỏ hơn , như f / 1.9 lớn hơn so với f / 2.0 hoặc f / 2.2 ) thì sẽ chụp được hình sáng hơn , nhất_là khi chụp trong nhà , chụp lúc trời tối .
+Khẩu_độ lớn cũng giúp hình chụp không bị nhòe , nhiễu vì ánh_sáng vào nhiều sẽ giúp ống_kính hoạt_động nhanh hơn , giảm thời_gian phơi sáng , do_đó hạn_chế các yếu_tố nhiễu .
+Đa_số người dùng smartphone hiện_nay chụp ảnh để chia_sẻ lên mạng xã_hội hoặc chiếu trên màn_hình TV độ nét full HD , 4K nên chỉ_số megapixel không còn nhiều ý_nghĩa .
+Bởi_vì ngay cả smartphone , tablet hay TV với màn_hình full HD 1080p thì độ_phân_giải hình_ảnh lớn nhất mà nó hỗ_trợ chỉ là 2 megapixel .
+Với các màn_hình chưa hỗ_trợ full HD ( chỉ 720p ) thì chỉ cần 1,3 mrgapixel là đủ .
+Ngay cả màn_hình smartphone , TV hỗ_trợ 4K thì ảnh độ_phân_giải 8 megapixel là vừa tầm .
+Hình_ảnh có độ_phân_giải 4,7 megapixel bên trên không khác_gì nhiều so với hình_ảnh có độ_phân_giải 13 megapixel bên dưới .
+Không_chỉ vậy , số megapixel lớn còn khiến cho bộ_nhớ ( thẻ nhớ ) của điện_thoại mau đầy , pin mau hết .
+Vì megapixel lớn sẽ dẫn đến dung_lượng file hình lớn ( khoảng 5MB một hình ) , gấp đôi dung_lượng mỗi file hình có megapixel cần_thiết .
+Điều này gây tốn gấp đôi thời_gian lưu xuống bộ_nhớ , dẫn đến pin nhanh hết .
+Số megapixel lớn chỉ thực_sự hữu_ích khi người dùng cần in ảnh hay cắt ảnh .
+Với 2 smartphone có cùng chỉ_số megapixel cũng_như các chỉ_số phụ khác , chiếc nào có khẩu_độ càng lớn sẽ cho bức ảnh sáng và sắc nét hơn .
+Lý_do là camera có khẩu_độ lớn sẽ mở_màn trập lớn để cho nhiều ánh_sáng đi vào nên hình_ảnh chụp được sẽ sáng và sắc nét .
+Điều này cũng tương_tự như mắt người càng mở to thì càng thấy rõ cảnh_vật thay_vì mờ_ảo lúc mở_mắt he hé .
+Việc dùng công_cụ đẩy khẩu_độ lên cao so với thực_tế cũng không đơn_giản như cách làm với megapixel .
+Phải mất một khoảng thời_gian để máy_ảnh xử_lý làm sáng các điểm_ảnh bằng thuật_toán , điều này sẽ ngốn pin và làm nóng máy .
+Chính vì_vậy các hãng công_nghệ như Samsung chỉ đưa khẩu_độ lớn vào những smartphone cao_cấp như Galaxy S7 , Galaxy S7 edge hay mới nhất_là Galaxy_Note 7 .
+Còn tất_cả các loại smartphone tầm trung mới chỉ trang_bị khẩu_độ f / 2.2
+hoặc f / 2.0 .
+Khẩu_độ f / 1.9
+giúp những bức hình chụp trong nhà của Galaxy J ( 2016 ) sáng và sắc nét .
+Chọn mua smartphone có chỉ_số megapixel không quá lớn nhưng sở_hữu khẩu_độ lớn sẽ cho chất_lượng hình_sắc nét , bộ_nhớ lâu đầy và lâu hết pin .
+Với lợi_thế công_nghệ , Samsung trang_bị ống_kính khẩu_độ cao cho các phiên_bản cao_cấp .
+Không_chỉ thế , hãng còn đưa khẩu_độ f / 1.9
+vào cả camera trước và sau ở dòng tầm trung như Galaxy J ( 2016 ) , giúp tăng lượng ánh_sáng đi vào ống_kính máy_ảnh lên đến 34% .
+Đồng_thời việc tích_hợp đèn LED tăng_cường ánh_sáng cho_phép người dùng sở_hữu những bức hình đẹp trong điều_kiện thiếu sáng không kém những mẫu " dế " đắt tiền .
+Dự_kiến trong tháng 9 tới Samsung sẽ đưa về Việt_Nam mẫu Galaxy J7 Prime , sẽ có khẩu_độ f / 1.9 cho cả 2 camera trước và sau .
+Minh_Trí

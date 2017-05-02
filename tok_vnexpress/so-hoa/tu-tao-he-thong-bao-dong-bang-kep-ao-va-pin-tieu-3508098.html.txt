@@ -1,0 +1,6 @@
+Tự_tạo hệ_thống báo_động bằng kẹp áo và pin tiểu
+Chỉ mất vài chục nghìn đồng , người dùng đã có_thể tự chế được hệ_thống cảnh_báo đơn_giản , hạn_chế rủi_ro nếu có người lạ đột_nhập .
+Với hai cục pin tiểu , kẹp áo cũ , dây_điện và một chiếc loa nhỏ , người dùng đã có_thể làm được thiết_bị báo_động .
+Nguyên_tắc sử_dụng khá đơn_giản , khi cửa_mở , mạch được đóng và loa phát ra âm_thanh .
+Tuy_nhiên , do hạn_chế trong việc lắp_đặt , cơ_chế này thường phù_hợp sử_dụng vào buổi đêm khi gia_chủ ngủ trong nhà hoặc cho các hệ_thống cửa phụ như cửa ban_công hoặc cửa tum .
+Để tăng hiệu_quả sử_dụng , người dùng có_thể chọn các loại loa có âm_thanh lớn , kèm loại pin có nguồn điện lớn hơn .

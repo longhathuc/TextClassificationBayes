@@ -1,0 +1,20 @@
+Telegram - đối_thủ của Facebook
+Tính_năng của Telegram , về cơ_bản , giống như những ứng_dụng nhắn_tin truyền_thống khác , nhưng có_thể tạo được một cuộc trò_chuyện với 200 người hay có nhóm chat bí_mật , nơi tin nhắn có_thể tự hủy sau khi kết_thúc .
+Telegram , ứng_dụng nhắn_tin được thành_lập tháng 8/2013 , được coi là đối_thủ nặng_ký của Facebook_Messenger .
+Giữa bối_cảnh những tranh_cãi liên_quan đến công_nghệ mã_hóa và bảo_mật thông_tin người dùng đang đến hồi gay_cấn , Telegram xuất_hiện và tự cho rằng mình nhanh và an_toàn hơn các dịch_vụ nhắn_tin khác vì sở_hữu 2 lớp mã_hóa .
+Người sáng_lập ra Telegram là Pavel_Durov , 31 tuổi , người Nga .
+Ông từng được coi là   “ Mark_Zuckerberg của nước Nga ” vào năm 2006 khi sáng_lập ra   mạng xã_hội Vkontakte ( viết tắt là VK ) , ứng_dụng được coi như sự thay_thế Facebook tại Nga .
+Năm 2014 , ông còn được đưa vào danh_sách   những người lãnh_đạo dưới 30 tuổi có triển_vọng nhất khu_vực bắc Âu .
+Tính_năng của Telegram , về cơ_bản , giống như những ứng_dụng nhắn_tin truyền_thống khác , đó là gửi , nhận tin nhắn , gửi ảnh , video , nhãn dán và file với độ lớn lên đến 1,5 GB .   Ứng_dụng này hỗ_trợ cả nền_tảng di_động ( iOS , Android , Windows_Phone ) và nền_tảng laptop ( Windows , OS X , Linux ) .   Trong một phỏng_vấn với trang công_nghệ   TechCrunch   hồi tháng 9 năm_ngoái , Pavel chia_sẻ , “ nếu các ứng_dụng nhắn_tin đều như nhau , thì việc có bao_nhiêu ứng_dụng thế_này ngoài thị_trường cũng chẳng quan_trọng ” .
+Do_vậy , Telegram phải có điểm khác_biệt .
+Pavel đã tạo ra một kênh tin nhắn mà   có_thể tạo các cuộc trò_chuyện nhóm với tối_đa 200 thành_viên , hay chọn tham_gia vào những “ sự_kiện chat bí_mật ” nơi mà tin nhắn sẽ tự hủy như dịch_vụ Snapchat .
+Đó cũng chính là lý_do Telegram gần đây bị lên_án bởi hỗ_trợ cho IS trong các cuộc tấn_công của chúng mặc_dù ứng_dụng này sau đó đã công_bố đã chặn được   78 kênh liên_quan đến IS .
+Tuy_nhiên , người đứng đầu Telegram tin rằng việc chặn các kênh thông_tin liên_quan đến IS chỉ là tạm_thời bởi " chúng luôn tự tìm cho mình những cách_thức nói_chuyện an_toàn " .
+Theo quan_điểm của ông , việc Telegram cung_cấp các   cuộc nói_chuyện riêng_tư sẽ đem đến cái " được " nhiều hơn là " mất " .
+Gần đây , Telegram cũng đang gặp những vấn_đề lớn tại Trung_Đông , trong bối_cảnh các chính_phủ của khu_vực này bày_tỏ thái_độ thận_trọng hơn với ứng_dụng sau loạt vụ tấn_công khủng_bố tại Paris hồi cuối năm_ngoái .
+Nhiều cơ_quan lập_pháp tại đây khẳng_định Telegram là lựa_chọn truyền_thông của các tổ_chức khủng_bố , và là nơi tồn_tại của những thông_tin đề_cao thái_quá quyền tự_do ngôn_luận .
+Hoạt_động của Telegram cũng đã bị dừng một phần tại Arab_Saudi tuần trước , còn chính_phủ Iran vẫn kiên_trì với quan_điểm rằng những thông_tin “ trái với đạo_đức ” trên Telegram cần được loại_bỏ .
+Hiện_nay Telegram hỗ_trợ tổng_cộng 8 ngôn_ngữ , bao_gồm tiếng Anh , Ả - rập , Tây_Ban_Nha , Đức , Italia , Hà_Lan , Bồ_Đào_Nha và Hàn_Quốc .
+Tính đến tháng 9/2015 , ứng_dụng này đã đạt mốc 60 triệu người dùng thường_xuyên và tạo ra 12 tỷ tin nhắn mỗi ngày , tăng lên từ mức 1 tỷ , chỉ 9 tháng trước .
+Nhưng   “ tạo ra lợi_nhuận không_bao_giờ là mục_đích của Telegram ” , Pavel nói .
+Nguyễn_Mai_Đức

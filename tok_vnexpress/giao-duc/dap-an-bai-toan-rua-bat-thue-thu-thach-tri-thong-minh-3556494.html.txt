@@ -1,0 +1,19 @@
+Đáp_án bài_toán ' rửa bát thuê ' thử_thách trí thông_minh
+Bài_toán " rửa bát thuê " cho học_sinh lớp 5-6 không khó cả về tính_toán và suy_luận .
+Tuy_nhiên , bạn có_thể nhầm_lẫn nếu bỏ_qua bất_kỳ dữ_liệu nào .
+Đề_bài :
+Dick nhận rửa bát thuê cho một nhà_hàng .
+Mỗi chiếc bát được rửa sạch , chủ nhà_hàng sẽ trả 3 USD .
+Nhưng nếu Dick làm vỡ , ông chủ sẽ không trả tiền và bắt_đền 9 USD .
+Hết kì nghỉ , Dick đã rửa 500 cái bát và nhận lương 1.368 USD .
+Hỏi_Dick đã làm vỡ bao_nhiêu cái bát ?
+Số tiền Dick sẽ nhận được nếu_không làm vỡ cái bát nào_là 500 x 3 = 1.500 USD .
+Khi_Dick làm vỡ một cái bát , Dick sẽ không được trả lương và phải mất thêm 9 USD .
+Như_vậy , mỗi chiếc bát vỡ , Dick mất 12 USD .
+Thực_tế , Dick chỉ nhận được 1.368 USD .
+Suy ra , số tiền Dick đã bị mất là   1.500 - 1.368 = 132 USD .
+Mỗi chiếc bát vỡ Dick mất 12 USD .
+Suy ra , số bát Dick đã làm vỡ là
+132/12 = 11 chiếc .
+> > Xem đáp_án gốc
+Thanh_Tâm

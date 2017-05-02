@@ -1,0 +1,13 @@
+Apple hứa trao thưởng 200.000 USD cho người hack được i OS và i Cloud
+Công_ty công_nghệ Mỹ đã trao thưởng khoản tiền 200.000 USD , tương_đương 4,5 tỷ đồng cho người tìm ra lỗi trên hệ_điều_hành i OS và dịch_vụ i Cloud .
+Từ nhiều năm qua , các " ông lớn " làng công_nghệ như Google , Microsoft hay Facebook đã chi nhiều tiền để thu_hút chuyên_gia tìm lỗ_hổng trong hệ_thống của mình .
+Tuy_nhiên , mùa thu này là lần đầu_tiên Apple thực_hiện chính_sách tương_tự .
+Lần đầu_tiên Apple sẽ trả tiền cho người tìm ra lỗ_hổng trên các sản_phẩm của mình .
+Người đứng đầu bộ_phận an_ninh của Apple , Ivan_Krstic , cho_biết công_ty sẽ trả thưởng tới 200.000 USD ( tương_đương khoảng 4,5 tỷ đồng ) cho ai tìm ra lỗ_hổng trong phần_mềm của hãng .
+Tuyên_bố này được đưa ra tại Hội_nghị an_ninh mạng Black_Hat ở Las_Vegas ( Mỹ ) .
+Các nhà_nghiên_cứu muốn nhận được tiền thưởng phải gửi báo_cáo đến Apple và chứng_minh lỗi này tồn_tại trên hệ_điều_hành i OS phiên_bản chính_thức mới nhất .
+Nếu liên_quan đến phần_cứng , nó cũng phải xuất_hiện trên i Phone hay i Pad đời_mới .
+Ngoài_ra , người phát_hiện không được tiết_lộ thông_tin cho_đến khi Apple khắc_phục .
+500.000 USD là tổng_số tiền mà Google đã trả cho những người phát_hiện lỗ_hổng trên Android trong năm vừa_qua .
+Còn từ năm 2011 , Facebook đã chi 4,3 triệu USD cho hơn 800 nhà_phát_triển trên toàn thế_giới để tìm lỗi .
+Theo   Arstechnica , khoản tiền Apple đưa ra không phải con_số quá cao , nhưng đây sẽ là bước khởi_đầu tốt .

@@ -1,0 +1,18 @@
+Tăng tốc_độ Wi-Fi trong nhà đơn_giản với smartphone
+Ứng_dụng Wi-Fi SweetSpots cho_phép kiểm_tra tốc_độ mạng Wi-Fi tức_thời , từ đó giúp người dùng tìm được vị_trí đặt router để cho chất_lượng tốt nhất .
+Vị_trí đặt router là một trong những yếu_tố quan_trọng ảnh_hưởng đến tín_hiệu Wi-Fi cũng_như tốc_độ truy_cập mạng Internet .   Sóng
+Wi-Fi sẽ trở_nên yếu hơn khi gặp nhiều vật cản , các bức tường dày , thậm_chí khi bị " va_đập " qua vật cản có_thể dẫn đến triệt_tiêu tín_hiệu .
+Giao_diện phần_mềm Wi-Fi SweetSpots với các thông_số khi tiến_hành đo_đạc .
+Để tìm được nơi đặt router phù_hợp , người dùng có tải ứng_dụng Wi-Fi SweetSpots , miễn_phí trên i OS và Android , để kiểm_tra mật_độ phủ_sóng cũng_như cường_độ tín_hiệu trong gia_đình , văn_phòng .
+Sau khi cài_đặt phần_mềm , bạn kết_nối smartphone vào mạng Wi-Fi cần kiểm_tra , đồng_thời tắt mọi thiết_bị khác cùng truy_cập vào Wi-Fi đó để đảm_bảo độ_chính_xác .
+Giao_diện Wi-Fi SweetSpots đơn_giản , bao_gồm khu_vực hiển_thị tốc_độ mạng theo thời_gian_thực dưới dạng đồ_thị , nút bấm Start để bắt_đầu đo , phím Record để lấy kết_quả tại thời_điểm bấm .
+Phần_mềm còn có tính_năng báo chất_lượng Wi-Fi bằng âm_thanh , tốc_độ nhanh sẽ là những tiếng tít , tít liên_tục , tốc_độ chậm thì tiếng phát ra rời_rạc hơn .
+Người dùng sẽ bấm Start rồi di_chuyển chậm xung_quanh nhà để tiến_hành đo_đạc , tìm ra vị_trí cho tốc_độ tốt , nơi nào có tốc_độ thấp , đánh_dấu vị_trí bằng nút Record .
+Bạn cũng có_thể đặt tên cho các địa_điểm để dễ nhớ và tiện xem_lại khi cần .
+Sau khi có kết_quả , người dùng tiến_hành thay_đổi vị_trí router để cải_thiện tốc_độ mạng tại những khu_vực sóng kém , đo lại để kiểm_chứng .
+Theo hướng_dẫn từ các chuyên_gia , sóng Wi-Fi sẽ tốt hơn khi được đặt ở vị_trí thông_thoáng hoặc trên một chiếc kệ cao .
+Tránh để router ở góc phòng , sẽ dễ gây ra hiện_tượng triệt_tiêu sóng và giảm tín_hiệu .
+Hơn hết , không để gần các thiết_bị điện_tử khác trong nhà … đảm_bảo cho tín_hiệu Wi-Fi ổn_định .
+Video đo tốc_độ mạng với Wi-Fi SweetSpots :
+Xem thêm :
+>   Cải_thiện tín_hiệu Wi-Fi trong gia_đình >   Những cách đơn_giản để tăng độ phủ_sóng Wi-Fi

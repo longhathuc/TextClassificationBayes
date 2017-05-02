@@ -1,0 +1,34 @@
+Túi khí trên ôtô hoạt_động thế_nào ?
+Không phải túi khí nào cũng bung khi ôtô xảy_ra va_chạm mà trong mỗi trường_hợp nhất_định , loại phù_hợp mới được kích_hoạt .
+Túi khí trên ôtô được sinh_ra để giảm_thiểu và hạn_chế những chấn_thương nghiêm_trọng khi có va_chạm xảy_ra .
+Dư_luận vẫn chưa hết bàng_hoàng bởi sự_cố túi khí Takata trên toàn_cầu nhưng đây vẫn luôn là một hệ_thống an_toàn cơ_bản và cần_thiết trên mỗi xe ôtô .
+Trong ngành công_nghiệp ôtô , túi khí lần đầu_tiên được áp_dụng vào năm 1941 .
+Phát_minh của kỹ_sư người Đức tên Walter_Linderer và được cấp bằng_sáng_chế vào cuối năm 1953 .
+Tuy_nhiên , do thời_gian bơm không đủ nhanh để đảm_bảo an_toàn nên thiết_bị của Linderer không còn hữu_ích .
+Ba_tháng sau đó , phát_minh tương_tự của John W .
+Hetrick , kỹ_sư kiêm lính hải_quân Mỹ , được chấp_nhận tại quốc_gia này .
+Chất_liệu tạo nên túi khí cho xe_hơi là loại vải co_giãn hoặc một vật_liệu đảm_bảo được khả_năng thu gọn lại trong các vị_trí cần_thiết trên xe và dễ_dàng bung ra khi cần_thiết .
+Trong tình_huống xảy_ra va_chạm , túi khí được bơm phồng gần_như ngay_lập_tức với thời_gian chỉ tính bằng mili giây , bảo_vệ các bộ_phận quan_trọng trên cơ_thể người trên xe .
+Để có phản_ứng nhanh_nhạy và chính_xác của hệ_thống bơm , một hệ_thống cảm_biến được sử_dụng để nhận_biết những yếu_tố cần_thiết để bung thiết_bị .
+Do sau khi xảy_ra va_chạm , các bộ_phận trong xe sẽ biến_dạng và di_chuyển , va_đập lẫn nhau nên các cảm_biến này đều được lập_trình cẩn_thận để ghi_nhận lực một_cách chính_xác .
+Ký_hiệu SRS tại những vị_trí đặt túi khí trên xe dường_như đã trở_nên quen_thuộc nhưng không phải ai cũng hiểu ý_nghĩa .
+Đây là tên của loại thiết_bị giảm va_đập bổ_sung , trang_bị kết_hợp với dây an_toàn để giảm_thiểu tối_đa chấn_thương cơ_thể .
+Sau khi va_chạm xảy_ra , dây an_toàn giúp hãm dần vận_tốc theo quán_tính của người ngồi trong xe và do_đó giảm lực tác_động lên người họ .
+Túi khí SRS đồng_thời giúp hạn_chế khả_năng va_đập của vùng đầu với các vật_thể khác trong xe và hấp_thụ một phần lực ảnh_hưởng tới người lái và hành_khách .
+Hệ_thống này trải qua 3 giai_đoạn chính kể từ khi xe gặp va_chạm cho_đến khi túi khí bung .   Đầu_tiên , hệ_thống điều_khiển chính ( ACU ) điều_khiển các cảm_biến va_chạm , gia_tốc , tốc_độ và áp_lực phanh , ... để nhận_biết mức_độ ảnh_hưởng .
+Khi con_số này vượt quá giá_trị quy_định thì ngòi_nổ trong bộ thổi mới đánh lửa .
+Tiếp_theo , ngòi_nổ sản_sinh dòng_điện có cường_độ từ 1A đến 3A trong vòng dưới 2 mili giây để đốt chất mồi lửa và hạt tạo khí để tạo ra lượng khí lớn trong thời_gian ngắn .
+Cuối_cùng , túi khí được bơm căng để giảm tác_động lực người ngồi trên xe và ngay_lập_tức khí đó thoát ra ở các lỗ xả phía sau .
+Không phải túi khí nào cũng sẽ bung khi ôtô xảy_ra va_chạm mà trong mỗi trường_hợp nhất_định , loại phù_hợp mới được kích_hoạt .
+Với mỗi loại túi khí bố_trí ở các vị_trí khác_nhau lại có một quy_chuẩn hoạt_động riêng để đảm_bảo cho người trên xe luôn ở trong điều_kiện an_toàn nhất .
+Hệ_thống túi khí SRS phía trước được thiết_kế để kích_hoạt ngay nhằm đáp_ứng với những va_đập nghiêm_trọng phía trước .   Thiết_bị sẽ nổ nếu mức_độ va_đập phía trước vượt quá giới_hạn thiết_kế , tương_đương với vận_tốc va_đập khoảng 20 – 25 km / h khi va_đập trực_diện vào vật_thể cố_định không biến_dạng .
+Nếu mức_độ va_đập thấp hơn giới_hạn , túi khí phía trước có_thể không nổ .
+Tuy_nhiên , ngưỡng này sẽ cao hơn đáng_kể nếu xe đâm vào vật_thể có_thể dịch_chuyển như xe đang đỗ , cột mốc hoặc biến_dạng khi va_đập vào những vật_thể nằm dưới mũi xe và sàn xe hoặc khi đâm vào gầm xe_tải .
+Những thiết_bị này ( chỉ ở phía trước ) được thiết_kế để hoạt_động khi xe bị đâm mạnh từ bên sườn .
+Khi xe bị va_đập chéo hoặc trực_diện ở sườn xe nhưng không ở khu_vực khoang hành_khách , các thiết_bị này có_thể không nổ .
+Những túi khí này bung khi phần khoang xe bị đâm từ bên sườn hoặc tai sau của xe .
+Khi xe va_đập trực_diện hoặc chéo vào thành bên nhưng không thuộc khu_vực khoang hành_khách , thì các thiết_bị này có_thể không nổ .
+Không_bao_giờ lắp hệ_thống giảm va_đập cho trẻ nhỏ quay về phía sau ghế vì lực bung nhanh của túi khí có_thể khiến trẻ bị_thương hoặc tử_vong .
+Phải bố_trí hệ_thống giảm va_đập cho trẻ nhỏ hướng ra phía trước trên ghế hành_khách trước .
+Luôn dịch sát ghế ra phía sau vì lực bung ra của túi khí có_thể làm trẻ bị_thương nặng hoặc có_thể tử_vong .
+Trần_Đức

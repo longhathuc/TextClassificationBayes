@@ -1,0 +1,23 @@
+Tính_năng Continuum tiện_ích trên smartphone
+Continuum biến điện_thoại thành chiếc máy_tính khi kết_nối với màn_hình lớn , giúp công_việc được giải_quyết linh_động và hiệu_quả .
+Ra_mắt cách đây không lâu , bộ đôi điện_thoại cao_cấp Lumia 950 và Lumia 950 XL là hai chiếc điện_thoại đầu_tiên chạy hệ_điều_hành Windows 10 .
+Ngoài hệ_điều_hành , cấu_hình mạnh_mẽ , chụp hình_sắc nét , bộ đôi này còn có tính_năng Continuum biến điện_thoại thành máy_tính rất hữu_ích .
+Continuum là một tính_năng cho_phép smartphone chạy hệ_điều_hành Windows 10 có_thể chuyển_đổi thành những chiếc PC hoàn_chỉnh , bằng cách nối điện_thoại với một màn_hình lớn hơn và cung_cấp cho người dùng một trải_nghiệm tương_đồng với sử_dụng máy_tính .
+Để sử_dụng được tính_năng này , người dùng cần có phụ_kiện là chiếc Microsoft_Display_Dock .
+Thiết_bị này bao_gồm một cổng HDMI , DisplayPort , ba cổng USB 3.0 và cổng USB Type - C .
+Sau khi gắn Display_Dock , điện_thoại sẽ tự_động phát_hiện và kích_hoạt tính_năng Continuum .
+Lumia 950 được nối với màn_hình , chuột và bàn_phím qua Display_Dock và có_thể hoạt_động như một chiếc máy_tính .
+Về cơ_bản , Continuum cho_phép điện_thoại kết_nối với màn_hình ngoài và chạy các tính_năng của điện_thoại với đồ phân_giải của màn_hình lớn hơn .
+Vì_thế , dù không có một chiếc CPU , người dùng vẫn có cảm_giác tương_tự như khi đang sử_dụng máy_tính .
+Khi tính_năng này được kích_hoạt , trên màn_hình lớn sẽ hiện lên giao_diện quen_thuộc của Windows 10 cho máy_tính .
+Điểm khác_biệt là khi bấm vào Start_Menu , màn_hình khởi_động của điện_thoại sẽ hiện ra thay_vì menu quen_thuộc của phiên_bản trên máy_tính .
+Người dùng có_thể sử_dụng các ứng_dụng trên màn_hình lớn và thực_hiện các tác_vụ với trải_nghiệm giống như trên Windows 10 PC , vì các ứng_dụng này là Universal .
+Universal là một loại ứng_dụng được Microsoft giới_thiệu nhằm mang lại sự thống_nhất về trải_nghiệm trên các loại thiết_bị khác_nhau từ điện_thoại , máy_tính bảng đến máy_tính_để_bàn và TV .
+Giờ_đây , với tính_năng Continuum , bạn có_thể đi công_tác mà không cần mang theo laptop cồng_kềnh .
+Chỉ cần chiếc smartphone , dock chuyển_đổi nhỏ bằng bao diêm ( có_thể mang thêm chuột và bàn_phím nếu bạn muốn ) , khi cần , bạn chỉ việc cắm vào một màn_hình là có_thể kiểm_tra email , sử_dụng bộ Office để soạn_thảo và sửa_đổi các văn_bản , bảng tính và bản thuyết_trình …
+Không_chỉ biến điện_thoại thành máy_tính với trải_nghiệm quen_thuộc , trên thực_tế Continuum còn làm được nhiều hơn thế .
+Trong lúc đang thao_tác trên màn_hình lớn , bạn vẫn có_thể nhận các cuộc_gọi , tin nhắn đến , chơi game , xem TV… trên điện_thoại mà không gặp bất_kỳ gián_đoạn nào .
+Ví_dụ , bạn có_thể vào menu Start trên màn_hình lớn và lựa_chọn biểu_tượng ứng_dụng Mail .
+Cùng lúc đó bạn có_thể ấn vào biểu_tượng Mail trên điện_thoại và thao_tác hoàn_toàn độc_lập với nhau .
+Hiện tính_năng này được tích_hợp sẵn trên hai chiếc smartphone cao_cấp của Microsoft - bộ đôi Lumia 950 và Lumia 950 XL .
+Mai_Thương

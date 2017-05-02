@@ -1,0 +1,13 @@
+Đáp_án bài_toán gọi điện_thoại của học_sinh lớp 5
+Nhiều bạn_đọc tìm ra đáp_án , Lily phải gọi tối_đa 7 lần đến khi đúng số .
+Đề_bài :
+Số điện_thoại của Lily có 8 chữ_số và chia_hết_cho cả 3 và 5 .
+Micky chỉ nhớ được 6 chữ_số đầu_tiên theo thứ_tự gồm 8 , 9 , 2 , 0 , 1 và 5 .
+Hỏi_Micky phải gọi tối_đa bao_nhiêu lần cho_đến khi gọi đúng số ?
+Lời_giải :
+Gọi số điện_thoại của Lily là 892015ab .
+Do số này chia_hết_cho 5 , nên b là 5 hoặc 0 .
+Nếu b = 0 , thì do 892015a0 chia_hết_cho 3 , nên 8 + 9 + 2 + 0 + 1 + 5 + a + 0 = 25 + a chia_hết_cho 3 , suy ra a là 2 , 5 hoặc 8 .
+Nếu b = 5 , thì do 892015a5 chia_hết_cho 3 , nên 8 + 9 + 2 + 0 + 1 + 5 + a + 5 = 30 + a chia_hết_cho 3 , suy ra a là 0 , 3 , 6 hoặc 9 .
+Vậy để gọi được đúng số của Lily thì Micky phải gọi tối_đa 7 lần .
+Trần_Phương

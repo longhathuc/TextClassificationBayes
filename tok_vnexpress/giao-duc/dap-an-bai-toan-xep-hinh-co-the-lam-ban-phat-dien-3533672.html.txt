@@ -1,0 +1,11 @@
+Đáp_án bài_toán xếp hình có_thể làm_bạn ' phát điên '
+Bạn có bất_ngờ và muốn cầm ngay nắm que gỗ để bẻ gãy chúng khi đọc đáp_án của bài_toán xếp hình trong đề thi quốc_tế này ?
+Có 50 que gỗ với chiều dài lần_lượt tăng dần là 1 cm , 2 cm , 3 cm , 4 cm , 5 cm , 6cm ... , 49 cm , 50 cm .
+Không được cắt que gỗ , không được bỏ que nào , bạn có_thể xếp được bao_nhiêu hình_vuông và bao_nhiêu hình_chữ_nhật được tạo thành từ 50 que gỗ đã cho ?
+Ta có tổng chiều dài của 50 que gỗ là 1 + 2 + 3 + ... + 49 + 50 = ( 1 +50 ) + ( 2 +49 ) ... + ( 25 +26 ) = 25 x 51 = 1275 ( cm ) .
+- Xét trường_hợp xếp hình_vuông , vì không được cắt và cũng không được bỏ que nào nên các que gỗ phải được xếp vừa khít và các cạnh của hình_vuông được tạo là số_nguyên .
+Mỗi hình_vuông có 4 cạnh bằng nhau , mà 1275 không chia_hết_cho 4 , nên các que trên không_thể xếp hết 100% thành hình_vuông được .
+- Xét trường_hợp hình_chữ_nhật , cũng tương_tự , một hình_chữ_nhật sẽ gồm 2 nửa chu_vi bằng nhau , mà 1275 không chia_hết_cho 2 , nên các que trên cũng không_thể xếp hết 100% thành_hình chữ_nhật được .
+Như_vậy , bạn không_thể xếp hình theo yêu_cầu của đề_bài .
+Thanh_Tâm
+> > Bài_toán xếp hình có_thể làm_bạn ' phát điên '

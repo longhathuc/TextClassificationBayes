@@ -1,0 +1,18 @@
+Chatbot giao_thông giành giải nhất FPT Hackathon 2016
+Khi giao_tiếp với Chatbot của FTS , người dùng có_thể sử_dụng ngôn_ngữ_tự_nhiên để hỏi thông_tin chứ không cần phải soạn những cú_pháp phức_tạp .
+Cuối tuần qua ,   FPT đã tổ_chức cuộc_thi Hackathon 2016 , sử_dụng " vũ_khí " là các nền_tảng công_nghệ " nhà trồng được " trên cổng OpenFPT.vn như   Fshare.vn ,   Public_Cloud , FPT Play , Hệ_thống giao_thông minh ...   để lập_trình_viên khai_thác phát_triển ra các ứng_dụng hữu_ích .
+Các lập_trình_viên tham_gia lập_trình ứng_dụng trong thời_gian ngắn .
+Cuộc_thi thu_hút hơn 200 lập_trình_viên tham_gia với 50 ý_tưởng được phát_triển nhằm tăng trải_nghiệm và tiện_ích cho người dùng cuối .
+Vượt qua 18 ứng_dụng vào vòng chung_kết , Chatbot_Thông tin giao_thông cho người dùng của FTS ( FPT_IS_HCM ) với các tính_năng giúp nhận_biết tình_trạng giao_thông chung trên thành_phố , tìm đường , tìm địa_điểm … đạt giải nhất FPT Hackathon 2016 .
+Chatbot_Thông tin giao_thông đóng vai_trò như một hỗ_trợ viên tự_động .
+Người dùng có_thể sử_dụng ngôn_ngữ_tự_nhiên để hỏi thông_tin thay_vì soạn cú_pháp phức_tạp .
+Qua_Chatbot , người_dân có_thể tiếp_nhận và cung_cấp các thông_tin giao_thông như tắc đường , ngập nước … theo thời_gian_thực .
+" Thông_qua các cuộc_thi Hackathon , FPT mong_muốn trở_thành nơi ươm mầm cho các lập_trình_viên phát_triển ý_tưởng sáng_tạo .
+Sắp tới , FPT sẽ tổ_chức Hackathon cho cộng_đồng công_nghệ trên quy_mô toàn_quốc " , Giám_đốc công_nghệ FPT Lê_Hồng_Việt chia_sẻ .
+Hackathon là cuộc_thi tạo sản_phẩm lập_trình trong một khoảng thời_gian rất ngắn .
+Xu_hướng này đang được nhiều công_ty công_nghệ lớn trên thế_giới áp_dụng , như Facebook .   Từ năm 2007 , Facbook đã tổ_chức hàng trăm cuộc_thi Hackathon nội_bộ .
+Các chức_năng như Video , nút Like , Chat hay sử_dụng sticker ... đều là kết_quả từ những cuộc_thi này .
+Không_chỉ tự tổ_chức , nhiều công_ty còn tìm_kiếm ý_tưởng mới thông_qua việc tài_trợ cho các cuộc_thi Hackathon .
+Chẳng_hạn , Google tài_trợ cho Hackathon tập_trung vào hệ_điều_hành Android hoặc khai_thác API của Google + , trong khi PayPal tài_trợ cho những Hackathon chuyên về giải_pháp thanh_toán qua mạng …
+Tại_Việt_Nam , Hackathon cũng đang trở_thành xu_thế trong cả cộng_đồng ( với các cuộc_thi như Vietnam_Hackathon , Angel_Hack , Blue_Hack , Hackathon for Social_Google ) lẫn nội_bộ các công_ty như FPT , VNG , Topica_Edtech_Group ... Tổ_chức Hackathon giúp các công_ty liên_tục tạo ra sản_phẩm , tính_năng , trải_nghiệm mới cho người dùng chỉ trong thời_gian ngắn .
+Đây là giải_pháp lý_tưởng để đưa những ý_tưởng kinh_doanh thành sản_phẩm cho khách_hàng nhanh_nhất .

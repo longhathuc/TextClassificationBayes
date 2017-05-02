@@ -1,0 +1,13 @@
+iOS 9.3 chưa phát_hành chính_thức đã bị bẻ_khóa
+Hệ_điều_hành mới cho i Phone , iPad phiên_bản thử_nghiệm đã được các hacker jailbreak thành_công .
+Apple đã phát_hành i OS 9.3 beta 5 để các lập_trình_viên thử_nghiệm , trước khi tung bản chính_thức cho toàn_bộ người dùng .
+Trong phiên_bản này , hãng nói vá một_số lỗ_hổng bảo_mật , song các hacker vẫn tìm được cách chiếm quyền kiểm_soát cao nhất trên i OS .
+iOS 9.3 beta 5 đã được bẻ_khóa thành_công .
+Cụ_thể , hacker   Luca_Todescoaka đã bẻ_khóa thành_công   iOS 9.3 beta 1 mà Apple công_bố hồi tháng 1/2016 .
+Ông cho_biết phương_pháp này vẫn hoạt_động với bản beta 5 và rất có_thể lỗ_hổng bảo_mật tiếp_tục xuất_hiện trên i OS 9.3 chính_thức .
+Tuy_nhiên , hacker nói không có ý_định phát_hành rộng_rãi công_cụ jailbreak cho toàn_bộ người dùng .
+Song điều này cũng hứa_hẹn i OS 9.3 có_thể bẻ_khóa được bởi các nhóm công_nghệ khác như TaiG hay Pangu .
+Từ khi Apple phát_hành i OS 9.1 hồi cuối tháng 10/2015 , chưa có bất_kỳ công_cụ nào có_thể jailbreak được hệ_điều_hành của Apple .
+Trước đó , các hacker thuộc nhóm Pangu đã khai_thác lỗ_hổng để bẻ_khóa i OS 9 , iOS 9.0.2 .
+Video chứng_minh i OS 9.3 beta 1 được bẻ_khóa thành_công :
+Đình_Nam

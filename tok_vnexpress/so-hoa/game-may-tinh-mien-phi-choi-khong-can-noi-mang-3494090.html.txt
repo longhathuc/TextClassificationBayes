@@ -1,0 +1,46 @@
+Game máy_tính miễn_phí chơi không cần nối_mạng
+Cửa_hàng ứng_dụng của trình_duyệt Chrome tích_hợp nhiều trò_chơi có_thể giúp dân văn_phòng giải_khuây mỗi khi mất_mạng .
+Chỉ cần cài_đặt một lần dưới dạng tiện_ích trên trình_duyệt , người dùng có_thể trải_nghiệm các trò_chơi vui_nhộn này bất_kỳ lúc_nào mà không cần đường truyền Internet .
+Không_chỉ có game , nhiều ứng_dụng hỗ_trợ công_việc trên cửa_hàng của Chrome cũng cho_phép hoạt_động ngoại_tuyến .
+Tank_Riders
+Trò_chơi bắn xe_tăng đồ_họa 3D có phong_cách dễ_thương .
+Người chơi di_chuyển xe_tăng vượt qua hoặc phá vỡ các chướng_ngại_vật rồi tấn_công kẻ_thù .
+Game có ba chế_độ chơi là Campaign , Multiplayer và Invasion .
+Game thủ điều_khiển bằng cụm phím mũi_tên hoặc W , A , S , D . Bắn bằng phím Space , ngắm bằng phím J và L .
+Funky_Karts
+Game thủ sẽ điều_khiển một chiếc xe vượt qua các chướng_ngại_vật , né_tránh nguy_hiểm , thu thấp các đồng_tiền thưởng .
+Game có 48 cấp_độ , với cốt_truyện xây_dựng trong một thế_giới hơi " kỳ_quặc " .
+Chiếc xe ngoài việc di_chuyển bình thưởng có_thể nhảy , lật và thực_hiện các động_tác khó .
+Basket   & Ball
+Game mang tới trải_nghiệm chơi bóng_rổ độc_đáo , với nhiệm_vụ chính yêu_cầu game thủ đưa bóng vào rổ .
+Trò_chơi kết_hợp yếu_tố giải đố , với nhiều chướng_ngại_vật khó_khăn như lửa , gai ...
+Sử_dụng các phím mũi_tên để điều hướng và phím Space để nảy .
+Game có tạo_hình đồ_họa hài_hước và lồng_ghép nhiều tình_tiết gây cười .
+Solitaire
+Trò_chơi kinh_điển trên hệ_điều_hành Windows nay đã có tới 9 chế_độ chơi khác_nhau mang lại sự đa_dạng và nhiều trải_nghiệm mới .
+Game thủ có_thể kéo thả hoặc nhấp chuột để di_chuyển các quân bài .
+Trò_chơi đi kèm một_số gợi_ý và tính_năng cho_phép đi_lại .
+Cut the Rope
+Game giải đố nổi_tiếng được tích_hợp trên trình_duyệt với nhiệm_vụ chính khá " đơn_giản " là lấy kẹo cho con quái_vật dễ_thương tên Om_Nom .
+Tuy_nhiên , các thử_thách ngày_càng khó đòi_hỏi game thủ phải giải_quyết được các bài toán_đố để cắt đứt được sợi dây giữ viên kẹo .
+Mỗi thử_thách có ba cấp_độ đánh_giá theo sao , dựa trên kỹ_năng của người dùng .
+2048
+Cách chơi của game đơn_giản khi người chơi chỉ cần di_chuyển bằng cách trượt các khối gạch lên , xuống , sang trái hoặc phải .
+Các con_số trên những khối gạch sẽ hợp_nhất với nhau khi cùng loại .
+Mục_tiêu cuối_cùng là tạo ra con_số lớn nhất có_thể .
+Game thủ sử_dụng các phím mũi_tên trên bàn_phím để chuyển_hướng theo ý_muốn .
+Word_Search_Puzzle_Game
+Game tìm từ đơn_giản với các chủ_đề về bò_sát , chiêm_tinh_học , cây_cối động_vật .
+Game thủ cũng có_thể lựa_chọn các thể_loại mới như chương_trình truyền_hình , sách , toán_học ...
+Game có các cấp_độ chơi khác_nhau với độ khó tăng dần .
+Người chơi có lựa_chọn bật nhạc thư_giãn trong khi trải_nghiệm .
+Link_All
+Thách_thức cần vượt qua là kết_nối các điểm trên một con đường , trong khi vừa tránh các chướng_ngại_vật .
+Các thử_thách ngày_càng khó theo thời_gian và đòi_hỏi game thủ phải tính_toán một_cách cẩn_thận .
+Game có 8 phần , mỗi phần 20 cấp_độ .
+Polycraft
+Đây là trò_chơi chiến_lược , bối_cảnh trên một hòn đảo trong thế_giới Polycraft .
+Người chơi nhập_vai một nhân_vật anh_hùng , có nhiệm_vụ xây_dựng hệ_thống phòng_thủ nhằm chống lại các sinh_vật kỳ_lạ đến tấn_công .
+Hoàn_thành nhiệm_vụ sẽ kiếm được các phần_thưởng .
+Game thủ sẽ dần khám_phá các bí_mật của hòn đảo thông_qua nhiều nhiệm_vụ khác_nhau .
+Nếu có kết_nối mạng , phần chơi của game thủ sẽ được lưu lại .

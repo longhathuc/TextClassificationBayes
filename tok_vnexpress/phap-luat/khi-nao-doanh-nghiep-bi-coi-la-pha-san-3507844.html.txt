@@ -1,0 +1,18 @@
+Khi nào doanh_nghiệp bị coi là phá_sản
+Phá_sản là tình_trạng của doanh_nghiệp , hợp_tác_xã mất khả_năng thanh_toán và bị Tòa_án nhân_dân ra quyết_định tuyên_bố phá_sản
+Theo Điều 2 Luật_Phá sản năm 2014 , phá_sản áp_dụng đối_với doanh_nghiệp và hợp_tác_xã , liên_hiệp hợp_tác_xã ( sau đây gọi chung là hợp_tác_xã ) được thành_lập và hoạt_động theo quy_định của pháp_luật .
+Phá_sản là tình_trạng của doanh_nghiệp , hợp_tác_xã mất khả_năng thanh_toán và bị Tòa_án nhân_dân ra quyết_định tuyên_bố phá_sản .
+Doanh_nghiệp , hợp_tác_xã mất khả_năng thanh_toán là doanh_nghiệp , hợp_tác_xã không thực_hiện nghĩa_vụ thanh_toán khoản nợ trong thời_hạn 3 tháng kể từ ngày đến hạn thanh_toán .
+Thủ_tục phá_sản ( sơ_lược ) đối_với doanh_nghiệp theo quy_định tại Luật_Phá sản năm 2014 :
+- Người yêu_cầu giải_quyết phá_sản phải nộp Đơn yêu_cầu Tòa_án nhân_dân mở thủ_tục phá_sản .
+- Tiếp_theo , nếu Tòa_án thụ_lý đơn , tòa_án sẽ giải_quyết phá_sản theo các thủ_tục : mở thủ_tục phá_sản ; chỉ_định Quản tài viên , doanh_nghiệp quản_lý , thanh_lý tài_sản ; xác_định nghĩa_vụ về tài_sản và thực_hiện các biện_pháp bảo_toàn tài_sản ; triệu_tập Hội_nghị chủ_nợ ; áp_dụng thủ_tục phục_hồi kinh_doanh   ( nếu có ) ; Tòa_án quyết_định tuyên_bố doanh_nghiệp phá_sản ; thi_hành Quyết_định tuyên_bố phá_sản .
+Theo Điều 54 Luật_Phá sản 2014 về thứ_tự phân_chia tài_sản , trường_hợp Thẩm_phán ra quyết_định tuyên_bố phá_sản thì tài_sản của doanh_nghiệp , hợp_tác_xã được phân_chia theo thứ_tự sau :
+- Chi_phí phá_sản ;
+- Khoản nợ lương , trợ_cấp thôi_việc , bảo_hiểm_xã_hội , bảo_hiểm_y_tế đối_với người lao_động , quyền_lợi khác theo hợp_đồng lao_động và thỏa_ước lao_động tập_thể đã ký_kết ;
+- Khoản nợ phát_sinh sau khi mở thủ_tục phá_sản nhằm mục_đích phục_hồi hoạt_động kinh_doanh của doanh_nghiệp , hợp_tác_xã ;
+- Nghĩa_vụ tài_chính đối_với Nhà_nước ; khoản nợ không có bảo_đảm phải trả cho chủ_nợ trong danh_sách chủ_nợ ; khoản nợ có bảo_đảm chưa được thanh_toán do giá_trị tài_sản bảo_đảm không đủ thanh_toán nợ .
+Trường_hợp giá_trị tài_sản của doanh_nghiệp , hợp_tác_xã sau khi đã thanh_toán đủ các khoản trên mà vẫn còn thì phần còn lại này thuộc về : Thành_viên hợp_tác_xã , hợp_tác_xã thành_viên ; chủ doanh_nghiệp tư_nhân ; chủ_sở_hữu công_ty_trách_nhiệm_hữu_hạn một thành_viên ; thành_viên của công_ty_trách_nhiệm_hữu_hạn hai thành_viên trở_lên , cổ_đông của công_ty_cổ_phần ; thành_viên của Công_ty hợp danh .
+Nếu giá_trị tài_sản không đủ để thanh_toán các khoản nêu trên thì từng đối_tượng cùng một thứ_tự ưu_tiên được thanh_toán theo tỷ_lệ_phần_trăm tương_ứng với số nợ .
+Theo Điều 110 Luật_Phá sản năm 2014 , Quyết_định tuyên_bố doanh_nghiệp , hợp_tác_xã phá_sản không miễn_trừ nghĩa_vụ về tài_sản của chủ doanh_nghiệp tư_nhân , thành_viên hợp danh của công_ty hợp danh đối_với chủ_nợ chưa được thanh_toán nợ , trừ trường_hợp người tham_gia thủ_tục phá_sản có thỏa_thuận khác hoặc pháp_luật có quy_định khác .
+Nghĩa_vụ về tài_sản phát_sinh sau khi có quyết_định tuyên_bố doanh_nghiệp , hợp_tác_xã phá_sản được giải_quyết theo quy_định của pháp_luật về thi_hành án dân_sự và quy_định khác của pháp_luật có liên_quan .
+Luật_sư Kiều_Anh_Vũ Văn_phòng Luật_sư Lê_Nguyễn

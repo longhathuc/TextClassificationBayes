@@ -1,0 +1,4 @@
+Bài_toán ngôn_ngữ trong cuộc_thi Lomonosop 2015
+Ngôn_ngữ và toán_học có rất nhiều điểm chung , trong đó có tính logic , quy_luật và cấu_trúc .
+Những người giỏi toán thường nắm_bắt một ngôn_ngữ mới rất nhanh .
+Bài_toán sau đây được ra trong đề thi môn ngôn_ngữ của cuộc_thi Lomonosop 2015 .

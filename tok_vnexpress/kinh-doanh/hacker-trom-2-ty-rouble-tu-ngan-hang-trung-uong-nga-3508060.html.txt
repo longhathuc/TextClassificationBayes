@@ -1,0 +1,25 @@
+Hacker trộm 2 tỷ rouble từ Ngân_hàng Trung_ương Nga
+Giới_chức ngân_hàng cho_biết nhóm hacker muốn lấy đi 5 tỷ rouble ( gần 80 triệu USD ) , nhưng số tiền đã bị ngăn_chặn và chuyển_hướng .
+" Chúng_tôi rất may_mắn vì lấy lại được phần_nào " , Artiom_Sychev - Giám_đốc An_ninh tại Ngân_hàng Trung_ương Nga ( CBR ) cho_biết trên CNN hôm_qua .
+Số tiền 2 tỷ rouble ( 31 triệu USD ) này được lấy từ các tài_khoản mà các ngân_hàng thương_mại mở tại đây .
+Hacker cũng nhắm vào một_số nhà_băng tư_nhân và trộm tiền từ tài_khoản khách_hàng , CBR cho_biết .
+Cơ_quan này không tiết_lộ việc này diễn ra khi nào và bằng cách nào .
+Nhưng đến nay , vụ tấn_công được đánh_giá có một_số điểm tương_đồng với các vụ nhắm vào hệ_thống tài_chính toàn_cầu gần đây .
+Ngân_hàng Trung_ương Nga đã xác_nhận bị hacker tấn_công .
+Ảnh : AFP
+Tháng 1/2015 , hacker có được mật_mã của ngân_hàng Banco del Austro ( Ecuador ) để dùng SWIFT - mạng_lưới chuyển_tiền liên ngân_hàng toàn_cầu .
+Chúng đã lợi_dụng việc này để đánh_cắp tiền_của nhà_băng tại Wells_Fargo .
+Đến tháng 10 năm đó , hacker cũng sử_dụng cách_thức tương_tự để đột_nhập vào một ngân_hàng Philippines .
+2 tháng sau , chúng cố tạo ra các yêu_cầu giả từ một ngân_hàng thương_mại ở Việt_Nam .
+Tuy_nhiên , vụ_việc đã bị ngăn_chặn .
+Tháng 2 năm nay , hacker trộm 101 triệu USD từ Ngân_hàng Trung_ương Bangladesh , cũng bằng cách tiếp_cận được SWIFT .
+Khi đó , chúng gõ 5 lệnh chuyển_tiền khỏi tài_khoản của nhà_băng này ở Federal_Bank of New_York .
+Tổng_số tiền là 951 triệu USD .
+Tuy_nhiên , Fed đã phát_hiện và ngăn_chặn trước khi vụ trộm hoàn_tất .
+Các nhà_nghiên_cứu tại công_ty an_ninh mạng Symantec cho_biết hệ_thống ngân_hàng toàn_cầu đang chịu sự tấn_công của một nhóm tin_tặc rất tinh_vi có tên Lazadus .
+Tuy_nhiên , với sự_việc tại Nga , hiện chưa rõ nhóm nào_là kẻ tấn_công .
+Hôm_qua , Chính_phủ Nga cũng cam_kết sẽ chống lại những hành_vi khiến mọi người giảm tin_tưởng vào hệ_thống tài_chính nước này .
+Cơ_quan An_ninh Liên_bang Nga - FSB cho_biết hacker đã lên kế_hoạch dùng nhiều máy_chủ tại Hà_Lan để tấn_công các nhà_băng Nga .
+Thông_thường , chúng sử_dụng loại công_cụ này để thực_hiện tấn_công " từ_chối dịch_vụ " - khiến các website tê_liệt và việc kinh_doanh bị gián_đoạn do quá_tải tài_nguyên hệ_thống .
+FSB cho_biết chúng cũng dự_định lan_truyền tin giả về các nhà_băng Nga , gửi tin nhắn hàng_loạt và đăng_tải các câu_chuyện trên truyền_thông xã_hội có nội_dung nghi_ngờ ổn_định tài_chính tại đây .
+Hà_Thu ( theo CNN )

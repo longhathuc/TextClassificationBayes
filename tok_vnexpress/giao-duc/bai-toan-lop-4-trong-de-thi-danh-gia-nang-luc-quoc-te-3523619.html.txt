@@ -1,0 +1,10 @@
+Bài_toán lớp 4 trong đề thi đánh_giá năng_lực quốc_tế
+Bài_toán tính số_lượng đồng_tiền trong đề thi đánh_giá năng_lực tư_duy Toán_học quốc_tế - IMAS dành cho học_sinh lớp 3-4 ( Middle_Primary ) có làm_khó bạn ?
+Helen có một_số tiền bao_gồm 3 loại mệnh_giá 1 $ , 2 $ và 5 $ nhưng không rõ số_lượng đồng_tiền mỗi loại .
+Tổng tiền mà Helen có là 80 $ .
+Tất_cả đồng 1 $ có_thể đổi thành những đồng_tiền mệnh_giá 10 $ , khi đó số_lượng đồng_tiền Helen có ban_đầu bị giảm đi 36 đồng .
+Tất_cả đồng 5 $ có_thể đổi thành những đồng_tiền mệnh_giá 10 $ và tất_cả đồng 2 $ có_thể đổi thành những đồng_tiền mệnh_giá 5 $ .
+Hỏi ban_đầu Helen có tối_đa bao_nhiêu đồng_tiền ?
+Thanh_Tâm
+> > Bài_toán lớp 4 làm_khó người_lớn
+> > Câu_đố tính cân nặng nổi_tiếng của tác_giả Mỹ

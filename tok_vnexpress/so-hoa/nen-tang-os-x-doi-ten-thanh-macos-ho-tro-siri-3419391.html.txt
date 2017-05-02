@@ -1,0 +1,15 @@
+Nền_tảng OS_X đổi tên thành mac OS , hỗ_trợ Siri
+Tại WWDC 206 , Apple công_bố phiên_bản mới của hệ_điều_hành OS_X với tên gọi_là mac OS Sierra .
+Sau 15 năm gọi tên hệ_điều_hành máy_tính của mình là OS X , Apple đã quyết_định chọn tên mới nhằm đồng_nhất với ba nền_tảng còn lại : iOS , watchOS , tvOS .
+Tính_năng đáng chú_ý nhất của mac OS chính là Siri .
+Trợ_lý ảo này hoạt_động trên máy Mac tương_tự như trên các thiết_bị i OS .
+Bằng cách bấm vào biểu_tượng Siri trên thanh menu , người dùng có_thể ra_lệnh để Siri thiết_lập lịch nhắc báo , gửi tin nhắn , mở ứng_dụng , tra_cứu lịch chiếu_phim , xem kết_quả trận đấu ...
+Bên_cạnh đó , Siri cũng có_thể tìm_kiếm file và lưu các hoạt_động tìm_kiếm trên   Notification_Center .
+Một tính_năng hữu_ích khác là   Continuity .
+Nếu đang đeo Apple_Watch , máy Mac sẽ tự_động mở khoá khi người dùng ở phạm_vi gần mà không đòi_hỏi nhập mật_khẩu .
+Ngoài_ra , công_cụ Universal_Clipboard cũng được đánh_giá cao nhờ cho_phép mọi người cắt dán liên_thông giữa các thiết_bị , tức họ có_thể sao_chép một nội_dung trên i Phone và dán vào máy Mac hoặc ngược_lại .
+Apple cũng sử_dụng i Cloud để quản_lý file dễ_dàng hơn .
+Thứ nhất , người dùng có_thể đồng_bộ các tài_liệu giữa các thiết_bị , giúp họ xem file cả trên i Phone và máy_tính .   macOS
+Sierra cũng tự_động xoá file cũ trên máy Mac và lưu_trữ chúng trên đám mây , dành dung_lượng cho các file mới .
+Trình_duyệt Safari hiện đã hỗ_trợ Apple_Pay để người dùng có_thể sử_dụng i Phone xác_thực tài_khoản mỗi khi mua_sắm trên web .
+Bản thử_nghiệm của mac OS Sierra sẽ có_mặt trong tháng 7 , còn bản chính_thức sẽ được phát_hành trong mùa thu .

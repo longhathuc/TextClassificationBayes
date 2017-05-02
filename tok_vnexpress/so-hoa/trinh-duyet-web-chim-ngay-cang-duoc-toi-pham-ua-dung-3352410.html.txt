@@ -1,0 +1,22 @@
+Trình_duyệt ' web chìm ' ngày_càng được tội_phạm ưa dùng
+Một nghiên_cứu mới cho thấy tỷ_lệ sử_dụng trình_duyệt Tor để truy_cập và đăng những nội_dung bất_hợp_pháp đang gia_tăng .
+Internet rất rộng_lớn và những gì người dùng phổ_thông biết đến chỉ là một phần rất nhỏ .
+Trên đó tồn_tại cái gọi_là Dark_Web ( web chìm / web ngầm ) - tập_hợp những website mà IP máy_chủ đã bị ẩn , hoàn_toàn " vô_hình " trước các công_cụ tìm_kiếm và người dùng chỉ có_thể truy_cập thông_qua một phần_mềm đặc_biệt .
+Một trong những công_cụ phổ_biến nhất hỗ_trợ truy_cập Dark_Web là trình_duyệt Tor ( The_Onion_Router ) .
+Tor được các nhà_nghiên_cứu trong quân_đội Mỹ phát_triển từ giữa thập_niên 90 của thế_kỷ trước với mục_đích che_giấu các hoạt_động tình_báo trực_tuyến .
+Tor sau đó được phát_hành công_khai cho bất_cứ ai cũng có_thể sử_dụng .
+Lý_do rất đơn_giản : càng nhiều người dùng hệ_thống , đối_phương càng bị nhiễu trước các thông_tin nặc_danh .
+Ảnh minh_họa : TechInsider .
+Tor không phải công_cụ xấu và đang được nhiều nhà hoạt_động chính_trị , nhà_báo , các nhà_nghiên_cứu ... sử_dụng .
+Tuy_nhiên ,   chính_sự bảo_mật cao đã biến nó trở_thành phần_mềm yêu_thích của tội_phạm mạng , giúp chúng che_giấu các hoạt_động phạm_pháp như buôn_bán ma_túy , vũ_khí , hàng giả , chia_sẻ nội_dung đồi_trụy , rửa_tiền ...
+Theo Telegraph , để thu_thập thông_tin trên Dark_Web , giáo_sư   Thomas_Rid và nghiên_cứu_sinh Daniel_Moore   thuộc trường   King ' s College ( Anh ) đã phát_triển một chương_trình tự_động tìm_kiếm ( crawler bot ) trên các site Tor .
+Phần_mềm này đã phát_hiện khoảng 5.205 trang đang hoạt_động và đã phân_loại được nội_dung của 2.723 site .
+Trong số trang đã phân_loại , có tới 1.547 site chứa thông_tin bất_hợp_pháp .
+" Hơn 50% nội_dung được truy_cập qua Tor là vi_phạm pháp_luật " , giáo_sư Rid nhấm mạnh .
+" Các nhà_phát_triển tạo ra Tor với mục_đích khác .
+Họ muốn đảm_bảo an_toàn cho người dùng web , chứ không phải phục_vụ tội_phạm .
+Đã đến lúc họ cần tìm cách giảm nội_dung phạm_pháp và hỗ_trợ người dùng hợp_pháp tốt hơn " .
+Tor đang được người dùng toàn thế_giới sử_dụng để truy_cập ẩn_danh , nhất_là ở các nước kiểm_soát nội_dung nghiêm_ngặt như Trung_Quốc hay Iran .
+Facebook cũng có một site trên Tor nhưng hiện chưa rõ có bao_nhiêu người thực_sự dùng nó .
+Những công_cụ mã_hóa như Tor cũng là phương_tiện quan_trọng cho các nhà_nghiên_cứu , nhà_báo , nhà thực_thi luật_pháp , chính_trị_gia ...
+Minh_Minh

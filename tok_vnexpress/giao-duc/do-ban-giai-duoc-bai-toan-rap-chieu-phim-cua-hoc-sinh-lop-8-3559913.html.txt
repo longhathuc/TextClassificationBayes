@@ -1,0 +1,8 @@
+Đố bạn giải được bài_toán ' rạp chiếu_phim ' của học_sinh lớp 8
+Bài_toán về số hàng ghế trong rạp chiếu_phim nằm trong đề thi đánh_giá năng_lực tư_duy Toán_học quốc_tế IMAS dành cho học_sinh lớp 7-8 .
+Hãy suy_luận và đưa ra đáp_án cho bài_toán này trong thời_gian nhanh_nhất .
+Trong một rạp chiếu_phim , có hai người ngồi ở hàng ghế đầu_tiên , 3 người ngồi ở hàng ghế thứ_hai , 4 người ngồi ở hàng ghế thứ_ba .
+Cứ như_vậy , hàng ghế sau có nhiều hơn hàng ghế trước một người .
+Có tất_cả 2015 người .
+Hỏi rạp chiếu_phim có bao_nhiêu hàng ghế ?
+Thanh_Tâm

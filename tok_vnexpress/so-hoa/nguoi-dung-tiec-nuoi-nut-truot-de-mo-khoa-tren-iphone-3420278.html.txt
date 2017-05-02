@@ -1,0 +1,18 @@
+Người dùng tiếc_nuối nút ' trượt để mở khóa ' trên i Phone
+Với i OS 10 , Apple thay_thế nút Slide to unlock ( trượt để mở khóa ) bằng thông_báo Press home to open ( nhấn nút Home để mở ) .
+Ngày 13/6 , Apple khai_mạc sự_kiện WWDC , công_bố những bước_tiến mới của hệ_điều_hành di_động i OS .
+Bản thử_nghiệm dành cho các nhà_phát_triển i OS 10 đã được phát_hành và nhiều người đã nhanh_chóng cài_đặt dùng thử .
+Ngay khi khởi_động i Phone , không ít người đã ngạc_nhiên trước giao_diện mới .
+Suốt 9 năm qua , họ đã luôn được yêu_cầu trượt ngón_tay từ trái sang phải để mở khóa thiết_bị .
+Nhưng trên i OS 10 , khi vuốt sang phải , họ sẽ thấy một màn_hình widget để kiểm_tra nhanh thông_tin , còn khi vuốt sang trái sẽ kích_hoạt camera .
+Nhiều người tỏ ra tiếc_nuối vì Apple loại_bỏ một tính_năng tuy nhỏ nhưng đã trở_nên quen_thuộc với họ .
+Chưa kể , để mở khóa bằng vân tay_trên i OS 10 , họ phải nhấn nút Home hai lần ( để bật màn_hình và để mở khóa ) trong khi trước_đây họ chỉ cần nhấn một lần .
+Giao_diện mở khóa từ bản i OS 1 đến i OS 6 ( ảnh trái ) , từ i OS 7 đến i OS 9 ( ảnh giữa ) và giao_diện mới nhất trên i OS 10 .
+Theo BGR , đây là một thay_đổi " ngớ_ngẩn " .
+Ngay sau khi được cấp bằng_sáng_chế tính_năng trượt để mở khóa vào tháng 10/2011 , Apple đã nhanh_chóng nộp hồ_sơ kiện đối_thủ Samsung , HTC , Motorola ăn_cắp bản_quyền công_nghệ , khiến các nhà_sản_xuất Android phải áp_dụng những kiểu mở khóa mới để tránh gặp rắc_rối .
+Thế_nhưng , cuối_cùng Apple lại khai_tử cơ_chế này .
+" Vì_sao Apple lại loại_bỏ tính_năng Slide to unlock ?
+Hẳn là họ muốn đem đến thêm một trải_nghiệm rắc_rối hơn trên i OS 10 " , một người dùng thắc_mắc .
+Thậm_chí , có người đùa rằng có_lẽ Apple thấy không_thể kiếm tiền từ tính_năng này nên đã quyết_định bỏ nó đi .
+Tuy_vậy , cũng có ý_kiến cho rằng Apple có lý_do riêng để thay_đổi và người sử_dụng cũng không gặp khó_khăn gì trong việc sớm quên đi Slide to unlock và làm_quen với Press home to open .
+Video : Đinh_Nam

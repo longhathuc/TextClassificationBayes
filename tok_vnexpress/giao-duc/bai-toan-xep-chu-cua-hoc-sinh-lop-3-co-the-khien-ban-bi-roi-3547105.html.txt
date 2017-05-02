@@ -1,0 +1,7 @@
+Bài_toán xếp chữ của học_sinh lớp 3 có_thể khiến bạn bị rối
+Bạn có_thể suy_luận nhanh cách giải bài_toán về việc sắp_xếp những chữ_cái trong đề thi Toán quốc_tế Kangaroo dành cho học_sinh lớp 3-4 ?
+Eve đã sắp_xếp những tấm thẻ thành một hàng như hình dưới đây .
+Với mỗi lần đi , Eve được phép đổi chỗ hai tấm thẻ bất_kỳ .
+Hỏi_Eve cần ít_nhất bao_nhiêu lần đi để được từ   KANGAROO ?
+Trần_Phương
+> > Bài_toán ' chim_sẻ ' của trẻ lớp 1 có_thể làm_khó bạn > > Thử tài suy_luận với bài_toán về những chú sóc

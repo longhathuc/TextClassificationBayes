@@ -1,0 +1,20 @@
+Airbus ra_mắt taxi bay tự lái có khả_năng biến_hình
+Hệ_thống taxi biến_hình mang tên Pop.Up sử_dụng động_cơ_điện có tầm hoạt_động 100 km , vừa đi được trên mặt_đất vừa có_thể bay .
+Airbus vừa công_bố mô_hình taxi mang tên " Pop.Up " với kỳ_vọng   có_thể chấm_dứt nạn ùn_tắc giao_thông .
+Đây là hệ_thống dạng module gồm một khoang chở khách hai chỗ có_thể lắp lên_khung gầm 4 bánh , đồng_thời có khả_năng sử_dụng động_cơ cánh_quạt như flycam để di_chuyển khi các con đường bị tắc_nghẽn , theo Wired .
+Khi hành_khách đến đích , module trên không và mặt_đất sẽ trở_lại trạm sạc chuyên_dụng để nạp điện và chờ khách_hàng tiếp_theo .
+Pop.Up là kết_quả hợp_tác giữa Airbus và Italdesign , một công_ty thiết_kế và kỹ_thuật có trụ_sở tại Italy .
+" Ngày_nay , ôtô là một phần của một hệ_thống sinh_thái rộng_lớn .
+Nếu bạn muốn thiết_kế phương_tiện đô_thị của tương_lai , chiếc xe truyền_thống không_thể là giải_pháp cho các siêu đô_thị , bạn phải suy_nghĩ về cơ_sở_hạ_tầng bền_vững và thông_minh , các ứng_dụng , sự thống_nhất , các hệ_thống điện , quy_hoạch_đô_thị , các khía_cạnh xã_hội và tương_tự như_vậy " , ông Jorg_Astalosch , giám_đốc điều_hành ( CEO ) của Italdesign , cho_biết .
+Hành_khách chỉ cần đặt chuyến qua một ứng_dụng di_động , hệ_thống sẽ tự_động đề_xuất phương_thức di_chuyển tốt nhất dựa trên tiêu_chí như thời_gian , mức_độ ùn_tắc giao_thông , chi_phí và nhu_cầu chia_sẻ chuyến đi .
+Sử_dụng thông_tin này , Pop.Up liệt_kê lựa_chọn mà nó đánh_giá là hợp_lý cho hành_trình của khách_hàng .
+Khoang chở khách làm từ vật_liệu sợi carbon dài 2,6 m , cao 1,4 m và rộng 4,9 m .
+Nó trở_thành một chiếc xe bằng cách kết_nối với module mặt_đất , hệ_thống chạy bằng pin và có tầm hoạt_động 100 km trong một lần sạc .
+Thiết_bị sẽ quét khuôn_mặt hành_khách để xác_thực , cũng_như trình_chiếu nội_dung giải_trí trong quá_trình di_chuyển .
+Nếu bị tắc đường , người dùng chỉ cần yêu_cầu phương_tiện chuyển sang chế_độ bay , hệ_thống cánh_quạt sẽ bay đến , tự_động lắp_ráp để biến chiếc xe thành taxi bay .
+Airbus cho_biết Pop.Up là hệ_thống gồm ba lớp .
+Đầu_tiên là nền_tảng trí_tuệ_nhân_tạo để xác_định tuyến đường tốt nhất , cung_cấp sự lựa_chọn hành_khách .
+Tiếp đó là khoang chở khách được thiết_kế để kết_hợp với hai module khác_nhau và hoàn_toàn độc_lập .
+Cuối_cùng là giao_diện giao_tiếp với người dùng trong môi_trường ảo hoàn_toàn .
+Tuy_nhiên , Airbus khẳng_định Pop.Up sẽ không được triển_khai trước giai_đoạn 2024-2027 .
+Hòa_Việt

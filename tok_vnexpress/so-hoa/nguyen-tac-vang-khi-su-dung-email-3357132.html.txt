@@ -1,0 +1,32 @@
+Nguyên_tắc vàng khi sử_dụng email
+Với email , bạn nên dùng dịch_vụ của những nhà_cung_cấp uy_tín , sử_dụng mật_khẩu khó đoán , thậm_chí cần hạn_chế vào mail ở Wi-Fi công_cộng .
+Những năm trở_lại đây , tấn_công mạng nhằm vào tài_khoản email đã trở_nên ngày_càng phổ_biến .
+Chuyên_gia an_ninh mạng lừng_danh John_Mc Afee từng nhận_định email là nơi dễ bị tổn_thương nhất trong kỷ_nguyên số như hiện_nay .
+Bằng việc đột_nhập vào tài_khoản email , hacker có_thể khai_thác đủ loại thông_tin cá_nhân nhạy_cảm như tên_tuổi , ngày_sinh , tài_khoản ngân_hàng và tài_khoản mạng xã_hội .
+Dưới đây là 6 nguyên_tắc vàng giúp bảo_mật hòm_thư điện_tử theo trang_web IBTime .
+1 . Sử_dụng những dịch_vụ uy_tín
+Outlook hay Gmail là những dịch_vụ email uy_tín và miễn_phí nổi_tiếng toàn_cầu .
+Chúng không_những cung_cấp dịch_vụ thư_điện_tử cho các cá_nhân , mà_còn bao_gồm cả những giải_pháp cho doanh_nghiệp .
+Ngoài_ra , những dịch_vụ email này thường_xuyên cập_nhật để nâng_cấp các tính_năng bảo_mật .
+Gần đây , Gmail đã trình_làng một tính_năng mới có chức_năng hiển_thị một chiếc khóa màu đỏ mỗi khi thư đến được gửi từ một người dùng mà không sử_dụng công_nghệ mã_hóa .
+2 . Sử_dụng một mật_khẩu khó đoán và không dùng cho nhiều tài_khoản
+Các chuyên_gia công_nghệ đều khuyên rằng bạn nên dùng một mật_khẩu dài , khó đoán , bao_gồm cả chữ và số cho tài_khoản email của mình .
+Hãy luôn giữ nó làm bí_mật của riêng bạn và đừng bao_giờ dùng một mật_khẩu giống nhau cho nhiều tài_khoản trên mạng .
+3 . Sử_dụng dịch_vụ mật_khẩu kép
+Một_khi bạn đã có một nhà_cung_cấp dịch_vụ uy_tín và một mật_khẩu chắc_chắn , hãy cân_nhắc việc sử_dụng công_nghệ nhận_diện kép ( hay còn gọi_là 2FA ) .
+Những năm trở_lại đây , 2FA ngày_càng phổ_biến và được cung_cấp bởi phần_lớn website chứa những thông_tin nhạy_cảm .
+Bẳng việc áp_dụng 2FA , bạn sẽ phải nhập mật_khẩu lần hai nếu muốn truy_cập vào tài_khoản , thường là dưới dạng câu_hỏi ngắn , tin nhắn xác_minh hoặc mã_số .
+4 . Cẩn_trọng với những mối nguy_hiểm tiềm_tàng
+Trong kỷ_nguyên số , luôn có những nguy_hiểm rình_rập xung_quanh bạn .
+Chính vì thế_sự cẩn_thận là điều cơ_bản khi sử_dụng email : Không_bao_giờ nhấn vào các đường link lạ , các file đính kèm đáng nghi_ngờ , cẩn_thận với những thư rác và không cung_cấp tài_khoản thẻ ngân_hàng qua email .
+Phần_lớn các trình_duyệt web và phần_mềm diệt virus hiện_nay đều có khả_năng phát_giác ra những mối nguy_hiểm tiềm_tàng , nhưng chúng chỉ đóng vai_trò như những chiếc đai an_toàn .
+Một_khi chiếc xe của bạn đang lao xuống vực , cái đai đó chỉ vô_dụng mà thôi .
+5 . Sử_dụng công_nghệ mã_hóa
+Nếu trong các email của mình , bạn thường_xuyên phải gửi những thông_tin nhạy_cảm như tài_khoản ngân_hàng , tài_khoản mạng xã_hội , hãy cân_nhắc việc sử_dụng công_nghệ mã_hóa ( encryption ) .
+Về cơ_bản , quá_trình mã_hóa sẽ biến thông_tin cá_nhân của bạn thành những dãy số ngẫu_nhiên , từ đó , tăng tính bảo_mật trong quá_trình gửi email .
+6 . Cẩn_trọng với những Wi-Fi công_cộng
+Wi-Fi “ chùa ” có_thể rất tiện nhưng cũng đem đến nhiều mối nguy_hiểm về an_ninh mạng .
+Đã có nhiều vụ_việc , người dùng sử_dụng Wi-Fi công_cộng miễn_phí và hacker đánh_cắp được thông_tin cá_nhân và thậm_chí trực_tiếp xem được họ đang truy_cập vào website gì .
+Vì_vậy , lời khuyên là đừng bao_giờ điền những thông_tin nhạy_cảm khi đang sử_dụng Wi-Fi công_cộng .
+Trong trường_hợp phải sử_dụng Wi-Fi công_cộng , hãy chọn một mạng VPN để đảm_bảo an_toàn .
+Nguyễn_Mai_Đức

@@ -1,0 +1,30 @@
+Mẹo rút , chuyển_tiền không gặp sự_cố trong Tết
+Bạn nên kiểm_tra kỹ thông_tin người thụ_hưởng trước khi chuyển_tiền , không đóng màn_hình giao_dịch trên ebank cũng_như thoát khỏi màn_hình ATM khi chưa nhận được kết_quả .
+Các ngân_hàng đã chính_thức nghỉ Tết từ ngày 26/1 ( tức 29 Tết ) và chỉ hoạt_động trở_lại từ mùng 6 Tết .
+Dù hệ_thống ATM , ebank của hầu_hết các nhà_băng vẫn duy_trì hoạt_động nhưng thực_tế , việc khiếu_nại , tra soát của khách_hàng sẽ khó đáp_ứng ngay nếu xảy_ra sự_cố .
+Do_đó , người dùng cũng_nên cẩn_trọng trước mỗi thao_tác rút và chuyển_tiền để tránh gặp phiền_phức trong những ngày này .
+Sự_cố khi rút_tiền mặt
+Nhiều chuyên_gia cho_biết , một trong những nguyên_nhân khiến ATM nuốt thẻ có_thể đến từ việc người sử_dụng thao_tác thiếu cẩn_trọng .
+Trên thực_tế , trước khi cho_phép rút , ATM của một_số ngân_hàng đòi_hỏi chủ thẻ trả_lời rút_tiền từ tài_khoản nào .
+Không ít người do vội_vàng , không để_ý đã lựa_chọn tài_khoản tiết_kiệm , tín_dụng ... thay_vì " tài_khoản thanh_toán " .
+Thao_tác với máy ATM cẩn_trọng cũng là cách để hạn_chế gặp trục_trặc .
+Ảnh : Lệ_Chi .
+Ngoài_ra , dù máy nhả thẻ cũng không có_nghĩa giao_dịch của bạn đã kết_thúc .
+Nhiều người không để_ý , sau khi ATM nhả thẻ liền bỏ đi mà không đợi lấy tiền .
+Các chuyên_gia khuyến_cáo , khách_hàng nên chờ trong thời_gian ít_nhất 60 giây để chắc_chắn giao_dịch đã kết_thúc .
+Bên_cạnh đó , điều gây phiền_phức nhất trong dịp Tết là bị nuốt thẻ bởi các nhà_băng sẽ khó hỗ_trợ hoàn thẻ ATM trong thời_gian nghỉ lễ .
+Do_đó , bạn cần thao_tác hết_sức cẩn_trọng trên máy .
+Không vội_vàng và không tự_ý đóng hay thoát màn_hình nếu thấy giao_dịch xử_lý quá lâu .
+Trường_hợp xấu , bị nuốt thẻ mà vẫn cần rút_tiền mặt , sau khi báo cho ngân_hàng qua đường_dây_nóng , bạn có_thể dùng Internet_Banking , Mobile_Banking để chuyển bớt số tiền_của mình sang người_thân và nhờ họ rút hộ .
+Trong trường_hợp màn_hình ATM thông_báo " giao_dịch không thực_hiện được " , bạn có_thể thử lại bằng cách lựa_chọn số tiền rút nhỏ hơn hoặc nằm trong những mệnh_giá được máy gợi_ý sẵn trên màn_hình thay_vì tự nhập số mới .
+Các nhân_viên IT của ngân_hàng giải_thích , đôi_khi ATM gặp trục_trặc nếu nhận yêu_cầu cho các mệnh_giá lớn .
+Ngược_lại , nếu bạn nhất_định cần trả ngay một_số tiền_lẻ và ở nơi khó đổi tiền , bạn lại nên thử đặt lệnh rút số tiền_lẻ ( ví_dụ 600.000 thay_vì 500.000 đồng ) để hạn_chế việc máy chỉ nhả ra tiền_chẵn .
+Ngoài_ra , với những ATM chưa trang_bị phần che bàn_phím , bạn nên cố_gắng dùng tay để che khi nhập mã PIN để tránh bị kẻ_gian lợi_dụng , lộ thông_tin thẻ .
+Thực_tế cho thấy , rất nhiều người dù chưa đến lượt mình rút_tiền cũng cố_tình lao vào trước màn_hình khi bạn đang thao_tác .
+Do_đó , mỗi chủ thẻ nên chủ_động tìm cách bảo_vệ thông_tin cá_nhân khi giao_dịch .
+Sự_cố khi chuyển_tiền trên ebank , ATM
+Trong_Tết , bạn vẫn có_thể lì_xì hay chuyển_tiền cho người_thân , dù khác hệ_thống ngân_hàng nhưng cần kiểm_tra kỹ thông_tin người thụ_hưởng , thông_tin chuyển_tiền chỉ gồm các ký_tự chữ_cái không dấu và chữ_số ; không bao_gồm ký_tự đặc_biệt ( ví_dụ dấu ‘ & ’ , ‘ _ ’ , ‘ + / - ‘ , ‘ % ’ , ‘ $ ” … . ) .
+Sau khi xác_nhận chuyển_tiền , khách_hàng cần chờ và kiểm_tra kết_quả giao_dịch chuyển_tiền hiển_thị trên màn_hình giao_dịch .
+Không đóng màn_hình giao_dịch cho_đến khi nhận được kết_quả giao_dịch .
+Với những trường_hợp có sai_sót khi chuyển_tiền , vệc đối soát hoặc tra soát khiếu_nại sẽ được thực_hiện theo yêu_cầu của bên nào đến trước ( bên khách_hàng , khi khách chủ_động thông_báo lên_đường dây_nóng hoặc bên tổ_chức phát_hành thẻ ) .
+Do_đó , nếu chuyển_tiền nhưng người thụ_hưởng chưa nhận tiền , bạn nên bình_tĩnh để từng bước thực_hiện các quy_trình .

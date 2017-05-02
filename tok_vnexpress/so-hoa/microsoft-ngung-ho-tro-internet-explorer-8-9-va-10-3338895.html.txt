@@ -1,0 +1,10 @@
+Microsoft ngừng hỗ_trợ Internet_Explorer 8 , 9 và 10
+Tập_đoàn phần_mềm Mỹ sẽ không cung_cấp các bản vá bảo_mật cho trình_duyệt cũ trên máy_tính Windows kể từ ngày 12/1/2016 .
+Từ tuần tới , Microsoft sẽ chỉ phát_hành bản cập_nhật và sửa lỗi cho Internet_Explorer 11 chạy trên Windows 7 , Windows 8.1 và Windows 10 .
+Công_ty này đã thông_báo kế_hoạch ngừng hỗ_trợ các trình_duyệt cũ từ tháng 8/2014 .
+Người dùng Internet_Explorer cần nâng_cấp lên bản 11 .
+Nếu tiếp_tục sử_dụng trình_duyệt lỗi_thời , thiết_bị của người dùng sẽ có nguy_cơ bị nhiễm mã độc và trở_thành nạn_nhân trong các cuộc tấn_công mạng .
+Microsoft khuyến_khích người dùng cập_nhật lên bản Internet_Explorer 11 với " tốc_độ nhanh hơn , mang lại trải_nghiệm tốt hơn , nhiều tính_năng hơn và bảo_mật hơn " .
+Tuy_nhiên , Microsoft sẽ vẫn tiếp_tục hỗ_trợ Internet_Explorer 9 trên máy_tính chạy Windows_Vista .
+Ngoài_ra , họ duy_trì việc cung_cấp bản vá cho các phiên_bản trình_duyệt cũ trên trên một_số hệ_điều_hành máy_chủ doanh_nghiệp .
+Minh_Minh

@@ -1,0 +1,47 @@
+C . P_Việt_Nam quản_lý hàng triệu con_heo bằng phần_mềm
+Toàn_bộ heo của C . P_Việt_Nam tham_gia đề_án truy_xuất nguồn_gốc qua vòng nhận_diện và tem được kiểm_soát bằng phần_mềm quản_lý online .
+Ngày 16/12 , người_dân TP_HCM lần đầu_tiên có_thể sử_dụng điện_thoại thông_minh kiểm_tra nguồn_gốc miếng thịt heo .
+Đây là đề_án kiểm_soát chất_lượng thịt qua hệ_thống vòng nhận_diện và con tem .
+Công_ty_cổ_phần chăn_nuôi C . P_Việt_Nam là một trong những doanh_nghiệp tham_gia chương_trình này .
+Tổng_giám_đốc Montri_Suwanposri cho_biết , bằng phần_mềm online , hệ_thống trang_trại quản_lý chặt quy_trình từ khi con_heo sinh_ra đến lúc xuất bán thịt .
+- TP_HCM triển_khai đề_án kiểm_soát thịt heo bằng hệ_thống đeo vòng nhận_diện truy_xuất nguồn_gốc .
+Ông đánh_giá thế_nào về động_thái này ?
+- Quản_lý chất_lượng nông_sản bằng biện_pháp truy_xuất nguồn_gốc từ sản_xuất đến tiêu_thụ là một giải_pháp tiến_bộ mà nhiều quốc_gia trên thế_giới quan_tâm , nhất_là ở các nước có nền nông_nghiệp đi đầu như Nhật_Bản , châu Âu .
+Đề_án thể_hiện sự quyết_tâm của thành_phố đối_với vấn_đề an_toàn vệ_sinh thực_phẩm , đặc_biệt là với ngành_hàng thịt heo .
+Với cách làm tất_cả heo sống và heo mảnh đưa vào thành_phố tiêu_thụ phải được nhận_diện và truy_xuất nguồn_gốc bằng vòng nhận_diện đeo ở chân , tôi tin sau khi triển_khai rộng_rãi , lượng thịt heo trên địa_bàn thành_phố sẽ đảm_bảo an_toàn .
+Ông Montri_Suwanposri , Tổng_giám_đốc Công_ty_cổ_phần chăn_nuôi C . P_Việt_Nam .
+- Quy_trình kiểm_soát thịt heo qua hệ_thống vòng nhận_diện ở C . P_Việt_Nam diễn ra thế_nào ?
+- Hệ_thống sản_xuất thịt heo của công_ty bắt_đầu_từ sản_xuất con_giống .
+Heo con tách mẹ lúc 3 tuần tuổi , chuyển đến một địa_điểm khác để nuôi cho_đến khi xuất chuồng , bán thịt .
+Phương_pháp này được gọi_là hệ_thống chăn_nuôi 2 điểm , khác với hệ_thống chăn_nuôi một điểm là heo con sinh_ra và nuôi cho_đến xuất bán thịt trên cùng một trang_trại .
+Hệ_thống chăn_nuôi của chúng_tôi còn áp_dụng giải_pháp cùng vào - cùng ra .
+Tất_cả heo con được sinh_ra từ một trại heo nái , cùng một tuần tuổi , cai_sữa cùng ngày và chuyển đi nuôi cùng trong một chuồng cho_đến khi xuất bán thịt .
+Nhờ vậy , chúng_tôi quản_lý chính_xác về thức_ăn , nuôi_dưỡng theo từng nhóm từ khi sinh_ra cho_đến khi xuất bán thịt .
+Tất_cả hệ_thống này đều thực_hiện bằng phần_mềm quản_lý online .
+Khi heo đến tuổi xuất chuồng , sẽ được chuyển về các trung_tâm bán heo hơi và trước khi xuất bán cho TP_HCM , chúng_tôi đeo vòng nhận_diện để truy_xuất nguồn_gốc .
+Mặc_dù chúng_tôi có đầy_đủ dữ_liệu của con_heo từ khi sinh_ra , nhưng trước_mắt , theo giai_đoạn 1 của đề_án là truy_xuất nguồn_gốc từ trang_trại .
+Nên sang giai_đoạn 2 chúng_tôi sẽ kết_nối dữ_liệu để người tiêu_dùng có_thể biết thêm các thông_tin khác trong quá_trình nuôi_dưỡng .
+- Việc đeo vòng nhận_diện và dán tem lên từng miếng thịt heo sẽ kiểm_soát vấn_đề an_toàn vệ_sinh thực_phẩm ra_sao ?
+- Doanh_nghiệp , người chăn_nuôi khi đeo vòng nhận_diện vào chân heo để xuất bán là tự khẳng_định và chịu trách_nhiệm với khách_hàng .
+Chỉ cần vài thao_tác kiểm_tra đơn_giản , mọi người có_thể truy rõ nguồn_gốc của miếng thịt .
+Nếu_không đảm_bảo chất_lượng , doanh_nghiệp sẽ mất uy_tín , thương_hiệu , nên chúng_tôi tuyệt_đối tuân_thủ nguyên_tắc an_toàn vệ_sinh thực_phẩm .
+Với cách quản_lý này , C . P đang nuôi hàng triệu con_heo nhưng vẫn đảm_bảo chuẩn đầu_ra thống_nhất .
+Tất_cả các trang_trại của C . P_Việt_Nam đều quản_lý trên hệ_thống online .
+- Với hệ_thống trang_trại lớn cả gia_súc lẫn gia_cầm trải dài khắp tại nhiều địa_phương , làm thế_nào để công_ty giám_sát , truy_xuất nguồn_gốc 100% sản_phẩm ?
+- Hoạt_động chăn_nuôi của C . P_Việt_Nam thực_hiện theo phương_thức hợp_tác giữa người_dân và công_ty .
+Trong đó , toàn_bộ chuỗi giá_trị sản_xuất thực_phẩm như con_giống , thức_ăn chăn_nuôi , giám_sát kỹ_thuật chăn_nuôi đều do công_ty thực_hiện .
+Các ứng_dụng công_nghệ phục_vụ cho quản_lý , ví_dụ các hệ_thống phần_mềm có_thể ghi_chép lại hiệu_quả trong chăn_nuôi heo như sử_dụng thức_ăn chăn_nuôi gì , từ nhà_máy nào , vào ngày_tháng năm nào , sử_dụng thuốc thú_y gì … Hệ_thống giám_sát hành_trình ( GPS ) hay camera online đều được công_ty lắp_đặt và theo_dõi tại văn_phòng công_ty .
+Hợp_đồng hợp_tác chăn_nuôi giữa công_ty với người_dân cũng thể_hiện rất rõ các quy_định cấm tự_ý sử_dụng thuốc thú_y ngoài danh_mục của C . P_Việt_Nam và chỉ do công_ty cung_cấp .
+Chúng_tôi nghiêm_cấm sử_dụng các chất cấm theo quy_định của Bộ Nông nghiệp và Phát_triển nông_thôn .
+Trước khi xuất bán thịt , công_ty còn thực_hiện kiểm_tra nước_tiểu .
+Công_ty ứng_dụng hệ_thống quản_lý theo tiêu_chuẩn ISO , VietGAHP , Chứng_nhận an_toàn dịch_bệnh , hay tiêu_chuẩn riêng của CP như SHE ( an_toàn - sức_khỏe - môi_trường ) .   Hệ_thống quản_lý này giúp C . P tăng_cường các giải_pháp quản_lý và cải_tiến kỹ_thuật , đặc_biệt là môi_trường , như ứng_dụng biogas , máy ép tách phân heo , tái_sử_dụng nguồn nước , tiết_kiệm năng_lượng .
+Mỗi con_heo sẽ được gắn hai cái vòng , mỗi miếng thịt được gắn tem .
+- Ông có chia_sẻ , giá_thành chăn_nuôi heo ở Việt_Nam cao hơn một_số nước 30% .
+Vậy doanh_nghiệp cần làm_gì để tăng sức cạnh_tranh ?
+- Tới đây , hoạt_động sản_xuất chăn_nuôi tại Việt_Nam phải cạnh_tranh với các sản_phẩm công_nghệ_cao ở những nước phát_triển trước làn_sóng thương_mại tự_do ngày_càng mạnh_mẽ .
+Giá_thành chăn_nuôi heo ở Việt_Nam cao hơn một_số nước 30% cho thấy sức cạnh_tranh của chúng_ta yếu hơn nhiều .
+Vấn_đề mấu_chốt là nâng cao hiệu_quả của toàn_bộ các khâu trong chuỗi giá_trị sản_xuất thực_phẩm để sản_xuất ra giá_thành cạnh_tranh .
+Bất_kể doanh_nghiệp hay nông_hộ tham_gia vào chuỗi giá_trị ở khâu nào thì_phải suy_nghĩ tính_toán ở khâu đó .
+Ví_dụ như trồng bắp như_thế_nào để có_giá cạnh_tranh thì chăn_nuôi mới sử_dụng bắp trong nước , không phải nhập_khẩu , trong khi đó thức_ăn chăn_nuôi chiếm trên 60% giá_thành chăn_nuôi .
+Nếu có chiến_lược bài_bản thì chăn_nuôi Việt_Nam vẫn có nhiều thế mạnh để phát_triển .
+Thu_Ngân

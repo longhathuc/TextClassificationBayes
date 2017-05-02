@@ -1,0 +1,39 @@
+Tâm_thư Tim_Cook gửi toàn_thể nhân_viên Apple
+Về cuộc_chiến pháp_lý giữa Apple và FBI , đầu tuần , Tim_Cook đã gửi thư tới toàn_thể nhân_viên để cảm_ơn về sự ủng_hộ Apple và bày_tỏ phán_quyết của tòa_án sẽ tạo tiền_lệ nguy_hiểm .
+Tuần trước tòa_án liên_bang Mỹ đã yêu_cầu Apple hỗ_trợ FBI mở khóa chiếc i Phone 5C của một kẻ khủng_bố , người đã giết liên_hoàn 14 sinh_mạng tại California hồi cuối năm_ngoái .   Một_mặt , FBI khẳng_định yêu_cầu của họ chỉ ảnh_hưởng đến duy_nhất một chiếc i Phone .
+Tuy_nhiên , Tim_Cook cho rằng câu_chuyện không đơn_giản như_vậy .
+Ông đánh_giá phán_quyết của tòa_án sẽ tạo ra một tiền_lệ nguy_hiểm chưa từng có và sẽ đe_dọa quyền riêng_tư và bảo_mật của người dùng .
+Sau đây là toàn_văn bức thư mà CEO Tim_Cook gửi đến nhân_viên của Apple đầu tuần này , được đăng_tải lần đầu bởi trang BuzzFeed News .
+" Cảm_ơn vì sự giúp_đỡ của các bạn .
+Các bạn ,
+Tuần trước , chúng_ta đã mời đông_đảo khách_hàng và người_dân của nước Mỹ tham_gia một buổi tọa_đàm , nơi mà những vấn_đề quan_trọng của đất_nước được đưa ra thảo_luận .
+Tôi rất cảm_kích trước những góp_ý cũng_như sự hỗ_trợ nhiệt_tình mà Apple đã và đang nhận được .
+Dưới danh_nghĩa là những cá_nhân và một tổ_chức , chúng_ta không tha_thứ cho bất_cứ hành_vi khủng_bố nào .
+Khi những vụ_việc thương_tâm như tấn_công khủng_bố tại San_Bernardino xảy_ra , chúng_ta đã rất tích_cực giúp các nhà điều_tra tìm lại công_lý cho những nạn_nhân .
+Vụ_việc lần này không_chỉ đơn_thuần là về một chiếc điện_thoại hay một cuộc điều_tra .
+Khi nhận được phán_quyết của tòa_án , ta cần phải lên_tiếng .
+Phán_quyết đó đã tạo ra một tiền_lệ nguy_hiểm chưa từng có , đe_dọa nghiêm_trọng bảo_mật thông_tin của hàng trăm triệu khách_hàng .
+Mục_đích chúng_ta sử_dụng công_nghệ mã_hóa là để bảo_vệ khách_hàng .
+Chúng_ta luôn cố_gắng cải_thiện những biện_pháp an_ninh bởi lẽ những nguy_cơ về tấn_công mạng đang hiện_hữu một_cách thường_xuyên và phức_tạp hơn bao_giờ hết .
+Những người ủng_hộ phán_quyết của tòa_án muốn chúng_ta phát_triển lại những tính_năng bảo_mật trên hệ_điều_hành i OS 7 , sản_phẩm mà chúng_ta ra_mắt tháng 9/2013 .
+Bắt_đầu_từ hệ_điều_hành i OS 8 , chúng_ta đã thay_đổi cách_thức hoạt_động của công_nghệ mã_hóa để chắc_chắn rằng chính chiếc i Phone cũng không_thể đọc thông_tin của người dùng nếu_không có mật_khẩu .
+Như_vậy cho_dù nó có bị mất hay đánh_cắp , thì thông_tin cá_nhân , tài_chính , sức_khỏe và những cuộc trò_chuyện của người dùng vẫn an_toàn .
+Chúng_ta đều hiểu rằng quay lại quá_khứ trong trường_hợp này là một ý_tưởng tồi_tệ .
+Trong một tuần trở_lại đây , tôi đã nhận được email từ hàng nghìn người trên khắp nước Mỹ , và phần_lớn đều ủng_hộ Apple .
+Một nhà_phát_triển ứng_dụng 13 tuổi đã cảm_ơn chúng_ta về việc ' bảo_vệ những thế_hệ tương_lai ' .
+Trong khi đó một cựu_chiến_binh 30 tuổi nói với tôi rằng : ' Giống như sự tự_do , tôi coi quyền riêng_tư của mình là một kho báu ' .
+Tôi cũng đã nhận được nhiều email từ các bạn và tôi rất trân_trọng điều này .
+Rất nhiều khách_hàng vẫn có câu_hỏi về vụ_việc lần này và chúng_ta phải chắc_chắn rằng họ hiểu được những thực_tế .
+Vì_thế hôm_nay Apple đã đăng câu trả_lời trên website để cung_cấp thêm thông_tin cho khách_hàng .
+Tôi khuyến_khích các bạn_đọc qua chúng .
+Apple là một công_ty của Mỹ .
+Chúng_tôi không muốn chống_đối lại chính_phủ trong một vụ_việc nơi mà bảo_vệ sự tự_do và công_lý là sứ_mệnh chung .
+Đất_nước của chúng_ta trở_nên hùng_mạnh nhất khi mọi người đứng lại gần nhau .
+Tôi nghĩ rằng bước_đi tiếp_theo mà chính_phủ nên theo_đuổi đó là rút lại yêu_cầu từ tòa_án , sau đó tổ_chức các cuộc thảo_luận với những chuyên_gia tình_báo , công_nghệ và tư_pháp để bàn giải_pháp bảo_vệ an_ninh quốc_gia , quyền riêng_tư và sự tự_do của người_dân Mỹ .
+Apple sẵn_sàng tham_gia vào những sự_kiện như_vậy .
+Các khách_hàng đã tin_tưởng gửi_gắm thông_tin cá_nhân của họ cho chúng_ta , và những thông_tin đó đang trở_nên ngày_càng quan_trọng .
+Các bạn đã làm rất tốt trong việc bảo_vệ chúng .
+Cảm_ơn các bạn .
+Tim "
+Xem toàn văn_thư bằng tiếng Anh
+Nguyễn_Mai_Đức

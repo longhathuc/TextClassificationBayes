@@ -1,0 +1,35 @@
+Sự khác_nhau giữa bom_nguyên_tử và nhiệt_hạch
+Đây là hai loại vũ_khí_hạt_nhân có sức công_phá mạnh nhất hiện_nay .
+Bom nhiệt_hạch ( bom H ) được giới khoa_học cho rằng có sức công_phá mạnh hơn nhưng không phổ_biến bằng bom_nguyên_tử ( bom A ) .
+Bom_nguyên_tử hoạt_động theo nguyên_lý phân_hủy các hạt_nhân nặng - không bền như urani hay plutoni thành các hạt_nhân nhẹ hơn và giải_phóng năng_lượng .
+Quá_trình nổ bom_nguyên_tử xảy_ra theo một phản_ứng_dây_chuyền , bắt_đầu khi một neutron ( hạt trung_hòa điện trong hạt_nhân nguyên_tử ) va_chạm với một hạt_nhân urani hoặc plutoni , làm hạt_nhân này vỡ ra thành các nguyên_tố bền hơn ( thường là barium và krypton ) .
+Quá_trình này giải_phóng năng_lượng dưới dạng nhiệt , phóng_xạ tia_gamma và một_số neutron .
+Các neutron này lặp lại quá_trình trên cho tới khi hết nhiên_liệu phản_ứng .
+Phản_ứng_dây_chuyền này diễn ra trong thời_gian rất ngắn , cỡ một phần triệu giây .
+Sức công_phá của một quả bom_nguyên_tử tương_đương với từ 1.000 tấn ( 1 KT ) đến vài trăm_nghìn tấn thuốc_nổ TNT .
+Với mỗi loại nhiên_liệu bom_nguyên_tử có một khối_lượng đặc_trưng , gọi_là khối_lượng tới hạn .
+Khi khối_lượng nhiên_liệu nhỏ hơn khối_lượng này thì phản_ứng_dây_chuyền không xảy_ra .
+Nhiên_liệu phản_ứng trong mỗi quả bom sẽ được chia tách ra các phần dưới hạn để đảm_bảo an_toàn .
+Muốn kích nổ chỉ cần ghép các phần riêng_rẽ này thành một khối .
+Khối_lượng này của urani 235 tinh_khiết là 50kg .
+Cho tới nay , Mỹ là nước duy_nhất sử_dụng bom_nguyên_tử trong chiến_tranh .
+Quả bom thứ nhất mà Mỹ thả xuống thành_phố Hiroshima ngày 6/8/1945 có sức công_phá khoảng 15 KT , quả thứ_hai thả xuống Nagasaki ba ngày_sau đó có sức công_phá khoảng 20 KT .
+Đây là một phần kết_quả của dự_án Manhattan nghiên_cứu về vũ_khí_hạt_nhân của Mỹ ở Thế_chiến II .
+Được_Mỹ bắt_đầu nghiên_cứu phát_triển vào những năm đầu 1950 , bom nhiệt_hạch được cho là có sức công_phá mạnh gấp hàng ngàn lần bom_nguyên_tử .
+Sự khác_nhau cơ_bản giữa hai loại là bom phân_hạch giải_phóng năng_lượng từ quá_trình tổng_hợp hai hạt_nhân nhẹ ( hydro ) thành một hạt_nhân nặng hơn ( heli ) .
+Đây cũng là phản_ứng đang diễn ra trên Mặt_Trời .
+Tuy_nhiên , do các hạt_nhân đều tích điện dương và đẩy nhau , cần phải có một năng_lượng rất lớn , hay một nhiệt_độ rất cao để đưa chúng tới khoảng_cách đủ gần để xảy_ra phản_ứng tổng_hợp hạt_nhân .
+Điều_kiện này chỉ có_thể đạt được nhờ cho nổ một quả bom_nguyên_tử .
+Như_vậy , một quả bom nhiệt_hạch là một quả bom kép , trước_tiên phải cho nổ bom_nguyên_tử để tạo điều_kiện cho phản_ứng nhiệt_hạch xảy_ra .
+Năng_lượng giải_phóng từ một vụ nổ nhiệt_hạch có_thể ngay_lập_tức phá_hủy mọi thứ trong vòng bán_kính vài km .
+Nhiệt_lượng cực lớn có_thể gây ra các cơn bão lửa ; ánh_sáng trắng cường_độ cao từ vụ nổ có_thể gây mù_lòa .
+Bụi phóng_xạ và các sản_phẩm phụ của phản_ứng như cesium - 137 và strontium - 90 có_thể đầu_độc các sinh_vật sống , ô_nhiễm không_khí , đất và nguồn nước trong hàng trăm_năm .
+Công_nghệ hiện_nay đã cho_phép chế_tạo ra các đầu đạn nhiệt_hạch đủ nhỏ để gắn vào tên_lửa_đạn_đạo hoặc đạn pháo .
+Hiện có 9 nước tuyên_bố có sở_hữu vũ_khí_hạt_nhân , bao_gồm Mỹ , Anh , Pháp , Nga , Trung_Quốc , Ấn Độ , Pakistan và Triều_Tiên .
+Trong đó , chỉ có 5 nước Mỹ , Anh , Pháp , Nga , Trung_Quốc có bom nhiệt_hạch .
+Triều_Tiên mới_đây cũng đã tuyên_bố có bom nhiệt_hạch nhưng chưa có bằng_chứng cụ_thể .
+Iran và Syria từng bị Mỹ cáo_buộc tàng_trữ vũ_khí_hạt_nhân .
+Lo_ngại nguy_cơ xảy_ra chiến_tranh_hạt_nhân , Hiệp_ước không phổ_biến Vũ_khí Hạt_nhân ( NPT ) được nhiều nước ký_kết từ năm 1968 , nhằm ngăn_ngừa sự phổ_biến rộng_rãi và sở_hữu loại vũ_khí này , đồng_thời khuyến_khích nghiên_cứu sử_dụng kỹ_thuật hạt_nhân cho mục_đích hòa_bình .
+Cho tới nay đã có 190 nước tham_gia .
+Việt_Nam tham_gia năm 1981 .
+Nguyễn_Thành_Minh   ( theo   PBS/Fox News/Inventors )

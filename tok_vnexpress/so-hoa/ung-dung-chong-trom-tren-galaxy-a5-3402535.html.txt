@@ -1,0 +1,30 @@
+Ứng_dụng chống trộm trên Galaxy A5
+Kích_hoạt ứng_dụng Android_Device_Manager trên Galaxy A5 , làm theo các hướng_dẫn sẽ giúp người dùng định_vị vị_trí của thiết_bị và nhanh_chóng tìm lại máy .
+Ứng_dụng Android_Device_Manager được xem công_cụ có khả_năng chống trộm hiệu_quả trên Galaxy A5 .
+Bạn có_thể làm theo hướng_dẫn sau đây để tìm lại chiếc máy nếu chẳng may bị mất .
+Kích_hoạt Android_Device_Manager trên Galaxy A5 2016
+Trước khi thiết_lập , bạn nên kiểm_tra và cập_nhật lên phiên_bản mới nhất tại đây .
+Android_Device_Manager là dịch_vụ tìm_kiếm điện_thoại bị mất , hỗ_trợ các tính_năng như định_vị vị_trí của thiết_bị , rung chuông hoặc xóa toàn_bộ nội_dung có trên máy .
+Bạn khởi chạy ứng_dụng , đăng_nhập tài_khoản Gmail tương_ứng khi sử_dụng trên chiếc Galaxy A5 2016 .
+Trong lần đầu_tiên sử_dụng , Android_Device_Manager sẽ yêu_cầu bạn đồng_ý với một_số điều_khoản của dịch_vụ , tiếp_tục nhấn “ Accept ” để xác_nhận là hoàn_tất .
+Sử_dụng Android_Device_Manager trên Galaxy A5 2016
+Các bước thiết_lập Android_Device_Manager trên Galaxy A5 đã kết_thúc .
+Trong trường_hợp điện_thoại bị thất_lạc , người dùng có_thể truy_cập vào trình quản_lý thiết_bị Android , sau đó đăng_nhập bằng tài_khoản Google .
+Khi trình_duyệt đề_nghị cho_phép Android_Device_Manager sử_dụng dữ_liệu địa_điểm hiển_thị ra trên màn_hình , bạn bấm vào nút “ Đồng_ý ” để tiếp_tục .
+Sau khi đăng_nhập , bạn sẽ được quyền truy_cập vào trang_web quản_lý thiết_bị .
+Tại đây , tên của máy là Galaxy A5 2016 sẽ hiện thị ra ở đầu trang , đi kèm theo 3 tùy chọn khác là “ Đổ chuông ” , “ Khóa ” và “ Xóa ” .
+Vị_trí tương_ứng của máy cũng tự_động hiển_thị lên bản_đồ , bao_gồm lần sử_dụng cuối và thời_gian tương_ứng .
+Chức_năng “ Đổ chuông ” cho_phép máy đổ chuông trong 5 phút ở mức âm_lượng cao nhất , bất_kể là thiết_bị đang ở chế_độ im_lặng hay rung .
+Tùy chọn “ Khóa ” cho_phép bạn khóa thiết_bị từ xa ngay_lập_tức để không ai có_thể xem trộm dữ_liệu có trên máy .
+Ngoài_ra , bạn có_thể để lại một đoạn thông_báo trên màn_hình khóa , trong đó có một_số nội_dung như tên chủ_tài_khoản , địa_chỉ và số điện_thoại liên_lạc chẳng_hạn , trong trường_hợp có người nhặt được và muốn trả lại cho chủ_nhân .
+Để thực_hiện việc khóa thiết_bị , khi nhấn vào mục “ Khóa ” , Android_Device_Manager sẽ yêu_cầu bạn xác_lập mật_khẩu và gửi tin nhắn khôi_phục đến máy .
+Khi đó , điện_thoại sẽ ngay_lập_tức được khóa từ xa với mật_khẩu mới , đồng_thời hiển_thị trên màn_hình khóa đoạn tin nhắn tương_ứng .
+Nếu cả hai công_cụ trên đều không giúp bạn tìm lại được chiếc máy của mình thì chỉ còn cách cuối_cùng là xóa toàn_bộ dữ_liệu có trên máy , nhằm đảm_bảo an_toàn dữ_liệu cá_nhân , nghĩa_là máy sẽ khôi_phục hệ_điều_hành về trạng_thái nguyên_bản .
+Khi nhấn chọn vào mục “ Xóa ” , tất_cả thiết_lập trong phần settings , nhạc , hình_ảnh , email , thông_tin ứng_dụng ... lưu trên máy sẽ bị xóa hoàn_toàn .
+Tuy_nhiên , lưu_ý là dữ_liệu có lưu trên thẻ nhớ sẽ không_thể xóa được theo cách này .
+Nếu bạn nhấn nút “ Xóa ” trong lúc máy đang offline , không có kết_nối 3G/4G hay Wi-Fi thì ngay khi thiết_bị online trở_lại , tiến_trình này sẽ được thực_hiện một_cách tự_động mà bên ngoài không_thể can_thiệp vào .
+Galaxy A5 2016 là mẫu smartphone tầm trung kế_thừa thiết_kế tinh_xảo của dòng Galaxy S và Galaxy_Note cao_cấp , kết_hợp giữa chất_liệu kính và kim_loại .
+Máy   trang_bị chip xử_lý Exynos 7480 8 nhân xung nhịp 1,6 GHz .
+Smartphone này sở_hữu camera 13MP khẩu_độ f / 1.9 ,
+màn_hình 5,2 inch độ_phân_giải HD cho khả_năng hiển_thị sắc nét cùng viên pin dung_lượng lớn , lên đến 2.900 mAh , tích_hợp nhiều tính_năng thông_minh giúp tối_ưu_hóa thời_lượng sử_dụng của máy .
+Mai_Thương

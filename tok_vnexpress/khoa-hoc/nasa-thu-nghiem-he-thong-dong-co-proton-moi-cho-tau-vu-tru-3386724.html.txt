@@ -1,0 +1,25 @@
+NASA thử_nghiệm hệ_thống động_cơ proton mới cho tàu_vũ_trụ
+Theo Cơ quan hàng_không_vũ_trụ Mỹ ( NASA ) , đây là hệ_thống động_cơ hứa_hẹn có_thể đưa tàu không_gian ra ngoài hệ Mặt_Trời với tốc_độ cao hơn hiện_nay rất nhiều .
+Nó có_thể bay tới vùng_đệm nhật quyển ( heliopause ) của hệ Mặt_Trời trong vòng 10 năm .
+Tàu_Voyager 1 phải mất tới 35 năm để bay tới vùng này , theo NASA .
+Hệ_thống này có tên gọi_là Herts E-sail , có_thể hoạt_động mà không cần chất_nổ đẩy .
+Thay vào đó , nó sẽ sử_dụng năng_lượng từ gió Mặt_Trời để đi tới rìa Thái_Dương hệ .
+Một con tàu_vũ_trụ sẽ sử_dụng 10 đến 20 dây nhôm tích điện để tạo ra một " cánh buồm điện_tử " ( E-sail ) khổng_lồ .
+Mỗi dây nhôm có bề_dày chỉ một mm nhưng dài hơn 8 km , tương_đương 219 sân bóng_đá .
+Các cánh buồm điện_tử này sẽ đẩy các proton có trong gió Mặt_Trời , tạo ra lực đẩy cho tàu_vũ_trụ .
+" Mặt_Trời giải_phóng các proton và electron với tốc_độ rất cao , 400 đến 750 km / s .
+E-sail sẽ sử_dụng những proton này để đẩy tàu_vũ_trụ đi " , Bruce_Wiegmann , kỹ_sư thuộc Văn_phòng khái_niệm tiên_tiến Marshall và nhà_nghiên_cứu cơ_bản của Herts E-sail cho_biết .
+Các nhà_nghiên_cứu của Trung_tâm bay vũ_trụ Marshall tại Huntsville , Alabama đã bắt_đầu tiến_hành các thử_nghiệm dự_kiến diễn ra trong hai năm .
+Những thử_nghiệm này nhằm mục_đích xác_định tổng_số proton bị làm chệch hướng bởi các dây nhôm và số_lượng electron bị các proton này hút .
+Các kỹ_sư cũng sẽ kiểm_tra plasma , cải_thiện các mô_hình dữ_liệu cho các bước phát_triển E-sail trong tương_lai .
+Tuy_nhiên , theo các nhà_nghiên_cứu , còn rất nhiều việc phải làm và dự_kiến phải mất 10 năm để có_thể đưa công_nghệ này ra sử_dụng trong thực_tế .
+Theo lý_thuyết , khi bay ngoài vũ_trụ , khu_vực hiệu_quả của các cánh buồm điện_tử cũng sẽ được nâng_cấp dần .
+Tại khoảng_cách 1 đơn_vị thiên_văn AU , khu_vực này khoảng 600 km2 , nhưng ở khoảng_cách 5 AU , nó tăng lên gần 1.200 km2 .
+Thông_thường , năng_lượng của các photon năng_lượng Mặt_Trời mất đi khi một cánh buồm Mặt_Trời đi tới khoảng_cách 5 AU tại vành_đai tiểu hành_tinh , làm cho quá_trình gia_tốc bị dừng lại .
+Nhưng E-sail vẫn tiếp_tục tăng_tốc khi vượt qua khoảng_cách này , nhờ vào các proton trong gió Mặt_Trời .
+" Những lo_ngại về việc ngừng tăng_tốc không áp_dụng cho các proton từ gió Mặt_Trời .
+Với các dòng_chảy liên_tục của proton và sự gia_tăng của khu_vực hiệu_quả , E-sail sẽ tiếp_tục tăng_tốc tới khoảng_cách 16 đến 20 AU , gấp ít_nhất ba lần so với buồm Mặt_Trời , tốc_độ cũng sẽ cao hơn rất nhiều " , Wiegmann nói .
+Các nhà_nghiên_cứu hy_vọng tàu_vũ_trụ trang_bị công_nghệ này có_thể bay ra ngoài hệ Mặt_Trời trong vòng dưới 10 năm , trong khi tàu Voyager 1 của NASA tiến vào_khoảng không ngoài hệ Mặt_Trời vào năm 2012 , 35 năm sau khi khởi_hành .
+Ngoài_ra , E-sail còn có_thể tùy chỉnh cho các chuyến bay khác_nhau , bên trong hay bên ngoài các hành_tinh , hoặc tới vùng_đệm nhật quyển .
+Mỗi khoảng_cách sẽ có yêu_cầu khác_nhau về chiều dài dây , số_lượng dây và điện_áp đặt vào .
+Nguyễn_Thành_Minh

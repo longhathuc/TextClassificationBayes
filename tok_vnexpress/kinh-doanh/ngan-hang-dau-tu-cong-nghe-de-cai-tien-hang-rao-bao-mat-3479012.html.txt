@@ -1,0 +1,21 @@
+Ngân_hàng đầu_tư công_nghệ để cải_tiến ' hàng_rào bảo_mật '
+Viet_Capital_Bank , VIB , ACB ... sử_dụng thẻ chip điện_tử EMV để tăng tính bảo_mật , đảm_bảo an_toàn cho người sử_dụng .
+Vài năm trở_lại đây , nhiều tổ_chức tín_dụng Việt_Nam và quốc_tế đã trở_thành mục_tiêu tấn_công của tin_tặc , do_đó an_toàn bảo_mật thông_tin cho khách_hàng luôn được các ngân_hàng đặt ở mức ưu_tiên cao nhất .
+Trước_hết là việc thay_thế thẻ từ truyền_thống sang chip điện_tử EMV .
+Với thẻ từ , thông_tin chủ_tài_khoản thể_hiện bên dưới lớp băng_từ , cố_định , không được mã_hóa và lưu_trữ dưới dạng văn_bản khiến việc lấy cắp thông_tin qua các đầu_đọc thẻ khá dễ_dàng .
+Còn với thẻ sử_dụng chip điện_tử EMV , thông_tin được mã_hóa trên con chip nằm ở bề_mặt thẻ , giúp tăng tính bảo_mật bằng các khóa mật_mã để chứng_minh thẻ là bản_gốc , và theo một quá_trình xác_thực động , xác_nhận tính hợp_lệ của cả thẻ và đầu_đọc thẻ .
+Không_những thế , mọi giao_dịch đều phải trải qua một quy_trình xác_thực khép_kín với sự tham_gia của ba bên : ngân_hàng thanh_toán , tổ_chức thẻ và ngân_hàng phát_hành .
+Do_đó , tính bảo_mật được đánh_giá là khá chắc_chắn và an_toàn .
+Hiện_nay , công_nghệ bảo_mật thẻ chip EMV được xem là hiện_đại trên thế_giới .
+Tại_Việt_Nam , một_số ngân_hàng như Ngân_hàng Bản_Việt ( Viet_Capital_Bank ) , VIB , ACB… đã áp_dụng công_nghệ này để bảo_vệ an_toàn cho khách_hàng , dù chi_phí_sản_xuất cao hơn nhiều so với thẻ từ thông_thường .
+Ngoài_ra , nhiều ngân_hàng còn mạnh_dạn đầu_tư công_nghệ in thẻ 3D , giúp khách_hàng dễ_dàng xác_minh tính thật giả của thẻ chỉ bằng mắt thường , nhằm chống lại hành_động sao_chép , giả_mạo .
+Ở góc_độ của người dùng , chủ thẻ cần chủ_động bảo_vệ quyền_lợi của mình , tuyệt_đối bảo_mật thông_tin số thẻ , mật_khẩu , pin hay giao_dịch sao kê hàng tháng … Đồng_thời , người dùng tuyệt_đối không đưa thẻ cho người khác mượn nếu_không muốn số_dư tài_khoản thâm_hụt bất_thường .
+Nếu tham_gia mua_sắm trực_tuyến , người tiêu_dùng nên lưu_ý giao_dịch tại các trang thương_mại_điện_tử uy_tín đã đăng_ký với Bộ Công_Thương , có chính_sách bảo_mật thông_tin và khiếu_nại hợp_lý , minh_bạch hóa thông_tin … Người dùng có_thể giao_dịch thanh_toán bằng hình_thức chuyển_khoản tại website chính_thức của các ngân_hàng .
+Khi thanh_toán qua các máy POS tại các cửa_hàng , rút_tiền ở trạm ATM , người dùng nên cẩn_trọng khi đăng_nhập mật_khẩu và đề_phòng thông_tin bị chụp hình , sao_chép lại .
+Người dùng cần kiểm_tra kỹ_càng các SMS thông_báo giao_dịch , nếu xuất_hiện giao_dịch không phải do mình thực_hiện thì_phải thông_báo ngay cho ngân_hàng .
+Trong trường_hợp nguy_cấp xảy_ra hoặc khi thẻ bị thất_lạc , đánh_cắp , người dùng cần liên_hệ ngay với số hotline của ngân_hàng để khóa thẻ .
+Trong thời_đại công_nghệ số ngày_nay , người dùng còn có_thể ứng_dụng một thói_quen đơn_giản để tự bảo_vệ mình là cập_nhật thường_xuyên phần_mềm diệt virus trên máy_tính và điện_thoại , quét định_kỳ nhằm loại_trừ các phần_mềm độc_hại , tránh trường_hợp tin_tặc lợi_dụng đánh_cắp thông_tin .
+Những tiện_ích mới và hiện_đại bao_giờ cũng đi kèm với một_vài rủi_ro nhất_định .
+Tuy_nhiên , các tổ_chức tín_dụng Việt_Nam và quốc_tế luôn có nhiều biện_pháp hiệu_quả để ngăn_ngừa , hạn_chế rủi_ro cũng_như trong tư_thế sẵn_sàng ứng_phó các tình_huống phát_sinh , nhằm bảo_vệ khách_hàng tốt nhất và mang đến những dịch_vụ hoàn_thiện nhất .
+Người dùng cũng cần tìm_hiểu , cân_nhắc và quyết_định kỹ khi lựa_chọn dịch_vụ ngân_hàng hay khi giao_dịch để luôn an_toàn , tự_tin trong việc quản_lý tài_chính cá_nhân .
+Hưng_Thịnh

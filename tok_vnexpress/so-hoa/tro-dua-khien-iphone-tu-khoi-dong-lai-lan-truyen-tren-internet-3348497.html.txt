@@ -1,0 +1,14 @@
+Trò_đùa khiến i Phone tự khởi_động lại lan_truyền trên Internet
+Hàng trăm_nghìn người dùng i Phone , iPad bấm vào liên_kết Crashsafari.com khiến máy bị treo và tự khởi_động lại .
+Trò_đùa này xuất_hiện và nhanh_chóng lan_truyền trong cộng_đồng người dùng Internet những ngày gần đây .
+Theo đó , khi truy_cập vào địa_chỉ crashsafari . com bằng trình_duyệt Safari , iPhone sẽ treo máy trong vài giây sau đó tự khởi_động lại .
+Nhiều người dùng i Phone , iPad khi bấm vào liên_kết Crashsafari.com khiến máy bị treo và tự khởi_động lại .
+Theo Wired , website này được viết bởi một chàng_trai 22 tuổi sống tại Mỹ , khai_thác lỗ_hổng của trình_duyệt với mục_đích để chọc_ghẹo bạn_bè .
+Không_chỉ Safari trên i Phone , iPad mà Chrome cho Android hay máy_vi_tính khi truy_cập cũng bị treo , song không bị tự khởi_động lại .
+Thực_chất , trang_web sử_dụng một câu_lệnh tính_toán phức_tạp , khiến trình_duyệt không kịp xử_lý và buộc phải thoát .
+Nó không gây hại như các loại virus , song có_thể khiến người dùng gặp rắc_rối với công_việc đang xử_lý dở_dang .
+Chỉ cần khởi_động lại trình_duyệt hay thiết_bị là mọi thứ bình_thường trở_lại .
+Hàng trăm_nghìn người đã trở_thành nạn_nhân của trò_đùa này khi website crashsafari . com được ẩn dưới địa_chỉ khác , khó phát_hiện ra .
+" Làm_ơn hãy ngừng ngay lại , vui_đùa một_chút thì được chứ phá_hoại thì không nên " , tài_khoản Kalen_Isaiah viết trên Twitter .
+Video i Phone tự khởi_động lại , máy_tính bị treo khi vào crashsafari . com
+Đình Namdinhnam@vnexpress.net

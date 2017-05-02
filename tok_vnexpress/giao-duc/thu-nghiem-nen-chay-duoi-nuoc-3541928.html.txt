@@ -1,0 +1,15 @@
+Thử_nghiệm nến cháy dưới nước
+Một cây nến có độ cao bằng tô nước , khi đốt cháy quá mực nước đó vẫn có_thể cháy thêm một đoạn mà không bị tắt .
+Bạn sẽ dễ_dàng thực_hiện và đưa ra lời giải_thích đơn_giản cho trẻ ở nhà .
+Tiếp_theo , đổ nước vào tô cho_đến khi mực nước thấp hơn đỉnh nến một_chút .
+Đợi nước phẳng_lặng , dùng bật_lửa đốt nến .
+Bạn sẽ quan_sát thấy khi nến cháy đến ngang mực nước , nó bắt_đầu chỉ tan chảy phần trong lõi , phần bên ngoài vẫn giữ nguyên độ cao giúp lửa không bị tắt .
+Giải_thích : Nếu bạn đốt nến trong một tô không có nước , nó sẽ cháy như bình_thường , tiêu_thụ toàn_bộ cây nến .
+Tuy_nhiên , mọi chuyện không xảy_ra tương_tự khi nến bị bao quanh bởi nước .
+Nước_lạnh có đặc_tính hấp_thụ nhiệt_năng rất tốt .
+Khi nhiệt_năng của ngọn nến tiêu_tan trong nước , nhiệt tác_động vào mặt ngoài của nến ( phần tiếp_xúc trực_tiếp với nước ) kém hơn , do_đó nó không bị tan chảy như bình_thường .
+Ngọn lửa sẽ hạ dần xuống thấp hơn bề_mặt nước , trong khi vỏ nến vẫn cao ngang mặt_nước như một bức tường bảo_vệ , giúp lửa không bị tắt .
+Cuối_cùng , khi nến cháy thêm một đoạn nữa , nước tràn vào bên trong phần nến đang cháy và dập tắt lửa .
+Nếu muốn , bạn có_thể đo phần nến đã cháy được khi đặt trong nước .
+Trong thí_nghiệm này , với cây nến đường_kính 22 cm , độ dài nến cháy là 18 mm .
+Phiêu_Linh   ( theo   DaveHax )

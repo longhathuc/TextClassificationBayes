@@ -1,0 +1,22 @@
+Bịt cổng micro như Mark_Zukerberg vẫn bị nghe lén như_thường
+Có_thể cách dán băng_dính lên MacBook của Mark_Zukerberg sẽ giúp anh tránh được bị theo_dõi qua camera , nhưng vẫn bị nghe lén như_thường .
+Tuần qua , ông chủ Facebook đã đăng bức ảnh đánh_dấu mốc 500 triệu thành_viên của Instagram .
+Bên_cạnh những lời chúc_mừng , hình_ảnh nhanh_chóng bị " soi " và có phát_hiện khá thú_vị : camera , cổng micro và giắc cắm tai_nghe trên MacBook bị dán kín bằng băng_dính .
+Cách bảo_mật của Mark đơn_giản nhưng chưa đảm_bảo độ an_toàn .
+Đây là cách bảo_mật khá đơn_giản nhưng hiệu_quả mà nó mang lại không phải nhỏ .
+Tuy_nhiên , điều đó chỉ đúng khi dán camera , bởi băng_dính không_thể cản âm_thanh đi vào laptop .
+Để chứng_minh , VnExpress đã thử_nghiệm phương_pháp của Mark_Zukerberg - dán kín cổng micro - thậm_chí là dán đè lên nhiều lần .
+Âm_thanh thu vào máy vẫn như bình_thường .
+Vậy nghĩa_là , băng_dính không hề có tác_dụng trong trường_hợp này .
+Video thử_nghiệm cách bảo_mật của Mark_Zukerberg :
+Vậy làm như_thế_nào để tránh bị nghe lén ?
+Trước_hết , bạn hiểu rằng laptop ( ở đây là MacBook ) được kết_nối sẵn với micro của máy .
+Như_vậy , phải ngắt kết_nối để nó không_thể thu âm_thanh được nữa .
+Không_thể mở máy và cắt đứt bộ_phận này , bởi có cách khác đơn_giản hơn : sử_dụng giắc cắm tai_nghe 3,5 mm .
+Nếu để_ý , bạn sẽ thấy khi cắm giắc 3,5 mm vào máy , toàn_bộ âm_thanh phát ra từ loa và âm_thanh thu vào từ micro trên máy sẽ không còn nữa .
+Đây là cơ_chế cho_phép chuyển_đổi âm_thanh từ nội_bộ ra thiết_bị_ngoại_vi .
+Do_đó , bạn có_thể dùng giắc 3,5 mm từ tai_nghe cũ không còn sử_dụng , sau đó cắt bỏ phần dây , chỉ chừa lại một đoạn ngắn và cắm vào lỗ 3,5 mm trên máy_tính .
+Giắc cắm 3,5 mm từ tai_nghe hỏng có_thể giúp người dùng tránh bị nghe lén .
+Tất_nhiên , cách trên không an_toàn 100% , bởi nếu đã xâm_nhập vào được máy_tính , tin_tặc có_thể kích_hoạt trở_lại micro nội_bộ .
+Nhưng lúc này , việc phát_hiện sẽ dễ_dàng hơn , và nó vẫn hiệu_quả hơn nhiều so với cách mà Mark_Zukerberg đang làm .
+Bảo_Lâm

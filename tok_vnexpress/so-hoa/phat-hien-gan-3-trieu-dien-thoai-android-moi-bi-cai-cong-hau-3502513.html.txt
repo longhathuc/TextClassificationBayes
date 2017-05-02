@@ -1,0 +1,14 @@
+Phát_hiện gần 3 triệu điện_thoại Android mới bị cài cổng hậu
+Các chuyên_gia bảo_mật lại phát_hiện backdoor ( cổng hậu ) được cài sẵn trên hàng triệu điện_thoại Android , trong đó có cả thương_hiệu Infinix đã được phân_phối ở Việt_Nam .
+Mã độc trên thiết_bị Android không còn là điều xa_lạ , tuy_nhiên , phát_hiện mới vẫn gây sốc giới bảo_mật bởi quy_mô lan_rộng của nó .   Hãng
+nghiên_cứu BitSight Technologies đã tìm thấy cổng hậu ( backdoor ) được cài sẵn trong phần_mềm hệ_thống ( firmware ) trên 2,8 triệu smartphone chạy hệ_điều_hành của Google , dễ_dàng mở_đường cho kẻ xấu cài cắm mã độc , thực_hiện những cuộc tấn_công có chủ_đích nhằm chiếm quyền điều_khiển thiết_bị .
+Backdoor này xuất_hiện trong firmware của công_ty Trung_Quốc_Ragentek .
+Hãng_Bit Sight cho_biết hầu_hết thiết_bị chứa backdoor được bán ở Mỹ và do công_ty Blu_Products sản_xuất .
+Ngoài_ra còn có một phần nhỏ điện_thoại của các công_ty khác như Infinix , Doogee , Leagoo và Xolo .
+Trong số trên , Infinix là nhà_sản_xuất điện_thoại Hong_Kong và đang bán một_số mẫu smartphone tại Việt_Nam như HotNote X551 , Hot 3 LTE_X5 53 ... với mức giá dưới 3 triệu đồng .
+Danh_sách điện_thoại Android bị cài cổng hậu
+Blu_Studio G nằm trong số những điện_thoại chứa cổng hậu .
+Đây là lần thứ_hai trong một tuần qua các chuyên_gia nghiên_cứu bảo_mật cảnh_báo về nguy_cơ lây_nhiễm mã độc trên điện_thoại Android .
+Trước đó , báo New_York_Times cho_biết rất nhiều điện_thoại thông_minh giá rẻ đang chứa backdoor bí_mật gửi dữ_liệu đến máy_chủ ở Trung_Quốc .
+Phần_mềm do công_ty Shanghai_Adups_Technology viết ra này có_thể lấy thông_tin cuộc_gọi , nội_dung tin nhắn , vị_trí của người dùng ...
+Lượng thiết_bị tham_gia gửi thông_tin về Trung_Quốc được ước_tính là rất cao .

@@ -1,0 +1,20 @@
+Trường_học có nguy_cơ cao bị chiếm dữ_liệu
+Các cơ_sở giáo_dục có khả_năng bị chiếm dữ_liệu trái_phép và hứng_chịu nhiều cuộc tấn_công mạng , không đủ nguồn_lực để ngăn_chặn .
+Các chuyên_gia của công_ty nghiên_cứu xếp_hạng an_ninh mạng BitSight ( Mỹ ) đánh_giá , hình_thức tấn_công người dùng bằng ransomware ( dùng phần_mềm độc_hại mã_hóa dữ_liệu cá_nhân để đòi tiền chuộc khôi_phục bản_gốc ) đang có dấu_hiệu chuyển_hướng sang ngành giáo_dục .   Theo
+đó , mỗi hệ_thống mạng của từng tổ_chức giáo_dục bị dính ít_nhất 10 chủng ransomware , chiếm mức_độ lây_nhiễm cao nhất so với các ngành công_nghiệp khác .
+BitSight đã nghiên_cứu doanh_nghiệp trong các ngành tài_chính , bán_lẻ , y_tế , năng_lượng , tổ_chức chính_phủ và giáo_dục , liệt_kê danh_sách tỷ_lệ lây_nhiễm ransomware theo thứ_tự từ an_toàn nhất đến xấu nhất .
+Kết_quả , ngành giáo_dục đứng đầu_bảng về khả_năng bảo_vệ yếu_kém với tỷ_lệ 13% , vượt gấp đôi so với các tổ_chức chính_phủ , cách xa ngành tài_chính chỉ 1,5% .
+Sau khi phân_tích dữ_liệu từ 18.996 doanh_nghiệp cá_nhân , BitSight nhận thấy nguy_cơ nhiễm ransomware đã tăng gấp 3 và trong một_số phân khúc còn lên cả chục lần .
+Mối nguy lớn nhất_là Nymiam - phần_mềm độc_hại hoành_hành dữ_dội trong các tổ_chức giáo_dục với khoảng 11% cơ_sở đào_tạo bị tấn_công khóa dữ_liệu .
+Nymiam cũng là chủng ransomware phổ_biến nhất tại 3 ngành công_nghiệp khác với tỷ_lệ nhiễm khoảng 3% .
+Còn các doanh_nghiệp bán_lẻ và tài_chính phải đối_mặt với phiên_bản Locky nhưng mức nhiễm thấp hơn chỉ 2% .
+Nymaim thường được biết dưới dạng ransomware nhưng cũng biến_thể thành một trojan để tấn_công truy_cập máy_tính trái_phép từ xa .
+Masnu là loại ransomware phổ_biến thứ 3 cũng có khả_năng tải về máy thêm nhiều phần_mềm độc_hại khác , còn Locky có tốc_độ lây_lan cao nhất .
+Theo thông_tin từ trang CNN Money , trong năm_ngoái , FBI đã nhận 2.453 khiếu_nại về ransomware , ước_tính gây thiệt_hại hơn 24 triệu USD .
+Đa_phần nạn_nhân đều trả tiền để chuộc dữ_liệu .
+Tin_tặc thường yêu_cầu họ thanh_toán bằng tiền kỹ_thuật_số Bitcoin nhằm dễ_dàng xóa dấu_vết , gây khó_khăn cho cơ_quan điều_tra .
+Tại một hội_nghị an_ninh mạng tổ_chức ở San_Francisco , hàng chục công_ty công_nghệ đã quảng_cáo nhiều phần_mềm chống ransomware nhưng chỉ có vài ứng_dụng mang lại hiệu_quả thực_sự .
+Điều này cho thấy doanh_nghiệp vừa và nhỏ thiếu tiềm_lực và cả những giải_pháp hữu_hiệu nên ít có khả_năng tự bảo_vệ , nguy_cơ bị tấn_công rất lớn .
+Các chuyên_gia cũng nhìn_nhận tình_hình thực_tế còn đáng báo_động hơn nhiều vì các công_ty thường lẳng_lặng trả tiền chuộc để giải_phóng dữ_liệu mà không khai_báo với cơ_quan_chức_năng .
+Họ che_giấu thông_tin vì lo_ngại đối_tác , khách_hàng biết về sự yếu_kém trong quản_lý thông_tin của mình , ảnh_hưởng đến công_việc kinh_doanh .
+Minh_Trí

@@ -1,0 +1,17 @@
+Đáp_án bài_toán ' đường đến rạp xiếc , công_viên , sở thú '
+Đây là bài_toán trong Ngày hội toán_học dành cho học_sinh lớp 7 được tổ_chức tại Matxcova ( Nga ) vào ngày 21/2 vừa_qua .
+Đề_bài :
+Ở một thành_phố nhỏ chỉ có một tuyến tàu_điện .
+Nó chạy vòng_tròn và tàu_điện chạy theo vòng_tròn theo cả hai phía .
+Trên vòng có 3 bến là Rạp xiếc , Công_viên và Sở thú .
+Từ_Công viên đến Sở thú thì đường đi qua Rạp xiếc dài gấp 3 lần đường đi không qua Rạp xiếc .
+Từ_Rạp xiếc đến Sở thú thì đường đi qua Công_viên ngắn bằng một_nửa đường đi không qua Công_viên .
+Hỏi đường đi nào từ Công_viên đến Rạp xiếc ngắn hơn ?
+Qua_Sở thú hay không qua Sở thú và ngắn hơn bao_nhiêu lần ?
+Đáp_án :
+Đáp_số là đường đi không qua Sở thú sẽ ngắn hơn 11 lần .
+Cụ_thể như sau .
+Ta ngồn lên tàu_điện ở bến Sở thú và đi_về phía Công_viên qua Rạp xiếc , sau đó , vẫn ngồi trên tàu_điện , ta quay về Sở thú .
+Đoạn đường thứ_hai bằng 1/3 đoạn đường đầu có nghĩa_là đoạn đường thứ nhất chiếm 3/4 chiều dài cả tuyến còn đoạn được thứ_hai là 1/4 .
+Ta đánh_dấu trên sơ_đồ hai điểm Sở thú và Công_viên và ở đâu_đó trên cung dài hơn giữa hai điểm đó là Rạp xiếc .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

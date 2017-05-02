@@ -1,0 +1,14 @@
+Tránh mất dữ_liệu khi nâng_cấp i OS 10.3 cho i Phone , iPad
+Phiên_bản i OS tiếp_theo có_thể dùng định_dạng hệ_thống hoàn_toàn mới , không tương_thích với loại cũ , nên_người dùng cần sao lưu dữ_liệu lên i Cloud .
+Theo BI , Apple sẽ sớm giới_thiệu phân_vùng hệ_thống mới mang tên Apple_File_System ( AFS ) nhằm thay_thế cho kiến_trúc tập_tin HFS+ đã có tuổi_đời trên 30 năm .
+Kể từ i OS 10.3 , định dang AFS sẽ được sử_dụng và đây trở_thành bản cập_nhật lớn với nhiều thay_đổi quan_trọng .
+iOS 10.3 sẽ chuyển sang dùng định_dạng hệ_thống AFS thay cho HFS+ .
+Các nhà_phát_triển đánh_giá cao phân_vùng hệ_thống mới của Apple nhờ khả_năng mã_hóa mạnh_mẽ , quản_lý tốt , tiết_kiệm không_gian lưu_trữ và giúp hạn_chế tình_trạng treo máy ( crash ) .
+Tuy_nhiên , AFS không tương_thích ngược với HFS+ vốn được dùng trên i OS 10.2.1 trở_về trước , nên nó đặt ra những lưu_ý cho người dùng .
+iOS 10.3 sẽ tự_động chuyển_đổi dữ_liệu sang định dang AFS mới .
+Vì một lý_do nào mà quá_trình này gặp lỗi thì dù người dùng có sao lưu cũng không_thể đưa dữ_liệu ở phiên_bản cũ vào máy bởi i OS 10.3 không đọc được thông_tin đó .
+Các chuyên_gia cho rằng sao lưu dữ_liệu lên i Cloud sẽ là giải_pháp an_toàn cho người dùng .
+Sau thời_gian thử_nghiệm , iOS 10.3 bản chính_thức có_thể được Apple phát_hành vào cuối tháng 3 .
+Ngoài thay_đổi định_dạng hệ_thống , phiên_bản mới bổ_sung tính_năng tìm tai_nghe , nâng_cấp chế_độ CarPlay và một_số điều_chỉnh trong giao_diện .
+Video thử tính_năng tìm tai_nghe trên i OS 10.3 Beta .
+Nguồn : iDB .

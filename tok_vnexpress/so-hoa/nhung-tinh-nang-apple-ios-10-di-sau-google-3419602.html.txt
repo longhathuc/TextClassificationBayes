@@ -1,0 +1,26 @@
+Những tính_năng Apple i OS 10 đi_sau Google
+Khi_Apple giới_thiệu về một loạt điểm mới trên i OS 10 trong sự_kiện WWDC ngày 13/6 , không ít người có cảm_giác họ đã nghe về những điều này trước_đây .
+Theo trang công_nghệ CNet , trên i OS và mac OS có một_số tính_năng Apple học_hỏi hoặc giới_thiệu sau Google .
+Photos
+Trên i OS 10 , ứng_dụng Photos sử_dụng công_nghệ_học máy và nhận_diện khuôn_mặt để tự_động nhóm các bức ảnh có cùng khuôn_mặt hay chủ_thể lại với nhau mà người dùng không cần phải đánh_dấu hay phân_chia thủ_công .
+Công_cụ Memories tập_hợp ảnh thành các album như sự_kiện , chuyến đi ... thậm_chí tạo video ngắn kèm nhạc từ ảnh .
+Những tính_năng trên đều đã có trên Google_Photos năm 2015 .
+Chẳng_hạn , khi tra_cứu " beach photos " ( ảnh bãi_biển ) , Google_Photos hiển_thị tất_cả ảnh mà bạn đã chụp với biển .
+Thậm_chí , nó có_thể lọc theo thời_gian như ảnh biển năm 2015 ...
+Messages
+Ứng_dụng Messages có nhiều thay_đổi quan_trọng , trong đó có hiệu_ứng bubble , giúp người dùng bộc_lộ thái_độ , tâm_trạng qua phông_chữ và emoji .
+Chẳng_hạn , khi cần xin_lỗi , bạn có_thể thu nhỏ cỡ chữ , trong khi nếu muốn thể_hiện sự vui_mừng , bạn có_thể phóng to chữ hay dùng emoji cỡ lớn .
+Tính_năng này giống với Whisper_Shout trên ứng_dụng nhắn_tin Allo của Google được công_bố hồi tháng 5 .
+Messages cũng nhận_diện từ , cụm_từ có emoji tương_ứng và cho_phép người sử_dụng đổi từ đó thành emoji .
+Đây cũng là điều mà bàn_phím Gboard dành cho i OS cũng_như nhiều ứng_dụng bên thứ_ba đã thực_hiện .
+Maps
+Bản_đồ Apple được thay_đổi cả về giao_diện lẫn tính_năng , như bổ_sung các trạm đổ xăng , nhà_hàng ... trên hành_trình của người đi .
+Google đã bổ_sung tính_năng tương_tự vào Google_Maps từ tháng 10/2015 .
+Trợ_lý giọng nói
+Cuộc_chiến trợ_lý ảo đang diễn ra gay_cấn giữa các hãng công_nghệ lớn .
+Sau 5 năm có_mặt trên i OS , Apple cuối_cùng cũng quyết_định đưa Siri lên mac OS .
+Siri có_thể đặt lịch nhắc báo , tìm_kiếm file , tra_cứu thông_tin trên web ...
+Tuy_nhiên , Google_Now có_mặt trên Chrome năm 2014 và Cortana hiện_diện trên Windows 10 năm 2015 cũng thực_hiện được những điều đó .
+Xem thêm :
+> iOS 10 beta đã cho tải về , hỗ_trợ từ i Phone 5
+>   Apple WWDC 2016 : iOS 10 có 10 tính_năng mới

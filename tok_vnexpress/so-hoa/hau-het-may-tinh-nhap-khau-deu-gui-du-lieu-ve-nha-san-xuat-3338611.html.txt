@@ -1,0 +1,52 @@
+' Hầu_hết máy_tính nhập_khẩu đều gửi dữ_liệu về nhà_sản_xuất '
+Liên_quan đến scandal của Lenovo những ngày qua , lãnh_đạo Cục An toàn thông_tin cho_biết các thiết_bị như máy_tính không do Việt_Nam sản_xuất và hầu_hết đều có cổng hậu ( backdoor ) gửi dữ_liệu về nhà_sản_xuất .
+UBND thành_phố Hải_Phòng vừa có văn_bản yêu_cầu các cơ_quan , đơn_vị trực_thuộc không được dùng máy_tính Lenovo do nước_ngoài sản_xuất vì lý_do an_toàn , an_ninh mạng sau khi Bộ Công an thông_báo về việc nhiều thiết_bị có cài sẵn phần_mềm với những đặc_điểm giống các phần_mềm gián_điệp .
+Thông_tin này làm dấy lên lo_ngại về việc mất an_toàn thông_tin tại các cơ_quan quản_lý Nhà_nước .
+Trao_đổi với VnExpress , ông Nguyễn_Thanh_Hải - Cục_trưởng Cục An toàn thông_tin ( Bộ Thông tin & Truyền_thông ) cho_biết hiện Việt_Nam chưa có văn_bản chính_thức nào đề_cập đến những quy_chuẩn để đảm_bảo an_toàn thông_tin trong lĩnh_vực này .
+- Văn_bản của Hải_Phòng vừa_qua khiến dư_luận chú_ý đến vấn_đề bảo_mật thông_tin tại các cơ_quan Nhà_nước .
+Thực thế việc này đang được quy_định ra_sao thưa ông ?
+- Việt_Nam hiện chưa có văn_bản nào nhằm hệ_thống chính_thức những quy_chuẩn để đảm_bảo an_toàn thông_tin trong các cơ_quan Nhà_nước .
+Đây cũng chính là lỗ_hổng về mặt pháp_lý .
+Do_đó tôi cho rằng , chúng_ta phải bù_đắp lại trong thời_gian tới .
+Hiện_nay , tùy từng cơ_quan có những quy_định khác_nhau , chưa có văn_bản thống_nhất các biện_pháp đảm_bảo an_toàn thông_tin .
+Trong khi đó , việc nhiều cơ_quan vừa kết_nối mạng chuyện dùng , vừa kết_nối mạng Internet với rất nhiều cổng .
+Như_vậy thì không làm_sao đảm bao an_toàn được , cũng_như một ngôi nhà nhiều cổng thì rất khó kiểm_soát .
+Ông Nguyễn_Thanh_Hải   cho_biết hiện Việt_Nam chưa có quy_chuẩn về an_toàn thông_tin để áp_dụng trong   các cơ_quan nhà_nước .
+Ảnh : Cục An toàn thông_tin .
+- Còn việc nhập_khẩu các thiết_bị máy_móc , máy_tính để phục_vụ trong các cơ_quan Nhà_nước thì hiện được kiểm_soát như_thế_nào ?
+- Nếu yêu_cầu các cơ_quan , đơn_vị chỉ được nhập sản_phẩm của hãng công_nghệ nào_đó là vi_phạm Luật_Đấu thầu .
+Do_đó , về cơ_bản , hiện các loại máy_móc khi nhập về đều áp_dụng tiêu_chuẩn quốc_tế với các thông_số kỹ_thuật cụ_thể .
+Đối_với máy_tính , hiện_nay , chuẩn quản_lý về an_toàn thông_tin trên thế_giới đã công_bố là ISO 2001 , trong đó có 133 yêu_cầu từ thiết_bị , quản_lý vận_hành , cách kiểm_soát , người sử_dụng …
+Tuy_nhiên , đó là số_lượng yêu_cầu rất lớn .
+Nếu áp_dụng tất_cả các yêu_cầu này đối_với mọi máy_móc nhập về của các cơ_quan Nhà_nước thì sẽ rất tốn_kém , lãng_phí .
+Mỗi quốc_gia , đơn_vị chỉ lựa_chọn một_số tiêu_chí để áp_dụng một_cách phù_hợp , chế_biến , biên_tập vào thực_tế từng nước .
+Ví_dụ một_số cơ_quan tại Mỹ chỉ chọn 17 yêu_cầu trong chuẩn ISO 2001 .   Và_Việt_Nam cũng đang trong giai_đoạn xây_dựng bộ tiêu_chuẩn đó .
+Tuy_nhiên , là tiêu_chuẩn nên không bắt_buộc các đơn_vị phải áp_dụng vì không có chế_tài .
+Điều quan_trọng là phải có những văn_bản mang tính yêu_cầu bắt_buộc thì mới đảm_bảo được sự đồng_bộ .
+- Ông đánh_giá như_thế_nào mức_độ an_toàn thông_tin tại các cơ_quan Nhà_nước hiện_nay ?
+- Các thiết_bị như máy_tính hiện đều không do Việt_Nam sản_xuất .
+Từ phần_cứng đến phần_mềm cơ_bản hầu_như đều do nước_ngoài sản_xuất và cài_đặt .
+Những sản_phẩm công_nghệ này cả thế_giới đang dùng , chứ không riêng Việt_Nam .
+Hầu_hết tất_cả những trang_thiết_bị đó đều có cửa hậu , gửi dữ_liệu về nhà_sản_xuất , cung_cấp dịch_vụ , chỉ có_điều các dữ_liệu đó được sử_dụng vào mục_đích tốt hay không tốt mà thôi .
+Có những đơn_vị dùng dữ_liệu đó đó để phục_vụ việc cập_nhật , nâng_cấp sản_phẩm , dịch_vụ .
+Tuy_nhiên cũng sản_phẩm đó nếu được dùng vào việc khác , với mục_đích cá_nhân không tốt thì được coi là xấu .
+Điều đó phải được đánh_giá dựa trên việc nhà_sản_xuất sử_dụng dữ_liệu đó vào mục_đích gì và có vi_phạm pháp_luật hay không .
+Dẫn_chứng điều đó tôi muốn nói rằng , tất_cả trang_thiết_bị , máy_móc của các nhà_cung_cấp trên toàn_cầu đều tiềm_ẩn những nguy_cơ bị mất an_toàn thông_tin .
+Và một_khi đã hội_nhập , chúng_ta phải chấp_nhận với những chuyện như_vậy .
+Điều quan_trọng là làm thế_nào để đối_phó , hạn_chế với tình_trạng trên .
+- Các nước khác làm như_thế_nào để đảm_bảo an_toàn thông_tin tại các cơ_quan này ?
+- Tôi lấy ví_dụ ở một quốc_gia rất phát_triển về công_nghệ như Nhật_Bản , một_số cơ_quan quản_lý còn bịt tất_cả cổng USB , việc kết_nối Internet cũng rất hạn_chế để đảm_bảo an_ninh mạng .
+Toàn_bộ hệ_thống của Chính_phủ chạy trong một mạng riêng .
+Sau đó chỉ có vài cổng kết_nối Internet thôi .
+Ở những cổng kết_nối đó sẽ được chặn lại , kiểm_tra thông_tin ra và vào .
+Làm như_vậy rõ_ràng an_toàn hơn rất nhiều , chứ máy_tính nào cũng kết_nối ra thì làm_sao mà kiểm_soát được
+Việt_Nam phải lường trước những khả_năng đó để có biện_pháp quản_lý , đưa ra các quy_định để hạn_chế tối_đa sự mất an_toàn thông_tin .   Tôi cho rằng cơ_quan quản_lý cũng_như doanh_nghiệp trước_mắt nên ban_hành các quy_trình , thủ_tục để đảm_bảo an_toàn thông_tin .
+- Ông đánh_giá như_thế_nào về khả_năng áp_dụng các biện_pháp phòng_ngừa từ xa như kiểm_định , đánh_giá các sản_phẩm khi nhập_khẩu tại Việt_Nam để bảo_đảm an_toàn thông_tin ?
+- Quy_định đó sau_này chắc_chắn sẽ phải xây_dựng .
+Tuy_nhiên muốn tiến_hành kiểm_định phải có tiêu_chuẩn rõ_ràng để không làm nảy_sinh tiêu_cực trong quá_trình kiểm_định .
+Hiện_Cục_An toàn Thông_tin đang trình Bộ để thành_lập ban soạn_thảo hai nghị_định liên_quan đến vấn_đề này , hướng_dẫn một_số nội_dung trong Luật_An toàn Thông_tin vừa được thông_qua và sẽ có hiệu_lực từ 1/7/2016 .
+Theo yêu_cầu của Văn_phòng Chính_phủ trong năm 2016 , Bộ phải trình 2 dự_thảo về Nghị_định bảo_vệ theo cấp_độ an_toàn thông_tin và Nghị_định quy_định chi_tiết về kinh_doanh sản_phẩm dịch_vụ an_toàn thông_tin .
+Theo một báo_cáo của Trung_tâm ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) , tính_từ 21/12/2014 tới 21/12/2015 , đơn_vị này đã ghi_nhận được tổng_số 31.585 sự_cố an_ninh thông_tin tại Việt_Nam , tăng mạnh so với những năm trước đó .
+Trong đó , có hơn một_nửa là   sự_cố cài mã độc .
+Khảo_sát của   Hiệp_hội An_toàn thông_tin Việt_Nam ( VNISA ) cho thấy , chỉ_số an_toàn thông_tin của Việt_Nam đạt 46,4% , tăng 7,4% so với năm 2014 song vẫn ở dưới mức trung_bình 50% và còn sự cách_biệt với các nước như Hàn_Quốc ( hơn 60% ) …
+Ngọc_Tuyên

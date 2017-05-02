@@ -1,0 +1,17 @@
+Đèn cảnh_báo an_ninh - chi_tiết tài_xế Việt ít để_ý
+Đèn cảnh_báo an_ninh chỉ nháy sáng khi xe tắt máy , khóa cửa , nhưng nếu đèn nháy khi xe đang di_chuyển , không được tắt máy mà vào trạm bảo_dưỡng ngay .
+Trên xe_hơi hiện_nay có hệ_thống cảnh_báo an_ninh , bằng cách mã_hóa chìa_khóa bởi một đoạn code , nếu_như chìa không có đoạn mã này do hãng cung_cấp , xe sẽ không_thể khởi_động .
+Đi cùng đó , hệ_thống sinh_ra một đèn cảnh_báo an_ninh ( security indicator light ) để báo_hiệu .
+Thông_thường một_số xe có kiểu đèn nháy đỏ phía trên gương chiếu hậu trong xe , sát trần kính lái , kiểu hiển_thị này cũng có trên một_số xe_máy cao_cấp như Vespa .
+Tuy_nhiên có nhiều xe đèn cảnh_báo không nằm ở vị_trí này , mà nằm ngay trên bảng táp - lô , cùng hàng_loạt tín_hiệu khác .
+Về nguyên_tắc , khi chìa_khóa đúng của xe cắm vào ổ , đèn cảnh_báo không sáng .
+Sau khi tắt máy , rút chìa_khóa và khóa cửa , đóng cốp , ca-pô , lên kính , đèn sẽ nháy sáng .
+Thậm_chí ở một_số hãng ví_dụ Nissan thiết_lập để đèn an_ninh nháy sáng cả khi cửa_kính chưa lên kín .
+Tốc_độ nháy đèn khoảng 2 giây một lần .   Đi cùng đèn cảnh_báo an_ninh là những chức_năng giúp xe chống trộm như hú còi , nháy pha khi có hành_động cố_tình mở khóa xe bằng chìa_khóa lạ .
+Trong trường_hợp đèn nháy liên_tục khi xe đang di_chuyển trên đường , tài_xế không được cố_gắng tắt đèn này bằng cách tắt động_cơ vì như_vậy sẽ không_thể khởi_động xe trở_lại .
+Khi đưa xe vào hãng để sửa lỗi , hệ_thống chống trộm immobilizer sẽ khởi_động lại , đoạn mã cho chìa_khóa thay_thế bằng mã khác nên chìa cũ sẽ không_thể khởi_động .
+Lúc này , cần mang cả chìa_khóa chính và chìa_khóa sơ cua tới đại_lý để thiết_lập điện_tử đoạn mã mới .
+Tùy mỗi hãng lại có kiểu thiết_kế đèn an_ninh khác_nhau , Toyota với Honda sử_dụng chiếc chìa_khóa nằm ngang thân xe , trong khi Mazda , Ford sử_dụng hình_ảnh ổ_khóa và xe lồng vào nhau .
+Dưới đây là một_số kiểu nháy đèn cảnh_báo an_ninh trên bảng táp - lô của các mẫu xe khác_nhau .
+Kiểu nháy đèn phía trên gương chiếu hậu :
+Minh_Hy

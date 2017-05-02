@@ -1,0 +1,14 @@
+Quân_đội Mỹ sắp ứng_dụng công_nghệ sóng não điều_khiển robot
+Điều_khiển robot bằng suy_nghĩ vốn chỉ xuất_hiện trong các bộ phim khoa_học_viễn_tưởng nay đã trở_thành sự_thật và có_thể sẽ sớm được ứng_dụng trong quân_đội Mỹ .
+Theo Huffington_Post , suốt hai năm qua , các nhà_nghiên_cứu về định_hướng và điều_khiển robot tại đại_học bang Arizona đã làm_việc với quân_đội Mỹ về lĩnh_vực ứng_dụng điều_khiển robot bằng suy_nghĩ trên các thiết_bị bay không người lái như trong bộ phim khoa_học_viễn_tưởng Oblivion .
+Công_nghệ này hiện đã phát_triển vượt_bậc , cho_phép một người có_thể kiểm_soát được nhiều thiết_bị bay không người lái .
+Mục_tiêu của các nhà_khoa_học là đưa ra giải_pháp cho một người có_thể dùng suy_nghĩ để điều_khiển một phi_đội máy_bay_không_người_lái và thực_hiện những mệnh_lệnh phức_tạp .
+Trên thế_giới hiện có nhiều nhóm nghiên_cứu về điều_khiển thiết_bị bay bằng sóng não .
+Năm_ngoái , các nhà_nghiên_cứu từ Bồ_Đào_Nha đã thực_hiện quá_trình cất_cánh , bay , và các động_tác phức_tạp trên không thông_qua suy_nghĩ của người điều_khiển .
+Thiết_bị điều_khiển phi_đội máy_bay_không_người_lái của nhóm nghiên_cứu thuộc đại_học Arizona có dạng mũ đội đầu với 128 điện_cực đọc sóng não và truyền tới máy_tính .
+Máy_tính sẽ phân_tích và đưa tín_hiệu điều_khiển tới các máy_bay .
+" Một trong những lĩnh_vực mới mà chúng_tôi đang khám_phá là làm thế_nào để bạn có_thể thu_hẹp khoảng_cách giữa con_người và robot , đặc_biệt với nhiều robot " , giáo_sư Panagiotis_Artemiadis , trưởng nhóm nghiên_cứu , cho_biết .
+" Chúng_tôi tin rằng công_nghệ này có_thể được sử_dụng trong quân_đội trong vòng 5-10 năm tới " , Artemiadis khẳng_định .
+Tuy_nhiên , ngoài mục_đích quân_sự , công_nghệ này còn có nhiều ứng_dụng .
+Các robot thường được dùng trong các nhiệm_vụ gây nguy_hiểm cho con_người , các nhiệm_vụ tìm_kiếm cứu_hộ , hay tiếp_cận các khu_vực thảm_họa , thăm_dò môi_trường .
+Thanh_Tùng

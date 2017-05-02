@@ -1,0 +1,22 @@
+Ba ̉ n đô ̀ các thiê ́ t bi ̣ kê ́ t nô ́ i Internet trên Tra ́ i Đâ ́ t
+Bă ̀ ng phương pha ́ p gư ̉ i ti ́ n hiê ̣ u va ̀ chơ ̀ pha ̉ n hô ̀ i , một nhà_khoa_học máy_tính người Mỹ đa ̃ xây dư ̣ ng tha ̀ nh công ba ̉ n đô ̀ tâ ́ t ca ̉ ca ́ c thiê ́ t bi ̣ kê ́ t nô ́ i Internet toàn_cầu .
+Theo Imgur , ba ̉ n đô ̀ na ̀ y đươ ̣ c hoa ̀ n tha ̀ nh hôm 2/8 bơ ̉ i John_Matherly , nha ̀ sa ́ ng lâ ̣ p công_cụ tìm_kiếm Shodan ở Texas , Mỹ .
+Martherly tư ̣ go ̣ i mi ̀ nh la ̀ " ngươ ̀ i ve ̃ ba ̉ n đô ̀ Internet " , đa ̃ thu_thập dữ_liệu bằng cách gửi yêu_cầu " ping " – mô ̣ t go ́ i thông_tin đến mọi địa_chỉ IP trên Internet , và lưu_trữ la ̣ i ca ́ c pha ̉ n hô ̀ i đê ̉ xa ́ c đi ̣ nh vi ̣ tri ́ cu ̉ a đi ̣ a chi ̉ IP đo ́ .
+" Pha ̉ i mâ ́ t khoa ̉ ng 5 giơ ̀ đê ̉ thu thâ ̣ p dư ̃ liê ̣ u va ̀ 12 giơ ̀ hoă ̣ c hơn đê ̉ vẽ ba ̉ n đô ̀ " , Martherly cho biê ́ t .
+Ông sư ̉ du ̣ ng công cu ̣ ve ̃ ba ̉ n đô ̀ matplotlib cu ̉ a ngôn ngư ̃ lâ ̣ p tri ̀ nh Python .
+Như ̃ ng châ ́ m đo ̉ trên ba ̉ n đô ̀ thê ̉ hiê ̣ n mâ ̣ t đô ̣ thiê ́ t bi ̣ kê ́ t nô ́ i Internet cao nhâ ́ t , ma ̀ u va ̀ ng la ̀ mư ́ c thâ ́ p hơn .
+Ca ́ c vu ̀ ng ma ̀ u xanh co ́ mâ ̣ t đô ̣ thâ ́ p nhâ ́ t co ̀ n ma ̀ u đen la ̀ như ̃ ng vu ̀ ng không co ́ pha ̉ n hô ̀ i .
+Ba ̉ n đô ̀ na ̀ y la ̀ phiên ba ̉ n câ ̣ p nhâ ̣ t cu ̉ a ba ̉ n đô ̀ năm 2014 , cho thâ ́ y kê ́ t nô ́ i Internet đa ̃ pha ́ t triê ̉ n thê ́ na ̀ o trong hai năm qua .
+Nơi co ́ mư ́ c pha ́ t triê ̉ n đa ́ ng chu ́ y ́ nhâ ́ t la ̀ Ấ n Đô ̣ .
+Ca ́ c nươ ́ c châu Phi co ́ mâ ̣ t đô ̣ kết_nối Internet tương đô ́ i thâ ́ p .
+Ba ̉ n đô ̀ cu ̃ ng cho thâ ́ y nơi co ́ mâ ̣ t đô ̣ truy câ ̣ p Internet cao nhâ ́ t la ̀ châu Âu va ̀ bơ ̀ Đông nước My ̃ .
+Miền trung nước My ̃ co ́ lươ ̣ ng kê ́ t nô ́ i thâ ́ p , chu ̉ yê ́ u do co ́ mâ ̣ t đô ̣ dân sô ́ thâ ́ p .
+Quanh_Thung lu ̃ ng Silicon ơ ̉ California co ́ mâ ̣ t đô ̣ kết_nối cao .
+Mô ̣ t sô ́ vu ̀ ng lơ ́ n như Trung_Quô ́ c thê ̉ hiê ̣ n trên ba ̉ n đô ̀ la ̀ ma ̀ u đen – không co ́ kê ́ t nô ́ i Internet .
+Nguyên_nhân theo Martherly la ̀ do co ́ mô ̣ t sô ́ tô ̉ chư ́ c chă ̣ n thông_tin pha ̉ n hô ̀ i trơ ̉ la ̣ i .
+" Vê ̀ cơ ba ̉ n không co ́ nhiê ̀ u thông_tin co ́ thê ̉ cung câ ́ p vơ ́ i ca ́ c IP nă ̀ m ơ ̉ Trung_Quô ́ c , dâ ̃ n đê ́ n viê ̣ c ve ̃ ba ̉ n đô ̀ râ ́ t kho ́ khăn " , Martherly cho biê ́ t .
+" Đa sô ́ se ̃ đươ ̣ c gô ̣ p va ̀ o Thươ ̣ ng Ha ̉ i hoă ̣ c Bă ́ c Kinh , du ̀ co ́ thê ̉ ca ́ c IP na ̀ y nă ̀ m ơ ̉ như ̃ ng nơi kha ́ c " .
+Cu ̃ ng theo Martherly , mô ̣ t ma ́ y que ́ t ma ̃ nguô ̀ n mơ ̉ go ̣ i la ̀ Zmap đươ ̣ c cung câ ́ p miê ̃ n phi ́ cho bâ ́ t cư ́ ai muô ́ n la ̀ m mô ̣ t tâ ́ m ba ̉ n đô ̀ tương_tư ̣ .
+Tuy_nhiên , ông cũng cảnh_báo , mô ̣ t công cu ̣ giô ́ ng thê ́ na ̀ y co ́ thê ̉ se ̃ bi ̣ những kẻ lừa_đảo trên mạng lợi_dụng , bă ̀ ng ca ́ ch gư ̉ i va ̀ nhâ ̣ n ca ́ c go ́ i tin tơ ́ i mo ̣ i ngươ ̀ i kê ́ t nô ́ i Internet .
+Xem thêm : Mạng cáp_quang chằng_chịt dưới đáy đại_dương
+Nguyê ̃ n Tha ̀ nh Minh

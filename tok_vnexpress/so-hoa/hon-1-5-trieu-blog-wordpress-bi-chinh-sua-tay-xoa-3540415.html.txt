@@ -1,0 +1,21 @@
+Hơn 1,5 triệu blog WordPress bị chỉnh_sửa , tẩy_xóa
+Một lỗ_hổng bảo_mật nghiêm_trọng trong WordPress khiến hơn 1,5 triệu blog đang hoạt_động bị hacker chỉnh_sửa , tẩy_xóa và bị lợi_dụng làm công_cụ phát_tán thư rác .
+Lỗ_hổng được phát_hiện bởi các nhà_nghiên_cứu bảo_mật và an_ninh mạng của Sucuri hôm 20/1 .
+Lỗ_hổng được nhóm bảo_mật đánh_giá là " nghiêm_trọng " , có liên_quan đến một add - on mới mà WordPress thêm vào trong phiên_bản phát_hành cuối 2016 .
+WordPress dính lỗ_hổng nghiêm_trọng khiến hơn 1,5 triệu trang blog bị đổi giao_diện và đối_mặt với nhiều nguy_cơ bảo_mật khác .
+Theo mô_tả , lỗ_hổng này nằm trong WordPress REST_API – tính_năng giúp người dùng truy_vấn dữ_liệu , tạo và chỉnh_sửa dữ_liệu trên blog một_cách dễ_dàng thông_qua giao_thức HTTP .
+Tuy_nhiên , lỗ_hổng cũng vô_tình cho_phép hacker dù không được phân_quyền nhưng vẫn có_thể xóa page hoặc sửa_đổi tất_cả các page ( deface ) , sau đó hướng người dùng tới mã độc_hại .
+Sucuri nhận thấy có hơn 66.000 trang_bị thay bằng nội_dung " đã bị hack " , 1.000 trang khác cũng có dấu_hiệu bị tấn_công sau 24 giờ phát_hiện .
+Bên_cạnh bị deface , hacker còn chiếm quyền điều_khiển các trang blog cho mục_đích khác , chủ_yếu là phát_tán thư rác , chèn phần_mềm độc_hại và tăng vị_trí xếp_hạng công_cụ tìm_kiếm ( search engine poisoning ) .
+Trong khi đó , hãng bảo_mật WordFence cho_biết , họ đã tìm thấy bằng_chứng cho thấy 20 nhóm hacker đã cố_gắng can_thiệp với các trang_web dễ bị tổn_thương .
+Hàng trăm_ngàn blog được cho là đã bị tấn_công .
+" Trong 48 giờ qua , chúng_tôi nhận thấy đã có hơn 800.000 cuộc tấn_công vào blog WordPress bằng cách khai_thác lỗ_hổng bảo_mật mới " , Mark_Maunder , nhà_sáng_lập WordFence , cho_biết .
+Ngày 26/1 , WordPress đã làm_việc với các công_ty an_ninh để đưa ra bản cập_nhật mới vá lỗ_hổng trên .
+Nhưng theo ghi_nhận , vẫn còn khá nhiều quản_trị viên vô_hiệu_hóa tính_năng tự cập_nhật do chạy các dịch_vụ quan_trọng .
+Hậu_quả là lỗ_hổng nghiêm_trọng vẫn bị hacker khai_thác .
+BBC ước_tính , đã có khoảng 1,5 triệu blog WordPress bị ảnh_hưởng .
+Ngày 4/2 , WordPress công_bố bản cập_nhật 4.7.2 để vá triệt_để lỗ_hổng này .
+Đại_diện của hãng cũng kêu_gọi quản_trị viên nhanh_chóng cập_nhật để tránh bị tin_tặc lợi_dụng .
+WordPress là mã nguồn CMS sử_dụng PHP + MySQL .
+Theo thống_kê , hiện ít_nhất 18 triệu trang mạng trên thế_giới sử_dụng hệ_thống này .
+Bảo_Lâm

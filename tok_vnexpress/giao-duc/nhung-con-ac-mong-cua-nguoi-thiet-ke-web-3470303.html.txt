@@ -1,0 +1,45 @@
+Những cơn ' ác_mộng ' của người thiết_kế web
+Mất cả ngày không tìm ra nguyên_nhân lỗi , lỗi này vừa chỉnh lại hiện lỗi khác , mất toàn_bộ dữ_liệu ... là điều mà kỹ_sư thiết_kế web thường phải đối_mặt .
+Khi nói đến thiết_kế web , nhiều bạn trẻ nghĩ đến viễn_cảnh làm_việc thoải_mái tại nhà bên chiếc máy_tính , thảnh_thơi nhấm_nháp cốc cà_phê hay tách trà thoảng hương thơm .
+Tuy_nhiên , những kỹ_sư chuyên_nghiệp đã trải qua nhiều dự_án , làm_việc với nhiều khách_hàng , đối_tác sẽ hiểu mọi sự không toàn " màu hồng " .
+Những_ai vừa vào làm tại một công_ty mới , nhiều khả_năng phải lao vào dọn_dẹp một dự_án dở_dang và đóng thế vai cho người trước đã bỏ đi .
+Người mới sẽ vật_lộn với đống code , tìm_hiểu những lỗi và tiến_hành sửa_chữa .
+Vấn_đề là mỗi kỹ_sư thích viết mã theo cách riêng của mình .
+Vì_thế cần phải nghiên_cứu tất_cả những tài_liệu sẵn có để tìm_hiểu chính_xác những gì mà người trước muốn truyền_tải .
+Nếu_không có tài_liệu , phải rà_soát các dòng mã để biết được tiến_trình nguyên_bản .
+Điều này cần sự tinh_tế , nhanh_nhạy và cả tính kiên_nhẫn .
+Sau nhiều tháng làm_việc chăm_chỉ thâu_đêm_suốt_sáng , bạn rất hào_hứng vì cuối_cùng cũng tới lúc trình_bày dự_án với khách_hàng hay giới_thiệu ứng_dụng đến công_chúng .
+Nhưng trong lúc chạy thử , lỗi nghiêm_trọng bỗng xuất_hiện hoặc phát_sinh những tình_huống có_thể dẫn đến khiếu_nại của người dùng mới .
+Nếu rơi vào tình_huống này , đừng quá hốt_hoảng vì nó có_thể xảy_ra với bất_cứ ai , ngay cả những nhà_phát_triển tài_năng chuyên làm những sản_phẩm chính_yếu cho Facebook hay Twitter .
+Lúc này cần giữ bình_tĩnh , đừng để những lời phàn_nàn , chỉ_trích khiến đầu_óc căng_thẳng , nóng_giận .
+Nhanh_chóng bắt_tay vào phân_tích và sửa lỗi càng sớm càng tốt , tìm những giải_pháp đi mới phù_hợp .
+Quá_trình tìm và sửa lỗi rất cần_thiết trong việc thiết_kế web .
+Tuy_nhiên , thật thất_vọng sau khi đã tốn công_sức đưa ra giải_pháp rồi mới nhận ra việc này lại tạo ra thêm những lỗi mới .
+Vì_vậy , đầu_tiên cần lập kế_hoạch với các bước chi_tiết , ghi_chép cẩn_thận từng sửa_đổi .
+Nhằm ngăn_chặn tình_trạng lầm_lẫn , sai_sót , bạn có_thể sử_dụng chương_trình Git ( phần_mềm quản_lý mã nguồn phân_tán được phát_triển bởi Linus_Torvalds vào năm 2005 , ban_đầu dành cho việc phát_triển nhân Linux ) .
+Hiện_nay , Git trở_thành một trong các phần_mềm quản_lý mã nguồn phổ_biến nhất để quản_lý một loạt phiên_bản , cho_phép nhanh_chóng quay lại phiên_bản đầu_tiên nếu các phần chỉnh_sửa hoạt_động không đúng cách .
+Chúng_ta thường dựa nhiều vào thư_viện mã nguồn để xây_dựng trang_web và các nhà_phát_triển có_thể sử_dụng cùng một thư_viện cho nhiều dự_án .
+Điều này có_thể khiến lỗi phát_sinh không đến từ những đoạn mã do bạn viết mà tồn_tại sẵn trong các thư_viện đang dùng .
+Trong tình_huống khó xử này , xem_xét các tùy chọn phù_hợp như tự sửa nếu thông_thạo các đoạn mã trong thư_viện .
+Còn nếu điều này vượt quá khả_năng , cần kêu_gọi sự trợ_giúp từ các chuyên_gia hoặc đồng_nghiệp .
+Dù đã làm mọi cách , tạo ra nhiều nhánh Git để thử_nghiệm nhưng bạn vẫn không biết được lỗi do đâu mà ra .
+Lên trang_web hỏi_đáp nổi_tiếng thế_giới StackOverflow để tìm những đề_tài tương_tự , tuy_nhiên lời_giải các câu_hỏi này trong vòng 2 năm qua vẫn là con_số 0 tròn_trĩnh .
+Cho_dù đó có_thể chỉ là một lỗi nhỏ nhưng việc mù_mờ về lý_do khiến bạn luôn bị ám_ảnh về nó .
+Các chuyên_gia khuyên rằng để tìm ra giải_pháp , cần tránh xa máy_tính khoảng nửa ngày hoặc tốt nhất_là 2 ngày .
+Việc nghỉ_ngơi sẽ giúp giảm tải áp_lực , cải_thiện tinh_thần để chuẩn_bị đối_diện với vấn_đề và tìm hướng giải_quyết .
+Sẽ có lúc bạn tự trách mình rơi vào tình_cảnh " dở_khóc_dở_cười " vì những lỗi hoàn_toàn chẳng liên_quan đến chuyên_môn .
+Toàn_bộ dữ_liệu về dự_án bỗng_nhiên mất sạch và bạn chẳng_thể khôi_phục vì quên chuyện sao lưu các tập_tin .
+Ngay cả khi làm_việc với hệ_thống rất ổn_định , ổ_đĩa_cứng vẫn có_thể lăn_đùng ra " chết " hay trong lúc ông bố đi ra ngoài quên tắt máy , con_trẻ ở nhà táy_máy và vô_tình bấm vào nút Delete xóa sạch công_sức bao ngày .
+Do_vậy cần chuẩn_bị nhiều nguồn để sao lưu các tập_tin quan_trọng , ví_dụ như Time_Machine , Dropbox , và OneDrive .
+Người dùng OS_X nên kích_hoạt tính_năng Time_Machine , còn trong Windows có_thể mở ứng_dụng cho_phép sao lưu và khôi_phục lại từ Control_Panel .
+Hiện_tại một_số khách_hàng do có nhu_cầu riêng vẫn yêu_cầu ứng_dụng hiện_đại phải hoạt_động tương_thích với trình_duyệt Internet_Explorer 6 dù xu_hướng đã chuyển sang đến Internet_Explorer 10 .
+Việc viết ứng_dụng cho IE 6 đòi_hỏi tốn gấp 3 lần thời_gian hoặc nhiều hơn_nữa so với chương_trình chạy trên các trình_duyệt Chrome hoặc Firefox .
+Kèm theo là nhiều vấn_đề phát_sinh như ứng_dụng không chạy trơn_tru , hạn_chế nhiều tính_năng , xuất_hiện lỗi hay không đáp_ứng yêu_cầu về bảo_mật .
+Một_số ngôn_ngữ_lập_trình như JavaScript và PHP cần dấu_chấm_phẩy để đánh_dấu sự kết_thúc của một câu_lệnh .
+Nhiều lỗi xảy_ra bởi câu_lệnh thiếu dấu_chấm_phẩy và bạn phải cẩn_thận dò_tìm để sửa_chữa .
+Google là kênh thông_tin quan_trọng trong công_việc và học_tập của nhiều người và nó còn có giá_trị gấp đôi với những nhà_phát_triển .
+Các kỹ_sư sử_dụng Google để tìm_kiếm mẫu_mã , tìm giải_pháp cho các lỗi , trao_đổi với đồng_nghiệp , học_hỏi kiến_thức ...
+Nếu_Internet và Google cùng biến_mất thì dường_như nhà_phát_triển sẽ quay về " thời_kỳ đồ đá " , gặp nhiều khó_khăn , không biết phải làm_gì nếu gặp phải lỗi cụ_thể .
+Không_chỉ khách_hàng mà_cả sếp cũng mặc_định nhà_thiết_kế web phải_biết hết mọi thứ và làm được tất_cả mọi việc , không có gì là bất_khả_thi .
+Khách_hàng có quyền đưa ra những dự_án với ý_tưởng " trên trời " và cho rằng nhà_thiết_kế hiển_nhiên phải hiểu rõ và đủ khả_năng triển_khai trong thời_gian ngắn , cho_dù nó có phù_hợp với điều_kiện công_nghệ cho_phép hay không .
+Minh_Trí

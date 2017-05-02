@@ -1,0 +1,13 @@
+Ý_tưởng chế_tạo robot có_thể tự học như trẻ_em
+Robot thế_hệ mới có khả_năng tự học , tự khám_phá và tích_lũy kinh_nghiệm như trẻ nhỏ có_thể được hoàn_thành vào năm 2020 .
+Nhóm nghiên_cứu Goal_Robots , Italy đang triển_khai dự_án chế_tạo robot thế_hệ mới có_thể tự xây_dựng mục_tiêu , kinh_nghiệm và bắt_chước quá_trình học_tập của con_người , Express hôm 7/11 đưa tin .
+Họ hy_vọng robot sẽ phát_triển và tự học từ đầu , giống một đứa trẻ mới sinh .
+" Mục_đích của chúng_tôi là chế_tạo robot có_thể tự học , tự khám_phá và tích_lũy kinh_nghiệm giống trẻ nhỏ khoảng 1-2 tuổi , sau đó áp_dụng kỹ_năng mới học được của nó " , Gianluca_Baldassarre , làm_việc tại Viện_Công nghệ và Khoa_học nhận_thức thuộc Hội_đồng Nghiên_cứu Quốc_gia ( CNR-Istc ) , người điều_phối dự_án , cho_biết .
+Goal_Robots sẽ mở_đường cho thế_hệ robot sở_hữu bước đột_phá về chất_lượng và khả_năng tự học .
+Tính hiếu_kỳ chính là yếu_tố tác_động tới con robot , cho_phép chúng nhận_dạng những cái mới và tìm_hiểu nó .
+" Bằng cách này khi phát_hiện những thứ gây bất_ngờ , chúng sẽ tập_trung nghiên_cứu và cố_gắng lặp lại hành_động .
+Điều này cũng diễn ra tương_tự ở trẻ nhỏ , ví_dụ khi chúng phát_hiện công_tắc bật đèn .
+Chúng_tôi không đặt mục_tiêu cho con robot mà chúng phải tự lựa_chọn mục_tiêu cho mình " , Baldassarre giải_thích .
+Nhóm chế_tạo đang hợp_tác cùng_với các nhà_nghiên_cứu trên khắp châu Âu và hy_vọng hoàn_thành robot tự học đầu_tiên vào năm 2020 .
+Xem thêm :   Thiếu_nữ robot cử_động , trò_chuyện như người thật
+Hiền_Anh

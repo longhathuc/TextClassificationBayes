@@ -1,0 +1,12 @@
+Đáp_án câu_đố tìm diện_tích làm rối mắt người giải
+Nhiều độc_giả chưa đưa ra đáp_án chính_xác cho câu_đố này .
+Đếm phần bị mất cho các hình_tròn chồng_chéo lên nhau là cách đơn_giản để tìm ra đáp_án .
+Đề_bài :
+Hình trên bao_gồm 16 vòng_tròn bằng nhau với 4 màu_sắc xếp chồng_chéo .
+Theo quan_sát của bạn , diện_tích phần nhìn thấy của hai màu nào_là bằng nhau ?
+Đáp_án : Diện_tích phần nhìn thấy của hai màu xanh bằng nhau .
+Màu đỏ bị mất 7 phần .
+Màu xanh_lam bị mất 6 phần .
+Màu xanh lá bị mất 6 phần .
+Như_vậy , diện_tích phần nhìn thấy của hai màu xanh bằng nhau .
+Thanh_Tâm

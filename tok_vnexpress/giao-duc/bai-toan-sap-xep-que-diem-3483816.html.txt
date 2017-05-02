@@ -1,0 +1,5 @@
+Bài_toán sắp_xếp que diêm
+Bạn có_thể tìm ra đáp_án hai bài_toán que diêm trong bao_lâu và bằng bao_nhiêu cách ?
+Các que diêm đang được xếp thành những phương_trình không đúng , gồm : 4 - 2 = 9 và 9 + 6 = 16 .
+Hãy di_chuyển ; thêm que và xếp chúng theo yêu_cầu của mỗi bài_toán và cho_biết đáp_án của bạn .
+Lưu_ý có_thể có hơn một_cách giải cho mỗi bài_toán .

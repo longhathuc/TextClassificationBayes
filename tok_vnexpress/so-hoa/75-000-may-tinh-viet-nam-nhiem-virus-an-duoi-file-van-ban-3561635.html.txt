@@ -1,0 +1,15 @@
+75.000 máy_tính Việt_Nam nhiễm virus ẩn dưới file văn_bản
+Virus có khả_năng " ngụy_trang " dưới các tập_tin văn_bản word , excel hay PDF ... được thiết_kế lây_lan qua USB nhằm đánh_cắp và gửi dữ_liệu về máy_chủ từ xa .
+Hệ_thống giám_sát của Bkav ghi_nhận sự gia_tăng mạnh_mẽ của virus W32.FakeDoc.Worm dưới dạng biến_thể mới , với hơn 75.000 máy_tính tại Việt_Nam bị nhiễm và liên_tục tăng nhanh thời_gian gần đây .
+Các chuyên_gia cho_biết cơ_chế phát_tán của virus rất tinh_vi .
+W32.FakeDoc.Worm tìm các file văn_bản word ( đuôi mở_rộng . doc , . docx ) , bảng tính excel ( . xls , . xlsx ) , tập_tin trình_chiếu powerpoint ( . ppt , . pptx ) hay PDF trên các ổ lưu_trữ USB , giấu các file này đi , rồi sinh_ra file giả_mạo để thế chỗ .
+Tập_tin giả_mạo có tên và biểu_tượng giống_hệt file gốc nên_người dùng khó phát_hiện ra .
+Biến_thể của virus   W32.FakeDoc.Worm ẩn dưới các tệp văn_bản để đánh_cắp dữ_liệu .
+Khi người dùng tiến_hành mở tập_tin giả_mạo , các nội_dung từ file gốc vẫn xem được bình_thường , nhưng lúc này đã kích_hoạt mã độc của virus và thông_qua đó virus có_thể lây_lan từ USB sang máy_tính và các thiết_bị khác .
+Sau khi máy_tính bị lây_nhiễm , virus sẽ liên_tục kết_nối và gửi dữ_liệu đánh_cắp được lên máy_chủ điều_khiển .
+Ngoài_ra , virus này cũng có khả_năng tải thêm và thực_thi các mã độc khác trên máy_tính .
+Theo các chuyên_gia , sự phát_tán mạnh_mẽ của virus   W32.FakeDoc.Worm là nguy_cơ lớn với người dùng máy_tính tại Việt_Nam .
+Ngoài_ra , nghiên_cứu cũng cho thấy tỷ_lệ USB bị nhiễm virus hiện_nay vẫn ở mức rất cao 83% .
+Để lấy lại các file đã bị virus thay_thế , người dùng có_thể tải hay cập_nhật các phần_mềm diệt virus lên phiên_bản mới nhất , sau đó tiến_hành quét , diệt virus và khôi_phục dữ_liệu .
+Đồng_thời , bạn cũng_nên cài thường_trực các phần_mềm diệt virus để được bảo_vệ chủ_động .
+Tuyệt_đối không mở trực_tiếp các tệp từ USB , kể_cả file có biểu_tượng văn_bản tưởng như vô_hại , nếu USB chưa được quét .

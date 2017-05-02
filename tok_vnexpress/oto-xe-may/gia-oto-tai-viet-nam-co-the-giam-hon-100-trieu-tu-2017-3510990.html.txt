@@ -1,0 +1,16 @@
+Giá ôtô tại Việt_Nam có_thể giảm hơn 100 triệu từ 2017
+Từ 1/1/2017 , thuế nhập_khẩu ôtô từ ASEAN giảm xuống còn 30% so với 40% năm 2016 , nhờ đó giá xe có_thể giảm hơn 7% .
+Tại_Việt_Nam , xe nhập_khẩu từ ASEAN hiện chịu thuế nhập_khẩu 40% .
+Theo lộ_trình giảm thuế trong Hiệp_định thương_mại nội khối , từ 1/1/2017 , sẽ giảm xuống 30% để tiến tới còn 0% vào 2018 .
+Nhờ thuế giảm , giá xe sẽ giảm theo .
+Cách tính giá xe nhập_khẩu bán ra tại Việt_Nam như sau :
+Giá bán = A x ( 1 + % NK ) x ( 1 + % TTĐB ) x ( 1 + % VAT ) x ( 1 + % chi_phí khác )
+Trong đó A là giá nhập về cảng , % NK là thuế_suất nhập_khẩu , TTĐB là   tiêu_thụ đặc_biệt , VAT là giá_trị gia_tăng , " chi_phí khác " gồm chi_phí bán hàng , quảng_cáo , nhân_sự ... cho mỗi xe bán ra .
+Giả_sử sang đầu 2017 không có thay_đổi nào về thuế , chính_sách thì mức chênh_lệch giá sau thuế nhập_khẩu mới sẽ được tính như sau :
+Giá mới / giá cũ = ( 1 + % NK mới ) / ( 1 + % NK cũ ) = 1,3 / 1,4 = 92,86%
+Như_vậy xe mới có_giá bằng khoảng gần 93% xe cũ , mức giảm_giá khoảng 7% .
+Dưới đây là mức giá mới của các mẫu xe nhập_khẩu từ ASEAN sau khi giảm_giá vì giảm thuế .
+Độc_giả click từng phần để xem các mẫu xe cụ_thể .
+Lưu_ý : Đây là cách tính giả_định chính_sách của hãng cũng_như các cơ_quan quản_lý không thay_đổi vào 1/2017 .
+Thực_tế mức giá điều_chỉnh có_thể khác .
+Đức_Huy

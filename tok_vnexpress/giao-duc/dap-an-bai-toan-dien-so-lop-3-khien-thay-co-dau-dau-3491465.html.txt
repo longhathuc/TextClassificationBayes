@@ -1,0 +1,15 @@
+Đáp_án bài_toán điền số lớp 3 khiến thầy_cô đau_đầu
+Có 2 đáp_án gốc , nếu   hoán_vị chuyển hàng thành cột thì_có thêm 2 đáp_án nữa .
+Đề_bài :
+Bài_toán dành cho đội_tuyển lớp 3-4 của một trường tiểu_học ở Hà_Nội khiến nhiều giáo_viên tiểu_học và phụ_huynh phải đau_đầu .
+Sau một tuần , chỉ một học_sinh giải được .
+Hãy điền các số 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 vào 9 ô trong bảng :
+sao cho thỏa_mãn cả hai điều_kiện :
+Hướng_dẫn giải :
+Nói_chung các bài_toán ở dạng này , cách tiếp_cận gần giống như_chơi Sudoku .
+Bước_đầu suy_luận logic để hạn_chế số phép thử , nhưng sau đó vẫn phải thử các phương_án để loại_trừ và tìm phương_án đúng .
+Nhận_xét quan_trọng là giá_trị nhỏ nhất của 2 ô m và c là 6 .
+Từ đó xét các cặp ô ( c ; m ) là một trong các trường_hợp ( 6 ; 7 ) ; ( 6 ; 8 ) ; ( 6 ; 9 ) ; ( 7 ; 8 ) ; ( 7 ; 9 ) ; ( 8 ; 9 ) .
+Tiếp_tục suy_luận và thử sai chọn đúng ta có 2 đáp_án gốc là :
+Nếu hoán_vị chuyển hàng thành cột thì ta có thêm 2 đáp_án sau :
+Trần_Phương Phó_giám_đốc Trung_tâm hỗ_trợ phát_triển tài_năng

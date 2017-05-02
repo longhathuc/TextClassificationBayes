@@ -1,0 +1,15 @@
+Robot đoán trước chính_xác phán_quyết của quan_tòa
+Nhóm nghiên_cứu của Anh phát_triển thành_công trí_tuệ_nhân_tạo ( AI ) có_thể dự_đoán phán_quyết của Tòa_án Nhân_quyền châu Âu với độ_chính_xác 79% .
+Nhóm nghiên_cứu đến từ ba trường đại_học của Anh thiết_kế một thuật_toán máy_tính có_thể dự_đoán phán_quyết của Tòa_án Nhân_quyền châu Âu ( ECtHR ) với độ_chính_xác là 79% ,   IFL  Science   dẫn   báo_cáo công_bố trên tạp_chí Peerj_Computer_Science hôm 24/10 cho_biết .
+Để tạo ra trí_tuệ_nhân_tạo này , nhóm nghiên_cứu đã huấn_luyện một máy_tính xác_định mô_hình chung từ 584 hồ_sơ vụ_án được xét_xử theo điều 3 , 6 , 8 của Công_ước châu Âu về Nhân_quyền , đề_cập đến quyền không bị tra_tấn , xét_xử công_bằng và các quyền riêng_tư tương_ứng .
+Bằng cách đối_chiếu giữa các mô_hình trong số hồ_sơ này và kết_quả xử án , cỗ máy sau đó có_thể dự_đoán chính_xác quyết_định của tòa_án trong gần 80% trường_hợp .
+Thuật_toán đưa ra kết_quả đáng tin nhất khi phân_tích tiểu_mục " Hoàn_cảnh " , chứa_đựng các chi_tiết liên_quan đến hành_động và sự_kiện xung_quanh một trường_hợp cụ_thể .
+Ngược_lại , tiểu_mục " Luật " đề_cập đến các lập_luận pháp_lý đưa ra bởi hai bên , là phần mà nó đưa ra tỷ_lệ dự_đoán chính_xác thấp nhất .
+Từ đó , nhóm nghiên_cứu kết_luận các thẩm_phán của ECtHR là những người theo thuyết_duy_thực hơn là chủ_nghĩa_hình_thức , nghĩa_là quyết_định của họ dựa trên các tình_tiết thực_tế nhiều hơn là khuôn_khổ pháp_lý .
+Với thành_công của nghiên_cứu này , Nikolaos_Aletras , đồng_tác_giả nghiên_cứu , cho_biết robot mang trí_tuệ_nhân_tạo có_thể trở_thành công_cụ quan_trọng để xác_định trường_hợp nào nhiều khả_năng vi_phạm Công_ước châu Âu về Nhân_quyền .
+Công_nghệ này có_thể giúp tòa_án xét_xử hiệu_quả hơn bằng cách xác_định khả_năng thắng , thua của các trường_hợp , thậm_chí trước khi họ ra tòa .
+" Trí_tuệ_nhân_tạo sẽ không thay_thế thẩm_phán và luật_sư nhưng họ có_thể thấy chúng hữu_ích để xác_định khuôn_mẫu trong các trường_hợp có cùng kết_quả nhất_định " , Aletras giải_thích .
+AI đặc_biệt hữu_ích đối_với các trường_hợp khiếu_nại phán_quyết của ECtHR bởi nó sẽ cho luật_sư và thẩm_phán một nhận_định tương_đối về khả_năng thành_công của những kháng_cáo này .
+Từ đó , các cơ_quan luật_pháp có_thể đưa ra quyết_định tốt hơn về việc có nên xét_xử một vụ_án hay không nhằm tiết_kiệm thời_gian .
+Xem thêm :   Người_ngoài hành_tinh có_thể đã bị trí_tuệ_nhân_tạo thôn_tính
+Hiền_Anh

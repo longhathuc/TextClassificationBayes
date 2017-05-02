@@ -1,0 +1,25 @@
+Điểm khó nhất trong đào_tạo lập_trình_viên giỏi
+Những nhận_xét thẳng_thắn , chân_thành sẽ giúp sinh_viên nỗ_lực hoàn_thiện mình , hơn là dùng những từ vô_thưởng_vô_phạt kiểu " tốt , khá , có cố_gắng " .
+Hồi còn làm HR , khi đi học kinh_nghiệm các tổ_chức khác , thỉnh_thoảng tôi lại tìm thấy một thứ thú_vị đem về dùng thử .
+Một trong số đó là best practice ( thông_lệ tốt ) về đánh_giá nhân_viên của Goldman_Sachs .
+Yêu_cầu của họ rất đơn_giản .
+Đó là khi đánh_giá nhân_viên cuối kỳ ( performance appraisal ) , ngoài việc cho điểm hay xếp loại nhân_viên , cán_bộ quản_lý còn phải viết một đoạn nhận_xét bằng lời ( narrative ) .
+Nhận_xét này cần được gửi cho nhân_viên và cán_bộ quản_lý phải sẵn_sàng trao_đổi với nhân_viên trên nội_dung này .
+Bạn đã thử viết nhận_xét về ai đó chưa ?
+Rất khó , nếu bạn muốn viết không quá ngắn , viết gì đó cụ_thể , có giá_trị thay_vì những tính_từ , trạng_từ vô_thưởng_vô_phạt kiểu “ tốt ” , “ khá ” , “ có cố_gắng ” ...
+Viết thế_nào để có_ích cho người đọc , để họ có_thể xác_định hành_động cải_tiến cho mình .
+Bởi_vì , đánh_giá nhân_viên không_chỉ là câu_chuyện quá_khứ ( xếp_hạng , chia thưởng ) , mà_còn là câu_chuyện tương_lai ( nên làm_gì tiếp ) .
+Còn gì tốt hơn cho nhân_viên khi nhận những nhận_xét thẳng_thắn và chân_thành về mình ?
+Thật_ra chuyện này đã được thiết_kế ngay ở trường phổ_thông , khi học_sinh kẻ hai ô trên bài kiểm_tra của mình , một ô là “ điểm ” , ô kia là “ lời phê của thầy_cô ” .
+Tiếc là , với áp_lực thời_gian và sĩ_số , lượng chữ_viết trên ô thứ_hai thường rất ít .
+Và ở đa_số các công_ty , câu_chuyện cũng không hơn gì .
+Đại_học trực_tuyến FUNiX đã tận_dụng ô “ lời phê ” này để đánh_giá một sinh_viên .
+Mỗi môn_học thường kéo_dài 4-6 tuần , với 4-5 bài_tập thực_hành lớn ( còn gọi_là assignment ) .
+Mỗi bài_tập lớn đều có barem chấm điểm với vài tiêu_chí .
+Thầy_giáo hướng_dẫn ( mentor ) sẽ cho điểm theo từng tiêu_chí , đồng_thời bắt_buộc đưa ra nhận_xét bằng lời .
+Nội_dung nhận_xét cùng_với điểm sẽ trả về cho học_viên , và hai bên có_thể kết_nối để trao_đổi , tranh_luận thêm trên tinh_thần bình_đẳng giữa các đồng_nghiệp .
+Cũng có lúc tranh_cãi gay_cấn đến mức phải gọi thêm mentor khác , hay thậm_chí tác_giả xây_dựng môn_học muốn làm trọng_tài .
+Ai thắng ai thua không quan_trọng , mà sau mỗi lần như_vậy các bên đều học thêm rất nhiều và tự_tin hơn .
+Đã là “ lời phê ” thì người đọc nó phải thấy phê mới_phải .
+Hãy dành thời_gian để viết ra những nhận_xét có_ích cho người khác , rồi bạn cũng sẽ có phần cho mình .
+Phan_Phương_Đạt Trưởng_ban đào_tạo trường Đại_học FUNiX ( thuộc Đại_học FPT )

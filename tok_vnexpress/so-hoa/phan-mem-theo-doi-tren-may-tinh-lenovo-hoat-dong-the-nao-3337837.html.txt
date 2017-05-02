@@ -1,0 +1,23 @@
+Phần_mềm theo_dõi trên máy_tính Lenovo hoạt_động thế_nào
+Lenovo_Service_Engine cho_phép nhà_sản_xuất cài phần_mềm bất_kỳ lên máy_tính của người dùng mà họ không biết , khi đó , máy_tính không còn là tài_sản cá_nhân .
+Giữa năm 2015 , hãng máy_tính Trung_Quốc bị phát_hiện cài phần_mềm Lenovo_Service_Engine ( LSE ) trên thiết_bị của người dùng .
+Chương_trình này chạy ngầm và hoạt_động như một phần_mềm gián_điệp cũng_như rất khó gỡ bỏ khỏi hệ_thống .
+Giữa tháng 12/2015 , Ủy_ban Nhân_dân TP Hải_Phòng đã gửi công_văn yêu_cầu các cơ_quan , đơn_vị trực_thuộc không dùng máy_tính Lenovo .
+Phần_mềm LSE được cài trên các máy_tính chạy Windows 7 và Windows 8 của Lenovo .
+Cả máy_tính chạy Windows 7 và Windows 8 của Lenovo ( xem danh_sách ) đều bị cài_đặt sẵn phần_mềm có tên Lenovo_Service_Engine ( LSE ) vào BIOS trên bo_mạch chính của máy trước khi xuất_xưởng .
+Trong lần đầu kết_nối Internet , người dùng sẽ được thông_báo rằng để giúp máy hoạt_động ổn_định , an_toàn hơn , họ cần cài_đặt phần_mềm tùy biến hệ_thống .
+Nếu chấp_nhận , LSE sẽ tự_động tải về máy_tính phần_mềm khác có tên Onekey_Optimizer .
+Trong quá_trình khởi_động tiếp_theo , chương_trình sẽ tự_động kết_nối đến máy_chủ của Lenovo để gửi lên một_số thông_tin cơ_bản của máy_tính , tải các trình điều_khiển và phần_mềm khác do Lenovo chỉ_định .
+Đại_diện Lenovo_Việt_Nam cho_biết việc LSE tự_động gửi dữ_liệu hệ_thống về máy_chủ là " để giúp Lenovo hiểu rõ khách_hàng của mình sử_dụng sản_phẩm ra_sao .
+Những dữ_liệu này hoàn_toàn không chứa thông_tin cá_nhân của người dùng , mà bao_gồm tên sản_phẩm , tên vùng , thông_tin cấu_hình máy - gồm dung_lượng bộ_nhớ , mã SKU , model CPU , độ_phân_giải màn_hình , dung_lượng ổ_cứng , card màn_hình , phiên_bản hệ_điều_hành .
+Những thông_tin này được thu_thập và gửi về máy_chủ chỉ ở lần đầu_tiên máy kết_nối với Internet " .
+LSE khó xóa_bỏ khỏi máy_tính của người dùng .
+Tuy_nhiên , các chuyên_gia cho rằng LSE hội_tụ các đặc_tính của phần_mềm gián_điệp với khả_năng hoạt_động ngầm ngay từ giai_đoạn khởi_động máy , can_thiệp sâu vào các tập_tin hệ_thống mặc_định của hệ_điều_hành .
+Theo   ông Ngô_Tuấn_Anh , Phó_chủ_tịch Bkav , phần_mềm này được cài vào BIOS ( phần điều_khiển dưới mức hệ_điều_hành ) nên rất khó xóa_bỏ , tự cài_đặt lại khi người dùng xóa theo cách thông_thường .
+Có_thể nói , máy_tính_cá_nhân của người dùng không còn là tài_sản của riêng họ nữa .
+" Có_thể hiểu LSE là phần_mềm ' mồi ' , có_thể cài bất_cứ phần_mềm nào sau đó theo yêu_cầu của nhà_sản_xuất mà người dùng không biết .
+Phần_mềm này được cài ở mức phần_cứng của hệ_thống nên khó nhận_biết , nếu bị khai_thác với mục_đích xấu thì máy_tính có_thể bị kiểm_soát , đánh_cắp dữ_liệu hoặc trở_thành máy_tính ma ( botnet ) được huy_động vào các cuộc tấn_công từ_chối dịch_vụ " ,   ông Tuấn_Anh nhận_định . " Việc cài_đặt phần_mềm theo_dõi hành_vi của người sử_dụng mà không thông_báo hoặc thông_báo một_cách không rõ_ràng , nhất_là việc cài_đặt sẵn đối_với các máy_tính mới từ nhà_sản_xuất khiến người sử_dụng rất khó nhận_biết và có_thể ảnh_hưởng tới thông_tin cá_nhân của người sử_dụng " .
+Nguy_hiểm hơn_nữa , chuyên_gia bảo_mật Roel_Schouwenberg đã phát_hiện một lỗi tràn bộ đệm trong LSE có_thể bị kẻ xấu khai_thác để giành quyền kiểm_soát máy_tính ở cấp_độ cao nhất .
+Lenovo cho_biết , lỗ_hổng bảo_mật này có liên_quan tới cách_thức Lenovo sử_dụng cơ_chế Microsoft_Windows trong tính_năng LSE ở bản firmware BIOS được cài_đặt trên máy_tính người dùng của hãng .   Hãng
+Trung_Quốc đã phát_hành bản cập_nhật phần_mềm firmware BIOS mới để loại_bỏ lỗ_hổng bảo_mật này .
+Minh_Minh

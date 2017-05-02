@@ -1,0 +1,25 @@
+Máy_tính Google đánh_bại đương_kim vô_địch cờ_vây thế_giới
+Một chương_trình máy_tính được Google xây_dựng đã thắng đương_kim vô_địch cờ_vây thế_giới Lee_Se - dol , đánh_dấu một bước_tiến đáng_kể trong lĩnh_vực trí_tuệ_nhân_tạo .
+Theo CNN , Lee_Se - dol đã thua ván đấu đầu_tiên trước chương_trình AlphaGo của Google vào hôm 9/3 , tại Seoul .
+Phía_Hàn_Quốc dự_định tổ_chức thêm 4 ván cờ nữa để tìm ra bên chiến_thắng chung_cuộc .
+Nếu_Lee thắng trong cuộc đấu này , anh sẽ có một_triệu USD tiền thưởng và tái khẳng_định danh_hiệu vô_địch thế_giới của mình .
+Còn nếu chiến_thắng thuyết_phục thuộc về Google_Deep Mind ' s AlphaGo , đó sẽ là một bước_tiến đáng_kể trong công_nghệ chế_tạo máy_tính thông_minh .
+Google sẽ dùng tiền thưởng chiến_thắng đi làm từ_thiện .
+" Tôi nghe_nói Google_Deep Mind ' s AlphaGo thông_minh kinh_ngạc và ngày_càng mạnh hơn , nhưng tôi tự_tin chiến_thắng " , Lee phát_biểu trước trận đấu .
+Lee , 33 tuổi , là kỳ_thủ được mệnh_danh " Roger_Federer của cờ_vây " , hiện nắm giữ thứ_hạng chuyên_nghiệp cao nhất trong môn này với 9 đẳng .
+Cờ_vây có nguồn_gốc từ hàng nghìn năm trước ở Trung_Quốc .
+Hai người chơi lần_lượt đặt các quân cờ đen_trắng hình_tròn lên một bàn_cờ kẻ ô vuông 19x19 , mục_đích là để kiểm_soát lãnh_thổ bằng cách bao_vây đối_thủ .
+Một ván đấu có_thể kéo_dài nhiều giờ , chiến_thắng đòi_hỏi kỳ_thủ phải kiên_cường , có khả_năng về chiến_lược và trực_giác .
+Dạy máy_tính chơi cờ_vây thành_thạo là một thách_thức rất lớn trong lĩnh_vực trí_tuệ_nhân_tạo .
+Các khả_năng có_thể xảy_ra trên bàn_cờ còn nhiều hơn cả số nguyên_tử trong vũ_trụ , theo Demis_Hassabis , Giám_đốc điều_hành Google_Deep Mind , chịu trách_nhiệm phát_triển chương_trình AlphaGo .
+" Cờ_vây là trò_chơi sâu_sắc nhất mà con_người phát_minh ra " , Hassabis nói .
+" Đây là trò_chơi thiên về trực_giác và cảm_nhận chứ không phải là các tính_toán máy_móc , nên sẽ rất khó để dạy máy_tính chơi giỏi " .
+Tháng 10 năm_ngoái , AlphaGo đã từng đánh_bại thuyết_phục nhà_vô_địch châu Âu , Fan_Hui với 5 ván thắng liên_tiếp .
+Đây được coi là một bước đột_phá lớn , xảy_ra sớm hơn dự_đoán của các chuyên_gia khoảng 10 năm .
+Từ những năm 1990 , các chương_trình phần_mềm đã được viết ra để chơi các trò_chơi chiến_thuật như cờ thỏ cáo .
+Sự tiến_bộ vượt_bậc đạt đỉnh_cao vào năm 1997 , khi máy_tính Deep_Blue của IBM giành chiến_thắng lịch_sử trước nhà_vô_địch cờ_vua thế_giới Gary_Kasparov .
+Tuy_nhiên , phải mất thêm hai thập_kỷ nữa để trí_tuệ_nhân_tạo có_thể thấu_hiểu sự phức_tạp của cờ_vây .
+Cho tới gần đây , máy_tính cũng mới chỉ so_sánh được với những người chơi cờ_vây nghiệp_dư .
+Các nhà_nghiên_cứu của Google nói rằng họ mong_đợi AlphaGo có_thể đóng_góp vào các lĩnh_vực khác vượt ra ngoài các trò_chơi chiến_thuật , như các ứng_dụng của Google hay thậm_chí cả trong y_học .
+Các ván cờ còn lại sẽ diễn ra_vào ngày 15/3 , được phát trực_tuyến trên Youtube , kênh DeepMind và truyền_hình trực_tiếp khắp châu Á .
+Nguyễn_Thành_Minh

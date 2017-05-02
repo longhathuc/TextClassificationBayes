@@ -1,0 +1,38 @@
+Đáp_án bài_toán lớp 4 làm_khó người_lớn
+Dựa vào tính bất_biến diện_tích còn lại của khu vườn khi dịch_chuyển lều từ vị_trí bất_kỳ tới vị_trí đặc_biệt , ta có nhiều cách giải và đáp_án diện_tích lều là 36 m2 .
+Đề_bài :
+Bài_toán dành cho học_sinh lớp 3-4 ( Middle_Primary ) , được trích trong kỳ thi đánh_giá năng_lực tư_duy Toán_học quốc_tế - IMAS .
+Một cái lều hình_vuông được dựng ở trung_tâm của một mảnh vườn hình_vuông .
+Khoảng_cách từ mỗi mép ngoài cái lều tới tường_bao quanh khu vườn là 8 m .
+Biết tổng diện_tích của phần mảnh vườn không tính cái lều là 448 m2 , tính diện_tích cái lều , theo m 2 ?
+Dựa vào tính bất_biến diện_tích còn lại của khu vườn khi dịch_chuyển cái lều từ vị_trí bất_kỳ tới vị_trí đặc_biệt , ta có_thể nâng_cấp bài_toán theo đề_bài sau đây :
+Đề_bài nâng_cấp :
+Một cái lều hình_vuông được dựng trong một mảnh vườn hình_vuông .
+Biết hiệu độ dài cạnh của mảnh vườn với độ dài cạnh của cái lều là 16 m và tổng diện_tích của phần mảnh vườn không tính cái lều là 448 m2 .
+Tính diện_tích cái lều , theo m 2 , với các trường_hợp sau đây :
+a .
+Cái lều có các cặp cạnh song_song với các cặp cạnh của mảnh vườn .
+Chú_ý : Có_thể làm dễ hơn bằng cách thay_vì cho hiệu độ dài bằng 16 m , ta cho các khoảng_cách từ mép ngoài cái lều tới tường_bao quanh khu vườn là các số cụ_thể ( 4 m , 12 m ) ; ( 3 m , 13 m ) .
+Khi đó đề_bài này vẫn hấp_dẫn hơn đề bài_toán nguyên gốc .
+b .
+Cái lều không có cạnh nào song_song với cạnh của mảnh vườn .
+Lời_giải ( chung cho cả a . và b . )
+Khi dịch_chuyển lều ở mọi vị_trí trong khu vườn thì hình_dạng phần diện_tích còn lại của khu vườn bị thay_đổi , nhưng diện_tích của nó thì không đổi .
+Do_đó ta có_thể dịch_chuyển lều đến các vị_trí đặc_biệt để thuận_lợi trong việc vận_dụng giả_thiết tính độ dài cạnh của cái lều .
+Cách 1 : ( Phương_pháp của đáp_án )
+Dịch_chuyển cái lều đến vị_trí trung_tâm của mảnh vườn .
+Do hiệu độ dài cạnh của mảnh vườn với độ dài cạnh của cái lều là 16 m nên khoảng_cách từ mỗi mép ngoài lều tới tường_bao quanh khu vườn là 8 m .
+Khi đó ta được đề_bài nguyên gốc của bài_toán thi IMAS lớp 4 ( hình bên trái ) .
+Chia khu vườn theo hình bên phải ta nhận được 4 hình_chữ_nhật bằng nhau và có tổng diện_tích bằng 448 m2 nên mỗi hình_chữ_nhật có diện_tích là 112 m2 .
+Mỗi hình_chữ_nhật có chiều rộng là 8 m nên chiều dài là 112 : 8 = 14 ( m ) .
+Do chiều dài của hình_chữ_nhật bằng độ dài cạnh của cái lều cộng với 8 m nên cạnh cái lều dài 6 m .
+Vậy diện_tích lều là 6 x 6 = 36 ( m2 ) .
+Cách 2 : Dịch_chuyển cái lều về một góc_vuông của mảnh vườn và ký_hiệu các điểm như hình_vẽ .
+Do hiệu độ dài cạnh của mảnh vườn với độ dài cạnh của cái lều là 16 m nên từ hình_vẽ ta có NF = NP = 16 m , MN = EN .
+Từ đó suy ra :
+S ( vườn ) = S ( CPNF ) + S ( MBFN ) + S ( DPNE )
+= 16 x 16 + 16 x MN + 16 x EN = 256 + 32 x MN
+Do S ( vườn ) = 448 nên 256 + 32 x MN = 448 , suy ra MN = 6 ( m ) .
+Vậy diện_tích cái lều là : 6 x 6 = 36 ( m2 )
+> > Xem cách giải của Ban tổ_chức
+Trần_Phương

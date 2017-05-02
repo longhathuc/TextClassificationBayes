@@ -1,0 +1,25 @@
+Bán hàng trên mạng bị lừa mất 90 triệu đồng
+Kẻ_gian giả mua hàng và thông_báo đã chuyển 90 triệu đồng , yêu_cầu người bán nhấn vào một đường link , điền các thông_tin cá_nhân để xác_nhận giao_dịch .
+Tuy_nhiên , bên_bị trừ số tiền này sau đó lại là người bán .
+Chị Thu một người bán hàng trực_tuyến cho_biết , cách đây một tuần , chị có thực_hiện giao_dịch mua_bán hàng qua mạng với một khách_hàng xưng là Việt_kiều Mỹ .
+Người này nói rằng đang ở nước_ngoài , muốn mua quà tặng cho bạn ở Việt_Nam và sẽ thanh_toán tiền qua dịch_vụ MoneyGram .
+Sau đó , vị khách thông_báo với chị Thu đã chuyển_tiền vào tài_khoản của một ngân_hàng cổ_phần có trụ_sở ở TP_HCM thông_qua dịch_vụ MoneyGram .
+Tuy_nhiên , vị khách cho rằng bị lỗi nên nhờ chị Thu xác_nhận lại vài thông_tin .
+Lúc đó , chị Thu nhìn vào điện_thoại thấy tin nhắn có nội_dung thông_báo chuyển_khoản theo dịch_vụ MoneyGram và có kèm đường link yêu_cầu chị xác_nhận .
+" Lâu_nay bán hàng online chủ_yếu nhận chuyển_khoản bằng ngân_hàng trong nước , giờ người này nói chuyển_tiền thanh_toán qua dịch_vụ MoneyGram nên tôi cũng không rành lắm " , chị nói và cho_biết đã nhấp vào đường link thì thấy hiện ra một trang website giống như của dịch_vụ MoneyGram nên chị điền các thông_tin cá_nhân : số tài_khoản , mật_khẩu ...
+Khách_hàng nên cẩn_trọng khi giao_dịch ngân_hàng trực_tuyến .
+Ngay lúc đó chị Thu_nhận được tin nhắn về điện_thoại thông_báo mã OTP .
+Chị điền mã này vào trang website kia thì ngay_lập_tức tài_khoản bị trừ 90 triệu đồng vào một_số tài_khoản lạ ( cũng do chị đăng_ký hạn_mức chuyển_tiền tối_đa là 90 triệu đồng nên bị kẻ_gian thực_hiện lệnh chuyển 90 triệu ) .
+Lập_tức , chị Thu liên_hệ với ngân_hàng nhờ hỗ_trợ .
+Theo chị , đối_tượng lừa_đảo quá tinh_vi , trong khi đó tin nhắn nhận mã OTP của ngân_hàng chỉ ghi chung_chung là yêu_cầu nhập mật_khẩu một lần để xác_thực giao_dịch vừa thực_hiện mà không nói rõ là giao_dịch chuyển_khoản nên mới không biết và đã nhập mã này vào trang website lừa_đảo kia , dẫn đến bị mất tiền .
+Nhìn_nhận vụ_việc , lãnh_đạo ngân_hàng liên_quan phân_tích , có_thể chị Thu bị mất thông_tin và mật_khẩu do truy_cập vào trang_web giả_mạo bằng đường link mà đối_tượng xấu gửi cho chị .
+Trên website giả_mạo sẽ không hiển_thị nội_dung thực_hiện giao_dịch của khách_hàng là chuyển_tiền , mà có_thể chỉ đơn_giản là dẫn_dụ chị để xác_nhận một thông_tin nào_đó về tài_khoản .
+Sau đó đối_tượng này dụ chị điền mã OTP vào website giả_mạo và tất_cả các thông_tin trên đã bị đối_tượng xấu đánh_cắp .
+Song_song , kẻ xấu có_thể cũng đang thực_hiện giao_dịch trên website ngân_hàng thật và lấy toàn_bộ thông_tin mà chị Thu vừa cung_cấp để thực_hiện chuyển_khoản .
+Một chuyên_gia cho rằng , mỗi khách_hàng cần có ý_thức bảo_vệ và quản_lý các thông_tin của mình cũng_như lường trước các rủi_ro nếu tham_gia dịch_vụ giao_dịch ngân_hàng điện_tử .
+Tuyệt_đối tránh truy_cập các website không đáng tin_cậy , hoặc nhấp vào bất_kỳ đường_dẫn nào yêu_cầu cung_cấp , cập_nhật thông_tin cá_nhân và thông_tin dịch_vụ ngân_hàng điện_tử .
+Sau khi kết_thúc sử_dụng dịch_vụ hoặc hoàn_thành các giao_dịch thanh_toán trực_tuyến , phải tiến_hành đăng xuất tài_khoản .
+Tuyệt_đối không chọn chế_độ lưu mật_khẩu đăng_nhập Internet_Banking trên thiết_bị sử_dụng chung , máy_tính công_cộng …
+Ông cũng cho rằng , người dùng nên bảo_vệ và thay_đổi thường_xuyên mật_khẩu truy_cập các dịch_vụ ngân_hàng điện_tử , thẻ , e-mail và cài_đặt mật_khẩu đảm_bảo nguyên_tắc an_toàn .
+Ưu_tiên sử_dụng máy_tính_cá_nhân có cài_đặt cập_nhật các phần_mềm diệt virus để truy_cập các dịch_vụ ngân_hàng điện_tử ... . Ngược_lại , các ngân_hàng , muốn tạo tiện_lợi cho khách thì khi đưa vào sử_dụng phải có cách gì đó tăng_cường tính bảo_mật của ứng_dụng .
+Hoài_Thu

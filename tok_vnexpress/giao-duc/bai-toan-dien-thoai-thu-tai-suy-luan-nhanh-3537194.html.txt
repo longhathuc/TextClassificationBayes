@@ -1,0 +1,11 @@
+Bài_toán điện_thoại thử tài suy_luận nhanh
+Bài_toán về thời_gian sử_dụng điện_thoại_di_động trong đề thi tính nhẩm dành cho học_sinh lớp 5-6 không khó nhưng yêu_cầu tốc_độ .
+Liệu bạn có_thể đưa ra đáp_án trong vòng một phút ?
+Điện_thoại_di_động của Tom được sạc đầy pin .
+Nếu_không sử_dụng thì_phải sau 72 giờ điện_thoại mới hết pin .
+Còn nếu gọi liên_tục thì sau 3 giờ , điện_thoại sẽ hết pin .
+Tom đã để nguyên không sử_dụng nó suốt 27 giờ .
+Sau đó , ông thực_hiện một cuộc_gọi dài 45 phút .
+Hỏi_Tom còn gọi được bao_nhiêu phút nữa thì điện_thoại hết pin ?
+Thanh_Tâm
+> > Đố bạn giải nhanh bài_toán bắt_tay lớp 9 > > Bài_toán lớp 6 có_thể làm_khó bạn > > Thử tài tư_duy với bài_toán tô màu cho ngũ_giác

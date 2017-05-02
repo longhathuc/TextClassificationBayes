@@ -1,0 +1,15 @@
+Đáp_án bài_toán ' mua hàng khuyến_mại '
+Rất nhiều độc_giả có phương_án tối_ưu để mua được nhiều hàng với số tiền ít_nhất .
+Bài_toán lấy từ cuộc_thi Lomonosop năm 2015 .
+Để sửa_chữa các cánh_quạt Carlson cần mua 3 lưỡi dao và 1 đinh_vít .
+Cửa_hàng bán 1 lưỡi dao giá 120 tugrik và 1 đinh_vít giá 9 tugrik .
+Nhưng sau khi mua hàng với giá_trị ít_nhất 250 tugrik thì được giảm 20% cho tất_cả mặt_hàng mua tiếp_theo .
+Hỏi_Carlson có_thể sửa_chữa được các cánh_quạt không nếu cậu chỉ có 360 tugrik ?
+Giải :
+Nếu mua 3 lưỡi dao thì vừa hết tiền , không đủ tiền mua đinh_vít .
+Nếu mua 2 lưỡi dao và 1 đinh_vít thì mới được 249 tugrik , chưa được quyền khuyến_mãi .
+Mấu_chốt ở đây là ta chịu_khó mua thừa 1 cái đinh_vít , tức_là mua 2 lưỡi dao , 2 cái đinh_vít , có_giá là 258 tugrik .
+Sau đó sẽ mua lưỡi dao thứ_ba với giá khuyến_mãi là 120 ´ 0.8 = 96 tugrik .
+Tổng_cộng số tiền phải trả là 258 + 96 = 354 .
+Không_những đủ mà_còn dư .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

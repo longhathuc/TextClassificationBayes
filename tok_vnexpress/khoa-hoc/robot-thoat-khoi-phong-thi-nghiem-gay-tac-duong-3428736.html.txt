@@ -1,0 +1,21 @@
+Robot thoát khỏi phòng_thí_nghiệm gây tắc đường
+Robot có tên gọi Promobot IR77 trốn thoát thành_công khỏi phòng_thí_nghiệm ở Nga và hết pin giữa_chừng nên dừng lại giữa đường khiến giao_thông hỗn_loạn .
+Theo Mirror , Promobot IR77   được trang_bị trí_tuệ_nhân_tạo ( AI ) có khả_năng học_hỏi từ những gì nhìn thấy xung_quanh và nhớ được mọi người đã từng gặp có_thể sẽ bị loại_bỏ do luôn tìm cách trốn ra ngoài .
+Nó đã hai lần tìm cách trốn từ phòng_thí_nghiệm công_nghệ_cao ra ngoài .
+Các lập_trình_viên không hề mong_chờ nó " học " được sự khao_khát tự_do .
+Họ nói rằng đã từng lập_trình lại nó hai lần nhưng robot vẫn tìm cách trốn ra ngoài nên hiện đang được cân_nhắc loại_bỏ khỏi chương_trình thí_nghiệm .
+Các con robot khác cùng loại luôn có biểu_hiện tốt và chưa từng tìm cách bỏ trốn , nhóm nghiên_cứu cho_biết .
+Promobot IR77 từng gây chú_ý lớn vào hôm 16/6 khi trốn thoát thành_công nhưng bị hết pin sau 45 phút khi đang ở giữa một con đường tại thành_phố Perm , Nga .
+Lúc đầu nó đi lang_thang ngoài sân_sau khi thoát ra ngoài do cửa đóng không cẩn_thận .
+Sau đó nó làm giao_thông hỗn_loạn khi xe_cộ cố_gắng chạy tránh nó , cuối_cùng là hết pin và nó dừng lại .
+Các chuyên_gia nói rằng họ có lập_trình cho robot có khả_năng tránh chướng_ngại_vật và nó lẽ_ra phải không có ý_định tìm đường trốn thoát khỏi trung_tâm nghiên_cứu .
+" Chúng_tôi đang làm_việc với các robot thế_hệ thứ_ba mà dự_định sẽ ra_mắt vào mùa thu này .
+Đó là lý_do vì_sao chúng_tôi trang_bị AI cho tất_cả các robot " , Oleg_Kivokurtsev , đồng sáng_lập của phòng_thí_nghiệm đã tạo ra Promobot IR77 cho_biết .
+Ông cũng xác_nhận : " Chúng_tôi đã thay_đổi hệ_thống AI hai lần , nên tôi nghĩ rằng có_thể tôi sẽ loại_bỏ nó lần này " .
+Promobot là loại robot độc_đáo được các nhà_khoa_học Nga tạo ra và được thiết_kế để làm_việc với các khách_hàng , tương_tác với con_người trong thực_tế , trả_lời các câu_hỏi và nhớ mặt tất_cả những_ai từng gặp .
+Đây không phải là trường_hợp robot đầu_tiên tự nhận_thức và tìm cách trốn thoát .
+Tại_Áo vào năm 2013 từng có một trường_hợp robot dọn_dẹp nhà_cửa cố_gắng " tự_sát " bằng cách tự bật công_tắc của mình , leo lên trên mặt bếp nóng và bị đốt cháy .
+Con robot có tên Irobot_Roomba 760 dường_như muốn nổi_dậy chống lại công_việc đang làm .
+Lính cứu_hỏa đã phải được gọi tới để giải_quyết đám cháy .
+Xem thêm : Robot xinh_đẹp như người thật
+Nguyễn_Thành_Minh

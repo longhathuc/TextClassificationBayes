@@ -1,0 +1,16 @@
+25 đội tham_gia diễn_tập xử_lý website bị tấn_công
+Trong chương_trình diễn_tập an_ninh mạng , các đội xử_lý tình_huống website bị thay_đổi giao_diện và bị cài mã độc cho_phép hacker chiếm quyền kiểm_soát máy_chủ .
+Ngày 19/5 ,   25 đội đến từ các đơn_vị thuộc Bộ Công an , ngân_hàng , các Sở TT& TT , trường Đại_học công_nghệ và các doanh_nghiệp đã tham_gia chương_trình có chủ_đề " Điều_tra và xử_lý website bị tấn_công " .
+Sự_kiện do tập_đoàn Bkav tổ_chức nhằm nâng   cao khả_năng ứng_phó , sẵn_sàng xử_lý các sự_cố an_ninh mạng .
+Ông Nguyễn_Huy_Dũng , Phó_Cục trưởng Cục An toàn Thông_tin ( Bộ TT& TT ) , cho_biết : " Việc ứng_dụng và phát_triển công_nghệ_thông_tin ngày_càng sâu_rộng khiến vấn_đề an_toàn an_ninh thông_tin luôn diễn_biến nóng .
+Đặc_biệt , thường sau mỗi sự_kiện quan_trọng của đất_nước lại xảy_ra hàng_loạt sự_cố , website của các cơ_quan , tổ_chức bị tấn_công .
+Việc diễn_tập thực_tế là hết_sức cần_thiết , nhưng nếu chỉ cơ_quan nhà_nước đứng ra làm sẽ không đủ .
+Cục   đã đề_xuất chủ_trương xã_hội_hóa , doanh_nghiệp phối_hợp với cơ_quan nhà_nước tổ_chức diễn_tập để tối_ưu_hóa nguồn_lực , huy_động được nhiều bên cùng tham_gia " .
+Ông Nguyễn_Huy_Dũng , Phó_Cục trưởng Cục An toàn Thông_tin .
+Theo ông Ngô_Tuấn_Anh , Phó_chủ_tịch Bkav , hầu_hết các cơ_quan , doanh_nghiệp , tổ_chức đều có website , nhưng việc đảm_bảo an_ninh cho " cửa_ngõ " này chưa được quan_tâm đúng_mức , dẫn đến hơn 40% website tại Việt_Nam tồn_tại lỗ_hổng .
+" Đây là nguyên_nhân chính của các vụ lộ lọt thông_tin , xâm_nhập mạng xảy_ra thường_xuyên trong vài năm gần đây " , ông Tuấn_Anh nhấn_mạnh .
+Trong quá trình_diễn , 25 đội liên_tục trao_đổi với nhau về cách_thức xử_lý các tình_huống khó khi   website bị tấn_công , như phải rà_soát hệ_thống website để xác_định nguyên_nhân xảy_ra sự_cố , thu_thập và xử_lý mã độc mà kẻ tấn_công tải lên máy_chủ , đồng_thời tiến_hành kiểm_tra và vá các lỗ_hổng để ngăn_chặn việc tấn_công trở_lại .
+Riêng_Sở TT& TT Thái_Nguyên đã huy_động lực_lượng lớn gồm Công_an Tỉnh , Văn_phòng Tỉnh_ủy , HĐND , UBND , trường đại_học … để cùng giải_quyết các kịch_bản sự_cố do Ban tổ_chức đưa ra .
+Các đội Điện_lực TP_HCM , Đại_học Bách_Khoa_Đà_Nẵng , Văn_phòng UBND thành_phố Hải_Phòng … cũng liên_tục gửi báo_cáo sớm về Ban tổ_chức .
+Chương_trình diễn_tập tiếp_theo sẽ diễn ra_vào tháng 9/2016 .
+Trong khi đó ,   theo thông_tin từ Bộ TT& TT , một đợt " tập_trận ATTT chung " quốc_tế khác giữa các đơn_vị ATTT_ASEAN với Nhật_Bản cũng sẽ được tổ_chức ngay cuối tháng này .

@@ -1,0 +1,10 @@
+Bài_toán ' chim_sẻ ' của trẻ lớp 1 có_thể làm_khó bạn
+Bài_toán về những bước di_chuyển của chú chim_sẻ trong đề thi Toán quốc_tế dành cho học_sinh lớp 1-2 không khó .
+Bạn có_thể giải nó trong bao_lâu ?
+Chú chim_sẻ Jack đang nhảy từ cây cột_trụ này sang một cây cột_trụ khác trên một tấm rào .
+Mỗi lần nhảy như_vậy , Jack phải mất một giây .
+Nó cứ nhảy về phía trước 4 lần , rồi lại nhảy lùi lại 1 lần và lại nhảy tiến 4 lần rồi nhảy lùi lại 1 lần , và cứ như_vậy .
+Hỏi_Jack tốn bao_nhiêu giây để nhảy được từ cột_trụ START đến cột_trụ FINISH ?
+Trần_Phương
+> > Đố bạn giải được bài_toán tính nhanh lớp 1-2
+> > Thử_thách suy_luận của bạn với bài_toán tính nhanh lớp 5

@@ -1,0 +1,10 @@
+Robot xây tường nhanh gấp 6 lần thợ_nề
+Kỹ_năng xây_dựng của con robot có_thể đe_dọa cướp mất việc_làm của hàng triệu người trên các công_trường trong tương_lai gần .
+Công_ty Construction_Robotics ở New_York , Mỹ vừa phát_triển robot bán_tự_động tên Sam có_thể xây 3.000 viên gạch một ngày , gấp 6 lần năng_suất trung_bình của các thợ_nề bình_thường , Sun hôm_qua đưa tin .
+Con robot bao_gồm dây_chuyền , cánh_tay robot và hệ_thống bơm vữa .
+Robot_Sam cần một nhân_công xếp gạch lên giá đỡ của nó .
+Sau công_đoạn này , cánh_tay robot sẽ gắp từng viên gạch , đưa xuống vòi bơm để phủ vữa lên gạch trước khi xếp vào vị_trí trên bức tường .
+Một thợ_xây sau đó chỉ cần gạt bớt vữa trên tường trước khi robot xếp thêm gạch .
+Những con robot như Sam đã bắt_đầu được sử_dụng tại các công_trường xây_dựng ở Mỹ , khiến các chuyên_gia lo_ngại chúng có_thể khiến hàng triệu thợ_xây thất_nghiệp trong hai năm tới .
+" Robot sẽ sớm có_mặt ở những công_trường xây_dựng , làm công_việc của con_người nhưng với tốc_độ nhanh hơn " , Richard_Valentine - Selsey , cố_vấn xây_dựng , nhận_định .
+Phương_Hoa

@@ -1,0 +1,25 @@
+Thí_sinh bắt_đầu làm bài đánh_giá năng_lực vào Đại_học Quốc_gia
+Sáng 5/5 , hàng nghìn thí_sinh bắt_đầu làm bài thi đánh_giá năng_lực trên máy_tính .
+Kết_quả thi được sử_dụng để xét tuyển vào 6 trường thành_viên của Đại_học Quốc_gia Hà_Nội và 8 đại_học khác .
+Kết_quả bài thi chỉ có giá_trị trong năm dự thi để xét tuyển vào Đại_học Ngoại_ngữ thuộc Đại_học Quốc_gia Hà_Nội và các trường đại_học , cao_đẳng sử_dụng kết_quả bài thi Ngoại_ngữ để xét tuyển .
+Từ ngày_mai , thí_sinh sẽ làm bài đánh_giá năng_lực trong 195 phút với   140 câu_hỏi trắc_nghiệm .
+Mỗi thí_sinh một đề riêng
+Mỗi đề thi của bài đánh_giá năng_lực do máy_tính tổ_hợp từ bộ cơ_sở_dữ_liệu nguồn gồm hai phần : bắt_buộc và tự chọn .
+Độ khó của các câu_hỏi được phân_định theo tỷ_lệ : 20% dễ , 60% trung_bình và 20% khó .
+Tổng_số câu thí_sinh phải thực_hiện là 140 câu , thời_gian làm bài là 195 phút .
+Cơ_cấu kiến_thức trong phần bắt_buộc như sau : 10% trong chương_trình lớp 10 ; 20% chương_trình lớp 11 ; 70% chương_trình lớp 12 .
+Phần bắt_buộc được chia thành hai nhánh : Tư_duy định_lượng và Tư_duy định_tính .
+Tư_duy định_lượng ( kiến_thức Toán ) gồm 50 câu_hỏi với thời_gian hạn_định là 80 phút .
+Các câu_hỏi phần này có dạng trắc_nghiệm 4 lựa_chọn hoặc điền giá_trị số .
+Tư_duy định_tính ( kiến_thức Ngữ_văn ) gồm 50 câu_hỏi với thời_gian hạn_định là 60 phút .
+Các câu_hỏi phần này đều có dạng trắc_nghiệm 4 lựa_chọn .
+Với phần tự chọn , thí_sinh chọn một trong hai nội_dung : kiến_thức Khoa_học Tự_nhiên gồm Vật_lý , Hóa_học , Sinh_học hoặc kiến_thức Khoa_học Xã_hội gồm Lịch_sử , Địa_lý , Giáo_dục công_dân .   Sau
+2 phút , nếu thí_sinh không chọn một trong hai nội_dung trên , máy_tính sẽ mặc_định chọn Khoa_học Tự_nhiên .
+Mỗi nội_dung có 40 câu_hỏi trắc_nghiệm thời_gian hạn_định là 55 phút .
+> >   Cách   làm bài đánh_giá năng_lực
+Không phúc_khảo bài thi
+ĐH Quốc_gia Hà_Nội không tổ_chức phúc_khảo bài thi đánh_giá năng_lực và bài thi đánh_giá năng_lực Ngoại_ngữ .
+Sau khi có kết_quả thi , thí_sinh đăng_ký xét tuyển trực_tuyến ( online ) qua cổng thông_tin điện_tử Đăng_ký xét tuyển đại_học chính_quy năm 2016   tại địa_chỉ website http : / / vnu.edu.vn hoặc website của các đơn_vị đào_tạo .   Thời_gian đăng_ký xét tuyển đợt một từ 13/6 đến 16h30 ngày 24/6 và đợt hai từ 16/8 đến 16h30 ngày 25/8 .
+Trong đợt thi đánh_giá năng_lực đầu_tiên này , có 70.000 lượt thí_sinh tham_gia , cao gấp 1,5 lần so với đợt một năm 2015 ( 45.000 lượt ) .
+Năm 2016 , có thêm 8 trường đại_học ngoài Đại_học Quốc_gia Hà_Nội cùng tham_gia tổ_chức thi và sử_dụng kết_quả này để xét tuyển gồm : Kiến_trúc Đà_Nẵng , Sư_phạm Kỹ_thuật Nam_Định , Tài_nguyên và Môi_trường , Nguyễn_Trãi , Thủ_Đô , Công_nghiệp thực_phẩm TP_HCM , Đông Á_Đà_Nẵng và Đại_học Hòa_Bình .
+Hoàng_Thùy

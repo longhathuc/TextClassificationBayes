@@ -1,0 +1,12 @@
+Đáp_án câu_đố tìm ôtô
+Nhiều độc_giả cho rằng ôtô nằm ở trong hộp 3 .
+Đáp_án này chưa chính_xác .
+Bạn được tặng 3 chiếc hộp , một trong số đó có chứa một chiếc ôtô .
+Mỗi hộp được viết một câu trên đó :
+Hộp 1 : Ôtô ở trong hộp này .
+Hộp 2 : Ôtô không ở trong hộp này .
+Hộp 3 : Ôtô không ở trong hộp 1 .
+Hỏi ôtô ở trong hộp nào ?
+Biết rằng chỉ có một câu duy_nhất chứa thông_tin chính_xác .
+Cách giải :
+Do_đó ôtô nằm trong hộp 2 .

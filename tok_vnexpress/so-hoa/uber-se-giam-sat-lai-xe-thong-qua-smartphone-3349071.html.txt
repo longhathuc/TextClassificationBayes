@@ -1,0 +1,10 @@
+Uber sẽ giám_sát lái_xe thông_qua smartphone
+Dựa vào cảm_biến trên điện_thoại thông_minh , dịch_vụ gọi xe Uber sẽ thu_thập dữ_liệu về tốc_độ , hoạt_động tăng_tốc hay phanh của lái_xe .
+Uber cho_biết sẽ tiến_hành giám_sát quá_trình điều_khiển phương_tiện của lái_xe có trơn_tru và an_toàn hay không , thông_qua dữ_liệu định_vị GPS và các thông_số mà smartphone ghi_nhận được .
+Cụ_thể , công_ty dùng con_quay hồi chuyển ( gyrometer ) có trong các điện_thoại thông_minh để biết được lúc_nào chiếc xe bắt_đầu khởi_hành và khi nào dừng lại , qua trình di_chuyển có mượt_mà hay không .
+Nếu khách_hàng phàn_nàn về nghiệp_vụ của lái_xe , Uber sẽ tìm lại các thông_số này để xác_minh .
+" Theo thời_gian , chúng_tôi hy_vọng có_thể áp_dụng công_nghệ này để nâng cao an_toàn chủ_động " , Joe_Sullivan , Giám_đốc an_ninh Uber cho_biết .
+" Tốc_độ là nguyên_nhân sâu_xa dẫn đến nhiều vụ tai_nạn giao_thông tại Mỹ , khiến hơn 10.000 ca tử_vong năm 2012 " .
+Uber là dịch_vụ nhằm kết_nối người có nhu_cầu cần di_chuyển và lái_xe , thông_qua ứng_dụng trên điện_thoại thông_minh .
+Uber được triển_khai từ năm 2009 và hiện đã hoạt_động tại Việt_Nam cùng 67 quốc_gia khác .
+Bảo_Anh

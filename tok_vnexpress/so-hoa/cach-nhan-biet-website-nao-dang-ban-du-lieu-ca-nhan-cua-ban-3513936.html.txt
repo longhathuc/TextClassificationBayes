@@ -1,0 +1,15 @@
+Cách nhận_biết website nào đang bán dữ_liệu cá_nhân của bạn
+Bằng cách đăng_ký thông_tin cá_nhân bằng tên đệm , người dùng có_thể phát_hiện được trang_web nào đang bán dữ_liệu của mình để biết cách phòng_tránh .
+Đa_số các website hiện_nay đều yêu_cầu người dùng đăng_ký thông_tin cá_nhân mới có_thể sử_dụng được hết các tính_năng của trang đó .
+Mặc_dù trong điều_khoản có cam_kết không để lộ thông_tin , nhưng dữ_liệu này vẫn được một_số quản_trị dùng cho mục_đích khác , như đem bán ra ngoài cho các công_ty quảng_cáo .
+Những công_ty này sau đó dùng thông_tin có được ( chủ_yếu là email và số điện_thoại ) để gửi thư và tin nhắn rác .
+Đây chính là điều khiến nhiều người cực_kỳ khó_chịu , trong khi các website sẽ không thừa_nhận mình bán thông_tin cá_nhân của người dùng .
+Theo BGR , việc bán dữ_liệu cho bên thứ_ba đang là cách để duy_trì hoạt_động của nhiều website , do_đó việc khắc_phục là không_thể .
+Tuy_nhiên , vẫn có cách để phát_hiện website đó có bán dữ_liệu người dùng hay không để phòng_tránh về sau .
+Phát_hiện của   mc1nc4 trên Reddit nhận được nhiều sự quan_tâm của cộng_đồng .
+Tài_khoản Reddit có tên mc 1nc4 phát_hiện rằng , tốt nhất khi đăng_ký tài_khoản ở một website nào_đó , người dùng nên sử_dụng tên đệm để điền vào bất_cứ yêu_cầu nhập thông_tin nào xuất_hiện trên màn_hình .
+Nếu một ngày bạn vô_tình nhận được email spam từ địa_chỉ lạ gọi bạn bằng tên đệm , ít_nhất bạn cũng sẽ biết được trang_web từng đăng_ký đã bán dữ_liệu của mình .
+Tất_nhiên , website đã bán dữ_liệu của bạn sẽ vẫn tiếp_tục làm điều đó .
+Nhưng bạn có_thể hạn_chế vấn_đề bằng cách đăng_nhập và xóa tài_khoản , đồng_thời hủy đăng_ký với những địa_chỉ email gửi thư rác .
+Ngoài_ra , khuyên người_thân , bạn_bè không nên đăng_nhập vào website đó cũng là cách để họ hạn_chế việc thông_tin cá_nhân bị lợi_dụng .
+Bảo_Lâm

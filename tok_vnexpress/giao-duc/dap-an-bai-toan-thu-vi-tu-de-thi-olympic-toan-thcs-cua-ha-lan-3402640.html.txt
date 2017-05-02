@@ -1,0 +1,16 @@
+Đáp_án bài_toán thú_vị từ đề thi Olympic toán THCS của Hà_Lan
+Hai số còn lại dành cho Dirk là 2 và 5 .
+Đề_bài :
+Ans , Ben , Carla và Dirk cùng tham_gia trò_chơi bốc số .
+Trong 1 chiếc mũ có 8 tấm bìa trên đó có ghi các số_từ 1 đến 8 , mỗi tấm bìa 1 số .
+Mỗi_một bạn lần_lượt bốc 2 tấm bìa và Dirk là người bốc cuối_cùng .
+Để thêm phần hấp_dẫn , mỗi bạn cộng hai con_số trên các tấm bìa của mình và thông_báo cho mọi người biết .
+Ans nói tổng của bạn là 10 , tổng của Ben là 14 và tổng của Carla là 5 .
+Hỏi hai số mà Dirk sẽ bốc được là hai số nào ?
+Đáp_án :
+Từ 1 đến 8 chỉ có 2 số có tổng bằng 14 là 6 và 8 .
+Suy ra Ben bốc được 2 số 6 và 8 .
+Có 3 cặp số có tổng bằng 10 là 2 +8 , 3 +7 , 4 +6 , nhưng do Ben đã bốc 2 số 6 và 8 nên Ans bốc 2 số 3 và 7 .
+Có 2 cặp số có tổng bằng 5 là 1 +4 và 2 +3 , nhưng do Ans đã bốc số 3 nên chỉ còn lại phương_án 1 +4 .
+Vậy hai số còn lại dành cho Dirk là 2 và 5 .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

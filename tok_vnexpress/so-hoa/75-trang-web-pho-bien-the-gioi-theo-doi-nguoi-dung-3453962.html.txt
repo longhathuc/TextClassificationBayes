@@ -1,0 +1,16 @@
+75% trang_web phổ_biến thế_giới theo_dõi người dùng
+Hầu_hết các website được nhiều người truy_cập đều ghi lại hoạt_động sử_dụng Internet của người dùng , chủ_yếu cho mục_đích quảng_cáo .
+Theo USAToday , một nghiên trong 20 năm qua cho thấy , có ít_nhất 75% trong tổng_số 500 trang_web phổ_biến nhất thế_giới tiến_hành theo_dõi   ( tracker )   người dùng .
+Con_số này tăng đáng_kể khi năm 1998 chỉ là dưới 5% .
+Đa_số người dùng Internet bị theo_dõi trên các website .
+" Số_lượng tracker đã tăng lên , khả_năng theo_dõi và sự phức_tạp của tracker cũng đã biến_đổi " , Adam_Lerner , nhà_nghiên_cứu an_ninh và quyền riêng_tư tại Đại_học   Washington ( Mỹ ) cho_biết .
+Nhóm chuyên_gia đánh_giá , một_nửa trong số 500 website phổ_biến nhất thế_giới có ít_nhất bốn tracker .
+Theo_dõi thông_tin người dùng giúp các công_ty trực_tuyến như Google , Facebook hay Amazon tiếp_cận khách_hàng tốt hơn .
+Đây cũng là lý_do Verizon mua lại Yahoo , như một_cách tăng tiềm_năng quảng_cáo .
+Việc sử_dụng tracker được coi là hợp_pháp , song người dùng muốn riêng_tư , kéo_theo " cuộc_chiến " giữa công_ty quảng_cáo và các phần_mềm chặn quảng_cáo .
+Máy_chủ quảng_cáo phổ_biến nhất_là   DoubleClick của Google , được tìm thấy trên hơn 15% các trang_web .
+Các nhà_nghiên_cứu cũng cho_biết ,   Google_Analytics , một chương_trình giúp quản_trị website phân_tích lượng truy_cập , xuất_hiện trên hơn 30% trang_web .
+Tuy_nhiên , chương_trình này không theo_dõi thông_tin người dùng cho mục_đích quảng_cáo .
+Với việc sử_dụng tracker kết_nối với nhau , người dùng tìm một sản_phẩm trên Google và ngay khi vào Facebook sẽ thấy rất nhiều quảng_cáo về chính sản_phẩm mà mình vừa tìm .
+Như_vậy , các công_ty kinh_doanh trong lĩnh_vực Internet có_thể lập ra " hồ_sơ duyệt web " của hàng tỷ người dùng .
+Video hoạt_động của tracker trên các webiste :

@@ -1,0 +1,12 @@
+Người dùng Facebook có_thể đăng status với 45 ngôn_ngữ cùng lúc
+Facebook hiện có 1,65 tỷ thành_viên trên toàn_cầu và mạng xã_hội này muốn khai_thác sức_mạnh của trí_tuệ_nhân_tạo ( AI ) nhằm giúp mọi người dễ_dàng giao_tiếp , hiểu nhau hơn .
+Cuối tuần qua , Facebook giới_thiệu một phần_mềm mới có khả_năng tự_động dịch các bài viết ( post ) sang nhiều ngôn_ngữ khác_nhau .
+Cụ_thể , sau khi soạn status , lời chú_thích cho ảnh , video ... , người sử_dụng có_thể bấm vào mũi_tên bên phải , trỏ xuống một danh_sách để chọn dịch nội_dung sang một_số thứ tiếng khác ( lên đến 45 ngôn_ngữ ) .
+Status của người dùng có thể_hiện thị đồng_thời nhiều thứ tiếng .
+Phần_mềm dịch này mới chỉ được thử_nghiệm trong một nhóm nhỏ người dùng và trên khoảng 5.000 Page .
+Facebook cho_hay , một_nửa số thành_viên của họ đang nói thứ tiếng khác ngoài tiếng Anh , tương_đương 25 triệu post mỗi ngày .
+Công_cụ mới sẽ tích_hợp trí_tuệ_nhân_tạo để phân_tích và dự_đoán ngôn_ngữ mà người dùng muốn bổ_sung .
+Phần_mềm cũng khai_thác các thông_tin như vị_trí địa_lý của thành_viên , ngôn_ngữ chủ_yếu mà họ vẫn dùng để chia_sẻ .
+AI đang là từ_khóa " hot " tại Thung_lũng Silicon .
+Google đặt_cược tương_lai của hãng vào việc đầu_tư và đưa trí_tuệ_nhân_tạo vào mọi sản_phẩm .
+Microsoft và Facebook cũng đang nghiên_cứu các chatbot tương_tác thông_minh với người dùng .

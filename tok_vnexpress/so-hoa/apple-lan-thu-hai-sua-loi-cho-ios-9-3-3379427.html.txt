@@ -1,0 +1,17 @@
+Apple lần thứ_hai sửa lỗi cho i OS 9.3
+Phiên_bản i OS 9.3.1 giúp khắc_phục tình_trạng máy bị treo khi bấm vào các liên kiến web trong Safari , Mail , Notes , Message trên i Phone 6s , 6s Plus .
+Apple liên_tục phải ra bản vá lỗi cho i OS 9.3 .
+Chỉ trong vòng hơn một tuần sau khi ra_mắt i OS 9.3 ,
+Apple hôm_nay đã phải tung ra một bản vá lỗi lần thứ_hai .
+Không giống như cách đây 4 ngày chỉ thay_đổi số_hiệu bản build , lần nâng_cấp này thay_đổi số phiên_bản thành 9.3.1 .
+Dung_lượng cần tải về khoảng 35,3 MB trên các máy i Phone 6s , 6s Plus .
+Các model còn lại không trực_tiếp bị ảnh_hưởng có dung_lượng tải về thấp hơn khoảng 27 MB .
+iOS 9.3.1 giúp sửa lỗi máy   bị treo , hoặc làm cho ứng_dụng bị thoát ra ngoài   sau khi mở một_số đường link ở trình_duyệt Safari hoặc trong Mail , Notes hay tin nhắn .
+Đa_phần sản_phẩm bị ảnh_hưởng là các mẫu i Phone 6s và 6s Plus cũng_như một_số thiết_bị đời cũ hơn .
+Trước đó , bản cập_nhật i OS 9.3 đầu_tiên cũng khiến nhiều thiết_bị gặp lỗi không_thể nâng_cấp phần_mềm .
+Hầu_hết bị " kẹt cứng " ở màn_hình đăng_nhập i Cloud và không_thể bỏ_qua bước này .
+Một_số mẫu i Pad 2 thậm_chí còn bị mất toàn_bộ dữ_liệu và đưa về chế_độ DFU .
+Bản nâng_cấp sau đó của Apple giúp sửa lỗi này nhưng lại phát_sinh lỗi liên_quan đến i Phone 6s và 6s Plus .
+Bản cập_nhật i OS mới của Apple không mang đến nhiều thay_đổi cho i Phone , iPad khi chỉ thêm một_số tính_năng mới .
+Tuy_nhiên , nó lại tỏ ra chưa hoàn_thiện khi liên_tục dính lỗi gây ảnh_hưởng tới người dùng .
+Tuấn_Hưng

@@ -1,0 +1,37 @@
+Bỏ giắc tai_nghe trên i Phone là điều ngu_ngốc
+Đó là tiêu_đề bài viết trên trang TheVerge , nói đến những mặt hạn_chế nếu Apple bỏ giắc 3,5 mm trên i Phone thế_hệ mới để gộp chung vào cổng Lightning .
+Nhiều tin_đồn nhận_định i Phone 7 sẽ bỏ giắc cắm tai_nghe và thậm_chí một_số thiết_bị Android đã thực_hiện điều này để gộp chung đường âm_thanh vào cổng USB - C .
+Đánh_giá về sự thay_đổi trên , TheVerge cho rằng đây là ý_tưởng tiêu_cực , mang đến nhiều phiền_hà và rắc_rối cho người dùng , với những lý_do dưới đây .
+Đòi_hỏi nội_dung bản_quyền
+iPhone 7 có_thể bỏ cổng âm_thanh 3,5 mm .
+Ảnh minh_họa .
+Khi phát nhạc qua cổng Lightning , âm_thanh sẽ là dạng kỹ_thuật_số thay_vì âm_thanh analog như trên cổng 3,5 mm .
+Trong nhiều năm qua , ngành công_nghiệp giải_trí từng đau_đầu vì " lỗ_hổng analog " của giắc căm tai_nghe , khiến việc kiểm_soát bản_quyền trở_nên khó_khăn .
+Nhưng với sự thay_đổi của Apple , khả_năng vá lỗ_hổng này sẽ có một bước_tiến đáng_kể .
+Với giắc kết_nối kỹ_thuật_số như cổng Lightning , các nhà_sản_xuất âm_nhạc và công_ty phát_hành trực_tuyến có_thể kiểm_soát bản_quyền dễ_dàng hơn .
+Công_nghệ này đôi_khi có_thể ảnh_hưởng đến cả những người dùng tôn_trọng bản_quyền .
+Chẳng_hạn , không ít người thích xem_lại các chương_trình trên TV và phim_ảnh , nhưng nếu bị kiểm_soát bản_quyền thì rất có_thể một ngày các nội_dung đó sẽ bị khóa lại .
+Tai_nghe không dây tốt nhưng chưa tuyệt_vời
+Tai_nghe và loa không dây đều hỗ_trợ khá tốt việc nghe nhạc , nhưng khó có_thể ổn_định bằng kết_nối có dây .
+Ngoài_ra , việc dùng tai_nghe Bluetooth cũng đòi_hỏi pin , một vấn_đề mà nhiều người phàn_nàn trên bất_kỳ thiết_bị cầm tay nào .
+Còn nữa , trên ôtô thì việc dùng kết_nối Bluetooth cũng không nhanh gọn bằng cổng Aux .
+Bộ_chuyển_đổi - một lựa_chọn tồi
+Những rắc_rối nêu trên có_thể giải_quyết được bằng cách dùng bộ chuyển cổng Lightning - 3,5 mm .
+Tuy_nhiên , người dùng sẽ phải thêm hàng chục USD để mua phụ_kiện này .
+Việc sử_dụng bộ_chuyển_đổi cũng khiến thiết_bị trông rườm_rà , dây_nhợ thêm lằng_nhằng .
+Hãy nhìn việc Apple gộp tất_cả các giao_tiếp vật_lý trên MacBook 12 inch vào chỉ một cổng USB - C bạn sẽ hiểu điều này .
+Nỗi khổ khi người dùng phải sử   dụng bộ_chuyển_đổi trên MacBook 12 inch .
+Bạn nghĩ sao khi có một chiếc tai_nghe cao_cấp ( chắc_chắn dùng giắc 3,5 mm ) nhưng lúc đó i Phone đang phải sạc pin ?
+Chỉ một cổng kết_nối sẽ rắc_rối như_vậy và bạn hoàn_toàn có_thể đối_mặt với tình_huống đó trong cuộc_sống thường_ngày .
+Việc_làm mỏng i Phone thêm 1mm sẽ chẳng có ý_nghĩa gì so với những phiền_hà mà người dùng gặp phải .
+Tốn tiền cho những điều không đáng
+Giắc cắm tai_nghe truyền_thông đã tồn_tại rất lâu và đáp_ứng đầy_đủ yêu_cầu của người dùng .
+Kết_nối này hoạt_động tốt , hình_thành cả một hệ_sinh_thái phụ_kiện , thiết_bị và có hàng triệu người đang sử_dụng .
+Có_thể cổng Lightning hay USB - C tốt hơn một_chút so với giắc âm_thanh 3,5 mm , nhưng thay_đổi này gây ra ảnh_hưởng quá lớn và tốn_kém .
+Sẽ mất ít_nhất 29 USD cho bộ_chuyển_đổi Lighting - 3,5 mm hoặc nhiều hơn_nữa để mua những tai_nghe dùng chuẩn mới của Apple .
+Android - iPhone ngày_càng xa_rời
+Rõ_ràng giắc Lightning và cổng USB - C ( microUSB ) khiến phụ_kiện i Phone và Android không tương_thích với nhau .
+Khi các nhà_sản_xuất đồng_loạt bỏ giắc âm_thanh 3,5 mm thì hai nền_tảng này càng trở_nên xa_rời : tai_nghe i Phone là cho riêng i Phone , tai_nghe Android chỉ dành cho Android .
+Cuối_cùng ,   Nilay_Patel   nói rằng người dùng chẳng cần một thiết_bị mỏng đi 1mm , có thêm tính_năng chống nước mà phải " hi_sinh " giắc âm_thanh 3,5 mm .
+" Bạn muốn thời_lượng pin tốt hơn , phải chứ ?
+Chúng_ta đều muốn cải_thiện về pin " ,   cây_viết của   TheVerge   cho_biết .

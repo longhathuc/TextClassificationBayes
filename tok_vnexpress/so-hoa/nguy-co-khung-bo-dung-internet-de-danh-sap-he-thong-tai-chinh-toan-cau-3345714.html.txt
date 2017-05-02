@@ -1,0 +1,25 @@
+Nguy_cơ khủng_bố dùng Internet để đánh sập hệ_thống tài_chính toàn_cầu
+Nhiều chuyên_gia công_nghệ dự_báo với sự phát_triển của trí_tuệ_nhân_tạo và những thuật_toán vũ_trang , việc các tổ_chức khủng_bố sử_dụng Internet để đánh sập hệ_thống tài_chính toàn_cầu hoàn_toàn có_thể xảy_ra .
+Trước_đây , các ngân_hàng lớn và quỹ_tín_dụng sử_dụng thủ_pháp giao_dịch tần_số cao ( còn gọi_là HFT ) .
+HFT cùng sự hỗ_trợ của những thuật_toán phức_tạp đã cho_phép các nhà_đầu_tư tìm_hiểu xu_thế của thị_trường toàn_cầu và thực_hiện hàng triệu giao_dịch chỉ trong vài giây , từ đó đem về khoản lợi_nhuận khổng_lồ .
+Tuy_nhiên , những công_nghệ , máy_móc từng được coi là tài_sản của các tổ_chức tài_chính lớn giờ_đây có_thể được nắm_bắt và tiếp_cận bởi các cá_nhân .
+Chia_sẻ quan_điểm trên IBTimes , chuyên_gia phân_tích Kristian_Kristiansen của công_ty QuantAlliance ( Anh ) cho rằng , những công_nghệ tài_chính phức_tạp trong quá_khứ giờ_đây có_thể được chế_tạo một_cách đơn_giản và ở một mức giá vừa_phải .
+“ Thuật_toán vũ_trang là một loại phần_mềm được thiết_kế đặc_biệt để điều_khiển thị_trường tài_chính và tạo ra một cuộc sụp_đổ mang tính hệ_thống .
+Hậu_quả của việc này không_chỉ dừng lại ở những khối tài_sản khổng_lồ bị thất_thoát , mà_còn tạo nên một làn_sóng lo_lắng cho các nhà_đầu_tư .
+Và một_khi các nhà_đầu_tư không còn niềm_tin , nền kinh_tế sẽ bị ảnh_hưởng nặng_nề ” , ông Kristian chia_sẻ .
+Vị chuyên_gia này cũng bày_tỏ quan_ngại về những lỗ_hổng trong thuật_toán đang được sử_dụng hiện_nay trên thị_trường tài_chính , điều mà theo ông có_thể được tận_dụng bởi các tổ_chức khủng_bố : “ Có quá nhiều thuật_toán Blue_Chip hiện_nay đang phụ_thuộc vào phân_tích giao_dịch số_lượng lớn trên thị_trường .
+Ví_dụ , tôi có_thể đặt một giao_dịch trị_giá hàng triệu đôla , nhưng không_bao_giờ thực_hiện .
+Những thuật_toán khi thấy việc tôi đặt giao_dịch sẽ phản_ứng như đó là những giao_dịch thật ” .
+Ông Kristian_Kristiansen cũng nói thêm , “ điều đáng lo_ngại ở đây là có những thuật_toán được thiết_kế đặc_biệt để làm theo những thuật_toán khác .
+Nếu một thuật_toán phản_ứng với lệnh đặt của tôi và bắt_đầu bán cổ_phiếu thật thì các cổ_phiếu khác cũng sẽ lần_lượt bị bán_tháo ” .
+Dẫn_chứng cho viễn_cảnh này , ông Kristian đã nhắc lại vụ_việc toàn_bộ nền chứng_khoán Mỹ bị sụp_đổ hồi tháng 5/2010 , làm_hàng nghìn tỷ đôla Mỹ bốc_hơi khỏi thị_trường .
+Nói về thủ_pháp giao_dịch tần_số cao và sức ảnh_hưởng của nó ngày_nay , ông Kristian nhấn_mạnh thủ_pháp này sử_dụng tốc_độ nhanh để gian_lận trên thị_trường_chứng_khoán , nhưng thuật_toán vũ_trang sẽ sử_dụng trí_tuệ_nhân_tạo để dự_đoán chiến_thuật và vượt mặt nó .
+“ Tốc_độ nhanh đến mấy cũng sẽ trở_nên vô_dụng nếu kẻ_thù đoán được đường_đi_nước_bước của bạn ” , ông nói .
+Đề_xuất giải_pháp cho vấn_đề , vị chuyên_gia đến từ QuantAlliance cho rằng biện_pháp tốt nhất để phòng_tránh một cuộc sụp_đổ của thị_trường tài_chính đó là sáng_chế ra những thuật_toán thông_minh có khả_năng bảo_vệ hệ_thống tài_chính khỏi nguy_cơ đến từ những giao_dịch ảo .
+“ Việc một thuật_toán là tốt hay xấu không quan_trọng .
+Điều chúng_ta cần nhận ra đó là cũng_như máy_tính và điện_thoại , thuật_toán trên thị_trường tài_chính có_thể bị vũ_trang hóa để gây ra chiến_tranh mạng .
+Thuật_toán vừa là mối đe_dọa , nhưng cũng vừa là giải_pháp .
+Và nó sẽ mãi hiện_hữu dù bạn có muốn hay không ” , ông Kristian nhấn_mạnh .
+Đến nay , khủng_bố hay tội_phạm mạng vẫn chưa vũ_trang hóa thuật_toán để tấn_công hệ_thống tài_chính toàn_cầu , nhưng điều này sẽ xảy_ra trong tương_lai không xa .
+Vì_thế , các nhà_đầu_tư cần có những bước chuẩn_bị sẵn_sàng cho viễn_cảnh đó .
+Nguyễn_Mai_Đức

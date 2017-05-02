@@ -1,0 +1,17 @@
+Robot lần đầu được ứng_dụng trong giáo_dục tại Việt_Nam
+Các robot NAO sẽ được ứng_dụng trong lĩnh_vực dạy tiếng Anh như tương_tác , hỗ_trợ các bài kiểm_tra nghe_nói và cùng học_viên thực_hành các tình_huống giao_tiếp .
+Tại hội_thảo   Smart_Robotics diễn ra ngày 26/8 ở Hà_Nội , đại_diện SoftBank cho_biết dù   sản_phẩm robot hình người đã được giới_thiệu ở Việt_Nam từ năm 2004 , nhưng đến nay mới chỉ dừng lại ở mục_đích nghiên_cứu , đào_tạo .
+Do_đó , hãng công_nghệ Nhật muốn tiên_phong đưa robot vào ứng_dụng rộng trong các lĩnh_vực đời_sống hàng ngày tại Việt_Nam như giáo_dục ,   đào_tạo lập_trình , dịch_vụ khách_hàng và các sự_kiện giải_trí ...
+Ông Takashi_Morimoto , đại_diện SoftBank .
+" Mặc_dù bắt_đầu khá muộn , Việt_Nam sẽ có tăng_trưởng vượt_bậc để bắt kịp các nước khác trong khu_vực như Singapore , Hàn_Quốc ... trong   lĩnh_vực robotics   10 năm tới " ,   ông Takashi_Morimoto , Tổng_giám_đốc SoftBank Telecom_Việt_Nam , nhận_định .
+SoftBank đã ký_kết với   FPT Software và   Tổ_chức giáo_dục Hoa_Kỳ ( Institue of American_Education - IAE ) để đưa robot mang tên NAO vào trong lĩnh_vực dạy tiếng Anh tại Việt_Nam .
+Các robot này sẽ hỗ_trợ giáo_viên tại Học_viện Anh ngữ EQuest và Anh ngữ Việt_Mỹ VATC trong các hoạt_động lớp_học như tương_tác với học_viên , kiểm_tra nghe_nói và thực_hành các tình_huống giao_tiếp .
+Ông Lê_Ngọc_Tuấn , Trưởng_phòng Robotic và IoT thuộc Ban Công nghệ FPT , cho_biết đội_ngũ kỹ_sư tại FPT đã có nhiều năm nghiên_cứu và xây_dựng thành_công nền_tảng và giao_diện lập_trình ứng_dụng ( API ) cho các thế_hệ robot , trong đó có NAO .
+Ông Tuấn tin rằng khả_năng hoạt_động của robot đang ngày_càng tiến gần đến với con_người .
+Ông Lê_Ngọc_Tuấn , Ban Công nghệ FPT .
+Thị_trường robot nằm trong xu_thế Internet of Things ( IoT ) và có_giá thị hàng tỷ USD , nhưng tại Việt_Nam , lĩnh_vực ứng_dụng robot còn rất khiêm_tốn , chủ_yếu để nghiên_cứu và robot công_nghiệp .
+Tuy_vậy , ông Trần_Huy_Bảo_Giang , Giám_đốc công_nghệ của FPT Software , bày_tỏ sự lạc_quan : " Đội_tuyển Robocon_Việt_Nam đã giành chiến_thắng chung_cuộc 5 trong số 14 mùa thi Robocon thế_giới , trong khi cuộc_thi lập_trình ứng_dụng cho robot có tên SMAC Challenge do FPT tổ_chức cũng luôn thu_hút sự quan_tâm và tham_dự của các sinh_viên công_nghệ_thông_tin tại Hà_Nội và TP_HCM .
+Đây là tín_hiệu đáng mừng , cho thấy đội_ngũ lập_trình ứng_dụng cho robot của Việt_Nam đã sẵn_sàng cho sự chuyển_dịch công_nghệ " .
+Hình_ảnh   NAO đã khá quen_thuộc trong các cuộc_thi robot do FPT tổ_chức .
+Tại_Việt_Nam , mỗi robot NAO được được bán với giá từ 10.000 USD .
+Đây là robot thông_minh với bốn khu_vực cảm_biến , có khả_năng nhận_dạng giọng nói , hình_ảnh , biểu_cảm , sao_chép hành_vi con_người , tự_động kết_nối Internet và có_thể nói 19 loại ngôn_ngữ khác_nhau .   Đại_diện SoftBank tiết_lộ , sau NAO , hãng sẽ tiếp_tục giới_thiệu robot PEPPER đến thị_trường Việt_Nam thời_gian tới .

@@ -1,0 +1,12 @@
+Đáp_án bài_toán đồng xu dành cho học_sinh lớp 1-2
+Nhiều người đưa ra đáp_án cho bài_toán trong đề thi Toán quốc_tế Kangaroo .
+Có hai cách bỏ đồng xu đáp_ứng được yêu_cầu của đề_bài .
+Trên bảng có các đồng xu .
+Chúng_ta muốn có hai đồng xu trên mỗi hàng và hai đồng xu trên mỗi cột .
+Hỏi cần phải bỏ đi bao_nhiêu đồng xu và đó là đồng xu ở vị_trí nào ?
+Chúng_ta chú_ý đến hai hàng ngang chứa 3 đồng xu .
+Xét một hàng có 3 đồng xu .
+Chúng_ta không_thể bỏ đồng xu ở giữa vì như_vậy cột thứ_hai từ trái sang sẽ chỉ có 1 đồng nên chỉ có_thể bỏ các đồng xu tô màu xanh như hình_vẽ .
+Chúng_ta cũng không_thể bỏ 2 đồng xu xanh cùng một hàng vì như_vậy hàng đó sẽ có ít hơn 2 đồng xu .
+Vậy_là chỉ có 2 cách bỏ đồng xu như sau :
+> > Thử_thách suy_luận của bạn với bài_toán tính nhanh lớp 5 > > Bài_toán chia táo có_thể khiến bạn nhầm_lẫn

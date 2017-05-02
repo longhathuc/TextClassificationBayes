@@ -1,0 +1,25 @@
+Lỗ sâu - Chìa_khóa giải_quyết mâu_thuẫn của vật_lý_hiện_đại
+Một phương_trình mới được tìm ra liên_quan đến lỗ sâu có_thể giải_quyết mâu_thuẫn giữa lý_thuyết cơ_học lượng_tử và thuyết_tương_đối tổng_quát của vật_lý_hiện_đại .
+Các nhà_vật_lý lý_thuyết tại Đại_học Stanford , Anh cho rằng   phương_trình kết_hợp hai lý_thuyết này với nhau có_thể được tìm thấy trong đường_hầm không thời_gian vẫn được biết đến với cái tên " lỗ sâu " , theo   Science_Alert .
+Phương_trình này được viết dưới dạng đơn_giản ER = EPR , dựa theo   tên viết tắt của một_số nhà_vật_lý lý_thuyết nổi_tiếng .
+ER là viết tắt của Albert_Einstein và Nathan_Rosen .
+Họ đã cùng nhau viết một bài báo năm 1935 mô_tả về lỗ sâu , được gọi_là cầu Einstein-Rosen .
+EPR là viết tắt của Einstein , Rosen và Boris_Podolsky , đồng_tác_giả một bài báo khác về vướng_víu lượng_tử cũng trong năm 1935 .
+Từ năm 2013 , nhà_vật_lý Leonard_Susskind thuộc Đại_học Stanford và Juan_Maldacena thuộc Viện nghiên_cứu tiên_tiến tại Princeton cho rằng hai bài báo trên có_thể mô_tả về cùng một thứ duy_nhất mà chưa ai nghiên_cứu về lĩnh_vực này từng xem_xét nó , kể_cả Einstein .
+Đầu_tiên , hãy xem_xét từng vế riêng_biệt của phương_trình .
+Theo thuyết_tương_đối tổng_quát của Einstein , lỗ sâu là đường_hầm nối giữa hai nơi trong vũ_trụ .
+Nếu rơi vào một đầu của lỗ sâu , gần_như ngay_lập_tức bạn sẽ xuất_hiện ở đầu bên kia .
+Nhưng không_chỉ có thế , lỗ sâu còn là đường nối giữa hai thời_điểm trong vũ_trụ , nghĩa_là bạn sẽ xuất_hiện tại đâu_đó trong vũ_trụ , ở một thời_điểm nào_đó .
+Vướng_víu lượng_tử , mặt_khác , lại mô_tả cách mà hai hạt tương_tác như_thể chúng chia_sẻ sự tồn_tại , nghĩa_là bất_cứ cái gì xảy_ra với một hạt sẽ tác_động ngay_lập_tức tới hạt kia , dù có_thể chúng ở cách nhau khoảng_cách tính theo năm_ánh_sáng .
+Trong bài báo mới của mình , Susskind đề_xuất một kịch_bản , với hai nhân_vật tưởng_tượng Alice và Bob tham_gia trong vướng_víu lượng_tử .
+Mỗi người mang một hạt trong cặp hạt , bay theo hai hướng ngược nhau về hai phía của vũ_trụ
+Tại mỗi nơi , Alice và Bob đồng_thời đập vỡ hai hạt bằng một lực lớn và tạo ra hai hố_đen riêng_biệt .
+Khi đó , theo Susskind , hai hố_đen này sẽ bị vướng_víu lượng_tử với nhau , hay nói cách khác là liên_kết với nhau thông_qua một lỗ sâu khổng_lồ .
+" Nếu phương_trình ER = EPR là đúng , một lỗ sâu sẽ liên_kết các lỗ_đen đó với nhau , vì_thế , có_thể mô_tả chúng bằng dạng_hình học của lỗ sâu " , biên_tập_viên Tom_Siegfried của trang Science_News cho_biết .
+" Đáng chú_ý hơn là , có khả_năng hai hạt hạ nguyên_tử vướng lượng_tử với nhau có liên_kết với nhau theo cách nào_đó qua một dạng lỗ sâu lượng_tử .
+Do lỗ sâu là sự biến_dạng hình_học của không thời_gian , được mô_tả bằng các phương_trình hấp_dẫn của Einstein , đồng_nhất chúng với vướng_víu lượng_tử có_thể sẽ tạo ra một liên_kết giữa hấp_dẫn và cơ_học lượng_tử " .
+Ngoài_Susskind , đầu năm 2016 , một nhóm nghiên_cứu của Viện công_nghệ California , Mỹ , cũng đưa ra giả_thuyết tương_tự về liên_kết giữa sự thay_đổi các trạng_thái lượng_tử với sự cong không thời_gian .
+Theo nhóm này , mối liên_hệ tự_nhiên giữa năng_lượng và sự cong thời_gian ở đây được cho bởi phương_trình thuyết_tương_đối tổng_quát của Einstein .
+Nói cách khác , không khó để có được hấp_dẫn bên trong cơ_học lượng_tử
+Tuy phương_trình này còn cần được kiểm_chứng , nhưng có_thể " cơ_học lượng_tử và hấp_dẫn có mối liên_hệ chặt_chẽ hơn chúng_ta tưởng rất nhiều " , Sean_Carroll , một thành_viên của nhóm nghiên_cứu nhận_định .
+Nguyễn_Thành_Minh

@@ -1,0 +1,6 @@
+Robot giúp con_người gấp quần_áo
+Người_máy CloPeMa giúp bạn không phải làm công_việc nhàm_chán là phân_loại và gấp quần_áo .
+Các chuyên_gia phát_triển CloPeMa cho_biết gấp đồ_là nhiệm_vụ đầu_tiên mà robot này học cách thực_hiện .
+Tuy còn cồng_kềnh và hơi chậm , nó cho thấy công_nghệ máy học ( machine-learning ) có_thể tiến xa tới đâu trong việc phân_biệt và xử_lý những tác_vụ phức_tạp như nhận_biết quần_đùi với áo_phông , áo sơ_mi ...
+Trong tương_lai , con_người sẽ có những phụ_tá tự_động tại_gia để giúp làm những việc lặp_đi_lặp_lại mà họ rất ghét như rửa bát , gấp quần_áo ...
+Video : Mashable

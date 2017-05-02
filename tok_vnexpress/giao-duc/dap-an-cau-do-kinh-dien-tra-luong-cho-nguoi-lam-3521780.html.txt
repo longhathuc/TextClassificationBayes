@@ -1,0 +1,17 @@
+Đáp_án câu_đố kinh_điển trả lương cho người_làm
+Câu_đố kinh_điển giúp ông chủ trả lương cho người_làm đã thực_sự gây ra tranh_cãi .
+Nhiều người chưa_thể đưa ra đáp_án cho câu_đố này .
+Ông chủ phải cắt ít_nhất bao_nhiêu đường và cắt như_thế_nào để trả được cho anh_ta đúng 1/7 thỏi vàng mỗi ngày .
+Đáp_án :
+Ông chủ cần vạch trên thỏi vàng 6 vạch chia ra thành 7 phần bằng nhau .
+Dùng 2 nhát cắt để cắt thành 3 phần 1/7 , 2/7 và 4/7 thỏi vàng , sau đó , thực_hiện cách trả lương như sau :
+Ngày 1 : Đưa người hầu 1/7 thỏi vàng .
+Ngày 2 : Đưa người hầu 2/7 thỏi và lấy lại 1/7 thỏi .
+Ngày 3 : Đưa người hầu 1/7 thỏi .
+Ngày 4 : Đưa người hầu 4/7 thỏi , lấy lại 2 phần 1/7 và 2/7 thỏi .
+Ngày 5 : Đưa người hầu 1/7 thỏi .
+Ngày 6 : Đưa người hầu 2/7 thỏi và lấy lại 1/7 thỏi .
+Ngày 7 : Đưa người hầu 1/7 thỏi còn lại .
+Như_vậy , ông chủ chỉ cần 2 nhát cắt là có_thể giải_quyết bài_toán trả lương cho người làm_thuê .
+Thanh_Tâm
+> > Câu_đố kinh_điển trả lương cho người_làm

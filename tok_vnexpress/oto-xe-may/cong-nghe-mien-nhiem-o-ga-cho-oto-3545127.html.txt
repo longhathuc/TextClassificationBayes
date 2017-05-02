@@ -1,0 +1,11 @@
+Công_nghệ ' miễn_nhiễm ' ổ_gà cho ôtô
+Hệ_thống gửi cảnh_báo đến tài_xế và cung_cấp hướng đi thay_thế nếu có nhờ một bản_đồ ổ_gà tích_hợp sẵn trên xe .
+Các kỹ_sư của Ford đang trong quá_trình nghiên_cứu , thử_nghiệm hệ_thống phát_hiện ổ_gà thông_minh .
+Nhằm đưa ra những giải_pháp xử_lý chủ_động cho người lái , giảm độ xóc cho xe và điều_khiển hệ_thống treo hoạt_động hiệu_quả hơn .
+" Một bản_đồ ổ_gà " ảo " hiển_thị trên màn_hình ở khoang lái , chỉ ra các nguy_cơ trước_mắt và gửi cảnh_báo đến tài_xế " , Uwe_Hoffmann , kỹ_sư Ford giải_thích .
+" Ôtô trang_bị các cảm_biến để phát_hiện ổ_gà , và bây_giờ chúng_tôi muốn nâng_cấp tính_năng này lên một tầm cao mới " .
+Thực_tế , một_vài mẫu xe của Ford như Mondeo , S-Max và Galaxy đã trang_bị các cảm_biến , hoạt_động cùng_với hệ_thống giảm_xóc tự điều_chỉnh .
+Mục_đích giảm_thiểu nguy_cơ hỏng_hóc cho hệ_thống treo trước những tình_huống bất_ngờ do ổ_gà trên đường .
+Các kỹ_sư Ford tại Trung_tâm nghiên_cứu và phát_triển đặt ở Đức đang tìm_hiểu cách sử_dụng camera và các thiết_bị kết_hợp khác để tạo ra một hệ_thống chi_tiết các ổ_gà .
+Lưu_trữ chúng dưới dạng tương_tự " điện_toán đám mây " , nơi tài_xế có_thể truy_cập và tải về dễ_dàng .
+Phạm_Trung

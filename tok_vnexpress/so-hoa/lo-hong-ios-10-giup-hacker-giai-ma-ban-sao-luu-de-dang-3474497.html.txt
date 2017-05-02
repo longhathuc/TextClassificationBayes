@@ -1,0 +1,16 @@
+Lỗ_hổng i OS 10 giúp hacker giải_mã bản_sao lưu dễ_dàng
+Phiên_bản i OS mới nhất khiến i Phone , iPad trở_nên kém an_toàn khi cho_phép tin_tặc có_thể đoán mật_khẩu trên các bản_sao lưu ( backup ) nhanh hơn tới 2.500 lần .
+Apple vô_tình khiến i OS 10 kém bảo_mật hơn so với i OS 9 .
+Hãng bảo_mật Nga_Elcomsoft cho_biết đã phát_hiện ra lỗ_hổng bảo_mật mới trong khi nâng_cấp Elcomsoft_Phone_Breaker - công_cụ xâm_nhập i Phone do hãng tự phát_triển .
+Trên trang_chủ , hãng này nhấn_mạnh i OS 10 sử_dụng cơ_chế xác_thực mật_khẩu khác so với i OS 9 , trong đó , điểm mới nhất_là bỏ_qua một_số bước kiểm_tra an_ninh .
+" Khi nâng_cấp Elcomsoft_Phone_Breaker , chúng_tôi phát_hiện rằng các bản_sao lưu được lưu sau khi người sử_dụng cập_nhật lên i OS 10 có một_số cơ_chế bỏ_qua kiểm_tra an_ninh nhất_định .
+Điều này cho_phép chúng_tôi đoán mật_khẩu nhanh hơn khoảng 2.500 lần so với các bản_sao lưu tương_tự trên i OS 9 " , đại_diện Elcomsoft cho_biết .
+Như_vậy , theo   Elcomsoft ,   nếu_như trên i OS 9 , Elcomsoft_Phone_Breaker chỉ xử_lý 2.400 mật_khẩu mỗi giây thì với i OS 10 , công_cụ này đã có_thể xử_lý 6 triệu mật_khẩu mỗi giây với tỷ_lệ chính_xác lên tới 80 đến 90% .
+" Về cơ_bản , tin_tặc khó đột_nhập vào thiết_bị i OS thông_qua phần_cứng , nhưng với bản_sao lưu thì có_thể .
+Từ bản_sao lưu này , chúng sẽ trích xuất được những thông_tin nhất_định " , Elcomsoft nhấn_mạnh .
+Apple sau đó đã thừa_nhận lỗ_hổng bảo_mật này .
+Trên trang hỗ_trợ , hãng cho_biết các kỹ_sư đang xem_xét vấn_đề và sửa_chữa trong thời_gian sớm nhất .
+" Chúng_tôi thừa_nhận i OS 10 đang có vấn_đề về mã_hóa khi sao lưu dữ_liệu vào i Tunes trên máy Mac hoặc PC và đang cố_gắng khắc_phục sự_cố .
+Người dùng có_thể an_tâm , bởi vấn_đề không ảnh_hưởng đến quá_trình sao lưu bằng i Cloud .
+Trong khi chờ_đợi bản cập_nhật mới , sử_dụng mật_khẩu mạnh và tránh sao lưu là cách tốt nhất để bảo_vệ dữ_liệu " , phát_ngôn_viên Apple cho_biết .
+Bảo_Lâm

@@ -1,0 +1,17 @@
+Vật_liệu chuyển ánh_sáng , nhiệt , động_năng thành điện cùng lúc
+Các nhà_khoa_học ở Đại_học Oulu , Phần_Lan , phát_hiện một loại vật_liệu mới có khả_năng chuyển_hóa các loại năng_lượng khác_nhau thành điện thuộc họ tinh_thể perovskite .
+Vật_liệu mới phát_hiện có tên KBNNO ( dựa trên công_thức_hóa_học của nó ) , có_thể chuyển_đổi nhiệt , ánh_sáng nhìn thấy và áp_suất thành điện_năng , theo IFL Science .
+Cũng giống như các tinh_thể thuộc họ perovskite khác , KBNNO là vật_liệu sắt điện .
+Vật_liệu này có cấu_tạo gồm các cực lưỡng điện , hoạt_động giống chiếc compa nhỏ .
+Khi có thay_đổi vật_lý xảy_ra , hai cực của nó sẽ chệch đi tạo thành dòng_điện .
+Nghiên_cứu được công_bố trên tạp_chí Applied_Physics_Letters số tháng 2 .
+Các nghiên_cứu trước đó kết_luận KBNNO có khả_năng chuyển ánh_sáng nhìn thấy thành điện_năng , nhưng chỉ khả_thi ở điều_kiện nhiệt_độ thấp xuống tới âm vài trăm độ C .
+Nghiên_cứu mới được thực_hiện trong điều_kiện nhiệt_độ phòng .
+Nhóm nghiên_cứu tìm_hiểu khả_năng chuyển ánh_sáng thành điện_năng của KBNNO , đồng_thời xem_xét cách vật_liệu phản_ứng dưới sự thay_đổi của nhiệt_độ và áp_suất .
+Đây là lần đầu_tiên tất_cả các đặc_tính này được đánh_giá cùng lúc .
+Dữ_liệu cho thấy trong khi vật_liệu có_thể sử_dụng tất_cả thay_đổi để tạo thành điện_năng , nó không cho hiệu_suất tốt như những tinh_thể đặc_trưng khác .
+Tuy_nhiên , các nhà_nghiên_cứu kỳ_vọng họ có_thể cải_thiện điều đó .
+" Tất_cả đặc_tính của KBNNO có_thể được điều_chỉnh để cho hiệu_quả tối_đa " , trưởng nhóm nghiên_cứu Yang_Bai cho_biết .
+Loại vật_liệu đa_năng kiểu này có nhiều ứng_dụng trong công_nghiệp , gồm khả_năng sạc thiết_bị từ các nguồn trong môi_trường mà không cần phải thường_xuyên dùng ổ_cắm .
+" Điều này sẽ thúc_đẩy phát_triển các sản_phẩm từ Internet và mô_hình thành_phố thông_minh , nơi các thiết_bị cảm_biến và thiết_bị tiêu_thụ điện sử_dụng nguồn năng_lượng bền_vững " , Bai chia_sẻ .
+Quỳnh_Thái

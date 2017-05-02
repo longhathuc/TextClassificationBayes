@@ -1,0 +1,17 @@
+MobiFone hỗ_trợ đổi SIM 4G miễn_phí
+Những khách_hàng lâu năm của MobiFone được đổi từ SIM cũ sang SIM 4G hoàn_toàn miễn_phí .
+Đây là ưu_đãi từ chương_trình " Đổi SIM 4G - Ưu_đãi bất_ngờ " do nhà mạng này triển_khai từ nay đến 31/3 trên toàn_quốc .
+Bên_cạnh đó , những khách_hàng mua trả_góp điện_thoại có hỗ_trợ 4G tại hệ_thống của MobiFone sẽ nhận phiếu quà tặng trị_giá 500.000 đồng .
+Ngoài_ra , sau khi đăng_ký trải_nghiệm dịch_vụ 4G , người dùng còn nhận thêm 3 ngày miễn_phí sử_dụng gói data D10 .
+Để kiểm_tra điện_thoại hiện_tại của mình có hỗ_trợ sóng 4G hay không , chủ thuê_bao có_thể kiểm_tra trên website của MobiFone .
+Sau đó , khách_hàng đến các cửa_hàng MobiFone để đổi SIM 4G hoặc mua một SIM 4G mới .
+Hiện các mạng 3G có tốc_độ từ 400Kbps đến 1,5 Mbps .
+Trong khi đó , mạng không dây sử_dụng công_nghệ 4G đạt tốc_độ nhanh hơn , từ 2Mbps cho_đến 10Mbps .
+Ưu_điểm của 4G là có_thể thay_thế hoàn_toàn đường truyền Internet cố_định ( kể_cả đường cáp_quang ) với tốc_độ ngang_ngửa , vùng phủ_sóng rộng hơn và có tính di_động cao .
+Không_chỉ gia_tăng tốc_độ đường truyền , 4G còn mang tới nhiều tiện_ích thiết_thực , nâng cao trải_nghiệm của người dùng .
+Đây là nền_tảng tốt để phát_triển mạnh các dịch_vụ livestream , hội_nghị truyền_hình hay chơi game trực_tuyến ...
+Tính bảo_mật của dịch_vụ 4G được cải_tiến và đạt cấp_độ tối_đa .
+Cụ_thể , dữ_liệu gửi đi sử_dụng công_nghệ mạng chuyển mạch gói ( packet-switching ) chứ không dùng công_nghệ cũ sử_dụng mạng chuyển mạch ( circuit-switching ) .
+Vì_vậy , dữ_liệu sẽ phân_tán thành các gói nhỏ rồi chuyển tới địa_chỉ cần gửi thông_qua bất_kỳ hướng dẫn_truyền nào thuận_lợi nhất .
+Do_đó thông_tin hay dữ_liệu riêng_tư của người dùng được đảm mật tối_đa .
+Minh_Trí

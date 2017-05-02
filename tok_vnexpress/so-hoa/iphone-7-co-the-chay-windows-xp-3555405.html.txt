@@ -1,0 +1,9 @@
+iPhone 7 có_thể chạy Windows XP
+Smartphone thương_hiệu Apple có_thể chạy hệ_điều_hành dành cho máy_tính của Microsoft mà không cần jailbreak ( mở khóa ) .
+Theo Cultofmac , người dùng   Hacking_Jules đã chạy thành_công Windows XP trên i Phone 7 .
+Việc cài_đặt được thực_hiện thông_qua phần_mềm giả_lập i Box , được nạp vào thông_qua bộ Xcode , nên thiết_bị của Apple không cần jailbreak .
+Dùng chip Fusion A10 cùng RAM 2 GB , thông_số cấu_hình mạnh hơn khá nhiều những máy_tính cách đây 10 năm , nhưng trải_nghiệm Windows XP trên i Phone 7 cho cảm_giác chưa mượt .
+Có_thể việc hoạt_động thông_qua phần_mềm mô_phỏng đã ảnh_hưởng không nhỏ tới hiệu_suất .
+Windows XP chạy trên i Phone 7 có_thể thực_hiện các thao_tác cơ_bản thông_qua màn_hình cảm_ứng .
+Tuy_nhiên giao_diện hệ_điều_hành này được chuyển về dạng cổ_điển , một_số phần_mềm đơn_giản cũng không_thể hoạt_động .
+Trước đó , một_số lập_trình_viên Trung_Quốc đã cài thành_công Windows 98 lên i Phone 6 Plus .

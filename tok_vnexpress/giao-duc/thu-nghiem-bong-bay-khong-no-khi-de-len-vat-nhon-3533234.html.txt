@@ -1,0 +1,13 @@
+Thử_nghiệm bóng_bay không nổ khi đè lên vật nhọn
+Bóng nổ ngay_lập_tức khi bị vật nhọn đâm vào , tuy_nhiên tính_chất của quả bóng sẽ khiến bạn ngạc_nhiên nếu đâm cùng lúc nhiều vật nhọn với áp_lực trải đều .
+Bạn cần một quả bóng_bay , nhiều đinh_ghim và một mặt_phẳng .
+Thực_hiện : Khi bóng chạm vào một đinh_ghim , nó sẽ nổ ngay_lập_tức .
+Tuy_nhiên , hãy thử dùng rất nhiều đinh_ghim .
+Đổ hết đinh_ghim ra mặt_phẳng , để đầu nhọn của tất_cả ghim hướng lên trên .
+Hãy nhớ dàn đều đinh_ghim thành nhóm sát nhau .
+Trẻ có_thể nhờ người_lớn thực_hiện việc này .
+Sau đó , cầm quả bóng_bay dí sát vào đống ghim .
+Ngay cả khi bạn đè hơi mạnh , quả bóng không hề vỡ .
+Giải_thích : Lý_do vô_cùng đơn_giản .
+Khi bạn để quả bóng tiếp_xúc với chỉ một đinh_ghim , một vật nhọn sẽ tạo ra nhiều áp_lực trên một điểm của quả bóng , đâm qua vỏ cao_su và khiến nó nổ tung .
+Tuy_nhiên , nhiều đinh_ghim sẽ tạo áp_lực lên nhiều điểm , do_đó mỗi điểm trên quả bóng sẽ không phải chịu nhiều áp_lực , khiến quả bóng rất khó nổ .

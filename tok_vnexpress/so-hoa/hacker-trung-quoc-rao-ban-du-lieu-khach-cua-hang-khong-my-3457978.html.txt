@@ -1,0 +1,15 @@
+Hacker_Trung_Quốc rao bán dữ_liệu khách của hàng_không Mỹ
+Một_vài hãng hàng_không đã trở_thành mục_tiêu của các tin_tặc Trung_Quốc , sau đó thông_tin bị đánh_cắp được bán trên thị_trường ngầm .
+Theo Epoch_Times , hệ_thống máy_tính của hãng hàng_không Mỹ_Delta_Air_Lines đã gặp trục_trặc khiến hàng_loạt chuyến bay bị chậm_trễ .
+Trong khi nguyên_nhân của vụ_việc đang được tiếp_tục điều_tra , thì tội_phạm mạng đã rao bán thông_tin của hãng hàng_không này trên thị_trường chợ_đen .
+Hành_khách của Delta_Air_Lines xếp_hàng chờ làm thủ_tục sau khi nhiều chuyến bay bị trễ do hệ_thống mạng bị tấn_công .
+Ảnh : AP .
+Một nhóm tin_tặc được cho là nhận hậu_thuẫn từ chính_phủ Trung_Quốc đã đăng các mẫu quảng_cáo , chào_bán thông_tin và lỗ_hổng của hàng_loạt hãng hàng_không lớn .
+Những cái tên có trong danh_sách này nổi_bật như Delta_Air_Lines , United_Airlines , Japan_Airlines , FedEx ...
+Theo nhà_nghiên_cứu   Ed_Alexander , ông có danh_sách đầy_đủ các hãng hàng_không đang bị rao bán thông_tin , song điều này không có nghĩa_là các sự_cố gặp phải đều do những kẻ đánh_cắp thông_tin này gây ra .
+Các hacker có nguồn_gốc quân_đội Trung_Quốc đã bán lại thông_tin đánh_cắp được sau khi kết_thúc hợp_đồng với chính_phủ Trung_Quốc .
+Bên_cạnh đó , tin_tặc còn cung_cấp dịch_vụ tấn_công vào cơ_sở_hạ_tầng mạng của các cơ_quan , doanh_nghiệp hay cá_nhân khác .
+Khách_hàng của những hacker này bao_gồm chính_phủ các nước , băng_nhóm tội_phạm có tổ_chức .
+Theo   Alexander , những hệ_thống quản_lý hàng_không hiện_nay khá cũ_kỹ , tạo nhiều cơ_hội cho hacker .
+Mục_tiêu khi tấn_công vào các hãng hàng_không là thông_tin cá_nhân , thông_tin thẻ_tín_dụng và hệ_thống thông_tin sân_bay .
+Nhà_nghiên_cứu cũng cho_biết , một mục_tiêu khác mà hacker nhắm đến là dặm bay thưởng của khách_hàng hoặc hệ_thống quản_lý dặm bay thưởng của các hãng hàng_không .

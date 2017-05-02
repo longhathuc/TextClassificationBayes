@@ -1,0 +1,15 @@
+Hacker từng tấn_công Mark_Zukerberg ' hỏi_thăm ' CEO Google
+Sau khi đánh_cắp tài_khoản Twitter và Pinterest của CEO Facebook , nhóm tin_tặc OurMine tiếp_tục đột_nhập vào tài_khoản mạng xã_hội của Sundar_Pichai với lý_do " kiểm_tra mức_độ bảo_mật " .
+Theo IBTimes , OurMine đã chiếm được quyền sử_dụng tài_khoản Quora của CEO Alphabet_Sundar_Pichai và đăng lên đó đoạn nội_dung " # OurMine We are just testing your security " ( tạm dịch : # OurMine Chúng_tôi chỉ đang thử_nghiệm mức_độ bảo_mật tài_khoản của bạn ) .
+Bởi_Quora có liên_kết với tài_khoản Twitter nên dòng thông_điệp đó cũng hiển_thị trên mạng xã_hội này .
+Tất_nhiên , rất nhiều trong số hơn 508.000 người đang theo_dõi ông thấy được tweet đó .
+Chỉ ít phút sau khi được đăng_tải ,   đoạn tweet đã bị xóa .
+Tuy_vậy , nhiều người đã nhanh tay chụp màn_hình và chia_sẻ trên các mạng xã_hội khác .
+Dòng trạng_thái chứng_tỏ tài_khoản của Sundar_Pichai bị tấn_công .
+Trong tuyên_bố với The_Next_Web , nhóm tin_tặc OurMine ( gồm 3 thành_viên ) cho_biết , họ đã đột_nhập vào được tài_khoản Quora thông_qua một lỗ_hổng bảo_mật " chưa từng được phát_hiện " trên trang này .
+Tuy_nhiên , nhóm từ_chối tiết_lộ cụ_thể lỗ_hổng , cũng_như cách_thức tấn_công .
+Pichai chỉ là nạn_nhân mới nhất trong số những người nổi_tiếng bị OurMine tấn_công .
+Ngoài CEO Facebook_Mark_Zukerberg , nhóm này từng " ghé thăm " tài_khoản của cựu CEO Twitter_Dick_Costolo và Ev_Williams , tài_khoản Twitter của CEO Spotify_Daiel_Ek , diễn_viên David_Guetta , Channing_Tatum … Tuy_nhiên , thay_vì đánh_cắp tài_khoản cho những mục_đích xấu , họ chỉ " nghịch " một_chút , sau đó cảnh_báo bảo_mật cho " khổ_chủ " .
+" OurMine đột_nhập vào các tài_khoản chỉ nhằm mục_đích kiểm_tra độ bảo_mật và không_bao_giờ thay_đổi mật_khẩu của họ .
+Nhóm chỉ muốn cảnh_báo cho người dùng rằng , nếu chúng_tôi làm được thì kẻ xấu cũng làm được " , đại_diện OurMine nói .
+Bảo_Lâm

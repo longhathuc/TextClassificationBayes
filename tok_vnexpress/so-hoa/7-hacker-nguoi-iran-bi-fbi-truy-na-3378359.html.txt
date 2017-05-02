@@ -1,0 +1,14 @@
+7 hacker người Iran bị FBI truy_nã
+Đây là những người bị cáo_buộc có liên_quan đến các vụ tấn_công một loạt hệ_thống ngân_hàng tại Mỹ , cũng_như một con đập tại New_York .
+Theo The   Hacker_News đưa tin , Bộ Tư pháp Mỹ đã công_bố một cáo_trạng khá dài , trong đó cáo_buộc 7 hacker Iran tham_gia sử_dụng máy_tính để đột_nhập vào hệ_thống của hàng chục ngân_hàng lớn trên toàn nước Mỹ , gây thiệt_hại hàng triệu USD cũng_như cố_gắng làm ngưng hoạt_động con đập Bowman_Avenue_Dam tại Rye_Brook , New_York .
+Chân_dung 7 hacker Iran bị truy_nã bởi FBI .
+Theo nội_dung cáo_trạng , danh_tính 7 hacker bao_gồm Ahmad_Fathi ( 37 tuổi ) , Hamid_Firoozi ( 34 tuổi ) , Amin_Shokohi ( 25 tuổi ) , Sadegh_Ahmadzadegan ( còn được gọi_là Nitr0jen26 , 23 tuổi ) , Omid_Ghaffarinia ( còn được gọi_là Plus , 25 tuổi ) , Sina_Keissar ( 25 tuổi ) và Nader_Saedi ( còn được gọi với tên Turk_Server , 26 tuổi ) đang làm_việc tại ITSec Team và Mersad_Co , hai công_ty an_ninh mạng có trụ_sở tại Iran , được cho là “ thân ” chính_phủ .
+Báo_cáo cho_biết , hacker đã sử_dụng phương_thức tấn_công từ_chối dịch_vụ phân_tán ( Distributed_Denial - of-Service - DDoS ) để nhằm vào 46 công_ty tài_chính và các ngân_hàng lớn trong nước như JPMorgan Chase , Bank of America , Wells_Fargo , American_Express ...
+Riêng tên Firoozi đã đột_nhập vào hệ_thống quản_lý tự_động SCADA của đập   Bowman_Avenue tại New_York trong khoảng thời_gian từ tháng 8 đến tháng 9/2013 .
+Rất may , do ngắt kết_nối để bảo_trì nên thiệt_hại gây ra chưa đến mức quá nghiêm_trọng , chỉ khoảng hơn 30.000 USD .
+“ Hắn đã truy_cập hệ_thống máy_tính của con đập nhằm thu_thập các dữ_liệu về tình_trạng hoạt_động của nó , bao_gồm thông_tin về mực nước , nhiệt_độ và trạng_thái của các cửa cống , lượng nước và tốc_độ dòng_chảy … ” , đại_diện Bộ Tư pháp Mỹ cho_biết .
+Về tổng thiệt_hại , tuy không nói đến con_số cụ_thể , nhưng theo đại_diện Bộ Tư pháp , chi_phí để khắc_phục hậu_quả gây ra lên tới hàng chục_triệu USD .
+Nếu bị bắt , dự_kiến , những hacker này sẽ phải đối_mặt với 10 năm tù_giam về tội cố_ý sử_dụng máy_tính để đột_nhập trái_phép gây hậu_quả nghiêm_trọng .
+Riêng tên Firoozi sẽ bị xử_phạt thêm 5 năm tù nữa do tấn_công đập , nâng tổng hình_phạt lên 15 năm tù_giam .
+Hiện_tại , phía Iran vẫn chưa đưa ra lời bình_luận nào về cáo_trạng này .
+Thu_Hằng

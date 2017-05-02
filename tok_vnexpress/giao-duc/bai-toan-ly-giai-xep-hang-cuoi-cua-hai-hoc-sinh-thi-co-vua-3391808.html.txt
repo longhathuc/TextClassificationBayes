@@ -1,0 +1,17 @@
+Bài_toán ' lý_giải xếp_hạng cuối của hai học_sinh thi cờ_vua '
+Hai học_sinh Phổ_thông năng_khiếu đi thi_đấu cờ_vua với các anh sinh_viên Đại_học Khoa_học Tự_nhiên .
+Giải được tổ_chức theo thể_thức thi_đấu vòng_tròn một lượt .
+Thắng được 1 điểm , hòa 1/2 và thua 0 điểm .
+Hai em về trường gặp thầy_giáo toán , và đây là mẩu đối_thoại giữa họ :
+Thầy : Kết_quả thế_nào các trò cưng ?
+An : Hai tụi em hòa nhau thầy .
+Đánh với nhau suốt biết giơ nhau hết , em không thắng nổi Bình dù cầm_quân trắng .
+Bình : Dạ , điểm của cả hai tụi em cộng lại là 6.5 đó thầy .
+Thầy : Thế_thì cũng được đấy chứ .
+Kiếm được điểm từ mấy anh là giỏi rồi .
+Có bao_nhiêu người tham_gia ?
+An : Em không nhớ có bao_nhiêu người tham_gia thầy ơi .
+Bình : Em cũng không nhớ thầy , nhưng em chỉ biết là tất_cả các anh sinh_viên đều bằng điểm .
+Thầy : Vậy_là thầy hiểu rồi , các cậu xếp thứ nhất và thứ nhì từ dưới lên .
+Các bạn hãy cho_biết có bao_nhiêu sinh_viên tham_gia thi_đấu cờ_vua và họ được bao_nhiêu điểm , từ đó lý_giải tại_sao thầy_giáo lại biết kết_quả xếp_hạng của hai học_sinh của mình .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

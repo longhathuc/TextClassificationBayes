@@ -1,0 +1,10 @@
+Màn_hình HUD hỗ_trợ ra_lệnh bằng cử_chỉ cho xe_hơi
+Navdy hiển_thị dẫn đường , tin nhắn , kết_nối với Siri trên i Phone và có_thể nhận hoặc từ_chối cuộc_gọi bằng cử_chỉ tay .
+Navdy HUD .
+Màn_hình hiển_thị trên kính lái ( HUD ) Navdy được đặt ngay phía trước vị_trí của người lái và kết_nối với smartphone thông_qua Bluetooth .
+Thiết_bị này sẽ hiển_thị thông_tin dẫn đường , các thông_báo dạng đơn_giản từ smartphone tới người dùng và không mất tập_trung khi đang lái_xe .
+Nhà_sản_xuất cũng tặng kèm một nút bấm gắn vô - lăng cho_phép ra_lệnh bằng giọng nói qua Siri , Google_Now thuận_tiện .
+Navdy được giới_thiệu dưới dạng đặt_hàng gọi_vốn từ năm 2014 và lập kỷ_lục khi nhận được hơn một_triệu USD chỉ sau một tuần .
+Nhưng phải tới hôm_qua , sản_phẩm mới bắt_đầu tới tay người dùng .
+Giá bán_lẻ hiện_tại cũng khá cao , ở mức 799 USD .
+Video : Techcrunch

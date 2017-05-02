@@ -1,0 +1,24 @@
+Những nơi có mạng 4G nhanh_nhất thế_giới
+Singapore và Hàn_Quốc là hai quốc_gia triển_khai 4G không sớm nhưng nhờ áp_dụng công_nghệ mới nên tốc_độ ổn_định và vùng phủ_sóng rộng .
+4G LTE đang dần trở_thành tiêu_chuẩn chung cho kết_nối mạng di_động trên hầu_hết các quốc_gia phát_triển trên thế_giới .
+Hai năm trở_lại đây là khoảng thời_gian mà tốc_độ trung_bình đã được tăng lên đáng_kể nhờ sự xuất_hiện của chuẩn   LTE-Advanced ( LTE - A ) .
+Đây cũng chính công_nghệ mà các nhà mạng Việt_Nam đang chuẩn_bị áp_dụng rộng_rãi thời_gian tới .
+Theo báo_cáo của Opensignal , tốc_độ trung_bình của 4G LTE trên toàn thế_giới vào_khoảng 12,6 Mb/giây , nhanh hơn so với con_số 3,2 Mb/giây của mạng 3G và cũng cao hơn gấp đôi tốc_độ trung_bình 5 Mb/giây của mạng Wi-Fi .
+Trong khi đó , với chuẩn LTE - A mới , tốc_độ trung_bình tại nhiều quốc_gia đã đạt đến ngưỡng 20 Mb/giây .
+So_sánh tốc_độ trung_bình 4G LTE so với 3G , 2G và Wi-Fi .
+Mặc_dù mới chỉ giới_thiệu mạng 4G LTE cách đây 2 năm nhưng   New_Zealand đã đứng đầu trong bảng xếp_hạng các quốc_gia có mạng LTE nhanh_nhất .
+Trong khi đó , các quốc_gia châu Á dù đi_sau nhưng có lợi_thế khi được áp_dụng công_nghệ mới nhất .
+Đáng_kể nhất_là Hàn_Quốc khi đã tăng gấp đôi tốc_độ trung_bình trong năm qua nhờ áp_dụng LTE - A .
+Các quốc_gia hàng_đầu về công_nghệ chưa hẳn có vị_trí tương_tự với tốc_độ kết_nối 4G .
+Có_thể kể đến là Mỹ với khoảng 10 Mb/giây , ít hơn một_phần_ba so với các quốc_gia hàng_đầu .
+Ở Anh là 13 Mb/giây trong khi tốc_độ điển_hình ở châu Âu_là gần 20 Mb/giây .
+Các quốc_gia , vùng lãnh_thổ có tốc_độ trung_bình mạng 4G LTE nhanh_nhất thế_giới :
+Ngoài tốc_độ trung_bình , vùng phủ_sóng cũng là yếu_tố quan_trọng ảnh_hưởng đến trải_nghiệm 4G .
+Các nghiên_cứu , tính_toán của OpenSignal dựa nhiều hơn vào mức_độ tín_hiệu trong một vị_trí nhất_định thay_vì theo phạm_vi địa_lý .
+Trong đó , một yếu_tố quan_trọng là cường_độ tín_hiệu khi sử_dụng trong nhà cao_tầng .
+Ở tiêu_chí đánh_giá này , châu Á tiếp_tục thể_hiện thế mạnh .
+Trong đó , Hàn_Quốc đứng đầu với 97% còn Nhật_Bản là 90% .
+Singapore cũng góp_mặt trong top 5 với 84% vùng được phủ_sóng 4G .
+Các quốc_gia , vùng lãnh_thổ có vùng phủ_sóng tốt nhất :
+Ngoài_ra , báo_cáo cũng cho thấy các nhà mạng cho tốc_độ nhanh_nhất với vị_trí dẫn_đầu thuộc về Starhub ( Singapore ) với 38 Mb/giây , Vodafone ( Romania ) với 36 Mb/giây , TCD ( Đan_Mạch ) với 35 Mb/giây , Olleh ( Hàn_Quốc ) với 34 Mb/giây và cuối_cùng là SingTel ( Singapore ) với 32 Mb/giây .
+Tuấn_Hưng

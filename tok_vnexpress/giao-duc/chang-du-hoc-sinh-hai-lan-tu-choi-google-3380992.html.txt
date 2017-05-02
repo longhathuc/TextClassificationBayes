@@ -1,0 +1,42 @@
+Chàng du_học_sinh hai lần từ_chối Google
+Sau hai lần từ_chối lời mời của Google , chàng du_học_sinh 24 tuổi Phạm_Hy_Hiếu mới quyết_định làm_việc cho tập_đoàn này một năm trước khi học lên tiến_sĩ tại Mỹ .
+Đoạt_Huy chương bạc Olympic quốc_tế môn Toán năm 2009 tại Đức khi đang theo học Phổ_thông Năng_khiếu Đại_học Quốc_gia TP_HCM , Phạm_Hy_Hiếu được học_bổng toàn_phần Đại_học Quốc_gia Singapore ( NUS ) .
+Tuy_nhiên , bố_mẹ bắt anh từ_chối NUS và khuyên ở nhà một năm luyện thi TOEFL và SAT , chuẩn_bị bài luận để xin vào các đại_học ở Mỹ .
+Hiếu đã nhận được học_bổng toàn_phần của Đại_học Stanford ( Mỹ ) và đến trường này nhập_học .
+Để có được suất học_bổng ấy , Hiếu mất một năm không làm được gì , luôn bị phân_tâm và lo_lắng .   Vì quá tập_trung luyện tiếng Anh , kỹ_năng giải Toán của cựu học_sinh Phổ_thông Năng_khiếu ngày nào dần hao_mòn vì không được luyện_tập kéo_theo sự trì_trệ tư_duy logic .
+" Mỗi ngày , để nạp thêm 30 từ_vựng SAT thì tôi lại quên mất một phương_trình toán_học .
+Đến khi bước vào Stanford , tôi mang một cái đầu trống_rỗng và một trái_tim đã nguội_lạnh đam_mê " , Hiếu chia_sẻ .
+Sang_Mỹ , Hiếu lại bị sốc tâm_lý , rơi vào cô_đơn và trầm_cảm nặng do sự khác_biệt văn_hoá và mất định_hướng .   Những ngày ở Stanford , anh thấy không hạnh_phúc vì phải " bán cho họ đam_mê và một phần trong tuổi_trẻ của mình " .
+Hiếu không còn thích học bất_cứ môn gì , kể_cả Toán , Tin_học , Tiếng_Anh , Triết_học , Văn_học .
+Điều duy_nhất Hiếu còn ham_thích là tham_gia các cuộc_thi mang tính Olympic .
+Tuy_nhiên , ở đại_học không nhiều kỳ thi Toán như ở trung_học , Hiếu chuyển_hướng qua các cuộc_thi lập_trình , trong đó có cuộc_thi lập_trình quốc_tế ACM_ICPC .
+Ba năm đầu ở Stanford , chàng du_học_sinh này tìm_hiểu khắp các trang_web tuyển_dụng của Google , Facebook , Microsoft , Apple , Vmware , Dropbox và ngay cả những công_ty ít nổi_tiếng hơn vào lúc đó như Snapchat , Whatsapps .
+Hồi năm hai , Hiếu đã vượt qua vòng phỏng_vấn tuyển thực_tập_sinh của Google .
+Lúc này , các nhân_viên của Google đọc hồ_sơ của ứng_viên và quyết_định xem kinh_nghiệm , tính_cách của ai hợp với đề_án của họ để tuyển .
+Hiếu đã không được nhận vì lý_do thiếu kinh_nghiệm , nhưng hơn hết vì " không hợp với đề_án " .
+Cho rằng lý_do này quá cảm_tính và không công_bằng , anh cảm_thấy tổn_thương và tự_nhủ sẽ giúp Google nhận ra sai_lầm của họ .
+Năm_ba , Hiếu được Google mời thực_tập nhưng chàng_trai này từ_chối .
+" Tôi muốn thông_qua sự từ_chối của mình , gửi cho các nhà tuyển_dụng của Google thông_điệp rằng tôi nghĩ họ đang thiếu tôn_trọng đối_với các ứng_viên " , Hiếu nói .
+Một năm sau , Hiếu lại được Google mời làm_việc chính_thức nhưng anh vẫn từ_chối bởi chính_sách của Google đối_với các thực_tập_sinh vẫn như cũ .
+Bên_cạnh đó , anh cũng tham_gia các diễn_đàn thảo_luận mở , trả_lời các câu_hỏi về quá_trình tuyển thực_tập của Google , qua đó nói lên sự bất_cập của họ .
+Trong khoảng thời_gian này , Hiếu được Vmware - một công_ty chuyên làm các phần_mềm ảo_hoá - nhận thực_tập và thời_gian này đã thay_đổi nhận_thức của anh về khoa_học máy_tính .
+Anh nhận ra máy_tính và các kỹ_thuật lập_trình được tạo ra là để phục_vụ cho cuộc_sống của con_người , chứ không phải để giải_quyết những bài_tập mang nặng tính đánh_đố .
+Hiếu vẫn dành sự tôn_trọng cho các cuộc_thi lập_trình như ACM_ICPC nhưng xác_định đó không còn là mục_tiêu lớn của mình nữa .
+Thay vào đó , anh bắt_đầu học các lĩnh_vực thiết_thực và có nhiều ứng_dụng hơn của khoa_học máy_tính .
+Hiếu tìm thấy sự thú_vị trong trí thông_minh nhân_tạo - chuyên_ngành với mục_tiêu là tạo ra các máy_tính có_thể xử_lý thông_tin một_cách thông_minh như con_người .
+Khi viết luận_văn tốt_nghiệp , Hiếu chọn đề_tài " Ứng_dụng mạng neuron nhằm nâng cao chất_lượng dịch tự_động giữa tiếng Anh và tiếng Đức " .
+Luận_văn được giáo_sư Christopher_Manning - một trong những chuyên_gia đầu ngành của trí_tuệ_nhân_tạo hiện_nay hướng_dẫn - và nhận được giải_thưởng Luận_văn Khoa_học Máy_tính xuất_sắc nhất của Đại_học Stanford .
+Các nghiên_cứu về trí_tuệ_nhân_tạo đã mở ra cho Hiếu nhiều cơ_hội mới .
+Anh được Apple mời vào nhóm phát_triển Siri để phần_mềm trợ_lý ảo này có_thể tương_tác với người dùng bằng các ngôn_ngữ ngoài tiếng Anh tốt hơn .
+Anh cũng được Microsoft mời vào nhóm phát_triển Cortana - phần_mềm trợ_lý ảo của hãng này , giống như Siri của i Phone , đồng_thời được   Facebook mời làm_việc để phân_tích các bài đăng của người dùng bằng nhiều ngôn_ngữ .
+Tuy_vậy , chàng_trai 24 tuổi đã không nhận_lời bất_kỳ công_ty nào mà   quyết_định ứng_tuyển vào chương_trình tiến_sĩ của Đại_học Carnegie_Mellon ( CMU ) - một trong bốn " ông lớn " về khoa_học máy_tính của Mỹ .
+Anh được trao học_bổng toàn_phần suốt 5 năm nghiên_cứu_sinh tại đây .
+" Điều tôi thật_sự mong_muốn là mang trí_tuệ_nhân_tạo đến với tất_cả mọi người để giúp làm cho cuộc_sống của chúng_ta tốt_đẹp , văn_minh hơn .
+Để làm được điều đó , tôi cần phải học thêm nhiều điều " , Hiếu giải_thích cho quyết_định của mình .
+Hồi tháng 3 vừa_qua , lại một lần nữa Google gửi lời mời đến Hiếu .
+Lần này là dự_án phát_triển các ứng_dụng của mạng neuron Google_Brain .
+Lúc này , nhận thấy " gã khổng_lồ tìm_kiếm " có sự   thay_đổi trong chính_sách tuyển thực_tập_sinh đồng_thời khá hứng_thú với dự_án , Hiếu quyết_định sẽ cộng_tác với tập_đoàn này một năm trước khi bắt_tay vào nghiên_cứu_sinh tại CMU .
+Suy_ngẫm về quãng thời_gian du_học xứ người , Hiếu nói , khi tìm thấy đam_mê là lúc đã có được 50% thành_công , 49% còn lại nằm ở sự chăm_chỉ và 1% nằm ở may_mắn .
+" Bằng cách giết chết một đam_mê của mình để tìm một đam_mê mới , tôi đã học bài_học này một_cách khó_khăn .
+Con đường đến thành_công không đơn_giản , nhưng có đam_mê là bạn đã có lộ_phí rồi " , anh chia_sẻ .
+Mạnh_Tùng

@@ -1,0 +1,11 @@
+Robot lái máy_bay có_thể thay_thế phi_công
+Robot_Pi Bot được thiết_kế để lái máy_bay mà không cần trợ_giúp , có_thể hoạt_động ở những khu_vực quá nguy_hiểm đối_với con_người .
+Các nhà_nghiên_cứu ở Viện khoa_học công_nghệ cao_cấp Hàn_Quốc phát_triển con robot mang tên PiBot có_thể tự khởi_động động_cơ máy_bay , điều_khiển máy_bay chạy trên đường_băng , cất_cánh , hạ_cánh và chuyển_hướng , Popular_Mechanics hôm_qua đưa tin .
+Điểm ấn_tượng nhất của Pibot là không đòi_hỏi chỉnh_sửa các mẫu máy_bay theo tiêu_chuẩn hiện_nay .
+Pibot có_thể vận_hành cần điều_khiển cùng tất_cả công_tắc và cần gạt trong buồng_lái máy_bay thông_thường .
+Khả_năng lái máy_bay tiêu_chuẩn mang đến cho PiBot lợi_thế lớn so với các công_nghệ lái tự_động khác đòi_hỏi phải chỉnh_sửa hệ_thống điều_khiển của máy_bay .
+PiBot có_thể đáp máy_bay thành_công trong 80% số lần thử_nghiệm , tỷ_lệ khá cao so với robot nhưng chưa đáp_ứng yêu_cầu khi bay thực_tế .
+Con robot đang luyện_tập thêm trên một thiết_bị mô_phỏng
+Nhóm nghiên_cứu hy_vọng có_thể sử_dụng PiBot để lái máy_bay ở những khu_vực nguy_hiểm và thay_thế con_người trong tương_lai .
+Xem thêm :   Robot thực_hiện ca phẫu_thuật ghép thận đầu_tiên ở Anh
+Phương_Hoa

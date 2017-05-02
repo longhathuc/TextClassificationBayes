@@ -1,0 +1,12 @@
+Robot lập kỷ_lục giải khối rubik trong hơn nửa giây
+Một công_ty ở Đức chế_tạo con robot lập kỷ_lục giải khối rubik nhanh_nhất thế_giới với thời_gian 0,637 giây .
+Kỷ_lục giải khối rubik do robot mang tên Sub1 Reloaded đạt được sau 21 thao_tác , vượt xa kỷ_lục 4,9 giây của con_người và phá vỡ kỷ_lục hồi tháng 2 mà một con robot khác lập ra là 0,887 giây , International_Business_Times hôm_qua đưa tin .
+Robot_Sub 1 Reloaded lập kỷ_lục khi trổ_tài tại hội_chợ Electronica ở Munich , Đức .
+Động_cơ của robot được tích_hợp máy_tính siêu nhỏ Aurix do Infinion chế_tạo , dùng cho hệ_thống trợ lái đòi_hỏi thời_gian phản_ứng cực nhanh .
+Theo Infinion , mỗi khối rubik có 43 tỷ tỷ cách kết_hợp ô vuông nhiều màu .
+Sub1 Reloaded trang_bị một_số con chíp siêu nhỏ .
+Chíp vi_tính được xem như bộ_não của robot , sẽ xác_định cách giải nhanh_nhất và truyền lệnh đến các mạch bán_dẫn .
+Sau đó , những " cơ_bắp " này kích_hoạt 6 động_cơ phụ_trách mỗi mặt của khối rubik với tốc_độ kỷ_lục .
+Tất_cả quá_trình kéo_dài chưa đến một giây .
+Xem thêm :   Robot nhún_nhảy , đá bóng theo khả_năng lập_trình của trẻ_em
+Phương_Hoa

@@ -1,0 +1,8 @@
+Biển cấm vượt có cấm xe_máy vượt ôtô ?
+Biển cấm vượt vẽ hình hai ôtô không được vượt nhau , vậy có cấm xe_máy vượt ôtô hay không ?
+Trên đường_quốc_lộ thường có biển cấm vượt vẽ hai ôtô .
+Nếu theo hình_vẽ này thì rõ_ràng cấm ôtô vượt ôtô .
+Nhưng như_vậy biển này có cấm các trường_hợp :
+- Ôtô vượt xe_máy ?
+- Xe_máy vượt ôtô ?
+- Xe_máy vượt xe_máy ?

@@ -1,0 +1,21 @@
+Giải_pháp mạng Wi-Fi cho doanh_nghiệp
+Samsung_Smart WLAN cho vùng phủ_sóng rộng , tốc_độ cao và ổn_định , cung_cấp khả_năng quản_lý tập_trung toàn_diện .
+Mạng không dây tại trụ_sở công_ty rất quan_trọng vì nó ảnh_hưởng trực_tiếp đến hoạt_động nghiệp_vụ trên máy_tính cũng_như thiết_bị di_động .
+Nếu triển_khai giải_pháp không phù_hợp , chọn sai thiết_bị điểm truy_cập không dây ( Access_Point - AP ) thì những " điểm_mù " Wi-Fi cũng_như sự chập_chờn về tốc_độ sẽ khiến việc vận_hành hệ_thống gặp nhiều khó_khăn .
+Samsung_Smart WLAN phù_hợp cho nhu_cầu triển_khai giải_pháp mạng không dây dành cho nhóm khách_hàng doanh_nghiệp nhờ vùng phủ_sóng rộng , tốc_độ cao và ổn_định , cung_cấp khả_năng quản_lý tập_trung toàn_diện .
+Đầu_tiên trong giải_pháp này là thiết_bị điểm truy_cập không dây Samsung WEA400 Series chuẩn 802.11ac hiệu_năng cao , có khả_năng hoạt_động đồng_thời trên 2 băng tần 2,4 GHz và 5GHz .
+Sản_phẩm hỗ_trợ tốc_độ truyền_tải dữ_liệu lên đến 1,3 Gbps , thậm_chí 1,7 Gbps với dòng WEA504i và WEA514i tích_hợp công_nghệ MU-MIMO .
+Không_chỉ sóng khỏe , dòng AP của Samsung còn thông_minh trong việc phân_bổ băng_thông cho nhiều kết_nối ( thiết_bị ) nhờ tích_hợp công_nghệ Air_Equalizer bằng cách phân_tích loại dữ_liệu , ứng_dụng cũng_như thiết_bị đang có nhu_cầu truy_xuất Internet .
+Bằng cách này , từng thiết_bị sẽ được phục_vụ ở mức ưu_tiên băng_thông cao nhất .
+Trong khi đó , khi triển_khai nhiều AP trong cùng không_gian , công_nghệ AirMove của Samsung phát_huy tác_dụng khi giảm_thiểu thời_gian chuyển_giao kết_nối giữa các AP .
+Tình_trạng gián_đoạn sóng Wi-Fi trong không_gian làm_việc khi mà người dùng và thiết_bị di_động của mình liên_tục di_chuyển từ phòng này sang phòng khác , hay từ tầng này sang tầng khác sẽ được hạn_chế .
+Cụm anten trên AP của Samsung có độ nhạy cao hơn 2dB so với các hãng khác , qua đó giúp tiếp_nhận một_cách chính_xác tín_hiệu thiết_bị di_động sở_hữu năng_lượng Tx yếu ở khoảng_cách xa .
+Với giải_pháp Samsung_Access_Point WEA400 Series , số_lượng " điểm_mù " Wi-Fi sẽ giảm_thiểu , trong khi đó vùng phủ_sóng cũng_như cường_độ tín_hiệu mở_rộng hơn .
+Nhằm mang đến cho bộ_phận chuyên_trách công_nghệ_thông_tin sự linh_hoạt tối_đa , dòng giải_pháp Access_Point_Controller WEC8050 và WEC8500 ngoài khả_năng quản_lý một số_lượng lớn AP kết_nối , còn chủ_động tích_hợp ứng_dụng Wireless_Enterprise_Manager ( WEM ) .
+Điều này mang đến sự thuận_tiện trong vận_hành bằng cách cho_phép các quản_trị viên từ xa quản_lý , giám_sát hay sửa_chữa hệ_thống mạng ở bất_kỳ thời_điểm nào thông_qua smartphone hay PC với giao_diện thân_thiện , trực_quan .
+WEC8500 hỗ_trợ quản_lý đồng_thời 3.000 AP , hay 1.000 AP khi triển_khai độc_lập .
+Còn WEC8050 hỗ_trợ 200 AP hay 75 khi triển_khai độc_lập .
+Giải_pháp AP của Samsung trang_bị đến 15 anten ngầm , trong đó có 12 anten phục_vụ các nhu_cầu truy_xuất dữ_liệu qua sóng Wi-Fi và 3 anten dành riêng cho tác_vụ giám_sát , bảo_mật .
+Để khai khác triệt_để công_nghệ bảo_mật tích_hợp trên 3 cụm anten , Samsung đưa công_nghệ Wireless_Enterprise_Security ( WES ) vào loạt sản_phẩm AP .
+Thông_qua WES , hãng chủ_động triển_khai các tính_năng bảo_mật liên_quan đến xác_thực cũng_như mô - đun WIPS , giúp hệ_thống mạng an_toàn trước các mối đe_dọa như bị tấn_công từ_chối dịch_vụ ( DDoS ) , chiếm quyền AP , chống kết_nối trái_phép giữa các AP không phải của Samsung …
+Minh_Trí

@@ -1,0 +1,25 @@
+Nguy_cơ chiến_tranh mạng Mỹ - Nga
+Mỹ tuyên_bố sẽ đáp trả những vụ tấn_công mạng nhằm vào nước này , sau khi mạng máy_tính của Ủy_ban Quốc_gia đảng Dân_chủ ( DNC ) liên_tục bị tin_tặc " ghé thăm " , và nguy_cơ chiến_tranh mạng đang hiện_hữu .
+Mỹ và Nga đang có xung_đột trên mặt_trận không_gian mạng .
+Căng_thẳng Mỹ - Nga đang ở mức báo_động , liên_quan đến các hoạt_động tình_báo và tấn_công mạng , sau khi DNC bị đột_nhập và lấy đi nhiều tài_liệu mật .
+Phía_Mỹ nghi_ngờ Nga đã " nhúng_tay " vào , khi họ phát_hiện có ít_nhất 2 nhóm hacker bao_gồm Cosy_Bear và Fancy_Bear ( có liên_hệ mật_thiết với nhà_nước Nga ) xâm_nhập vào hệ_thống .
+" Nhiệm_vụ của cơ_quan tình_báo là cố_gắng tìm ra những hành_vi vi_phạm và người chịu trách_nhiệm về nó , bất_kể trong nước hay nước_ngoài .
+Một_khi các cơ_quan trong nước bị đe_dọa , chúng_tôi sẽ có có động_thái đáp trả trong giới_hạn thẩm_quyền của mình .
+Một_khi nắm được manh_mối , Cơ_quan An_ninh Quốc_gia Mỹ ( NSA ) sẽ nhanh_chóng tìm ra kẻ đã tấn_công .
+Đó là nhiệm_vụ hết_sức khó_khăn , nhưng đó cũng là trách_nhiệm mà chúng_tôi đang gánh_vác " , Robert_Joyce , Giám_đốc Văn_phòng Các chiến_dịch Đột_nhập Đặc_biệt ( TAO ) thuộc NSA , nói với NBC News .
+Tuy_nhiên , Joyce từ_chối thảo_luận chi_tiết các kế_hoạch đề ra , ông chỉ tiết_lộ đang cùng_với FBI sử_dụng " khả_năng kỹ_thuật và thẩm_quyền pháp_lý " để tấn_công lại kẻ nào có mục_đích lợi_dụng không_gian mạng để thu_thập tin_tức tình_báo .
+Nhưng theo ABC News , ít_nhất 3 nguồn tin tình_báo đáng tin_cậy khẳng_định kế_hoạch đã bắt_đầu được thực_hiện .
+Mỹ cũng có những đội quân hacker trình_độ cao .
+Trong khi đó , phía cơ_quan tình_báo Nga ( FSB ) tuyên_bố đã có bằng_chứng cho thấy đã có một_số tổ_chức " chuyên_nghiệp " sử_dụng phần_mềm gián_điệp nhắm mục_tiêu khoảng 20 cơ_quan nhà_nước và các tổ_chức quân_sự của Nga .
+Mặc_dù không_chỉ đích_danh , nhưng phía tình_báo Nga nói rằng , " cơ_sở_hạ_tầng của các thực_thể bị tấn_công " đã bị ảnh_hưởng .
+Tổ_chức TAO từng được Edward_Snowden tiết_lộ vào năm 2013 .
+Theo cựu nhân_viên NSA , TAO là " vũ_khí bí_mật " mà NSA sử_dụng cho các cuộc tấn_công mạng bởi đây là một đơn_vị có chuyên_môn rất cao trong việc ngăn_chặn từ hacker chuyên_nghiệp cho_đến hoạt_động gián_điệp mạng truyền_thống .
+Ngày 25/7 , trong một tweet , Snowden khẳng_định không khó để NSA truy ra kẻ đã xâm_nhập vào DNC , nhưng họ không công_bố mà thôi .
+Khi FBI vẫn đang tích_cực điều_tra , chính_quyền Obama lại khá lưỡng_lự không dám nói đích_danh Nga là kẻ tấn_công các cơ_quan của nước mình .
+" Những gì chúng_ta đã biết , là tin_tặc Nga tấn_công mạng vào nhiều hệ_thống khác_nhau , không riêng chính_phủ .
+Nhưng , tất_cả chỉ là rò_rỉ , tôi chưa dám chắc_chắn " , Tổng_thống Mỹ phát_biểu .
+Riêng về ứng_viên Tổng_thống Mỹ của DNC , bà Hillary_Clinton , đã có động_thái quyết_đoán hơn , nhất_là sau vụ gần 20.000 email nội_bộ của quan_chức đảng này bị phát_tán trên WikiLeaks . " Chúng_tôi biết , tình_báo Nga trong đó có tin_tặc , là một phần của chính_phủ Nga và được kiểm_soát chặt_chẽ của Vladimir_Putin .
+Việc email bị đánh_cắp và phát_tán trên mạng cũng do những người này đứng sau " , bà Clinton cho_biết trong một cuộc phỏng_vấn với Fox_News hôm 31/7 .
+Tất_nhiên , vụ_việc chưa bao_giờ được chính_phủ Nga thừa_nhận .
+Cách_thức tin_tặc tấn_công DDoS :
+Bảo_Lâm ( theo IBTimes )

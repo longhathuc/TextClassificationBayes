@@ -1,0 +1,31 @@
+5 phần_mềm giúp tăng thời_lượng pin cho điện_thoại Android
+Các ứng_dụng được thiết_kế nhằm tối_ưu_hóa việc sử_dụng năng_lượng , đồng_thời cải_thiện hiệu_suất cho các thiết_bị chạy hệ_điều_hành của Google .
+Pin luôn là vấn_đề khiến nhiều người dùng smartphone bận_tâm .
+Các nhà_sản_xuất đã trang_bị những tính_năng nhằm tiết_kiệm năng_lượng , tuy_nhiên , bạn vẫn có_thể kéo_dài thời_gian sử_dụng pin hơn_nữa bằng cách sử_dụng phần_mềm dưới đây .
+Greenify
+Ứng_dụng này hiệu_quả nhờ việc đưa các phần_mềm vào trạng_thái " ngủ_đông " thay_vì thoát hoàn_toàn .
+Nhờ vậy , smartphone sẽ tiêu tốn ít năng_lượng hơn so với việc thoát hoặc tắt đi .
+Greenify có phiên_bản trả phí , tuy_nhiên các tính_năng trên phiên_bản miễn_phí đã đủ để người dùng trải_nghiệm .
+( Xem video giới_thiệu )
+Go_Battery_Saver & Power_Widget
+Phần_mềm có thiết_kế trực_quan , cho_phép bạn lựa_chọn các mức_độ tiết_kiệm pin khác_nhau theo từng nhu_cầu .
+Chẳng_hạn khi chơi game , hiệu_suất cần ưu_tiên hơn thì người dùng có_thể kích_hoạt chế_độ tương_ứng .
+Go_Battery_Saver & Power_Widget còn xác_định các phần_mềm , những tính_năng " ngốn " pin nhất , từ đó gợi_ý bạn tắt đi để kéo_dài thời_lượng sử_dụng .
+Ứng_dụng này cũng cho_phép dọn_dẹp hệ_thống Android , có widget với các phím tắt .
+Avast_Battery_Saver
+Được phát_triển bởi công_ty bảo_mật nổi_tiếng thế_giới Avast , Battery_Saver dự_đoán rất chính_xác thời_điểm bạn cần cắm sạc cho điện_thoại .
+Mặc_dù không có những tính_năng độc_đáo , song phần_mềm này cung_cấp lựa_chọn tất_cả trong một , nhằm tối_ưu_hóa thời_lượng pin trên smartphone .
+Avast còn cho_phép quản_lý nhanh thiết_lập Wi-Fi , độ sáng màn_hình , đồng_bộ ...
+Battery_Saver của Avast có bốn chế_độ mặc_định là Home , Work , Night và Super-Saving Emergency_Mode , để người dùng chọn theo từng nhu_cầu .
+Ngoài_ra , phần_mềm dựa vào mạng Wi-Fi mà smartphone kết_nối đến để tự_động thay_đổi cấu_hình phù_hợp .
+( Xem video giới_thiệu )
+DU Battery_Saver & Phone_Charger
+Trên phiên_bản miễn_phí , ứng_dụng này giúp cảnh_báo những phần_mềm gây tốn pin mà người dùng nên tắt đi nhưng không làm ảnh_hưởng đến hiệu_suất của thiết_bị .
+Tuy_nhiên , việc tiết_kiệm pin sẽ trở_nên hiệu_quả hơn 70% với phiên_bản trả phí ( 3 USD ) thông_qua tính_năng tựng động tắt các ứng_dụng và dịch_vụ không cần_thiết .
+DU Battery_Saver & Phone_Charger được đánh_giá cao ở giao_diện rất đẹp , dễ dùng .
+( Xem video giới_thiệu )
+Green_Battery_Saver & Manager
+Bằng cách tự_động tắt Wi-Fi , Bluetooth và các kết_nối dữ_liệu trên smartphone sau một khoảng thời_gian không dùng , phần_mềm này có_thể tiết_kiệm pin cho thiết_bị .
+Ngoài_ra , Green_Battery_Saver & Manager còn điều_chỉnh chế_độ đồng_bộ dữ_liệu như email , danh_bạ , hình_ảnh , nhạc ... nhằm tăng thời_gian sử_dụng pin .
+Ứng_dụng có phiên_bản miễn_phí , bản trả phí được lược bỏ quảng_cáo và thêm một_số tính_năng nâng cao .
+Đình_Nam

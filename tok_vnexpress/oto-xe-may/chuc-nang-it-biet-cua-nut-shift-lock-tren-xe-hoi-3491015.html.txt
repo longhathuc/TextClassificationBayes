@@ -1,0 +1,10 @@
+Chức_năng ít biết của nút ' Shift_Lock ' trên xe_hơi
+Shift_Lock là chức_năng giúp tài_xế có_thể di_chuyển cần số trong trường_hợp xe hết điện hay vì trục_trặc nào_đó không_thể gạt theo cách thông_thường .
+Khi xe không nổ mát , cần số sẽ bị khóa không_thể di_chuyển .
+Nút_Shift_Lock trên khu cần số ôtô có chức_năng mở khóa giúp sang số .
+Nếu gặp trường_hợp xe hết ắc - quy , chết máy giữa đường thì_phải làm thế_nào để chuyền cần số về N để đẩy hoặc kéo xe đi ?
+Lúc này Shift_Lock phát_huy tác_dụng .
+Trên một_số xe làm nút này nhô cao , tài_xế ấn giữ vào đó để di_chuyển cần số .
+Nhưng trên xe khác nút này lại bị ẩn , chỉ có một nắp nhỏ như trên hình_vẽ .
+Lúc đó cần sử_dụng vật mỏng , cứng gỡ nắp đậy ra , sau đó gạt lẫy nhỏ phía trong để di_chuyển cần số .
+Dưới đây là cách sử_dụng chức_năng này trên một_số xe :

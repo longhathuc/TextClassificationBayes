@@ -1,0 +1,15 @@
+iPhone 7 có_thể nhận lệnh không cần chạm
+Apple có_thể sẽ đưa công_nghệ 3D Touch lên một tầm mới , tức cho_phép mọi người dùng tay để ra_lệnh cho i Phone 7 mà không cần chạm vào màn_hình .
+Apple đã nộp đơn đăng_ký bằng_sáng_chế cho công_nghệ nhận_diện cảm_biến đa chạm và tiệm_cận , hỗ_trợ người dùng lướt tay phía trên màn_hình để điều_khiển i Phone .
+Phát_minh này khai_thác cảm_biến tiệm_cận đã tích_hợp sẵn trên i Phone cũng_như bổ_sung thêm cảm_biến nhận_diện cử_động của tay .
+Người dùng có_thể vẫy tay để giảm độ sáng , tắt màn_hình , chuyển_đổi ứng_dụng ...
+Ngoài màn_hình cảm_ứng trên i Phone và i Pad , tính_năng này có_thể mở_rộng cho bàn cảm_ứng của máy Mac .
+Phát_minh của Apple trong tương_lai cũng có_thể được triển_khai trên các hệ_thống như máy ATM , quầy thu_ngân , máy chơi game ...
+Phát_minh của Apple có_thể được ứng_dụng trên điện_thoại ...
+... và trên bàn cảm_ứng , bàn_phím của máy Mac .
+Dù điều_khiển bằng tay từ xa chưa có_mặt trên i Phone , một tính_năng tương_tự đã xuất_hiện trên máy .
+Đó là Switch_Control , cho_phép người dùng i Phone điều_khiển thiết_bị bằng cách nghiêng đầu sang trái hay sang phải thông_qua camera trước .
+Để kích_hoạt tính_năng này , truy_cập Settings > General > Accessibility > Switch_Control và bấm On tại mục Switch_Control .   Để gán tác_vụ , bấm chọn Switches > Add_New_Switch .   Trong mục Source chọn Camera .
+Người dùng sẽ có hai tùy chọn gán khi nghiêng đầu sang trái hay sang phải .
+Tiếp_theo , thiết_bị sẽ hỏi thực_thi hành_động nào khi nghiêng đầu , như chuyển_tiếp bài hát hay ảnh , mở đa_nhiệm …
+Châu_An

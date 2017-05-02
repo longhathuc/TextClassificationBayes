@@ -1,0 +1,23 @@
+Đáp_án bài_toán ' phá két sắt '
+Khoảng 90% bạn_đọc cho kết_quả là 15 , rất tiếc không chính_xác .
+Đáp_án bài IQ này là 19 .
+Đề_bài :
+Mật_mã của két sắt đựng tiền là dãy số có quy_luật , mỗi số xuất_hiện trong một viên bi .
+Các số xuất_hiện trong 9 viên bi lần_lượt là 1 ; 1 ; 2 ; 3 ; 6 ; 7 ; 10 ; 11 ; 14 , còn viên bi cuối_cùng chưa biết “ ? ” .
+Bạn hãy xác_định quy_luật dãy số và cho_biết số cuối_cùng là số nào .
+Bình_luận và lời_giải :
+Khoảng 90% bạn_đọc cho kết_quả là 15 dựa trên nhận_xét :
+“ Trừ 2 số đầu_tiên là 1 , 1 ; bắt_đầu_từ số 2 , 3 ta có quy_luật sau đây :
+2 + 4 = 6 ; 3 + 4 = 7 ; 6 + 4 = 10 ; 7 + 4 = 11 ; 10 + 4 = 14 , vậy 11 + 4 = 15 ”
+Rất tiếc là đáp_số này không đúng .
+Một bài_toán IQ nói_chung và quy_luật dãy số nói_riêng trở_nên thú_vị nếu tạo ra một quy_luật đánh lạc hướng suy_nghĩ của bạn_đọc .
+Việc sai_sót của bạn_đọc là quy_luật mà các bạn đưa ra nêu ở trên với đáp_số 15 không phổ_quát cho toàn_bộ dãy số khi đã loại_bỏ 2 số đầu_tiên là 1 , 1 .
+Một số_ít bạn đưa ra đáp_số là 19 thì sẽ là tuyệt_vời nếu bạn tìm được đáp_số này trong thời_gian dưới 10 phút .
+Vì với các bài_toán IQ chúng_ta chỉ nên làm tối_đa trong 10 phút và đưa ra đáp_số .
+Đúng thì càng tốt và sai thì mình sẽ chờ đáp_án để rút kinh_nghiệm .
+Không nên đầu_tư quá lâu cho một bài_toán IQ vì còn có nhiều thứ hấp_dẫn hơn trong cuộc_sống .
+Bài_toán này được dựa trên mối quan_hệ giữa số_nguyên_tố và số thứ_tự của nó .
+Ta xét bảng sau :
+Từ bảng_số này ta thấy số cần tìm là P ( 10 ) – 10 = 29 – 10 = 19 .
+Đáp_án : 19
+Trần_Phương

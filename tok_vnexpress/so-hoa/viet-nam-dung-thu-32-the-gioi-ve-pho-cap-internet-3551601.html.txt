@@ -1,0 +1,16 @@
+Việt_Nam đứng thứ 32 thế_giới về phổ_cập Internet
+Việt_Nam được xếp_hạng thứ 32 trên 75 nước mà Economist khảo_sát về giá_cả so với thu_nhập , độ sẵn_sàng , độ phổ_biến của Internet .
+Hai_mươi năm qua , Intenet đã làm thay_đổi cuộc_sống của con_người , nhưng vẫn có đến hơn nửa dân_số thế_giới chưa tiếp_cận công_cụ hiện_đại này .
+Thậm_chí , ở một_số nước phát_triển , vẫn có khoảng 1/5 dân_số sống trong cảnh " offline " , do không đủ điều_kiện hoặc không có nhu_cầu , không thấy được giá_trị mà Internet đem lại .
+Bảng xếp_hạng Inclusive_Internet_Index của Economist được thực_hiện tại 75 nước xét trên nhiều khía_cạnh khác_nhau .
+Chỉ_số thể_hiện rõ nhất_là độ phổ_cập ( Availability ) của Internet , bao_gồm chất_lượng và sự phổ_biến của cơ_sở_hạ_tầng cần_thiết cho việc truy_cập Internet .
+Bên_cạnh đó , còn những yếu_tố khác được xem_xét như giá cước so với thu_nhập ( Affordability ) , sự tương_ứng của thông_tin ( Relevance ) - đo sự tồn_tại và phổ_biến của các nội_dung bằng ngôn_ngữ địa_phương , độ sẵn_sàng ( Readiness ) - xét đến kỹ_năng , sự giáo_dục , chuẩn_bị sẵn_sàng cho việc sử_dụng Internet , các chính_sách hỗ_trợ ...
+Việt_Nam đứng thứ 32 trong tổng_số 75 nước trong bảng xếp_hạng và ở khoảng giữa so với các nước châu Á khác .
+Về độ phổ_cập , Việt_Nam nằm ở vị_trí 40 nếu khi xét đến tỷ_lệ người dùng Internet trên tổng_số dân , chất_lượng dịch_vụ , cơ_sở_hạ_tầng ( nguồn điện , các điểm truy_cập Internet , kết_nối di_động ) ...
+Việt_Nam gây ấn_tượng mạnh ở hạng_mục   Relevance khi đứng thứ 18/75 nhờ sự phong_phú của nội_dung địa_phương như tin_tức , thông_tin   tài_chính , sức_khỏe , giải_trí , kinh_doanh ... bằng ngôn_ngữ địa_phương .
+Giá cước Internet của Việt_Nam nằm ở mức trung_bình .
+Tuy_nhiên , chỉ_số Readiness của Việt_Nam tương_đối thấp ( xếp thứ 42 ) do không được đánh_giá cao về sự chuẩn_bị sẵn_sàng cho việc sử_dụng Internet , chưa có đủ kỹ_năng và các biện_pháp an_toàn khi truy_cập Internet ...
+Quốc_gia đứng đầu trong bảng xếp_hạng là Singapore , nhưng nước được chấm điểm_cao nhất về sự phù_hợp của giá_cả so với thu_nhập là Canada , trong khi Malaysia gây bất_ngờ khi đứng đầu về độ sẵn_sàng .
+Những nước đứng đầu về chỉ_số Internet
+Những nước " đội_sổ " về chỉ_số Internet
+Trước đó , Akamai_Technologies , hãng quản_lý lưu_lượng Internet và các dịch_vụ điện_toán đám mây , công_bố Việt_Nam xếp_hạng thứ 95 về tốc_độ truy_cập Internet .

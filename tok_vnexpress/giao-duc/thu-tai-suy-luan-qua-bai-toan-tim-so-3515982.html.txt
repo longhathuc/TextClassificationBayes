@@ -1,0 +1,3 @@
+Thử tài suy_luận qua bài_toán tìm số
+Cần hơn một quy_luật để điền được số thích_hợp vào hai dấu_hỏi chấm .
+Bạn có_thể tìm ra những quy_luật đó ?

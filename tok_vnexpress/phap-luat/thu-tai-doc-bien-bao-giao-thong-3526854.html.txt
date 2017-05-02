@@ -1,0 +1,7 @@
+Thử tài đọc biển_báo giao_thông
+Bạn có nắm rõ nội_dung biển_báo giao_thông đường_bộ ?
+Hãy kiểm_tra kiến_thức qua những biển sau .
+Câu 1 : Biển này chỉ_dẫn gì ?
+a . Báo_hiệu hết đoạn đường_cao_tốc .
+b . Báo_hiệu hết đoạn đường_được ưu_tiên .
+c . Báo_hiệu hết đường_đôi .

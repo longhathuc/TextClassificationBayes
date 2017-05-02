@@ -1,0 +1,12 @@
+Đáp_án bài_toán ' chú kiến ' thử_thách tốc_độ tư_duy
+Chỉ cần quan_sát kỹ hình_vẽ , bạn có_thể ngay_lập_tức tìm ra câu trả_lời cho bài_toán nằm trong đề thi quốc_tế Kangaroo dành cho học_sinh lớp 7-8 này .
+Cho hình_lập_phương có cạnh bằng 12 cm .
+Chú kiến bò trên mặt của hình_lập_phương từ điểm A đến điểm B theo lộ_trình như hình_vẽ .
+Hãy tìm độ dài quãng đường mà chú kiến đã đi ?
+Đáp_án : 60 cm .
+Ta kí_hiệu các điểm để dễ mô_tả đường   đi của chú kiến là ACDEFGB .
+Chiều dài của đường đi sẽ là tổng của các đoạn_thẳng AC , CD , DE , EF , FG và GB .
+Do AC , DE , FG , GB là các cạnh của lập_phương nên AC = DE = FG = GB = 12 cm .
+Để_ý rằng CD + EF = AF = 12 cm .
+Vậy chiều dài đường mà chú kiến đã đi là : AC + CD + EF + DE + FG + GB = 12 x 5 = 60 cm .
+Trần_Phương

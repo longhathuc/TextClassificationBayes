@@ -1,0 +1,12 @@
+Smartwatch chạy Android_Wear cũ không được cập_nhật bản 2.0
+Thế_hệ smartwatch chạy Android_Wear đầu_tiên có_thể sẽ không được cập_nhật phiên_bản 2.0 mới nhất do sự " lơ_là " từ các OEM ( nhà_sản_xuất thiết_bị gốc ) .
+Các nhà_sản_xuất smartwatch chạy Android_Wear cũ không có ý_định nâng_cấp phiên_bản mới cho thiết_bị của mình .
+Google hiện vẫn chưa đưa ra thông_báo nào về Android_Wear phiên_bản tiếp_theo , dù nền_tảng cho đồng_hồ thông_minh này được đồn_đại sẽ ra_mắt cuối năm 2016 .
+Thế_nhưng , rất nhiều OEM có_vẻ không " mặn_mà " lắm để nâng_cấp cho các thiết_bị cũ .
+Trong một tweet ngày 24/5 , LG_USA Mobile đã thông_báo sẽ không cập_nhật Wear 2.0 cho G_Watch .
+Motorola trong ngày 10/6 cũng đã đăng_tải trên Twitter đoạn trạng_thái cho_biết sẽ không cập_nhật phiên_bản mới cho Moto 360 thế_hệ đầu_tiên dù phần_cứng vẫn đáp_ứng yêu_cầu .
+Trong khi đó , một nguồn tin rò_rỉ cho thấy Samsung sẽ không tung ra một chiếc smartwatch nào chạy nền_tảng của Google nữa sau Gear_Live , bởi hệ_điều_hành Tizen do hãng phát_triển đã đủ mạnh_mẽ để đặt niềm_tin .
+LG và Motorola không có ý_định nâng_cấp Android_Wear 2.0 cho G_Watch và Moto 360 thế_hệ 1 .
+Theo Arstechnica , Android_Wear 2.0 là phiên_bản được Google nâng_cấp mạnh_mẽ , bổ_sung nhiều tính_năng mới để tối_ưu phần_cứng , như hỗ_trợ nhiều hơn các chuẩn kết_nối Wi-Fi , LTE , tăng_cường âm_thanh cho loa ...
+Đồng_thời , giao_diện của hệ_điều_hành cũng được thiết_kế lại , vấn_đề bảo_mật được chú_trọng hơn và nhiều tinh_chỉnh khác .
+Bảo_Lâm

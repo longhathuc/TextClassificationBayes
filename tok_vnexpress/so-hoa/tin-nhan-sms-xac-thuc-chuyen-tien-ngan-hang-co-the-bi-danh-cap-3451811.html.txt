@@ -1,0 +1,27 @@
+Tin nhắn SMS xác_thực chuyển_tiền ngân_hàng có_thể bị đánh_cắp
+Mã xác_thực SMS_OTP dùng trong các giao_dịch ngân_hàng có nguy_cơ bị chặn và đánh_cắp thông_tin bằng cách khai_thác lỗi của các hệ_thống viễn_thông .
+Năm_ngoái , nhóm nghiên_cứu của công_ty bảo_mật PT từ Mỹ đã khai_thác thành_công lỗ_hổng trong giao_thức báo_hiệu số 7 - SS7 ( Signaling_System # ) nhằm đánh chặn mã xác_thực một lần ( OTP ) , loại mã thường dùng để xác_thực tài_khoản hay các giao_dịch ngân_hàng .
+Thay_vì tăng_cường bảo_mật , hàng_rào OTP hoàn_toàn có_thể bị phá vỡ , giúp tin_tặc đánh_cắp tài_khoản Facebook , Twitter ... hoặc thực_hiện các lệnh chuyển_tiền .
+Đánh_cắp mã xác_thực OTP có_thể là một trong những cách để   đánh_cắp tiền trong giao_dịch ngân_hàng .
+Alex_Mathews , Giám_đốc kỹ_thuật của PT giải_thích : " Thực_tế không_thể chối_cãi là các nhà mạng tồn_tại lỗ_hổng SS7 và nó đã được chứng_minh bởi nhiều nhà_nghiên_cứu , không riêng chúng_tôi .
+Vấn_đề là cả ngành viễn_thông làm_ngơ với nó .
+Trong khi đó , nhiều dịch_vụ lại xây_dựng cơ_chế bảo_mật dựa trên hạ_tầng viễn_thông " .
+Đội_ngũ của Alex đã chứng_minh nghiên_cứu của mình bằng cách đánh_cắp tài_khoản Facebook .
+Đầu_tiên , họ gửi yêu_cầu lấy lại mật_khẩu và mạng xã_hội này đã gửi SMS đến số điện_thoại của nạn_nhân số OTP xác_thực .
+Bằng cách khai_thác SS7 , nhóm lấy_được dãy số bí_mật này và hoàn_tất việc đổi mật_khẩu , truy_cập thành_công vào tài_khoản Facebook .
+" Cách_thức mà chúng_tôi nêu trên có_thể dùng để thiết_lập lại tài_khoản của mọi dịch_vụ dùng xác_thực SMS_OTP .
+Nguy_hiểm hơn , mã OTP bị đánh_cắp có_thể gây tổn_hại cho hệ_thống tài_chính , ngân_hàng hay các dịch_vụ thanh_toán trực_tuyến .
+Vấn_đề trở_nên phức_tạp khi nhiều chuyên_gia bảo_mật lại vận_động người dùng kích_hoạt SMS_OTP như một hàng_rào bảo_vệ .
+Tuy_nhiên , chúng_tôi khuyến_cáo bạn không nên làm thế ! " , ông Alex nói .
+Tin nhắn SMS có_thể bị chặn bằng cách khai_thác lỗ_hổng SS7 tồn_tại trong nhiều hệ_thống viễn_thông .
+Đánh_giá về lỗ_hổng SS7 , chuyên_gia bảo_mật độc_lập Nguyễn_Hồng_Phúc cho rằng nó có_thể là một trong những kẽ hở để đánh_cắp tiền trong tài_khoản ngân_hàng .
+Thông_thường với các dịch_vụ Internet_Banking , người dùng sẽ có tên tài_khoản và mật_khẩu để đăng_nhập .
+Khi thực_hiện giao_dịch chuyển_tiền hay mua hàng , bạn phải thêm một bước xác_thực nữa , có_thể là nhập mã OTP được ngân_hàng gửi đến số điện_thoại đã đăng_ký thông_qua tin nhắn SMS .
+Như_vậy , nếu tin_tặc có thông_tin đăng_nhập và khai_thác lỗ_hổng SS7 thì hoàn_toàn có_thể đánh_cắp tiền trong tài_khoản ngân_hàng .
+Ông Phúc cũng nhấn_mạnh rằng đây chỉ là một trong những cách để hacker có được mã OTP của nạn_nhân .
+Trước đó , lỗ_hổng báo_hiệu số 7 đã được các chuyên_gia an_ninh thuộc Research_Labs ( Đức ) khai_thác và trình_diễn khả_năng hack vào chiếc điện_thoại của Nghị sỹ Ted_Lieu , một thành_viên Ủy_ban Giám_sát và Cải_cách Công_nghệ_thông_tin tại Mỹ .
+Nhóm truy_cập thành_công vào chiếc điện_thoại của vị đại_biểu quốc_hội Mỹ mà chỉ cần biết số điện_thoại của người này .
+" Dù là người_dân hay chính_khách , chọn điện_thoại nào , có cài_đặt mật_khẩu hay không , tải và cài_đặt ứng_dụng gì ... cũng không ảnh_hưởng đến việc tấn_công , bởi phương_thức này dựa trên mạng di_động " , chuyên_gia bảo_mật Karsten_Nohl   của Research_Labs   cho_biết .
+Lỗ_hổng trong báo_hiệu số 7 được biết đến từ năm 2015 và kiến_trúc báo_hiệu này được sử_dụng bởi hơn 800 công_ty viễn_thông trên toàn thế_giới .
+Chuyên_gia Nohl cho rằng lỗ_hổng SS7 thực_sự là bí_mật mở giữa các cơ_quan tình_báo trên thế_giới .
+Ông cũng lưu_ý rằng nó tồn_tại trong chính mạng di_động bởi_vậy theo Nohl , các điện_thoại đều giống nhau và không có chiếc nào an_toàn hơn so với chiếc nào cả .

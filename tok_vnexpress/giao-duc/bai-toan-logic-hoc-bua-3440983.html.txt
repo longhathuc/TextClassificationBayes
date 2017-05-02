@@ -1,0 +1,11 @@
+Bài_toán ' logic hóc_búa '
+Có n người bị tình_nghi một vụ ăn_cắp tài_khoản ngân_hàng .
+Những người này chỉ là kỹ_sư tin_học hoặc nhà quản_lý .
+Tuy_nhiên , hồ_sơ của họ đều đã bị hủy và không ai biết ai là ai , do_vậy cảnh_sát cần thẩm_vấn từng người .
+Điều_tra ban_đầu cho thấy chắc_chắn hung_thủ là người_quản_lý .
+Biết rằng các kỹ_sư tin_học luôn_luôn nói thật còn các nhà quản_lý thì không chắc như_vậy .
+Và hơn_nữa , n người này đều biết nghề_nghiệp thật_sự của nhau .
+Cảnh_sát cần đặt câu_hỏi để xác_định ai làm nghề gì và câu_hỏi chỉ có_thể ở dạng trả_lời có hoặc không , đúng hoặc sai …
+1 . Nếu_như số kỹ_sư tin_học nhiều hơn số nhà quản_lý ( trong n người ) , phải hỏi ít_nhất bao_nhiêu câu để tìm ra ít_nhất một kỹ_sư tin_học ?
+2 . Nếu số kỹ_sư ít hơn số nhà quản_lý , liệu có_thể tìm ra hung_thủ ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

@@ -1,0 +1,20 @@
+Trí_tuệ_nhân_tạo có khả_năng dự_đoán tương_lai
+Một nhóm nghiên_cứu đang phát_triển hệ_thống trí_tuệ_nhân_tạo mới có_thể tạo ra video dự_đoán diễn_biến tiếp_theo từ một hình_ảnh tĩnh ban_đầu .
+Carl_Vondrick , làm_việc tại Viện_Công nghệ Massachusetts , Mỹ và các đồng_nghiệp dự_kiến công_bố hệ_thống trí_tuệ_nhân_tạo ( AI ) có khả_năng dự_đoán diễn_biến sự_việc trong tương_lai gần tại hội_nghị tổ_chức ở Barcelona , Tây_Ban_Nha hôm 5/12 , theo New_Scientist .
+Nhóm nghiên_cứu phát_triển AI bằng cách cung_cấp cho nó hai triệu video , bao_gồm nhiều quang_cảnh như bãi_biển , sân golf , ga tàu hay trẻ_em trong bệnh_viện .
+Các video này không ghi nhãn , tức_là chúng không gắn kèm thông_tin để AI biết được nội_dung .
+Họ sau đó đưa cho hệ_thống những hình_ảnh tĩnh và để nó tự_tạo đoạn phim về diễn_biến tiếp_theo , chẳng_hạn với bức ảnh nhà_ga , nó có_thể tạo hiệu_ứng đoàn tàu đang chuyển_động .
+Việc dạy AI dự_đoán tương_lai có_thể giúp nó hiểu rõ hơn về hiện_tại , ví_dụ đối_với con_người , khi thấy một người đang nấu_ăn , chúng_ta có_thể dễ_dàng hình_dung cảnh họ dùng_bữa sau đó .
+Tuy_nhiên , điều này khá phức_tạp đối_với AI .
+Hệ_thống mới cũng giúp các AI làm trợ_lý có_thể nhận_biết khi một người sắp ngã hoặc giúp xe tự lái dự_đoán trước tai_nạn .
+" Tất_cả robot hoạt_động trong thế_giới con_người đều cần có kỹ_năng cơ_bản để dự_đoán tương_lai .
+Hãy tưởng_tượng khi bạn chuẩn_bị ngồi xuống , bạn sẽ không muốn con robot lấy mất chiếc ghế của mình " , Vondrick nói .
+Các video do AI tạo ra hiện_nay có độ_phân_giải thấp và chỉ kéo_dài hơn một giây .
+Tuy_nhiên , chúng rất thông_minh và dự_đoán chính_xác chuyển_động trong mỗi cảnh , chẳng_hạn đoàn tàu đi thẳng về phía trước hay đứa trẻ nhăn_nhó mặt .
+Vondrick đang cải_thiện hệ_thống để nó có_thể tạo ra video dài hơn .
+AI cũng còn nhiều thứ phải học , chẳng_hạn nó chưa nhận ra khi một con tàu rời trạm , đồng_nghĩa với việc nó sẽ dần biến_mất khỏi khung hình .
+Điều này là do AI không có kiến_thức thông_thường về quy_luật vận_động của thế_giới .
+Tất_cả dữ_liệu mà nó có là hai triệu video để tìm_hiểu về cách_thức hoạt_động của hành_tinh .
+" Đó không phải là con_số lớn so với một đứa trẻ 10 tuổi " , Vondrick nhận_xét .
+Xem thêm :   Trí_tuệ_nhân_tạo trở_thành ' cỗ máy ác_mộng ' dọa_dẫm con_người
+Hiền_Anh

@@ -1,0 +1,24 @@
+Cuộc_chiến giữa chính_phủ và các công_ty công_nghệ Mỹ
+Việc_Apple căng_thẳng với FBI đã nêu ra một vấn_đề : Việc đảm_bảo thông_tin khách_hàng đã làm_nên giá_trị thương_hiệu của các công_ty công_nghệ Mỹ nên không_thể tự " hack " một thiết_bị mình sản_xuất theo ý_muốn của chính_phủ .
+Mới_đây , Tòa_án Liên_bang Mỹ đã ra phán_quyết yêu_cầu Apple trợ_giúp FBI trong việc mở khóa i Phone của một kẻ khủng_bố đã giết liên_hoàn 14 người tại California hồi cuối năm_ngoái .
+Về phía mình , Apple tuyên_bố hãng sẽ kháng_cáo vì cho rằng quyết_định của tòa đã đe_dọa an_toàn thông_tin của khách_hàng .
+Sẽ cần ít_nhất vài tháng nữa vụ_việc mới ngã_ngũ và phần thắng nghiêng về bên nào , nhưng một thực_tế đã hiện rõ ở thời_điểm này : Chính_phủ và các công_ty công_nghệ Mỹ đang bước vào một cuộc_chiến cân_não ngày_càng khốc_liệt .
+Ngày 16/2 , Tim_Cook , CEO Apple , viết " tâm_thư " gửi khách_hàng rằng chính_phủ Mỹ đã yêu_cầu hãng làm một việc " nguy_hiểm , có_thể đe_dọa đến bảo_mật khách_hàng " nên họ đã từ_chối .
+Lý_giải cho động_thái đối_đầu với các cơ_quan lập_pháp của Apple , The_New_York_Times nhận_định , công_việc kinh_doanh của những đại_gia công_nghệ như Apple , Google và Facebook phụ_thuộc rất nhiều vào một lượng thông_tin cá_nhân khổng_lồ mà họ có từ khách_hàng .
+Nếu_Apple đồng_ý với yêu_cầu mở khóa i Phone từ chính_phủ Mỹ , trong tương_lai , hãng sẽ phải hành_động tương_tự khi nhận được yêu_cầu từ chính_phủ Trung_Quốc , Iran hay bất_cứ quốc_gia nào khác .
+Và nếu Apple buộc phải viết code để mở khóa chiếc i Phone 5C của kẻ khủng_bố , không điều gì có_thể đảm_bảo rằng kẻ xấu sẽ không lợi_dụng điều này vào những mục_đích phi_pháp .
+Các chuyên_gia luật đánh_giá , trong cuộc đối_đầu giữa chính_phủ Mỹ và các công_ty công_nghệ , tình_thế đã thay_đổi hoàn_toàn .
+Ở những năm 1990 khi chính_phủ Mỹ khởi_xướng những vụ_kiện xung_quanh công_nghệ mã_hóa , khi đó chỉ có vài doanh_nghiệp công_nghệ tham_gia vào lĩnh_vực này .
+Nhưng giờ_đây FBI nói_riêng và chính_quyền Mỹ nói_chung đang rơi vào tình_thế bất_lợi khi một_mình phải đối_đầu với những công_ty quyền_lực nhất thế_giới , với sức ảnh_hưởng và sự hẫu thuận trên quy_mô toàn_cầu .
+Còn về phía các công_ty công_nghệ , đảm_bảo an_toàn thông_tin cho khách_hàng đã làm_nên giá_trị thương_hiệu toàn_cầu của họ , vì_thế không_chỉ Apple , mà_cả Google , Facebook sẽ làm mọi cách để bảo_vệ và gìn_giữ giá_trị này .
+Một_vài chuyên_gia trong lĩnh_vực công_nghệ nhận_định , trong vụ_việc pháp_lý lần này giữa Apple và FBI , dù kẻ thắng người thua là ai , trong tương_lai , thương_hiệu " Quả táo cắn dở " chắc_chắn sẽ siết chặt những biện_pháp bảo_mật và rào_cản pháp_lý để đảm_bảo rằng chính_phủ không_thể can_thiệp vào công_việc kinh_doanh của họ một lần nữa .
+Điều này cũng phần_nào lý_giải tại_sao CEO Google , Sundar_Pichai đã lên_tiếng ủng_hộ quyết_định kháng_cáo của Tim_Cook .
+Nếu_Apple đồng_ý làm theo yêu_cầu của tòa_án , tức_là tự " hack " chính thiết_bị mà mình sản_xuất , nó sẽ tạo ra một tiền_lệ chưa từng có .
+Các nhà lập_pháp Mỹ sẽ dựa vào tiền_lệ này để tiếp_tục đưa ra những yêu_cầu tương_tự trong tương_lai với các doanh_nghiệp công_nghệ , trong một cố_gắng mà họ gọi_là để “ bảo_vệ an_ninh quốc_gia ” .
+Nếu điều này thành sự_thật , các công_ty công_nghệ không còn cách nào khác là phải tuân theo yêu_cầu của chính_phủ , bằng_không danh_tiếng của họ sẽ bị hủy_hoại nặng_nề .
+Tuy_vậy , nhiều chuyên_gia trong ngành vẫn đánh_giá Apple sẽ có những nước cờ khôn_ngoan trong tương_lai để tránh viễn_cảnh tồi_tệ đó xảy_ra .
+Không thiết_bị nào an_toàn 100% trước các hacker .
+Tuy_nhiên , nếu trong tương_lai , Apple phát_triển những biện_pháp bảo_mật khiến cho chính bản_thân hãng cũng không_thể hack được i Phone mình sản_xuất , thì mọi yêu_cầu từ phía chính_phủ sẽ trở_nên vô_dụng .
+Điều này có_nghĩa , FBI có_thể thắng trong vụ_kiện lần này .
+Nhưng về dài_hạn , họ vẫn là kẻ thua cuộc .
+Nguyễn_Mai_Đức

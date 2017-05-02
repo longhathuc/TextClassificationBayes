@@ -1,0 +1,8 @@
+Twitter gặp lỗi , làm lộ gần 10.000 số điện_thoại và e - mail
+Hệ_thống khôi_phục mật_khẩu của Twitter đã gặp lỗi trong vòng 24 tiếng và ảnh_hưởng tới gần 10.000 tài_khoản của các thành_viên .
+Ngày 17/2 , Twitter đăng thông_tin trên trang_web của công_ty về lỗi có nguy_cơ làm lộ hàng nghìn số điện_thoại và địa_chỉ e - mail đăng_nhập của người dùng .
+Sau khi vá lỗ_hổng , Twitter đã gửi thông_báo tới tất_cả những tài_khoản bị ảnh_hưởng , do_đó những người dùng không nhận được tin nhắn có_nghĩa thông_tin tài_khoản của họ vẫn an_toàn .
+Ảnh : WorldBank/Flickr .
+Lỗi này chỉ tác_động đến một phần nhỏ trong số hơn 300 triệu thành_viên và không làm lộ mật_khẩu đăng_nhập .
+Tuy_nhiên , Twitter vẫn khuyến_cáo mọi người nên có những hành_động cụ_thể để bảo_vệ tài_khoản của mình như sử_dụng mật_khẩu đủ mạnh ( dài và chứa các ký_tự khác_nhau như chữ thường , chữ hoa , số ) , áp_dụng cơ_chế bảo_mật hai lớp ...
+Minh_Minh

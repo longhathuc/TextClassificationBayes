@@ -1,0 +1,11 @@
+Giao hàng tận nhà bằng thiết_bị bay không người lái
+Chiếc drone có_thể tự bay đi giao hàng cho một địa_chỉ và quay trở_về khi xe chở bưu_kiện vẫn tiếp_tục giao hàng tới một địa_điểm khác .
+Hãng vận_chuyển UPS của Mỹ mới_đây đã thử_nghiệm thành_công thiết_bị bay không người lái ( drone ) chở hàng cất_cánh từ nóc một chiếc xe chở bưu_kiện .
+Điểm đặc_biệt là chiếc drone tự_động đi giao hàng và quay trở_lại xe chở bưu_kiện khi chiếc xe đã tiếp_tục hành_trình tới một địa_điểm khác .
+Để phục_vụ thử_nghiệm của UPS , Workhorse - một công_ty tại Ohio ( Mỹ ) đã chế_tạo riêng một chiếc máy_bay_không_người_lái và một chiếc xe chở bưu_kiện chạy bằng điện .
+Trong đoạn video quay quá_trình thử_nghiệm , nhân_viên của UPS đưa món đồ cần chuyển vào lồng chứa của drone .
+Sau đó , người này chọn địa_chỉ với hình_ảnh trực_quan từ vệ_tinh để xác_nhận nơi cần gửi hàng .
+Trong khi drone đi giao hàng , nhân_viên của UPS tiết_kiệm thời_gian bằng cách vẫn đi giao hàng tới một địa_chỉ khác .
+Chiếc drone nhờ kết_nối định_vị GPS tự_động tìm và đi đến đúng vị_trí mới của chiếc xe .
+Chiếc drone cất_cánh từ nóc xe chở bưu_kiện .
+Bưu_phẩm cần gửi được đặt trong lồng chứa bên dưới .

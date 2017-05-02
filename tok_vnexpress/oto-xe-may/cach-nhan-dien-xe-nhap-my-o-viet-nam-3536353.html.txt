@@ -1,0 +1,30 @@
+Cách nhận_diện xe nhập Mỹ ở Việt_Nam
+Mỹ là quốc_gia không theo một_số quy_chuẩn quốc_tế chung .
+Bởi_thế , những mẫu xe sản_xuất tại nơi đây có những đặc_điểm rất riêng , mang nhiều tính bản_sắc .
+Số VIN ( Vehicle_Identification_Number ) được coi là " chứng_minh_thư " của một chiếc xe .
+Dãy ký_tự gồm 17 chữ_số cho_biết rất nhiều thông_tin về động_cơ , lịch_sử , sửa_chữa và cả nơi xuất_xưởng .
+Xe sản_xuất tại Mỹ có ký_tự đầu_tiên là 1 , 4 hoặc 5 .
+Ví_dụ như trong hình là số VIN của một chiếc Chevrolet_Camaro được sản_xuất tại bang Michigan , Hoa_Kỳ .
+Mỹ là quốc_gia không ký vào Hiệp_định thống_nhất các quy_định kỹ_thuật cho phương_tiện có bánh_xe của Liên_Hợp_Quốc .
+Mà trong đó có sự tham_gia của nhiều nước sở_hữu nền công_nghiệp 4 bánh phát_triển như Anh , Đức , Pháp , Nhật_Bản , Hàn_Quốc , ...
+Bởi_thế , Mỹ có một_số quy_chuẩn riêng_biệt .
+Dải đèn màu vàng phía bên là một trong những ví_dụ điển_hình nhất .
+Tùy theo nhà_sản_xuất và thẩm_mỹ mà chúng được đặt vào đèn_pha hoặc cạnh bên hốc bánh trước .
+Tác_dụng của dải đèn này giúp chiếc xe dễ nhận_diện khi nhìn từ hai bên .
+Và hơn_nữa giúp tài_xế khác phân_biệt từ xa đâu là phía trước , đâu là phía sau xe , ngay cả lúc xe không hoạt_động .
+Đồng_hồ của xe Mỹ luôn hiển_thị theo hệ mph ( miles per hour ) , tức dặm / giờ .
+Tuy_nhiên , sự phổ_biến của hệ km / h khiến một_số mẫu xe sản_xuất tại Mỹ phải thay_đổi .
+Đồng_hồ hiển_thị cả 2 hệ mph và km / h .
+Lý_do bắt_nguồn từ lịch_sử khi người Anh mang hệ đo_lường của họ lên đất Mỹ .
+Sau_này hệ đo_lường quốc_tế ra_đời , viết tắt là SI ( theo tiếng Pháp là Système_International d ' unités ) quy_định dùng chung hệ km / h để đo_lường vận_tốc .
+Anh thống_nhất theo quy_chuẩn mới , còn Mỹ thì không .
+Tuy_nhiên , ôtô sản_xuất tại 2 quốc_gia này vẫn dùng hệ mph đến ngày_nay .
+Đèn xi - nhan phía sau màu vàng là quy_chuẩn bắt_buộc trên ôtô .
+Tuy_nhiên , ở Mỹ , một_số mẫu xe lại sử_dụng loại đèn xi - nhan phía sau màu đỏ .
+Ví_dụ Lincoln MKT , Infiniti QX60 , Chevrolet_Camaro hay Ford_Mustang , ...
+Các cơ_quan an_toàn tại Mỹ khẳng_định không có bất_cứ chứng_minh nào cho thấy đèn màu đỏ hay đèn màu vàng an_toàn hơn , mặc_dù một cuộc nghiên_cứu năm 1960 đã khẳng_định , đèn màu vàng dễ_dàng phát_hiện nhanh_chóng hơn đèn màu đỏ .
+Rất nhiều mẫu xe ở Mỹ có điểm chung là bị bỏ đi nút bấm gập gương , dù có_thể chỉnh điện 4 hướng như thông_thường .
+Theo lý_giải , gương là trang_bị an_toàn không_thể thiếu khi lái_xe .
+Bởi_thế , các nhà_sản_xuất ở Mỹ bỏ đi tính_năng gập gương bằng điện nhằm tránh tình_huống cái tài_xế lơ_đãng quên không mở trở_lại .
+Tuy_nhiên , đây không phải yêu_cầu bắt_buộc , vẫn có nhiều mẫu xe sản_xuất tại Mỹ có nút bấm gập gương , một tính_năng quá quen_thuộc ở các thị_trường khác .
+Thế_Anh

@@ -1,0 +1,15 @@
+Sửa cáp_quang biển AAG mất hơn nửa tháng
+Dự_kiến tuyến cáp_quang AAG sẽ khắc_phục xong và hoạt_động bình_thường trở_lại vào ngày 29/1 ( 2 Tết ) , sau hơn 20 ngày kể từ khi gặp sự_cố .
+Ngày 8/1 , cáp_quang biển quốc_tế Asia_America_Gateway - AAG gặp sự_cố gây mất toàn_bộ băng_thông Internet từ Việt_Nam đi hướng Hong_Kong , Singapore và Mỹ .
+Đây là lần đầu_tiên trong năm 2017 tuyến này gặp trục_trặc và nguyên_nhân do rò điện nguồn .
+Cáp_quang biển AAG dự_kiến sửa xong vào ngày 29/1 .
+Theo thông_tin được đơn_vị điều_hành AAG gửi đến các nhà_cung_cấp dịch_vụ Internet ( ISP ) tại Việt_Nam ,   vị_trí lỗi trên tuyến được xác_định cách trạm cập bờ Vũng_Tàu khoảng 98 km .
+Dự_kiến ngày 23/1 , tàu sửa cáp sẽ tiếp_cận vị_trí gặp sự_cố , sớm hơn 4 ngày so với ước_tính ban_đầu .
+Theo lịch_trình mới , mối hàn khắc_phục đầu_tiên sẽ được thực_hiện vào ngày 25/1 ( 28 Tết ) , trong khi đó mối hàn cuối_cùng dự_kiến xong vào ngày 28/1 .
+Đến ngày 29/1 , toàn tuyến sẽ hoạt_động bình_thường trở_lại .
+Như_vậy với kế_hoạch này , tuyến cáp AAG sẽ mất hơn nửa tháng để khắc_phục xong .
+Hệ_thống cáp_quang biển khác cũng gặp sự_cố liên_tiếp trong đợt này là tuyến Liên Á ( IA ) .
+Hôm 10/1 , IA được xác_định bị lỗi và đã sửa xong .
+Đến chiều 11/1 , tuyến này tiếp_tục trục_trặc do sụt nguồn tại phía Singapore , làm giảm dung_lượng kết_nối quốc_tế của nhà_cung_cấp trong nước đi hướng Hong_Kong , Singapore và Mỹ .
+Những sự_cố cáp_quang nối_tiếp nhau khiến nhiều người dùng tại Việt_Nam không_thể vào các dịch_vụ phổ_biến như Facebook , YouTube hay Google .
+Hầu_hết khách_hàng đều phải chuyển qua sử_dụng kết_nối 3G/4G nhưng tốc_độ cũng khá chậm .

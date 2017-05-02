@@ -1,0 +1,12 @@
+Bài_toán hay trong cuộc_thi Toán đồng_đội
+Purple_Comet_Math_Meet là một cuộc_thi toán đồng_đội online , miễn_phí , được tổ_chức hàng năm vào dịp tháng 4 .
+Cuộc_thi do GS Titu_Andreescu sáng_lập và điều_hành từ năm 2003 .
+Đề thi có 2 cấp_độ là THCS với 20 câu_hỏi làm trong 60 phút và THPT với 30 câu_hỏi làm trong 90 phút .
+Đáp_số các bài_toán luôn là số_nguyên dương từ 1 đến 1.000 .
+Dưới đây xin giới_thiệu một bài_toán trong đề thi Purple_Comet 2016 dành cho học_sinh phổ_thông .
+16 điểm được xếp vào lưới 4x4 như hình_vẽ .
+Khoảng_cách giữa hai điểm là số bước_đi ít_nhất theo chiều ngang và chiều dọc theo các đường lưới để đi từ điểm này đến điểm kia .
+Ví_dụ hai điểm cạnh nhau có khoảng_cách 1 còn hai điểm ở hai góc đối nhau của lưới có khoảng_cách 6 .
+Gọi khoảng_cách trung_bình giữa hai điểm khác_nhau của lưới là m / n với m , n là các số_nguyên dương nguyên_tố cùng nhau .
+Hãy tìm m + n .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

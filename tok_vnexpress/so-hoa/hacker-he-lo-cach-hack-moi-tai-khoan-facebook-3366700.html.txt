@@ -1,0 +1,16 @@
+Hacker hé lộ cách hack mọi tài_khoản Facebook
+Lỗ_hổng trên mạng xã_hội lớn nhất thế_giới cho_phép người dùng có_thể lấy mật_khẩu của bất_kỳ tài_khoản nào .
+Hiện lỗi này đã được vá .
+Hacker người Ấn Độ   Anand_Prakash đã tìm ra một lỗ_hổng tưởng_chừng khá đơn_giản nhưng lại tồn_tại trên một hệ_thống tầm_cỡ như Facebook .
+Với cách của ông , bất_kỳ ai đều có_thể đánh_cắp tài_khoản của người khác mà không cần những kiến_thức chuyên_sâu về công_nghệ_thông_tin .
+Trang_Reset_Password của Facebook .
+Anand_Prakash sử_dụng cơ_chế lấy lại mật_khẩu ( Reset_Password ) trên Facebook và thông_thường khi có yêu_cầu này , mạng xã_hội sẽ trả về email hay số điện_thoại của chủ_tài_khoản chuỗi 6 chữ_số .
+Do không có đoạn mã này , ông đã tiến_hành " brute force " - thử lần_lượt từng số bằng phần_mềm tự_động .
+Dĩ_nhiên , Facebook thừa giỏi để đặt ra giới_hạn số lần thử sai .
+Song trên trang beta . facebook.com và mbasic . facebook.com thì hãng lại " quên " thiết_lập và cho_phép tin_tặc có_thể thử bao_nhiêu lần tùy_ý .
+Với việc khai_thác thành_công hổng này ,   Anand_Prakash đã lấy_được mật_khẩu và có_thể đăng_nhập vào tài_khoản Facebook bất_kỳ mà không cần biết mật_khẩu cũ .
+Thông_báo thưởng 15.000 USD từ Facebook cho phát_hiện của Anand .
+Kẽ hở trong hệ_thống của mạng xã_hội lớn nhất thế_giới được phát_hiện trong tháng hai và ông đã báo cho Facebook biết .
+Đáp lại , Facebook mới_đây thưởng cho   Anand_Prakash số tiền 15.000 USD nhờ phát_hiện lỗi và dĩ_nhiên lỗ_hổng này đã được vá trước khi công_bố .
+Video quá_trình hack tài_khoản Faceobok
+Đình_Nam

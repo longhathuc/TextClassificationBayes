@@ -1,0 +1,12 @@
+Hacker chỉ mất 6 giây để lấy thông_tin thẻ_tín_dụng
+Thông_tin trên thẻ_tín_dụng của người dùng có_thể dễ_dàng bị đánh_cắp trực_tuyến , dẫn đến những vụ tấn_công lớn , như khiến ngân_hàng Tesco_Bank mất 3 triệu USD hồi tháng 11 .
+Nghiên_cứu của các chuyên_gia tại Đại_học   Newcastle ( Anh ) chỉ ra rằng kẻ xấu chỉ cần 6 giây là đã có_thể nắm trong tay những gì cần_thiết trên thẻ_tín_dụng để thực_hiện các giao_dịch online .
+Đáng lo_ngại , điều này không đòi_hỏi những kỹ_thuật hack cao_siêu mà chỉ cần một laptop với kết_nối Internet và vài công_cụ đoán dữ_liệu cơ_bản .   Các
+website thường đòi_hỏi nhập thông_tin khác_nhau , chẳng_hạn có trang yêu_cầu điền số thẻ và ngày hết hạn , có trang lại đòi_hỏi số thẻ và số CVV ( chứa ba số , nằm phía sau thẻ ) , hoặc địa_chỉ của người dùng ...
+Các nhà_nghiên_cứu nhập các dữ_liệu khác_nhau trên các website thanh_toán khác_nhau , từ đó dễ_dàng lần ra những thông_tin trùng nhau và bổ_sung dữ_liệu còn thiếu .
+Từ đó , hacker   sẽ rất dễ tìm_kiếm những thông_tin trùng nhau và bổ_sung thông_tin còn thiếu chỉ với vài bước đơn_giản .   Đa_số thẻ có_hạn sử_dụng 60 tháng , có_nghĩa sau khi nhập số thẻ , hacker chỉ cần thử tối_đa 60 lần nhập vào trường " Ngày hết hạn " .   Số
+CVV khó tìm hơn , nhưng với tin_tặc thì không gì là không_thể .
+Họ sẽ dùng thuật_toán để đoán khoảng 1.000 lần ( số CVV chứa 3 chữ_số ) .
+Nhóm nghiên_cứu đã   dùng một bot để nhập số thẻ của họ trên hàng_loạt dịch_vụ thanh_toán trực_tuyến khác_nhau với thời_gian hết hạn khác_nhau .
+Có trường_hợp , công_cụ mới thử 10 lần đã thành_công , như trong video dưới đây :
+Tiến_sĩ   Martin_Emms , nằm trong nhóm nghiên_cứu , cho rằng không có cách nào bảo_vệ người dùng khỏi những vụ tấn_công như_thế_này mà chỉ có_thể triển_khai các bước để hạn_chế rủi_ro , như chỉ chọn sử_dụng duy_nhất một thẻ cho tất_cả các giao_dịch trực_tuyến , còn nếu_không chỉ có cách giấu tiền dưới chiếu thì mới không bị hack .

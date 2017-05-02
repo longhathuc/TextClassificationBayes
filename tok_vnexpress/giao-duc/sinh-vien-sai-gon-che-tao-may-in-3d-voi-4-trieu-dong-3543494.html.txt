@@ -1,0 +1,21 @@
+Sinh_viên Sài_Gòn chế_tạo máy_in 3D với 4 triệu đồng
+6 nam_sinh Đại_học Bách_khoa TP_HCM chế_tạo thành_công máy_in 3D với chi_phí vật_liệu chỉ 4 triệu đồng với mong_muốn sản_phẩm sẽ được phổ_biến hơn .
+Cả trăm sinh_viên năm nhất tỏ ra thích_thú với chiếc máy_in 3D tại chương_trình Ngày hội kỹ_thuật 2017 của trường Đại_học Bách_khoa ( Đại_học Quốc_gia TP_HCM ) tổ_chức ngày 18/2 .
+Đây là sản_phẩm của 6 chàng sinh_viên năm tư , lớp Chế_tạo_máy ( khoa Cơ_khí ) .
+Công_nghệ in_ấn 3D là các lớp vật_liệu được chồng lên nhau và định_dạng dưới sự kiểm_soát của máy_tính , tạo ra các vật_thể , vốn đã phổ_biến trên thế_giới từ nhiều năm nay .
+" Giá các loại máy này trên thị_trường Việt_Nam lên tới vài chục_triệu nên không phải ai cũng có_thể tiếp_cận .
+Chúng_tôi muốn cải_tiến một chiếc máy_in 3D từ các vật_liệu đơn_giản hơn để giảm giá_thành " , Nguyễn_Hữu_Sang chia_sẻ về ý_tưởng của nhóm mình .
+Sang cho_biết , chiếc máy của nhóm là sản_phẩm của đề_tài nghiên_cứu khoa_học công_nghệ từ đầu năm_ngoái .
+Dưới sự hướng_dẫn của một giảng_viên trong khoa , nhóm đã lên mạng tìm_hiểu về công_nghệ in 3D mới nhất của thế_giới .
+Sau giai_đoạn thiết_kế , họ mất chừng 4 tháng để tìm_kiếm vật_liệu , lắp_ráp nhiều bộ_phận khó như thanh trượt , bộ truyền đai răng , bàn gia nhiệt và các mạch điều_khiển .
+Để tiết_kiệm chi_phí , nhiều chi_tiết máy được tận_dụng từ những đồ_dùng đơn_giản như ống nước , tấm kiếng ... cái nào không có sẽ đi mua .
+" Người sử_dụng chỉ cần thiết_kế sản_phẩm 3D bằng nhiều phần_mềm khác_nhau , miễn sau xuất ra file định_dạng . stl , lưu vào thẻ nhớ để đưa dữ_liệu vào máy , tiến_hành in " , Sang hướng_dẫn .
+Hiện , máy_in 3D của nhóm Sang được áp_dụng với nguyên_liệu là sợi PLA cho ra sản_phẩm nhựa .   Thời_gian để tạo ra một_số đồ_vật đơn_giản như bộ xương_cá mất khoảng 40 phút , trong khi những mô_hình phức_tạp hơn như con hươu_cao_cổ , bông hoa sen mất khoảng vài giờ .
+Sang tự_tin tính khả_thi của sản_phẩm khi được nhân rộng đến nhiều người có nhu_cầu .
+" Sản_phẩm của chúng_tôi sẽ có giá_thành rẻ hơn vì vật_liệu đầu_vào chỉ mất khoảng 4 triệu đồng .
+Tốc_độ in và độ tinh_xảo của sản_phẩm tuy còn hạn_chế so với sản_phẩm ngoài thị trương nhưng nhóm chúng_tôi khắc_phục được " , Sang nói và cho_biết máy_in 3D rất hữu_dụng cho các trường giảng_dạy ngành y ( làm mô_hình bộ_phận con_người ) , giáo_dục ( làm mô_hình đồ_vật ) ...
+Ngày hội kỹ_thuật được Đại_học Bách_khoa TP_HCM tổ_chức hằng năm , chủ_yếu dành cho sinh_viên năm nhất , trưng_bày các sản_phẩm của tất_cả các nhóm ở khoa sau khi học xong môn Nhập_môn Kỹ_thuật .
+Nhiều sáng_chế từ các sinh_viên năm nhất được đánh_giá cao về ý_tưởng và tính ứng_dụng như Thiết_bị cảnh_báo nhiệt và cảnh_báo sốt ở trẻ_em , Xe_đạp lọc nước , Sản_xuất xà_phòng từ dầu thải nhà_bếp , Phao cho xe_máy ...
+" Sân_chơi muốn giúp sinh_viên thực_hành kiến_thức được học , rèn_luyện phương_pháp tư_duy và kỹ_năng giải_quyết vấn_đề .
+Sự sáng_tạo này sẽ tạo cảm_hứng đam_mê nghề_nghiệp để các em sẵn_sàng trở_thành một kỹ_sư giỏi trong tương_lai " , GS.TS Vũ_Đình_Thành , Hiệu_trưởng trường , chia_sẻ .
+Mạnh_Tùng

@@ -1,0 +1,21 @@
+Khách_hàng Vietcombank sẽ đăng_ký Smart OTP tại quầy
+Việc kích_hoạt dịch_vụ Smart OTP phải thực_hiện tại quầy , thay_vì hình_thức trực_tuyến như trước .
+Riêng các khách_hàng đang sử_dụng dịch_vụ Smart OTP trên thiết_bị cũ vẫn được thực_hiện trực_tuyến .
+Đó là một trong những thay_đổi của nhà_băng này sau sự_cố chị Hoàng_Thị_Na_Hương ( Hà_Nội ) mất 500 triệu đồng ( đã kịp khoanh giữ 300 triệu đồng và hoàn_trả cho khách_hàng ) từ tài_khoản diễn ra hôm 4/8 .
+Đại_diện ngân_hàng cho_biết , sự_việc xảy_ra ngoài mong_muốn .   Hiện hai bên vẫn phối_hợp với các cơ_quan điều_tra để tìm nguyên_nhân , truy_tìm tội_phạm và thu_hồi tài_sản .
+" Trong trường_hợp nguyên_nhân được xác_định không phải do lỗi của khách_hàng , Vietcombank khẳng_định quyền_lợi của khách_hàng hoàn_toàn được bảo_vệ " , đại_diện nhà_băng khẳng_định .
+Để loại_trừ triệt_để việc kẻ_gian lấy cắp thông_tin , mật_khẩu và tiền trong tài_khoản như đã xảy_ra với trường_hợp chị Hoàng_Thị_Na_Hương , Vietcombank điều_chỉnh chính_sách cung_cấp dịch_vụ trên hệ_thống .
+Vietcombank chuyển_đổi phương_thức kích_hoạt dịch_vụ Smart OTP bằng cách thực_hiện tại quầy giao_dịch .
+Theo đó , từ 15/8 , ngân_hàng điều_chỉnh hạn_mức chuyển_tiền trên Internet banking đối_với loại giao_dịch chuyển_tiền từ thẻ qua thẻ với hạn_mức tối_đa mỗi giao_dịch 30 triệu đồng , thay_vì 50 triệu đồng ; tối_đa trong ngày là 60 triệu đồng , thay cho mức 100 triệu đồng .
+Các loại giao_dịch chuyển_tiền khác vẫn áp_dụng hạn_mức như trước_đây .
+Dịch_vụ Smart OTP chỉ được kích_hoạt tại quầy giao_dịch , chứ không chấp_nhận hình_thức đăng_ký trực_tuyến như trước ( trừ các khách_hàng đang sử_dụng dịch_vụ Smart OTP trên thiết_bị cũ vẫn được thực_hiện trực_tuyến ) .
+Cụ_thể , với khách_hàng đã sử_dụng dịch_vụ Smart OTP và muốn tiếp_tục dịch_vụ này trên thiết_bị đang sử_dụng , ngân_hàng khuyến_cáo nên đăng_ký lại trên chương_trình Internet_Banking của Vietcombank .
+Những_ai chưa đăng_ký sử_dụng phần_mềm Smart OTP hoặc đã đăng_ký sử_dụng dịch_vụ nhưng có nhu_cầu chuyển sang cài_đặt và sử_dụng trên thiết_bị mới cần đến các điểm giao_dịch của Vietcombank để đăng_ký .
+Người dùng cài phần_mềm Smart OTP trên Google_Play_Store hoặc Apple_Store về thiết_bị của mình trước khi đến đăng_ký sử_dụng dịch_vụ .
+Khách_hàng cũng được nhắc_nhở phải nâng cao cảnh_giác bảo_mật thông_tin cá_nhân và thông_tin giao_dịch .
+Trước đó , hôm 4/8 , sau khi thức_dậy , chị Hoàng_Thị_Na_Hương tá_hỏa khi thấy có tất_cả 7 giao_dịch chuyển_tiền từ tài_khoản của mình tại Vietcombank sang một_số tài_khoản khác trong đêm , với tổng_số tiền lên tới 500 triệu đồng .
+Dù không hề chuyển_tiền , thanh_toán , cũng_như không nhận được thông_báo mã SMS_OTP cho mỗi giao_dịch trong đêm .
+Thực_tế tài_khoản này của khách_hàng đã được kích_hoạt sang sử_dụng Smart OTP thay cho SMS_OTP từ ngày 28/7 trước đó .
+Vietcombank cho_biết , không_chỉ đến sự_việc này mà kể từ năm 2012 , ngân_hàng đã nhiều lần gửi tin nhắn , email cảnh_báo cho các khách_hàng trên toàn hệ_thống với nội_dung yêu_cầu tuyệt_đối không cung_cấp tên hay mật_khẩu truy_cập ngân_hàng điện_tử ( Internet_Banking ) , mã mật_khẩu một lần ( OTP ) , số thẻ ngân_hàng bằng bất_cứ hình_thức nào qua điện_thoại , email , mạng xã_hội hay những trang_web , đường link lạ .
+Tương_tự , hàng_loạt nhà_băng khác gần đây cũng gửi email , tin nhắn cảnh_báo người dùng về các hành_vi lừa_đảo qua Internet_Banking .
+Thanh_Thư

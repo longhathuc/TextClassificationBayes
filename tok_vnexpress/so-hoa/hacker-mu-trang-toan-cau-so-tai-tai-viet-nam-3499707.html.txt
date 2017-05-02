@@ -1,0 +1,9 @@
+' Hacker mũ trắng ' toàn_cầu so tài tại Việt_Nam
+Cuộc_thi an_ninh mạng toàn_cầu WhiteHat Grand_Prix 2016 có chủ_đề khám_phá ẩm_thực của Việt_Nam .
+WhiteHat Grand_Prix được tổ_chức với quy_mô toàn_cầu từ năm 2015 , thu_hút sự tham_gia của   gần 500 đội từ 67 quốc_gia , trong đó có 6 đội nằm trong top 10 thế_giới theo bảng xếp_hạng an_ninh mạng CTFTime .
+Năm nay , cuộc_thi sẽ diễn ra liên_tục trong 24h từ ngày 17/12 đến 18/12 với   lượng đề tăng gấp rưỡi so với năm_ngoái .
+" Khi giải_đáp một thử_thách , các đội dự thi sẽ được tìm_hiểu về một món ăn đặc_trưng cho một vùng_miền tại Việt_Nam " , đại_diện ban tổ_chức cho_biết .
+Các hacker mũ trắng sẽ thi theo hình_thức Jeopardy , giải các câu_hỏi thuộc chủ_đề Web_Exploit ( lỗ_hổng web ) , Reverse ( dịch ngược ) , Pwnable ( khai_thác lỗ_hổng phần_mềm ) , Forensics ( điều_tra số ) và Crypto ( phá mã ) .
+Đội giành giải nhất sẽ nhận phần_thưởng là 10.000 USD ( 225 triệu đồng ) .
+" WhiteHat Grand_Prix do Bkav phối_hợp với năm trường đại_học Việt_Nam trong công_tác ra đề .
+Cuộc_thi góp_phần đẩy_mạnh việc hợp_tác , nghiên_cứu và đào_tạo nguồn nhân_lực an_ninh mạng cho quốc_gia đồng_thời mở_rộng hoạt_động an_ninh mạng của Việt_Nam ra toàn thế_giới " ,   Ngô_Tuấn_Anh , Phó_Chủ tịch Bkav , cho_biết .

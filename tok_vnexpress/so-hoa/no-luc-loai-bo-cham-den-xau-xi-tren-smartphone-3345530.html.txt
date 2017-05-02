@@ -1,0 +1,18 @@
+Nỗ_lực loại_bỏ chấm đen xấu_xí trên smartphone
+Khi nhìn vào mặt trước một chiếc smartphone , người dùng sẽ thấy một hoặc hai_chấm đen ở góc trên , bên_cạnh camera .
+Những chấm này là cảm_biến tiệm_cận và cảm_biến ánh_sáng .
+Cảm_biến tiệm_cận có nhiệm_vụ   nhận_biết người dùng đang áp máy vào tai để nghe điện_thoại , từ đó linh_hoạt giảm độ sáng , tắt hoặc mở màn_hình , giúp tiết_kiệm pin cũng_như tránh tình_trạng chạm nhầm vào nút ngắt cuộc_gọi .
+Chấm đen đó là một phần không_thể tránh khi thiết_kế smartphone suốt gần một thập_kỷ qua .
+Nhiều người vẫn tự hỏi , điện_thoại cần cảm_biến tiệm_cận , nhưng chúng có cần phải đen và xấu_xí như_vậy không ?
+Những chấm cảm_biến trên điện_thoại .
+Trên điện_thoại Android , mọi người đã quen với hai_chấm đen đứng cạnh nhau phía trên màn_hình .
+iPhone chỉ có một cảm_biến đen , nhưng thực_chất đó chỉ là ảo_giác .
+Apple đã phủ một lớp màng che cảm_biến và đã đăng_ký bản_quyền cho thủ_thuật này nên các hãng khác e_ngại bắt_chước vì sợ bị kiện .
+Elliptical_Labs cho_biết họ đã tìm ra giải_pháp loai bỏ cảm_biến tiệm_cận .
+Đó là phần_mềm mang tên Beauty ( Sắc_đẹp ) , khai_thác công_nghệ sóng siêu_âm và những thứ có sẵn trên điện_thoại như loa , microphone ...
+Bằng cách sử_dụng   microphone và loa   của smartphone , Beauty truyền đi những bước_sóng âm_thanh nhỏ , lắng_nghe chuyển_động và   nhận_biết khi một người đưa điện_thoại lên gần tai để gọi điện , từ đó điều_chỉnh ánh_sáng màn_hình phù_hợp .
+Elliptical cho_biết giải_pháp này hiệu_quả ngang công_nghệ hồng_ngoại hiện_nay và còn giúp giảm chi_phí do đây là phần_mềm , khai_thác những bộ_phận có trong điện_thoại .
+Nhà_sản_xuất cũng giải_phóng được thêm không_gian trong máy vì không cần cảm_biến tiệm_cận nữa , giúp thiết_bị mỏng nhẹ hơn .
+Tuy_nhiên , điều này không có_nghĩa người dùng đơn_giản chỉ cần tải phần_mềm về máy mà sẽ cần đến sự can_thiệp của nhà_sản_xuất trong việc điều_chỉnh thiết_kế và tích_hợp giải_pháp từ trước khi smartphone được xuất_xưởng .
+Theo Mashable , Elliptical_Labs sẽ trình_diễn công_nghệ mới tại triển_lãm Mobile_World_Congress vào cuối tháng 2 và những thiết_bị đầu_tiên ứng_dụng công_nghệ sóng siêu_âm mới dự_kiến trình_làng cuối năm nay .
+Minh_Minh

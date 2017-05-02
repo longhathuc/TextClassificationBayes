@@ -1,0 +1,11 @@
+Bài_toán nhặt đậu thách_thức suy_luận của bạn
+Với số_lượng hạt đậu cho trước và một luật_chơi cụ_thể , ai trong hai người nhặt hạt đậu sẽ chiến_thắng ?
+Hãy tìm ra câu trả_lời cho bài_toán trong đề thi APMOPS này .
+Alice và Bob chơi trò_chơi lấy hạt đậu với 2009 hạt đậu trên bàn .
+Ở mỗi lượt , Alice và Bob có_thể lấy đi một , hai , hoặc ba hạt đâu .
+Theo thứ_tự , Alice sẽ lấy đậu đầu_tiên rồi đến Bob và lại quay lại Alice , cứ tiếp_tục luân_phiên như_vậy đến khi số hạt đậu trên bàn hết .
+Người cầm những hạt đậu cuối_cùng sẽ chiến_thắng .
+Bạn nghĩ ai có_thể chiến_thắng trò_chơi này và chiến_thắng bằng cách nào ?
+Thanh_Tâm
+> > Bài_toán chuyển_động giúp kiểm_tra kiến_thức lớp 5 - 6
+> > Thử tài tư_duy của bạn với bài_toán lớp 7

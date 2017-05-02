@@ -1,0 +1,15 @@
+Apple âm_thầm bỏ website kiểm_tra thông_tin i Phone
+iCloud Activation_Lock , website giúp người mua i Phone cũ kiểm_tra thông_tin thiết_bị , đã bị Apple bỏ một_cách âm_thầm không có lý_do .
+Ngày 29/1 , Apple đã âm_thầm bỏ trang kiểm_tra thông_tin i Phone i Cloud_Activation_Lock .
+Khi truy_cập vào website tại địa_chỉ http : / / icloud.com/activationlock , người dùng sẽ nhận được thông_báo website không tồn_tại .
+Thông_báo khi truy_cập vào trang   iCloud Activation_Lock .
+Vẫn chưa rõ động_thái của Apple có mục_đích gì .
+Nhưng theo Phonearena , việc " Táo khuyết " đóng_cửa website kiểm_tra xem i Phone có phải là thiết_bị đã bị khóa hay chưa giáng đòn mạnh vào những người buôn_bán i Phone cũ , bởi giờ_đây sẽ không còn công_cụ nào " chính chủ " giúp người dùng có_thể kiểm_tra thông_tin máy .
+Gần đây , hãng bắt_đầu   bán i Phone tân_trang   và việc loại_bỏ website không ngoài mục_đích hạn_chế việc mua_bán i Phone đã qua sử_dụng .
+Cùng_với việc loại_bỏ     iCloud Activation_Lock , Apple khuyên người dùng muốn mua i Phone đã qua sử_dụng có_thể kiểm_tra bằng cách trượt để mở khóa thiết_bị .
+Nếu tồn_tại màn_hình khóa hoặc mật_mã vân tay thì thiết_bị chưa bị xóa và không nên mua .
+Tuy_nhiên , cách làm này chỉ phù_hợp khi 2 người mua_bán gặp nhau , chứ không_thể kiểm_tra từ xa .
+Ngoài_ra , Apple cũng cảnh_báo người dùng cần đảm_bảo rằng , thiết_bị mua đã bị xóa tài_khoản của người cũ .
+Để xóa , người dùng vào Settings > General >   Reset > Erase_All_Content and Settings .
+Trong quá_trình cài lại , nếu máy yêu_cầu mật_khẩu tức_là thiết_bị chưa " sạch " hoàn_toàn , không nên mua .
+Bảo_Lâm

@@ -1,0 +1,15 @@
+Hàng_loạt i Phone tự_động tắt nguồn do trời quá lạnh
+Nhiều người dùng i Phone tại Trung_Quốc gặp hiện_tượng máy " ngủ_đông " mà không có bất_kỳ lỗi kỹ_thuật nào .
+Theo trang Bundlehitech , khi gặp sự_cố trên mọi người đã tìm đến cửa_hàng sửa_chữa hay trung_tâm bảo_hành song các kỹ_thuật_viên không tìm ra sự_cố liên_quan đến phần_cứng hay phần_mềm .
+Nguyên_nhân i Phone tự tắt đi được xác_định là do thời_tiết xuống quá thấp .
+Trên trang hỗ_trợ Apple cho_biết , nhiệt_độ hoạt_động được thiết_kế tối_ưu cho i Phone , iPad , iPod và Apple_Watch là từ 0 đến 35 độ C .
+Trong khi đó , Trung_Quốc đang trải qua đợt rét kỷ_lục trong vòng 30 năm qua , với nhiệt_độ nhiều nơi xuống tới - 47 độ C , thấp hơn nhiều so với ngưỡng nhiệt hoạt_động của i Phone .
+Pin sử_dụng trên các thiết_bị điện_tử của Apple là loại lithium - ion , mà khi nhiệt_độ xuống quá thấp , nó sẽ không hoặc sản_sinh ra điện ở mức nhỏ .
+Do cơ_chế tự bảo_vệ , iPhone " hiểu " rằng điều_kiện hoạt_động lúc này không cho_phép nên đã kích_hoạt chế_độ tắt máy .
+Người dùng gặp hiện_tượng " ngủ_đông " không phải quá lo_lắng bởi khi nhiệt_độ bình_thường , các thiết_bị của Apple sẽ hoạt_động trở_lại .
+Những dòng máy Android hay đồ điện_tử dùng pin lithium - ion cũng có_thể được trang_bị cơ_chế tương_tự .
+Ngoài_ra , nhiệt_độ xuống quá thấp cũng ảnh_hưởng đến hiệu_suất hoạt_động và chức_năng sạc của các sản_phẩm điện_tử .
+Chẳng_hạn , sạc pin khi trời lạnh sẽ lâu hoặc thậm_chí là không vào điện .
+Các chuyên_gia khuyến_cáo , người dùng nên sử_dụng thiết_bị theo thiết_kế của nhà_sản_xuất .
+Khi gặp hiện_tượng máy tắt vì trời lạnh thì hãy đem vào phòng ấm , nhưng không nên làm nóng trực_tiếp như hơ máy_sấy , để quá gần lò_sưởi ... , rồi bật lại sau đó .
+Đình Namdinhnam@vnexpress.net

@@ -1,0 +1,18 @@
+Thay_đổi bản_đồ Google_Maps là không dễ_dàng
+Việc cập_nhật địa_điểm ảo của nhiều người chơi Pokemon_Go ở Việt_Nam gây ra tác_động không tốt , tuy_nhiên , việc thay_đổi vị_trí trên bản_đồ còn phải được Google phê_duyệt trước khi xuất_hiện trên Google_Maps .
+Google_Map_Maker là dịch_vụ được Google ra_mắt nhằm vận_dụng sức_mạnh từ cộng_đồng , đóng_góp thông_tin để nâng cao dữ_liệu bản_đồ .
+Những thay_đổi mà mọi người gửi đến Google_Map_Maker sẽ được xử_lý , phê_duyệt trước khi xuất_hiện trên Google_Maps .
+Nhóm_Google_Map_Maker_Việt   kêu_gọi người dùng không phá_hoại dữ_liệu bản_đồ .
+Đối_với loại địa_điểm công_cộng , người dùng sẽ đóng_góp cho Google_Map_Maker và dữ_liệu đó nằm ở chế_độ chờ .
+Bất_kể có nhiều người cùng cố_tình làm sai_lệch thông_tin thì vẫn cần đội_ngũ quản_trị của Google phê_duyệt , trước khi hiển_thị cho tất_cả cộng_đồng .
+Trong khi đó , với loại địa_điểm kinh_doanh như công_ty , văn_phòng , nhà_máy ... thì Google có hình_thức kiểm_duyệt riêng .
+Thủ_tục cơ_bản gồm có logo đại_diện doanh_nghiệp , một_vài hình_ảnh của công_ty , quan_trọng nhất_là địa_điểm thực_tế mà Google sẽ gửi thư chứa mã PIN để xác_nhận .
+Các bước thực_hiện tương_đối chặt_chẽ do_đó những người muốn làm sai_lệch thông_tin cũng khó phá_hoại .
+Gần đây , người chơi Pokemon trong nước đã tạo nhiều địa_điểm ảo hoặc vị_trí mới nhằm tăng số_lượng   PokeStop - khu_vực người chơi nhận các vật_phẩm miễn_phí nhưng cần_thiết , như bóng Pokeball , các loại đá hồi_phục sức_lực cho Pokemon … Thậm_chí , có một_số người còn   đặt lại tên cho địa_điểm , tạo địa_điểm giả_mạo và “ dời ” nhiều địa_danh từ nơi này qua nơi khác , như Đại_học Hàng_hải vốn ở Hải_Phòng được " dời " về TP_HCM , hay Đại_học Nông_Lâm TP_HCM lại được chuyển về Bình_Dương trong khi trường này chỉ có cơ_sở ở Thủ_Đức ( TP_HCM ) cùng 2 phân_hiệu ở Ninh_Thuận và Gia_Lai .
+Đại_học Nông_Lâm TP_HCM được tạo ở Bình_Dương , địa_điểm đang chờ Google xử_lý .
+Dù có nhiều bước kiểm_duyệt nhưng việc tạo địa_điểm ảo của những người chơi Pokemon_Go ở Việt_Nam sẽ gây ra tác_động không tốt .
+Các chuyên_gia công_nghệ cho rằng dữ_liệu Google_Maps ở nước ta đã hạn_chế rồi mà mỗi ngày có thêm hàng nghìn địa_điểm không chính_xác gửi về càng khiến việc cập_nhật thông_tin trở_nên vất_vả hơn .
+Liên_quan đến sự_việc , Google cho_biết   Pokemon_Go là sản_phẩm của Ninantic_Labs , không phải là sản_phẩm của Google .
+Công_ty không bình_luận về các sản_phẩm không thuộc Google .
+Xem thêm :
+>   Google kêu_gọi người chơi Pokemon_Việt ngừng chỉnh bản_đồ >   Người_Việt tạo vị_trí ảo trên Google_Maps để chơi Pokemon

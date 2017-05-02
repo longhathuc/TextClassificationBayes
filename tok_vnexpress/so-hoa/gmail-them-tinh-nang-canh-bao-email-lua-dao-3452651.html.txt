@@ -1,0 +1,10 @@
+Gmail thêm tính_năng cảnh_báo email lừa_đảo
+Dịch_vụ thư_điện_tử của Google tăng_cường bảo_mật bằng cách đưa ra cảnh_báo với email nghi lừa_đảo và các mối nguy_hiểm tiềm_ẩn bên trong .
+Gmail sẽ đưa ra cảnh_báo nếu email được gửi đến từ một địa_chỉ không an_toàn .
+Theo Zdnet , tính_năng an_ninh mới sẽ được Google bổ_sung cho Gmail nền_tảng web và trên các thiết_bị Android trong tuần này .
+Nếu email gửi đến hộp_thư của bạn tiềm_ẩn nguy_hiểm thì một dấu_hỏi màu đỏ sẽ xuất_hiện bên_cạnh ảnh đại_diện , logo công_ty hoặc avatar ... của người gửi để bạn nâng cao cảnh_giác .
+Những cảnh_báo này nằm trong nỗ_lực chống lại email giả_mạo , thường được các hacker sử_dụng trong việc lừa_đảo người dùng và đã chiếm_đoạt nhiều tỷ USD mỗi năm .
+Song_Google cho_biết không phải lúc_nào email xuất_hiện thêm dấu_hỏi đỏ cũng là thư nguy_hiểm , nhưng đây là dấu_hiệu để bạn chú_ý hơn .
+Cảnh_báo xuất_hiện neus đường link trong email không an_toàn .
+Ngoài_ra , Gmail phiên_bản web còn thêm tính_năng bảo_mật khi người dùng bấm vào đường link không an_toàn với công_nghệ   Safe_Browsing .
+Hình_thức bảo_mật này hoạt_động với Gmail trên Chrome , Safari và Firefox .

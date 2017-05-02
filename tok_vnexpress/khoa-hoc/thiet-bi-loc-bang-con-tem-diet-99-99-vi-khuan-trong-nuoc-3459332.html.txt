@@ -1,0 +1,20 @@
+Thiết_bị lọc bằng con tem diệt 99,99% vi_khuẩn trong nước
+Các nhà_khoa_học Mỹ phát_triển thành_công một thiết_bị lọc nước có kích_thước chỉ bằng con tem và có khả_năng biến nước bẩn thành nước_sạch trong 20 phút .
+Theo Science_Alert , phơi nước trực_tiếp dưới ánh_sáng Mặt_Trời có_thể diệt khuẩn tự_nhiên nhờ ánh_sáng cực tím nhưng quá_trình này cần tới 48 giờ để hoàn_thành .
+Các nhà_khoa_học tại Đại_học Stanford , Mỹ , chế_tạo một thiết_bị có_thể tăng_tốc quá_trình này nhờ khai_thác năng_lượng Mặt_Trời trong vùng ánh_sáng nhìn thấy của dải quang_phổ .
+" Thiết_bị của chúng_tôi trông giống như một mảnh kính màu đen " , trưởng nhóm nghiên_cứu Chong_Liu cho_biết trong báo_cáo đăng trên tạp_chí Nature_Nanotechnology hôm 15/8 .
+" Chỉ cần thả nó vào nước và đưa nước ra phơi trực_tiếp dưới ánh nắng , Mặt_Trời sẽ làm các công_việc còn lại " .
+Khoảng 4% năng_lượng Mặt_Trời ở dưới dạng tia_cực_tím , còn hơn 50% tập_trung ở vùng ánh_sáng nhìn thấy .
+Các nhà_khoa_học sử_dụng năng_lượng ở vùng ánh_sáng nhìn thấy để hút các electron trong lớp phủ molybdenum disulfide ( MoS2 ) trên thiết_bị lọc , kích_hoạt các phản_ứng_hóa_học trong nước xảy_ra .
+Hydrogen peroxide ( oxy_già ) và các chất khử_trùng khác được tạo ra từ những phản_ứng này sẽ tiêu_diệt các mầm bệnh trong nước .
+Kết_quả là 99,99% vi_khuẩn trong nước bị tiêu_diệt .
+Nếu nhìn thiết_bị lọc nước dưới kính_hiển_vi , có_thể thấy nó được cấu_tạo từ nhiều vách MoS2 nhỏ xếp chặt với nhau như một mê_cung trên mặt tấm thủy_tinh hình_chữ_nhật .
+" Thật thú_vị khi thông_qua cách thiết_kế một vật_liệu , ta có_thể đạt hiệu_suất tốt " , Liu nói .
+" Mục_tiêu của chúng_tôi là giải_quyết vấn_đề môi_trường để mọi người có cuộc_sống tốt hơn " .
+Một yếu_tố quan_trọng khiến công_nghệ này trở_nên khả_thi là MoS2 rất rẻ và dễ sản_xuất .
+Ngoài_ra , thiết_bị mới không yêu_cầu phải đun sôi nước nên không tiêu tốn nhiên_liệu .
+Đây là một trong nhiều nghiên_cứu về cách lọc nước giá rẻ cho người có nhu_cầu , bên_cạnh màng graphene và vật_liệu sinh_học có khả_năng ngưng_tụ nước_sạch từ không_khí .
+Trước khi ứng_dụng thiết_bị lọc trong thực_tế , nhóm nghiên_cứu vẫn còn phải cải_tiến nhiều hơn .
+Kết_quả lọc đạt được chỉ với ba chủng vi_khuẩn thí_nghiệm và lớp phủ MoS2 chưa hiệu_quả với các chất ô_nhiễm hóa_học .
+Xem thêm :   Giáo_sư bị cấm tại mọi sòng bạc vì chế thiết_bị thắng cược
+Thành_Minh

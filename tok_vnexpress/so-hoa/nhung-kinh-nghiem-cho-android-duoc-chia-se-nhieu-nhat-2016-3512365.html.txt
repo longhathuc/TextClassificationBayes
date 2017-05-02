@@ -1,0 +1,52 @@
+Những kinh_nghiệm cho Android được chia_sẻ nhiều nhất 2016
+Cách tiết_kiệm pin , cách sạc pin nhanh hơn hay giữ cho thiết_bị an_toàn tránh sự " nhòm_ngó " của tin_tặc là những kinh_nghiệm được nhiều người dùng Android chia_sẻ .
+1 . Chế_độ ban_đêm trên Android 7.0
+Night_Mode là chế_độ giảm_thiểu ánh_sáng xanh , giúp người dùng smartphone , máy_tính bảng Android không bị lóa_mắt khi sử_dụng ban_đêm .
+Để kích_hoạt , chỉ cần vuốt thanh trạng_thái và nhấn bật / tắt tính_năng này .
+Trải_nghiệm chế_độ Night_Mode trên máy_tính bảng :
+2 . Cách tiết_kiệm / tăng thời_lượng pin
+Thời_lượng pin là một trong những vấn_đề được người dùng Android quan_tâm trong 2016 bởi năm nay , dù được các nhà_sản_xuất thiết_bị tối_ưu về phần_mềm nhưng công_nghệ pin vẫn " giậm chân tại_chỗ " .
+Trên mạng , đã có nhiều chia_sẻ về cách để tiết_kiệm pin , trong đó như dùng hình nền tối màu , tắt các kết_nối không dây ( 3G , 4G , Bluetooth , Wi-Fi , NFC ) , tắt ứng_dụng nền , bật chế_độ tiết_kiệm pin , giảm thời_gian chờ … Cách_thức có_thể xem qua video dưới đây :
+3 . Cách tăng_tốc sạc
+Có nhiều cách để sạc pin cho smartphone Android nhanh hơn , như sử_dụng chế_độ máy_bay , tắt các kết_nối không dây , tắt nguồn khi sạc , dùng sạc chính hãng , không nên vừa sạc vừa sử_dụng … Với một_số smartphone có hỗ_trợ sạc không dây , hãy tận_dụng chúng .
+10 cách giúp tăng tốc_độ sạc smartphone Android :
+4 . Cách " hạ nhiệt " thiết_bị Android khi quá nóng
+Đây là vấn_đề khá phổ_biến đối_với người dùng smartphone , trong đó có smartphone Android .
+Có nhiều nguyên_nhân dẫn đến_điều này , như bật quá nhiều ứng_dụng cùng lúc , chạy những ứng_dụng " nặng " ( game , quay_phim độ_phân_giải cao , game thực_tế ảo ) … gây ngốn tài_nguyên CPU , cuối_cùng gây quá_tải và làm nóng phần_cứng .
+Ngoài_ra , việc nóng máy còn đến từ thói_quen vừa sạc vừa sử_dụng .
+Smartphone thường quá nóng khi sử_dụng ứng_dụng đòi_hỏi cấu_hình máy cao , hoặc chạy nhiều ứng_dụng cùng lúc .
+Do_đó , cách tốt nhất_là nên hạn_chế các thao_tác trên , tránh làm nóng , gây tổn_hại từ đó làm hỏng_hóc thiết_bị .
+Nếu quá nóng , người dùng có_thể tháo ốp lưng ( nếu có ) , đặt thiết_bị ở nơi mát như trước quạt , nhưng tránh đặt vào tủ_lạnh bởi dễ hỏng học do nhiệt_độ thay_đổi nhiệt_độ đột_ngột .
+5 . Đa_nhiệm trên Android
+Từ phiên_bản Android 7.0 , Google bổ_sung thêm tính_năng chạy đa_nhiệm nhiều cửa_sổ .
+Không_chỉ chia đôi màn_hình như giao_diện TouchWiz của Samsung , tính_năng này còn độc_đáo hơn khi cho_phép các ứng_dụng có_thể hiển_thị đè lên một phần giống nhau , tương_tự như khi mở các cửa_sổ khác_nhau trên Windows .
+Ngoài_ra , người dùng có_thể chuyển_đổi ứng_dụng nhanh bằng cách bấm đúp vào biểu_tượng đa_nhiệm ở thanh điều hướng để truy_cập ngay ứng_dụng sử_dụng gần nhất .
+Video sử_dụng khả_năng đa_nhiệm trên smartphone Android :
+6 . Cách giữ thiết_bị Android an_toàn
+Việc có rất nhiều vụ tấn_công nhằm vào smartphone trong năm 2016 khiến người dùng thiết_bị cầm tay này không_thể làm_ngơ .
+Trên_Internet , đã có khá nhiều người tìm_hiểu cách_thức bảo_mật cho thiết_bị , cũng_như chia_sẻ những kinh_nghiệm mà mình có được .
+Độc_giả có_thể xem_lại bài viết những cách giúp smartphone Android luôn an_toàn tại đây .
+7 . Ẩn tập_tin và thư_mục
+Trên_Play_Store , có một_số ứng_dụng có_thể giúp người dùng ẩn tập_tin và thư_mục , như Smart_Hide .
+Tuy_nhiên , người dùng có_thể tự ẩn tập_tin và thư_mục bằng tay mà không cần đến ứng_dụng khác , bằng cách : Mở tập_tin hoặc thư_mục bằng ứng_dụng file explorer > Nhấn đổi tên > thêm dấu_chấm phía trước ( ví_dụ : từ Rename chuyển thành . Rename ) > nhấn OK .
+Lúc này , máy sẽ nhận tập_tin hoặc thư_mục này là file hệ_thống và ẩn đi .
+Cách ẩn tập_tin bằng cách đổi tên .
+Để hiện lại , bạn tìm lại file cũ ( phải nhớ tên flie ) và bỏ dấu_chấm .
+Nếu_không nhớ , bắt_buộc bạn phải duyệt file đó trên máy_tính , mở dưới dạng hiển_thị file ẩn và loại_bỏ dấu_chấm .
+8 . Tăng hiệu_quả cho thiết_bị Android bằng ứng_dụng bên thứ_ba
+Không_chỉ khai_thác tối_đa chức_năng máy , nhiều người dùng Android còn tìm đến các ứng_dụng bên thứ_ba để " tăng sức_mạnh " cho smartphone của mình .
+- Bảo_vệ tập_tin và thư_mục bằng mật_khẩu
+Để giữ các tập_tin và thư_mục an_toàn , người dùng có_thể tải về các ứng_dụng bảo_vệ bằng mật_khẩu cho chúng , như File_Locker , Folder_Lock hay FileSafe – Hide_File / Folder .
+Những ứng_dụng này bên_cạnh việc bảo_vệ hình_ảnh riêng_tư , video " nhạy_cảm " , tài_liệu quan_trọng … nó có_thể phát_hiện được ai đã cố_gắng " đột_nhập " vào thiết_bị bằng cách chụp ảnh thông_qua camera trước .
+- Tải tập_tin APK trực_tiếp trên Play_Store
+Với một_số thiết_bị Android không có Google_Play_Store ( một_số mẫu Trung_Quốc hoặc cài room tùy biến , tức custom room ) , người dùng chỉ có_thể cài ứng_dụng bên ngoài thông_qua file APK .
+Cách đơn_giản và an_toàn nhất để tránh các file APK " trôi_nổi " có dính virus là tải qua trang_web như Apkleecher , Downloader-apk , APK-Dl , apkpure ... sau đó cài_đặt .
+Lưu_ý , người dùng cần để chế_độ cho_phép cài ứng_dụng bên thứ_ba .
+- Nghe nhạc trên YouTube khi đã tắt màn_hình
+Thông_thường , ứng_dụng YouTube và YouTube nền web trên Android sẽ tắt âm_thanh khi thiết_bị tắt màn_hình .
+Để khắc_phục điều này , người dùng có_thể sử_dụng một_số ứng_dụng như Floating_Tube hay Audio_Pocket …
+- Thống_kê tổng số_lượng cuộc_gọi , tin nhắn
+Một_số phiên_bản Android không hỗ_trợ quản_lý và thống_kê tổng số_lượng / thời_lượng cuộc_gọi , tin nhắn nhưng nhiều ứng_dụng có_thể làm thay điều đó , ví_dụ như Callistics .
+Ứng_dụng này sẽ đếm tổng số_lượng hay thời_gian người dùng đã gọi , tổng_số tin nhắn đã gửi và đã nhận .
+Ngoài chức_năng trên , ứng_dụng còn cho_phép thống_kê dung_lượng dữ_liệu sử_dụng .
+Bảo_Lâm

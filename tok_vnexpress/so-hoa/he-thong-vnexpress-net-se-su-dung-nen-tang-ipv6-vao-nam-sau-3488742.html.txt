@@ -1,0 +1,16 @@
+Hệ_thống VnExpress.net sẽ sử_dụng nền_tảng IPv6 vào năm sau
+Công_ty FPT Online sẽ chuyển toàn_bộ hệ_thống VnExpress.net sang IPv6 trong nửa đầu 2017 , sớm 1,5 năm so với lộ_trình cũ .
+Ngày 24-25/10 , Ban công_tác thúc_đẩy phát_triển IPv6 đã làm_việc với Công_ty FPT Online và FPT Telecom nhằm đánh_giá kết_quả triển_khai IPv6 .
+Theo lộ_trình mới , FPT Telecom sẽ phối_hợp với FPT Online để chuyển_đổi hệ_thống Ngoisao.net sang IPv6 vào cuối năm 2016 còn VnExpress.net là nửa đầu 2017 , thay_vì hoàn_tất vào cuối 2019 như lộ_trình cũ .
+Ông Nguyễn_Văn_Ngọc , quản_lý kỹ_thuật bộ_phận nội_dung số của FPT Online , cho_biết sau khi vận_hành thử_nghiệm trang báo và dịch_vụ ione . vnexpress.net , raovat.vnexpress.net , shop.vnexpress.net và pay . vnexpress.net trên nền IPv6 , FPT Online nhận thấy có_thể đẩy nhanh tiến_độ triển_khai , nhờ đó lộ_trình được rút ngắn 1,5 năm so với dự_định .
+Trong khi đó , tính_từ ngày 1/7/2016 ,   FPT Telecom đã kích_hoạt IPv6 cho gần 600.000 hộ gia_đình và sẽ có hơn một_triệu hộ được triển_khai dịch_vụ trên nền IPv6 trong năm 2017 .   Với tốc_độ trên , FPT Telecom hiện đứng thứ 47 trên thế_giới và xếp thứ_hai tại Việt_Nam về triển_khai IPv6 theo thống_kê của Akamai ngày 25/10 .
+Ban Công tác thúc_đẩy phát_triển IPv6 làm_việc với FPT Telecom sáng   25/10 .
+Địa_chỉ IP là chuỗi số được phân cho mỗi website hay thiết_bị kết_nối Internet .
+Giao_thức IPv4 chứa 4,3 tỷ địa_chỉ IP nhưng sự bùng_nổ của các thiết_bị có khả_năng hỗ_trợ Internet toàn_cầu , đặc_biệt là các thiết_bị di_động , khiến nguồn địa_chỉ này cạn_kiệt từ năm 2011 .
+Giao_thức IPv6 đã ra_đời , mang đến không_gian địa_chỉ lớn hơn , dễ quản_lý với cấu_trúc định_tuyến phân_cấp , bảo_mật cao và hỗ_trợ thiết_bị di_động tốt hơn .
+Tổng_Giám đốc FPT Telecom , Nguyễn_Văn_Khoa , cho_biết , ngày_nay cùng_với sự phát_triển vượt_bậc của công_nghệ_thông_tin thì sự bùng_nổ về dịch_vụ tiện_ích trên mạng viễn_thông và Internet là điều tất_yếu , đặc_biệt đối_với thị_trường đầy tiềm_năng như Việt_Nam và khu_vực đông dân_cư như châu Á .
+Để đáp_ứng sự phát_triển ấy , mạng truyền_thông cần phải có khả_năng linh_hoạt cao , tốc_độ truyền_dẫn lớn , băng_thông_rộng , đa dịch_vụ đáp_ứng nhu_cầu trao_đổi thông_tin của xã_hội .
+Trong bối_cảnh đó , vấn_đề lớn nhất mà thế_giới phải đối_mặt là sự cạn_kiệt không_gian địa_chỉ IPv4 .
+Giao_thức IPv6 ra_đời như một giải_pháp công_nghệ mới duy_trì hoạt_động Internet ổn_định lâu_dài trong tương_lai , không_những giải_quyết được vấn_đề cạn_kiệt địa_chỉ mà_còn khắc_phục được những hạn_chế của IPv4 cũng_như cung_cấp thêm những thuộc_tính vượt_trội khác .
+Kế_hoạch hành_động quốc_gia về IPv6 do Bộ Thông tin và Truyền_thông đề ra được chia làm ba giai_đoạn , trong đó giai_đoạn một là giai_đoạn chuẩn_bị trong các năm 2011-2012 , giai_đoạn hai là giai_đoạn khởi_động , kéo_dài từ 2013 đến 2015 và cuối_cùng là giai_đoạn chuyển_đổi từ 2016 đến 2019 .
+2016 là năm đầu_tiên của giai_đoạn ba với mục_tiêu là hoàn_thiện và nâng_cấp mạng cơ_sở_hạ_tầng IPv6 quốc_gia , hoàn_thiện việc chuyển_đổi mạng_lưới , dịch_vụ , ứng_dụng , phần_mềm và thiết_bị , đảm_bảo cho Internet_Việt_Nam hoạt_động tương_thích , an_toàn với IPv6 .

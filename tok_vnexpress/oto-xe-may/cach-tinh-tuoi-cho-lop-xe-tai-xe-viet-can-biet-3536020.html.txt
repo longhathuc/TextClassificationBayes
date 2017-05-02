@@ -1,0 +1,27 @@
+Cách tính tuổi cho lốp xe - tài_xế Việt cần biết
+Tài_xế có_thể biết lốp đã có bao_nhiêu năm_tuổi bằng cách quan_sát chỉ_số in trên lốp .
+Khi nhìn kỹ sẽ thấy một dãy hơn 10 ký_tự chữ và số , bắt_đầu bằng DOT , là viết tắt của Department of Transportation ( Bộ Giao thông Mỹ ) .
+Cơ_quan này yêu_cầu các hãng sản_xuất lốp in dãy thông_tin gồm tuần , năm , nơi sản_xuất ; kích_thước lốp và mã riêng của nhà_sản_xuất .
+Dãy ký_tự trên ở Mercedes GLC gồm DOT 93 08 T897 0516 , trong đó phần khoanh đỏ 0516 là số biểu_thị thời_gian sản_xuất .
+05 là tuần thứ 5 , 16 là năm 2016 .
+Tức lốp xe này sản_xuất vào tuần thứ 5 của năm 2016 ( khoảng cuối tháng 1 đầu tháng 2 ) .
+Như_vậy lốp xe đã sử_dụng khoảng 12 tháng .
+Đây là cách viết cho những lốp sản_xuất từ năm 2000 trở đi .
+Với những xe sản_xuất trước năm 2000 , DOT quy_định viết theo dạng 3 ký_tự , ví_dụ 022 .
+Trong đó 02 cũng là tuần còn 2 là năm thứ 2 của thập_kỷ .
+Cách viết cũ này khiến người sử_dụng không_thể xác_định được ngay lốp sản_xuất năm nào .
+Có_thể là tuần 2 của năm 1992 hoặc tuần 2 của năm 1982 .
+Hầu_hết ôtô sử_dụng ở Việt_Nam hiện_nay là loại hiện_đại , có lốp sản_xuất sau năm 2000 .
+Tài_xế có_thể kiểm_tra dãy số này trên xe của mình để biết lốp đã sản_xuất được bao_nhiêu lâu .
+Tuy_nhiên , có_khi kiểm_tra bên ngoài , một_số lốp dãy số_không đủ như lốp của Hyundai_Grand i10 dưới đây :
+Bắt_đầu bằng DOT nhưng không có thời_gian sản_xuất .
+Theo Tirebuyer , với những lốp dạng này , dòng ký_tự đầy_đủ được in ở thành phía bên kia , do_đó chỉ có_thể xem được khi lốp rời hoặc khi cho xe lên cầu đỡ .
+Tài_xế có_thể kiểm_tra khi cho xe vào xưởng bảo_dưỡng .
+Biết lốp sản_xuất vào năm nào , người sử_dụng có_thể chủ_động thay lốp khi tới hạn dù xe chạy ít , lốp chưa mòn .
+Bởi lẽ , tác_động của thời_gian , chất_lượng cao_su có_thể xuống_cấp , thoái_hóa dù không chịu nhiều áp_lực .
+Không có một mức thời_gian cố_định phải thay lốp bởi mỗi hãng xe , mỗi hãng lốp lại có tiêu_chuẩn khác_nhau , ngoài_ra còn phụ_thuộc cả vào cấu_tạo của lốp .
+Nhìn_chung , các hãng khuyến_cáo nên đảo lốp sau khoảng 8.000-10.000 km và thay lốp sau khoảng 45.000-50.000 km .
+Nếu sau 5-6 năm xe chưa chạy đủ 50.000 km cũng vẫn nên thay lốp .
+Con_số cụ_thể sẽ khác_nhau theo từng xe và từng loại lốp .
+Tài_xế tìm thêm thông_tin này khi mua xe , mua lốp và thường_xuyên kiểm_tra lốp , nghe lời khuyên từ thợ kỹ_thuật để có bộ lốp an_toàn nhất .
+Đức_Huy

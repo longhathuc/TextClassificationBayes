@@ -1,0 +1,9 @@
+Bài_toán ' đi qua hầm tối '
+An , Bình , Châu , Danh muốn đi qua một cái hầm tối .
+Họ có một chiếc đèn_pin còn đủ sáng được trong vòng 12 phút .
+An có_thể đi qua hầm trong 1 phút , B trong 2 phút , Châu trong 4 phút và Danh trong 5 phút .
+Tuy_nhiên , hầm rất hẹp , chỉ có_thể đi cùng một lúc 2 người .
+Họ đều rất sợ bóng_tối nên không_thể đi qua hầm mà không có đèn_pin .
+Hầm cũng ngoằn_ngoèo không_thể đứng một chỗ để rọi đèn phi được .
+Hỏi các bạn phải làm thế_nào để tất_cả cùng qua được hầm trước khi đèn_pin hết sáng ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

@@ -1,0 +1,5 @@
+Được gộp các ngày phép trong 3 năm để có kỳ nghỉ dài
+Tôi muốn dồn những ngày nghỉ_phép trong 4 năm để nghỉ gộp thì_có được không ?
+Tối_đa cộng dồn là bao_nhiêu ngày ?
+Minh_Hà
+Luật_sư trả_lời

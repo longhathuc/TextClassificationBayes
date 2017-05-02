@@ -1,0 +1,25 @@
+Thổ_Nhĩ_Kỳ chặn mạng xã_hội sau vụ ám_sát Đại_sứ Nga
+12 tiếng sau vụ khủng_bố , Facebook , Twitter , YouTube và WhatsApp bị chính_phủ nước này kiểm_soát chặt_chẽ , mạng ẩn_danh giúp người dùng vượt qua kiểm_duyệt Internet ( Tor ) bị chặn hoàn_toàn .
+Theo Turkey_Block , tổ_chức quản_lý việc kiểm_duyệt dữ_liệu theo thời_gian thực_tại Thổ_Nhĩ_Kỳ thì bắt_đầu_từ 8h45 tối ( giờ_địa_phương ) hôm xảy_ra vụ ám_sát , “ tốc_độ truy_cập Facebook , Twitter , YouTube và WhatsApp bị chậm lại một_cách nghiêm_trọng .
+Nhưng nó chỉ ảnh_hưởng đến một bộ_phận người sử_dụng Internet chứ không phải là tất_cả ” .
+Hệ_quả của nó khiến cho các mạng xã_hội này gần_như không_thể sử_dụng .
+Tuy_nhiên , công_ty cung_cấp mạng Internet lớn nhất tại quốc_gia này là TTNet và các nhà mạng di_động lại không bị ảnh_hưởng .
+Chính_phủ Thổ_Nhĩ_Kỳ đã sử_dụng biện_pháp mạnh để chặn mạng xã_hội sau vụ ám_sát .
+" Lệnh cấm đã được gỡ bỏ vào_khoảng 6 giờ sáng giờ_địa_phương , sau hôm diễn ra vụ ám_sát " , Alp_Toker , nhà_sáng_lập TurkeyBlock trả_lời tờ TechCrunch qua thư_điện_tử .
+Cũng theo Toker , việc cấm sử_dụng các mạng xã_hội là hành_động bất_thường bởi lâu_nay , dù bị hạn_chế , người dùng vẫn có_thể sử_dụng các mạng xã_hội bình_thường .
+Một phần do các nhà mạng lơi_lỏng hoặc bỏ_qua các yêu_cầu cấm_đoán từ phía nhà cầm_quyền .
+Trong cuộc đảo_chính tại Thổ_Nhĩ_Kỳ năm 2016 , nhà mạng Turkcell thậm_chí đã lên_tiếng chống lại yêu_cầu hạn_chế dịch_vụ từ phía chính_phủ .
+Ngoài động_thái chặn mạng xã_hội , chính_quyền quốc_gia này còn đang thực_hiện việc chặn hoàn_toàn Tor , mạng ẩn_danh giúp người dùng vượt qua sự kiểm_duyệt Internet trên toàn_bộ lãnh_thổ .
+Tor có biểu_tượng là một củ hành_tây bị cắt dở .
+Tor , là viết tắt của cụm_từ The_Onion_Router , là một phần_mềm mã nguồn mở và miễn_phí .
+Nó có tác_dụng xóa dấu_vết , ẩn địa_chỉ IP xuất_xứ của máy truy_cập Internet khi gửi hay nhận thông_tin qua mạng .
+Các thông_tin trao_đổi qua Tor được mã_hóa và truyền qua nhiều máy_chủ trung_gian khác_nhau .
+Nếu một máy trung_gian Tor bị truy_cập trộm , kẻ_trộm cũng không_thể đọc được thông_tin của người sử_dụng do các thông_tin đã được mã_hóa .   Nó được cho là sản_phẩm do cơ_quan tình_báo Mỹ ( CIA ) tạo ra và hoàn_hảo tới mức chính những người sáng_tạo ra nó cũng không có cách nào phá giải .
+Hệ_thống này khá phổ_biến ở nhiều quốc_gia như Trung_Quốc và Thổ_Nhĩ_Kỳ , nơi chính_phủ bị cáo_buộc là đang theo_dõi các hoạt_động của công_dân nước mình trên mạng .
+Khi_Thổ_Nhĩ_Kỳ bắt_đầu hạn_chế và kiểm_soát việc truy_cập Internet , nhiều người đã thay_đổi cách kết_nối thông_qua Tor .
+Theo Turkey_Blocks , chính_phủ nước này đã ra_lệnh cho các nhà mạng bắt_đầu chặn VPN và Tor vào đầu tháng 12 .
+Để gia_tăng áp_lực lên các doanh_nghiệp , nhà cầm_quyền buộc họ phải hành_động bằng cách yêu_cầu cập_nhật hàng tuần về " sự thành_công " của các biện_pháp này .
+Một hệ_thống phức_tạp đã được đưa vào vận_hành nhằm phát_hiện những người đang cố_gắng kết_nối với Tor .
+Họ kiểm_tra các gói dữ_liệu để tìm_kiếm những ký_tự đặc_biệt , thứ được cho là sử_dụng bởi những người đang truy_cập mạng bằng công_cụ ẩn_danh .
+Tuy_nhiên , nhóm giám_sát cho rằng người dùng vẫn có cách để truy_cập mạng thông_qua một cầu_nối khác , bất_chấp việc chặn Tor hay những biện_pháp đang được áp_dụng .
+Thổ_Nhĩ_Kỳ là quốc_gia có truyền_thống cắt quyền truy_cập vào các trang_web và dịch_vụ thông_tin của người_dân , đặc_biệt là trong thời_kỳ bất_ổn xã_hội .

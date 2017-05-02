@@ -1,0 +1,16 @@
+Robot luật_sư đầu_tiên được tuyển_dụng
+Khi cần phân_tích phán_quyết phức_tạp của tòa_án từ cách đây 13 năm , ROSS không_chỉ đưa ra kết_quả ngay_lập_tức mà_còn liên_hệ với các trường_hợp hiện_tại bằng ngôn_ngữ đơn_giản và dễ hiểu .
+Theo Tech_Insider , ROSS là một sản_phẩm trí thông_minh nhân_tạo ( AI ) , ứng_dụng sức_mạnh của siêu máy_tính IBM Watson để lướt qua kho dữ_liệu khổng_lồ và học cách phục_vụ tốt nhất cho người dùng theo thời_gian .
+" Quyết_định của thẩm_phán được viết bằng ngôn_ngữ hàng ngày thay_vì phân theo các hàng và cột , vốn là những gì hệ_thống máy_tính hiện_nay đọc hiểu tốt nhất " , Tech_Insider dẫn lời Andrew_Arruda , chủ_tịch kiêm nhà đồng sáng_lập công_ty ROSS Intelligence .
+Theo Arruda , thách_thức trong việc chế_tạo ROSS là tìm ra cách khiến nó có trực_giác như một đồng_nghiệp thực_thụ , có_nghĩa cần lập_trình để nó đáp lại lối nói_chuyện thông_thường của mọi người , không phải chỉ là những lời_nói rời_rạc chứa từ_khóa .
+Quá_trình nghiên_cứu chế_tạo thu được thành_quả xứng_đáng .
+ROSS trở_thành nhân_viên mới tại công_ty luật Baker & Hostetler , chuyên giải_quyết các vụ_việc phá_sản .
+Arruda cho_biết vài công_ty khác đang trong quá_trình ký_kết để sử_dụng các dịch_vụ từ ROSS .
+Arruda dự_đoán mọi công_ty luật sẽ chuyển sang khai_thác năng_lực của AI để phục_vụ công_lý .
+Hiện_nay , khoảng 80% người Mỹ cần mượn luật_sư không đủ điều_kiện chi_trả mức phí .
+" Với ROSS , các luật_sư có_thể phát_huy tối_đa khả_năng và bắt_đầu phục_vụ thị_trường rộng_lớn chưa được khai_thác trên " , Arruda nói .
+Thông_qua sử_dụng những luật_sư mang trí thông_minh nhân_tạo như ROSS , các công_ty luật có_thể tính mức phí thấp hơn do không cần chi_trả cho con_người để xử_lý vụ_việc của khách_hàng .
+Ngoài_ra , những luật_sư tự_do có_thể sử_dụng dịch_vụ AI như ROSS để gia_nhập thị_trường , góp_phần tạo ra nhiều lựa_chọn hợp_lý hơn cho khách_hàng .
+Nhờ ROSS , các luật_sư có_thể tập_trung vào biện_hộ cho khách_hàng với lý_lẽ thuyết_phục hơn thay_vì dành hàng giờ so_sánh giữa hàng trăm vụ_việc tương_tự , đọc hàng trăm trang tài_liệu để tìm văn_bản luật cần_thiết cho công_việc .
+Xem thêm :   Robot giống người nhất nói muốn tiêu_diệt nhân_loại
+Phương_Hoa

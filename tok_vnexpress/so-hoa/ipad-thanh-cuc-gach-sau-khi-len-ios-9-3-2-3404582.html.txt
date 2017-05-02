@@ -1,0 +1,12 @@
+iPad thành ' cục gạch ' sau khi lên i OS 9.3.2
+Một_số người dùng i Pad_Pro 9,7 inch khi cài_đặt hệ_điều_hành mới đã gặp lỗi và không_thể khởi_động .
+Theo Mac Rumors , bản cập_nhật i OS 9.3.2 khiến một_số máy_tính bảng i Pad_Pro 9,7 inch xuất_hiện lỗi " Error 56 " , kèm thông_báo kết_nối thiết_bị với i Tunes bằng máy_tính .
+Tài_liệu trợ_giúp của Apple cho_biết , lỗi này liên_quan đến vấn_đề phần_cứng .
+iPad Pro 9,7 inch gặp lỗi khi nâng_cấp i OS 9.3.2 .
+Với lỗi " Error 56 " , người dùng được khuyến_cáo tải và cài_đặt i Tunes phiên_bản mới nhất .
+Sau đó cần kết_nối thiết_bị với máy_tính và tiến_hành khôi_phục ( restore ) .
+Nếu thực_hiện các bước trên mà i Pad vẫn không hoạt_động trở_lại , người dùng cần liên_hệ với trung_tâm hỗ_trợ của Apple .
+iOS 9.3.2 được Apple phát_hành ngày 17/5 với dung_lượng khoảng 90 MB .
+Lần nâng_cấp phần_mềm này   chủ_yếu vá các lỗ_hổng bảo_mật , sửa lỗi liên_quan đến kết_nối Bluetooth nhưng không có thêm nhiều tính_năng mới .
+Trước đó , hãng đã tung các cập_nhật cho i OS 9 bao_gồm i OS 9.0.1 , 9.0.2 , 9.1 , 9.2 , 9.2.1 , 9.3 và 9.3.1 .
+Nhiều người đặt câu_hỏi về tính ổn_định của hệ_điều_hành này bởi ngay khi ra_mắt , iOS 9.3 đã gặp hai lỗi khá nghiêm_trọng   khiến máy   bị treo khi bấm vào các liên_kết web trong Safari , Mail , Notes , Message trên i Phone 6s , 6s Plus .

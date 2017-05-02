@@ -1,0 +1,20 @@
+3 quan điê ̉ m gia ́ o du ̣ c ' chẳng giống ai ' cu ̉ a hiê ̣ u trươ ̉ ng FUNiX
+Xây dư ̣ ng gia ́ o tri ̀ nh dư ̣ a va ̀ o ta ̀ i liê ̣ u trên Internet , sinh_viên pha ̉ i tư ̣ ho ̣ c , co ̀ n hê ̣ thô ́ ng mentors ( chuyên_gia ) chi ̉ đo ́ ng vai tro ̀ hô ̃ trơ ̣ .
+“ Tôi tin rằng , chúng_ta có_thể xây_dựng giáo_trình dành cho sinh_viên đại_học , thạc_sĩ hay cả tiến_sĩ dựa va ̀ o tài_liệu đã có trên Internet .
+Mỗi mentor sẽ truyền_đạt kiê ́ n thư ́ c qua những công_cụ mới chứ không nhâ ́ t thiê ́ t phải bám theo sách_giáo_khoa được biên_soạn phổ_thông ” , Tiê ́ n si ̃ Nam chia_sẻ .
+Vơ ́ i quan điê ̉ m na ̀ y , ngay tư ̀ khi tha ̀ nh lâ ̣ p trươ ̀ ng , thay vi ̀ thuê ngươ ̀ i soa ̣ n hay mua gia ́ o tri ̀ nh tư ̀ bên ngoa ̀ i , toa ̀ n bô ̣ chương tri ̀ nh ho ̣ c cu ̉ a FUNiX đươ ̣ c ca ́ c chuyên_gia cu ̉ a trươ ̀ ng xây dư ̣ ng dư ̣ a trên nguô ̀ n ta ̀ i liê ̣ u mơ ̉ ( MOOC ) .
+Đây la ̀ như ̃ ng ta ̀ i liê ̣ u chuyên nga ̀ nh vê ̀ Công nghê ̣ thông_tin cu ̉ a ca ́ c trươ ̀ ng đa ̣ i ho ̣ c , ho ̣ c viê ̣ n ha ̀ ng đâ ̀ u trên thê ́ giơ ́ i chuyên đa ̀ o ta ̣ o li ̃ nh vư ̣ c na ̀ y .
+Tuy_nhiên , thay vi ̀ chi ̉ copy nguyên ba ̉ n ta ̀ i liê ̣ u cu ̉ a ca ́ c trươ ̀ ng , FUNiX đa ̃ hê ̣ thô ́ ng la ̣ i tha ̀ nh mô ̣ t chương tri ̀ nh ba ̀ i ba ̉ n .
+Co ́ chương tri ̀ nh rô ̀ i , khi đăng ky ́ ho ̣ c online ta ̣ i trươ ̀ ng , thay vi ̀ nga ̀ y nga ̀ y pha ̉ i lên gia ̉ ng đươ ̀ ng va ̀ ho ̣ c ba ̀ i theo kiê ̉ u thâ ̀ y gia ̉ ng tro ̀ nghe thi ̀ sinh_viên cu ̉ a FUNiX pha ̉ i tư ̣ chu ̉ đô ̣ ng hoa ̀ n toa ̀ n trong viê ̣ c ho ̣ c .
+Tư ̀ viê ̣ c să ́ p xê ́ p thơ ̀ i gian , cho ̣ n chư ́ ng chi ̉ ho ̣ c đê ́ n thơ ̀ i gian ho ̣ c đê ̀ u do sinh_viên quyê ́ t đi ̣ nh .
+Vơ ́ i 8 chư ́ ng chi ̉ , sinh_viên co ́ thê ̉ cho ̣ n ho ̣ c bâ ́ t ky ̀ chư ́ ng chi ̉ na ̀ o ca ̉ m thâ ́ y câ ̀ n thiê ́ t cho ba ̉ n thân , va ̀ co ́ thê ̉ hoa ̀ n tha ̀ nh nhanh hay châ ̣ m do mi ̀ nh quyê ́ t đi ̣ nh .
+Ho ̣ c xong 3 chư ́ ng chi ̉ đâ ̀ u tiên , sinh_viên đươ ̣ c nhâ ̣ n va ̀ o la ̀ m viê ̣ c ta ̣ i FPT Software theo tho ̉ a thuâ ̣ n đa ̃ ky ́ kê ́ t giư ̃ a trươ ̀ ng vơ ́ i công_ty na ̀ y .
+Thay vi ̀ đê ̉ sinh_viên " tư ̣ bơi " , trươ ̀ ng xây dư ̣ ng hê ̣ thô ́ ng mentors vơ ́ i hơn 500 ngươ ̀ i .
+Ho ̣ la ̀ như ̃ ng chuyên_gia công nghê ̣ ha ̀ ng đâ ̀ u cu ̉ a ca ́ c tâ ̣ p đoa ̀ n , công_ty công nghê ̣ lơ ́ n trong va ̀ ngoa ̀ i nươ ́ c .
+Khi gă ̣ p kho ́ khăn trong viê ̣ c ho ̣ c hay công viê ̣ c chuyên nga ̀ nh , sinh_viên đê ̀ u co ́ thê ̉ chia se ̉ vơ ́ i ca ́ c mentors đê ̉ đươ ̣ c hô ̃ trơ ̣ , giu ́ p đơ ̃ .
+Vơ ́ i kinh nghiê ̣ m va ̀ kiê ́ n thư ́ c thư ̣ c tê ́ cu ̃ ng như mô ́ i quan hê ̣ cu ̉ a mi ̀ nh , ngoa ̀ i viê ̣ c hô ̃ trơ ̣ sinh_viên ho ̣ c tâ ̣ p , nhiê ̀ u mentors cu ̉ a trươ ̀ ng đa ̃ hô ̃ trơ ̣ sinh_viên ti ̀ m kiê ́ m như ̃ ng cơ hô ̣ i công viê ̣ c tô ́ t cu ̃ ng như đi ̣ nh hươ ́ ng cu ̣ thê ̉ cho viê ̣ c ho ̣ c ta ̣ i trươ ̀ ng .
+Sau mô ̣ t năm đi va ̀ o hoa ̣ t đô ̣ ng ,   FUNiX hiện có gần 1.000 sinh_viên đến từ 62 tỉnh_thành và 13 quốc_gia .
+Sinh_viên lớn_tuổi nhất đã 76 , còn nhỏ nhất chỉ mới 13 .
+Không_chỉ để lấy bằng đại_học , nhiều học_viên đã là tiến_sĩ , thạc_sĩ thậm_chí có hơn 30 năm kinh_nghiệm làm_việc công_nghệ vẫn theo học tại trường để cập_nhật kiến_thức .
+Sau khi tích_lũy đủ 8 chứng_chỉ của chương_trình học , sinh_viên sẽ trở_thành Kỹ_sư Công nghê ̣ thông_tin va ̀ nhận bằng đại_học được Bộ Giáo dục và Đào_tạo công_nhận .
+Ngo ̣ c Anh

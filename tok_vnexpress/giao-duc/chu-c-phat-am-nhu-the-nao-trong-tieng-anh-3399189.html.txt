@@ -1,0 +1,48 @@
+Chữ C phát_âm như_thế_nào trong tiếng Anh
+Chữ C khá phức_tạp khi phát_âm trong các từ_vựng tiếng Anh , vì có_thể đứng một_mình ( c - cup ) , hoặc đi thành 2 chữ C ( accent / ˈ æ ks ə nt / ( n ) chất giọng ) , hoặc kết_hợp với các phụ_âm khác để thành một phụ_âm mới .
+Thông_thường chữ C được phát_âm là / k / , nhưng không ít trường_hợp C sẽ được phát_âm là / s / .
+Cụ_thể từng cách phát_âm của C như sau :
+Chữ C thường được phát_âm là / k /
+1 . cacao / k ə ˈ ka ʊ / ( n ) ca cao
+2 . cactus / ˈ k æ kt ə s / ( n ) cây xương_rồng
+3 . classical / ˈ kl æ s ɪ k ə l / ( n ) cổ_điển
+4 . coach / k ə ʊ t ʃ / ( n ) xe_khách
+5 . cream / kri ː m / ( n ) kem
+6 . drastic / ˈ dr æ st ɪ k / ( adj ) mạnh_mẽ , quyết_liệt
+Khi C + e , i hoặc y ( ce , ci , cy ) thường được phát_âm là / s / ( khi chúng là âm cuối hoặc là âm mang trọng_âm )
+1 . announce / ə ˈ na ʊ nts / ( v ) thông_báo
+2 . cider / ˈ sa ɪ d ə r / ( n ) rượu táo
+3 .   cinema / ˈ s ɪ n ə m ə / ( n ) rạp chiếu_phim
+4 .   criticize / ˈ kr ɪ t ɪ sa ɪ z / ( v ) phê_bình
+5 .   cyclical / ˈ s ɪ kl ɪ k ə l / ( n ) theo chu_kỳ
+6 . cyclone / ˈ sa ɪ kl ə ʊ n / ( n ) gió xoáy
+7 . excise / ˈ eksa ɪ z / ( n ) thuế
+8 .   exciting / ɪ k ˈ sa ɪ t ɪ ŋ / ( adj ) hứng_thú
+9 .   exercise / ˈ eks ə sa ɪ z / ( n ) sự tập_luyện
+10 .   fancy / ˈ f æ ntsi / ( v ) tưởng_tượng
+11 .   importance / ɪ m ˈ p ɔ ː rt ə nts / ( n ) sự quan_trọng
+12 . introduce / ˌ ɪ ntr ə ˈ du ː s / ( v ) sản_xuất
+13 . juicy / ˈ d ʒ u ː si / ( adj ) có nhiều nước
+14 .   policy / ˈ p ɑ ː l ə si / ( n ) chính_sách
+15 .   racehorse / ˈ re ɪ sh ɔ ː s / ( n ) ngựa đua
+Ci nằm ở những âm không mang trọng_âm thì chúng thường được phát_âm là / ʃ /
+1 . commercial / k ə ˈ m ɜ ː ʃ ə l / ( adj ) thuộc về thương_mại
+2 . delicious / d ɪ ˈ l ɪ ʃ ə s / ( adj ) ngon
+3 . especially / ɪ ˈ spe ʃ ə li / ( adv ) nhất_là
+4 . official / ə ˈ f ɪ ʃ ə l / ( adj ) chính_thức
+5 . precious / ˈ pre ʃ ə s / ( adj ) quý_giá
+6 . provincial / pr ə ˈ v ɪ nt ʃ ə l / ( n ) người tỉnh_lẻ
+7 . social / ˈ s ə ʊ ʃ ə l / ( adj ) thuộc xã_hội
+8 . spacious / ˈ spe ɪ ʃ ə s / ( adj ) rộng_rãi
+9 . special / ˈ spe ʃ ə l / ( adj ) đặc_biệt
+10 . suspicious / s ə ˈ sp ɪ ʃ ə s / ( adj ) nghi_ngờ
+Ck luôn được phát_âm là / k /
+1 . brick / br ɪ k / ( n ) viên gạch
+2 . chicken / ˈ t ʃ ɪ k ɪ n / ( n ) con gà
+3 . pick / p ɪ k / ( v ) lấy ra , chọn ra
+4 . sick / ˈ s ɪ k / ( a ) ốm
+5 . soundtrack / ˈ sa ʊ ndtr æ k / ( n ) bản_nhạc phim
+6 . stick / st ɪ k / ( n ) cái gậy
+7 . thick / θ ɪ k / ( adj ) dày , đậm
+8 . truck / tr ʌ k / ( n ) xe_tải
+Thầy_giáo Nguyễn_Anh_Đức Tác_giả cuốn Luyện siêu trí_nhớ từ_vựng tiếng Anh theo phương_pháp Do_Thái

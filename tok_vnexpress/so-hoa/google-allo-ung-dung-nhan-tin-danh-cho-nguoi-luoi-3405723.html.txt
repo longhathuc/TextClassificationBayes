@@ -1,0 +1,12 @@
+Google_Allo - ứng_dụng nhắn_tin dành cho người lười
+Ứng_dụng của hãng dịch_vụ Internet_Mỹ có_thể phân_tích và học_hỏi thói_quen chat của người dùng để đưa ra gợi_ý , giúp họ phản_hồi nhanh mà không cần soạn tin .
+Trong sự_kiện I / O diễn ra ngày 18/5 tại Mỹ , Google cho_biết việc chương_trình Allo được thiết_kế để việc tán_gẫu với bạn_bè trở_nên dễ_dàng hơn .
+Ứng_dụng này sẽ thống_kê và học_hỏi cách nhắn_tin của người dùng với từng số điện_thoại trong danh_sách liên_lạc , như cách nói , kiểu viết tắt , các hình sắc_thái ( emoji ) hay sử_dụng ... , từ đó đưa ra các gợi_ý để họ lựa_chọn .
+Allo có_thể phân_tích một bức ảnh được gửi tới   và đưa ra các gợi_ý trả_lời để người dùng lựa_chọn .
+Chẳng_hạn , tính_năng Smart_Reply ( trả_lời thông_minh ) có_thể phân_tích các bức ảnh được gửi đến cho người nhận , như một em bé hay một con chó , và hiển_thị các câu trả_lời : " Ah , con chó dễ_thương quá " hay " Tớ thích cái mũ của bé " .
+Nếu phù_hợp , người dùng chỉ cần bấm vào gợi_ý đó để gửi đi mà không cần mất thời_gian gõ ký_tự .
+Smart_Reply đã được Google đưa vào ứng_dụng Inbox năm_ngoái , nhưng việc tích_hợp vào các đoạn hội_thoại trực_tiếp sẽ mang lại hiệu_quả lớn hơn cho người sử_dụng , nhất_là những_ai đang bận_rộn , lười chat hoặc chưa nghĩ ra câu trả_lời .
+Người dùng có_thể phóng to chữ và emoji để nhấn_mạnh cảm_xúc của mình .
+Allo cũng cho_phép người dùng đặt xe Uber , tra tình_hình thời_tiết ... ngay trong tin nhắn mà không cần phải mở một ứng_dụng hay website khác .
+Bên_cạnh Allo , Google giới_thiệu ứng_dụng hội_thoại video Duo với tính_năng đơn_giản , cho_phép thực_hiện cuộc_gọi cả khi chất_lượng kết_nối kém .
+Khi có cuộc_gọi tới , người dùng có_thể thấy hình_ảnh của người_ở đầu kia dù chưa hề bấm nút nhận cuộc_gọi ( giống như khi có người gõ_cửa , bạn có_thể thấy ai đang đứng trước nhà mình mà chưa cần mở_cửa ra ) .

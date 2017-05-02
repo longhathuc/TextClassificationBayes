@@ -1,0 +1,12 @@
+Hàng chục game Android bị nhiễm mã độc
+Hơn 60 ứng_dụng game trên Google_Play bị phát_hiện nhiễm phần_mềm Trojan với khả_năng nhận lệnh điều_khiển_từ_xa của hacker .
+Theo các nhà_nghiên_cứu bảo_mật Doctor_Web , phiên_bản mã độc có tên Android.Xiny.19.origin đã lây_nhiễm trên nhiều trò_chơi được phát_hành qua kho ứng_dụng của Google .
+Tuy không nêu tên cụ_thể ,   Doctor_Web cho_biết những game này thuộc về 30 nhà_phát_triển như   Conexagon_Studio , Fun_Color_Games , BILLAPPS ...
+Một_số game trên Play_Store đang chứa mã độc_hại .
+Ảnh : AndroidPit .
+Trojan sẽ được kích_hoạt ngay khi người dùng bắt_đầu chơi game .
+Nó gửi thông_tin trên thiết_bị lây_nhiễm như số IMEI , ngôn_ngữ , tên máy ... tới máy_chủ điều_khiển .   Android.Xiny cũng sẽ thực_hiện một_số hoạt_động độc_hại như cài các phần_mềm khác , thậm_chí xóa ứng_dụng trên máy mà người dùng không hề hay_biết .
+Doctor_Web đã gửi cảnh_báo tới Google và khuyến_cáo tạm_thời người sử_dụng thiết_bị Android không nên tải game khi máy chưa cài công_cụ diệt virus .
+Đây là lần thứ_hai trong tháng 1/2016 , Play_Store của Google bị phát_hiện có ứng_dụng chứa mã độc .
+Đầu tháng trước , hãng bảo_mật Lookout nhận thấy chương_trình độc_hại Brain_Test đã xuất_hiện trong 13 ứng_dụng trên Play_Store và có khả_năng đã lây_nhiễm trên 500.000 đến 1 triệu thiết_bị của người dùng .
+Minh_Minh

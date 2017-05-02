@@ -1,0 +1,19 @@
+Công_nghệ cơ_thể người 3D giành giải tri_thức trẻ vì giáo_dục
+Nhóm tác_giả thuộc Đại_học Duy_Tân ( Đà_Nẵng ) đã hoàn_thiện hệ_thống mô_phỏng 3D về cấu_tạo cơ_thể người gồm hệ xương , cơ , thần_kinh , tiêu_hóa … phục_vụ cho giảng_dạy của sinh_viên ngành y .
+Tối 14/11 , Trung_ương Đoàn TNCS Hồ_Chí_Minh trao giải " Tri_thức trẻ vì giáo_dục " cho các công_trình , sáng_kiến hay phục_vụ giảng_dạy , học_tập .
+Qua vòng sơ loại , 16 công_trình , sáng_kiến của các tác_giả vào vòng chung_khảo .
+Ba công_trình có khả_năng ứng_dụng rộng_rãi trong dạy_học nhận giải_thưởng 100 triệu đồng , gồm : ứng_dụng công_nghệ mô_phỏng thực_tại_ảo 3D xây_dựng hệ_thống hỗ_trợ công_tác giảng_dạy , học_tập , nghiên_cứu cho sinh_viên và giảng_viên khối ngành khoa_học sức_khỏe của nhóm tác_giả Lê_Văn_Chung , Trịnh_Hiệp_Hòa , Lê_Khắc_Triều_Hưng , Nguyễn_Minh_Đức và Nguyễn_Lương_Thọ đến từ Đại_học Duy_Tân ( Đà_Nẵng ) ; sự cần_thiết của việc xây_dựng chương_trình và đưa giáo_dục giới_tính vào trường_học của cô_giáo Lê_Thị_Bé_Nhung , Trường THPT Phan_Ngọc_Tòng ( Bến_Tre ) ; và thiết_kế , chế_tạo một_số thiết_bị thí_nghiệm mới phần cảm_ứng_điện_từ để sử_dụng trong dạy_học Vật_lý ở trường phổ_thông của tác_giả Nguyễn_Quốc_Huy , Đại_học Sư_phạm Hà_Nội .
+Sáng_kiến dùng công_nghệ 3D mô_phỏng cơ_thể người phục_vụ cho dạy_học y_khoa của nhóm tác_giả đến từ Đại_học Duy_Tân được đánh_giá cao về tính khả_thi .
+Công_trình hoàn_thiện hệ_thống mô_phỏng 3D về các hệ trong cơ_thể người , như xương , cơ , thần_kinh , tiêu_hóa … và cơ_thể người gồm đầy_đủ các hệ chạy trên thiết_bị di dộng để phục_vụ giảng_dạy , tra_cứu thông_tin .
+Trong dạy_học , mô_hình này sử_dụng dưới hai hình_thức : học 2D trong các phòng máy_tính của trường , mỗi sinh_viên một máy và tự nghiên_cứu dưới sự hỗ_trợ của giảng_viên ; học 3D trực_quan tại phòng studio có trang_bị hệ_thống chiếu 3D ; giảng_viên dùng air - mouse để giảng còn sinh_viên được trang_bị kính 3D .
+Thạc_sĩ Lê_Văn_Chung , chủ_nhiệm đề_tài cho_biết , giải_phẫu là môn_học mô_tả các chi_tiết cấu_tạo cơ_thể nên cần nhiều phương_tiện hỗ_trợ như xác , xương rời , tiêu_bản , tranh , mô_hình … , song mô_hình , tranh luôn thiếu bởi chi_phí quá đắt , các phòng thực_hành giải_phẫu cũng luôn quá_tải .
+Xác người là phương_tiện trực_quan tốt nhất song khó kiếm vì hiến xác liên_quan đến tình_cảm , phong_tục , tâm_linh muốn " mồ_yên_mả_đẹp " của người Việt .
+Ứng_dụng 3D có_thể giúp sinh_viên ngành y được quan_sát những chi_tiết trên cơ_thể người trực_quan , sinh_động nhất dù là ảo .
+Khi thực_hiện công_trình , nhóm gặp nhiều khó_khăn , cần sự thẩm_định đúng_đắn của các giáo_sư đầu ngành nên đã tìm tới Đại_học Y_dược Huế .
+" Rất may là nhiều thầy tâm_huyết , thích_thú với đề_tài này nên một hội_đồng chuyên_khoa của Đại_học Y_dược Huế được thành_lập , thẩm_định độ_chính_xác của công_trình và chấp_nhận đưa vào thực_tế giảng_dạy " , anh Chung cho_hay .
+Thời_gian tới , kỳ_vọng của cả nhóm là mở_rộng xây_dựng bệnh_nhân ảo , tình_huống về bệnh hay gặp ở Việt_Nam , phát_triển nội_soi ảo , phẫu_thuật ảo trên cơ_thể ảo để luyện nghề , cho sinh_viên quan_sát , học_hỏi trước khi trải_nghiệm thực_tế .
+GS Văn_Như_Cương , Hiệu_trưởng trường THPT Lương_Thế_Vinh , Hà_Nội cho rằng , đề_tài rất hấp_dẫn , nên nghiên_cứu thêm để có_thể ứng_dụng giảng_dạy môn Sinh_học trong trường phổ_thông chứ không_chỉ phục_vụ sinh_viên khối ngành Y_dược .
+Đánh_giá các đề_tài , nguyên Bộ_trưởng Khoa_học và Công_nghệ Nguyễn_Quân - thành_viên ban giám_khảo cho_biết chất_lượng các công_trình tương_xứng với kỳ_vọng của hội_đồng .
+" Chúng_tôi trao_đổi kỹ với nhóm tác_giả và thấy rằng họ đầu_tư rất bài_bản .
+Chất_lượng công_trình cũng đa_dạng , có sản_phẩm chỉ ở mức ý_tưởng hay nhưng có tác_phẩm đã được khảo_nghiệm nhiều nơi " , ông nói .
+Hoàng_Phương

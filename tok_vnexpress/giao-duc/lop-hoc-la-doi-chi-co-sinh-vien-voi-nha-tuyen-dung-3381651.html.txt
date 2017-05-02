@@ -1,0 +1,26 @@
+Lớp_học lạ_đời chỉ có sinh_viên với nhà tuyển_dụng
+Ngày đầu nhập_học , thông_thường , sinh_viên làm_quen với thầy_cô , bạn_bè , bầu cán_bộ lớp ...
+Còn ở FUNiX , họ được tiếp_xúc ngay với chính nhà tuyển_dụng .
+Các bạn đừng ngạc_nhiên về điều này .
+Phương_châm số_một mà chúng_tôi đặt ra khi   mở ra FUniX là - sinh_viên hãy học nhanh để còn đi kiếm tiền .
+Suy cho cùng , bạn học ngành_nghề nào thì đích cuối vẫn là có việc_làm , có thu_nhập để đảm_bảo cuộc_sống .
+Thực_tế , sinh_viên nào tốt_nghiệp mang tấm bằng đi xin việc đều bị hỏi thâm_niên , kinh_nghiệm .
+Mà vừa tốt_nghiệp thì lấy đâu ra thâm_niên , cho_nên , con đường ngắn nhất để các bạn sinh_viên có kinh_nghiệm là ngay từ khi mài đũng quần trên ghế nhà_trường họ phải được tiếp_xúc với nhà tuyển_dụng .
+Đầu năm 2001 , Công_ty phần_mềm FPT Software có những khách_hàng đầu_tiên .
+Một hôm , họ đòi phỏng_vấn tìm_kiếm nhân_sự .
+7 cử_nhân thuộc hàng top của Đại_học Bách_khoa Hà_Nội tham_gia , cuộc phỏng_vấn diễn ra nhanh_chóng .
+Sau khi phỏng_vấn , trong 7 sinh_viên đó , chỉ có một người có_thể đáp_ứng được công_việc - đó chính là chú thủ_khoa .
+Nói thế để thấy , mặc_dù cầm trong tay những tấm bằng của một trong những trường đại_học danh_giá nhất Việt_Nam , đối_với yêu_cầu của các công_ty công_nghệ , chúng_tôi đều thuộc loại chưa biết gì .
+Trong những năm đầu_tiên tôi làm_việc tại FPT Software , có đến 90% các công_nghệ mà khách_hàng hỏi là những thứ tôi được nghe lần đầu .
+Mặc_dù vậy , chúng_tôi vẫn được khách tin_tưởng đặt_hàng .
+Có lần , làm hỏng dự_án , cả nhóm không tránh khỏi cảm_giác thất_vọng , chán_nản .
+Nhưng thay_vì hủy hợp_đồng , làm_khó thì khách_hàng mời cả nhóm đi ăn rồi động_viên riêng với tôi " yên_tâm đi , cứ kiên_trì các bạn sẽ làm được " .
+Lúc đó , chúng_tôi kiên_trì một , thì khách_hàng phải kiên_trì 10 , và tôi đã trưởng_thành từ những yêu_cầu và sự tin_tưởng của khách_hàng .
+Với tôi , FPT Software chính là một trường_học lớn , nơi chúng_tôi say_sưa học dưới sự dìu_dắt của các mentor - khách_hàng .
+Khi ra_đời vào năm 2006 , trường Đại_học FPT đã viết vào trong cương_lĩnh của mình là mỗi sinh_viên phải có một mentor - là các chuyên_gia trong ngành công_nghiệp hướng_dẫn .
+Tuy_nhiên , vì các mentor là những người đứng đầu các công_ty , tập_đoàn lớn nên lúc đó lịch dự_án , làm_việc của họ vô_cùng bận_rộn , trong khi lịch học của sinh_viên cũng khá nặng nên không_thể thực_hiện bằng hình_thức học ofline ở giảng_đường .
+Đến khi Internet phát_triển mạnh_mẽ , mạng xã_hội bùng_nổ , con người_ta có_thể kết_nối mọi nơi mọi lúc thì các MOOC ( khoá học trực_tuyến mở - Massive_Open_Online_Course ) được mở ra đại_trà , cho_phép mỗi sinh_viên tự lên chương_trình học cho chính mình .
+Đại_học trực_tuyến FUNiX ra_đời đáp_ứng các tiêu_chí của một lớp_học hiện_đại - học trực_tuyến với các chuyên_gia .
+Gần đây , một sinh_viên khi đang theo học ngành Công_nghệ_thông_tin tại FUNiX đã được một mentor nhận vào làm kỹ_sư lập_trình chuyên_ngành dầu_khí cho FPT Software .
+Giấc_mơ 15 năm trước của chúng_tôi , khi ngày đầu_tiên đi học , sinh_viên đã gặp các mentor của đời mình , đang trở_thành hiện_thực .
+Nguyễn_Thành_Nam Hiệu_trưởng Đại_học trực_tuyến FUNiX

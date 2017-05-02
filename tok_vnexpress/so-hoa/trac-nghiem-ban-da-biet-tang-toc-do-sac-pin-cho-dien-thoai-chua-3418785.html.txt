@@ -1,0 +1,25 @@
+Trắc_nghiệm : Bạn đã biết tăng tốc_độ sạc pin cho điện_thoại chưa ?
+Những câu_hỏi dưới đây giúp bạn hiểu rõ hơn về quá_trình sạc pin trên smartphone và các cách để tăng tốc_độ sạc .
+1 . Chế_độ nào sau đây giúp sạc pin điện_thoại nhanh hơn ?
+-   Bật_Bluetooth
+-   Bật_Wi - Fi
+-   Bật_Airplane_Mode
+2 . Ốp bảo_vệ điện_thoại loại nào có lợi cho việc sạc pin ?
+-   Case nhựa trong_suốt
+-   Case không trong_suốt
+-   Không nên dùng ốp khi sạc
+3 . Có_thể dùng bộ nạp i Pad để sạc pin cho i Phone không ?
+-   Có
+-   Không
+4 . Sạc pin smartphone bằng cổng USB trên máy_tính cho tốc_độ thế_nào so với bộ nạp của nhà_sản_xuất ?
+-   Chậm hơn
+-   Nhanh hơn
+5 . Để điện_thoại ở đâu giúp sạc pin nhanh hơn ?
+-   Trên giường , đệm
+-   Trên bàn phẳng , thoáng
+6 . Dây_cáp có ảnh_hưởng đến tốc_độ sạc pin hay không ?
+-   Không
+-   Có
+7 . Sạc pin smartphone thế_nào là đúng cách ?
+-   Chỉ sạc khi máy báo dưới 10%
+-   Có_thể sạc bất_cứ lúc_nào

@@ -1,0 +1,7 @@
+Lỗi dịch tiếng Anh trong biển_báo ‘ cấm ngồi ’
+Một trung_tâm thương_mại ngay gần Hồ_Gươm ( Hà_Nội ) có biển_báo " xin vui_lòng không ngồi tại đây " và dịch tiếng Anh không chính_xác .
+Bạn hãy phát_hiện lỗi và đề_xuất cách sửa chính_xác .
+Nội_dung " Vui_lòng không ngồi tại đây " được dịch sang tiếng Anh thành " Please do not seat here " .
+Theo bạn biển_báo này sai ở đâu và cần sửa lại như_thế_nào cho chính_xác ?
+> > Đáp_án
+Seally_Nguyen

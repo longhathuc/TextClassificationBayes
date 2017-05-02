@@ -1,0 +1,29 @@
+Lỗi i Phone thành ' cục gạch ' làm nhiều người hoang_mang
+Nửa tháng qua , nhiều trường_hợp i Phone bản quốc_tế sau khi cài_đặt lại ( reset ) hoặc khôi_phục dữ_liệu ( restore ) bị biến thành hàng khoá mạng , không nhận sim .
+Các cửa_hàng kinh_doanh i Phone xách tay cho rằng đây là lỗi server của Apple , còn phần_đông người dùng gọi_là lỗi kích_hoạt .
+Dù chưa được Apple xác_nhận hay thông_báo là lỗi , hiện_tượng trên đang gây hoang_mang cho không ít người dùng ở Việt_Nam .
+Trịnh_Văn_Thành , độc_giả của Số_Hoá , cho_hay đang có ý_định mua một chiếc i Phone 6 nhưng buộc phải cân_nhắc vì sợ lỗi .   Trên
+diễn_đàn Tinh_Tế , chủ_đề điểm_danh những_ai gặp lỗi đã có tới hơn 1.000 lời phản_hồi .
+Trong đó , số máy bị khoá sim , biến từ bản quốc_tế thành khoá mạng khá nhiều và hầu_hết là phiên_bản dành cho thị_trường Mỹ với đuôi mã serial LL .
+Nhiều người sử_dụng i Phone xách tay lo_lắng không dám reset thiết_bị , hoặc phải   liên_hệ trực_tiếp với nhân_viên Apple và các dịch_vụ để   tra tìm nguồn_gốc máy .
+Với người chưa dính phải , họ cũng không dám cài_đặt lại phần_mềm vì sợ có_thể bị khoá máy và không nhận sim .
+Nhiều người đã kiểm_tra lại thông_tin về nguồn_gốc của máy bằng cách liên_hệ trực_tiếp với nhân_viên Apple hoặc dùng dịch_vụ trên mạng để xem liệu có phải máy khoá mạng được chuyển sang thành hàng quốc_tế trước khi bán hay không .
+Phần_đông nhận_định việc i Phone thành " cục gạch " sau khi reset không phải lỗi server của Apple , mà thực_chất do các cửa hàng_xách tay bán loại hàng_không phải quốc_tế nguyên_bản , vốn là hàng nhà mạng nhưng đã được nhập mã ( code ) mở mạng .
+Xuân_Việt , một thợ sửa i Phone lâu năm ở Hà_Nội , cho_hay trường_hợp i Phone mở mạng bằng code dễ bị khoá trở_lại nếu dùng code " lậu " mua bằng thẻ_tín_dụng giả , hoặc loại code giá rẻ chỉ có thời_hạn mở khoá tạm_thời .
+Phải sử_dụng code đúng của nhà mạng cung_cấp , iPhone khoá mạng mới thành bản quốc_tế .
+Tuy_nhiên , mã do nhà mạng bán thường đắt , lên tới vài triệu đồng nên i Phone xách tay gặp lỗi " cục gạch " ở Việt_Nam có_thể do đã dùng code mở mạng giá rẻ trước đó .
+Hiện_tượng i Phone bị khoá rộ lên hai tuần qua với số_lượng không ít , nhưng nhiều cửa_hàng cho_biết chưa có nguyên_nhân chính_xác khiến máy bị lỗi sim và khoá mạng trở_lại .
+Nguyễn_Huy , quản_lý một cửa_hàng ở Thái_Hà ( Hà_Nội ) , xác_nhận họ gặp phải 10 trường_hợp bị lỗi kích_hoạt như trên sau khi người dùng reset hoặc restore thiết_bị , gồm cả hàng qua sử_dụng lẫn hàng mới .
+Tất_cả đều là hàng_xách tay .
+Tuy_nhiên , anh Huy và một_số cửa_hàng khác khẳng_định i Phone nhập về đều là phiên_bản quốc_tế và có_thể sử_dụng bình_thường với mọi loại sim , không phải máy khoá mạng .
+Để khắc_phục và hạn_chế lỗi xảy_ra , các cửa_hàng đều đề_nghị người dùng không cài_đặt hoặc khôi_phục dữ_liệu , tránh bị khoá lại .
+Còn trong trường_hợp bị khoá , họ buộc phải sử_dụng thêm sim ghép như máy lock hoặc chờ_đợi .
+Nhiều i Phone xách tay bản quốc_tế bỗng_dưng thành bản khoá mạng sau khi reset .
+Lỗi " cục gạch " cũng làm ảnh_hưởng đến thị_trường i Phone xách tay ở Việt_Nam , khiến doanh_số chững lại , đặc_biệt với loại hàng qua sử_dụng .
+Chủ một cửa_hàng ở Cầu_Giấy ( Hà_Nội ) cho_hay đã phải tạm_thời ngưng nhập i Phone 6 , 6 Plus qua sử_dụng và yêu_cầu các " đầu_nậu " ở nước_ngoài tìm_hiểu nguyên_nhân .
+Hiện lỗi kích_hoạt , biến i Phone quốc_tế thành khoá mạng , xuất_hiện chủ_yếu với hàng_xách tay .
+Đại_diện các nhà phân_phối i Phone chính_thức ở Việt_Nam cho_hay họ chưa gặp bất_kỳ trường_hợp nào như trên .
+Máy_chủ của Apple vẫn hoạt_động bình_thường trong hai tuần qua .
+Hiện_tại , để tránh gặp i Phone lỗi kích_hoạt , đặc_biệt với i Phone đã qua sử_dụng , trước khi mua , người dùng nên yêu_cầu người bán reset toàn_bộ dữ_liệu rồi lắp sim của mình và kích_hoạt thiết_bị trở_lại .
+Ngoài việc xem có phải máy bị khoá mạng hay không , khâu này còn giúp phát_hiện thiết_bị có dính tài_khoản i Cloud của người khác hay không .
+Xem thêm :   Nhiều i Phone hàng_xách tay ở Việt_Nam bị biến thành ' cục gạch '

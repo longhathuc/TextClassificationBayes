@@ -1,0 +1,33 @@
+Hành_trình tìm_kiếm công_nghệ pin tốt hơn
+Tuổi_thọ của pin trên thiết_bị di_động phát_triển trung_bình 5% một năm , riêng Apple , sau 9 năm ra i Phone , pin mới chỉ cải_thiện thêm 22% .
+Những chiếc điện_thoại_di_động được ra_mắt đầu thế_kỷ 21 có_thể hoạt_động vài ngày liên_tục mà không cần sạc .   Tuy_nhiên , giờ_đây điều này không còn tồn_tại .
+Mặc_dù smartphone đã cải_tiến rất nhiều về thiết_kế và tính_năng phần_mềm , tuổi_thọ pin vẫn là một vấn_đề gây đau_đầu cho những_ai đang sử_dụng điện_thoại thông_minh .
+Tại_Triển lãm MacWorld được tổ_chức tháng 1/2007 , cố lãnh_đạo Steve_Jobs đã chính_thức trình_làng phiên_bản i Phone đầu_tiên .
+Chỉ sau 15 tháng , doanh_số bán i Phone thế_hệ đầu đã chạm mốc 6,1 triệu chiếc .
+Hơn 9 năm đã trôi qua với biết_bao sự đổi_thay trong các thế_hệ i Phone , với phiên_bản mới nhất_là i Phone 6s ra_mắt năm_ngoái tốc_độ hoạt_động nhanh gấp 16 lần phiên_bản i Phone đầu_tiên nhưng tuổi_thọ pin của nó chỉ cải_thiện 22% - đủ để người dùng sử_dụng i Phone một ngày mà không cần sạc .
+Theo trang The_Telegraph ,   nguyên_nhân của sự chậm cải_tiến này là từ công_nghệ pin Lithium-ion ( gọi tắt là Li-ion ) .
+Chính thiết_kế đơn_giản của pin Li-ion đã tạo ra trở_ngại cho các nhà_khoa_học trong con đường cải_thiện tuổi_thọ pin cho smartphone .
+Khi một bộ pin Li-ion được sạc , các phân_tử sẽ chạy theo một quỹ_đạo hình_tròn xung_quanh những điện_cực âm .
+Nhờ những điện_cực âm này , các i - ôn sẽ được tạo ra thông_qua dung_dịch chất điện_phân .
+Quá_trình này từ đó sẽ sản_xuất ra những phân_tử giúp máy điện_thoại hoạt_động .
+Để cải_thiện tuổi_thọ của một loại pin , thành_phần hóa_học của nó cần được biến_đổi .
+Nhưng bởi_vì thành_phần hóa_học của pin Li-ion khá đơn_giản , nên việc này trở_nên vô_cùng khó_khăn .
+Thực_tế thống_kê cho thấy , mặc_dù các doanh_nghiệp công_nghệ lớn trên thế_giới đã dồn nhiều nguồn_lực , nhưng tuổi_thọ pin smartphone hiện_nay chỉ tăng trung_bình 5% một năm .
+Nhiều nhà_khoa_học nhận_định , cách tốt nhất để tăng con_số 5% là mở_rộng kích_thước của pin và thiết_bị di_động .
+Nhưng điều này lại đi trái_ngược với khuynh_hướng sản_xuất của các hãng công_nghệ và thị_hiếu của người sử_dụng điện_thoại thông_minh .
+Vậy đâu là những giải_pháp khả_thi ?
+Pin_Li - ion trên smartphone LG_G3 .
+Năm_ngoái , các nhà_nghiên_cứu đến từ_trường đại_học Cambridge ( Anh ) đã sáng_tạo thành_công một công_nghệ pin mới có tên “ Lithi không_khí ” .
+Công_nghệ pin này sử_dụng các phân_tử được tạo ra từ khí ô - xy thay_vì những biện_pháp nhân_tạo và vì_thế có tuổi_thọ gấp 10 lần pin Li-ion .
+Nếu “ Lithi không_khí ” được đưa vào sử_dụng , một chiếc ô_tô điện có_thể chạy thẳng từ London đến Edinburgh ( Scotland ) sau một lần sạc đầy .
+Tuy_nhiên , phát_minh của các nhà_khoa_học đến từ đại_học Cambridge được đánh_giá là không bền_vững vì công_nghệ pin của họ không_thể chịu được nhiều lần sạc lại liên_tục .
+Vào nửa đầu tháng 1 năm nay , nhóm nghiên_cứu đến từ phòng_thí_nghiệm Argonne ( Mỹ ) công_bố họ đã phát_minh ra công_nghệ pin mang tên “ Lithi-peoxit ” , hứa_hẹn sẽ giải_quyết những vấn_đề của “ Lithi không_khí ” .
+Tuy_nhiên , tất_cả những gì biết về “ Lithi-peoxit ” là cần khoảng 10 năm nữa loại pin này mới được áp_dụng đại_trà trên thị_trường .
+Thay_vì cải_thiện tuổi_thọ pin , nhiều công_ty đang tập_trung vào cải_thiện cách mà cung_cấp năng_lượng cho nó .
+Công_ty công_nghệ Intelligent_Energy mới_đây cho_biết họ đang phát_triển công_nghệ pin sử_dụng những tế_bào hydro chất_đốt .
+Những tế_bào này sẽ tự_động được trao_đổi khi cần_thiết và vì_thế không cần cắm sạc lại .
+Intelligent_Energy hứa_hẹn , một_khi công_nghệ của mình được hiện_thực hóa , nó sẽ cung_cấp đủ năng_lượng để cho một chiếc smartphone và một máy_bay_không_người_lái hoạt_động lần_lượt trong một tuần và vài giờ liên_tục .
+Henri_Winand , CEO của Intelligent_Energy tiết_lộ , công_nghệ pin sử_dụng tế_bào chất_đốt có_thể có_mặt trên thị_trường trong 18 tháng nữa .
+Thay_vì cố_gắng tạo ra những bước đột_phá , nhiều doanh_nghiệp lớn trên thế_giới đang tập_trung vào phát_triển công_nghệ sạc không dây và sạc nhanh , giúp sạc 60% pin điện_thoại chỉ trong nửa giờ .
+Mới_đây , tập_đoàn Huawei của Trung_Quốc thậm_chí đã trình_làng một công_nghệ sạc pin siêu_tốc , cho_phép sạc 48% pin chỉ trong 5 phút .
+Nguyễn_Mai_Đức

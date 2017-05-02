@@ -1,0 +1,4 @@
+Phép cộng gây đau_đầu chỉ với con_số 8
+Với dữ_liệu là số 8 và yêu_cầu sử_dụng duy_nhất một phép_tính , nhiều người phải " vò_đầu_bứt_tai " với câu_đố toán_học này .
+> > Thử tài tư_duy của bạn với bài_toán lớp 7
+> > Bài_toán chuyển_động giúp kiểm_tra kiến_thức lớp 5-6

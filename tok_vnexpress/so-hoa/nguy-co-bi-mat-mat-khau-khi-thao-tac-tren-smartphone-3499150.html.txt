@@ -1,0 +1,15 @@
+Nguy_cơ bị mất mật_khẩu khi thao_tác trên smartphone
+Tin_tặc có_thể dễ_dàng lấy_được mật_khẩu , mã PIN… khi người dùng thao_tác trên smartphone bằng cách phân_tích tín_hiệu Wi-Fi .
+Các nhà_khoa_học đến từ Đại_học Shanghai_Jiao_Tong , Đại_học Massachusetts_Boston và Đại_học Nam_Florida ( Mỹ ) đã bắt_tay nghiên_cứu và phát_triển hệ_thống phân_tích sóng Wi-Fi mang tên Windtalkers .
+Đây là hệ_thống có_thể đánh_cắp mật_khẩu người dùng và nhiều hơn thế nữa thông_qua thao_tác ngón_tay khi sử_dụng smartphone .
+Người dùng smartphone dễ bị đánh_cắp mật_khẩu khi truy_cập mạng Wi-Fi công_cộng .
+Cụ_thể , các nhà_khoa_học đã tạo nên một điểm truy_cập Internet công_cộng chứa phần_mềm độc_hại gồm một ăng - ten giá 20 USD và card mạng của Intel giá 5 USD , sau đó kết_nối với máy_tính_xách_tay đã truy_cập Wi-Fi trong quán cà_phê .
+Để dễ_dàng đánh_lừa hơn , nhóm cài_đặt mạng Wi-Fi này không có mật_khẩu , sau đó đặt cách mục_tiêu tấn_công khoảng 1 mét .
+" Việc tấn_công là dễ_dàng , bởi mục_tiêu tự ' vào_tròng ' mà không cần thêm thủ_thuật đánh_lừa nào khác " , đại_diện nhóm cho_biết .
+Khi mục_tiêu kết_nối Wi-Fi miễn_phí , Windtalkers lập_tức làm_việc bằng cách phân_tích các tín_hiệu sóng_vô_tuyến .
+Theo đại_diện nhóm nghiên_cứu , khi người dùng vuốt mở khóa màn_hình điện_thoại thông_minh , nhập mật_khẩu , mã PIN hoặc đăng_nhập ứng_dụng , hành_động này làm thay_đổi cường_độ tín_hiệu Wi-Fi từ điểm phát vào điện_thoại_di_động .
+Windtalkers sẽ xử_lý các tín_hiệu này và trích xuất những tín_hiệu cần_thiết , sau đó phân_tích để cho ra mật_khẩu .
+" Windtalkers cho tỷ_lệ thành_công 68,3% , thậm_chí lên tới 81,7% đối_với các mật_khẩu có 6 chữ_số , vốn được áp_dụng rộng_rãi bởi các ngân_hàng và dịch_vụ thanh_toán trực_tuyến " , đại_diện nhóm nghiên_cứu nhấn_mạnh .
+Tuy_nhiên , nhóm nghiên_cứu lưu_ý rằng , việc tấn_công chỉ áp_dụng cho các router thế_hệ mới có nhiều an - ten phát Wi-Fi và sử_dụng công_nghệ truyền_dẫn vô_tuyến tốc_độ cao Multiple_Input , Multiple_Output ( MIMO ) .
+Đối_với những mẫu router không sử_dụng MIMO thế_hệ cũ , Windtalkers không có tác_dụng .
+Bảo_Lâm

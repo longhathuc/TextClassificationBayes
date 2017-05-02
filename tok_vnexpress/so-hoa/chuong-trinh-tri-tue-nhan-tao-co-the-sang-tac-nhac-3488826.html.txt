@@ -1,0 +1,15 @@
+Chương_trình trí_tuệ_nhân_tạo có_thể sáng_tác nhạc
+Chương_trình trí_tuệ_nhân_tạo IBM Watson đang tiến thêm một bước để chinh_phục thế_giới khi hỗ_trợ nhà_sản_xuất Alex_Da_Kid sáng_tác ca_khúc Not_Easy .
+Alex_Da_Kid , nhà_sản_xuất âm_nhạc từng giành giải Grammy , cho_biết Watson đã giúp ông thu_thập dữ_liệu và cảm_xúc cho ca_khúc mới .
+Phần_mềm này " đọc và phân_tích 5 năm phát_triển của ngôn_ngữ_tự_nhiên trên trang_chủ báo New_York_Times , các quyết_định của tòa_án tối_cao , các bài viết được biên_tập nhiều nhất trên Wikipedia , bản tóm_tắt các bộ phim_nổi tiếng , blog , thông_điệp trên Twitter ... để hiểu cảm_nhận của hàng triệu người " .
+Watson phân_tích dữ_liệu để giúp sáng_tác nhạc
+Bên_cạnh đó , Watson cũng phân_tích lời của hàng nghìn bài hát nổi_tiếng để   xác_định các xu_hướng âm_nhạc , văn_hóa .
+Alex_Da_Kid cho_biết : " Quá_trình sáng_tác của tôi bắt_đầu bằng một cuộc trò_chuyện , Watson có_thể hiểu những gì con_người nói với nhau và đưa cuộc trò_chuyện đó lên một tầm mới " .
+Watson không tự viết ca_khúc , mà chỉ tạo ra phần nhạc để Da_Kid dựa trên đó sáng_tác giai_điệu và lời bài hát .
+Ngoài_ra , nó cũng tập_hợp dữ_liệu để giúp Da_Kid thiết_kế bìa album .
+Ca_khúc Not_Easy của Da_Kid với sự hỗ_trợ của Watson :
+Watson là phần_mềm trí_tuệ_nhân_tạo do IBM phát_triển với mục_đích trò_chuyện với con_người bằng ngôn_ngữ_tự_nhiên .
+Năm 2011 , Watson tranh tài trên chương_trình truyền_hình Jeopardy và vượt qua Brad_Rutter - người thắng nhiều tiền nhất trên Jeopardy , và Ken_Jennings - người giữ chức quán_quân lâu nhất ( thắng liên_tục nhiều lần liên_tiếp ) của chương_trình này .
+IBM cũng đang hợp_tác với mạng_lưới Best_Doctors , do các bác_sĩ trường Y_Harvard thành_lập năm 1989 , để khai_thác trí_tuệ_nhân_tạo nhằm phòng_chống ung_thư .
+Watson sẽ phân_tích hồ_sơ y_tế , cập_nhật các tiến_bộ y_khoa để đưa ra những phác_đồ điều_trị phù_hợp nhất .
+Trí_tuệ_nhân_tạo của IBM có_thể đọc 40 triệu tài_liệu trong vòng 15 giây và đã được các đối_tác như Apple , CVS và Under_Armour sử_dụng .

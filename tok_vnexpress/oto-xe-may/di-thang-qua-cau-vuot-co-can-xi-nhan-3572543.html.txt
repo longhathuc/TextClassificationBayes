@@ -1,0 +1,3 @@
+Đi thẳng qua cầu_vượt có cần xi - nhan ?
+Nếu đi theo mũi_tên đỏ ( như hình ) phải xi - nhan trái , đi theo mũi_tên xanh phải xi - nhan phải .
+Xin hỏi , tôi bị bắt lỗi không xi - nhan có đúng ( Thành_Luân ) .

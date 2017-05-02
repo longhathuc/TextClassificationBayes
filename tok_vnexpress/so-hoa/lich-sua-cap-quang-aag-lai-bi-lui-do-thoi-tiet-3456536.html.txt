@@ -1,0 +1,17 @@
+Lịch sửa cáp_quang AAG lại bị lùi do thời_tiết
+Thay_vì kết_thúc vào ngày 24/8 , kế_hoạch sửa tuyến cáp AAG bị kéo_dài đến 17h30 ngày 25/8 do thời_tiết bất_lợi .
+Đây là lần thứ_hai , lịch_trình sửa cáp bị thay_đổi do sự_cố kép .
+Cụ_thể , ngày 2/8 , AAG bị đứt ở nhánh S11 , phân_đoạn cách Hong_Kong khoảng 80 km do ảnh_hưởng của bão Nida .
+Trong khi đó , tuyến cáp trên nhánh S1B cũng gặp sự_cố ngày 3/8 tại vị_trí cách trạm Changi ( Singapore ) hơn 32 km .
+Ban_đầu , đơn_vị điều_hành AAG cho_biết sẽ toàn tất khắc_phục tuyến S1B hướng Singapore vào ngày 18/8 , còn tuyến S11 hướng Hong_Kong sẽ xong trong_sáng 21/8 .
+Sau đó , các ISP Việt_Nam được thông_báo ,   do chậm_trễ trong việc tiếp_cận vị_trí cáp lỗi ,     nhánh S11 sẽ được khắc_phục xong vào cuối ngày 22/8 còn nhánh S1B bị lùi đến 24/8 .
+Tuy_nhiên , hiện nhà_điều_hành tuyến cáp_quang biển tiếp_tục cho_biết lịch_trình sửa cáp sẽ kéo_dài thêm một ngày .
+Nguyên_nhân   là do tình_hình thời_tiết bất_lợi gây khó_khăn cho công_việc khắc_phục sự_cố .   Theo lịch mới , 16h30 chiều nay , mối hàn cuối_cùng trên cáp nhánh S1B sẽ được hoàn_tất và việc sửa_chữa sẽ kết_thúc vào 17h30 ngày 25/8 .
+Phải đến chiều ngày 25/8 , Internet mới hoạt_động ổn_định .   Ảnh minh_họa : Techradar
+Nhiều nhà_cung_cấp dịch_vụ Internet tại Việt_Nam cho_biết đã tiến_hành bổ_sung dung_lượng kết_nối quốc_tế .
+Tuy_nhiên , những lần xảy_ra sự_cố với AAG thì việc truy_cập mạng từ trong nước đi quốc_tế đều bị ảnh_hưởng .
+Trong khi đó các dịch_vụ Internet trong nước vẫn kết_nối bình_thường .
+Kể từ khi đưa vào hoạt_động năm 2009 , tuyến cáp_quang biển AAG với tổng chiều dài 20.000 km , dung_lượng thiết_kế đạt đến 2 Terabit/giây , đã nhiều lần gặp sự_cố .
+Chỉ tính riêng trong năm 2015 , AAG đã bị đứt ít_nhất ba lần .
+Tháng 3 và 6/2016 , tuyến cáp_quang này cũng gặp sự_cố khiến cho việc truy_cập Internet đi quốc_tế gặp nhiều khó_khăn , ảnh_hưởng nhiều đến người dùng bởi đây là tuyến Internet quốc_tế chủ_yếu của Việt_Nam hiện_nay .
+Xem thêm :   Cáp_quang gặp sự_cố kép , Internet_Việt_Nam chậm trong nửa tháng

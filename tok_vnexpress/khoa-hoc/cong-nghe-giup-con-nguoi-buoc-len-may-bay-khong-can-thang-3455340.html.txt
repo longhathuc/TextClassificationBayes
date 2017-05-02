@@ -1,0 +1,20 @@
+Công_nghệ giúp con_người bước lên máy_bay không cần thang
+Các nhà_nghiên_cứu Brazil phát_triển thành_công kỹ_thuật dùng sóng_âm nâng một quả bóng nhỏ , mở hy_vọng đưa những điều trong phim viễn_tưởng thành hiện_thực .
+Kỹ_thuật sử_dụng sóng_âm để nâng vật_thể thường xuất_hiện trong các bộ phim khoa_học_viễn_tưởng như Star_Trek .
+Trên thực_tế , các nhà_khoa_học đã phát_triển công_nghệ này trong những năm gần đây , nhưng chỉ ở mức_độ vi_mô trong phòng_thí_nghiệm .
+Thành_công trong việc nâng vật_thể có kích_thước lớn cỡ vài cm là một tiến_bộ vượt_bậc trong công_nghệ di_chuyển và treo lơ_lửng vật_chất bằng sóng_âm .
+Nâng vật bằng sóng_âm là hiện_tượng dùng các chùm sóng_âm bao quanh vật_thể để tạo ra một khu_vực sóng đứng trong không_gian ba chiều .
+Tại đó , vật_thể không_chỉ chống lại lực hấp_dẫn mà_còn bị " nhốt " lại theo các phương khác .
+Kỹ_thuật nâng vật bằng sóng_âm hứa_hẹn nhiều ứng_dụng trong thực_tế .
+Nó có_thể giúp con_người kiểm_soát và di_chuyển chất_lỏng trong không_gian mà không cần_thiết bị chứa , cũng_như xử_lý các vật_liệu nguy_hiểm với nhiệt_độ cao mà không cần chạm vào .
+Trong tương_lai , khi công_nghệ này đủ mạnh , con_người có_thể bước lên máy_bay mà không cần bậc_thang như trong phim Star_Trek .
+Thông_thường , để nâng vật bằng sóng_âm đòi_hỏi hai nguồn phát sóng_âm đối_diện nhau .
+Đặc_biệt , kỹ_thuật này chỉ có tác_dụng với những vật_thể nhỏ hơn bước_sóng của âm_thanh sử_dụng như giọt nước hoặc quả bóng polystyrene nhỏ .
+Mục_đích của kỹ_thuật là bẫy vật_thể trong nút sóng dừng , điểm mà tại đó áp_lực sóng bằng_không , đồng_thời kẹp giữa hai đỉnh sóng có cường_độ mạnh để giữ vật_thể chống lại trọng_lực .
+Do điều_kiện kích_thước vật phải nhỏ hơn bước_sóng , khả_năng ứng_dụng của kỹ_thuật này bị giới_hạn .
+Ví_dụ , với nguồn phát 20 kHz và bước_sóng âm_thanh là 14 mm , vật_thể chỉ có đường_kính nhỏ chưa đến 4 mm .
+Theo Science_Alert , đây là lần đầu_tiên kỹ_thuật mới được áp_dụng để nâng vật_thể hình_cầu lớn hơn bước_sóng âm_thanh sử_dụng khoảng 3,6 lần , và có khối_lượng khoảng 1,5 gram .
+" Tại thời_điểm này , chúng_tôi chỉ có_thể nâng các đối_tượng ở một vị_trí cố_định trong không_gian " ,   Marco_Andrade , một thành_viên trong nhóm nghiên_cứu   cho_biết .
+" Công_việc tiếp_theo của chúng_tôi là phát_triển các thiết_bị mới có khả_năng nâng và điều_khiển vật_thể lớn trong không_gian " .
+Xem thêm :   Quân_đội Mỹ sắp ứng_dụng công_nghệ sóng não điều_khiển robot
+Thanh_Tùng

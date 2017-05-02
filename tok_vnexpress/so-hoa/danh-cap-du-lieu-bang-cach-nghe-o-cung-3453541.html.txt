@@ -1,0 +1,17 @@
+Đánh_cắp dữ_liệu bằng cách ' nghe ' ổ_cứng
+Bằng cách nghe những tiếng_động phát ra từ cần đọc ghi trên ổ_cứng HDD truyền_thống , tin_tặc có_thể thu_thập các thông_tin nhạy_cảm và truyền về máy_chủ từ xa .
+Một nhóm các nhà_nghiên_cứu bảo_mật tại Đại_học Ben - Gurion ( Israel ) mới_đây vừa phát_hiện cách_thức tấn_công mới nhằm vào dữ_liệu người dùng .
+Được gọi_là DiskFiltration , phương_thức tấn_công này có cách đánh_cắp dữ_liệu khá lạ - lắng_nghe âm_thanh phát ra từ cần đọc ghi ổ_cứng .
+Dữ_liệu có_thể bị đánh_cắp thông_qua âm_thanh phát ra từ ổ_cứng .
+" Không giống như ổ_cứng thể rắn ( SSD ) , ổ HDD truyền_thống sử_dụng cần đọc ghi , di_chuyển cực nhanh trên các đĩa ghi dữ_liệu ( Platters ) làm_bằng nhôm , thủy_tinh hoặc gốm được phủ vật_liệu từ_tính .
+Quá_trình này sẽ gây ra một_số tiếng_động nhất_định và có độ mạnh yếu khác_nhau , bạn có_thể nghe thấy khi khởi_động máy_tính_để_bàn hoặc laptop có gắn ổ HDD .
+Lợi_dụng điều này , tin_tặc sẽ lừa người dùng cài vào một malware làm nhiệm_vụ điều_khiển quá_trình đọc ghi trong máy_tính một_cách âm_thầm mà không bị phát_hiện .
+Sau đó , âm_thanh phát ra từ HDD được truyền đến một thiết_bị khác có_thể thu âm đặt gần đó , ví_dụ smartphone .
+Âm_thanh thu về sẽ được thiết_bị đích giải_mã " , một thành_viên nhóm giải_thích .
+Cũng theo người này , khoảng_cách để thu_nhận âm_thanh từ ổ_cứng tối_đa 1,8 m , tốc_độ thu dữ_liệu khoảng 180 bit mỗi phút .
+Mặc_dù không thu được nhiều dữ_liệu trong thời_gian ngắn , nhưng DiskFiltration lại nguy_hiểm khi sử_dụng để lấy các chuỗi mã_hóa quan_trọng .
+Ví_dụ , thuật_toán mã_hóa 4.096 bit RSA có_thể bị tấn_công và lấy_được dữ_liệu trong vòng chưa đầy 30 phút .
+Bên_cạnh những phương_thức đánh_cắp dữ_liệu truyền_thống , hacker đã ngày_càng tinh_vi hơn trong việc đột_nhập và thu_thập dữ_liệu người dùng theo cách mới .
+Trước đó , nhóm nghiên_cứu bảo_mật này cũng đã phát_hiện cách_thức tấn_công mới có tên gọi Fansmitter , trong đó lấy cắp dữ_liệu thông_qua việc lắng_nghe âm_thanh từ quạt tản nhiệt máy_tính .
+Video   mô_tả cách_thức đánh_cắp dữ_liệu bằng cách " nghe " ổ_cứng HDD của máy_tính :
+Bảo_Lâm ( theo Slashgear )

@@ -1,0 +1,35 @@
+Những ứng_dụng Trung_Quốc từng thu_thập ' thông_tin lạ '
+Mặc_dù chỉ đơn_thuần là ứng_dụng ảnh nhưng Pitu , Meitu hay Wechat còn đòi_hỏi cả những quyền " không biết để làm_gì " như vị_trí địa_lý , bookmark , số điện_thoại , ID máy ...
+Pitu
+Đây là ứng_dụng đang " làm_mưa_làm_gió " thời_gian qua , có trên i OS và Android .
+Bằng cách giúp chủ_nhân bức ảnh " hóa_thân " vào các nhân_vật nổi_tiếng trong bộ phim Tam_Quốc diễn_nghĩa như Tào_Tháo , Trương_Phi ... Pitu thu_hút một lượng rất lớn người dùng .
+Trên mạng xã_hội , rất nhiều hình_ảnh được chia_sẻ .
+Pitu cũng từng nổi_tiếng khi giúp người dùng hóa_thân vào Võ_Tắc_Thiên .
+Tuy_nhiên , ứng_dụng này lại đòi_hỏi truy_cập quá nhiều quyền không cần_thiết .
+Ứng_dụng này tất_nhiên phải truy_xuất thư_viện ảnh hay truy_cập camera , nhưng nó lại " đòi " thêm quyền truy_cập vị_trí địa_lý , số điện_thoại , lịch_sử duyệt web , ID máy … dấy lên mối nghi_ngờ thu_thập thông_tin người dùng .
+Nếu người dùng còn nhớ , Pitu chính là ứng_dụng từng " tạo sóng " một thời với tính_năng giúp hóa_thân vào nhân_vật Võ_Tắc_Thiên cuối 2014 .
+Mặc_dù cũng từng bị nghi_ngờ thu_thập dữ_liệu cá_nhân do đòi quá nhiều quyền_hạn tương_tự như trên và từng bị nhiều người tẩy_chay .
+Nhưng sau hơn 2 năm , nó lại tiếp trở_thành trào_lưu vì tính_năng mới .
+Video_Pitu đòi nhiều quyền truy_cập :
+Meitu
+Trước_Pitu ít_lâu , Meitu là ứng_dụng bị tố là thu_thập thông_tin người dùng .
+Cũng là một ứng_dụng chỉnh_sửa ảnh , nhưng nó vẫn đòi rất nhiều quyền_hạn trên thiết_bị , và chúng không phục_vụ cho chức_năng chính là chụp và sửa ảnh .
+Meitu " đòi " quá nhiều thông_tin khi tải về .
+Hãng nghiên_cứu bảo_mật Will_Strafach phát_hiện , bên trong Meitu trên i OS có chứa " những đoạn mã phức_tạp và đáng ngờ " , làm nhiệm_vụ kiểm_tra điện_thoại một_cách âm_thầm , trong đó có nhận_dạng thiết_bị đã jailbreak hay chưa , số thuê_bao di_động , nhà mạng … Nguy_hiểm hơn , nó còn thu_thập địa_chỉ MAC và số IMEI , cũng_như tự_động khởi chạy khi bật thiết_bị cài_đặt nó .
+Những dữ_liệu này sau đó gửi về máy_chủ ở Trung_Quốc , và ngoài bán cho các nhà quảng_cáo , chúng để làm_gì thì không_thể biết .
+Meitu đòi những quyền truy_cập gì :
+WeChat
+Đây là ứng_dụng chat miễn_phí trên điện_thoại_di_động , máy_tính bảng như Viber , WhatsApp , Tango … và cũng nổi_tiếng một thời tại Việt_Nam .
+Tuy_nhiên , ứng_dụng đã bị tẩy_chay do đưa vào bản_đồ có " đường lưỡi bò " phi_pháp .
+WeChat cũng từng bị phát_hiện theo_dõi thông_tin người dùng .
+Trước đó , vào 12/2012 , Guardian ( Anh ) đã cảnh_báo chức_năng bảo_mật trong ứng_dụng nhắn_tin di_động WeChat của Tencent có_thể theo_dõi vị_trí , nội_dung riêng_tư của hơn 200 triệu người dùng theo thời_gian_thực .
+Thậm_chí , ngay một_số báo_chí của Trung_Quốc cũng lên_tiếng cảnh_báo về nguy_cơ mất an_toàn của WeChat , khiến dữ_liệu người dùng dễ bị lọt vào tay kẻ xấu .
+WeChat đòi những quyền truy_cập gì :
+Những ứng_dụng khác
+Theo số_liệu từ các nhà_nghiên_cứu thuộc phòng_thí_nghiệm Citizen_Lab ( Canada ) trong tháng 2/2016 , hàng nghìn ứng_dụng của Baidu đang thu_thập dữ_liệu cá_nhân của người dùng và gửi về máy_chủ Trung_Quốc mỗi ngày .
+Các thông_tin bị thu_thập bao_gồm vị_trí người dùng hiện_tại , lịch_sử tìm_kiếm , duyệt trang_web …
+Cũng trong cuối 2015 , Apple đã loại_bỏ hàng_loạt ứng_dụng có nguồn_gốc từ Trung_Quốc trên App_Store .
+Có ít_nhất 256 ứng_dụng bị hãng điện_tử Mỹ loại_bỏ do chúng đòi_hỏi quyền lấy địa_chỉ email , số seri thiết_bị và danh_sách các ứng_dụng đã tải , sau đó đẩy thông_tin về máy_chủ của công_ty Trung_Quốc .
+Theo thống_kê của Trung_tâm dữ_liệu Internet_Trung_Quốc ( DCCI ) sau khi điều_tra 1.400 ứng_dụng trên khắp thị_trường Android của nước này tháng 4/2012 , có tới 66,9% số ứng_dụng đang theo_dõi dữ_liệu người dùng , 34,5% trong số đó truy_cập dữ_liệu cá_nhân không liên_quan tới chức_năng của ứng_dụng , 73,1% các ứng_dụng Android ở Trung_Quốc có chức_năng đọc ghi_âm điện_thoại , 61,1% có khả_năng đọc tin nhắn SMS , 60,5% âm_thầm thu_thập số điện_thoại của người dùng .
+Mặc_dù đây là số_liệu không mới , nhưng nó vẫn cho thấy ứng_dụng Trung_Quốc luôn tiềm_tàng nguy_cơ bị đánh_cắp thông_tin một_cách âm_thầm , thậm_chí đưa vào mã độc để lấy các dữ_liệu " nhạy_cảm " khác mà chủ_nhân của nó không hề hay_biết .
+Bảo_Lâm

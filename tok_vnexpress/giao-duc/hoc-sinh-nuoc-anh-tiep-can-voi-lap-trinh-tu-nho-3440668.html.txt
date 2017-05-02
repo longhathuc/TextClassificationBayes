@@ -1,0 +1,24 @@
+Học_sinh nước Anh tiếp_cận với lập_trình từ nhỏ
+Môn_học này được nước Anh mang vào chương_trình giáo_dục chính_thức để chuẩn_bị nhân_lực cho cuộc cách_mạng công_nghệ_thông_tin .
+Năm 2014 , nước Anh đã mang lập_trình vào chương_trình giáo_dục và đề_cao vai_trò của bộ_môn này như những môn_học truyền_thống khác .
+Quyết_định này không khó lý_giải khi nhìn vào những dự_án mà các công_ty công_nghệ hàng_đầu thế_giới đang tập_trung cho những năm tiếp_theo .
+Intel , Arm , Samsung , Apple hay Google đang lên kế_hoạch cho sản_phẩm điện_thoại , đồng_hồ đeo tay thông_minh , ôtô , quần_áo công_nghệ , thiết_bị thông_minh có khả_năng khắc_phục những vấn_đề thể_chất của con_người như thính_giác , thị_giác , tổn_thương xương_sống …
+Tương_lai của máy_tính mang đến cơ_hội phát_triển lớn cho các công_ty công_nghệ .
+50 năm nữa , nhiều người tin rằng mỗi gia_đình đều sẽ sở_hữu ít_nhất một chiếc máy_tính cũng_như các thiết_bị điện_thoại , laptop , máy_tính bảng và hệ_thống thông_minh trong ngôi nhà .
+Những thiết_bị công_nghệ silicon sẽ không ngừng gia_tăng số_lượng trong những năm tới .
+Năm 2015 , danh_sách nghề_nghiệp thiếu_hụt nhân_lực của nước Anh bổ_sung thêm hạng_mục công_nghệ số .
+Nhiều doanh_nghiệp đảo_quốc này đang lựa_chọn thuê các công_ty nước_ngoài vì họ mang đến các chương_trình phát_triển phần_mềm chất_lượng với mức giá_cạnh_tranh hơn .
+Ấn Độ là minh_chứng điển_hình cho trường_hợp này khi " làm_giàu " nhờ cung_cấp các dịch_vụ về công_nghệ_thông_tin hàng_đầu thế_giới .
+Năm 2018 , quốc_gia này được dự_đoán sẽ vượt Mỹ khi sở_hữu lượng nhà_lập_trình lớn nhất thế_giới với con_số 5 triệu người .
+Vì_thế , nước Anh ngày_càng coi_trọng việc dạy lập_trình cho trẻ_em .
+Quốc_gia này đang nỗ_lực biến những hiểu_biết về công_nghệ trở_nên phổ_biến và tự_nhiên bằng việc dạy học_sinh khám_phá , trải_nghiệm và không còn cảm_thấy lo_lắng , sợ_hãi khi tiếp_xúc với công_nghệ số .
+Khi thế_giới đang trải qua cuộc cách_mạng số_hóa , những hiểu_biết về công_nghệ sẽ bảo_đảm cho tương_lai thế_hệ trẻ và mở ra vô_vàn cơ_hội việc_làm .
+Tại_Anh , các trường_học đang áp_dụng nhiều phương_pháp khác_nhau để khiến trẻ_em quan_tâm đến lập_trình .
+Câu_lạc_bộ lập_trình , các hội_thảo , diễn_đàn , Raspberry_Pi hay FUZE ( hai dự_án dạy lập_trình ) và những hoạt_động sau giờ lên_lớp đang ngày_càng trở_nên phổ_biến .
+Tuy_nhiên , chính_phủ vẫn cần làm nhiều hơn thế với những thay_đổi cần_thiết khác .
+Ví_dụ , nếu quốc_gia này mang lập_trình vào trường_học và xem nó quan_trọng như những môn khoa_học , ngôn_ngữ , nghệ_thuật , lịch_sử thì cần phải đầu_tư hơn việc đào_tạo , cải_thiện trình_độ cho các giáo_viên , chuyên_gia .
+Nguồn nhân_lực không đủ trình_độ sẽ khó mang lập_trình vào chương_trình giáo_dục một_cách hiệu_quả .
+Nền kinh_tế số_hóa một phần_phụ thuộc vào việc thế_hệ trẻ bây_giờ được học , thưởng_thức và có cảm_nhận như_thế_nào về máy_tính .
+Vì_thế , chúng cần được khuyến_khích , tạo điều_kiện khám_phá nhiều hơn về công_nghệ_thông_tin .
+Nếu biến những hiểu_biết về máy_tính là một phần kiến_thức căn_bản trong đời_sống hằng ngày , chúng_ta sẽ không còn thấy nó lạ_lẫm , phức_tạp như nhiều người vẫn luôn cảm_nhận .
+Thu_Ngân ( theo The_Huffington_Post )

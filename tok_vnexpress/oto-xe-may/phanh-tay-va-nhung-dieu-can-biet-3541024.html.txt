@@ -1,0 +1,35 @@
+Phanh tay và những điều cần biết
+Xét theo cơ_cấu hoạt_động , phanh tay được chia thành phanh cơ_khí và phanh điện_tử , đều gặp phải những rắc_rối riêng sau một thời_gian dài sử_dụng .
+Khác với phanh chân_chỉ được sử_dụng khi xe chạy , phanh tay lại hoạt_động lúc xe nghỉ_ngơi , mục_đích chính là giữ chiếc xe đứng yên , không bị trôi khi dừng hay đỗ .
+Phanh tay chịu_tải ít hơn phanh chân , nhưng lại hoạt_động nhiều giờ , nhiều tuần , thậm_chí nhiều tháng hơn .
+Trong trường_hợp đặc_biệt , phanh tay là phương_án cuối_cùng khi_không may phanh chân hỏng .
+Tuy_nhiên , cần lưu_ý , chỉ nên sử_dụng trong khi bất_khả_kháng .
+Vì nếu bất_ngờ kéo phanh tay khi xe đang chạy , diễn_biến xảy_ra tiếp_theo rất khó kiểm_soát .
+Lực phanh chỉ có ở 2 bánh sau sẽ gây hiện_tượng trượt bánh , khiến xe xoay vòng .
+Tuy_nhiên , xe thời nay đã hiện_đại , phanh chân thường có 2 mạch thủy_lực nên hiếm khi gặp tình_trạng hư_hỏng .
+Mọi nhà_sản_xuất đều biết rõ phanh quan_trọng thế_nào đối_với sự an_toàn của người sử_dụng .
+Với những mẫu xe đời cũ , dùng số sàn và ít công_nghệ , phanh tay còn mang vai_trò giúp chiếc xe khởi_hành ngang dốc - một kỹ_năng được dạy ở các trường lái_xe tại Việt_Nam .
+Phanh tay phổ_biến nhất_là dạng tay nắm , thường đặt ở vị_trí giữa ghế lái và ghế phụ .
+Đôi_khi , lại thấy ở phía trái ghế tài_xế .
+Ngoài_ra , phanh tay còn có 2 dạng nữa_là nút bấm và bàn_đạp đối_với xe tự_động .
+Tuy_nhiên , xét theo phương_thức dẫn_động / điều_khiển , chúng chỉ được chia thành phanh cơ_khí và phanh điện_tử .
+Loại phanh tay cơ_khí hoạt_động bằng cách kéo sợi dây_cáp kết_nối với 2 bánh sau , một đòn quay biến lực kéo cáp thành lực ép guốc phanh vào tang trống .
+Nếu bánh sau dùng phanh đĩa , phanh tay thường lợi_dụng luôn cơ_cấu này để hoạt_động .
+Phanh cơ_khí thường gặp tình_trạng kéo phanh nhưng không ăn .
+Kéo mạnh phanh trong lúc đang di_chuyển chậm nhưng xe không dừng lại .
+Nguyên_nhân có_thể là cơ_cấu phanh đã mòn nhiều , dính dầu_mỡ ở nơi tiếp_xúc hoặc điều_chỉnh khe hở phanh quá lớn .
+Rắc_rối thường gặp thứ 2 lại đối_nghịch , phanh có hiện_tượng kẹt cứng , nhả phanh tay nhưng bánh vẫn bó cứng .
+Cố_tình tiếp_tục đi sẽ gây ra hiện_tượng mất phanh , hỏng ABS ( với xe dùng phanh đĩa ) do quá nóng .
+Nguyên_nhân gây ra rất nhiều , có_thể là kẹt cáp do khô mỡ , các chốt và đòn kéo bị rơ , lỏng .
+Hoặc lò_xo hồi guốc phanh gãy hỏng , làm má_phanh luôn tiếp_xúc với tang trống ( sờ tay vào tang trống thấy nóng ) .
+Thời_đại điện_tử_hóa biến mọi thứ dễ_dàng hơn .
+Phanh tay_không ngoài xu_hướng .
+Hệ_thống phanh tay điện_tử trở_nên phổ_biến trong nhiều năm trở_lại đây , đặc_biệt xe sang .
+Công_nghệ mới giải_quyết được những nhược_điểm của phanh tay truyền_thống , như gọn_nhẹ nhờ lược bỏ kiểu dẫn_động bằng cáp kéo , an_toàn hơn do tự_động kích_hoạt giữ xe không trượt dốc , hay tự_động nhả phanh khi xe di_chuyển .
+Họ gắn một bộ chấp_hành mô - tơ điện một_chiều ở cùm phanh 2 bánh sau .
+Hộp điều_khiển phanh EPB ( Electronic_Parking_Brake ) sẽ xử_lý các tín_hiệu nhận được từ người lái và trạng_thái chiếc xe , rồi truyền xuống mô - tơ điện hoạt_động .
+Giống như mọi hệ_thống điện_tử khác , EPB dễ gặp rắc_rối về dây_dẫn , mạch điện giữa công_tắc EPB và cụm điều_khiển , thiết_bị thực_thi bị đoản_mạch hay hở mạch .
+Khi gặp vấn_đề , bảng đèn báo hệ_thống phanh sẽ hiện lên ở bảng táp - lô .
+Người sử_dụng cần mang xe đến các garage sửa_chữa .
+Thợ sẽ dùng một thiết_bị chuyên_dụng để phát_hiện lỗi ở đâu và tiến_hành khôi_phục hoặc thay_thế .
+Thế_Anh

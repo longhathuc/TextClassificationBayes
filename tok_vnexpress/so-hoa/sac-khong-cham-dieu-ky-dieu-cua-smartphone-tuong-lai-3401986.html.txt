@@ -1,0 +1,24 @@
+Sạc không chạm - điều kỳ_diệu của smartphone tương_lai
+Nhiều người mơ đến một ngày họ có_thể sử_dụng điện_thoại thoải_mái mà không phải lo tìm ổ_cắm sạc .
+Công_nghệ sạc không dây đã có_mặt trên thị_trường vài năm , nhưng chưa đủ để đem lại sự tiện_dụng .
+Người dùng có_thể đặt máy lên đế sạc mà không cần nối dây_cáp , nhưng đế sạc đó vẫn phải cắm vào ổ điện .
+Các nhà_nghiên_cứu đang muốn hướng đến công_nghệ mới cho_phép thiết_bị nạp năng_lượng không tiếp_xúc , tương_tự cách chúng kết_nối qua Wi-Fi để truy_cập Internet .
+Có_nghĩa , điện_thoại , máy_tính bảng ... sẽ tương_tác qua không_gian với bộ sạc , giúp người dùng vừa sử_dụng điện_thoại vừa di_chuyển từ vị_trí này sang vị_trí khác trong nhà mà không cần để_ý tới nguồn điện .
+Dù có là doanh_nhân lịch_lãm hay thiếu_nữ xinh_đẹp thì đôi_khi bạn cũng phải ngồi dính lấy ổ điện khi   điện_thoại sắp hết pin .
+Công_nghệ này đã được nhắc đến từ năm 2010 khi Fujitsu mô_tả phương_pháp hỗ_trợ nhiều thiết_bị cùng sạc không dây một lúc trong bán_kính vài mét .
+Cũng trong năm đó , Apple đăng_ký bản_quyền cho giải_pháp truyền năng_lượng tới thiết_bị cách đó khoảng một mét .
+Đầu năm 2016 , báo Bloomberg đưa tin Apple vẫn chưa triển_khai tính_năng sạc không dây sử_dụng đế sạc giống các đối_thủ Android đã thực_hiện vì họ muốn nghiên_cứu và áp_dụng công_nghệ mới , cải_tiến hơn .
+Apple có_thể cung_cấp giải_pháp sạc không chạm trên i Phone 2017 .
+Trong khi đó , chia_sẻ với CNN đầu tuần này ,   Marty_Cooper , cha_đẻ của điện_thoại_di_động , cho_biết ông đang hậu_thuẫn cho công_ty   Energous ,   hiện được ít người biết đến ở Mỹ , nhằm phát_triển một dock / router ( đóng vai_trò tương_tự bộ phát Wi-Fi router ) có_thể truyền năng_lượng cho tối_đa 12 thiết_bị trong bán_kính 10 mét .
+" Lúc_nào cũng phải ngồi sát ổ điện hay phải cầm theo cục sạc di_động thực_sự rất phiền_toái " ,   Cooper - người tạo ra chiếc điện_thoại đầu_tiên năm 1973 - cho_hay .
+Sự phiền_toái đó đang tăng lên khi nhu_cầu tiêu_thụ nội_dung đa_phương_tiện trên smartphone ngày_một nhiều , như chụp ảnh , xem video , duyệt web , vào mạng xã_hội ...
+Cooper   cho rằng công_ty   Energous ở San_Jose ( Mỹ ) sẽ là lời_giải cho vấn_đề này .
+Giải_pháp mang tên   WattUp   của họ cho_phép sạc điện_thoại dù nó đang được đặt trong túi quần .
+Router này sẽ truyền tín_hiệu qua tần_số vô_tuyến tới microchip tích_hợp trong thiết_bị để chuyển_đổi tín_hiệu đó thành dòng_điện_một_chiều .
+WattUp ( router màu trắng phía sau ) sẽ nạp năng_lượng không dây cho điện_thoại và người dùng có_thể theo_dõi , quản_lý qua ứng_dụng trên máy .
+Theo Energous , nếu sạc cùng lúc 4 thiết_bị trong bán_kính chỉ 1,5 mét , tốc_độ sạc sẽ nhanh như giải_pháp dùng dây_cáp hiện_nay .
+Tốc_độ này sẽ chậm dần khi có nhiều thiết_bị kết_nối hơn hoặc ở khoảng_cách xa router hơn .
+Người dùng có_thể quản_lý các thiếc bị đang sạc thông_qua ứng_dụng .   Hiện
+WattUp đã có_thể nạp năng_lượng cho những thiết_bị đòi_hỏi ít điện_năng như máy trợ_thính .
+Một_số công_ty khác cũng đang đầu_tư cho công_nghệ này như   WiTricity , Nikola_Labs ... hay một công_ty   Ukrainia có tên XE đã xây_dựng một bộ case cho điện_thoại có_thể giúp điện_thoại kết_nối không dây với bộ sạc cách đó 5 mét .
+Trong khi đó ,   Nikola_Labs lại lo_ngại rằng thế_giới có_thể sắp bước vào " cuộc_chiến sóng " khi các bên phát_triển những công_nghệ sạc không tương_thích nhau , dẫn đến cuộc chạy_đua để được lựa_chọn trở_thành chuẩn sạc tương_lai .

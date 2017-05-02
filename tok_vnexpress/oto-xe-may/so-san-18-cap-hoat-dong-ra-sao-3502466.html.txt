@@ -1,0 +1,11 @@
+Số sàn 18 cấp hoạt_động ra_sao ?
+Thường có khoảng 18 cấp , hộp_số trên xe_tải có cơ_cấu sang số phức_tạp hơn nhiều so với xe_con .
+Vì những yêu_cầu về tiết_kiệm nhiên_liệu cũng_như đảm_bảo sức_kéo cho trọng_lượng xe và hàng_hóa rất lớn , các xe_tải siêu_trường , siêu_trọng phải tích_hợp hộp_số sàn .
+Về tổng_quan kiểu tạo rãnh và chiều di_chuyển của cần số xe_tải tương_tự như cần số sàn trên xe_con , nhưng phức_tạp hơn .
+Kiểu thiết_kế có_thể coi là loại hộp_số sàn 5 cấp , nhưng ở mỗi vị_trí lại có 4 tỷ_số truyền khác_nhau , do_đó tổng_số lên tới 18 cấp .
+Cần số có thêm 2 công_tắc điều_khiển số dẫn_động khí nén .
+Một là công_tắc dải số , một là chuyển_đổi dải tỷ_số thấp hoặc cao high / low ở mỗi cấp số .
+Ngón_trỏ điều_khiển công_tắc dải số , còn ngón_cái điều_khiển công_tắc chuyển_đổi high / low .
+> > Đọc thêm :   Điều_khiển hộp_số sàn 18 cấp như_thế_nào ?
+Mỹ_Anh
+Nguồn video : Youtube

@@ -1,0 +1,34 @@
+Nguồn_gốc ngày 29/2
+Ngày 29/2 của năm nhuận dương_lịch có một lịch_sử khá rắc_rối kể từ khi được Hoàng_đế La_Mã_Julius_Caesar đưa vào dương_lịch mỗi 4 năm một lần .
+Theo Live_Science , Caesar đã nghe theo lời khuyên của nhà thiên_văn Sosigenes , học được từ Ai_Cập rằng các năm Mặt_Trời chính_xác có 365,25 ngày .
+Do_đó cứ mỗi 4 năm lại có một năm nhuận , thêm một ngày .
+Lịch_Julian mới này đã được sử_dụng trong_suốt Đế_chế La_Mã và các nhà_thờ Kitô giáo khác_nhau .
+Tuy_nhiên , khi đó , tháng hai là tháng cuối_cùng trong năm .
+Ban_đầu , để có được một sự chuyển_đổi thích_hợp từ lịch La_Mã ( có 355 ngày , về cơ_bản giống âm_lịch ) sang lịch Julian , chuyển các tháng và các ngày lễ về các mùa bình_thường trước_đây , 90 ngày đã được thêm vào năm 46 trước Công_Nguyên .
+Caesar đã chia 90 ngày đó làm 3 tháng tạm_thời .
+Một tháng được đưa vào giữa tháng 2 và tháng 3 , hai tháng còn lại ( Nhuận trước và nhuận sau ) được thêm vào sau tháng 11 .
+Kết_quả là năm đó có 15 tháng – 445 ngày và được gọi_là " Năm lộn_xộn " ( Annus_Confusionus ) .
+Caesar thậm_chí còn lấy tên mình ( Julius ) đặt lại cho tháng thứ 5 , July ( trước đó tháng này tên là Quintilis ) .
+Lịch_Julian đã được rất nhiều nước sử_dụng sau đó .
+Tuy_nhiên , nó có một sự sai_lệch 0,0078 ngày ( khoảng 11 phút 14 giây ) dài hơn so với thời_gian một năm Mặt_Trời .
+Để điều_chỉnh , cứ mỗi 128 năm , dương_lịch phải lùi lại 1 ngày .
+Điều này đã làm cho phương_pháp tính ngày lễ Phục_Sinh không chính_xác .
+Kết_quả là , vào năm 1582 , do quá nhiều sự bù_trừ tạo ra nhiều năm nhuận , lịch Julian đã lệch so với năm Mặt_Trời 10 ngày .
+Đây là thời_điểm đức Giáo_hoàng Gregory XIII , với sự tư_vấn của nhà toán_học và thiên_văn_học Christopher_Clavius , đã tạo ra lịch Gregorian dùng tới ngày_nay .
+Đầu_tiên , để bắt kịp đúng thời_gian một năm Mặt_Trời , 10 ngày kể từ sau ngày thứ Năm , 4/10/1582 đã được loại_bỏ .
+Ngày tiếp sau hôm đó được tính là thứ Sáu , 15/10/1582 .
+Sắc_lệnh này đã làm cho nhiều người cảm_thấy họ bị mất 10 ngày trong cuộc_đời .
+Đã những cuộc bạo_động trên khắp các đường_phố khắp châu Âu , các công_nhân đòi lương của mình trong 10 ngày không làm_việc đó .
+Rất may là sau đó mọi việc đều lắng xuống .
+Tiếp_theo , để bám theo chặt_chẽ hơn thời_gian một năm Mặt_Trời , các " năm thế_kỷ " ( năm chuyển giữa hai thế_kỷ ) đã được tính không phải năm nhuận , dù chúng là các năm nhuận nếu theo lịch Julian cũ .
+Chỉ có ngoại_lệ đó là các năm thế_kỷ chia_hết_cho 400 , như năm 2000 .
+Các năm 1700 , 1800 , 1900 đều không được tính là năm nhuận .
+Tuy_nhiên , một_số nơi không theo lịch Gregorian cho tới mãi về sau .
+Các thuộc_địa của Mỹ cho tới năm 1752 mới bắt_đầu tính thời_gian theo lịch này .
+Hiện_nay , ngày_sinh của Washington được tính là ngày 22/2 .
+Nhưng tổng_thống Mỹ đầu tiên_sinh năm 1732 .
+Do_đó , ngày_sinh của ông theo lịch cũ là 11/2/1732 .
+Nga tới năm 1918 mới chấp_thuận lịch mới , Hy_Lạp thậm_chí tới tận 1923 .
+Lịch_Gregorian ưu_việt hơn lịch Julian rất nhiều .
+Trong một năm chỉ nhanh hơn chu_kỳ Trái_Đất quay quanh Mặt_Trời 26 giây , tức_là phải tới năm 5300 mới cần loại_bỏ một ngày thừa ra .
+Nguyễn_Thành_Minh

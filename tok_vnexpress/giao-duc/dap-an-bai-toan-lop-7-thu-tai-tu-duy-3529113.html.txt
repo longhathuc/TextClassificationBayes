@@ -1,0 +1,12 @@
+Đáp_án bài_toán lớp 7 thử tài tư_duy
+Nhiều độc_giả chưa đưa ra câu trả_lời đúng hoặc thực_hiện theo cách giải chưa phù_hợp với một bài_toán dành cho học_sinh lớp 7-8 .
+Chia 100 quả bóng vào n chiếc hộp sao cho số bóng trong mỗi hộp đều là một_số chứa chữ_số 8 ( Ví_dụ : 8 , 48 , 88 ) .
+Nếu n = 5 ( hộp ) , trong đó có hai hộp chứa số bóng giống nhau , những hộp còn lại số bóng khác_nhau thì tổng_số bóng trong hai hộp nhiều bóng nhất_là bao_nhiêu ?
+Nhận_xét : Số_lượng bóng chắc_chắn là một_số không chứa chữ_số 8 ở hàng chục vì chỉ có 100 quả , nếu một hộp chứa hơn 80 quả thì số bóng còn lại sẽ không đủ chia cho 4 hộp còn lại theo yêu_cầu của đề_bài .
+Chữ_số 8 đó sẽ xuất_hiện ở hàng đơn_vị .
+Có 5 hộp nên sẽ có 5 số chứa chữ_số 8 ở hàng đơn_vị .
+Từ đó suy ra phần chục sẽ là 100 - 8x5 = 60 .
+Từ dữ_kiện hai hộp có số bóng bằng nhau , ta suy ra một trường_hợp duy_nhất với số bóng lần_lượt ở 5 hộp là 8 ; 8 ; 18 ; 28 và 38 quả bóng .
+Như_vậy , tổng_số bóng trong hai hộp nhiều bóng nhất_là 28 + 38 = 66 quả bóng .
+Thanh_Tâm
+> > Thử tài tư_duy của bạn với bài_toán lớp 7

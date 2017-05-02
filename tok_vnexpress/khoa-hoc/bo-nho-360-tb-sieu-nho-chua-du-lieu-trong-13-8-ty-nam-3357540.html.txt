@@ -1,0 +1,20 @@
+Bộ_nhớ 360 TB siêu nhỏ chứa dữ_liệu trong 13,8 tỷ năm
+Các nhà_khoa_học Anh tạo ra bộ_nhớ dung_lượng 360 TB siêu nhỏ có tuổi_thọ gần_như vĩnh_cửu .
+Các chuyên_gia ước_tính con_người đang tạo ra lượng dữ_liệu tương_đương với 10 triệu đĩa Blu - ray mỗi ngày .
+Để lưu lại những dữ_liệu này dưới dạng mã nhị_phân cần một bộ_nhớ khổng_lồ .
+Theo Science_Alert , vấn_đề này có_thể giải_quyết bằng đĩa dữ_liệu kỹ_thuật_số năm chiều ( 5D ) của các nhà_khoa_học tại Đại_học Southampton , Anh .
+Mỗi đĩa có_thể lưu_trữ dung_lượng lên tới 360 terabyte ( TB ) hay 360.000 gigabyte ( GB ) , và tuổi_thọ của đĩa dữ_liệu có_thể đạt 13,8 tỷ năm .
+Để tạo đĩa dữ_liệu 5D , các nhà_nghiên_cứu sử_dụng kỹ_thuật ghi laster femto giây ( 1 femto giây = 10 - 15 giây ) .
+Kỹ_thuật này cho_phép tạo ra các đĩa thủy_tinh nhỏ bằng tia laser xung cực ngắn và cường_độ xung cao .
+Các xung này có_thể ghi dữ_liệu dưới 3 lớp cấu_trúc chấm nano cách nhau 5 micromet ( 0,005 mm ) .
+Ngoài thông_tin về vị_trí 3 chiều trong không_gian , chấm nano còn mang thông_tin về độ lớn và hướng của chính nó .
+Do_đó , mỗi chấm nano mang 5 đơn_vị thông_tin ( 5D ) .
+Các cấu_trúc chấm nano tạo ra bằng công_nghệ ghi laser cực nhanh có_thể được đọc bằng kính_hiển_vi quang_học kết_hợp với một tấm phân_cực ánh_sáng .
+Nhóm nghiên_cứu cho_biết những đĩa dữ_liệu 5D này sẽ rất hữu_ích cho các tổ_chức và cá_nhân làm_việc với lượng lớn dữ_liệu như thư_viện , bảo_tàng , hay bất_cứ nơi nào cần lưu_trữ dữ_liệu hàng_loạt như trung_tâm dữ_liệu của Facebook .
+" Thật thú_vị khi phát_minh công_nghệ giúp lưu_trữ tài_liệu , kiến_thức và thông_tin cho các thế_hệ tương_lai " , Peter_Kazansky , một thành_viên nhóm nghiên_cứu , chia_sẻ .
+" Công_nghệ này có_thể bảo_vệ bằng_chứng cuối_cùng về nền văn_minh của chúng_ta .
+Tất_cả những hiểu_biết của chúng_ta sẽ không bị lãng_quên " .
+Các nhà_khoa_học vừa giới_thiệu phát_minh tại Hội_nghị Kỹ_thuật Quang_học Quốc_tế diễn ra ở San_Francisco từ hôm 16 đến 18/2 .
+Họ hy_vọng có_thể tìm được cơ_hội hợp_tác để hoàn_thiện và phát_triển thành sản_phẩm thương_mại .
+Nhóm nghiên_cứu đã bắt_đầu sao lưu nhiều tài_liệu , trong đó có Tuyên_ngôn Quốc_tế Nhân_quyền ( UDHR ) , cuốn Opticks của Newton , Đại_Hiến chương ( Magna_Carta ) của Anh , và Kinh_Thánh .
+Thanh_Tùng

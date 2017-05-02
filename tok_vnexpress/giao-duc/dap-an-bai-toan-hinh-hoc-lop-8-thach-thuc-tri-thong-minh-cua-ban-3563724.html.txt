@@ -1,0 +1,20 @@
+Đáp_án bài_toán hình_học lớp 8 thách_thức trí thông_minh của bạn
+Bài_toán yêu_cầu bạn phải nắm chắc một_số kiến_thức thuộc chương_trình lớp 7-8 như hai tam_giác bằng nhau , diện_tích tam gác , hình_thang .
+Đề_bài :
+Cho hình_thang ABCD như hình_vẽ dưới đây :
+Biết diện_tích tam_giác AFD = 10   cm2   và F là trung_điểm BC .
+Hỏi diện_tích hình_thang ABCD là bao_nhiêu ?
+Đáp_án : 20   cm2 .
+Kéo_dài DF cắt AB tại E như sau :
+- Vì ABCD là hình_thang nên AB hay AE song_song DC .
+Suy ra , góc EBF bằng góc DCF ( hai góc so_le trong ) và góc BFE bằng góc CFD ( hai góc_đối_đỉnh ) .
+- Mặt_khác ta có BF = FC do F là trung_điểm của BC .
+Từ hai ý trên ta có tam_giác BEF = tam_giác CDF ( theo trường_hợp góc - cạnh - góc ) .   Suy ra FE = FD ; và   diện_tích ABCD bằng diện_tích tam_giác ADE ( vì cùng bằng tứ_giác ABFD + diện_tích tam_giác CDF ) .
+Với FE = FD , ta có hai tam_giác ADF và AEF có đáy bằng nhau , cùng chung đường_cao hạ từ A .
+Suy ra , diện_tích tam_giác AFE bằng diện_tích tam_giác ADF .
+Từ đó ta có , diện_tích tam_giác ADE bằng hai lần diện_tích tam_giác AFD   và bằng
+2 x 10 = 20 cm2 .
+Như ở trên đã chứng_minh , diện_tích tứ_giác ABCD bằng diện_tích tam_giác ADE .
+Suy ra diện_tích tứ_giác ABCD cũng bằng 20   cm2 .
+> > Xem đáp_án gốc
+Thanh_Tâm

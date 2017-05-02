@@ -1,0 +1,19 @@
+Google công_khai dữ_liệu theo_dõi người dùng
+Với tính_năng mới My_Activity , Google cho_phép người dùng xem “ tất_tần_tật ” những gì mình đang hoạt_động trên Internet , hay nói cách khác , Google đang minh_bạch những gì họ đang theo_dõi người sử_dụng .
+Giao_diện của My_Activity .
+Trên_Internet , không có gì là miễn_phí .
+Các ứng_dụng , dịch_vụ có_thể dán nhãn miễn_phí , tức bạn không cần phải trả tiền để sử_dụng , nhưng sẽ đi kèm với những thứ khác , thông_thường là quảng_cáo hay nghiêm_trọng hơn là bị thu_thập dữ_liệu .
+Google là một hãng cung_cấp rất nhiều dịch_vụ miễn_phí , và tất_nhiên là họ sẽ thu_thập hàng tấn thông_tin cho mục_đích riêng , bao_gồm lịch_sử tìm_kiếm , địa_điểm , giọng nói ...
+Mới_đây , họ vừa tung ra tính_năng My_Activity ( Hoạt_động của tôi ) với mục_đích minh_bạch hóa các dữ_liệu đó .
+My_Activity là tính_năng hiển_thị mọi hoạt_động web và ứng_dụng mà người dùng thao_tác , từ lịch_sử tìm_kiếm , các trang_web bạn đã truy_cập , những video clip YouTube đã xem … cho_đến các địa_điểm bạn từng ghé thăm , vị_trí đang đứng ...
+Kết_quả chi_tiết sẽ hiển_thị số lần , tần_suất truy_cập một trang_web nào_đó , dùng thiết_bị gì để truy_cập , thời_gian truy_cập , tìm_kiếm những gì … Nó tương_tự như tính_năng xem lịch_sử duyệt web , nhưng rộng_lớn hơn nhiều .
+Trên trang hỗ_trợ , Google giải_thích rằng , việc thu_thập dữ_liệu từ trước đến nay của hãng là nhằm cải_thiện trải_nghiệm người dùng , cũng_như bảo_mật khi lướt web .
+Tuy_nhiên , theo IBTimes , đây chỉ là vỏ bọc bên ngoài , bởi mục_đích thực_sự của gã khổng_lồ tìm_kiếm là phân_tích thói_quen người dùng cho mục_đích quảng_cáo .
+Nhưng dù_sao , hãng cũng đã công_khai mọi thứ , thay_vì giấu diếm như trước_đây .
+Nếu_không muốn bị Google theo_dõi , các bước sau đây giúp bạn tắt tính_năng My_Activity .
+Lưu_ý rằng , những trải_nghiệm tìm_kiếm về sau sẽ bị ảnh_hưởng khi tắt nó .
+Truy_cập   My_Account   > Chọn_Manage your Google activity .
+Chọn_Go to Activity_Controls .
+Gạt thanh trượt sang Off .
+Ngoài_ra , người dùng cũng có_thể truy_cập nhanh Activity_Controls thông_qua trang My_Activity   và lựa_chọn như trên .
+Bảo_Lâm

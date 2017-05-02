@@ -1,0 +1,4 @@
+Bài_toán được đề_xuất trong cuộc_thi quốc_tế IMC
+Bài_toán sau được đề_xuất ở vòng_loại thứ_hai cho cuộc_thi toán quốc_tế IMC ( International_Mathematics_Contest ) 2015 .
+Trong một rạp chiếu_bóng Anna đã mua vé ngồi ở ghế số 100 .
+Mỗi hàng ghế bao_gồm 20 ghế , 10 chẵn , 10 lẻ ( xem sơ_đồ ) .

@@ -1,0 +1,33 @@
+Nguy_cơ bảo_mật khi dùng Wi-Fi miễn_phí yêu_cầu đăng_nhập
+Dù tiện_lợi , song những cột Wi-Fi miễn_phí yêu_cầu đăng_nhập tại các nhà_hàng , khách_sạn , quán cafe … cũng tiềm_ẩn nguy_cơ đánh_cắp dữ_liệu , thông_tin cá_nhân của người dùng .
+Hiện_nay , hầu_như quán cafe , nhà_hàng , khách_sạn … nào cũng có Wi-Fi miễn_phí phục_vụ khách_hàng truy_cập Internet , như_là một_cách để thu_hút dịch_vụ .   Trước
+đây , các điểm Wi-Fi công_cộng thường có mật_khẩu dễ nhớ , hoặc cửa_hàng in mật_khẩu ra giấy và dán trên tường ... , thậm_chí có nơi còn không đặt mật_khẩu để khách truy_cập .
+Gần đây , họ áp_dụng một hình_thức mới - cho_phép khách_hàng truy_cập vào mạng Wi-Fi miễn_phí , nhưng sau khi truy_cập thành_công , một website sẽ hiện ra yêu_cầu đăng_nhập vào mật_khẩu hiển_thị trên đó .
+Người dùng có_thể đăng_nhập vào mã được khởi tạo sẵn , hoặc phải đăng_nhập bằng tài_khoản Facebook , hoặc like fanpage của nơi đó … mới vào các trang_web mong_muốn được .
+Cách_thức đăng_nhập Wi-Fi miễn_phí qua giao_diện web có nhiều thuận_lợi , nhưng người dùng đối_mặt với nguy_cơ bị mất dữ_liệu nhiều hơn .
+Anh Nhật_Đào , một chủ quán cafe trên đường Pasteur ( quận 1 , TP_HCM ) chia_sẻ , đây là các làm khá hay và anh đã áp_dụng nó được vài tháng .
+" Khách không còn hỏi nhân_viên mật_khẩu Wi-Fi mà vẫn có_thể truy_cập được .
+Đó là chưa kể chúng_tôi có_thể ứng_dụng nền website để quảng_cáo cho cửa_hàng " , anh Đào nói .
+Không_chỉ nhà_hàng , khách_sạn hay quán_xá , cách làm này cũng đã được một_số cơ_quan , tổ_chức , bệnh_viện hoặc trường_học áp_dụng .
+Một_số tỉnh , thành_phố có triển_khai Wi-Fi miễn_phí cũng tận_dụng trang đăng_nhập để quảng_bá hình_ảnh địa_phương .
+Mặc_dù mô_hình Wi-Fi miễn_phí yêu_cầu đăng_nhập có_vẻ tiện_lợi hơn nhưng tiềm_ẩn nguy_cơ bảo_mật , trong đó có " nạn " đánh_cắp tài_khoản của người dùng .
+Ông Võ_Đỗ_Thắng , Giám_đốc Trung_tâm an_ninh mạng Athena cho rằng , loại_hình này có nguy_cơ lộ thông_tin rất lớn và người dùng cần thận_trọng .
+" Để đăng_nhập , người dùng phải nhấn vào nút truy_cập , và nó thực_sự nguy_hiểm nếu kẻ_gian muốn đặt một phần_mềm gián_điệp , mã độc hay virus nằm phía dưới nút bấm này .
+Điện_thoại hay máy_tính của bạn sẽ bị nhiễm_độc mà không hề hay_biết " , ông Thắng cho_biết .
+Cũng theo ông Thắng , sau khi xâm_nhập , mã độc sẽ tự_động cài_đặt vào thiết_bị , khiến chúng bị khống_chế một_cách âm_thầm .
+Tùy vào mức_độ nghiêm_trọng mà mã độc thu_thập dữ_liệu người dùng sau đó gửi về máy_chủ từ xa , kích_hoạt camera hoặc micro để nghe lén , hoặc cũng có_thể lấy thông_tin phục_vụ cho marketing , quảng_cáo .
+" Có_thể chủ nhà_hàng , quán_xá không cố_ý thu_thập thông_tin người dùng , nhưng hacker lại làm điều đó .
+Chỉ cần đột_nhập vào hệ_thống , chúng có_thể làm bất_cứ điều gì chúng muốn , trong đó có cải cài mã độc dưới nút đăng_nhập để thực_hiện ý_đồ xấu " , ông Thắng nhấn_mạnh .
+Đồng_tình với nhận_định của ông Thắng , ông Nguyễn_Minh_Đức , Giám_đốc dự_án bảo_mật CyRadar , cho rằng nguy_cơ bị đánh_cắp thông_tin khi truy_cập vào các mạng Wi-Fi miễn_phí yêu_cầu đăng_nhập cũng nguy_hiểm như với các hình_thức sử_dụng Wi-Fi miễn_phí đã từng được cảnh_báo trước_đây .
+Nhưng do buộc nhấn vào nút đăng_nhập , hình_thức mới này có_thể khiến hacker nhanh_chóng đạt được mục_đích tấn_công hơn .
+Tuy_vậy , ông Đức cho rằng nếu đã truy_cập vào Wi-Fi miễn_phí thì_phải chấp_nhận đánh_đổi .
+" Bạn truy_cập được Internet thì bạn phải nhận_thức được rõ nguy_cơ từ đó .
+Nó là một mạng công_cộng , mà công_cộng thì chưa hẳn an_toàn , nên phải tự bảo_vệ mình " , ông Đức nói .
+Theo ông Đức , người dùng trước_hết nên cài_đặt cho laptop , smartphone hay tablet phần_mềm bảo_mật để nếu sử_dụng Wi-Fi công_cộng cũng hạn_chế được rủi_ro .
+Bên_cạnh đó , không nên thực_hiện các thao_tác " nhạy_cảm " như giao_dịch tài_chính , gửi email quan_trọng … khi đang dùng mạng Wi-Fi này .
+Ngoài_ra , cũng không nên truy_cập vào các liên_kết lạ , cũng_như đặt mật_khẩu tài_khoản đủ mạnh , bảo_mật 2 lớp cho tài_khoản dùng trên thiết_bị đó .
+Riêng với việc đặt tên và mật_khẩu , theo sáng_kiến của tài_khoản Facebook_Trương_Đức_Long , những chủ nhà_hàng , quán_xá … có_thể thay_thế cách chia_sẻ Wi-Fi miễn_phí thông_thường bằng cách đặt tên và mật_khẩu mới hữu_ích hơn .
+Theo ông , có_thể đặt với nội_dung nâng cao ý_thức người_dân như " dừng đèn_đỏ đúng vạch " , " đã say không lái_xe " , " không hút thuốc " … thay_vì đặt theo nội_dung không có ý_nghĩa , hoặc buộc khách phải truy_cập thông_qua giao_diện thứ_hai .
+Thiết_lập bảo_mật 2 lớp cho tài_khoản Facebook :
+Bảo_mật 2 lớp cho tài_khoản Gmail :
+Bảo_Lâm

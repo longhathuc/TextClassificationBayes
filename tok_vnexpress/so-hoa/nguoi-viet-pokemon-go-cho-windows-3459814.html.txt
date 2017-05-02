@@ -1,0 +1,23 @@
+Người viết Pokemon_Go cho Windows
+Pokemon_Go bản " không chính chủ " được một người tự phát_triển cho nền_tảng Windows 10 nhằm chứng_minh năng_lực và niềm đam_mê .
+Là tựa game gây sốt toàn_cầu , tuy_nhiên Pokemon_Go hiện chỉ được phát_hành cho các thiết_bị OS và Android , chưa có trên Windows 10 Mobile .
+Một trong những lý_do là thị_phần hệ_điều_hành di_động của Microsoft hiện_nay chưa đầy 1% , không hấp_dẫn các nhà_phát_triển .
+Một lập_trình_viên đã viết ứng_dụng " PoGo-UWP " để mang trò_chơi Pokemon_Go đến với các thiết_bị Windows 10 .
+Phần_mềm này do nhà_phát_triển Stefano_Tenuta xây_dựng và dĩ_nhiên nó không được nhà phát_hành   Niantic công_nhận .
+PoGo cài trên máy_tính .
+Chia_sẻ về dự_án PoGo-UWP ,   Tenuta đưa ra ba lý_do vì_sao ông tạo nên trò_chơi Pokemon_Go " không chính chủ " .
+Thứ nhất bởi ông muốn học_hỏi những điều mới_mẻ , thứ_hai để chứng_minh khả_năng của mình .
+Và   Tenuta cho_biết lý_do đặc_biệt nhất bởi " Microsoft từng từ_chối hồ_sơ xin việc của tôi vì công_ty cho rằng tôi không thể_hiện đủ đam_mê , tôi muốn chứng_minh họ đã sai " .
+Tenuta nói rằng cảm_hứng của ông xuất_phát từ một bản kiến_nghị với hơn 80.000 người cùng ký_tên mong_muốn Pokemon_Go có trên Windows 10 Mobile .
+Ông dành một ngày nghiên_cứu tính khả_thi và sau ba ngày làm_việc không ngừng_nghỉ thì phiên_bản đầu_tiên của PoGo-UWP đã được phát_hành .
+Dự_án sau đó được nhiều người tham_gia phát_triển , hoàn_thiện các tính_năng .
+Chia_sẻ với BI , nhà_lập_trình cho_biết ứng_dụng PoGo-UWP của ông đã có hơn 50.000 người sử_dụng , với hơn 1,5 triệu lượt truy_cập trong tháng đầu phát_hành .
+Con_số này khá khiêm_tốn so với game Pokemon_Go " chính chủ " trên i OS và Android , song đây cũng là kết_quả ấn_tượng cho một dự_án độc_lập .
+Ứng_dụng " không chính chủ " được viết theo " Universal_Windows_Platform " nên ngoài điện_thoại , người dùng có_thể cài game trên máy_tính_để_bàn , máy_tính bảng chạy hệ_điều_hành của Microsoft .   PoGo-UWP   không hoàn_hảo song nó   phần_nào bù_đắp lại sự thiếu_vắng của Pokemon_Go trên Windows .
+Phần_mềm PoGo-UWP truy_cập tới máy_chủ Pokemon_Go của   Niantic nên_người chơi có_thể kết_nối với các game thủ khác dùng i OS hay Android .
+Tuy_nhiên , nhà phát_hành " chính chủ " không thừa_nhận sự tồn_tại của ứng_dụng ngoài nên việc dùng   PoGo-UWP có_thể khiến tài_khoản bị khóa vì cho rằng đây là hành_vi gian_lận .
+Thực_tế , việc chơi Pokemon_Go thông_qua PoGo-UWP không dễ_dàng .
+Người dùng mất khá nhiều bước rắc_rối để cài phần_mềm này .
+Bạn còn cần tạo tài_khoản và chơi lần đầu_tiên trên i Phone hoặc máy Android .
+Do phần_mềm phải truy_cập vào máy_chủ của   Niantic nên nhà phát_hành Pokemon_Go " chính chủ " có_thể ngắt kết_nối bất_cứ lúc_nào .
+Video chơi Pokemon_Go trên thiết_bị Windows 10 :

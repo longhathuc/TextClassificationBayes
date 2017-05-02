@@ -1,0 +1,22 @@
+Thử tài phân_biệt ảnh chụp và ảnh dựng
+Hãy quan_sát những tấm hình dưới đây và cho biết_đâu là ảnh chụp , đâu là ảnh dựng bằng phần_mềm .
+A . Ảnh chụp
+B . Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa
+A . Ảnh chụp B .
+Ảnh đồ_họa

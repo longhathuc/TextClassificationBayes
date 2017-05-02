@@ -1,0 +1,30 @@
+Thí_nghiệm chứng_minh du_hành ngược thời_gian khả_thi
+Các nhà_khoa_học Scotland tạo ra các hình_ảnh di_chuyển với tốc_độ nhanh hơn tốc_độ ánh_sáng và chỉ ra rằng hình_ảnh có_thể đi ngược thời_gian .
+Nhà_vật_lý thiên_tài người Anh Lord_Rayleigh dự_đoán về sự truyền ngược của sóng_âm gần một thế_kỷ trước .
+Rayleigh lý_luận rằng , vì tốc_độ của âm_thanh là hằng_số , khi một cái máy phát nhạc di_chuyển với vận_tốc nhanh hơn vận_tốc âm_thanh thì sóng_âm thanh sẽ lan_truyền về phía máy phát nhạc ( thay_vì lan_truyền ra xa như thông_thường ) .
+  Do_đó , âm_thanh dường_như bị đảo_ngược trong định_hướng thời_gian .
+Dù_vậy , giới nghiên_cứu chưa tìm ra cách nào để có_thể dễ_dàng kiểm_nghiệm lập_luận của Rayleigh .
+Âm_thanh có vận_tốc 1.225 km / h , nghĩa_là để nghe một clip âm_thanh chạy ngược 3 giây , cần một máy_bay_phản_lực siêu_âm bay ở tốc_độ Mach 2 ( gấp hai lần tốc_độ âm_thanh ) .
+Khi đó âm_thanh sẽ bắt_đầu phát lại cách đó hơn một km từ vị_trí của người nghe .
+Tuy_nhiên , sự tán_xạ và hấp_thụ các sóng_âm trong không_khí sẽ khiến cho âm_thanh không nghe được , và khó có_thể kiểm_chứng thí_nghiệm của Rayleigh .
+Theo Live_Science , nhà_vật_lý Daniele_Faccio và các đồng_nghiệp tại Đại_học Heriot-Watt , Scotland nhận ra nếu dự_đoán của Rayleigh về âm_thanh là đúng , ánh_sáng cũng có_thể đảo_ngược .
+Ánh_sáng lan_truyền với vận_tốc 1,1 tỷ km / h và các bước_sóng của ánh_sáng rất nhỏ so với sóng_âm thanh .
+Điều này có_nghĩa , các nhà_khoa_học không cần đến máy_bay_phản_lực siêu_thanh và khoảng_cách hàng kilomet mà có_thể tiến_hành thí_nghiệm trong một căn phòng bình_thường .
+Vấn_đề lớn nhất mà họ phải vượt qua là không gì có_thể đi nhanh hơn tốc_độ ánh_sáng .
+Để tạo ra đối_tượng di_chuyển nhanh hơn vận_tốc ánh_sáng , Faccio sử_dụng một hiện_tượng kỳ_lạ gọi_là " photonic boom " được mô_tả trong một loạt thí_nghiệm tưởng_tượng hấp_dẫn .
+Bí_mật đằng sau " photonic boom " là hình_ảnh phản_chiếu của một vật ( chứ không phải vật đó và các photon ) có_thể di_chuyển nhanh hơn ánh_sáng .
+Bạn có_thể tưởng_tượng về một cây_bút laser đủ mạnh để chỉ tới Mặt_Trăng .
+Chỉ bằng động_tác vẩy cổ_tay trong tích_tắc , bạn có_thể làm cho hình_chiếu của cây_bút laser di_chuyển từ đầu này đến đầu kia của Mặt_Trăng .
+Trong khi các photon đi từ cây_bút laser di_chuyển ở tốc_độ ánh_sáng bình_thường , ảnh của chúng trên Mặt_Trăng di_chuyển nhanh hơn rất nhiều .
+Để bắt thời_gian đảo_ngược trong thí_nghiệm của mình , nhóm nghiên_cứu chiếu một dòng ánh_sáng lên màn_hình và di_chuyển dòng đó trên màn_hình với tốc_độ nhanh hơn tốc_độ của ánh_sáng .
+Đồng_thời , họ ghi lại dòng ánh_sáng chuyển_động trên màn_hình bằng một máy_ảnh tốc_độ siêu cao , cỡ một_vài pico giây cho một khung hình .
+Kết_quả , máy_ảnh chụp dòng ánh_sáng trên màn_hình di_chuyển theo hướng ngược_lại với cách họ quét dòng ánh_sáng .
+Như_vậy , ảnh trên màn_hình đã đi ngược thời_gian .
+Ở thí_nghiệm thứ_hai , nhóm nghiên_cứu xác_nhận một hiện_tượng thậm_chí còn kỳ_lạ hơn , có tên gọi cặp sinh - diệt .
+Hiện_tượng này được Robert_Nemiroff , một nhà_vật_lý tại Đại_học Công_nghệ Michigan , Mỹ , dự_đoán cho các đối_tượng thiên_văn trong một tiền ấn_phẩm công_bố trên tạp_chí ar Xiv vào tháng 5/2015 .
+Faccio và các đồng_nghiệp lặp lại thí_nghiệm trên một màn_hình cong .
+Khi tốc_độ của các dòng ánh_sáng vượt quá tốc_độ ánh_sáng , một cặp dòng ánh_sáng di_chuyển ra xa nhau được tạo ra .
+Khi sử_dụng một màn_hình với độ cong khác , các cặp dòng ánh_sáng di_chuyển tiến về nhau , nhập lại và sau đó triệt_tiêu lẫn nhau .
+Những phát_hiện này vẫn còn ẩn_chứa nhiều điều bí_ẩn và cần thêm thời_gian phân_tích và tìm_hiểu .
+Nghiên_cứu của Faccio và các cộng_sự được công_bố trên tạp_chí Science_Advances hôm 15/4 .
+Thanh_Tùng

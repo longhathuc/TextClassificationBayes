@@ -1,0 +1,42 @@
+Robot ' cướp ' việc_làm của công_nhân sản_xuất ôtô
+Công_nhân làm_việc trong các nhà_máy sản_xuất ôtô bị mất việc , giảm lương_bổng vì sự xuất_hiện của " thế_lực " robot .
+Ai là người chiến_thắng trong cuộc đua việc_làm giữa con_người và robot ?
+Năm 2016 , hai nhà kinh_tế_học hàng_đầu thế_giới mô_tả một tương_lai mà con_người chiếm vị_thế .
+Nhưng đến nay , chính những người này phải đưa ra một tuyên_bố khác , kẻ thắng trong cuộc_chiến này , là robot , NYtimes dẫn .
+Ngành công_nghiệp bị ảnh_hưởng nặng_nề nhất bởi tự_động_hóa là sản_xuất .
+Theo một nghiên_cứu mới của hai nhà kinh_tế_học Daron_Acemoglu của Học_viện Massachusetts và Pasual_Restrepo của Đại_học Boston , cứ 1.000 công_nhân lại có một robot thì_có tới 6 công_nhân mất việc và mức lương giảm 0,75% .
+Đây là những con_số đầu_tiên thể_hiện cho ảnh_hưởng tiêu_cực của robot lên vấn_đề việc_làm của con_người .
+Ý_nghĩa quan_trọng hơn của nghiên_cứu này là các nhà_kinh_tế nhận ra giá_trị và hiệu_quả của công_nghệ đối_với việc_làm , điều mà trước đó họ không muốn thừa_nhận , vì đơn_thuần họ là những cá_nhân xuất_sắc trong công_việc của mình .
+Trong một nghiên_cứu năm_ngoái , họ cho rằng khi tự_động_hóa phát_triển sẽ giúp tạo ra nhiều việc_làm hơn .
+Ví_dụ như khi cần_cẩu thay_thế công_nhân đóng tàu , công_ty sẽ cần thêm kỹ_sư , nhà_phát_triển phần_mềm để điều_khiển và cả những nhân_viên làm trong lĩnh_vực tài_chính .
+Tuy_nhiên nghiên_cứu này nặng tính lý_thuyết .
+Bản nghiên_cứu mới_đây sử_dụng những dữ_liệu thực_tế và mang tới một tương_lai bi_quan hơn .
+Rất ít việc_làm mới được tạo ra để bù_đắp cho những công_nhân phải nghỉ_việc vì robot thay_thế .
+Các công_ty vẫn có_thể thuê thêm người để điều_khiển máy_móc , nhưng công_việc đó lại không dành cho lao_động cấp thấp , không có bằng đại_học .
+" Kết_luận của chúng_tôi là ngay cả khi việc_làm và lương_bổng phục_hồi , sẽ vẫn có những người bị thiệt trong cuộc_chơi này " , ông Acemoglu cho_biết .
+" Nếu bạn làm_việc ở Detroit trong ngành ôtô khoảng 10 năm , đương_nhiên bạn không_thể có kỹ_năng để kiếm việc mới trong ngành chăm_sóc sức_khỏe " .
+Nền kinh_tế_thị_trường không tạo ra công_ăn_việc_làm theo kiểu " lấp vào chỗ trống " .
+Minh_chứng về thay_đổi việc_làm từ công_nghệ lại trái_ngược với nhận_định của Steve_Mnuchin , Bộ_trưởng Tài_chính Mỹ .
+Ông cho rằng sự dịch_chuyển từ công_việc cho con_người sang trí_tuệ_nhân_tạo là không rõ_ràng vì sử_dụng robot trong sản_xuất đã diễn ra từ " 50-100 năm về trước " .
+Tuy_nhiên nhiều chuyên_gia lại cho rằng , những robot đơn_giản trước_đây không phải loại nào cũng sử_dụng trí_tuệ_nhân_tạo như những robot cao_cấp hiện_nay .
+Nghiên_cứu cũng giúp giải_thích một bí_ẩn khiến các nhà kinh_tế_học bối_rối , rằng tại_sao máy_móc thay_thế con_người mà năng_suất vẫn không tăng ?
+Nghiên_cứu phân_tích tác_động của robot công_nghiệp lên thị_trường lao_động địa_phương ở Mỹ .
+Robot bị quy_kết là nguyên_nhân khiến hơn 670.000 người mất việc trong giai_đoạn 1990-2007 , và con_số này sẽ tiếp_tục tăng vì robot công_nghiệp dự_đoán sẽ tăng khoảng 4 lần .
+Báo_cáo này bổ_sung thêm bằng_chứng cho thấy tự_động_hóa là mối đe_dọa lâu_dài tới việc_làm của tầng_lớp công_nhân , chứ không phải là mậu_dịch hay cung_cấp ngoài biên_giới , những yếu_tố mà Tổng_thống Trump nhấn_mạnh trong chiến_dịch tranh_cử của mình .
+Thực_tế , ngay cả khi kiểm_soát chặt nhập_khẩu , giao_dịch nước_ngoài , phần_mềm , nhân_khẩu_học của công_nhân cũng_như loại_hình công_nghiệp thì những ảnh_hưởng tiêu_cực của robot tới việc_làm và tiền_lương vẫn nghiêm_trọng .
+Robot ảnh_hưởng tới việc_làm của cả nam và nữ_giới , nhưng ảnh_hưởng tới nam_giới tăng lên gấp đôi .
+Dữ_liệu không đưa ra lý_do nhưng ông Acemoglu đoán rằng phụ_nữ sẵn_sàng chấp_nhận giảm lương để giữ việc_làm trong khi đàn_ông thì không .
+Các nhà kinh_tế_học đã xem_xét tác_động của robot đối_với các nền kinh_tế địa_phương và rộng hơn .
+Trong một khu_vực tách_biệt , mỗi robot trên 1.000 công_nhân khiến 6,2 công_nhân mất việc và lương_bổng giảm 0,7% .
+Nhưng trên phạm_vi cả nước , những ảnh_hưởng này nhỏ hơn vì việc_làm bị mất ở nơi này được bù_đắp bằng việc mới tạo ra ở những nơi khác .
+Ở Detroit , trung_tâm của ngành công_nghiệp ôtô Mỹ , nơi sử_dụng nhiều robot công_nghiệp nhất thì việc_làm bị ảnh_hưởng nặng_nề .
+Nếu các hãng xe có_thể giảm chi_phí cho mỗi xe vì sử_dụng ít lao_động hơn thì việc_làm có_thể tăng ở những nơi khác trong nước như các nhà_máy thép , hãng taxi .
+Trong khi đó , người_dân Detroit có_lẽ sẽ dành ít tiền hơn cho tiêu_dùng .
+Ở Detroit , mỗi robot trên 1.000 công_nhân khiến 3 người mất việc và lương_bổng giảm 0,25% .
+Những phát_hiện này như đổ thêm dầu vào lửa cho cuộc tranh_luận liệu công_nghệ có giúp con_người làm_việc hiệu_quả hơn và tạo ra giá_trị mới như trước_đây , hay cuối_cùng chỉ là sự thay_thế con_người bằng máy_móc .
+David_Autor , cộng_tác_viên của ông Acemoglu ở học_viện Massachusetts lập_luận máy_móc sẽ bổ_sung thay_vì thay_thế con_người , và không_thể sao_chép những đặc_tính của con_người như giác_quan hay sự đồng_cảm .
+Ngoài xe_hơi , robot công_nghiệp được sử_dụng nhiều nhất trong sản_xuất điện_tử , sản_phẩm kim_loại , chất_dẻo và hoá_chất .
+Những ngành này không sử_dụng con_người ở các công_đoạn như hàn , sơn và đóng_gói .
+Từ năm 1993-2007 tại Mỹ , cứ 1.000 công_nhân lại có thêm một robot công_nghiệp .
+Tác_động của robot lên việc_làm của công_nhân khiến người_ta dấy lên câu_hỏi , liệu đến bao_giờ những làn_sóng công_nghệ hiện_nay như smartphone , flycam , ôtô không người lái sẽ ảnh_hưởng tới con_người trên diện rộng ?
+Đức_Huy

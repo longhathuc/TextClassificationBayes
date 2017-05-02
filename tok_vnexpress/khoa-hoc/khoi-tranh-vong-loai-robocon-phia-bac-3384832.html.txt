@@ -1,0 +1,17 @@
+Khởi_tranh vòng_loại Robocon phía Bắc
+Vòng_loại Robocon phía Bắc sáng 11/4 đã khai_mạc tại nhà_thi_đấu quận Tây_Hồ ( Hà_Nội ) với sự tham_gia của 60 đội thi .
+Cuộc_thi Robocon_Việt_Nam 2016 thu_hút 79 đội_tuyển đến từ 20 đại_học , cao_đẳng , trung_học chuyên_ngành kỹ_thuật trên cả nước .
+Trước đó vòng_loại phía Nam diễn ra ở TP_HCM trong hai ngày 7-8 / 4 đã tìm được 8 đội chiến_thắng .
+Tại phía Bắc , vòng_loại sẽ diễn ra từ 11 đến 16/4 để chọn ra 24 đội vào tranh tài tại vòng chung_kết diễn ra   ở Ninh_Bình trong tháng 5 .
+Đội vô_địch sẽ đại_diện Việt_Nam tham_gia Cuộc_thi sáng_tạo robot châu Á - Thái_Bình_Dương vào tháng 8 tại Bangkok ( Thái_Lan ) .
+Với chủ_đề " Đi tìm năng_lượng sạch " , cuộc_thi năm nay nhằm khuyến_khích sử_dụng nguồn năng_lượng sạch thay_thế .
+Trong mỗi trận đấu , đội Xanh và Đỏ sẽ thi trong tối_đa 3 phút .
+Mỗi đội gồm có 2 robot : Eco_Robot   ( robot   sinh_thái )   và Hybrid_Robot   ( robot lai ) .
+Eco_Robot không có cơ_chế để tự chuyển_động mà hoạt_động nhờ lực tác_động từ Hybrid_Robot .
+Eco_Robot   mang theo một cánh quạt_gió đi từ khu_vực xuất_phát qua 3 khu_vực : đồi_núi , động đá và đường dốc .   Sau đó Hybrid_Robot tự_động leo lên cột tua bin gió để lắp cánh quạt_gió vào động_cơ sức gió nằm trên đỉnh cột .
+Đội nào gắn được cánh quạt_gió lên đỉnh cột trước sẽ là đội chiến_thắng .
+Chiến_thắng này được gọi_là Chai-Yo !
+( Luật thi Robocon 2016 )
+Đề thi trên được giới chuyên_gia đánh_giá cao khi mang tính mới_mẻ trong luật thi_đấu .
+Mặc_dù ít đối_kháng trong thi_đấu nhưng hai robot Eco_Robot và Hybrid_Robot gần_như không có sự tham_gia điều_khiển của con_người và cũng không có sự tiếp_xúc vật_lý nhưng chúng vẫn có_thể hỗ_trợ nhau để thực_hiện nhiều bước leo dốc , lên đồi , vượt sông .
+Phạm_Hương

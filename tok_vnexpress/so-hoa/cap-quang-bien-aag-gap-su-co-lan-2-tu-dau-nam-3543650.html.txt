@@ -1,0 +1,13 @@
+Cáp_quang biển AAG gặp sự_cố lần 2 từ đầu năm
+Nhánh cáp hướng kết_nối Việt_Nam - Hong_Kong có dấu_hiệu mất kênh , có_thể do đứt cáp_quang biển , lịch khắc_phục chưa được thông_báo .
+Theo thông_tin từ một nhà_cung_cấp dịch_vụ Internet ( ISP ) ,   khoảng 17h15 hôm_qua ( 18/2 ) tuyến AAG có dấu_hiệu mất kênh , có_thể do đứt cáp_quang biển , khiến Internet từ Việt_Nam đi quốc_tế bị ảnh_hưởng .
+Phía đơn_vị điều_hành tuyến cáp_quang biển AAG đến nay vẫn chưa có thông_báo chính_thức về sự_cố lần này , bao_gồm địa_điểm và thời_gian khắc_phục sự kiến cho các ISP tại Việt_Nam .
+Đây là lần thứ_hai tính_từ đầu năm 2017 , tuyến cáp_quang biển AAG gặp sự_cố .
+Trước đó , hôm 8/1 , tuyến cáp này đã   gặp sự_cố rò điện   khiến sụt nguồn , hệ_thống phải sửa_chữa .
+Trong năm 2016 , đã có bốn lần hệ_thống truyền_dẫn Internet này trục_trặc và phải tiến_hành bảo_trì , vào các tháng 3 , 6 , 8 và tháng 9 .
+Trước đó , năm 2015 tuyến cáp này trục_trặc 3 lần , năm 2014 là 2 lần .   Tính đến năm 2016 , hơn 60% Internet quốc_tế của Việt_Nam đi qua AAG .
+Ngoài AAG , tính_từ đầu 2017 , Internet tại Việt_Nam cũng bị ảnh_hưởng bởi sự_cố kép của tuyến cáp IA ( Liên Á ) vào ngày 10/1 và 11/1 , với lỗi tương_tự nhưng ở gần nhánh đi Singapore .
+Mới_đây , 4 nhà mạng tại Việt_Nam là FPT , VNPT , Viettel và CMC đã đưa vào khai_thác tuyến cáp_quang biển Asia_Pacific_Gateway ( APG ) .
+Có chiều dài 10.400 km , đặt ngầm dưới biển Thái_Bình_Dương ,   với băng_thông 54 Tb / s , gấp nhiều lần so với mức 2,88 Tb / s của AAG .
+Tuyến cáp này   được kỳ_vọng giúp Internet từ Việt_Nam đi quốc_tế nhanh hơn .
+Năm 2017 , một_số nhà mạng cho_biết sẽ đưa vào hoạt_động thêm tuyến cáp_quang AAE - 1 ( Asia_Africa_Euro 1 ) , nối các nước châu Á đến châu Âu và châu Phi .

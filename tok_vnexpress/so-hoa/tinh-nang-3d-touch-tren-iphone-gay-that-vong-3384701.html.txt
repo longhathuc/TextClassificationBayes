@@ -1,0 +1,28 @@
+Tính_năng 3D Touch trên i Phone gây thất_vọng
+Màn_hình cảm_ứng lực với tính_năng 3D Touch trên i Phone 6s từng được Apple kỳ_vọng tạo ra cuộc cách_mạng mới cho việc sử_dụng màn_hình cảm_ứng trên điện_thoại_di_động lại không được đánh_giá cao .
+Tính_năng cảm_ứng lực 3D Touch được Apple ra_mắt trên bộ đôi i Phone 6s và 6s Plus vào tháng 9 năm_ngoái .
+Khi đó , nó được cho là sẽ làm thay_đổi cách tương_tác thông_thường và quen_thuộc với thiết_bị , giống cuộc cách_mạng mà màn_hình cảm_ứng đa_điểm xuất_hiện lần đầu trên i Phone gần 10 năm trước .   Tuy
+nhiên , thực_tế sau 7 tháng có_mặt trên thị_trường , 3D Touch chẳng hữu_dụng như Apple quảng_cáo và nhiều người dần quên đó là một trong những tính_năng nổi_bật nhất trên i Phone thế_hệ mới .
+3D Touch , màn_hình cảm lực , mới chỉ có trên i Phone 6s và 6s Plus .
+Ngay cả mẫu i Phone SE vừa trình_làng cũng chưa được Apple trang_bị tính_năng này .
+Khi dùng và đánh_giá i Phone SE , Steve_Kovach , cây_viết của trang công_nghệ Tech_Insider , thú_nhận mình đã chẳng nhận ra sự thiếu_vắng của 3D Touch , dù trước đó anh đã dùng i Phone 6s tới nửa năm .
+Trong khi lúc so_sánh giữa chiếc i Phone SE 4 inch mới ra hay hầu_hết các mẫu smartphone cao_cấp khác hạy Android với i Phone 6s , 6s Plus năm_ngoái , 3D Touch luôn là một trong những khác_biệt để so_sánh hàng_đầu .
+Không_chỉ Kovach , nhiều cây_bút về sản_phẩm công_nghệ cũng cho rằng 3D Touch thiếu ấn_tượng khi dùng thực_tế .
+So với việc chạm vào ứng_dụng để xem nội_dung , việc bấm mạnh hơn vào biểu_tượng ( Peek and Pop - một_cách dùng 3D Touch ) để nội_dung hiển_thị chẳng tăng thêm giá_trị nào .
+Thậm_chí , nó còn khiến cho người dùng băn_khoăn khi nào nên dùng 3D Touch và lúc_nào thì bấm vào ứng_dụng như cách_thức thông_thường nhiều năm qua , Jason_Snell tới từ MacWorld chia_sẻ .
+John_Gruber , cây_viết công_nghệ khác và là tín_đồ " cuồng " Apple cũng phải đồng_ý với Snell và tỏ ra thất_vọng với tính_năng " Peek and Pop " của 3D Touch trên i OS hiện_giờ .
+Về lý_thuyết , người dùng đều thích các phím tắt .
+Nhưng trong thực_tế , 3D Touch và " Peek and Pop " chỉ tiết_kiệm được một , hoặc hai thao_tác , vì_thế chẳng khiến cho việc dùng i Phone trở_nên nhanh hơn .
+Nếu_như trên Android , người dùng được quyền thiết_lập phím tắt nào ở trên thanh thông_báo Notification , đặt Widget nào_hay dùng ở ngoài màn_hình chính thì Apple và các nhà_phát_triển ứng_dụng i OS gò bò người dùng theo khuôn_khổ mà họ cho là tốt nhất .
+Như trong bản cập_nhật i OS 9.3 mới_đây , Apple thêm tính_năng Peek and Pop cho biểu_tượng Settings , nhưng chỉ cho_phép hiển_thị 3 phím tắt Pin , Wi-Fi và Bluetooth còn cái mà nhiều người cần là chuyển_đổi chế_độ 3G nhanh lại không có .
+Bấm và giữ mạnh hơn vào biểu_tượng ứng_dụng làm xuất_hiện các phím tắt .
+Lý_do chính khiến cho 3D Touch ít giá_trị và không đem lại tiện_lợi như mong_đợi là do Apple cũng_như các nhà_phát_triển ứng_dụng chưa tìm ra cách để tận_dụng 3D Touch .
+Điểm đánh_giá cao ở 3D Touch là khi dùng bàn_phím ảo trên 6s hay 6s Plus , để di_chuyển con_trỏ người dùng có_thể bấm mạnh vào màn_hình và di_chuyển trên bàn_phím ảo .
+Điều này giúp_việc di con_trỏ để chỉnh_sửa văn_bản nhanh và chính_xác hơn cách chạm vào dòng chữ thông_thường .   Nhưng
+đó là một trong số_ít những tiện_lợi mà 3D Touch mang lại cho người dùng i Phone hiện_giờ .
+Trên kho ứng_dụng App_Store , số_lượng ứng_dụng và trò_chơi sử_dụng tính_năng 3D Touch giờ chẳng nhiều hơn bao nhiều so với thời_điểm Apple công_bố tính_năng này lần đầu cùng_với i Phone 6s và 6s Plus .
+Apple có_thể phấn_khích với tính_năng mới của mình nhưng thực_tế các nhà_phát_triển phần_mềm i OS thì chưa .
+Mọi việc vẫn có_thể khác khi thời_gian tới Apple phổ_cập 3D Touch lên những thiết_bị còn lại trong hệ_sinh_thái sản_phẩm đa_dạng của họ .
+Nhưng so với tính_năng cảm_ứng đa_điểm hay màn_hình Retina độ_phân_giải cao , rõ_ràng 3D Touch đã có sự khởi_đầu thất_vọng .
+3D Touch trên i Phone 6s và 6s Plus hoạt_động như_thế_nào
+Mỹ_Anh

@@ -1,0 +1,45 @@
+Thế_giới đang bước vào thời_kỳ hậu ứng_dụng
+Ứng_dụng đang tồn_tại trên các thiết_bị số , nhưng sự có_mặt của các chương_trình tương_tác máy_tính bằng ngôn_ngữ_tự_nhiên , trợ_lý ảo … đã khiến vai_trò của chúng không còn như trước và có nguy_cơ biến_thể sang dạng khác .
+Sẽ không còn các ứng_dụng tập_trung vào một chức_năng duy_nhất ?
+Ảnh : TechRadar .
+Rất khó hình_dung việc cầm một chiếc điện_thoại hay máy_tính bảng mà không có ứng_dụng bên trong .
+Thế_nhưng , sự xuất_hiện của các hình_thức tương_tác mới có nguy_cơ khiến chúng bắt_đầu thoái_trào .
+" Rất khó kết_luận ứng_dụng sẽ biến_mất hoàn_toàn trong tương_lai , nhưng có_thể biến_đổi dựa trên cách ta tương_tác .
+Thế_giới sẽ chứng_kiến số_lượng của chúng giảm dần .
+Bên_cạnh ứng_dụng nhiều chức_năng , người dùng có_thể sẽ chỉ còn sử_dụng các tương_tác bằng giọng nói , cử_chỉ … để điều_khiển thiết_bị theo ngữ_cảnh " , Claus_Jepsen , Kiến_trúc sư_trưởng tại công_ty phần_mềm Unit4 , nhận_định .
+Lượng ứng_dụng đã đạt đỉnh
+Điện_thoại thông_minh ra_đời cũng là lúc cuộc_chiến về ứng_dụng nổi lên , trong đó App_Store cho i OSvà Play_Store cho Android luôn nóng_bỏng nhất .
+Ai đang chiến_thắng ở thời_điểm này ?
+Nếu tính về số_lượng , cửa_hàng của Google chiếm ưu_thế , nhưng nói về chất_lượng , dù chỉ đạt 15% , App_Store luôn được đánh_giá cao hơn .
+Tuy_nhiên , theo IDC , số_lượng ứng_dụng được tải về từ App_Store đang giảm 8% từng năm dù lợi_nhuận từ tăng 36% mỗi năm .
+" IDC từng đưa ra những con_số cho thấy số_lượng ứng_dụng sẽ tăng trong thời_gian gần đây , nhưng họ cũng không quên cảnh_báo mức tăng_trưởng này sẽ chậm lại đáng_kể sau đó .
+Đối_với doanh_nghiệp , đã đến lúc nên nghĩ cuộc đua ứng_dụng điện_thoại đã đạt đỉnh .
+Kể từ giờ , họ phải bước vào_cuộc đua mới , cuộc đua về chất_lượng " , Michael_Allen , Quản_lý bộ_phận hiệu_suất ứng_dụng phần_mềm của Dynatrace , cảnh_báo .
+Theo số_liệu của Dynatrace , hiện có tới 47% người dùng chuyển sang ứng_dụng khác nếu tốc_độ mở của nó chậm hơn 3 giây , và 32% không thử cài_đặt lại một lần nữa .
+" Chất_lượng , tốc_độ ứng_dụng đang thách_thức nhà_phát_triển " , Allen nói .
+Hiện_nay , hầu_hết điện_thoại thông_minh đều tích_hợp sẵn trình_duyệt với nhiều tính_năng hỗ_trợ .
+Các nhà_cung_cấp dịch_vụ cũng từng bước tối_ưu trang_web của mình để truy_cập nhanh hơn , mượt hơn , nhiều tính_năng hơn … mà không cần phải sử_dụng ứng_dụng rườm_rà .
+" Dù vẫn có một_số giới_hạn , không_thể phủ_nhận việc truy_cập qua website tiện hơn rất nhiều so với tải ứng_dụng về .
+Chưa kể vấn_đề chiếm bộ_nhớ , khả_năng bảo_mật … đang ảnh_hưởng lớn tới thói_quen cài_đặt ứng_dụng của người dùng " , Jamie_Turner , Giám_đốc điều_hành của công_ty dữ_liệu PCA Predict , nhận_định .
+Sự hiện_diện của các trợ_lý thông_minh
+Trợ_lý thông_minh được kỳ_vọng sẽ " soán ngôi " ứng_dụng .
+Theo Gartner , đến năm 2020 , chúng sẽ chiếm tới 40% trong tương_tác di_động và đây cũng là khởi_điểm cho thời_kỳ thoái_trào của ứng_dụng .
+Siri sẽ góp_phần đưa   ứng_dụng vào   " dĩ_vãng " .
+Ảnh : AppleInsider .
+" Cortana , Google_Now , Siri … sử_dụng các thuật_toán thông_minh và trí_tuệ_nhân_tạo để hiểu rõ chủ_nhân của nó .
+Bạn không còn phải tải về các ứng_dụng cụ_thể nữa bởi trợ_lý ảo đã có các chức_năng để phục_vụ bạn tùy theo ngữ_cảnh .
+Tương_lai của công_nghệ di_động là thuật_toán , không phải ứng_dụng " , đại_diện Gartner cho_biết .
+Bên_cạnh đó , những ứng_dụng tổng_hợp nhiều tính_năng sẽ là lựa_chọn thay_thế ứng_dụng riêng_lẻ .
+Hiện_nay , Siri ,   Google_Now hay Cortana   cho_phép người sử_dụng kiểm_tra thời_tiết , tìm_kiếm trực_tuyến , gửi e - mail , lịch_trình cuộc họp ...
+Facebook cũng đang hướng Messenger theo xu_thế này bằng việc tích_hợp các API có tính_năng khác_nhau cho chatbot , cũng_như khuyến_khích các nhà_phát_triển thực_hiện điều đó .
+Tuy_vậy , nó cũng cho thấy hiện xu_thế mới chỉ xuất_hiện trên các ứng_dụng phổ_biến .
+Các trợ_lý ảo hiện có_thể được ra_lệnh bằng những câu nói cơ_bản và tất_nhiên chưa_thể hiểu tất_cả những gì con_người nói .
+Thế_nhưng , theo Jepsen , khi công_nghệ phát_triển hơn , khi khả_năng xử_lý ngôn_ngữ_tự_nhiên đủ tốt , việc thay_thế thao_tác bấm bằng giọng nói chỉ còn là vấn_đề thời_gian .
+" Việc máy hiểu được ngôn_ngữ_tự_nhiên sẽ khiến mọi thứ trở_nên dễ_dàng hơn .
+Ví_dụ khi cần kiểm_tra bảng lương , thay_vì nhìn vào màn_hình và thao_tác trên giao_diện phức_tạp , người dùng chỉ cần cầm thiết_bị và nói ' cho tôi xem bảng lương ' là tất_cả sẽ hiện lên " , Jepsen cho_hay .
+Trợ_lý ảo và các thiết_bị sử_dụng ngôn_ngữ_tự_nhiên sẽ là tương_lai , thay_thế cho ứng_dụng ?
+Ảnh : Tech_Radar .
+Theo Palermo , con_người sẽ được hưởng nhiều tiện_ích ở thời_kỳ hậu ứng_dụng .
+" Bạn không cần phải nhấn chuột , gõ bàn_phím hay chạm màn_hình nữa , bởi đó là hành_vi không tự_nhiên .
+Thế_giới trong tương_lai sẽ thân_thiện hơn rất nhiều , mọi thứ đều thông_minh , bạn chỉ cần nói và chúng sẽ hiểu , sau đó thực_hiện theo đúng yêu_cầu đề ra " , Palermo dự_đoán .
+Bảo_Lâm ( theo TechRadar )

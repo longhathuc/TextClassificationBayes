@@ -1,0 +1,13 @@
+Google_Duo , ứng_dụng gọi video cạnh_tranh FaceTime
+Phần_mềm của Google được thiết_kế đơn_giản dành riêng trên smartphone , cho_phép người nhận thấy hình_ảnh của người gọi trước khi bắt_đầu .
+Sau khi giới_thiệu tại sự_kiện I / O hồi tháng 5 , Google đã chính_thức phát_hành ứng_dụng gọi video mới của hãng mang tên Duo .
+Sản_phẩm được đánh_giá nhằm cạnh_tranh với FaceTime của Apple .
+Google_Duo .
+Điểm nhấn trên Duo là giao_diện đơn_giản mà ngay khi bắt_đầu người dùng chỉ cần có số điện_thoại .
+Đây cũng chính là địa_chỉ để mọi người kết_nối với nhau , không cần tài_khoản .
+Google nói rằng ứng_dụng được tối_ưu kể_cả khi mạng chậm , lúc này Duo giảm độ_phân_giải để cuộc_gọi thông_suốt .
+Phần_mềm cũng linh_hoạt chuyển_đổi giữa Wi-Fi và mạng di_động nên cuộc_gọi không bị gián_đoạn .
+Điểm độc_đáo trên Duo có_thể nói đến tính_năng Knock_Knock , cho_phép người nghe_nhìn thấy hình_ảnh của người gọi trước khi bắt_đầu .
+Hình_thức này giúp mọi người có cảm_giác gần_gũi và tự_nhiên hơn , thay_vì những tiếng chuông khô_khan rồi mới bắt_đầu hội_thoại .
+Duo được xây_dựng với mã_hóa đầu_cuối , đảm_bảo dữ_liệu riêng_tư mà ngay cả Google cũng không xem được .
+Ứng_dụng bắt_đầu phát_hành miễn_phí cho i OS và Android .

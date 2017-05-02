@@ -1,0 +1,26 @@
+Việt_Nam đứng trước nguy_cơ bị tấn_công mạng cao
+Các cuộc tấn_công mạng tại Việt_Nam có xu_hướng diễn_biến phức_tạp , trong đó nguy_cơ lớn nhất_là những cuộc tấn_công có chủ_đích .
+Hình_thức tấn_công này sẽ cài mã độc xâm_nhập vào hệ_thống , chờ đến khi cần_thiết mới đưa ra hành_động làm ảnh_hưởng đến trật_tự xã_hội cũng_như quyền_lợi hợp_pháp của người_dân .
+Buổi diễn_tập bảo_vệ hệ_thống thông_tin vào ngày 7/10 tại TP_HCM .
+Ảnh : H . Đ .
+Thực_trạng này dẫn đến nguy_cơ tấn_công mạng trên nhiều lĩnh_vực , từ chính_quyền , như các trang thông_tin điện_tử tổng_hợp , đến các trang_web phục_vụ người_dân như ngân_hàng , bảo_hiểm ...
+Do_đó , vào ngày 7/10 vừa_qua , TP_HCM đã tổ_chức diễn_tập bảo_vệ hệ_thống thông_tin lần thứ 3 , sau hai lần đầu diễn ra trước đó vào năm 2013 và 2015 .
+Việc diễn_tập thực_hiện theo sự chỉ_đạo của UBND_TP_HCM , nhă ̀ m nâng cao_trình đọ ̂ ky ̃ thuạ ̂ t và nhạ ̂ n thư ́ c vê ̀ an_toàn thông_tin cu ̉ a đọ ̂ i ngu ̃ cán bọ ̂ vạ ̂ n hành hẹ ̂ thô ́ ng công nghẹ ̂ thông_tin cu ̉ a các quạ ̂ n huyẹ ̂ n , sơ ̉ ngành cu ̃ ng nhu ̛ mọ ̂ t sô ́ ti ̉ nh lân cạ ̂ n .
+Trước hôm diễn_tập chính , Sở Thông tin và Truyền_thông TP_HCM cũng chủ_trì mở lớp tập_huấn kiến thư ́ c vê ̀ ba ̉ o vẹ ̂ thông_tin cho các cán_bộ liên_quan .
+Đợt diễn_tập năm nay quy_mô lớn , có sự tham_dự của đại_diện UBND_TP_HCM , Bộ Thông tin và Truyền_thông , Cục Công nghệ thông_tin - Bộ Tổng tham_mưu - Bộ Quốc_Phòng , Sở Thông tin và Truyền_thông TP_HCM , lãnh_đạo các sở ngành và 24 quận huyện , đội ứng_cứu khẩn_cấp cùng các chuyên_gia và doanh_nghiệp đầu ngành trong lĩnh_vực an_toàn thông_tin .
+Bên_cạnh đó , việc cho_phép các đội từ_trường đại_học , các chuyên_gia công_nghệ đăng_ký tham_gia diễn_tập trực_tiếp trên hệ_thống được thiết_kế bám sát thực_tế là một điều mới trong chương_trình năm nay .
+Trong sự_kiện này , những thông_tin về tình_hình an_ninh an_toàn thông_tin gần đây nhất của Việt_Nam cũng được các chuyên_gia chia_sẻ .
+Theo đó , VNCERT đánh_giá tình_hình an_ninh ma ̣ ng Viẹ ̂ t Nam đã ơ ̉ mư ́ c báo đọ ̂ ng .
+Số_liệu của cơ_quan này cho thấy ngay trong 6 tháng đâ ̀ u na ̆ m 2016 ghi nhạ ̂ n 8.758 vu ̣ giả_mạo hệ_thống để lừa_đảo ( phishing ) , 77.160 vu ̣ tấn_công thay_đổi giao_diện ( deface ) và 41.712 vu ̣ tâ ́ n công mã đọ ̂ c .
+Những con_số này ta ̆ ng gâ ̀ n 2,5 lâ ̀ n so vơ ́ i tô ̉ ng sô ́ sư ̣ cô ́ malware đu ̛ ơ ̣ c ghi nhạ ̂ n trong ca ̉ na ̆ m 2015 và gâ ́ p 5 lâ ̀ n so vơ ́ i sô ́ sư ̣ cô ́ malware cu ̉ a ca ̉ na ̆ m 2014 .
+Hầu_hết các chuyên_gia đều nhìn_nhận tình_hình an_ninh mạng đang diễn_biến phức_tạp và tinh_vi .
+Các thống_kê cho thấy Viẹ ̂ t Nam là quô ́ c gia đư ́ ng thư ́ 19 trên thê ́ giơ ́ i và thư ́ 14 ta ̣ i châu Á trong tháng 7 vơ ́ i 23,8% thiê ́ t bi ̣ công_nghệ_thông_tin bi ̣ lây nhiê ̃ m phâ ̀ n mê ̀ m đọ ̂ c ha ̣ i , gia ̉ m 2% so vơ ́ i tháng 6 .
+Trong tháng 7 , tỷ lẹ ̂ thu ̛ rác phát_tán có nguô ̀ n gư ̉ i tư ̀ Viẹ ̂ t Nam là 9% , ta ̆ ng 1,6% so vơ ́ i tháng 6 ( 7,4% ) , tư ́ c là cư ́ 1.000 thu ̛ rác đu ̛ ơ ̣ c gư ̉ i đi trên thê ́ giơ ́ i thì_có 90 thu ̛ rác đu ̛ ơ ̣ c gư ̉ i đi tư ̀ Viẹ ̂ t Nam .
+Vì_thế nước ta vâ ̃ n giư ̃ nguyên vi ̣ trí thư ́ 3 trên thê ́ giơ ́ i và thư ́ 2 ta ̣ i châu Á vê ̀ tỷ lẹ ̂ nguô ̀ n thu ̛ rác đu ̛ ơ ̣ c phát_tán .
+Ngoài_ra , sự bùng_nổ về di_động cũng kéo_theo việc Việt_Nam nă ̀ m trong khu vư ̣ c có tỷ lẹ ̂ ngu ̛ ơ ̀ i dùng thiê ́ t bi ̣ di đọ ̂ ng bi ̣ tâ ́ n công 10,1 - 15% , trong nhóm cao thứ_hai trên thế_giới .
+Việt_Nam nằm trong nhóm quốc_gia có nguy_cơ bị tấn_công di_động cao thứ_hai trên thế_giới .
+Nguồn : Kaspersky_Lab .
+Đứng trước mối nguy về an_toàn thông_tin đang có xu_hướng tăng , các chuyên_gia khuyến_cáo doanh_nghiệp , cơ_quan Nhà_nước đầu_tư nghiêm_túc về công_nghệ lẫn nhân_sự để đảm_bảo an_toàn .
+Bên_cạnh đó , quan_trọng nhất_là nâng cao ý_thức an_ninh thông_tin cho nhân_viên lẫn các lãnh_đạo , nhằm phòng_ngừa rủi_ro ngay từ đầu .
+Chỉ cần ý_thức không mở các đường link nghi_vấn , email lạ , không cài_đặt ứng_dụng không rõ nguồn … , là đã góp_phần lớn trong việc ngăn_chặn lây_nhiễm , lây_lan phần_mềm độc_hại .
+Minh_Trí

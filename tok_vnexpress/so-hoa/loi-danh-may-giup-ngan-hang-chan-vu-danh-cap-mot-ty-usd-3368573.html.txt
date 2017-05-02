@@ -1,0 +1,19 @@
+Lỗi đánh_máy giúp ngân_hàng chặn vụ đánh_cắp một tỷ USD
+Kế_hoạch đánh_cắp khoản tiền khổng_lồ từ ngân_hàng của nhóm hacker đã không trọn_vẹn do chúng gõ sai tên khi thực_hiện giao_dịch .
+Theo Reuters , các tin_tặc đã truy_cập vào hệ_thống của Ngân_hàng Bangladesh và đánh_cắp thông_tin dùng để thực_hiện các thanh_toán .
+Sau đó , chúng gửi gần 30 lệnh tới   Ngân_hàng Dự_trữ liên_bang New_York ( Mỹ ) , yêu_cầu chuyển_tiền từ tài_khoản của Ngân_hàng   Bangladesh   tới các thực_thể ở Philippines và Sri_Lanka .
+Các hacker đã có được thông_tin giao_dịch của Ngân_hàng Bangladesh với khoản tiền khoảng 1 tỷ USD trong tài_khoản .
+Ảnh minh_họa .
+Bốn trong số các yêu_cầu chuyển_tiền đã được thực_hiện , giao_dịch tổng_cộng 81 triệu USD .
+Nhưng lệnh thứ_năm với khoản tiền 20 triệu USD đã bị tạm ngừng khi ngân_hàng nhận thấy tên của người nhận chuyển_nhượng bị sai chính_tả .
+Giao_dịch này dùng để chuyển_tiền cho một tổ_chức phi lợi_nhuận ở Sri_Lanka .
+Tuy_nhiên , từ " foundation " ( tổ_chức ) trong phần tiêu_đề lại được viết thành " fandation " .
+Ngân_hàng thấy có vấn_đề nên đã ngừng chuyển_tiền , đồng_thời   phát_hiện nhiều giao_dịch bất_thường nên đã cảnh_báo Ngân_hàng Bangladesh .
+Vụ tấn_công của hacker đã bị phát_hiện và toàn_bộ lệnh chuyển_tiền được khóa lại .
+Ngân_hàng Bangladesh có hàng tỷ USD trong tài_khoản của Cục dự_trữ liên_bang Mỹ dùng để thanh_toán quốc_tế .
+Ước_tính các giao_dịch trị_giá khoảng 850 đến 870 triệu USD đã được chặn .
+Ngân_hàng Bangladesh cho_biết họ đã thu_hồi được một phần số tiền bị đánh_cắp và đang tích_cực làm_việc để khắc_phục hậu_quả .
+Chính_phủ nước này cho rằng Cục dự_trữ liên_bang Mỹ phải chịu trách_nhiệm khi để xảy_ra vụ_việc trên .
+Năm 2015 , hãng bảo_mật Kaspersky cho_biết nhóm tội_phạm mạng đa quốc_gia đã đánh_cắp nhiều tỷ USD từ hơn 100 tổ_chức tài_chính trên toàn_cầu .
+Ngay cả những hệ_thống mạng an_toàn nhất đang phải đối_mặt với các vụ tấn_công và cướp tiền .
+Đình_Nam

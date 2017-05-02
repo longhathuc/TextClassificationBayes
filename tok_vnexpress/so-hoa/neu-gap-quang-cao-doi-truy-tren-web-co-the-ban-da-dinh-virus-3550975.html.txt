@@ -1,0 +1,19 @@
+Nếu gặp quảng_cáo đồi_trụy trên web , có_thể bạn đã dính virus
+Khi người dùng truy_cập các trang_web uy_tín nhưng lại bắt_gặp quảng_cáo đồi_trụy , có_thể trình_duyệt hoặc thiết_bị của họ đã bị nhiễm phần_mềm độc_hại .
+Nếu thấy những quảng_cáo phản_cảm hoặc có nội_dung lạ và không_thể tắt bỏ trên những website quen_thuộc , có uy_tín , thì có_thể do yếu_tố bên ngoài ảnh_hưởng chứ không phải do trang_web đó cố_tình chạy quảng_cáo làm xấu hình_ảnh .
+Khi gặp hiện_tượng này , người dùng nên kiểm_tra bằng cách mở lại website đó trên một trình_duyệt khác hoặc một thiết_bị khác để xem quảng_cáo đó còn tồn_tại hay không .
+Theo chuyên_gia bảo_mật Nguyễn_Minh_Đức , các phần_mềm quảng_cáo bất_hợp_pháp , gọi_là adware , bằng cách nào_đó đã lây_nhiễm lên máy_tính hoặc trình_duyệt của người dùng .
+Sau khi thâm_nhập và kiểm_soát trình_duyệt , mỗi khi người dùng vào các website , adware sẽ tự_động chèn những nội_dung quảng_cáo mà họ không mong_muốn .
+Những adware này thường không cho tắt đi hay dễ_dàng gỡ bỏ , gây phiền_toái và ảnh_hưởng đến trải_nghiệm của người dùng trên trang .
+Một_số adware còn thay_đổi địa_chỉ trang_chủ trên trình_duyệt hay cài thêm những phần_mềm nhỏ dạng add - on Firefox hoặc Extension trên Chrome để hiển_thị quảng_cáo .
+Máy_tính của người dùng khi bị nhiễm adware có_thể hiển_thị những quảng_cáo " rác " khi vào các trang uy_tín như e Bay .
+Theo Face Time_Communications , ước_tính có tới hơn 80% trong tổng_số máy_tính_cá_nhân trên toàn thế_giới bị nhiễm phần_mềm adware và spyware .
+Có nhiều nguyên_nhân như người dùng truy_cập một_số trang_web lạ , bấm vào đường link không rõ nguồn_gốc , tải chương_trình miễn_phí nhưng lại được " tặng kèm " phần_mềm quảng_cáo , gián_điệp ... mà họ không hề hay_biết .
+Ngay cả khi cảnh_giác , không cài_đặt hay làm theo chỉ_dẫn mà chỉ cần truy_cập thì thiết_bị của người dùng vẫn có nguy_cơ nhiễm mã độc .
+Một_số phần_mềm khai_thác lỗ_hổng trên các trình_duyệt và chờ trực bạn ghé thăm là sẵn_sàng " chui vào " rồi ẩn_náu trong máy_tính .
+Vì_vậy , các chuyên_gia bảo_mật vẫn luôn cảnh_báo : không có thứ gì hoàn_toàn miễn_phí , ngay cả trên Internet .
+Tuy_nhiên , ông Nguyễn_Minh_Đức cũng không loại_trừ khả_năng , một_số trang_web uy_tín đang sử_dụng dịch_vụ quảng_cáo Adsense của Google và trong một_số trường_hợp , có_thể công_cụ của Google vô_tình đăng quảng_cáo nhạy_cảm .
+Ông Đức khuyến_cáo , để tránh bị adware gây phiền_hà , người dùng trước_hết cần lưu_ý trang_bị cho các thiết_bị của mình một phần_mềm bảo_vệ máy_tính .
+Tiếp đó , không nên cài_đặt , tải các phần_mềm / plugin cho trình_duyệt mà không rõ nguồn_gốc .
+Họ cũng cần cân_nhắc , tìm_hiểu kỹ trước khi thực_hiện các hành_động như click vào các đường_dẫn , mở file , hoặc điền mật_khẩu vào các website ...
+Với những thiết_bị đã bị nhiễm mã độc , người dùng nên gỡ bỏ trình_duyệt và cài_đặt lại hoặc truy_cập vào phần quản_lý preferences / extentions trên trình_duyệt để loại các plug - in không cần_thiết .

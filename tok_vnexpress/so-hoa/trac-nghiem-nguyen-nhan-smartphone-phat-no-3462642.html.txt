@@ -1,0 +1,23 @@
+Trắc_nghiệm : Nguyên_nhân smartphone phát_nổ
+Hãy trả_lời những câu_hỏi dưới đây để hiểu thêm về pin trên smartphone , nguyên_nhân gây nổ và cách sử_dụng an_toàn .
+( Bấm vào câu trả_lời để xem đáp_án )
+1 . Nguyên_nhân nào dưới đây khó   khiến smartphone phát_nổ ?
+A . Viên pin bị thủng   B .
+Nhiệt_độ quá cao C .
+Nhiệt_độ dưới 0 độ C
+2 . Nhiệt_độ thế_nào tối_ưu cho hoạt_động của điện_thoại ?
+A . Càng lạnh càng tốt ( dưới 0 độ C )
+B . Nhiệt_độ phòng ( 16 đến 22 độ C )
+C . Nhiệt_độ không ảnh_hưởng đến pin
+3 . Nguyên_tắc nào không đúng để sạc smartphone an_toàn ?
+A . Dùng bộ sạc , dây_cáp đi kèm máy
+B . Đặt smartphone trên giường cho tiện quan_sát
+C . Tránh nạp pin lúc nhiệt_độ máy lên cao
+4 . Công_nghệ sạc nhanh ảnh_hưởng thế_nào đến pin trên smartphone ?
+A . Khiến giảm tuổi_thọ pin
+B . Giúp nhiệt_độ máy thấp hơn sạc chậm
+C . Tăng tốc_độ xử_lý cho smartphone
+5 . Bảo_quản pin thế_nào khi lâu không dùng smartphone ?
+A . Xả pin hoàn_toàn ( dưới 10% )
+B . Giữ ở khoảng 50% dung_lượng
+C . Sạc đầy 100% pin rồi cất đi

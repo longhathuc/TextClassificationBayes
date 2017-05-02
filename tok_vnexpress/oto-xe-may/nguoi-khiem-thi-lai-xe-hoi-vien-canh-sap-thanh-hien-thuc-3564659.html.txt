@@ -1,0 +1,28 @@
+Người khiếm_thị lái_xe hơi - viễn_cảnh sắp thành hiện_thực
+Một người khiếm_thị thử_nghiệm thành công_mẫu xe tự lái của Google tại Austin ( bang Texas , Mỹ ) .
+Sau nhiều năm thử_nghiệm bởi các nhân_viên và kỹ_sư Google , thành_công này có_thể được xem là cột mốc quan_trọng trong việc nghiên_cứu và phát_triển loại xe tự lái của hãng công_nghệ Mỹ .
+“ Chúng_tôi đã nghiên_cứu về xe tự lái gần cả một thập_kỷ .   Những khâu khó trong phần vận_hành cần rất nhiều thời_gian cũng_như công_sức ” , theo lời của Nathaniel_Fairfield , một kỹ_sư Google .
+Steve_Mahan là người khiếm_thị đầu_tiên thử_nghiệm loại xe tự lái trong bãi xe thử_nghiệm của Google .
+Điều đặc_biệt là anh không phải nhân_viên của Google , là dân không chuyên trong lĩnh_vực nghiên_cứu và thử_nghiệm xe_hơi tự lái .
+“ Cảm_giác giống như bạn đang được đi cùng một tay_lái lụa vậy .
+Nếu đi cùng xe với ai đó , khi nhắm_mắt lại bạn sẽ cảm_nhận được người đó điều_khiển xe có tốt hay không .
+Rõ_ràng hệ_thống lái tự_động này vận_hành rất tốt , cảm_giác không khác_gì so với dân chuyên lái_xe ” ,   Mahan chia_sẻ .
+Google cho_biết loại xe này đã chạy trên hơn 2 triệu m đường trong thành_phố để kiểm_tra khả_năng vận_hành và   hãng đã dành 6 tháng kiểm_tra khả_năng hoạt_động của xe trước khi Mahan tiến_hành thử_nghiệm .
+Mahan cho_biết đã có quãng thời_gian trải_nghiệm thú_vị tại vùng lân_cận của Austin , Texas .   Chiếc xe thử_nghiệm có hệ_thống máy_tính dự_phòng và nhiều hệ_thống điều_khiển khác .
+Trong khi đó , Costa_Samaras , chuyên_gia về tự_động_hóa của trường đại_học Carnegie_Mellon bày_tỏ lo_ngại : “ Việc không có người điều_khiển sẽ làm tăng khả_năng máy_tính có_thể bị lỗi hoặc máy_móc gặp trục_trặc ” .
+Google là một trong những công_ty công_nghệ đầu_tiên tham_gia vào lĩnh_vực vốn là ưu_thế của những nhà_sản_xuất xe_hơi tại Detroit và các nơi khác trên thế_giới .
+Sau những lần kiểm_tra kỹ_thuật bắt_buộc bởi các nhân_viên Google , công_ty này bắt_đầu cho_phép loại xe tự lái không có vô - lăng và bàn_đạp chạy thử_nghiệm trên đường .
+Với quyết_định này , Google trở_thành nhân_tố nổi_trội , bởi lẽ ngành công_nghiệp hiện_nay với mục_tiêu là nhu_cầu bán được xe ra thị_trường , cũng đang từng bước tiếp_cận và giới_thiệu dòng phương_tiện không tài_xế này .
+Thông_báo của Google về việc thử_nghiệm thành_công loại xe tự lái với người khiếm_thị được đưa ra cùng lúc với một dự_luật của chính_quyền ông Obama , có_thể quy_định các loại xe_hơi đời_mới cần có khả_năng kết_nối không dây với nhau .
+Một_số ý_kiến cho rằng quy_định này sẽ tăng độ an_toàn nhưng đồng_thời cũng tăng khả_năng bị thâm_nhập cũng_như rò_rỉ thông_tin cá_nhân .
+Ví_dụ cho việc các phương_tiện giao_tiếp và kết_nối với nhau là hộp kết_nối không dây có_thể ra_lệnh cho xe dừng lại khi có một phương_tiện khác sắp_sửa vượt đèn_đỏ .
+Các văn_phòng liên_bang nói rằng các công_nghệ này “ sẽ không thu_thập , phát_tán hoặc chia_sẻ thông_tin cá_nhân cũng_như thông_tin của các phương_tiện được kết_nối với nhau , hoặc có khả_năng kết_nối với nhau vì vấn_đề bảo_mật thông_tin là rất thực_tế ” .
+Việc các phương_tiện có_thể kết_nối với nhau được phần_lớn các hãng sản_xuất xe tự lái coi như nền_tảng để phát_triển dòng xe này , ngoại_trừ một_vài hãng với quan_điểm riêng .
+“ Nếu_vậy , chúng_ta không cần đến biển_hiệu , cột mốc hoặc thậm_chí là đèn giao_thông ” , Jim_Barbareso , phó_chủ_tịch của hệ_thống phương_tiện thông_minh tại HNTB Infrastructure_Solutions bày_tỏ .
+“ Xe_hơi có_thể đi qua các ngã tư mà không sợ đâm vào nhau và không cần đến sự trợ_giúp của tín_hiệu giao_thông ” .
+Fairfield cho rằng kết_nối trực_tiếp giữa các phương_tiện là một nền_tảng giá_trị nhưng không phải yếu_tố thiết_yếu giúp đưa các loại xe tự lái vào cuộc_sống .
+“ Có loại công_nghệ nói cho bạn biết khi nào xe sẽ phanh lại và phanh với mức_độ ra_sao .
+Việc đó trong một_vài trường_hợp rất hữu_ích nhưng chúng_ta vẫn có_thể xác_định rằng với hệ_thống radar , laser và camera , thì công_nghệ đó không hữu_dụng đến mức tuyệt_đối ” .
+The_Competitive_Enterprise , nhóm chuyên_gia đặt trụ_sở tại Washington cho rằng , quyết_định của chính_quyền Obama về vấn_đề này là một động_thái “ nửa_đêm ” .
+Marc_Scribner , một nhà_nghiên_cứu cho rằng chính_quyền của Trump nên ngay_lập_tức hủy_bỏ đề_xuất “ nguy_hiểm ” này .
+Thu_Nga

@@ -1,0 +1,15 @@
+Ứng_dụng chạy ngầm tiêu tốn 30% dữ_liệu di_động
+Facebook_Messenger và Gmail là hai trong số các ứng_dụng " ngốn " nhất , với khoảng 73% tổng_số dữ_liệu được sử_dụng chạy dưới nền .
+Dữ_liệu ngầm là tất_cả lưu_lượng Internet bị tiêu tốn ngay cả khi người dùng thiết_bị không thật_sự đang sử_dụng những ứng_dụng đó .
+Có_thể kể đến như quá_trình đồng_bộ e - mail , các mẫu quảng_cáo pre - fetching ( tính_năng tải file về trước được cài_đặt sẵn trong một_số trình_duyệt / ứng_dụng ) , các bài báo hoặc tin_tức dù bạn có_thể không đọc chúng .
+" Hầu_hết ứng_dụng được tạo ra để cung_cấp cho người dùng những trải_nghiệm tốt , không phải để lưu dữ_liệu .
+Nói cách khác , việc tồn_tại dữ_liệu nền giống như vứt đi một đồng trong mỗi ba đồng bạn chi_tiêu cho kế_hoạch dữ_liệu di_động của bạn " , Sergey_Lossev , Giám_đốc sản_phẩm của Opera_Software , cho_biết .
+Theo thống_kê của hãng phần_mềm này dựa trên việc phân_tích dữ_liệu của người dùng Opera_Max tháng 12/2015 , trung_bình hơn 30% trên tổng_số dữ_liệu di_động được tiêu tốn bởi các ứng_dụng đang chạy ở chế_độ nền .
+Đáng chú_ý , Facebook_Messenger và Gmail là " ngốn " tới 73% dữ_liệu ở chế_độ nền trong khi Google_Drive và WhatsApp chiếm khoảng 50% tổng_số dữ_liệu .
+Các ứng_dụng của Facebook như Facebook , Facebook_Messenger , WhatsApp , Instagram ... đều ngốn pin .
+Ảnh : TechCrunch
+Đầu năm nay , trang công_nghệ Android_Central , cũng nhận thấy xoá ứng_dụng Facebook giúp cải_thiện 20% pin trên thiết_bị Android , còn trên i Phone là 15% .
+Đại_diện Facebook cho_biết họ đã nhận được nhiều báo_cáo về việc điện_thoại nhanh hết pin do ứng_dụng Facebook chạy ngầm .
+Theo ông   Lossev , đa_số người dùng   không nhận_thức được sự tiêu tốn dữ_liệu này và có_thể họ cũng không biết làm thế_nào để ngăn điều đó xảy_ra .
+Do_đó , Opera đã phát_triển   tính_năng Cảnh_báo thông_minh trong Opera_Max , giúp người dùng   dễ_dàng quản_lý việc sử_dụng dữ_liệu ngầm , cũng_như cách làm thế_nào để ngăn các ứng_dụng " nuốt " dữ_liệu của bạn .
+Châu_An

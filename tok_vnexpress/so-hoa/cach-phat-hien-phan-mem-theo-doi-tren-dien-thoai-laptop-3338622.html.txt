@@ -1,0 +1,29 @@
+Cách phát_hiện phần_mềm theo_dõi trên điện_thoại , laptop
+Nếu xuất_hiện những công_cụ lạ trên trình_duyệt , hoặc khi gõ địa_chỉ trang_web mà_lại bị điều hướng sang một trang không liên_quan , có_thể máy_tính của bạn đã nhiễm spyware .
+Như tên gọi đã thể_hiện , spyware là những phần_mềm được thiết_kế với mục_đích theo_dõi thông_tin người dùng .
+Nó sẽ âm_thầm ghi lại các dữ_liệu trong máy cũng_như mọi hoạt_động trên thiết_bị của nạn_nhân , trong đó có nội_dung e - mail quan_trọng , thông_tin thẻ_tín_dụng , tên và mật_khẩu đăng_nhập tài_khoản ... rồi gửi về cho kẻ phát_tán .
+Không_chỉ xuất_hiện trên máy_tính , phổ_biến với các thiết_bị dùng hệ_điều_hành Windows , spyware còn có những phiên_bản được thiết_kế chạy trên điện_thoại thông_minh , máy_tính bảng .
+Nguy_hiểm hơn , một_số nhà_sản_xuất còn cài sẵn các phần_mềm theo_dõi trên thiết_bị trước khi xuất_xưởng .
+Ảnh minh_họa : ANY .
+Microsoft đã chỉ ra những dấu_hiệu cơ_bản để người dùng kiểm_tra xem máy_tính có bị nhiễm spyware hay không .
+Thứ nhất , cần để_ý nếu máy_tính xuất_hiện các thanh công_cụ lạ trên trình_duyệt hay những đường link lạ trong Favorites ( công_cụ lưu địa_chỉ trang_web yêu_thích ) mà người dùng không hề chủ_động đưa vào .
+Thứ_hai , các khóa thiết_lập của trình_duyệt như trang home page , chương_trình tìm_kiếm mặc_định ... bị thay_đổi .
+Ngoài_ra , người dùng có_thể thấy những icon lạ trên màn_hình desktop , nếu mở ra sẽ dẫn đến các trang_web chứa nội_dung mời_gọi tải phần_mềm miễn_phí , tham_gia chương_trình quà tặng ...   Bên_cạnh đó , khi gõ địa_chỉ một trang_web , máy_tính của người dùng bỗng bị điều hướng sang một trang không liên_quan .
+Tần_suất báo lỗi trên hệ_thống cũng tăng cao dù người dùng không cài_đặt thêm phần_mềm mới trong khi máy_tính bỗng_nhiên hoạt_động chậm hơn bình_thường .
+Không phải mọi vấn_đề về hiệu_năng đều do phần_mềm gián_điệp gây ra , nhưng spyware làm ảnh_hưởng đáng_kể đến tốc_độ hoạt_động của máy .
+Để kiểm_tra , người dùng có_thể mở thẻ Processes trong cửa số Windows_Task_Manager xem có chương_trình nào ngốn tài_nguyên hệ_thống một_cách bất_thường hay không .
+Nếu_không có , nhiều khả_năng máy_tính của bạn đã bị nhiễm spyware .
+Tuy_nhiên , đây chỉ là những dấu_hiệu cơ_bản nhất .
+Theo ông Vũ_Ngọc_Sơn , Phó_chủ_tịch Bkav , spyware là loại mã độc hoạt_động âm_thầm và ngày_càng biến_tướng một_cách tinh_vi , nên_người dùng khó có_thể phát_hiện thông_qua các biểu_hiện thông_thường .
+Thay vào đó , họ cần dùng phần_mềm diệt virus để   chặn các kết_nối không mong_muốn .
+Ảnh minh_họa : Examiner .
+Với smartphone và tablet , phần_mềm gián_điệp được lập_trình chạy ngầm trên hệ_thống nên_người dùng khó xác_định được thiết_bị của mình có dính spyware hay không .
+Một_khi đã nhiễm , spyware có khả_năng nghe lén các cuộc đàm_thoại , sao_chép danh_bạ và thư_viện ảnh , tải ứng_dụng rác vào máy , đọc và gửi SMS , vô_hiệu_hóa phần_mềm diệt virus , tra_cứu lịch_sử truy_cập web ...
+Tuy_nhiên , ông Nguyễn_Minh_Đức , chuyên_gia bảo_mật của FPT , cho rằng người sử_dụng vẫn có_thể để_ý đến một_số biểu_hiện khác_lạ của điện_thoại , máy_tính bảng như biểu_tượng GPS thi_thoảng sáng lên dù họ không mở các ứng_dụng kiểm_tra vị_trí như Google_Maps , Facebook ...
+Thứ_hai , dữ_liệu 3G tăng cao so với các tháng trước đó .
+Điện_thoại cũng chạy chậm hơn bình_thường , pin nhanh hết và máy nóng cả khi_không sử_dụng ( do phần_mềm gián_điệp có_thể đang chạy ngầm và liên_tục gửi thông_tin đến máy_chủ từ xa ) .
+Nếu có những biểu_hiện trên , người sử_dụng nên cài thêm chương_trình bảo_mật của các nhà_cung_cấp uy_tín để kiểm_tra .
+Trong trường_hợp đã biết điện_thoại bị theo_dõi , người sử_dụng có_thể sao lưu toàn_bộ dữ_liệu trên máy rồi vào phần Settings ( Thiết_lập ) chọn Factory_Reset ( khôi_phục cài_đặt gốc ) để gỡ bỏ triệt_để phần_mềm gián_điệp .
+Các chuyên_gia khuyến_cáo   người sử_dụng cần tránh cài_đặt phần_mềm không chính_thống , không rõ nguồn_gốc , không kết_nối smartphone tới máy_tính lạ vì hiện đã xuất_hiện một_số mã độc hoạt_động đa nền_tảng ( lây_lan trên cả Windows và Android ) .
+Bên_cạnh đó , mọi người cũng_nên cân_nhắc nếu thấy hệ_điều_hành cảnh_báo rằng ứng_dụng mà họ đang cài_đặt có khả_năng quét danh_bạ , SMS , can_thiệp sâu vào hệ_thống ...
+Minh_Minh

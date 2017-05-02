@@ -1,0 +1,24 @@
+Người_Hàn_Quốc dùng giỏ hàng ảo trong siêu_thị
+Chỉ cần dùng máy_quét mã mạch trên các sản_phẩm , mọi thứ chọn mua sẽ tự_động chuyển về giỏ hàng ảo và người dùng trả tiền qua dịch_vụ thanh_toán di_động .
+Trung_tâm thương_mại Lotte ở quận Bundang , Seoul , Hàn_Quốc , đang thử_nghiệm dịch_vụ mới cho_phép khách_hàng mua_sắm bằng cách quét mã_vạch trên sản_phẩm mình chọn rồi thanh_toán tiền qua thiết_bị di_động cầm tay .
+Phương_thức mua hàng thông_minh này dựa trên nền_tảng Smart_Department_Store , do Lotte thiết_kế với sự hợp_tác của nhà mạng di_động SK Telecom .
+Thông_tin chào_hàng và chương_trình khuyến_mãi gửi đến các thiết_bị di_động của khách_hàng qua chuẩn kết_nối Bluetooth_Low_Energy .
+Nền_tảng mới cũng cung_cấp những tủ chứa đồ thông_minh ( Smart_Locker ) có_thể kết_nối với di_động của người mua , kèm theo là một bàn thông_tin mua_sắm tương_tác ( Smart_Table ) .
+Nếu quá_trình thử_nghiệm thành_công , mô_hình này sẽ được mở_rộng ra 34 chi_nhánh Lotte_Department_Store trên khắp đất_nước Hàn_Quốc .
+Theo đại_diện SK Telecom , máy_quét thông_minh sẽ dần thế chỗ của xe_đẩy mua hàng truyền_thống .
+Để bắt_đầu buổi mua_sắm , thay_vì mang theo giỏ hàng cồng_kềnh , người dùng sẽ được phát một máy_quét ( Shopper_Scanner ) , dùng thiết_bị nhỏ gọn đọc mã_vạch trên sản_phẩm và đưa chúng vào giỏ hàng ảo của riêng mình .
+Ngoài_ra , trong quá_trình mua_sắm , họ dễ_dàng kiểm_tra và chỉnh_sửa các mục trong giỏ hàng tại những ki - ốt trang_bị màn_hình cảm_ứng cỡ lớn ( Order_Viewers ) đặt vòng_quanh cửa_hàng .
+Khi kết_thúc việc chọn hàng , người dùng di_chuyển đến quầy thanh_toán thông_minh ( Smart_Checkout ) thay_vì các máy POS phổ_biến , đặt thiết_bị của mình lên chiếc hộp tích_hợp công_nghệ NFC để xác_nhận những sản_phẩm đã lựa và thực_hiện trả tiền .
+Tiếp đó những mặt_hàng đã mua sẽ được chuyển đến tận nhà khách_hàng đúng ngày và giờ mà họ mong_muốn .
+Trong tương_lai , khi khách_hàng mang theo máy_quét Smart_Scanner đến gần những sản_phẩm đang có chương_trình khuyến_mãi , lập_tức thông_tin sẽ chuyển đến máy_quét qua kết_nối Bluetooth_Low_Energy , phát nội_dung ưu_đãi ra loa hay thu_hút sự chú_ý bằng việc tạo nhịp rung trên máy_quét .
+Smart_Locker như một dạng tủ_lạnh mini giúp khách_hàng bảo_quản các mặt_hàng tạp_hóa , có_thể kết_nối với điện_thoại_di_động .
+Sau khi chọn một tủ hiển_thị trên màn_hình cảm_ứng , người dùng phải nhập số điện_thoại_di_động của mình để nhận số mật_khẩu chuyển đến và sử_dụng để mở khóa tủ .
+SK Telecom đang có kế_hoạch phát_triển thêm nhiều tính_năng mới như quản_lý và khóa tủ thông_qua ứng_dụng điện_thoại thông_minh .
+" Smart_Shopper cho_phép các nhà_bán_lẻ sử_dụng không_gian của mình một_cách hiệu_quả hơn .
+Thay_vì phải trưng_bày mỗi mặt_hàng một lượng lớn sản_phẩm trên kệ , cửa_hàng có_thể chỉ đặt vài thứ để làm mẫu tham_khảo hay thậm_chí có_thể bán cả những món không có trên quầy thông_qua việc quét mã_vạch " , đại_diện SK Telecom chia_sẻ .
+Lotte và SK Telecom sẽ đưa thêm nhiều tính_năng mới vào hệ_thống Smart_Department_Store trong thời_gian tới .
+Đơn_cử như Smart_Closet là một màn_hình cảm_ứng tương_tác đặt ở các cột hay tường siêu_thị , thể_hiện những sản_phẩm không trưng_bày trên kệ hàng .
+Mặt_khác , khi kết_nối điện_thoại thông_minh của người dùng , Smart_Closet sẽ đồng_bộ hóa với tài_khoản Lotte.com của họ , cho_phép xem_lại giỏ hàng hay mua lịch_sử mua_sắm , tìm_kiếm sản_phẩm mới ... ngay trên màn_hình lớn .
+" Chúng_tôi đã chuyển_đổi thành_công cửa_hàng bách_hóa thông_thường thành một địa_điểm mua_sắm thông_minh với việc cung_cấp những giá_trị và kinh_nghiệm mới và chưa từng có cho khách_hàng .
+SK Telecom sẽ tiếp_tục hợp_tác với Lotte_Department_Store để phát_triển mô_hình mới thông_qua các giải_pháp mua_sắm thông_minh sáng_tạo " , ông Kim_Young - joo - Phó_chủ_tịch cấp cao SK Telecom nhấn_mạnh .
+Minh_Trí

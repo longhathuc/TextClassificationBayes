@@ -1,0 +1,21 @@
+Pin_Mặt_Trời có khả_năng tái_tạo ánh_sáng
+Một loại vật_liệu mới chế_tạo pin Mặt_Trời ngoài khả_năng biến ánh_sáng thành điện còn có_thể tái_tạo , phát ra ánh_sáng để tái hấp_thụ thêm lần nữa .
+Business_Insider   dẫn báo_cáo   trên tạp_chí Science hôm 17/3 cho_biết loại vật_liệu lai_tạp giữa chì halide ( muối của chì và 1 nguyên_tố halogen – Clo , Flo , Brom , I-ốt ) và quặng perovskite ( CaTiO3 ) có khả_năng hấp_thụ ánh_sáng Mặt_Trời , tạo ra các hạt mang điện và sau đó còn có_thể tự_phát ra ánh_sáng .
+" Chúng_tôi biết rằng loại vật_liệu này hấp_thụ ánh_sáng và tạo ra các hạt mang điện rất tốt " , đồng_tác_giả của nghiên_cứu , Tiến_sĩ Felix_Deschler , Đại_học Cambridge , Anh , cho_biết .
+" Chúng_tôi còn chứng_minh được nó có_thể tái_tạo ra các photon ánh_sáng " .
+Pin_Mặt_Trời hoạt_động theo cách hấp_thụ năng_lượng ánh_sáng – các photon - chuyển năng_lượng này vào hạt mang điện và tạo thành dòng_điện .
+Pin lai hóa chì halogen – perovskite từ lâu đã nổi_tiếng với hiệu_suất chuyển_hóa năng_lượng rất tốt của mình , nhưng nhóm nghiên_cứu của Deschler còn chứng_minh được rằng perovskite thực_sự có_thể phát ra ánh_sáng sau quá_trình trên để tái hấp_thụ một lần nữa .
+Kết_quả là , các pin này hoạt_động như một thiết_bị tập_trung điện , có khả_năng tạo ra nhiều năng_lượng hơn , tăng điện_thế lên cao hơn với một nguồn sáng sẵn có , so với các vật_liệu không có khả_năng tái_tạo ánh_sáng .
+" Hiệu_suất của pin Mặt_Trời hiện_nay vào_khoảng 20 – 21% , trong khi hiệu_suất tối_đa theo lý_thuyết là 33% .
+Nghiên_cứu của chúng_tôi có_thể mở ra một hướng để đạt được hiệu_suất đó " ,   Deschler cho_biết .
+Hiệu_suất của một pin Mặt_Trời là phần_trăm năng_lượng ánh_sáng mà nó có_thể chuyển_hóa thành điện .
+Theo tính_toán lý_thuyết về nhiệt động_lực_học vào năm 1961 của William_Shockley và Hans_Queisser , giới_hạn của hiệu_suất này là 33% .
+Theo các nhà_nghiên_cứu , loại vật_liệu này không_chỉ có hiệu_suất cao mà_còn rất dễ sản_xuất , giá_thành rẻ , có khả_năng thương_mại_hóa .
+" Bạn sẽ không tin được rằng nó có_thể tái_tạo ánh_sáng , do chế_tạo nó quá đơn_giản so với các loại khác " , Deschler nói .
+" Loại vật_liệu của chúng_tôi còn rất rẻ và linh_hoạt " .
+Quy_trình chế_tạo pin Mặt_Trời hiện_nay đòi_hỏi phải kiểm_soát được quá_trình hình_thành cấu_trúc vật_liệu .   Tạp
+chất lẫn trong cấu_trúc tinh_thể sẽ để lại một " vùng khiếm_khuyết " trong vật_liệu , làm giảm tính_năng hấp_thụ ánh_sáng .
+Nhưng loại vật_liệu mới nằm ngoài quy_luật này .
+" Chúng_tôi đang phải tìm_hiểu nguyên_nhân vì_sao loại vật_liệu này lại biểu_hiện tốt hơn các loại khác " ,   Deschler nói .
+Các nhà_nghiên_cứu hy_vọng sẽ thu_hút được sự quan_tâm từ các nhà_sản_xuất pin Mặt_Trời đang tìm_kiếm một giải_pháp khai_thác nguồn năng_lượng này rẻ hơn , hiệu_quả hơn .
+Nguyễn_Thành_Minh

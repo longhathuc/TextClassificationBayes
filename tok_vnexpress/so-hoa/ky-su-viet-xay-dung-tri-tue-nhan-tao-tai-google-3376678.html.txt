@@ -1,0 +1,31 @@
+Kỹ_sư Việt xây_dựng trí_tuệ_nhân_tạo tại Google
+Sẽ đến ngày trí_tuệ_nhân_tạo giúp giải_quyết các vấn_đề hóc_búa nhất thế_giới , nhưng để tới được ngày đó , cần những con_người thông_minh và Lê_Việt_Quốc , kỹ_sư phần_mềm tại Google_Brain , là một trong số này .
+Lê_Việt_Quốc , 34 tuổi , lớn lên tại mô ̣ t làng quê nhỏ ở Viê ̣ t Nam và từng sống trong cảnh không có điê ̣ n cho tới năm lên chín .
+Anh học trường chuyên Quốc_Học_Huế và lấy bằng tiến_sĩ_khoa_học máy_tính tại Đại_học Stanford ( Mỹ ) .   Quốc đã làm_việc tại Google_Brain 4,5 năm .
+Được thành_lập năm 2011 , Brain nằm trong dự_án tuyệt_mật Google X còn hiện_nay , nó thuộc bộ_phận nghiên_cứu của hãng này .
+" Rất ít người thực_sự hiểu được vì_sao máy_móc lại có_thể học_hỏi và tư_duy .
+Deep_Learning ( học sâu ) vẫn còn là khái_niệm rất mới " , Quốc trả_lời CNN .
+Deep_Learning là một thuật_toán dựa trên một_số ý_tưởng từ não bộ tới việc tiếp_thu nhiều tầng biểu_đạt , cả cụ_thể lẫn trừu_tượng , qua đó làm rõ nghĩa của các loại dữ_liệu .
+Deap_Learning có_thể giúp giải_quyết hàng_loạt vấn_đề như giáo_dục , biến_đổi khí_hậu ...
+Ví_dụ , sử_dụng các cảm_biến từ xa , dữ_liệu môi_trường trên thế_giới sẽ được theo_dõi và ghi lại .
+Hiện khối_lượng dữ_liệu đó phần_lớn chưa được xử_lý và Deep_Learning có_thể được áp_dụng để hiểu các chuỗi và chỉ ra hướng giải_quyết .
+Ngoài_Google , nhiều công_ty khác như Facebook , Microsoft hay Baidu cũng tuyên_bố sẽ đầu_tư vào Deep_Learning và các mô_hình trí_tuệ_nhân_tạo khác .
+Lê_Việt_Quốc .
+Ảnh :   Biotechin.Asia .
+Chia_sẻ với BBC , Quốc nhớ lại giai_đoạn công_nghệ bắt_đầu hiện_diện tại quê anh khi cả làng lần đầu có một chiếc TV , hay chiếc nồi_cơm_điện mà gia_đình anh mua được .
+" Khi ấy , mỗi_một món đồ công_nghệ xuất_hiện cũng làm thay_đổi cuộc_sống của chúng_tôi " , anh nói .
+Tuy_nhiên , bức ảnh về cuô ̣ c đổ bô ̣ lên mă ̣ t trăng năm 1969 mới là thứ thôi_thúc anh trở_thành một trong những nhà tiên_phong trong lĩnh_vực trí thông_minh nhân_tạo .
+" Tôi vẫn tự hỏi , chúng_ta không phải động_vật nhanh_nhất trên trái_đất , chúng_ta không_thể bay , nhưng chúng_ta vẫn lên được mặt_trăng .
+Vậy năng_lực gì ở ta mà các động_vật khác không có ?
+Tôi nhận ra đó chính là bộ_não - trí thông_minh " .
+Ban_đầu anh tưởng rằng các cỗ máy thông_minh đã trở_nên phổ_biến , nhưng rồi anh nhận ra không phải vậy , vì_vậy anh quyết_định tạo ra nó .
+" Học sâu " - khiến cho các cỗ máy tự học_hỏi dựa trên những thuâ ̣ t toán phức_tạp - được đưa ra .
+Nhưng_Quốc muốn đẩy nhanh tiến đô ̣ bằng cách xây_dựng mạng_lưới thần_kinh quy_mô lớn để có_thể xử_lý được lượng dữ liê ̣ u lớn hơn nhiều .
+Năm 2012 , Lê_Việt_Quốc và cộng_sự thực_hiện một thử nghiê ̣ m bằng cách cho mạng_lưới nơron xem các video trên YouTube trong vòng mô ̣ t tuần , để xem nó đã học được những gì .
+Mô ̣ t trong những nơron nhân_tạo đã " rất hào_hứng " khi thấy ảnh mô ̣ t con mèo dù chưa biết mèo là gì hay được cho xem bất_kỳ hình_ảnh nào gắn mác mèo trước đó .
+Điều này cho thấy các cỗ máy có_thể học mà không đòi_hỏi con_người cung_cấp dữ_liệu có độ_chính_xác cao .
+Kết_quả của những thử_nghiệm này và nhiều thử_nghiệm khác đã được tích_hợp vào các dịch_vụ của Google , cung_cấp khả_năng dự_đoán nội_dung mà người dùng định trả_lời khi viết e - mail , nhận_diện địa_điểm , người trong ảnh và nhận_diện giọng nói .
+" Tôi mong_muốn tạo ra được mô ̣ t cỗ máy có_thể nhìn , nghe và hiểu được chúng_ta , " Quốc nói , nhưng cũng thừa_nhận rằng điều đó còn lâu nữa mới xảy_ra .
+Từ năm 2014 , Lê_Việt_Quốc đã có tên trong danh_sách 35 nhà_sáng_chế dưới 35 tuổi năm của Học_viện Công_nghệ Massachuset_Mỹ và được đánh_giá là một trong những bộ_óc xuất_chúng .
+Minh_Minh
+Video : BBC , Việt hoá : Quang_Dũng

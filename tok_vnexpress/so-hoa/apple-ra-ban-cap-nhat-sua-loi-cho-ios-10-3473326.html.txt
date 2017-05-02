@@ -1,0 +1,9 @@
+Apple ra bản cập_nhật sửa lỗi cho i OS 10
+Phiên_bản mới 10.0.2 có dung_lượng chỉ hơn 30 MB nhưng khắc_phục lỗi tai_nghe bị đơ , ứng_dụng Photo bị văng ra ngoài ...
+Để cập_nhật phiên_bản mới , người dùng có_thể sử_dụng tính_năng Software_Update nằm trong phần General của mục Settings .
+Theo Apple , bản cập_nhật i OS 10.0.2 chỉ nhằm khắc_phục lỗi trên các thiết_bị i OS đã được phản_ánh những ngày qua .
+Ví_dụ , lỗi phím bấm trên tai_nghe đi kèm máy bị dừng hoạt_động sau vài phút nghe nhạc , hay ứng_dụng quản_lý ảnh Photo bị văng ra ngoài khi bật chế_độ lưu_trữ ảnh trực_tuyến i Cloud_Photo_Library .
+iOS 10.0.2 cũng sửa một_số lỗi liên_quan đến tính_năng mở_rộng của các ứng_dụng ( App_Extensions ) .
+Dù_vậy , hãng không nói rõ có cải_thiện chất_lượng cuộc_gọi và xử_lý lỗi không nhận sim trên i Phone 7 và i Phone 7 Plus như những phàn_nàn gần đây hay không .
+Bản cập_nhật i OS 10.0.2 cũng chưa đem tới cho i Phone 7 Plus camera kép tính_năng chụp ảnh chân_dung ( Portrait_Mode ) có hiệu_ứng làm mờ không nền .
+Tính_năng này hiện mới chỉ được cung_cấp dưới dạng phiên_bản thử_nghiệm ở i OS 10.1 Beta dành cho người dùng thử và các lập_trình_viên .

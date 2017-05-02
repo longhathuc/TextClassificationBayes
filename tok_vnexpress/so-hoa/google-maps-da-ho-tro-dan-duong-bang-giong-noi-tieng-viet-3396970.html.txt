@@ -1,0 +1,15 @@
+Google_Maps đã hỗ_trợ dẫn đường bằng giọng nói tiếng Việt
+Phần_mềm dẫn đường của Google sử_dụng kho dữ_liệu khổng_lồ về địa_điểm cụ_thể để hướng_dẫn người dùng rẽ trái hoặc phải .
+Google_Maps dẫn đường hoàn_toàn bằng tiếng Việt .
+Sau khi mở lại tính_năng dẫn đường chi_tiết tại Việt_Nam hồi đầu tháng 3 , Google mới_đây đã cập_nhật thêm ngôn_ngữ giọng nói tiếng Việt cho ứng_dụng này .
+Người dùng cần chuyển ngôn_ngữ hệ_thống hoặc ngôn_ngữ sử_dụng trong Gmail là tiếng Việt để sử_dụng .
+Trước_đây , giao_diện của Google_Maps đã có_tiếng Việt nhưng chỉ là ở phần hiển_thị trong khi âm_thanh vẫn là tiếng Anh .
+Các thử_nghiệm nhanh cho thấy phần phát_âm tên đường , tên địa_điểm của ứng_dụng đều rất chính_xác .
+Ngay cả những tên đường viết tắt như QL6 , Google_Maps vẫn đọc đúng là " Quốc_lộ 6 " đầy_đủ .
+Hệ_thống sử_dụng ngôn_ngữ với giọng nữ miền Bắc trong khi các ứng_dụng như Sygic , Navitel hay Vietmap hầu_hết đều sử_dụng giọng nữ miền Nam .
+Một điểm khác_biệt của Google_Maps so với các phần_mềm dẫn đường còn lại là khả_năng chỉ đường theo một mốc địa_điểm cụ_thể .
+Thay_vì chỉ báo rẽ trái , rẽ phải , ứng_dụng sẽ đọc tên một địa_điểm tại vị_trí cần rẽ để người dùng dễ hình_dung , tìm_kiếm .
+Ví_dụ : " 200 mét nữa rẽ phải tại cửa_hàng ... để vào Tây_Sơn " .
+Ngoài dẫn đường , phần_mềm cũng bổ_sung tìm_kiếm nhanh các vị_trí cây_xăng , nhà_hàng , quầy tạp_hóa khá tiện_dụng và hiển_thị trực_quan trên bản_đồ .
+Tuy_nhiên , Google_Maps vẫn chưa có cảnh_báo tốc_độ tối_đa trên các cung đường khác_nhau như Sygic hay Vietmaps .
+Dùng thử phần_mềm dẫn đường Google_Maps trên thiết_bị chạy Android :

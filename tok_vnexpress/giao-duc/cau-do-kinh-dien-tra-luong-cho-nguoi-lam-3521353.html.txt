@@ -1,0 +1,9 @@
+Câu_đố kinh_điển trả lương cho người_làm
+Phải chia thỏi vàng thành nhiều phần để trả cho người làm_thuê khiến ông chủ và rất nhiều người phải đau_đầu .
+Bạn có_thể giúp ông chủ ?
+Một người làm_thuê thực_hiện công_việc do ông chủ giao trong 7 ngày liên_tiếp .
+Tiền_công anh_ta nhận được sau 7 ngày là một thỏi vàng .
+Tuy_nhiên , người làm_thuê yêu_cầu ông chủ trả công hàng ngày bằng 1/7 thỏi vàng .
+Ông chủ phải cắt ít_nhất bao_nhiêu đường và cắt như_thế_nào để trả được cho anh_ta đúng 1/7 thỏi vàng mỗi ngày .
+Thanh_Tâm ( theo Braingle )
+> > Bài_toán tìm số thay chữ > > Bài_toán tìm ẩn_số thử_thách tốc_độ người giải

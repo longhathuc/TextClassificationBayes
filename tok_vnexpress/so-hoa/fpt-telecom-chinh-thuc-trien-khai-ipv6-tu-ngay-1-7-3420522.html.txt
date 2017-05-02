@@ -1,0 +1,22 @@
+FPT Telecom chính_thức triển_khai IPv6 từ ngày 1/7
+Sau quá_trình cung_cấp thử_nghiệm thành_công với hơn 200.000 người dùng , FPT chính_thức triển_khai dịch_vụ IPv6 trên diện rộng và kỳ_vọng đạt hơn nửa triệu người dùng ngay trong năm 2016 .
+Cụ_thể , từ ngày 1/7/2016 ,   Công_ty Cổ_phần Viễn_thông FPT ( FPT Telecom ) sẽ cung_cấp dịch_vụ IPv6 cho khách_hàng là hộ gia_đình sử_dụng Internet băng rộng và khối doanh_nghiệp .
+Địa_chỉ IP là chuỗi số được phân cho mỗi website hay thiết_bị kết_nối Internet .
+Giao_thức IPv4 chứa 4,3 tỷ địa_chỉ IP nhưng sự bùng_nổ của các thiết_bị có khả_năng hỗ_trợ Internet toàn_cầu , đặc_biệt là các thiết_bị di_động , khiến nguồn địa_chỉ này cạn_kiệt từ năm 2011 .
+Giao_thức IPv6 đã ra_đời , mang đến không_gian địa_chỉ lớn hơn , dễ quản_lý với cấu_trúc định_tuyến phân_cấp , bảo_mật cao và hỗ_trợ thiết_bị di_động tốt hơn .
+Tổng_Giám đốc FPT Telecom , Nguyễn_Văn_Khoa , nhấn_mạnh việc phát_triển hạ_tầng và dịch_vụ trên nền_tảng IPv6 sẽ là nhiệm_vụ trọng_tâm của FPT Telecom .
+Ông cho rằng , ngày_nay ,   cùng_với sự phát_triển vượt_bậc của công_nghệ_thông_tin thì sự bùng_nổ về các dịch_vụ tiện_ích trên mạng viễn_thông và Internet là điều tất_yếu , đặc_biệt đối_với thị_trường đầy tiềm_năng như Việt_Nam và khu_vực đông dân_cư như châu Á .
+Để   đáp_ứng sự phát_triển ấy , mạng truyền_thông cần phải có khả_năng linh_hoạt cao , tốc_độ truyền_dẫn lớn , băng_thông_rộng , đa dịch_vụ đáp_ứng nhu_cầu trao_đổi thông_tin của xã_hội .
+Trong bối_cảnh đó , vấn_đề lớn nhất mà thế_giới phải đối_mặt chính là sự cạn_kiệt của không_gian địa_chỉ IPv4 .   CEO
+FPT Telecom nhận_định , giao_thức IPv6 ra_đời như một giải_pháp công_nghệ mới duy_trì hoạt_động Internet ổn_định lâu_dài trong tương_lai , không_những giải_quyết được vấn_đề cạn_kiệt địa_chỉ mà_còn khắc_phục được những hạn_chế của IPv4 cũng_như cung_cấp thêm những thuộc_tính vượt_trội khác .
+Vì_vậy ,   FPT Telecom đã bắt_tay vào việc khai_thác , cung_cấp dịch_vụ IPv6 từ việc chuẩn_bị nguồn nhân_lực , tài_nguyên , hạ_tầng kỹ_thuật , dịch_vụ ISP , hệ_thống quản_lý giám_sát , ứng_dụng nội_bộ và các dịch_vụ khác .
+Thiết_bị di_động tràn_ngập khiến nguồn IPv4 cạn_kiệt .
+Ảnh : jeffkorhan .
+Kế_hoạch hành_động quốc_gia về IPv6 do Bộ Thông tin và Truyền_thông đề ra được chia làm ba giai_đoạn , trong đó giai_đoạn một là giai_đoạn chuẩn_bị trong các năm 2011-2012 , giai_đoạn hai là giai_đoạn khởi_động , kéo_dài từ 2013 đến 2015 và cuối_cùng là giai_đoạn chuyển_đổi từ 2016 đến 2019 .
+Theo đó , 2016 là năm đầu_tiên của giai_đoạn ba với mục_tiêu là hoàn_thiện và nâng_cấp mạng cơ_sở_hạ_tầng IPv6 quốc_gia , hoàn_thiện việc chuyển_đổi mạng_lưới , dịch_vụ , ứng_dụng , phần_mềm và thiết_bị , đảm_bảo cho Internet_Việt_Nam hoạt_động tương_thích , an_toàn với IPv6 .
+Cuối năm 2015 , FPT Telecom kết_nối thành_công vào Google , Facebook , HKIX , Microsoft , các website qua giao_thức IPv6 .
+Bên_cạnh đó , công_ty thiết_lập kết_nối IPv6 đi quốc_tế và trong nước , dung_lượng kết_nối quốc_tế đạt 60 Gb/giây .   Sau quá_trình cung_cấp thử_nghiệm thành_công với hơn 200.000 người dùng trên toàn_quốc thời_gian qua , FPT mạnh_dạn chính_thức cung_cấp dịch_vụ IPv6 trên diện rộng từ ngày 1/7 và kỳ_vọng đạt hơn nửa triệu người dùng trong năm 2016 .
+Nguyên_Thứ trưởng Bộ TT& TT Lê_Nam_Thắng , Trưởng_ban công_tác thúc_đẩy phát_triển IPv6 quốc_gia , nhận_định FPT Telecom là một trong những đơn_vị đi đầu trong việc triển_khai IPv6 , đạt được những kết_quả cụ_thể như mạng lõi đã sẵn_sàng cho việc chuyển_đổi , thành_công trong việc giải_quyết các bài_toán về thiết_bị_đầu_cuối .
+Xem thêm :
+> > Những điều cần biết về giao_thức IPv6
+> > Các báo_điện_tử phải hỗ_trợ IPv6

@@ -1,0 +1,22 @@
+Người dùng điện_thoại IP có nguy_cơ bị nghe lén
+Thông_qua điện_thoại IP đặt trên bàn , người sử_dụng có_thể bị theo_dõi nội_dung cuộc_gọi , thậm_chí bị nghe lén ngay cả khi_không có đàm_thoại .
+Câu_lạc_bộ Phần_mềm tự_do nguồn mở Việt_Nam ( VFOSSA ) đã đăng cảnh_báo về   vấn_đề an_toàn thông_tin khi sử_dụng IP  Phone ( điện_thoại Internet ) .   Không như điện_thoại cố_định truyền_thống , IP Phone sẽ không hoạt_động nếu chỉ cắm vào mạng mà chưa được lập_trình cấu_hình đúng .
+Người dùng điện_thoại IP có nguy_cơ bị nghe lén .
+Thông_tin cấu_hình cơ_bản cho điện_thoại IP gồm tên đăng_nhập ( số máy nhánh ) , mật_khẩu và địa_chỉ IP của máy_chủ tổng_đài .
+Ngoài_ra còn có các thông_tin như địa_chỉ IP máy_chủ lưu firmware mới nhất để điện_thoại IP tự_động tải về và cập_nhật , địa_chỉ IP của máy_chủ lưu tệp cấu_hình chi_tiết của điện_thoại .   Khi đăng_nhập / đăng_ký thành_công , điện_thoại IP mới có_thể thực_hiện cuộc_gọi thông_qua tổng_đài .
+VFOSSA nhận_định việc theo_dõi điện_thoại có_thể dựa trên nguyên_lý " cài_đặt chuyển_hướng tới một máy_chủ cấp phép chỉ_định " .   Cụ_thể , có bốn bước cấp phép sử_dụng điện_thoại IP .
+Bước 1 , điện_thoại IP được nhà_sản_xuất cài_đặt sẵn , trước khi xuất_xưởng , trỏ một địa_chỉ máy_chủ HTTP được đặt trên Internet .
+Khi điện_thoại khởi_động , bản tin SUBSCRIBE sẽ được chuyển tới máy_chủ HTTP này .
+Bước 2 , khi nhận bản tin SUBSCRIBE , máy_chủ HTTP sẽ chuyển_hướng tới máy_chủ cấp phép sử_dụng chứa thông_tin cấu_hình .
+Bước 3 , thông_tin cấu_hình của điện_thoại IP được lưu sẵn trên máy_chủ cấp phép .
+Sau khi tiếp_nhận yêu_cầu từ máy_chủ HTTP , máy_chủ cấp sẽ gửi thông_tin cấu_hình cho điện_thoại IP .
+Bước 4 , điện_thoại IP nhận được thông_tin cấu_hình và đăng_ký với tổng_đài .
+Mô_hình nguyên_lý hoạt_động 4 bước cấp phép sử_dụng điện_thoại IP .
+Nguồn :   VFOSSA
+VFOSSA đã   kiểm_tra một_số dòng điện_thoại IP ở Việt_Nam và phát_hiện nhiều máy được cấu_hình mặc_định ( khi xuất_xưởng ) trỏ tới một máy_chủ đặt trên Internet và máy_chủ này có_thể được phục_vụ cho việc theo_dõi .
+Chuyên_gia an_ninh hệ_thống CNTT Phạm_Ngọc_Bắc khuyến_cáo người sử_dụng cần kiểm_tra xem điện_thoại IP mình đang sử_dụng mục " Maintenance " hay " Upgrade " có trỏ mặc_định với máy_chủ cấp phép sử_dụng nào không .
+Nếu có , nên xóa địa_chỉ này .
+Sau đó , người dùng lưu cấu_hình , khởi_động lại thiết_bị và xem các thông_tin kia đã hoàn_toàn bị loại_bỏ chưa .
+" Nếu chưa , bạn nên tắt nguồn , ngưng sử_dụng điện_thoại IP này để tránh tiếp_tục bị theo_dõi " , chuyên_gia này nhận_định .
+Ngày 7/3 , WikiLeaks công_bố hàng nghìn tài_liệu về một chương_trình theo_dõi ngầm , mô_tả chi_tiết việc CIA đã sử_dụng những công_cụ hack để nghe lén hàng_loạt sản_phẩm công_nghệ như_thế_nào .
+" Bất_cứ thiết_bị gì có tính_năng kết_nối Internet hay thoại thì đều có nguy_cơ bị tấn_công " , Robert M . Lee , CEO công_ty bảo_mật Dragos , khuyến_cáo .

@@ -1,0 +1,10 @@
+33 triệu mật_khẩu Twitter bị rao bán trên Dark_Web
+Chỉ vài ngày_sau khi một_số tài_khoản Twitter của người nổi_tiếng như Katy_Perry , Mark_Zuckerberg ... bị lộ , mạng xã_hội này lại phải đối_mặt với sự_cố mới .
+Theo   LeakedSource , trang chuyên thu_thập dữ_liệu về các thông_tin đăng_nhập bị đánh_cắp , có tới   32.880.300 tài_khoản Twitter đang bị một người có biệt_danh Tessa88 bán trên web ngầm ( Dark_Web ) .
+Mức giá_mà người này đưa ra là 10 bitcoin , tương_đương 5.800 USD .   Mỗi tài_khoản chứa một hoặc hai e - mail , tên đăng_nhập và mật_khẩu .
+Đáng chú_ý , những mật_khẩu này không hề được mã_hóa .   Các
+chuyên_gia đã thử đăng_nhập một_số tài_khoản và chúng đều chính_xác .
+Tuy_nhiên , vụ lộ thông_tin này không phải do hacker thâm_nhập được vào hệ_thống của Twitter .
+" Có_vẻ , thiết_bị của hàng chục_triệu người dùng đã bị nhiễm mã độc và mã độc này sẽ gửi mọi thông_tin nhập từ trình_duyệt Chrome và Firefox tới máy_chủ của kẻ tấn_công " ,   LeakedSource nhận_định .
+Trong khi đó , đại_diện Twitter cũng tin hệ_thống của họ không bị tấn_công .
+Để đảm_bảo an_toàn cho tài_khoản , người sử_dụng tốt nhất nên đổi mật_khẩu tức_thì , cũng_như thường_xuyên cập_nhật mật_khẩu mới .

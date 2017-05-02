@@ -1,0 +1,29 @@
+Đáp_án bài_toán tư_duy cấp tiểu_học khiến người_lớn đau_đầu
+Rất nhiều người đưa ra đáp_án không chính_xác do chưa đọc kỹ đề_bài và chỉ một số_ít có_thể đưa ra cách giải đầy_đủ .
+Hỏi có nhiều nhất bao_nhiêu xe_đạp trong trường_học ?
+Đáp_án : Có nhiều nhất 327 chiếc xe_đạp trong trường .
+Gọi số xe_đạp là abc và số bánh_xe là def .
+Vì mỗi xe_đạp có 2 bánh nên def = 2 x abc .
+Xét a ta thấy a chỉ có_thể là 2 hoặc 3 ( vì nếu a = 4 thì d bằng 8 hoặc 9 , hai chữ_số này không đúng với yêu_cầu đề_bài .
+Nếu a = 5 ; 6 hoặc 7 thì số bánh_xe là số có 4 chữ_số ) .
+Đề_bài hỏi có nhiều nhất bao_nhiêu xe_đạp trong trường nên ta chỉ xét trường_hợp a = 3 .
+Khi đó   d có_thể là 6 hoặc 7 .
+Trường_hợp 1 : d = 6 thì ( 2 x b ) phải là số e
+- Nếu b = 2 thì e = 4 ( thỏa_mãn ) .
+- Nếu b = 4 thì e = 8 ( không thỏa_mãn với đề_bài ) .
+Khi b = 2 thì c có_thể là 4 ; 5 hoặc 7 .
+Làm tương_tự như xét b ta thấy   c = 7 thỏa_mãn .
+Như_vậy , ở trường_hợp 1 , ta tìm được số xe_đạp trong trường là 327 , số bánh xe_đạp là 654 ( thỏa_mãn ) .
+Trường_hợp 2 :   d = 7 thì ( 2 x b ) phải là một_số e > 10   ( để nhớ 1 vào d ) .
+Do_đó ,   trong các số còn lại ( 2 ; 4 ; 5 ; 6 ) chỉ có 5 và 6 thoả_mãn với b .
+- Nếu b = 5 thì e = 0 ( nhớ 1 sang d ) .
+Trường_hợp này không thỏa_mãn .
+- Nếu b = 6 thì e = 2 ( nhớ 1 sang d ) .
+Trường_hợp này thỏa_mãn .
+Khi b = 6 thì c có_thể là 2 ; 4 ; 5 .
+Làm tương_tự như xét b ta thấy c = 2 thỏa_mãn .
+Như_vậy , ở trường_hợp 2 , số xe_đạp là 362 , số bánh xe_đạp là 724 ( không thỏa_mãn vì chữ_số 2 xuất_hiện hai lần ) .
+Kết_luận :   Có nhiều nhất 327 chiếc xe_đạp trong trường .
+> > Xem cách giải của ban tổ_chức
+Thanh_Tâm
+> > Bài_toán tư_duy cấp tiểu_học khiến người_lớn đau_đầu

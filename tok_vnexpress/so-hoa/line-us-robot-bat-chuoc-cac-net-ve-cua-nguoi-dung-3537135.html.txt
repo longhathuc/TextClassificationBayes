@@ -1,0 +1,8 @@
+Line-us - robot bắt_chước các nét vẽ của người dùng
+Line-us có kích_cỡ nhỏ gọn và có_thể sao_chép những nét vẽ mà người dùng đang thực_hiện theo thời_gian_thực thông_qua một ứng_dụng .
+Thiết_bị này chỉ nặng 150 gram , đi kèm bút và tích_hợp Wi-Fi .
+Thông_qua ứng_dụng hoạt_động trên máy Windows , Mac , iOS và Android , bạn có_thể vẽ một thứ gì đó và Line-us sẽ lập_tức vẽ theo trên giấy .
+Line-us được đánh_giá là robot đáng yêu và là bạn đồng_hành của những người yêu_thích kiểu vẽ tự_do , nguệch_ngoạc ( doodle ) .
+Với kết_nối Internet , nó nhận tin nhắn từ bất_cứ đâu và người dùng ở cách đó hàng km vẫn có_thể vẽ hình để gửi tới Line-us và yêu_cầu nó sao_chép trên giấy .
+Line-us có_giá 87 USD , được huy_động vốn qua   Kickstarter và chỉ trong vỏn_vẹn 30 giờ , nó đã thu_hút được gần 50.000 USD .
+Với sự thành_công này , các nhà_phát_triển dự_kiến sẽ xuất_xưởng sản_phẩm trong tháng 10 .

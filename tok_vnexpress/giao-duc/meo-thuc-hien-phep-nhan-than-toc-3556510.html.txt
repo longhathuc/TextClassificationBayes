@@ -1,0 +1,3 @@
+Mẹo thực_hiện phép nhân ' thần_tốc '
+Không cần sử_dụng máy_tính , bạn vẫn có_thể tìm ra kết_quả của phép nhân giữa các số có hai hay ba chữ_số nếu sử_dụng mẹo tính_toán này .
+1 . Cách tính của người Nhật

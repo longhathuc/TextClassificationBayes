@@ -1,0 +1,17 @@
+Thanh_toán bằng nhẫn
+Chiếc nhẫn có khả_năng thanh_toán sẽ được trang_bị thử_nghiệm cho 45 vận_động_viên tham_dự Thế_vận_hội Olympic 2016 , thay_thế cho ví tiền hoặc thẻ_tín_dụng .
+Thanh_toán bằng nhẫn sẽ được áp_dụng tại Olympic 2016 .
+Ảnh : Tech_Radar .
+Theo đại_diện của hãng tài_chính nổi_tiếng Visa , việc các vận_động_viên phải loay_hoay tìm nơi cất_giữ ví tiền hoặc thẻ_tín_dụng trước khi thi_đấu làm ảnh_hưởng không nhỏ đến tinh_thần họ , khiến kết_quả không như mong_đợi .
+Từ đó , Visa nảy_sinh ý_tưởng tạo một thiết_bị đeo có chức_năng thanh_toán với độ bảo_mật cao và không phải mất thời_gian cất_giữ .
+Cuối_cùng , chiếc nhẫn ra_đời .
+Xét về cấu_tạo , chiếc nhẫn được Visa làm_bằng chất_liệu sứ bền , nhẹ và khó vỡ , bên trong tích_hợp sẵn bộ vi_mạch siêu nhỏ của Gemalto kèm anten NFC .
+Thiết_bị đeo này có khả_năng chống nước ở độ sâu lên tới 50m , được thiết_kế bởi McLear & Co .
+Cách_thức hoạt_động của chiếc nhẫn về cơ_bản tương_tự thẻ_tín_dụng .
+Con chip bên trong chiếc nhẫn sẽ được kết_nối sẵn với tài_khoản Visa và được định_danh .
+Khi đưa chiếc nhẫn đến máy thanh_toán , thông_qua NFC , nó sẽ nhận_dạng tương_tự như việc quẹt thẻ .
+Nếu bị thất_lạc , người dùng có_thể lên trang_web và khóa tài_khoản lại_giống như khóa thẻ_tín_dụng .
+Visa nhấn_mạnh rằng độ bảo_mật của chiếc nhẫn ở mức rất cao .
+Ngoài_ra , nó còn có cấu_tạo thời_trang và rất thoải_mái khi đeo .
+Sản_phẩm không cần phải sạc , bởi nó sẽ tự_động nạp năng_lượng khi chạm vào máy thanh_toán .
+Bảo_Lâm ( theo Tech_Radar )

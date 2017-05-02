@@ -1,0 +1,50 @@
+Phụ_gia xăng ôtô - hiểu lầm cơ_bản của tài_xế Việt
+Sử_dụng phụ_gia cho hệ_thống nhiên_liệu cần hiểu được cấu_tạo và hoạt_động đặc_thù của mỗi loại động_cơ .
+Tại_Việt_Nam , phụ_gia nhiên_liệu ngày_càng phổ_biến với những quảng_cáo như hạn_chế tạp_chất có trong nhiên_liệu trước khi vào buồng đốt .
+Hòa_tan các tạp_chất ở kim phun , thành buồng đốt , piston .
+Giúp chúng tham_gia vào quá_trình cháy và thải ra ngoài .
+Các loại này có_thể tìm mua ở các cửa_hàng chuyên về phụ_tùng , phụ_kiện ôtô dưới dạng các bình dung_dịch .
+Sản_phẩm chủ_yếu đến từ các thương_hiệu nước_ngoài như Bosh , Liqui_Moly , Forch , Blue_Chem … cho động_cơ chạy xăng hoặc diesel .
+Giá một bình phụ_gia khoảng từ 140.000 đồng đến 300.000 đồng hoặc hơn .
+Loại rẻ chỉ khoảng 55.000 đồng .
+Một lọ dung_dịch dung_tích khoảng 300 ml có_thể đổ vào bình nhiên_liệu 50-60 lít .
+Theo ông Nguyễn_Đình_Hùng , giảng_viên khoa Kỹ_thuật giao_thông , bộ_môn Ôtô - máy điện_lực , đại_học Bách_Khoa TP_HCM , không hiểu bản_chất hoạt_động của từng động_cơ dẫn đến nhiều người " vô_tình " dùng đúng , ủng_hộ .
+Ngược_lại dùng sai , phản_đối dùng phụ_gia cho nhiên_liệu và động_cơ .
+Riêng nhiên_liệu xăng , ôtô hiện_nay đa_số dùng động_cơ phun xăng điện_tử gián_tiếp ( EFI ) hoặc trực_tiếp ( GDI ) .
+Ở động_cơ EFI , tác_động của phụ_gia và màng lọc tại vị_trí đầu kim phun giữ lại tạp_chất trong nhiên_liệu trước khi vào buồng đốt .
+Tạp_chất ( nếu còn ) , nhiên_liệu và không_khí được hòa_trộn bên ngoài trước khi qua xu - páp nạp vào trong buồng đốt .
+Quá_trình cháy diễn ra trọn thể_tích buồng đốt .
+Tạp_chất tham_gia vào phản_ứng cháy ( có_thể không hết hoàn_toàn ) và loại thải ra ngoài .
+Phụ_gia đổ vào bình nhiên_liệu giúp phản_ứng cháy , sinh công của động_cơ diễn ra tối_ưu hơn .
+Trường_hợp này phụ_gia thể_hiện mặt tích_cực .
+Không như động_cơ EFI , GDI có kim phun đặt bên trong buồng đốt .
+Áp_suất cao hơn nhiều so với kim phun đặt ngoài của EFI .
+Ưu_điểm của GDI cho_phép tạo ra vị_trí cháy ở không_gian tối_ưu nhất có_thể , không nhất_thiết cả thể_tích buồng đốt .
+Nhưng điều_kiện áp_suất và nhiệt_độ cao trong một_số trường_hợp có_thể dẫn đến hiện_tượng " tách pha " .
+Tức nhiên_liệu , nước tách riêng .
+Nước bốc_hơi hoặc chuyển thành dạng khác .   Dưới
+tác_dụng nhiệt , áp_suất , tạp_chất có trong nhiên_liệu biến_dạng thành chất khó hòa_tan và phân_hủy hơn .
+Những chất này lơ_lửng trong kim phun   hoặc bám trên thành van điều_áp .   Dẫn
+đến kim phun bị tắc_nghẽn , hư_hỏng .
+Trường_hợp này , nếu dùng phụ_gia như cho động_cơ EFI , kết_quả có_thể xấu thêm .
+Hay nói cách khác , động_cơ GDI " nhạy_cảm " với nhiên_liệu hơn so với động_cơ EFI .
+Vì_thế , sử_dụng loại phụ_gia đúng cho loại động_cơ EFI và GDI là điều cần quan_tâm hơn cả .
+Nhưng tại Việt_Nam , hiện chưa có cơ_quan , tổ_chức nào kiểm_nghiệm tính hiệu_quả của những loại dung_dịch này .
+Các hãng xe không khuyến_khích sử_dụng .
+Thay vào đó chủ xe nên tuân_thủ tốt quy_trình bảo_dưỡng .
+Một điều chắc_chắn rằng tạp_chất nếu xuất_hiện ở đầu kim phun khiến nhiên_liệu cung_cấp cho quá_trình cháy diễn ra không đều .
+Xe không phát_huy hết công_suất , tức yếu đi .
+Mức_độ nặng khi đầu kim phun nghẽn hoàn_toàn .
+Quá_trình tích_tụ lâu ngày dẫn đến hỏng , buộc phải thay_thế .
+Biểu_hiện rõ nhất_là hiện_tượng xe giật hoặc chết máy .
+Hơn_nữa , khi một trong các kim phun bị bẩn , máy_tính nhận_biết lượng oxy không cháy hết ở hệ_thống xả .
+Sau đó là tăng_cường phun nhiên_liệu ở các kim phun , dẫn đến tiêu_hao nhiên_liệu nhiều hơn .
+Nếu sử_dụng phụ_gia , người dùng cần hiểu rõ động_cơ của ôtô thuộc loại nào .
+Phụ_gia là loại dùng cho động_cơ EFI hay GDI , có tác_dụng làm sạch tạp_chất ở kim phun hay trong buồng đốt ...
+Hoặc nhờ tư_vấn từ những người có chuyên_môn để biết nên và không nên sử_dụng .
+Động_cơ ôtô là kết_cấu phức_tạp , “ bệnh ” có_thể đến từ nhiều nguyên_nhân và cách khắc_phục khác_nhau .
+Không nên lạm_dụng phụ_gia khi nhận thấy xe yếu hoặc muốn kim phun , động_cơ được làm sạch .
+Quá_trình sử_dụng ôtô cần chú_ý đến thời_gian bảo_dưỡng .
+Đối_với việc_làm sạch kim phun hay buồng đốt , chủ xe có_thể đến các trung_tâm sửa_chữa chuyên_nghiệp , uy_tín .
+Ngoài kiểm_tra các kim phun bằng hệ_thống chuyên_biệt , việc súc , rửa piston , buồng đốt được thực_hiện chi_tiết hơn .
+Phạm_Trung

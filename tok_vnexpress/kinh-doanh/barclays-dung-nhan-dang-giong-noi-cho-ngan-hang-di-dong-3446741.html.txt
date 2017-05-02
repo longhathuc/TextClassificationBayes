@@ -1,0 +1,19 @@
+Barclays dùng nhận_dạng giọng nói cho ngân_hàng di_động
+Thay_vì nhập mật_khẩu , khách_hàng của ngân_hàng bán_lẻ hàng_đầu tại Anh sẽ dùng giọng nói để xác_nhận tài_khoản trên điện_thoại_di_động .
+Sau nhiều thử_nghiệm dành cho một_số khách_hàng trong năm 2013 , Barclays đã chính_thức giới_thiệu công_nghệ bảo_mật âm_thanh dựa trên phân_tích đặc_điểm riêng_biệt trong giọng nói người dùng để xác_minh danh_tính của họ .
+Đại_diện nhà_băng cho rằng , công_nghệ này sẽ thay_thế hiệu_quả các mật_khẩu qua phần_mềm có_thể nhận_dạng cá_nhân sau khi họ nói một_vài từ .
+Ứng_dụng có độ an_toàn cao do giọng nói của từng người không hề giống nhau , giúp khách_hàng tiết_kiệm thời_gian khi giao_dịch .
+Ông Steven_Cooper - Giám_đốc Điều_hành khối Khách_hàng cá_nhân của ngân_hàng Barclays , cho_biết nhiều rắc_rối xảy_ra khi tiến_hành giao_dịch nhưng người dùng lại quên mất mật_khẩu .
+Có_khi khách_hàng phải nhớ đến hơn 50 mật_khẩu cho nhiều dịch_vụ và tài_khoản khác_nhau nên không_thể nhớ nỗi , dẫn đến sự nhầm_lẫn hay sai_sót trong quá_trình đăng_nhập .
+" Do_đó , việc loại_bỏ mật_khẩu cho ngân_hàng di_động rất cần_thiết , giúp dịch_vụ của Barclays hoạt_động hiệu_quả và thuận_lợi hơn .
+Bảo_mật giọng nói sẽ giải_quyết được vấn_đề này .
+Giọng nói mỗi người là duy_nhất , tương_tự như dấu vân tay , đảm_bảo độ an_toàn cao " , ông Steven_Cooper nhận_xét .
+Theo khảo_sát của Barclays , nếu một khách_hàng quên mật_khẩu của mình họ cần khoảng thời_gian trung_bình 2 phút để sử_dụng một phương_pháp xác_thực khác .
+Hiện khách_hàng cá_nhân có_thể đăng_ký dịch_vụ của Barclays từ tháng này bằng cách gọi điện đến dịch_vụ ngân_hàng di_động và tiến_hành quá_trình ghi_âm giọng nói .
+Sau đó , khách_hàng sẽ xác_nhận và sử_dụng giọng nói đã lưu trong hệ_thống thay cho mật_khẩu đăng_nhập .
+Hiện dịch_vụ chưa có sẵn cho khách_hàng doanh_nghiệp .
+Trước đó vào năm 2014 , Barclays đã thử_nghiệm phương_pháp Finger_Vein_Authentication cho_phép khách_hàng doanh_nghiệp sử_dụng dấu vân tay thay_vì mã PIN để xác_thực .
+Barclays không phải là ngân_hàng duy_nhất ứng_dụng các biện_pháp an_ninh sinh trắc học để xác_thực khách_hàng .
+Đầu năm nay , HSBC cũng đã đưa ra ứng_dụng xác_thực dấu vân tay cho dịch_vụ ngân_hàng di_động .
+Các chuyên_gia đánh_giá xác_thực sinh trắc học sẽ tăng cường_độ an_toàn khi lượng truy_cập vào dịch_vụ ngày_càng nhiều .
+Minh_Trí

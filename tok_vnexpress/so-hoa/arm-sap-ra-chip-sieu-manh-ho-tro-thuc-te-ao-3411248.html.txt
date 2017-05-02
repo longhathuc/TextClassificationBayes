@@ -1,0 +1,12 @@
+ARM sắp ra chip siêu mạnh hỗ_trợ thực_tế ảo
+Nhằm khẳng_định vị_thế trên thị_trường điện_thoại và đón_đầu xu_thế thực_tế ảo , ARM sẽ cho ra_mắt vi_xử_lý mới mạnh_mẽ hơn vào năm 2017 .
+Trải_nghiệm thực_tế ảo sẽ thú_vị hơn với   Cortex-A73 và   Mali-G71 .
+Theo Engadget , vi_xử_lý Cortex-A73 sẽ có tốc_độ nhanh hơn 30% so với Cortex-A72 đang có_mặt trên thị_trường .
+Với việc tích_hợp bóng_bán_dẫn 3D FinFET 10nm , sản_phẩm không_chỉ có thiết_kế nhỏ gọn hơn , mà hiệu_suất cũng vượt_trội và có tính ổn_định cao hơn so với các dòng chip trước .
+Cortex-A73 đi kèm bộ_xử_lý đồ_họa Mali-G71 cũng mạnh_mẽ không kém .
+GPU này được xây_dựng trên kiến ​ ​ trúc Bifrost mới của ARM , cho hiệu_năng đồ_họa nhanh hơn 50% , quản_lý năng_lượng tốt hơn 20% ... so với phiên_bản tiền_nhiệm Mali-T880 .
+ARM nhấn_mạnh , với Mali-G71 , chất_lượng video hỗ_trợ lên tới 4K ( 3840 x 2160 pixel ) , tỷ_lệ làm tươi ( refresh rate ) lên đến 120Hz ( so với hiện_nay là 90Hz ) .
+Ngoài_ra , GPU mới chỉ cho độ trễ 4ms , độ trễ lý_tưởng của kính thực_tế ảo hiện_tại .
+ARM cho_biết , đã có 10 nhà_sản_xuất được hãng cấp phép sản_xuất Cortex-A73 và Mali-G71 , trong đó có MediaTek , Marvell và HiSilicon .
+Hiện cả hai chip đang được thử_nghiệm trên phần_cứng trước khi có_mặt trên điện_thoại vào đầu năm 2017 .
+Bảo_Lâm

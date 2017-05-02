@@ -1,0 +1,16 @@
+Galaxy S8 tự nhắc người dùng lau ống_kính máy_ảnh
+Trình chụp ảnh của máy sẽ hiển_thị lời nhắc vệ_sinh ống_kính khi phát_hiện có bụi bẩn hoặc vết mồ_hôi tay .
+Camera đặt ngay cạnh cảm_biến vân tay ở mặt sau .
+Galaxy S8 có nhiều thay_đổi trong thiết_kế , đặc_biệt nhất_là kéo_dài màn_hình ra gần hết cạnh trên và dưới .
+Điều này khiến cảm_biến vân tay_không còn đủ diện_tích để xuất_hiện .
+Hãng đã chọn cách đưa ra_mặt sau và ngay bên_cạnh camera thay_vì phía dưới như nhiều nhà_sản_xuất khác .
+Cách bố_trí này tạo ra các lo_ngại ngón_tay dễ chạm nhầm vào mặt ống_kính gây bẩn .
+Samsung có_thể đã tính_toán đến các trường_hợp này và đưa ra giải_pháp vào ứng_dụng chụp hình sản_phẩm .
+Máy nhận_biết khi mặt kính camera bị bẩn hoặc bám mồ_hôi tay , phần_mềm sẽ đưa ra cảnh_báo .
+" Làm sạch ống_kính sẽ giúp ảnh chụp đẹp hơn " , lời nhắc xuất_hiện trên màn_hình của máy khi phát_hiện có vấn_đề .
+Trong một_số trường_hợp , thuật_toán có_thể hiểu sai và hiển_thị thông_điệp nhiều hơn mức cần_thiết .
+Nhà_sản_xuất vì_vậy đã thiết_lập chỉ hiện cảnh_báo khi người dùng chọn bảo_mật bằng vân tay .
+Trên_Galaxy S8 , bảo_mật bằng mống mắt được nhà_sản_xuất khuyến_cáo sử_dụng nhiều hơn .
+Galaxy S8 năm nay không còn sử_dụng hệ_thống camera lồi như các thế_hệ trước .
+Cảm_biến của máy vẫn giữ ở độ_phân_giải 12 megapixel , f / 1.7 , ống_kính góc rộng 26 mm .
+Camera hỗ_trợ lấy nét theo pha công_nghệ Dual_Pixel , chống rung quang_học và đèn flash LED hai tông .

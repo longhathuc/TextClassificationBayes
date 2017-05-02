@@ -1,0 +1,22 @@
+Giới_hạn vật_lý ngăn_cản công_nghệ chế_tạo áo tàng_hình
+Các nhà_nghiên_cứu Mỹ vừa chứng_minh rằng có những giới_hạn cơ_bản về mặt vật_lý khiến việc chế_tạo áo tàng_hình gần_như bất_khả_thi .
+Theo Business_Insider , công_nghệ hiện_nay có_thể phát_triển áo_choàng tàng_hình làm cho vật_thể vô_hình ở một dải bước_sóng điện_từ nhất_định – như_là ánh_sáng mắt người nhìn thấy hay sóng_vô_tuyến .
+Nhưng muốn làm áo tàng_hình che_chắn vật_thể trước nhiều dải sóng cùng lúc lại rất khó .
+" Có những hạn_chế nghiêm_ngặt trong việc che_phủ một đối_tượng với một loại vật_liệu thụ_động và làm cho vật_thể vô_hình , với một bước_sóng và góc nhìn tùy_ý " ,   nhà_nghiên_cứu Andrea_Alu thuộc Đại_học Texas tại Austin , Mỹ , nói .
+Những vật_liệu thụ_động mà Alu đề_cập có tính_chất đặc_biệt giúp chúng có_thể làm vô_hình vật_thể mà không cần lấy năng_lượng từ nguồn bên ngoài , như cơ_chế của siêu vật_liệu vốn đã có khả_năng bẻ cong hoặc hấp_thụ ánh_sáng .
+Để xác_định giới_hạn của những vật_liệu này , các kỹ_sư sử_dụng lý_thuyết Bode – Fano về khớp dải băng_thông_rộng .
+Nói đơn_giản là họ sẽ xem_xét độ lớn của vật_thể cần che_phủ , dải bước_sóng điện_từ chiếu tới vật_thể và dựa trên loại vật_liệu thụ_động được sử_dụng để tính_toán xem vật_liệu đó có hiệu_quả không .
+Theo các kết_quả thu được , chúng_ta có_thể làm vô_hình các vật_thể nhỏ nhưng gần_như không_thể làm vô_hình vật_thể kích_thước lớn .
+" Chúng_tôi đã chứng_minh được rằng không_thể khử hết sự tán_xạ ánh_sáng của một chiếc xe_tăng hay máy_bay tại dải tần_số ánh_sáng nhìn thấy bằng các kỹ_thuật có sẵn dựa trên vật_liệu thụ_động " , Francesco_Monticone ,   một người trong nhóm nghiên_cứu ,   nói .
+" Tuy_nhiên với các vật_thể có kích_thước so_sánh được với bước_sóng điện_từ chiếu tới ( ví_dụ như ăng - ten thu sóng_vô_tuyến hay đầu mũi một_số dụng_cụ hiển vi quang_học ) , chúng_tôi thấy rằng có_thể làm được_cái gì đó hữu_dụng , khi các giới_hạn được nới lỏng hơn và chúng_tôi có_thể lượng_tử hóa chúng " .
+Lý_do mà nhóm nghiên_cứu quyết_định cố_gắng tìm ra những giới_hạn trong việc_làm vô_hình vật_thể , là vì họ muốn cải_thiện các thiết_bị vô_hình càng nhanh càng tốt .
+Hiểu rõ các giới_hạn thực để tiếp_tục nghiên_cứu tốt hơn so với việc phi thực_tế là cố chế_tạo một chiếc áo tàng_hình có_thể làm biến_mất một người .
+Nhóm nghiên_cứu của Đại_học Texas đang tìm cách vượt qua những giới_hạn này .
+" Nhóm chúng_tôi và các nhóm khác đang nghiên_cứu những kỹ_thuật tàng_hình chủ_động và phi tuyến_tính , nằm ngoài phạm_vi của các giới_hạn " , Monticone nói .
+" Với loại áo tàng_hình chủ_động , Thuyết_tương_đối của Einstein về cơ_bản cũng giới_hạn hiệu_suất tàng_hình " , Alu nói .
+" Tuy_nhiên , với những khái_niệm và thiết_kế mới , như siêu vật_liệu chủ_động và phi tuyến , yêu_cầu về trong_suốt và tàng_hình có_thể có những tiến_bộ mới . "
+" Ngoài_ra , chúng_tôi còn đang hướng tới những dạng tàng_hình khác dễ_dàng hơn , như các thiết_bị làm chậm pha của ánh_sáng truyền qua , hay các kỹ_thuật ngụy_trang hoặc các thủ_thuật quang_học tạo ấn_tượng về sự trong_suốt mà không thực_sự làm giảm độ tán_xạ tổng_thể của ánh_sáng " .
+Dù tiến_độ còn chậm , các nhà_nghiên_cứu cũng đã cho thấy họ có_thể làm tàng_hình các vật_thể vi_mô và sử_dụng thấu_kính để bẻ cong ánh_sáng một_chút quanh các vật_thể lớn .
+Một nhóm nghiên_cứu của Đại_học Columbia cũng đã thiết_kế được một thiết_bị che sóng_vô_tuyến mà theo lý_thuyết có_thể bảo_vệ Trái_Đất khỏi những dạng sống ngoài hành_tinh .   Nghiên_cứu này được đăng trên tạp_chí Optica số tháng 7/2016 .
+Xem thêm : Vì_sao áo_choàng tàng_hình khó thành hiện_thực
+Nguyễn_Thành_Minh

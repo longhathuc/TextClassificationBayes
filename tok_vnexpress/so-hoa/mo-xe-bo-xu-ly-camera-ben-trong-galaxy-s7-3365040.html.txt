@@ -1,0 +1,18 @@
+' Mổ_xẻ ' bộ_xử_lý , camera bên trong Galaxy S7
+Cảm_biến máy_ảnh dùng trên smartphone cao_cấp nhất của Samsung do Sony sản_xuất , chip Snapdragon 820 của Qualcommm , RAM đến từ Hynix .
+Kênh công_nghệ Chipworks đã " mổ bụng " chiếc Galaxy S7 để " soi " nguồn_gốc từng thành_phần cấu_thành bên trong thiết_bị .
+Với camera sau , Samsung trang_bị cảm_biến 12 megapixel cho kích_thước điểm_ảnh 1,4 micromet , lớn hơn đáng_kể so với loại 1,12 micromet trên Galaxy S6 hay 1,22 micromet của i Phone 6s , 6s Plus .
+Các thành_phần cảm_biến bên trong Galaxy S7 .
+Loại cảm_biến được Samsung sử_dụng là Sony IMX260 với công_nghệ lấy nét Dual_Pixel_Phase_Detection .
+Năm 2013 , nhà_sản_xuất máy_ảnh Canon đã áp_dụng công_nghệ này trên chiếc DSLR_EOS 70D , cho khả_năng bắt_nét trên 80% tổng_lượng điểm_ảnh .
+Còn_Galaxy S7 , 100% số điểm_ảnh trên cảm_biến đều được dùng để ghi_nhận và cung_cấp thông_tin cho hệ_thống lấy nét .
+Trang_Chipworks nhấn_mạnh , ấn_tượng nhất_là tính_năng dual pixel được đưa thành_công vào từng điểm_ảnh có kích_thước chỉ 1,4 micromet , trên một sản_phẩm di_động nhỏ gọn .
+Trong khi đó , máy_ảnh chuyên_dụng của Canon là 4,1 micromet .
+Galaxy S7 dùng RAM 4 GB của Hynix , chip Qualcomm_Snapdragon 820 .
+Trên smartphone mới nhất , đây là lần đầu_tiên Samsung dùng bộ_điều_khiển màn_hình cảm_ứng do chính mình sản_xuất , với mã   S6SMC41X .
+Linh_kiện này từng được hãng cung_cấp cho một_số nhà_sản_xuất điện_thoại Trung_Quốc .
+Trong khi đó , RAM_LPDDR4 của Galaxy S7 do Hynix cung_ứng .
+Các chuyên_gia công_nghệ khẳng_định , bộ_xử_lý Qualcomm_Snapdragon 820 được dùng trên một_số mẫu Galaxy S7 .
+Chip này có mã   MSM8996 , với nhiều đường liên_kết giữa RAM và chipset nhằm tăng_cường bằng thông và tản nhiệt tốt hơn .
+Trong khi đó , một_số thị_trường sẽ dùng bộ_xử_lý Exynos_Octa do Samsung sản_xuất .
+Đình_Nam

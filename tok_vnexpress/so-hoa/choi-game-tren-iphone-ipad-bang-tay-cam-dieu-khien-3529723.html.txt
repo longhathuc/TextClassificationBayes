@@ -1,0 +1,26 @@
+Chơi game trên i Phone , iPad bằng tay_cầm điều_khiển
+Hơn một_nửa ứng_dụng trên App_Store là trò_chơi và phần_nhiều trong số này được phát_triển để game thủ có_thể chơi bằng một bộ tay_cầm điều_khiển riêng .
+Từ phiên_bản i OS 7 , Apple đã thêm vào hệ_điều_hành của mình tính_năng hỗ_trợ điều_khiển MFI ( Made for i Phone , iPad ) , để giúp các nhà_phát_triển trò_chơi tận_dụng lợi_thế của các tay_cầm chơi game của bên thứ_ba cũng_như tạo cơ_hội cho nhà_sản_xuất phát_triển các phần_cứng phù_hợp với thiết_bị .
+Để chơi được game trên thiết_bị di_động , điều đầu_tiên là người dùng phải có một tay_cầm ( controller ) được sản_xuất theo tiêu_chuẩn MFI để đảm_bảo sự tương_thích của cả phần_cứng lẫn phần_mềm .
+Số_lượng các bộ_điều_khiển này đã tăng mạnh trong vài năm qua và chất_lượng của chúng cũng dần được hoàn_thiện một_cách rõ_rệt .
+Hầu_hết các bộ_điều_khiển sẽ kết_nối qua Bluetooth , thông_qua một_số thiết_lập đơn_giản bằng cách chuyển quyền điều_khiển từ Settings - Bluetooth , rồi lựa_chọn thiết_bị chuyển_đổi .
+Tay_cầm sẽ được kết_nối tự_động trong tích_tắc .
+Tuy_nhiên , tay_cầm dạng này sẽ nặng hơn bình_thường do đi kèm một quả pin lớn , vì phải tiêu_thụ một phần điện_năng để thực_hiện kết_nối không dây .
+Thời_gian hoạt_động của chúng dao_động từ 10-30 tiếng liên_tục .
+Một_số tay_cầm đi kèm với giá đỡ để giữ thiết_bị , hoặc có tạo hình_dạng bao da hay vỏ bọc .
+Có tay_cầm điều_khiển sử_dụng kết_nối vật_lý , cắm qua cổng sạc Lightning .
+Tuy_nhiên , phần_lớn chúng vẫn cần sạc pin và một_số tay_cầm có gắn kèm cả loa .
+Ngoài_ra , một_số tay_cầm đặc_biệt có thiết_kế giống như máy chơi game thùng ( Arcade ) cỡ nhỏ , với bộ_điều_khiển có cần gạt lớn cùng thiết_kế đồ_sộ .
+Tuy_nhiên , chơi game trên các bộ_điều_khiển này thường có nhiều hạn_chế .
+Trước khi mua , người dùng cần tìm_hiểu và chắc_chắn thiết_bị mình muốn sở_hữu phù_hợp và tương_thích với kích_thước , cách kết_nối trên thiết_bị di_động của mình .
+Theo   makeuseof ,   PXN Speedy , Gamevice và SteelSeries Nimbus là ba bộ_điều_khiển dành cho thiết_bị i OS được đánh_giá cao trong thời_gian gần đây .
+Ngoài_ra , một_số bộ_điều_khiển khác người chơi có_thể cân_nhắc lựa_chọn như Horipad_Ultimate , SteelSeries Stratus XL , Mad_Catz C . T . R . L . i hoặc Moga_Rebel .
+Tất_nhiên trên thực_tế , trải_nghiệm mang lại cho người dùng trên các bộ tay_cầm này vẫn chưa thực_sự hoàn_hảo .
+Một lựa_chọn khác game thủ có_thể cân_nhắc là sử_dụng bộ_điều_khiển dán ngoài .
+Nó đơn_giản là một miếng dán nhỏ bằng chất_dẻo , có_thể dính lên màn_hình cảm_ứng để người chơi khi thao_tác có trải_nghiệm dễ_chịu hơn .
+Fling ( 10 USD ) là một sản_phẩm đang được ưa_chuộng với thiết_kế bắt_mắt và khả_năng bám dính , đàn_hồi cao .
+Còn với các thiết_bị đã jailbreak , không quá khó để người dùng kết_nối thiết_bị với các tay_cầm chơi game của các hệ máy console chuyên_nghiệp như PS3 , PS4 hay Wii U_Pro .
+Sau khi cài Cydia , ứng_dụng dành riêng cho hệ_điều_hành i OS đã được jailbreak , game thủ có_thể tải về và cài_đặt các ứng_dụng hỗ_trợ tay_cầm MFI nói trên .
+Hiện_Cydia có_thể làm_việc trên các thiết_bị chạy hệ_điều_hành i OS từ 7 đến 9 .
+Để tìm game hỗ_trợ MFI , game thủ có_thể xem thông_tin trong phần mô_tả ứng_dụng .
+Một_số gợi_ý trò_chơi đáng chú_ý , đang được cộng_đồng game thủ thế_giới ưa_chuộng khi chơi bằng tay_cầm gồm có GTA_III , Bully , Oceanhorn , Tomb_Raider , Minecraft_Pocket_Edition và Worms 3 .

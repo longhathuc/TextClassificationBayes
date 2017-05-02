@@ -1,0 +1,15 @@
+Pháp làm ứng_dụng cảnh_báo khủng_bố cho Euro 2016
+Phần_mềm SAIP sẽ đưa ra cảnh_báo ngắn_gọn về tình_trạng khẩn_cấp cũng_như các tư_vấn làm_sao để giữ được an_toàn cho người tới đây xem Euro .
+Ứng_dụng SAIP giúp cảnh_báo người dùng về nguy_cơ khủng_bố .
+Chính_phủ Pháp phát_hành một ứng_dụng trên điện_thoại_di_động để đưa ra cảnh_báo cho người_dân về các nguy_cơ khủng_bố .
+Phần_mềm chính_thức có_mặt trên các kho ứng_dụng chỉ một ngày_trước khi lễ khai_mạc Euro 2016 diễn ra .
+Theo BBC , Pháp đã phát_triển phần_mềm này ngay sau khi cuộc tấn_công khủng_bố tại Paris hồi tháng 11 năm_ngoái làm chết 130 người .
+Ứng_dụng có tên SAIP sẽ sử_dụng vị_trí của người dùng để đưa ra các cảnh_báo phù_hợp trong trường_hợp khẩn_cấp .
+Các cảnh_báo sẽ được đưa ra ngắn_gọn cùng các tư_vấn làm_sao để giữ được an_toàn .
+Người dùng cũng có_thể nhận thêm thông_báo từ các vùng địa_lý khác_nhau nếu muốn .
+Các phiên_bản kế_tiếp của SAIP có_thể cảnh_báo các trường_hợp khẩn_cấp khác như lũ_lụt , tai_nạn công_nghiệp .
+Bộ nội_vụ của Pháp hôm_nay cũng đăng_tải giới_thiệu về ứng_dụng trên Twitter để phổ_biến tới tất_cả người_dân .
+SAIP có cả phiên_bản dành cho di_động chạy hệ_điều_hành Android và i OS .
+Pháp là nước chủ nhà cho giải bóng_đá vô_địch châu Âu - Euro 2016 .
+Do là quốc_gia vừa trải qua một vụ khủng_bố tồi_tệ , công_tác an_ninh tại đây càng được thắt chặt lên mức tối_đa .
+Trước đó , Bộ Ngoại giao Anh cũng cảnh_báo sân_vận_động , khu tập_trung đông người hâm_mộ , các đầu_mối giao_thông có_thể là mục_tiêu tấn_công khủng_bố .

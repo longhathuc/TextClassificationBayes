@@ -1,0 +1,41 @@
+Đáp_án bài_toán tính xác_suất lọt vào vòng sau của các đội_bảng F_Euro 2016
+Khả_năng lọt vào vòng sau của các đội là : Hungary 100% , Bồ_Đào_Nha 72% , Áo 50% và Iceland 24% .
+Đề_bài :
+Sau lượt trận thứ_hai , thứ_tự các đội ở bảng F của Euro 2016 được thể_hiện trong bảng xếp_hạng sau :
+Tình_hình ở bảng này phức_tạp nhất , khi đội nào cũng còn hy_vọng đoạt vé chính_thức ( tức_là xếp 1 , 2 bảng ) .
+Chúng_ta hãy thử tính xem cơ_hội lọt vào vòng sau của các đội ở bảng này là thế_nào .
+Để tính_toán đỡ phức_tạp , dựa trên tình_hình thực   tế hiện_nay , ta giả_định rằng nếu đội bóng xếp_hạng 3 được 4 điểm trở_lên thì đội bóng đó sẽ đoạt vé ( vớt ) , dưới 4 điểm thì bị loại ( dù thực_tế có_thể có đội được 3 điểm có hiệu_số tốt được vé vớt ) .
+Hai trận đấu cuối_cùng sẽ diễn ra cùng giờ , vào lúc 23 : 00 ngày 22/6/2016 giữa Hungary vs Bồ_Đào_Nha   và Iceland vs Áo .
+Theo đánh_giá của các chuyên_gia thì khả_năng thắng – hòa – thua của các đội ở hai trận này là :
+Dựa vào bảng xếp_hạng hiện_tại , giả_định nêu trên và các đánh_giá chuyên_gia , hãy tính xác_suất lọt vào vòng sau của các đội bóng ở bảng F .
+Lời_giải :
+Đa_số độc_giả cho rằng bảng này thoạt nhìn phức_tạp nhưng với những giả_định đã cho thì các tính_toán là khá đơn_giản .
+Hungary thì đã chắc 100% suất , còn các đội nếu thắng sẽ chắc_chắn đoạt vé .
+Có_điều một_số độc_giả đã quên tình_huống khi hai trận đều kết_thúc hòa , lúc đó Iceland và Bồ_Đào_Nha được 3 điểm sẽ tranh nhau vị_trí nhì bảng với lợi_thế nghiêng về Iceland do đội này đã ghi_bàn nhiều hơn ( hiệu_số của 2 đội chắc_chắn sẽ đều bằng 0 ) .
+Một_vài độc_giả có tính trường_hợp này ( khả_năng 6% ) nhưng lại dồn hết 6% cơ_hội này cho Iceland .
+Thực_ra Bồ_Đào_Nha vẫn có cửa nếu hòa Hungary với tỷ_số cao .
+Đây là điểm “ mờ ” của bài_toán mà như một bạn_đọc đã nhận_xét , đề toán chưa cho đầy_đủ .
+Nhưng toán cuộc_sống sẽ chấp_nhận một_số sai_số nhất_định .
+Bây_giờ ta chuyển sang lời_giải bài_toán , hoàn_toàn dựa trên giả_định của đề_bài , cũng_như một giả_định nhỏ khi hai trận đều_hòa ( lúc này ta giả_định Iceland lợi_thế hơn TBN với tỷ_lệ 2 : 1 ) .
+Do_Iceland và Áo sẽ đối_đầu với nhau , nên ít_nhất 1 trong 2 đội này sẽ có điểm_số nhỏ hơn 4 .
+Vì_vậy Hungary đảm_bảo được vị_trí từ thứ 3 trở_lên , dù kết_quả trận cuối với Bồ_Đào_Nha thế_nào , với ít_nhất 4 điểm .
+Theo giả_định thì Hungary chắc_chắn đã có vé .
+Bồ_Đào_Nha sẽ chắc_chắn đoạt vé nếu thắng Hungary .
+Xác_suất này là 70% theo như bảng đánh_giá .
+Ngoài_ra , còn 1 cửa hẹp để Bồ_Đào_Nha vào vòng sau nữa , đó là trong trường_hợp cả hai trận kết_thúc với tỷ_số hòa , nhưng Bồ_Đào_Nha hòa Hungary đậm hơn Iceland hòa Áo ( Lúc đó Bồ_Đào_Nha và Iceland cùng 3 điểm , hiệu_số thắng_bại bằng 0 , và phải so chỉ_số phụ ) .
+Rõ_ràng trong trường_hợp này thì Iceland có lợi_thế hơn .
+Ta chia tỷ_lệ cho hai đội Bồ_Đào_Nha và Iceland trong trường_hợp này là 1 : 2 .
+Xác_suất để cả 2 trận hòa là 6% .
+Và_Bồ_Đào_Nha được thêm 2% khả_năng nếu xảy_ra trường_hợp này .
+Vậy khả_năng lọt vào vòng sau của Bồ_Đào_Nha là 72% .
+Hoàn_toàn tương_tự khi tính cho Iceland và khả_năng của đội này là 24% ( 20% từ khả_năng Iceland thắng Áo , 4% từ khả_năng cả hai trận đều_hòa ) .
+Cuối_cùng là Áo , chỉ có cửa thắng mới đoạt vé , do_đó khả_năng đoạt vé của đội này là 50% .
+Vậy khả_năng lọt vào vòng sau của các đội là : Hungary 100% , Bồ_Đào_Nha 72% , Áo 50% và Iceland 24% .
+Lời kết :
+Lời_giải nói trên dựa hoàn_toàn vào các giả_định .
+Thực_tế diễn_biến thay_đổi từng giờ chứ không bất_biến như_vậy .
+Sau khi kết_thúc các trận đấu lượt cuối ở các bảng A , B , C , D thì xuất_hiện một tình_huống mới : Do các đội Algeria , Bắc_Ai - len , Thổ_Nhĩ_Kỳ xếp thứ 3 ở các bảng A , C ,   D với 3 điểm và   hiệu_số bàn thắng_bại là - 2 , 0 , - 2 nên ở bảng F , Iceland và Bồ_Đào_Nha chỉ cần hòa cũng đoạt vé .
+Do_vậy , khả_năng lọt vào vòng sau của hai đội này tăng lên đáng_kể .
+Áo thì vẫn chỉ có cửa thắng mới đoạt vé .
+Và tính_toán trở_nên vô_cùng đơn_giản : Hungary 100% , Bồ_Đào_Nha 90% , Iceland 50% , Áo 50% .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

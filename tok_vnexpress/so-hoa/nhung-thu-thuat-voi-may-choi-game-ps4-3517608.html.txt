@@ -1,0 +1,49 @@
+Những thủ_thuật với máy chơi game PS4
+PlayStation 4 là một thiết_bị chơi game đắt tiền , do_đó , nếu nắm vững các mẹo , thủ_thuật thì khi sử_dụng sẽ mang lại khá nhiều tiện_ích .
+Tay_cầm DualShock 4 có_thể sạc bằng dây điện_thoại
+Có cùng chuẩn kết_nối Micro USB , do_đó , người dùng có_thể sạc tay_cầm bằng cáp USB của hầu_hết các điện_thoại Android hiện_nay .   Điều này có nghĩa_là không còn phải lo việc dây sạc quá ngắn hay ngược_lại , điện_thoại của bạn có_thể sạc qua cổng PS4 .
+Trên thực_tế , nếu có đầu cắm thích_hợp , iPhone cũng có_thể được sạc qua cổng sạc tay_cầm của chiếc máy chơi game này .
+Ra_lệnh bằng giọng nói thông_qua micro
+Người dùng Xbox_One có_thể ra_lệnh bằng giọng nói thông_qua Kinect .
+PlayStation thì không .
+Nhưng trên tay_cầm DualShock 4 có lỗ cắm tai_nghe 3,5 mm và người dùng có_thể ra_lệnh cho máy thông_qua bộ tai_nghe bán kèm , hoặc một sản_phẩm của hãng thứ_ba .
+Hơi khó để làm_quen nhưng khi đã sử_dụng , game thủ sẽ cảm_thấy sự tiện_lợi khá nhiều .   Vào
+Settings > System > Voice_Operation_Settings và bật tùy chọn Operate PS4 with Voice để sử_dụng tính_năng này .
+Bảng lệnh cũng hiển_thị tại đây .
+Đồng_bộ hoá PS 4 với TV
+Nhiều_Smart TV  có khả_năng đồng_bộ với máy chơi game PlayStation 4 , đặc_biệt là dòng sản_phẩm của cùng nhà_sản_xuất Sony .
+Người dùng có_thể thực_hiện thao_tác này qua   Menu chính , vào mục Settings , rồi System và đánh_dấu vào ô Enable HDMI Device_Link .   Sau đó , chiếc PS4 sẽ có khả_năng nhận lệnh từ TV nếu tương_thích .
+Người dùng có_thể dùng điều_khiển_từ_xa để chuyển mục trên Menu và các ứng_dụng như YouTube .
+Nếu tắt TV , hệ_thống sẽ đi vào chế_độ Standby .
+Game thủ cũng không cần phải bật 2 thiết_bị lần_lượt như trước .
+Dùng điện_thoại như điều_khiển_từ_xa
+PS4 hỗ_trợ trò_chuyện nhắn_tin qua mạng , nhưng không thoải_mái khi phải gõ phím bằng tay_cầm chơi game .
+Cài_đặt ứng_dụng có tên PlayStation App , đồng_bộ nó , người dùng có_thể chat thông_qua màn_hình điện_thoại .
+Ngoài_ra , điện_thoại của bạn từ đây sẽ cho_phép điều hướng Menu , nhập văn_bản và nhiều tùy chọn tiện_lợi khác .
+Game thủ còn có một lựa_chọn khác là kết_nối với bàn_phím và chuột ( có dây hoặc không dây ) để điều_khiển và sử_dụng các chức_năng trên dễ_dàng hơn .
+Tải về miễn_phí các game PS Plus cho PSVita và PS3
+Nếu đã mua gói thuê_bao Plus của PlayStation , hàng tháng , người dùng sẽ được tải một_số game miễn_phí .
+Ít người biết rằng game thủ còn có_thể tải về các game miễn_phí dành cho PSVita và PS3 .
+Tuy_nhiên , việc tải các trò_chơi miễn_phí này phải được thực_hiện thông_qua máy_tính , trên website của   PlayStation Store chứ không phải nhờ thiết_bị .
+Tranh_thủ tận_dụng hết các tính_năng
+Thiết_bị chơi game của Sony hỗ_trợ nhiều chức_năng mới khá thú_vị và tiện_lợi , game thủ nên đọc kỹ hướng_dẫn sử_dụng hoặc nhờ nhân_viên bán hàng tư_vấn để có_thể trải_nghiệm tốt nhất .
+Đơn_cử việc người dùng có_thể tải game về trước khi trò_chơi phát_hành , chơi game cùng người khác nhờ tính_năng   Share_Play hay chơi game PS4 trên máy_tính thông_qua Remote_Play , chụp ảnh màn_hình bằng nút Share , chuyển_đổi nhanh giữa các ứng_dụng bằng cách nhấn đúp phím PS ...
+Ngoài_ra , người dùng cũng có_thể thêm phần bình_luận , lồng_tiếng vào các video ghi lại cảnh chơi game của mình trước khi đăng_tải lên YouTube hay mạng xã_hội .
+Thay ổ_cứng PS4
+Sony cho_phép người chơi tự thay ổ_cứng trên máy PS4 để có thêm không_gian trống nhằm tải nhiều game hơn_nữa .
+Hãy tự_tin thực_hiện việc này bởi nó khá dễ_dàng   và có rất nhiều video hướng_dẫn chi_tiết trên YouTube .
+Điều quan_trọng là nhớ tiêu_chuẩn ổ_cứng là loại 2,5 inch , bao_gồm HDD dùng cho Laptop , ổ lai SSHD và ổ_cứng thể rắn SSD .
+Xem video và phim trên PS4
+Ứng   dụng Media_Player_Play Station 4 cho_phép người dùng mở các đoạn video khác_nhau từ âm_nhạc cho tới các loại tập_tin hình_ảnh .
+Việc này có_thể thực_hiện thông_qua một máy_chủ hoặc đơn_giản nhất_là USB hay ổ_cứng ngoài .
+Vừa chơi game vừa nghe nhạc
+Nếu đã chán nghe tiếng nhạc game , hãy mạnh_dạn tắt chúng đi trong phần cài_đặt và để Media_Player chơi những bản_nhạc MP3 của riêng bạn .
+Hoặc người dùng có_thể tải   Spotify , dịch_vụ nghe nhạc trực_tuyến khá nổi_tiếng và phát nhạc trực_tiếp từ đó .
+Tiết_kiệm pin   của tay_cầm bằng cách làm mờ đèn Light_Bar
+Dải đèn Light_Bar trên tay_cầm tuy đẹp_mắt và có khả_năng hỗ_trợ nhập liệu ( nghiêng tay_cầm sang các hướng để điều_khiển vị_trí nút chọn ) nhưng lại khá tốn pin .   Vì_thế , nếu chỉ chuyên_tâm chơi game , người dùng nên điều_chỉnh ánh_sáng của nó xuống mức thấp nhất có_thể .
+Nhấn nút PlayStation trên tay_cầm , chọn Adjust_Sound and Devices rồi Brightness of DualShock 4 Light_Bar .
+Sau đó chuyển độ sáng từ Bright ( Standard ) sang Dim .
+Tiết_kiệm điện bằng chế_độ Rest_Mode
+Khi_không sử_dụng , người dùng nên chuyển PS4 về chế_độ Rest_Mode ( Sleep ) để máy tự_động chuyển sang chế_độ tiết_kiệm pin , không gây ồn và đặc_biệt là không hao nhiều điện nặng .
+Trong khi đó , thiết_bị vẫn có_thể tự tải về game và các bản cập_nhật trong khi vẫn sạc cho tay_cầm qua cổng USB .
+Ngay khi mở lại máy , nếu game đang Pause , bạn vẫn có_thể chơi tiếp bình_thường .

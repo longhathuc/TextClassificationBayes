@@ -1,0 +1,32 @@
+Ứng_dụng AI biến smartphone thành trợ_lý cá_nhân
+Những ứng_dụng tích_hợp trí_tuệ_nhân_tạo như The_Roll , EasilyDo , 24Me hay Google_Now , Apple_Siri đang biến smartphone trở_thành một trợ_lý cá_nhân thực_sự , phục_vụ cho cả công_việc lẫn các hoạt_động trong đời_sống .
+Trí_tuệ_nhân_tạo ( Artificial_Intelligence - AI ) giờ_đây không còn nằm trong các bộ phim khoa_học_viễn_tưởng mà đã được các hãng công_nghệ hàng_đầu thế_giới coi_trọng và phát_triển , như Google , Facebook , Apple … Nhiều ứng_dụng cho smartphone đã có_mặt công_nghệ hiện_đại này :
+The_Roll
+The_Roll giúp người dùng i Os   quản_lý ảnh chụp tốt hơn .
+Sản_phẩm được phát_triển bởi EYE’ EM , cho_phép tìm_kiếm , quản_lý và phân_loại ảnh chụp bằng điện_thoại .
+Với các thuật_toán thông_minh và chính_xác , ảnh sau khi chụp sẽ được The_Roll quét và phát_hiện những người có cùng khuôn_mặt để gom lại một nhóm .
+Nếu hình_ảnh trùng nhau , ứng_dụng sẽ báo người dùng có nên xóa nó hay không .
+Bên_cạnh đó , The_Roll phân_tích để sắp_xếp hình_ảnh theo từng chủ_đề như thời_trang , làm_đẹp , động_vật … Cuối_cùng , người dùng sẽ có được một kho lưu_trữ ảnh khoa_học và gọn_gàng , dễ quản_lý hơn so với khi chưa cài_đặt ứng_dụng .
+Theo NYTimes , độ_chính_xác của The_Roll lên đến 90% với ảnh chân_dung , hơn 50% với ảnh thời_trang … Ứng_dụng hiện chỉ hỗ_trợ nền_tảng i OS ( miễn_phí ) .
+EasilyDo
+EasilyDo là ứng_dụng không_thể thiếu để quản_lý e - mail
+Ứng_dụng này hoạt_động bằng cách kết_nối trực_tiếp vào tài_khoản e - mail như Gmail và Exchange , hoặc các dịch_vụ và ứng_dụng như Facebook , Evernote hay LinkedIn .
+Được tạo ra dựa trên thói_quen của một trợ_lý cá_nhân ngoài đời thực , EasilyDo có_thể gửi thông_báo nhắc_nhở thời_gian diễn ra cuộc họp , cập_nhật và sắp_xếp lịch_trình chuyến đi sao cho phù_hợp , tìm_kiếm dựa trên thói_quen người dùng , quản_lý thư rác …
+Dù có rất nhiều tính_năng hay , EasilyDo khá gọn_nhẹ , hoạt_động mượt_mà khi xử_lý tác_vụ .
+So với các ứng_dụng hỗ_trợ e - mail khác , EasilyDo hiển_thị e - mail mới nhanh hơn .
+Để có được điều này , nhóm phát_triển đã đưa vào các thuật_toán tối_ưu , cũng_như thực_hiện rất nhiều tinh_chỉnh khác .   EasilyDo
+đang có sẵn và miễn_phí trên i OS và Android .
+24Me
+Ứng_dụng 24Me .
+Tương_tự như EasilyDo , 24Me sở_hữu tính_năng của một trợ_lý ảo thông_minh , được kết_nối với các tài_khoản trực_tuyến để quản_lý công_việc của người dùng .
+Trên ứng_dụng này , người dùng được hỗ_trợ tạo danh_sách , công_việc , dịch_vụ nhắc_nhở và được quản_lý hoàn_toàn tự_động .
+Bằng các thuật_toán thông_minh , 24Me giúp chủ_nhân của nó hoàn_thành công_việc hiện_tại trong thời_gian hợp_lý nhất , cũng_như nhắc_nhở những điều cần làm trong thời_gian tiếp_theo .
+Hiện người dùng có_thể tải về 24Me miễn_phí cho thiết_bị chạy i OS và Android .
+Google_Now và Apple_Siri
+Siri và Now được tích_hợp sẵn trên i OS và Android .
+Khi nhắc đến trợ_lý ảo , không_thể nhắc đến sản_phẩm của hai " ông lớn " công_nghệ Google_Now và Apple_Siri .
+Với_Now , bạn sẽ ngạc_nhiên khi nó có_thể quản_lý , nhắc_nhở , cung_cấp các thông_tin mà bạn quan_tâm như thời_tiết , vị_trí cửa_hàng , máy ATM… dựa trên vị_trí hiện_tại theo thời_gian_thực , cảnh_báo giao_thông trên đường đến cuộc họp tiếp_theo … Chỉ cần ra_lệnh bằng giọng nói ( hỗ_trợ cả tiếng Việt ) là Now đã làm mọi thứ thay bạn .
+Trong khi đó , Siri của Apple cũng có nhiều chức_năng thông_minh không kém .
+Cũng bằng giọng nói ( chưa hỗ_trợ tiếng Việt ) , người dùng có_thể ra_lệnh trợ_lý ảo này thực_hiện cuộc_gọi , gửi tin nhắn văn_bản , kích_hoạt bộ tính giờ , nhắc_nhở và báo_động .
+Ngoài_ra , nó có_thể trả_lời những câu_hỏi phức_tạp về khoa_học_kỹ_thuật , đời_sống …
+Bảo_Lâm

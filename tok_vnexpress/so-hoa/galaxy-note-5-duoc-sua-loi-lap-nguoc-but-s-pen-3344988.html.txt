@@ -1,0 +1,14 @@
+Galaxy_Note 5 được sửa lỗi lắp ngược bút S_Pen
+Hãng điện_tử Hàn_Quốc đã âm_thầm sửa lỗi làm kẹt bút S_Pen khi bị lắp ngược mà không thông_báo rộng_rãi cho người dùng .
+Theo Phandroid ,   trong lần bung máy gần đây nhất , lỗi thiết_kế làm cho bút cảm_ứng S_Pen bị mắc_kẹt khi lắp ngược trên Galaxy_Note 5 đã được khắc_phục .
+Công_tắc mới bên trái là một vòng nhựa giúp cho bút S_Pen ko còn bị kẹt .
+Vài tuần sau khi Note 5 ra_mắt vào tháng 9/2015 , giới công_nghệ bắt_đầu nhắc đến việc cắm ngược bút S_Pen sẽ khiến nó bị kẹt ở thân máy .
+Phản_ứng ban_đầu của Samsung là kêu_gọi người dùng đọc kỹ hướng_dẫn sử_dụng .
+Tuy_nhiên , tình_hình không tốt hơn .
+Sau đó một thời_gian , hãng đã in luôn cảnh_báo và hướng_dẫn người dùng lắp S_Pen vào Note 5 sao cho đúng nhất trên ngay bao_bì của sản_phẩm .
+Thực_chất , việc S_Pen bị kẹt trong thân máy khi lắp ngược là do trong hốc bút có công_tắc tự_động phát_hiện bút .
+Nếu khi bị kẹt , bạn lại dùng sức_kéo , sẽ làm gãy công_tắc và vô_hiệu_hoá cơ_chế tự_động nhận_diện S_Pen .
+Samsung gần đây đã chế_tạo được bo_mạch với công_tắc mới không làm kẹt bút S_Pen nữa .
+Thay_vì một lẫy nhọn dễ gãy , hãng thay bằng một vòng nhựa giúp cho bút lắp ngược vẫn có_thể lấy ra dễ_dàng .
+Tuy_nhiên , người dùng không_thể nhận ra được model nào đã được sửa lỗi lắp ngược bút nếu chỉ nhìn từ bên ngoài .
+Huy_Đức

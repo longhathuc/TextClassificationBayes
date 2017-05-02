@@ -1,0 +1,5 @@
+Mẹo ghép sim và thẻ nhớ để dùng trên máy 2 sim
+Nhiều smartphone hỗ_trợ 2 sim và cả thẻ nhớ nhưng mặc_định một khe lại dùng chung cho cả sim và thẻ micro SD gây khó_khăn cho người dùng .
+Các mẫu smartphone như Galaxy S7 edge hỗ_trợ 2 khe cắm trong đó một dành cho sim và một có_thể lắp vừa thẻ nhớ hoặc sim .
+Điều này khiến người dùng gặp khó_khăn khi muốn sử_dụng cả 2 sim và thẻ nhớ cùng lúc .
+Dưới đây là cách " chế " sim và thẻ nhớ làm một để sử_dụng cùng lúc .

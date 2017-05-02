@@ -1,0 +1,11 @@
+Đồng_hồ Apple_Watch thành ' cục gạch ' sau khi nâng_cấp phần_mềm
+Một_số chiếc Apple_Watch_Series 2 khi tiến_hành cài_đặt watch OS 3.1.1 thì bị khóa máy , thiết_bị không_thể hoạt_động được .
+Phát_hành ngày 13/12 để sửa lỗi nhưng watch OS 3.1.1 đã khiến một_vài đồng_hồ thông_minh của Apple gặp sự_cố .
+Phiên_bản phần_mềm này ảnh_hưởng đến Series 2 , thiết_bị hiện biểu_tượng dấu_chấm_than kèm thông_báo liên_hệ với nhà_sản_xuất để được hỗ_trợ .
+Thông_báo lỗi khi người dùng tiến_hành nâng_cấp watch OS 3.1.1 cho Apple_Watch_Series 2 .
+Người dùng cho_biết , trong quá_trình cập_nhật watch OS mới , Apple_Watch yêu_cầu khởi_động lại song tiến_trình này bị " mắc_kẹt " lại trong vài giờ .
+Ngay cả khi tuân_thủ khuyến_cáo của Apple là không chạm vào màn_hình và không tương_tác với đồng_hồ trong khi cập_nhật thì lỗi trên vẫn xảy_ra .
+Với những máy thành " cục gạch " , khách_hàng cần gửi thiết_bị đến trung_tâm bảo_hành của Apple để sửa .
+Người dùng cũng kêu rằng watch OS 3.1.1 cho Apple_Watch_Series 1 mất nhiều thời_gian để cập_nhật , có người cài vài lần mới được .
+Trong khi đó một_vài người dùng Series 2 vẫn nâng_cấp phần_mềm mới bình_thường .
+watchOS 3.1.1 được Apple tung ra nhằm khắc_phục lỗi hiển_thị danh_bạ trong tin nhắn , thông_báo , lỗi hiển_thị thông_tin ở các mặt đồng_hồ , ứng_dụng lịch và bản_đồ .

@@ -1,0 +1,7 @@
+Trả_lời câu_hỏi để biết nguyên_nhân Internet tại nhà bị chậm
+Những câu_hỏi cơ_bản nhưng chi_tiết sẽ giúp bạn hiểu về Internet nói_chung và cung_cấp cách khắc_phục cơ_bản để mạng Internet tại_gia ổn_định hơn .
+Sóng_Wi - Fi đầy chưa phải là điều_kiện_đủ đề vào được Internet .
+Câu_hỏi số 1 : Khi phát_hiện các thiết_bị trong nhà vẫn lên đầy vạch sóng Wi-Fi nhưng không vào được Internet , người dùng cần kiểm_tra gì trước ?
+- Kiểm_tra bộ phát Wi-Fi
+- Kiểm_tra modem
+- Gọi ngay tổng_đài báo hỏng dịch_vụ

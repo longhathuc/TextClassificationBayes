@@ -1,0 +1,14 @@
+Nhiều máy i Pad 2 thành ' cục gạch ' khi nâng_cấp i OS 9.3
+Một_số thiết_bị không_thể kích_hoạt ở bước cuối_cùng của quá_trình nâng_cấp và có_thể bị mất toàn_bộ dữ_liệu .
+Tính_năng Night_Shift là nâng_cấp đáng chú_ý nhất trên i OS 9.3 .
+Theo 9to5mac , nhiều người dùng đã phải cầu_cứu trang hỗ_trợ của Apple về tình_trạng không_thể sử_dụng máy i Pad 2 sau khi nâng_cấp i OS 9.3 .
+Các máy vẫn thực_hiện quá_trình nâng_cấp bình_thường nhưng bị " đơ " ở bước cuối_cùng .
+Lý_do ban_đầu được cho là bởi máy_chủ của Apple quá_tải khi nhiều thiết_bị cùng nâng_cấp .
+Tuy_nhiên , tình_trạng nói trên vẫn tiếp_diễn sau 24h kể từ khi nhà_sản_xuất cho nâng_cấp phần_mềm .
+Cách_thức kết_nối máy với i Tunes trên máy_tính cũng được sử_dụng nhưng vẫn không có hiệu_quả với một_số người dùng .
+Thậm_chí , một_số máy còn dừng luôn ở quá_trình nâng_cấp trong DFU và mất toàn_bộ dữ_liệu .
+Apple chưa đưa ra thông_báo chính_thức về vụ_việc .
+iOS 9.3 mang đến một_số thay_đổi quan_trọng như thêm chế_độ Night_Shift giúp hạn_chế ánh_sáng xanh nhằm bảo_vệ mắt .
+Ứng_dụng ghi_chú ( Note ) cũng có_thể được khóa bằng vây tay , tăng_cường tính bảo_mật .
+Ngoài_ra , Apple cũng bổ_sung thêm tính_năng cho bộ ứng_dụng theo_dõi sức_khỏe , 3D Touch ...
+Tuấn_Hưng

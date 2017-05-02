@@ -1,0 +1,25 @@
+Học_bổng cho 50 sinh_viên thủ_khoa đầu_vào phía Nam
+Mỗi thủ_khoa được trao suất học_bổng 7 triệu đồng , học_bổng tiếng Anh 22,5 triệu đồng của Anh_văn Hội_Việt_Mỹ ( VUS ) .
+Chương_trình trao học_bổng " Nâng bước thủ_khoa " do Quỹ_Hỗ trợ Tài_năng trẻ Việt_Nam , báo Tiền_Phong và Rainbow_Media & Entertainment phối_hợp tổ_chức .
+Sự_kiện sẽ diễn ra_vào   ngày 11/11   tại hội_trường Thành_ủy TP_HCM ( 272 Võ_Thị_Sáu , phường 6 , quận 3 ) .
+Tại buổi vinh_danh , các thủ_khoa còn được giao_lưu với nhiều doanh_nhân thành_đạt trong xã_hội .
+Á_hậu Việt_Nam 2016   Huỳnh_Thị_Thùy_Dung   - sinh_viên Đại_học Ngoại_Thương cũng sẽ góp_mặt trong chương_trình .
+Sau một tháng phát_động học_bổng , Ban tổ_chức đã nhận được hơn 60 hồ_sơ ứng_cử của các thủ_khoa từ Huế đến Cà_Mau .
+Mỗi thủ_khoa tham_gia ứng_tuyển phải viết một bức thư nói về hoàn_cảnh , nỗ_lực của bản_thân để trở_thành tân_sinh viên .
+Bên_cạnh đó , bức thư cũng cần thể_hiện được ước_mơ và cống_hiến của bản_thân trong tương_lai .
+Lê_Lương_Hải - Đại_học Văn_Hóa TP_HCM là một trong nhiều thủ_khoa có hoàn_cảnh khó_khăn nhưng nỗ_lực vươn lên trong học_tập .
+Lương_Hải sinh_ra trong gia_đình nghèo ở Thanh_Hóa .
+Năm lên_lớp 8 , bố Hải ốm nặng khiến kinh_tế gia_đình kiệt_quệ , Hải phải nghỉ học một năm để làm thêm .
+Sau khi đi học lại , Hải quyết_tâm học thật giỏi .
+Thế_nhưng khi có kết_quả thi đại_học , cậu học_trò nghèo vẫn đắn_đo có nên theo tiếp hay không do hoàn_cảnh gia_đình quá khó_khăn .
+Hay như Lê_Thiên_Lý - Đại_học Nông_Lâm TP_HCM sinh_ra và lớn lên trong một gia_đình nghèo ở Bình_Định .
+Bố làm thợ_hồ , mẹ là nhân_viên vệ_sinh , mức thu_nhập ít_ỏi phải chăm_lo cho Thiên_Lý và em_trai đang học lớp 12 .
+Trong 12 năm_học , Lý luôn là học_sinh giỏi .
+Năm 2015 , Lý thi đại_học được 25,5 điểm nhưng không trúng_tuyển vào trường đã đăng_ký , nên quyết_định nghỉ học để vừa đi làm vừa ôn thi lại .
+Trong_suốt thời_gian này , Lý làm đủ công_việc như phát tờ_rơi , gia_sư , nhân_viên phục_vụ ... để kiếm tiền sinh_sống .
+Sau khi xem_xét , Ban tổ_chức đã chọn ra 50 thủ_khoa xuất_sắc , xứng_đáng nhất để trao học_bổng .   Năm 2016 , chương_trình “ Quỹ hỗ_trợ tài_năng trẻ - Nâng bước thủ_khoa 2016 ” cũng đã tổ_chức nhiều hoạt_động giới_thiệu về quỹ , vinh_danh và trao học_bổng khác .
+Quỹ_Hỗ trợ Tài_năng trẻ Việt_Nam ra_đời vào năm 1993 , do Thủ_tướng làm Chủ_tịch danh_dự , Bí_thư_thứ_nhất Trung_ương Đoàn làm Chủ_tịch Hội_đồng điều_hành .
+Trong hơn 20 năm qua , Quỹ đã vận_động các tổ_chức , cá_nhân trong và ngoài nước đóng_góp nguồn_lực , kịp_thời hỗ_trợ học_sinh , sinh_viên tài_năng có hoàn_cảnh khó_khăn .
+Ngoài_ra , còn kiến_nghị với nhà_nước nhiều chính_sách bồi_dưỡng , đào_tạo nhân_tài của đất_nước ngay từ lứa tuổi thiếu_niên .
+Nhiều doanh_nghiệp , nhà hảo_tâm hỗ_trợ quỹ trong nhiều năm liền là Anh_văn Hội_Việt_Mỹ ; Tập_đoàn Novaland ; Tập_đoàn Hoa_Sen ; Điện_tử Asanzo_Việt_Nam ; Đại_học Công_nghiệp Thực_phẩm TP_HCM ; Công_ty Cổ_phần Đầu_tư và Kinh_doanh Golf_Long_Thành , Công_ty Xử_lý chất_thải rắn Việt_Nam - VWS , Amway_Việt_Nam ; Công_ty Cổ_phần Phát_triển Hùng_Hậu ; Công_ty TNHH Vĩnh_Phát .
+An_San

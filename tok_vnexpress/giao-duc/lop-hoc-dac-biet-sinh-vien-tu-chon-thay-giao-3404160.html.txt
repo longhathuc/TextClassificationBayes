@@ -1,0 +1,35 @@
+Lớp_học đặc_biệt : Sinh_viên tự chọn thầy_giáo
+Chuyên_gia nào nhiệt_tình , dạy giỏi sẽ được học_trò lựa_chọn .
+Thu_nhập của các mentor tỷ_lệ_thuận với số câu_hỏi nhận được từ sinh_viên .
+Đó là cách sắp_xếp các mentor ( chuyên_gia ) ở Đại_học trực_tuyến FUNiX .
+Điều đặc_biệt , các mentor của trường này không phải là những nhà_giáo mang học_hàm giáo_sư , tiến_sĩ mà là những người đứng đầu trong các công_ty , doanh_nghiệp lớn .
+Ngoài kiến_thức chuyên_ngành , họ dùng những kinh_nghiệm thực_tế của mình để truyền_tải tới sinh_viên .
+Dù chương_trình học phân thành 8 học_kỳ khác_nhau , mỗi mentor cũng có những thế mạnh riêng nhưng họ không được phân môn , đứng_lớp như cách làm ở các đại_học truyền_thống .
+Thầy_giáo không_chỉ lên_lớp dạy hết tiết là xong , mà để được sinh_viên lựa_chọn , họ phải nhiệt_tình trong việc trả_lời và hướng_dẫn học_trò của mình .
+FUNiX có tới 55 mentor khác_nhau .
+Trong đó có ông Nguyễn_Thành_Nam - một trong 13 người sáng_lập ra Tập_đoàn FPT .
+Với chiến_công lớn trong việc xuất_khẩu phần_mềm cho Tập_đoàn , ông từng giữ chức CEO kiêm Chủ_tịch Hội_đồng_quản_trị của FPT Software ( Công_ty công_nghệ lớn nhất Việt_Nam ) , hay CEO của FPT .
+Hiện ông là hiệu_trưởng của FUNiX .
+Với biệt_danh là “ Nam già ” , ông được nhiều người nhớ ngay đến như một dị_nhân hàng_đầu ở FPT .
+Ông là vị thủ_lĩnh phong_trào của FPT , đồng_thời là nhân_vật biểu_trưng cho văn_hóa độc lạ ở FPT .
+Ông thường có những suy_nghĩ khác người , nhiều mơ_mộng , dí_dỏm một_cách thông_thái và đặc_biệt rất sáng_tạo .
+Với gần 30 năm kinh_nghiệm trong lĩnh_vực phần_mềm và quản_lý , hiện ông Nam vẫn được tín_nhiệm ở vai_trò Cố_vấn sáng_tạo FPT .
+Sở_hữu vẻ ngoài đẹp_trai như tài_tử Hollywood , mentor Nguyễn_Thành_Lâm là cựu CEO của FPT Software .
+Ông được nhiều người biết đến bởi những quyết_định táo_bạo .
+Từng được đào_tạo bài_bản tại Đức ở hai lĩnh_vực Công_nghệ_thông_tin và Kinh_tế , ông có 17 năm kinh_nghiệm hoạt_động nhiều lĩnh_vực như : sản_xuất , bán hàng , quản_lý nhân_sự , quản_lý chất_lượng , tài_chính , giải_pháp công_nghệ … ở nhiều quốc_gia trên thế_giới .
+Có biệt_danh là Lâm “ xoăn ” , ông từng làm nhiều người sốc khi quyết_định sử_dụng phổ_biến tiếng Anh trong toàn FPT Software từ tháng 6/2014 .
+Không kém phần nổi_danh trong giới công_nghệ ở Việt_Nam , ông Hoàng_Tô - là người đứng đầu Công_ty TNHH Công_nghệ Tin_học Tinh_Vân ( thành_lập năm 1997 ) .
+Sau hơn 20 năm hoạt_động , ông Tô đã đưa Tinh_Vân trở_thành một trong những đơn_vị đi đầu trong lĩnh_vực Công_nghệ_thông_tin , đặc_biệt là phần_mềm và nội_dung số tại Việt_Nam .
+Ông được trao_tặng nhiều giải_thưởng uy_tín trong nhiều năm qua như : Sao_Khuê , Cúp vàng Công_nghệ_thông_tin , Top 5 ICT , bằng_khen của Bộ_trưởng Bộ Thông tin - Truyền_thông và Văn_phòng Chính_phủ …
+Ông từng tốt_nghiệp Thạc_sĩ Vật_lý lý_thuyết tại Đại_học Tổng_hợp Quốc_gia Lomonosov ( Nga ) , sau đó về nước đồng sáng_lập một Trung_tâm phần_mềm , tiền_thân của công_ty Tinh_Vân .
+Ngoài khả_năng về công_nghệ , ông còn được biết đến với biệt_tài làm thơ và nổi_tiếng với dự_án Thơ_Máy ( thomay.vn ) từ năm 2001 .
+Đây là công_trình minh_chứng cho thấy các thuật_toán xử_lý ngữ_nghĩa tiếng Việt và trí_tuệ_nhân_tạo ngày_càng được tối_ưu .
+Còn ông Nguyễn_Việt_Quang - Giám_đốc Công_nghệ của Công_ty UDC ( Universal_Data_Communication ) đã tốt_nghiệp Thạc_sĩ chuyên_ngành Khoa_học máy_tính của Học_viện Bách_Khoa_Kiev , Ukraine .
+Với 15 năm kinh_nghiệm trong lĩnh_vực phần_mềm , ông Quang đã có 9 năm va_vấp ở mảng thương_mại tại thị_trường Singapore , đặc_biệt là mảng thiết_kế cũng_như phát_triển đa nền_tảng và môi_trường mạng ; 6 năm nghiên_cứu C / C + + và Java lập_trình đa nền_tảng .
+Ông có nhiều hiểu_biết với RDBMS ; kinh_nghiệm phát_triển và lãnh_đạo dự_án ; sở_hữu chứng_chỉ Brainbench và re Certifications mà nhiều người mơ_ước .
+Thời đi học , ông Quang từng đoạt nhiều giải_thưởng danh_giá như Olympic_Toán học tổ_chức giữa Học_viện Thực_hành và các trường đại_học tại Ukraine ; giải Tư_Olympic_Toán học giữa tất_cả các trường đại_học và các nước cộng_hòa thuộc Liên_bang Xô_Viết .
+Các mentor còn lại ở FUNiX đều là những người có hàng chục năm kinh_nghiệm và hiện nắm giữ các chức_vụ quan_trọng trong các công_ty công_nghệ hàng_đầu Việt_Nam .
+Điều đặc_biệt là họ không lên_lớp đứng giảng mà chỉ nhận trả_lời các câu_hỏi , hướng_dẫn sinh_viên qua hệ_thống online .
+Với cơ_chế trả lương khác_biệt , mức thu_nhập của các mentor tỷ_lệ_thuận với số câu_hỏi nhận được từ sinh_viên .
+Do_vậy , mentor nào được nhiều sinh_viên chọn hỏi thì càng nhận được thu_nhập cao .
+N.Loan

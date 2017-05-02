@@ -1,0 +1,25 @@
+Số_nguyên_tố mới dài 9,3 triệu chữ_số
+Hàng nghìn người trên thế_giới cùng tìm ra một trong những số_nguyên_tố lớn nhất dài hơn 9 triệu chữ_số .
+Với độ dài hơn 9 triệu chữ_số , số_nguyên_tố mới tìm thấy là số lớn thứ_bảy được phát_hiện từ trước đến nay , trở_thành đáp_án tiềm_năng thứ 5 cho bài_toán của Sierpinski đặt ra từ hàng chục năm trước , Science_Alert hôm 28/11 đưa tin .
+Được nhà toán_học người Ba_Lan_Wac ł aw Sierpinski nêu ra_vào năm 1960 , bài_toán Sierpinski yêu_cầu tìm ra số nhỏ nhất có_thể đáp_ứng những điều_kiện cho trước .
+Số_Sierpinski phải là một số_lẻ dương , và biến k trong công_thức k × 2n +1 phải là một hợp_số ( tức không phải số_nguyên_tố ) .
+Nói cách khác , nếu k là số Sierpinski , tất_cả các biến trong công_thức k × 2n +1 đều phải là hợp_số .
+Để chứng_minh k là một_số Sierpinski , người giải phải chứng_minh k × 2n +1 là một hợp_số thỏa_mãn mọi n .
+Nếu n là một_số nguyên_tố , đáp_án không đúng .
+" Những điều_kiện này khiến đáp_án trở_nên rất ít và các con_số phù_hợp nằm cách xa nhau nên rất khó tìm " , New_Scientist dẫn lời Timothy_Revell .
+Hiện_nay , số Sierpinski nhỏ nhất_là 78.557 , được đưa ra bởi nhà toán_học John_Selfridge người Mỹ vào năm 1962 .
+Nhưng các nhà_khoa_học không loại_trừ khả_năng tồn_tại số khác nhỏ hơn .
+Trong hơn 50 năm qua , các nhà toán_học tìm thấy 6 con_số tiềm_năng có_thể là số Sierpinski nhỏ nhất , bao_gồm 10.223 , 21.181 , 22.699 , 24.737 , 55.459 và 67.607 .
+Tuy_nhiên , chưa có nhà_khoa_học nào chứng_minh được con_số họ đưa ra là một_số Sierpinski .
+Dự_án nhỏ " Seventeen or Bust " trong dự_án tìm_kiếm số_nguyên_tố PrimeGrid kêu_gọi các tình_nguyện_viên giúp_đỡ chứng_minh một con_số cụ_thể là một_số nguyên_tố trên máy_tính .
+" Người dùng tải phần_mềm vào máy_tính của họ và tham_gia vào các nhóm khác_nhau tùy_thuộc vào loại số_nguyên_tố mà họ quan_tâm tìm_kiếm " , Iain_Bethune từ PrimeGrid cho_biết .
+Trong một nỗ_lực để giải_quyết bài_toán Sierpinski , dự_án tìm thấy số_nguyên_tố lớn thứ_bảy từng được ghi_nhận , có giá_trị bằng 10.223 × 231172165 + 1 .
+Với 9.383.761 chữ_số , một máy_tính_cá_nhân cần nhiều thế_kỷ để tìm ra con_số này .
+Nó được phát_hiện nhờ vào sức_mạnh của hàng nghìn máy_tính cùng lúc trong thời_gian 8 ngày .
+Nhưng số_nguyên_tố này còn đặc_biệt vì một lý_do khác , nó đã bỏ được một trong sáu kết_quả tiềm_năng cho vị_trí trở_thành số Sierpinski .
+Ngoài nó ra , chỉ còn 5 con_số tiềm_năng khác .
+" Đây là số_nguyên_tố lớn nhất từng được tìm thấy trong nỗ_lực giải_đáp bài_toán Sierpinski và biến k = 10.223 của nó rất có_thể là số Sierpinski " , PrimeGrid thông_báo .
+Tuy_nhiên , số_nguyên_tố trên chưa phải số có lượng chữ_số dài nhất .
+Số có lượng chữ_số nhiều nhất được tìm thấy hồi tháng 1 với độ dài 22 triệu chữ_số .
+Xem thêm :   Tìm thấy số_nguyên_tố lớn nhất từ trước tới nay
+Quang_Niên

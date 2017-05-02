@@ -1,0 +1,37 @@
+Những công_nghệ tiên_tiến giúp phát_hiện thực_phẩm bẩn
+Nhờ những thiết_bị chuyên_dụng , các phòng_thí_nghiệm ở Anh có_thể phát_hiện sữa chứa phooc - môn hoặc gạo có lượng thạch_tín cao .
+Hiện_nay , thị_trường bán_lẻ thực_phẩm toàn_cầu có tổng giá_trị lên đến 4.000 tỷ USD và vẫn đang phát_triển nhanh_chóng .
+Một_số dự_báo chỉ ra đến năm 2020 , thị_trường này sẽ đạt giá_trị hơn 8.000 tỷ USD .
+Do có quy_mô lớn , chuỗi cung_ứng thực_phẩm ngày_càng trở_nên phức_tạp hơn và các tổ_chức tội_phạm đang gian_lận hàng tỷ USD bằng cách trộn lẫn hóa_chất rẻ_tiền và nguy_hiểm vào thực_phẩm trong quá_trình sản_xuất , gây nguy_hại cho sức_khỏe người tiêu_dùng .
+Theo BBC , một nhóm chuyên_gia tại Viện_An toàn Thực_phẩm Toàn_cầu thuộc Đại_học Queen ở Belfast , Anh , đứng đầu là giáo_sư Chris_Elliott , đang nghiên_cứu các công_nghệ mới nhằm phát_hiện hành_vi gian_lận trong sản_xuất thực_phẩm .
+Để thực_hiện các phân_tích , phòng_thí_nghiệm của trung_tâm trang_bị nhiều thiết_bị chuyên_dụng với khả_năng phát_hiện độc_tố và hóa_chất trong thực_phẩm .
+Ví_dụ , để kiểm_tra các mẫu lá oregano , họ sử_dụng một chiếc máy cầm tay để tiến_hành phân_tích quang_phổ học .
+" Phương_pháp này khá đơn_giản .
+Chúng_tôi sẽ chiếu ánh_sáng vào thực_phẩm .
+Sau đó , năng_lượng từ ánh_sáng sẽ làm các phân_tử thức_ăn dao_động và chúng_tôi sẽ thu được một mô_hình dao_động .
+Mỗi phân_tử sẽ rung_động theo cách hơi khác_nhau , vì_vậy khi đo_lường tất_cả rung_động , bạn sẽ tìm ra dấu_vết của chúng .
+Phương_pháp trên có độ_chính_xác rất cao " , giáo_sư Elliott nói .
+Nhóm nghiên_cứu hy_vọng trong tương_lai công_cụ này có_thể được các thanh_tra thực_phẩm sử_dụng để kiểm_tra thức_ăn tại_chỗ .
+Những xét_nghiệm khác được tiến_hành để xác_định liệu thực_phẩm có chứa độc_tố hay không .
+Ví_dụ , sử_dụng cảm_biến sinh_học có chứa kháng_thể .
+Các protein trong hệ_miễn_dịch của động_vật sẽ liên_kết với mầm bệnh hoặc độc_tố nhất_định để trung_hòa chúng .
+Nếu liên_kết xảy_ra ở một trong các kháng_thể nghĩa_là trong thực_phẩm tồn_tại một loại độc_tố nào_đó .
+Gần_như mọi thực_phẩm đều có khả_năng nhiễm hóa_chất độc_hại .
+Thuốc_nhuộm công_nghiệp đôi_khi được thêm vào gia_vị để tạo màu_sắc hấp_dẫn hơn .
+" Một_cách gian_lận phổ_biến là thêm chất bảo_quản vào sữa để ngăn sữa biến_chất trong quá_trình vận_chuyển .
+Một trong những chất bảo_quản thường được thêm vào là phooc - môn " , giáo_sư Elliott cho_biết .
+" Phooc-môn là một chất_độc có_thể gây chết người " .
+Ngay cả khi nhà_sản_xuất không cố_ý trộn chất_độc vào sản_phẩm , thực_phẩm vẫn có nguy_cơ chứa độc_tố .
+Tùy vào địa_điểm và cách trồng lúa , gạo có_thể chứa hàm_lượng cao thạch_tín , một kim_loại nặng làm tăng nguy_cơ ung_thư .
+Một kỹ_thuật được sử_dụng để phát_hiện kim_loại nặng như chì hoặc catmi là chiếu hình_ảnh huỳnh_quang bằng tia X .
+Khi chiếu vào mẫu_vật , tia X khiến các electron tách khỏi nguyên_tử .
+Cùng lúc đó , các photon mang năng_lượng cũng được giải_phóng .
+Bằng cách đo năng_lượng photon , các chuyên_gia có_thể xác_định những nguyên_tố có_mặt trong mẫu_vật .
+Phòng_thí_nghiệm của Viện_An toàn Thực_phẩm Toàn_cầu không_chỉ phân_tích các chất và hợp_chất nguy_hiểm có trong thực_phẩm mà_còn xác_định sản_phẩm đóng_gói có thực_sự giống với quảng_cáo trên bao_bì hay không .
+Một công_cụ giúp xác_định rõ loại sản_phẩm , chẳng_hạn như các loại cá khác_nhau , là " i-knife " ( Con dao thông_minh ) , được phát_triển bởi Zoltan_Takats , một bác_sĩ phẫu_thuật tại Đại_học Imperial_College , London , Anh .
+Con dao gắn một đèn laser có tác_dụng làm bốc_hơi các phân_tử .
+Khói sẽ được hút vào một máy đo quang_phổ để phân_tích .
+Electron bắn vào đám khói làm tan_rã các phân_tử , cho_phép máy_tính sắp_xếp nguyên_tử dựa trên tĩnh_điện của chúng .
+Chỉ bằng những lát cắt nhỏ , nhóm của giáo_sư Elliott có_thể thu được kết_quả phân_tích khói của từng mẫu_vật và chỉ rõ sự khác_nhau giữa các loài cá .
+Xem thêm :   10 công_nghệ nổi_bật năm 2016
+Phương_Chu

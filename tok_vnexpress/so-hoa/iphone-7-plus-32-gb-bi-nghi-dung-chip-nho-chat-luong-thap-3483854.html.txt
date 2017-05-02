@@ -1,0 +1,19 @@
+iPhone 7 Plus 32 GB bị nghi dùng chip nhớ chất_lượng thấp
+Tốc_độ đọc / ghi của i Phone 7 Plus 32 GB thấp hơn nhiều so với i Phone 7 128 GB và i Phone 6s Plus 64 GB , dấy lên mối nghi_ngờ cho rằng chip nhớ dung_lượng thấp có chất_lượng kém hơn chip nhớ dung_lượng cao .
+Để kiểm_tra khả_năng lưu_trữ dữ_liệu trên i Phone 7 Plus 32 GB , GSMArena mới_đây đã tiến_hành thử_nghiệm thiết_bị này với i Phone 7 128 GB và i Phone 6s Plus 64 GB .
+Đầu_tiên , nhóm nghiên_cứu cho các máy chạy Basemark OS_II , một phần_mềm đo hiệu_năng i Phone , trong đó có đánh_giá bộ_nhớ .
+Kết_quả , iPhone 7 Plus đạt 839 điểm , trong khi i Phone 7 đạt 1.721 và i Phone 6s Plus đạt 1.422 điểm .
+Bởi mức chênh_lệch khá lớn , nhóm nghiên_cứu tiếp_tục phép thử bằng PassMark .
+Số_liệu từ phần_mềm này cho thấy , tốc_độ đọc / ghi dữ_liệu trên i Phone 7 Plus chậm nhất trong số 3 thiết_bị được thử_nghiệm .
+Riêng tốc_độ ghi dữ_liệu chỉ 39,6 Mb/giây , bằng 1/5 so với i Phone 6s Plus ( 200,6 Mb/giây ) và chưa đến 1/7 so với i Phone 7 ( 308 Mb/giây ) .
+Tốc_độ đọc của máy cũng chỉ nhỉnh hơn i Phone 6s Plus .
+Số điểm từ PassMark cho i Phone 7 Plus cũng thấp nhất , chỉ hơn 43.000 điểm .
+Ở bài kiểm_tra cuối_cùng , nhóm nghiên_cứu sử_dụng các thiết_bị trên để quay video độ_phân_giải 4K trong 10 phút , sau đó biên_tập lại bằng phần_mềm trong máy , sao cho thời_gian chiếu được rút ngắn còn 5 phút .
+Trong quá_trình này , thiết_bị nào hoàn_thành sớm nhất_là tốt hơn . iPhone 7 Plus tiếp_tục chậm chân hơn , khi thời_gian hoàn_thành là 52 giây , trong khi i Phone 7 chỉ mất 17 giây .
+Kết_quả thử_nghiệm về khả_năng lưu_trữ của i Phone 7 Plus 32 GB với i Phone 6s Plus 64 GB và i Phone 7 128 GB .
+Kết_quả thử_nghiệm khiến nhiều người suy_đoán rằng , chip nhớ dung_lượng thấp của Apple có chất_lượng kém hơn chip dung_lượng cao .
+Tuy_nhiên , theo nhóm nghiên_cứu , sự khác_biệt trên có_thể đến từ các nhà_sản_xuất chip nhớ cho Apple .
+" Có_thể với mỗi nhà_sản_xuất khác_nhau , cách tạo ra chip nhớ sẽ khác_nhau , từ đó chất_lượng cũng không đồng_đều .
+Tuy_nhiên , chúng_tôi đang tìm_hiểu vấn_đề trước khi đưa ra kết_luận " , đại_diện nhóm cho_biết .
+Apple vẫn chưa có bình_luận nào sau kết_quả thử_nghiệm này .
+Bảo_Lâm

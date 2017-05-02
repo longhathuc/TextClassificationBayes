@@ -1,0 +1,15 @@
+Nhiều máy_tính tại Việt_Nam dính phần_mềm nguy_hiểm
+Máy_tính của Dell , HP , Lenovo , Acer và Asus được phát_hiện cài sẵn   phần_mềm chứa lỗ_hổng dễ bị tấn_công để đánh_cắp dữ_liệu hay nghe lén người dùng .
+Theo   Duo_Security , công_cụ cập_nhật phần_mềm của 5 hãng máy_tính hàng_đầu thế_giới   có_thể bị tấn_công theo phương_thức   " man-in-the-middle " .
+Cụ_thể , hacker sẽ xen giữa máy của người dùng và máy_chủ để lừa_đảo , đưa ra bản cập_nhật giả thay_vì phần_mềm của nhà_sản_xuất .
+Bằng cách trên , tin_tặc có_thể cài_đặt phần_mềm độc_hại , các ứng_dụng nghe lén , giám_sát , thậm_chí là chiếm quyền kiểm_soát máy_tính .
+Nhóm bảo_mật tuyên_bố , máy_tính của   Acer , Asus , Dell , Hewlett-Packard ( HP ) và Lenovo chứa ít_nhất một trong số 12 lỗ_hổng được phát_hiện .
+Hơn 100 mẫu laptop và desktop của Lenovo cài sẵn phần_mềm có_thể bị tấn_công .
+Đội nghiên_cứu bảo_mật cho_biết , Lenovo đã theo nhóm trong_suốt quá_trình nghiên_cứu và là hãng đưa ra cảnh_báo sớm nhất cho người dùng .   Công_ty thừa_nhận ứng_dụng Accelerator_Application được cài sẵn trên hơn 100 mẫu máy_tính của hãng dễ bị tấn_công và khuyên người dùng cần nhanh_chóng gỡ bỏ .
+Phần_mềm này giúp kết_nối đến máy_chủ của Lenovo , kiểm_tra và thông_báo các bản cập_nhật cho người dùng .   Accelerator
+Application được Lenovo cài trên hơn 100 mẫu desktop và laptop chạy Windows 10 , trừ ThinkPad và ThinkStation .
+Để gỡ cài_đặt , Lenovo hướng_dẫn truy_cập Apps and Features trên Windows 10 , chọn phần_mềm   Lenovo_Accelerator_Application rồi bấm Uninstall .
+Xem danh_sách các thiết_bị của Lenovo bị ảnh_hưởng tại đây .
+Trong số này , có nhiều máy_tính được bán tại Việt_Nam như dòng Yoga ,   Ideapad Y700 ...
+Theo Duo_Security , hiện   Hewlett-Packard ( HP ) đã phản_hồi báo_cáo an_ninh của nhóm và cho_biết đã vá các lỗ_hổng có độ nguy_hiểm cao .
+Asus và Acer cũng hồi_đáp nhưng chưa đưa ra lịch_trình sửa lỗi .

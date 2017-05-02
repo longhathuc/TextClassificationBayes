@@ -1,0 +1,30 @@
+5 tính_năng độc_đáo của Mocha
+Bói đôi , nghe nhạc nhóm , tải nhạc cá_nhân , nghe quanh đây và mạng xã_hội mang đến nhiều trải_nghiệm mới_lạ cho người dùng .
+Mocha hiện cán mốc 3 triệu người dùng chỉ sau một năm ra_mắt .
+Đây không_chỉ là ứng_dụng liên_lạc mà_còn là mạng xã_hội với nhiều tính_năng , tiện_ích khác_biệt .
+Dưới đây là những tính_năng thú_vị mà Mocha mang đến cho người dùng .
+Bói đôi
+Đây là chương_trình trắc_nghiệm Horoscope dựa trên mật_ngữ 12 chòm_sao để dự_đoán mức_độ hợp nhau giữa bạn và một người khác theo ngày_sinh .
+Người ấy có_thể là người_thân trong danh_bạ điện_thoại hoặc người lạ mà bạn thấy trên Mocha và có ý_định làm_quen .
+Để xem mức_độ hợp nhau của mình với ai đó , bạn vào Profile của người đó trên Mocha rồi bấm nút " Bói đôi " ( Horoscope ) .
+Vừa ra_mắt đầu tháng 4 , ứng_dụng này đã đạt hàng trăm_nghìn lượt người dùng và chia_sẻ kết_quả trắc_nghiệm qua Facebook .
+Hiện_tại , Bói đôi mới chỉ ra phiên_bản cho điện_thoại hệ_điều_hành Android , các hệ_điều_hành khác sẽ sớm được cập_nhật tính_năng thú_vị này .
+Nghe nhạc nhóm
+Tính_năng Cùng nghe từ lâu đã là một " đặc_sản " của Mocha .
+Một bài hát sẽ được phát cùng lúc cho 2 người đang nhắn_tin với nhau qua Mocha , khiến họ có cảm_thấy như được gần nhau hơn nhờ âm_nhạc kết_nối cảm_xúc .
+Giờ_đây bạn có_thể nghe nhạc chung trong nhóm lên tới 500 người .
+Khi đang chat nhóm , có_thể mời mọi người cùng nghe bài hát , thành_viên nào bấm " Đồng_ý " sẽ được nghe bài hát đó .
+Nếu tất_cả cùng " Đồng_ý " , bài hát của bạn sẽ được phát cho cả nhóm .
+Tải nhạc cá_nhân lên Cùng nghe
+Nâng_cấp này của Mocha hồi đầu tháng 4 được người dùng ủng_hộ nhiệt_tình .
+Thay_vì chỉ tìm_kiếm bài hát có sẵn trên Mocha để mời cùng nghe như trước , có_thể mời cùng nghe bài hát của mình có trong điện_thoại bằng cách tải bài hát đó lên Mocha .
+Mời ai đó cùng nghe trên Mocha những bài hát mà bạn yêu_thích .
+Nghe quanh đây
+Đây chính là tính_năng được những người yêu_thích Mocha mong_đợi từ lâu .
+Việc tìm_kiếm bạn mới luôn là điều hấp_dẫn đối_với giới trẻ .
+Trang " Tìm bạn nghe nhạc " ( Listen with Strangers ) trên Mocha đã là góc thân_quen của hàng triệu người .
+Giờ_đây , chỉ bằng một lần chạm nút " Quanh đây " ( Near you ) bạn sẽ biết ai đang ở gần mình , bao_nhiêu tuổi , là nam hay nữ , đang nghe bài hát gì … Chẳng_những có_thể kết_bạn làm_quen mà nếu thấy hợp nhau , các bạn có_thể gặp_gỡ thật dễ_dàng .
+Cập_nhật nội_dung
+Bảng tin " Hot " trên Mocha mới ra_mắt đầu năm 2016 nhưng đã có hàng triệu lượt tương_tác .
+Đây là nơi bạn có_thể xem những bài báo , video , truyện_tranh , bài hát … phù_hợp với mình , hoặc chia_sẻ những nội_dung yêu_thích đó cho bạn_bè cùng thưởng_thức , bình_luận , chia_sẻ .
+Minh_Trí

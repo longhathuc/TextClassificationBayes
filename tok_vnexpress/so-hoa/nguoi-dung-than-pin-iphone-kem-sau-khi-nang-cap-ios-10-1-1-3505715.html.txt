@@ -1,0 +1,18 @@
+Người dùng than pin i Phone kém sau khi nâng_cấp i OS 10.1.1
+Hệ_điều_hành của Apple phiên_bản mới nhất bị phàn_nàn khiến i Phone nhanh hết pin , một_số trường_hợp máy tự tắt dù pin còn vài chục % .
+Theo tổng_hợp của TheNextWeb , nhiều người dùng nói rằng họ đã gặp lỗi khó_chịu sau khi nâng_cấp lên i OS 10.1.1 .
+Trong một chủ_đề   kéo_dài đến 13 trang   trên diễn_đàn hỗ_trợ của Apple , khách_hàng khiếu_nại i Phone của họ sụt pin rất nhanh .
+Tài_khoản Mjolcresure cho_biết đã nâng_cấp i OS 10.1 cho chiếc i Phone 5 và pin của thiết_bị giảm đột_ngột từ 30% xuống còn 1% rồi tắt máy .
+Khi cắm sạc trở_lại , máy hiện 30% và dùng bình_thường vài giờ sau đó .
+Một lần khác , người này tắt máy khi còn 80% để đi ngủ nhưng sáng hôm_sau không_thể bật lên .
+Mjolcresure cắm sạc cho máy , thiết_bị khởi_động lên với 30% pin .
+Mạng xã_hội Twitter cũng ghi_nhận nhiều phàn_nàn của người dùng về vấn_đề này .
+" Có ai thấy pin i Phone 6 của mình chỉ dùng được trong 20 phút với bản cập_nhật i OS mới nhất không ? " .
+" Gỡ sạc i Phone khi máy đạt 100%
+Trượt để mở khóa
+Pin còn 43% "
+Tuần trước , Apple thông_báo sẽ sửa_chữa miễn_phí những chiếc i Phone 6s bị lỗi pin .
+Tuy_nhiên sự_cố pin sụt pin nhanh dường_như ảnh_hưởng đến cả những thiết_bị khác của công_ty công_nghệ Mỹ .
+Một_số người dùng chia_sẻ giải_pháp khắc_phục của họ là tắt tính_năng Raise to Wake trên các model đời_mới .
+Song cách này không có tác_dụng với tất_cả mọi người .
+Apple hiện chưa đưa ra biện_pháp hỗ_trợ cho khách_hàng .

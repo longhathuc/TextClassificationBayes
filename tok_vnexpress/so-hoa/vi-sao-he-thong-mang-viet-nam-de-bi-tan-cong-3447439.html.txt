@@ -1,0 +1,22 @@
+Vì_sao hệ_thống mạng Việt_Nam dễ bị tấn_công
+Chưa đầu_tư đồng_bộ cho bảo_mật thông_tin , thiếu nhân_lực và giải_pháp đồng_bộ là những nguyên_nhân khiến các webiste dễ bị " đổ gục " trước các cuộc tấn_công .
+Theo thống_kê của BKAV , trung_bình mỗi tháng ở Việt_Nam có 300 website của các tổ_chức , doanh_nghiệp bị hacker tấn_công và tới 40% trang_web trong nước tồn_tại lỗ_hổng bảo_mật .
+Việt_Nam cũng nằm trong danh_sách quốc_gia có tỷ_lệ lây_nhiễm phần_mềm độc_hại cao nhất thế_giới là 66% .
+35% người dùng phải đối_mặt với các mối đe_dọa tấn_công khi duyệt web , đứng thứ_ba thế_giới sau Nga và Trung_Quốc , Kaspersky_Lab đánh_giá .
+Đáng chú_ý , những cuộc tấn_công nói trên có sự tham_gia của chính người dùng khi họ tải về các tập_tin có dính mã độc .
+Màn_hình hiển_thị thông_tin sân_bay ở Nội_Bài chiều 29/7 đã bị tắt sau khi bị tin_tặc tấn_công , chèn thông_tin xấu .
+Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) ghi_nhận hơn 30.000 sự_cố an_ninh tại Việt_Nam trong năm 2015 .   Mất an_toàn và an_ninh thông_tin đối_với các tổ_chức Nhà_nước được đánh_giá ở mức_độ nghiêm_trọng khi có hàng trăm website , cổng thông_tin điện_tử của các cơ_quan Nhà_nước bị nhiễm mã độc và lây_lan đến các máy_tính trong mạng , hoặc bị tấn_công thay_đổi giao_diện .
+Ông Lê_Duy_Đạt , Giám_đốc Trung_tâm Tư_vấn hệ_thống CNTT tại HiPT , chia_sẻ , hầu_hết các doanh_nghiệp Việt_Nam vẫn chưa đầu_tư đồng_bộ cho lĩnh_vực an_toàn , bảo_mật thông_tin .
+Hoặc có quan_tâm nhưng chưa có chiều sâu .
+Bởi_thế , nguy_cơ tiềm_ẩn về các lỗ_hổng thông_tin hay sự mất an_toàn trong bảo_mật rất dễ xảy_ra , với bất_kỳ doanh_nghiệp hay lĩnh_vực nào .
+" Một_số doanh_nghiệp Việt_Nam còn có tư_tưởng chắp_vá trong quá_trình xây_dựng và vận_hành hệ_thống thông_tin , sử_dụng quá nhiều nhà_cung_cấp giải_pháp và hãng sản_xuất thiết_bị khiến hệ_thống phức_tạp dẫn đến vận_hành quản_trị gặp khó_khăn " , ông Đạt phân_tích .
+Bên_cạnh đó , việc rà_soát , phát_hiện rủi_ro tiềm_tàng như website , hệ_thống tên_miền , mail … không được làm thường_xuyên .
+Theo lãnh_đạo HiPT , nhiều đơn_vị thiếu hệ_thống quản_trị , vận_hành an_ninh bảo_mật tập_trung ( SoC ) , chưa có   những giải_pháp phòng_chống các hình_thức tấn_công mạng kiểu mới như tấn_công có chủ_đích ( APT ) .
+Một trong những vụ APT nghiêm_trọng là hệ_thống của Vietnam_Airlines bị tin_tặc tấn_công chiều 29/7 , theo Hiệp_hội An_toàn thông_tin Việt_Nam ( VNISA ) .
+Ông Ngô_Tuấn_Anh , Phó_chủ_tịch phụ_trách An_ninh mạng BKAV , cho rằng việc tồn_tại nhiều lỗ_hổng là nguyên_nhân chính của các vụ lọt thông_tin thẻ_tín_dụng , bí_mật kinh_doanh dẫn đến việc các công_ty , tổ_chức bị xâm_nhập , bị đánh_cắp thông_tin xảy_ra thường_xuyên trong vài năm gần đây .
+Các cơ_quan , doanh_nghiệp Việt_Nam chưa đầu_tư đúng_mức cho an_ninh thông_tin .
+Nhấn_mạnh vào yếu_tố thiết_bị , công_nghệ và con_người nhưng ông Tuấn cho_biết , việc điều_phối ứng_phó với an_ninh mạng cũng đặc_biệt quan_trọng .
+Trong trường_hợp xảy_ra sự_cố cần tổng_hợp các nguồn_lực nhưng nếu_không có kịch_bản để ứng_phó thì hệ_thống nhân_lực và nguồn_lực đều không có giá_trị .
+Lãnh_đạo BKAV so_sánh việc này tương_tự các cuộc diễn_tập phòng cháy , chữa_cháy được thực_hiện suốt nhiều năm qua .
+Xem thêm :
+>   Virus máy_tính gây thiệt_hại 8.700 tỷ đồng mỗi năm >   Hơn 90% router dính lỗ_hổng tại Việt_Nam đến từ Trung_Quốc

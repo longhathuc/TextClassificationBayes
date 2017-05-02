@@ -1,0 +1,15 @@
+Galaxy_Note 7 tự giảm độ_phân_giải màn_hình để tiết_kiệm pin
+Samsung chọn cách hạ độ_phân_giải xuống Full HD hoặc HD để làm giảm lượng tiêu_thụ điện_năng , tiết_kiệm pin cho người dùng khi cần_thiết .
+Galaxy_Note 7 có nhiều tùy chỉnh để tiết_kiệm pin .
+Chế_độ tiết_kiệm pin có trong hầu_hết các mẫu smartphone ngày_nay sẽ được tự bật khi pin còn dưới khoảng 20% .
+Cách_thức hoạt_động là máy sẽ hạ công_suất của hệ_thống xử_lý , giảm độ sáng màn_hình .
+Tuy_nhiên , Samsung lại trang_bị chế_độ tiết_kiệm pin có nhiều khác_biệt trên Galaxy_Note 7 .
+Đúng như các tin_đồn từ trước , Note 7 cho_phép người dùng giảm độ_phân_giải từ QHD xuống còn Full HD hoặc HD để giảm lương tiêu_thụ năng_lượng .
+Đây được cho là cách làm hiệu_quả bởi màn_hình là thành_phần gây tốn pin nhiều nhất trên các smartphone ngày_nay .
+Nhà_sản_xuất cung_cấp ba chế_độ bao_gồm Tắt , Mid và Max .
+Ở chế_độ Tắt , máy sẽ hoạt_động như bình_thường , giữ nguyên độ_phân_giải 2.560 x 1.440 pixel ( mật_độ điểm_ảnh 515 ppi ) .
+Ở chế_độ Mid , máy giảm về độ_phân_giải Full HD , mật_độ điểm_ảnh còn 386 ppi .
+Ở chế_độ tiết_kiệm pin tối_đa , độ_phân_giải chỉ còn HD , mật_độ điểm_ảnh 258 ppi .
+Ngoài_ra , máy cũng sẽ giảm độ sáng khoảng 80% so với chế_độ thông_thường .
+Theo lý_giải của Samsung , chế_độ tiết_kiệm này có_thể giúp Galaxy_Note 7 kéo_dài tuổi_thọ pin lên đến 35 tiếng .
+Video trình quản_lý pin của Galaxy_Note 7 :

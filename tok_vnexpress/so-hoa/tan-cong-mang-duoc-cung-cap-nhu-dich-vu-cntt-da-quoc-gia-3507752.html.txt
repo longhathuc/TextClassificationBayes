@@ -1,0 +1,15 @@
+' Tấn_công mạng được cung_cấp như dịch_vụ CNTT đa quốc_gia '
+Thứ_trưởng Bộ Thông tin Truyền_thông Nguyễn_Thành_Hưng cho_biết tình_hình an minh mạng đang diễn_biến phức_tạp , hacker ngày_một chuyên_nghiệp hơn trong việc cung_cấp dịch_vụ theo đơn đặt_hàng .
+Tại sự_kiện Ngày_An toàn thông_tin ( ATTT ) diễn ra sáng 2/12 ở Hà_Nội , Thứ_trưởng Nguyễn_Thành_Hưng cho_hay vấn_đề an_toàn thông_tin đang trở_nên rất phức_tạp , mang thêm màu_sắc chính_trị với nhiều cuộc tấn_công quy_mô lớn .
+" Đây là xu_hướng tất_yếu và Việt_Nam cũng không ngoại_lệ .
+Thế_giới ngầm của các hacker hoạt_động chuyên_nghiệp với các công_cụ , vũ_khí tấn_công được xây_dựng bởi những lực_lượng có chuyên_môn cao , đầu_tư lớn và bài_bản , thậm_chí được cung_cấp như một dịch_vụ CNTT ở quy_mô xuyên quốc_gia " , đại_diện Bộ TT& TT nhấn_mạnh .
+Nhiều cáo_buộc về việc can_thiệp , làm mất an_toàn thông_tin giữa các quốc_gia đã xuất_hiện , nhưng hiện vấn_đề xung_đột mạng vẫn còn mới_mẻ và chưa được quy_định chặt_chẽ , chưa chính_thức có hiệp_ước hay luật_quốc_tế nào về an_toàn an_ninh mạng ra_đời .
+Thứ_trưởng Bộ TTTT Nguyễn_Thành_Hưng cho_biết hacker đang cung_cấp dịch_vụ tấn_công mạng theo đơn đặt_hàng một_cách chuyên_nghiệp .
+Theo ông Jong_Hyun_Park , đại_diện Dasan_Zhone_Solutions , khi công_nghệ ngày_một phát_triển , an_toàn thông_tin trở_thành mối quan_tâm hàng_đầu , đặc_biệt trong ngành viễn_thông vì có_thể dẫn đến sự đe_dọa an_ninh một quốc_gia .
+Rủi_ro về bảo_mật có_thể đến bất_kỳ lúc_nào , có_thể từ một thiết_bị kết_nối Internet đơn_giản nếu người dùng không có nhận_thức đúng_đắn ngay từ đầu .
+Các tổ_chức , doanh_nghiệp cần phòng_ngừa , như triển_khai giải_pháp phát_hiện cảnh_báo , ngăn_chặn và loại_bỏ kịp_thời các rủi_ro tiềm_ẩn từ bên trong tổ_chức .
+Tại sự_kiện , Hiệp_hội An_toàn thông_tin Việt_Nam ( VNISA ) cũng công_bố , Chỉ_số An_toàn thông_tin Việt_Nam 2016 đạt 59,9% - lần đầu_tiên vượt ngưỡng trung_bình ( 50% ) và tăng 13,5% so với năm 2015 .
+Ông Vũ_Quốc_Khánh , Ủy_viên Ban_chấp_hành VNISA , kỳ_vọng chỉ_số này tiếp_tục tăng lên trên 60% năm tới , khi hành_lang_pháp_lý về an_toàn thông_tin mạng đã dần hoàn_thiện .
+Hầu_hết các yếu_tố cấu_thành Chỉ_số ATTT Việt_Nam 2016 đều tăng , nhất_là về nhận_thức , sự hiểu_biết và áp_dụng công_nghệ đảm_bảo ATTT của các tổ_chức , doanh_nghiệp .
+Ông Jong_Hyun_Park cho_hay nhiều công_ty đã áp_dụng những giải_pháp , thiết_bị phù_hợp nhằm hạn_chế rủi_ro , nhưng việc nâng cao nhận_thức mới là điều cần nhất với doanh_nghiệp và người tiêu_dùng Việt_Nam lúc này .
+Đặc_biệt , họ cần hiểu rằng xu_hướng Internet vạn_vật ( IoT ) là một cuộc cách_mạng số không_thể chối_cãi với những cơ_hội rất lớn nhưng đi kèm không ít rủi_ro .

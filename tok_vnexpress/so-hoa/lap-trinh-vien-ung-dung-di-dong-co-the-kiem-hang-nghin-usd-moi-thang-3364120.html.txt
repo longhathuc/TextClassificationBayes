@@ -1,0 +1,41 @@
+Lập_trình_viên ứng_dụng di_động có_thể kiếm hàng nghìn USD mỗi tháng
+Theo các chuyên_gia , chuyện viết ứng_dụng kiếm hàng nghìn USD ở Việt_Nam không phải hiếm , tuy_nhiên , số tiền trên chỉ đến với những nhà_phát_triển có ý_tưởng và chịu_khó đầu_tư .
+Trong lễ ra_mắt AppMarket tại Việt_Nam hồi cuối tháng 1/2016 , ông Nguyễn_Việt_Anh , Giám_đốc Opera_Việt_Nam , tiết_lộ kho ứng_dụng này thu_hút khoảng gần 200 chuyên_gia lập_trình Việt_Nam tham_gia - mức khiêm_tốn so với kho ứng_dụng App_Store và Google_Play - nhưng có những lập_trình_viên có_thể kiếm được tới 10.000 USD mỗi tháng .
+Cuối tháng 2/2016 , công_ty InMobi công_bố kết_quả khảo_sát cho thấy thu_nhập trung_bình của lập_trình_viên Android là 4.900 USD/tháng và i OS là 8.100 USD/tháng .
+Những   thông_tin này lập_tức thu_hút nhiều sự chú_ý .
+Theo một_số chuyên_gia trong ngành , để đạt được con_số trên là hoàn_toàn khả_thi những năm trước , còn hiện gian_nan hơn nhiều .
+" Kinh_doanh ứng_dụng di_động bây_giờ khó kiếm hơn ngày_xưa rất nhiều .
+Lập_trình_viên , studio phát_triển di_động nhận được 70% tổng doanh_thu nhưng trước đó phải đầu_tư cho quảng_cáo , truyền_thông ứng_dụng của mình .
+Thực_tế họ chỉ nhận được khoảng 30-50 % tổng doanh_thu thôi " ,   ông Trịnh_Minh_Cường , sáng_lập Trung_tâm đào_tạo lập_trình TechMaster , chia_sẻ .
+Theo ông Cường , thị_trường ứng_dụng di_động đang bão_hòa với tốc_độ nhanh hơn cả trên desktop .
+Phải trải qua 18 năm ( 1990-2008 ) , phần_mềm Windows của Microsoft mới bão_hòa trong khi Apple và Google mới tạo ra thị_trường ứng_dụng di_động khoảng 9 năm ( 2007-2016 ) nhưng mức bão_hòa đã đạt đến 70% .
+" Giai_đoạn năm 2009-2014 , các lập_trình_viên kiếm tiền từ ứng_dụng khá dễ_dàng , khoảng vài nghìn USD một tháng .
+Có những trường_hợp thậm_chí kiếm tới một_triệu USD một năm .
+Năm 2015 khó_khăn hơn .
+Còn 2016 được đánh_giá là rất cạnh_tranh " , ông Cường nhấn_mạnh .
+" Cái gì lên càng nhanh thì xuống cũng nhanh .
+Đến 2020 , thị_trường sẽ bão_hòa khoảng 90% " .
+Mảnh đất ứng_dụng di_động đang quá đông_đúc và chật_chội .
+Đồng quan_điểm , Nguyễn_Bá_Thành , CEO Weplay - công_ty từng tạo cơn_sốt với trò_chơi Bắt chữ , cho_biết : " Cạnh_tranh phát_triển ứng_dụng di_động hiện_nay khắc_nghiệt hơn bao_giờ hết .
+Có hàng chục nghìn ứng_dụng và game được đẩy lên chợ mỗi ngày .
+Người dùng có quá nhiều lựa_chọn và càng_ngày_càng tinh_tế hơn , khó_tính hơn " .
+Thành cho_hay , trước_đây , chỉ cần đẩy app / game lên là lập_trình_viên có_thể ngồi chờ đếm tiền , nhưng giờ họ phải học thêm những kỹ_thuật đẩy ứng_dụng , tối_ưu tìm_kiếm , tối_ưu tính_năng , trau_chuốt về giao_diện ...
+Hiện miếng bánh ứng_dụng di_động đã được các " ông lớn " đổ tiền vào thao_túng bảng xếp_hạng và " vơ_vét người dùng thô_bạo " khiến cho nhiều studio nhỏ và các lập_trình_viên độc_lập điêu_đứng .
+Không ít người đã phải quay về với việc đi làm_công , không ít studio phải giải_tán .
+" Tuy_vậy , người dùng vẫn hưởng lợi nhiều nhất vì chất_lượng sản_phẩm ngày_càng cao và phong_phú .
+Lập_trình_viên để chiến_thắng và trụ vững trong cuộc_chơi khốc_liệt này không còn cách nào khác phải liên_tục cải_tiến chất_lượng sản_phẩm cũng_như năng_lực công_nghệ của mình " , CEO sinh năm 1987 chia_sẻ .
+Trong khi đó , ông Đỗ_Tuấn_Anh , CEO của Appota , vẫn   có cái nhìn lạc_quan về kinh_doanh ứng_dụng di_động dù   thị_trường đang   cạnh_tranh quyết_liệt .   " Thị_trường đến nay vẫn chưa giảm sức nóng và   thu_hút một lượng lớn các nhà_phát_triển mới , nhất_là các nhà_phát_triển cá_nhân ( hoặc nhóm ) .
+Điều này dẫn đến sự cạnh_tranh mạnh_mẽ hơn và thị_trường này sẽ chỉ dành cho những nhà_phát_triển tập_trung vào chất hoặc đi vào những hướng mới như y_tế , giáo_dục , tìm_kiếm địa_điểm ... " , ông Tuấn_Anh nhận_định .
+Theo ông , chuyện   viết ứng_dụng kiếm chục nghìn USD không còn là " hàng hiếm " ở Việt_Nam .
+Tuy_nhiên , người dùng và doanh_thu chỉ đến với   những nhà_phát_triển tập_trung đào_sâu tìm_tòi ý_tưởng , có   những ứng_dụng được đầu_tư bài_bản , tạo ra giá_trị thật và phục_vụ nhu_cầu khách_hàng .
+" Với sinh_viên hay người mới lập_trình , hãy bắt_đầu_từ việc lập_trình những cái nhỏ , áp_dụng chiến_thuật ' lấy_ngắn_nuôi_dài ' .
+Đối_với những người đam_mê khởi_nghiệp , nên bắt_đầu_từ những ý_tưởng đơn_giản và thử kiếm tiền theo mô_hình freemium ( miễn_phí khi tải ) hoặc kiếm tiền qua việc đặt quảng_cáo .
+Để tạo ra một sản_phẩm ' để đời ' , đủ sức cạnh_tranh với các ông lớn khác , bạn cần phải hội_tụ rất nhiều yếu_tố : kỹ_năng , kinh_nghiệm , nguồn_lực ( vốn - nhân_sự ) và không_thể thiếu sự may_mắn " , người đứng đầu Appota chia_sẻ .
+Bên_cạnh việc nên   đầu_quân cho các công_ty lớn về Internet mobile để tích_lũy kinh_nghiệm , ông Tuấn_Anh cho rằng sinh_viên và người mới cũng cần tạo   thói_quen nghiên_cứu kỹ " nội_quy " trước khi đi vào bất_cứ " sân_chơi " nào .
+Rất nhiều nhà_lập_trình đã trở_về con_số 0 vì coi_thường chế_tài của các kho tải , bản_quyền về nội_dung , hay quyền_lợi khách_hàng trong thanh_toán .
+Trong khi đó , ông Trịnh_Minh_Cường cho rằng , dù kinh_doanh khó hơn , các lập_trình_viên di_động sẽ vẫn có thu_nhập tốt hơn nhiều ngành kỹ_thuật khác và Google , Apple sẽ không để hệ_sinh_thái của họ sụp_đổ .
+Sẽ có những phát_minh mới , trào_lưu mới , sản_phẩm đột_phá ngay sau thời_kỳ khủng_hoảng .
+Các lập_trình_viên di_động có_thể chuyển qua những mảnh đất tiềm_năng khác như ứng_dụng viết cho thời_trang thông_minh , TV thông_minh , ứng_dụng tương_tác nhà thông_minh .
+Tiến đến ứng_dụng di_động sẽ là một giao_diện giao_tiếp phổ_thông miễn_phí giữa người dùng đến dịch_vụ đám mây - dịch_vụ thu phí .
+Các lập_trình_viên di_động cần có vốn_sống bên ngoài như thể_thao , âm_nhạc , hội_họa , điện_tử , nông_nghiệp , thời_trang , va_chạm với bài_toán thực_tế thì mới có nhiều ý_tưởng làm ứng_dụng di_động tốt được .
+Châu_An

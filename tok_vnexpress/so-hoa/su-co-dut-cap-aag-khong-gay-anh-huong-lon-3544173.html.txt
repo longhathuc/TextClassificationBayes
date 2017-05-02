@@ -1,0 +1,20 @@
+Sự_cố đứt cáp AAG không gây ảnh_hưởng lớn
+Theo Hiệp hội Internet_Việt_Nam , việc cáp_quang AAG đứt hôm 18/2 không ảnh_hưởng lớn đến người dùng do các nhà_cung_cấp đã chuyển sang tuyến cáp APG .
+Chiều 18/2 , tuyến cáp_quang biển quốc_tế AAG gặp sự_cố khiến Internet_Việt_Nam kết_nối đi quốc_tế bị ảnh_hưởng .
+Đơn_vị điều_hành AAG vẫn chưa có thông_báo chính_thức về sự_cố lần này , bao_gồm địa_điểm và thời_gian khắc_phục dự_kiến cho các nhà_cung_cấp dịch_vụ Internet ( ISP ) tại Việt_Nam .
+Sự_cố với AAG lần này được đánh_giá không ảnh_hưởng lớn tới người dùng .
+Ảnh minh_họa .
+Đánh_giá về sự_cố , ông Vũ_Thế_Bình , Tổng_thư_ký Hiệp_hội Internet_Việt_Nam ( VIA ) , nhận_định lần này người dùng trong nước có bị ảnh_hưởng nhưng thời_gian ảnh_hưởng ít hơn trước nhiều .
+Lý_do là tuyến cáp_quang biển châu Á - Thái_Bình_Dương ( APG ) được đưa vào khai_thác từ cuối năm 2016 , giảm sự phụ_thuộc vào AAG so với trước_đây .
+Hơn_nữa , thời_điểm xảy_ra sự_cố với AAG lần này rơi vào cuối tuần , được coi là thấp_điểm .
+Các ISP đang chú_ý đưa cáp_quang APG vào hoạt_động , đồng_thời vẫn trong giai_đoạn ứng_phó với sự_cố của cáp AI , nên đại_diện VIA cho rằng ảnh_hưởng sẽ không lớn .
+Tuy_nhiên , dù có chuẩn_bị tốt đến đâu vẫn có một_số nhóm người dùng Internet bị ảnh_hưởng .
+Trong khi đó , đại_diện một nhà mạng tuyên_bố không bị ảnh_hưởng bởi sự_cố đứt cáp AAG lần này .
+Lý_do , họ đã bổ_sung và nâng_cấp dung_lượng kết_nối trên tuyến APG và cả hướng kết_nối Internet trên đất_liền .
+Trong khi đó một ISP khác cũng cho_biết đã mở lưu_lượng ứng_cứu qua tuyến APG và SMW3 nhằm đảm_bảo tốc_độ kết_nối .
+Sự_cố ngày 18/2 là lần thứ_hai tuyến cáp_quang biển AAG trục_trặc .
+Trước đó , hôm 8/1 , tuyến cáp này đã gặp sự_cố rò điện khiến sụt nguồn , hệ_thống phải sửa_chữa .
+Trong năm 2016 , đã có bốn lần hệ_thống truyền_dẫn Internet này trục_trặc và phải tiến_hành bảo_trì , vào các tháng 3 , 6 , 8 và tháng 9 .
+Trước đó , năm 2015 tuyến cáp này trục_trặc 3 lần , năm 2014 là 2 lần .
+Tính đến năm 2016 , hơn 60% Internet quốc_tế của Việt_Nam đi qua AAG .
+Ngoài AAG , tính_từ đầu 2017 , Internet tại Việt_Nam cũng bị ảnh_hưởng bởi sự_cố kép của tuyến cáp IA ( Liên Á ) vào ngày 10/1 và 11/1 , với lỗi tương_tự nhưng ở gần nhánh đi Singapore .

@@ -1,0 +1,40 @@
+Asus nâng cao chuẩn bền cho dòng laptop doanh_nghiệp
+Tiêu_chí bền trên dòng sản_phẩm doanh_nghiệp phải kết_hợp giữa độ bền_bỉ , linh_hoạt , tăng_cường bảo_mật và ứng_dụng hỗ_trợ phát_triển kinh_doanh .
+Theo đại_diện Asus , độ bền cho máy_tính doanh_nghiệp ngày_nay không còn đơn_giản chỉ là chất_lượng phần_cứng tốt với tỷ_lệ khấu_hao theo thời_gian thấp .
+Nó còn phải đảm_bảo sự ổn_định dù sử_dụng trong văn_phòng hay ở những môi_trường khắc_nghiệt bên ngoài .
+" Do_đó , bên_cạnh cấu_hình mạnh_mẽ , máy còn cần nhiều tính_năng nâng cao khác như chống va_đập , bảo_mật tối_đa , hỗ_trợ doanh_nhân giải_quyết công_việc nhanh_chóng với nhiều ứng_dụng , tiện_ích chuyên_biệt ... " , vị đại_diện chia_sẻ .
+Dưới đây là những giải_pháp mà Asus đã nghiên_cứu và tích_hợp vào phiên_bản AsusPro B8430UA , mang đến cho giới doanh_nhân một lựa_chọn đáng tin_cậy về độ bền & hiệu_suất .
+Độ bền chuẩn quân_sự MIL-STD 810G
+Tương_tự như các phiên_bản máy_tính thuộc dòng AsusPro trước_đây , B8430UA là chọn_lựa mới vẫn áp_dụng tối_đa các quy_trình thử_nghiệm chất_lượng chuẩn quân_đội Mỹ .
+Các kỹ_sư Asus đã thiết_lập những tình_huống thực_tế , từ đó đưa ra bài kiểm_tra tính đáp_ứng của AsusPro B8430UA .
+Các mẫu laptop Asus trải qua nhiều giai_đoạn kiểm_tra khắc_nghiệt mới được xuất_xưởng .
+Cụ_thể , thử_nghiệm thả rơi máy ở độ cao gấp hai lần độ cao thử_nghiệm máy_tính_xách_tay thông_thường mà vẫn không bị hư .
+Hay thử_nghiệm chịu lực màn_hình cho kết_quả bền hơn đến 20% so với các mẫu khác .
+Khi thêm 20.000 vòng kiểm_tra so với quy_trình tiêu_chuẩn , bản_lề máy vẫn cứng_cáp , không bị lỏng_lẻo .
+Bàn_phím chống tràn nước hoạt_động tốt trong điều_kiện ẩm_ướt .
+Các kỹ_sư Asus nhận_xét dòng B8430UA vượt qua các thử_nghiệm tiêu_chuẩn quân_sự khắc_nghiệt MIL-STD 810G của Mỹ , đáp_ứng tốt yêu_cầu về độ tin_cậy và độ bền của người sử_dụng doanh_nhân hay các tổ_chức .
+Bảo_vệ ổ_đĩa
+Khi máy_móc vận_chuyển hoặc mang theo trên các hàng trình công_tác thường phải chịu những tác_động lực bên ngoài như xóc , va_đập , chấn_động hoặc thậm_chí rơi_rớt trong tình_huống ngoài mong_muốn .
+Vì_thế AsusPro B8430UA tăng_cường chức_năng bảo_vệ ổ_cứng thông_qua bộ khung kim_loại có cấu_trúc hấp_thụ lực tác_động .
+Kèm theo là các lớp lót cao_su giảm_xóc , triệt_tiêu chấn_động khi máy rung lắc hay rơi trong quá_trình vận_chuyển .
+Ngoài_ra , ổ_cứng có cơ_cấu bảo_vệ toàn_diện bao_gồm phần_cứng và phần_mềm cảm_biến G-Sensor chủ_động chống các va_chạm sắp xảy_ra , giữ an_toàn và bảo_mật cho dữ_liệu .
+Hệ_thống này sử_dụng một gia_tốc kế kỹ_thuật_số 3D với 3 cấp_độ nhạy gồm tắt , thường và cao .
+Cấp cao nhất kích_hoạt ở chế_độ mặc_định , còn tính_năng phát_hiện va_chạm sẽ luôn được bật .
+Bảo_mật phần_cứng
+Nền_tảng phần_cứng của AsusPro B8430UA gia_tăng bảo_mật nhờ hệ_thống Trusted_Platform_Module ( TPM ) .
+Đây là chip phần_cứng tích_hợp trên bo_mạch_chủ có khả_năng mã_hóa bảo_mật dữ_liệu , giảm_thiểu nguy_cơ bị hacker chiếm mật_khẩu và khóa mã_hóa để truy_cập các dữ_liệu nhạy_cảm .
+TPM cũng bổ_sung lớp bảo_mật và cho_phép máy_tính_xách_tay chạy các ứng_dụng một_cách bảo_mật hơn , tăng mức_độ đảm_bảo của các giao_dịch và giao_tiếp .
+Khi sử_dụng kết_hợp với một gói phần_mềm bảo_mật tùy chọn sẽ giúp cải_thiện độ bảo_mật chung của hệ_thống , khả_năng bảo_vệ tập_tin , email , đảm_bảo tính riêng_tư .
+TPM cho_phép khả_năng bảo_mật mạnh_mẽ hơn so với Bios , hệ_điều_hành hay các ứng_dụng phi TPM có_thể mang lại .
+AsusPro B8430UA tích_hợp nhiều giải_pháp bảo_mật phần_cứng và dữ_liệu .
+Bảo_mật vân tay
+Bộ quét điện_tử trong máy_tính_xách_tay AsusPro B8430UA sử_dụng công_nghệ tạo ảnh RF để đọc vân tay .
+Công_nghệ tiên_tiến này ít bị ảnh_hưởng bởi điều_kiện bề_mặt da bao_gồm da khô , mòn , chai , bẩn hay da nhờn nên đảm_bảo sự thuận_tiện , tăng độ bảo_mật và bảo_vệ dữ_liệu tối_đa .
+Ngoài_ra , máy còn hỗ_trợ các thẻ thông_minh để nhận_biết , xác_thực , lưu_trữ dữ_liệu và xử_lý ứng_dụng .
+Người sử_dụng có_thể sử_dụng tính_năng hữu_ích này đăng_nhập hoặc xác_thực giao_dịch trực_tuyến .
+Ứng_dụng quản_trị
+AsusPro B8430UA tích_hợp phần_mềm quản_lý thông_minh Asus_Business_Manager ( ABM ) , là nền_tảng điện_toán gồm phần_cứng , phần_mềm và các firmware cho khả_năng bảo_mật và hiệu_quả công_việc cao .
+Asus_Business_Manager ( ABM ) tăng_cường khả_năng vận_hành linh_hoạt trong giải_quyết công_việc tại doanh_nghiệp .
+Ứng_dụng này thiết_kế cho các doanh_nghiệp nhỏ nên đơn_giản_hóa việc bảo_trì và quản_lý công_nghệ_thông_tin , cho_phép doanh_nhân tập_trung hơn vào công_việc kinh_doanh của mình .
+Với việc nâng cao và toàn_diện hóa các tiêu_chí độ bền và bảo_mật trên máy , laptop AsusPro B8430UA là chọn_lựa mới tối_ưu cho doanh_nghiệp trong nhiều lĩnh_vực khác_nhau .
+Minh_Trí

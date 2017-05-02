@@ -1,0 +1,17 @@
+Trắc_nghiệm bạn có nhầm thủ_đô các nước
+Hãy thử xem bạn đoán đúng bao_nhiêu tên thủ_đô các nước .
+New_York là thủ_đô Mỹ ?
+1 . Đúng
+2 . Sai
+Sydney là thủ_đô của Australia ?
+1 . Đúng
+2 . Sai
+Brasilia là thủ_đô của Brazil ?
+1 . Đúng
+2 . Sai
+Geneva là thủ_đô Thụy_Sĩ ?
+1 . Đúng
+2 . Sai
+New_Delhi là thủ_đô Ấn Độ ?
+1 . Đúng
+2 . Sai

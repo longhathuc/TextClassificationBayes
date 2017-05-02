@@ -1,0 +1,15 @@
+Amazon giới_thiệu sản_phẩm đắt tiền đến người mua
+Thuật_toán của Amazon ưu_tiên giới_thiệu sản_phẩm của chính hãng này hay đối_tác khi khách_hàng tìm_kiếm thông_tin , dù giá bán không phải là thấp nhất .
+Trang tin ProPublica đã tiến_hành cuộc khảo_sát 250 sản_phẩm thường được mua trong vài tuần để ghi_nhận những lựa_chọn mà hệ_thống của Amazon cung_cấp cho khách_hàng khi họ nhập vào thông_tin tìm_kiếm .
+Bên_cạnh việc bán trực_tiếp sản_phẩm của chính mình , Amazon còn cho_phép nhiều nhà_bán_lẻ khác bán hàng trên nền_tảng công_nghệ của hãng .
+Như_vậy có_thể hàng chục nhà_cung_cấp sẽ bán cùng một loại sản_phẩm với nhiều mức giá khác_nhau và phí vận_chuyển cũng có sự khác_biệt .
+Khi khách_hàng tìm thông_tin và nhập từ_khóa sản_phẩm vào ô tìm_kiếm , thuật_toán của Amazon tự_động chọn nhà_bán_lẻ và đưa ra các khuyến_nghị mua hàng .
+Từ đó , cơ_hội bán được hàng của những nhà_cung_cấp có sản_phẩm thể_hiện trong ô kết_quả tìm_kiếm cũng cao hơn những_ai không xuất_hiện .
+Khảo_sát của ProPublica cho thấy , trong gần ba_phần_tư lượt tìm_kiếm , Amazon sẽ ưu_tiên các sản_phẩm của mình hoặc của những công_ty trả tiền dịch_vụ lưu kho và chuyển hàng cho hãng vào danh_sách đề_nghị , mặc_dù đây không phải là những mặt_hàng rẻ nhất .
+Nếu một khách_hàng mua tất_cả mọi thứ được đề_nghị bởi Amazon ,   họ sẽ phải trả nhiều hơn 20% so với khi mua các sản_phẩm cùng loại với giá thấp nhất cũng ngay trên sàn giao_dịch điện_tử này .
+Amazon không cung_cấp bất_kỳ công_cụ nào cho_phép khách_hàng so_sánh giá sản_phẩm cũng_như đưa ra danh_sách các công_ty bán cùng một sản_phẩm kèm theo thông_tin giá và cước_vận chuyển .
+Nhiều công_ty còn lập_lờ giá bán bằng cách không nói rõ có tính phí giao hàng hay không .
+Trong khi đó , đại_diện Amazon khẳng_định rằng thuật_toán của hãng chọn những sản_phẩm để giới_thiệu với khách_hàng dựa trên hàng_loạt yếu_tố , bao_gồm cả giá , điểm xếp_hạng người bán , các sản_phẩm có liên_quan nhất và giao hàng miễn_phí .
+Vào năm 2007 , Jeff_Bezos - nhà_sáng_lập kiêm CEO Amazon đã nói rằng công_ty sử_dụng các thuật_toán rất khách_quan hướng đến khách_hàng làm trung_tâm .
+Hệ_thống sẽ tự_động đề_xuất tùy chọn cho người bán giá thấp nhất , với điều_kiện hàng có trong kho và sẵn_sàng vận_chuyển .
+Minh_Trí

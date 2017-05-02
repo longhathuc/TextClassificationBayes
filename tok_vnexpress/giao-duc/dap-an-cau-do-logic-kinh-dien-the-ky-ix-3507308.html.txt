@@ -1,0 +1,8 @@
+Đáp_án câu_đố logic kinh_điển thế_kỷ IX
+Chìa_khóa để giải câu_đố này là bạn phải xác_định thứ mà người nông_dân cần mang qua trước là gì .
+Đề_bài :
+Một nông_dân muốn vượt qua sông với một con sói , một con dê và một cái bắp_cải .
+Người nông_dân chỉ có một chiếc thuyền nhỏ và nó chỉ có_thể chở theo anh_ta cùng một trong ba thứ : con sói , con dê hoặc cái bắp_cải .
+Vấn_đề nằm ở chỗ nếu để sói và dê ở lại bờ , sói sẽ ăn thịt dê .
+Nếu để dê với bắp_cải ở lại bờ , dê sẽ ăn bắp_cải .
+Các bạn hãy tìm ra cách vận_chuyển giúp người nông_dân có_thể mang được cả sói , dê và bắp_cải qua sông .

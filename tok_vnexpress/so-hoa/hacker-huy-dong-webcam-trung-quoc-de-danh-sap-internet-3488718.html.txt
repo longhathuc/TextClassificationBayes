@@ -1,0 +1,19 @@
+Hacker huy_động webcam Trung_Quốc để đánh sập Internet
+Một nhà_sản_xuất webcam Trung_Quốc khẳng_định sản_phẩm của họ bị kiểm_soát để thực_hiện vụ tấn_công DDoS khiến " một_nửa Internet bị ngưng_trệ " cuối tuần trước .
+Theo Telegraph , kẻ tấn_công được cho là sử_dụng mã độc có tên Mirai để chiếm quyền kiểm_soát những chiếc camera an_ninh / giám_sát do   Hangzhou_Xiongmai_Technology sản_xuất .   Xiongmai không nói rõ có bao_nhiêu sản_phẩm bị khống_chế , nhưng số camera này được sản_xuất trước tháng 9/2015 .
+Công_ty đã thu_hồi một lượng sản_phẩm lỗi ở Mỹ và phát_hành bản cập_nhật phần_mềm .
+Ảnh minh_họa : ThinkStock .
+Ngày 21/10 , những kẻ giấu mặt đã liên_tiếp tấn_công vào Dyn , công_ty quản_lý hệ_thống tên_miền ( Domain_Name_System ) , khiến một_nửa số trang_web có lưu_lượng lớn nhất trên Internet bị ngưng_trệ hoặc khó truy_cập .
+Trong số này có_thể kể đến Twitter , Netflix , Reddit , CNN , Paypal , Pinterest , Fox_News , Spotify , Guardian , New_York_Times và Wall_Street_Journal .
+Bộ_phận dịch_vụ web của Amazon - là khách_hàng sử_dụng dịch_vụ của Dyn - cũng thông_cáo về tình_trạng mất điện trong vài giờ nhưng chưa xác_định có phải trùng_hợp sự_cố hay không .
+Bằng việc khai_thác mã độc Mirai - được đánh_giá là thảm_họa của IoT , hacker đã khiến hàng chục_triệu người dùng Internet không_thể truy_cập những website thuộc hàng lớn nhất thế_giới ở Mỹ và châu Âu .   Vụ tấn_công là bằng_chứng cho thấy tin_tặc có_thể dùng phần_mềm độc_hại để khống_chế , tạo ra mạng botnet để thực_hiện DDoS từ các thiết_bị IoT ( Internet of Thing ) với quy_mô lớn như_thế_nào .
+" Ai đó đang thử_nghiệm khả_năng phòng_thủ của các công_ty cung_cấp dịch_vụ Internet lớn trên diện rộng " , Bruce_Schneier , chuyên_gia bảo_mật máy_tính và là tác_giả của nhiều cuốn sách về an_ninh mạng , nhận_định .
+Trong khi đó , Nhà_Trắng gọi đây là một " hành_động tội_phạm " .
+Đầu tháng 10 ,   Trung_tâm kỹ_thuật FPT Telecom nhận được nhiều phản_hồi từ khách_hàng về việc đường truyền không ổn_định .
+Tiến_hành kiểm_tra một_số trường_hợp , các chuyên_viên   phát_hiện camera giám_sát của các hộ gia_đình   liên_tục gửi các gói tin làm tràn bảng ghi của modem , gây ra   tình_trạng mất kết_nối -   một dạng tấn_công từ_chối dịch_vụ ( DDoS ) .
+Theo ghi_nhận của Techcrunch năm 2014 , có hơn 730.000 camera giám_sát trên toàn_cầu bị theo_dõi và bị chia_sẻ công_khai trên website Insecam.com .
+Trong danh_sách này có hơn 700 camera ở   Việt_Nam .   Cuối
+tháng 9/2016 , 25.000 camera an_ninh bị khai_thác để tạo   mạng_lưới botnet nhằm thực_hiện tấn_công từ_chối dịch_vụ   vào các website .
+Tin_tặc đã làm tê_liệt nhiều   trang_web , dịch_vụ của các cơ_quan chính_phủ , ngân_hàng trực_tuyến trên nhiều quốc_gia .   Tại
+cuộc Hội_nghị tin_tặc thế_giới Defcon 2016 , nhóm diễn_giả đến từ Merculite_Sercurity cho_biết 75% ổ_khóa an_ninh mà họ thử_nghiệm bị tấn_công khá dễ_dàng .
+Xem thêm :   Nhiều camera an_ninh tại Việt_Nam bị tấn_công DDoS

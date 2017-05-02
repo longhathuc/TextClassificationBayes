@@ -1,0 +1,12 @@
+Hơn 135 triệu modem Internet có_thể bị kiểm_soát từ xa
+Bằng cách khai_thác lỗ_hổng , hơn 135 triệu modem có_thể bị kiểm_soát từ xa , từ đó làm mất kết_nối Internet của người dùng .
+Lỗi này tồn_tại trên modem Arris SURFboard SB6141 , thiết_bị mạng được dùng phổ_biến tại nhiều quốc_gia trong đó có hàng triệu hộ gia_đình ở Mỹ .
+Nhà_nghiên_cứu bảo_mật   David_Longenecker phát_hiện ra vấn_đề " khá ngớ_ngẩn " này và đã báo với nhà_sản_xuất thiết_bị .
+Modem   Arris SURFboard SB6141 .
+Cụ_thể ,   Arris không yêu_cầu xác_thực mật_khẩu người dùng khi vào trang quản_lý trên modem .
+Do_đó , bất_kỳ kẻ tấn_công nào cũng có_thể cấu_hình thiết_bị bằng cách truy_cập đến địa_chỉ 192.168.100.1 mà không gặp trở_ngại nào .
+Từ đây , hacker dễ_dàng khởi_động lại modem thông_qua giao_diện quản_lý và người dùng sẽ bị mất Internet trong 2 đến 3 phút cho_đến khi thiết_bị khởi_động xong .
+Hơn_nữa , những kẻ tấn_công còn có_thể cấu_hình hoặc thiết_lập lại modem , khiến cho Internet bị mất lâu hơn hoặc cần gọi kỹ_thuật hỗ_trợ mới có_thể dùng trở_lại .
+Theo các chuyên_gia bảo_mật , lỗi trên có_thể khắc_phục bằng cách đưa ra bản cập_nhật firmware , trong đó yêu_cầu xác_thực trước khi người dùng khởi_động lại hoặc đặt lại modem .
+Hiện nhà_sản_xuất chưa tung ra bản vá cho lỗ_hổng này .
+Đình_Nam

@@ -1,0 +1,14 @@
+Chat bot của Facebook có tốc_độ ốc_sên
+Người sử_dụng phải chờ khoảng 5 phút mới nhận được phản_hồi từ các phần_mềm chat tự_động ( chat bot ) trên Messenger .
+Ngày 12/4 , Facebook công_bố cho_phép các nhà_phát_triển , tòa_soạn báo , doanh_nghiệp ... xây_dựng bot có khả_năng tương_tác với độc_giả , khách_hàng để hỗ_trợ đọc tin_tức , kiểm_tra thời_tiết , mua_sắm , đặt phòng khách_sạn ...
+Tuy_nhiên , theo trang công_nghệ The_Verge , các bot hoạt_động chậm một_cách khó_chịu .
+Ví_dụ , bot của tạp_chí   Wall_Street_Journal , được quảng_cáo là mang đến cho người đọc " nhưng bài viết hàng_đầu , các tin_tức nóng , cập_nhật tức_thì " .
+Tuy_nhiên , khi gửi tin nhắn tới WSJ bot , phải 4-5 phút sau , phần_mềm chat tự_động này mới trả_lời .
+Phần_mềm AI phản_hồi chậm hơn cả con_người   và còn hiện cả biểu_tượng " đang soạn_thảo " .
+Tương_tự , phần_mềm thời_tiết   Poncho còn hiển_thị thông_báo " thường_xuyên trả_lời trong vòng một giờ " .
+Liệu bạn có đủ kiên_nhẫn để chờ một tiếng đồng_hồ chỉ để biết trời có mưa hay không ?
+Vấn_đề này cũng xảy_ra với chính bot mang tên M do Facebook phát_triển .
+Trợ_lý ảo ra_đời từ năm_ngoái này thường mất vài phút mới đáp lại_người dùng .
+Bot_Poncho trả_lời " trong vòng một giờ " .
+Sự chậm_chạp khiến nhiều người đặt câu_hỏi : Sao phải cần đến các phần_mềm trí_tuệ_nhân_tạo khi mà chúng còn chậm hơn cả tốc_độ con_người gõ bàn_phím ?
+Tất_nhiên , những khuyết_điểm này sẽ được khắc_phục trong tương_lai , còn lúc này , tốt nhất người dùng nên tiếp_tục cập_nhật thông_tin và mua_sắm theo cách họ vẫn thường làm để tránh mất thời_gian chờ_đợi .

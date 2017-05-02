@@ -1,0 +1,6 @@
+Thử tài tư_duy của bạn với bài_toán lớp 7
+Bài_toán tìm số_lượng bóng ở mỗi chiếc hộp trong đề thi quốc_tế dành cho học_sinh lớp 7-8 có_thể làm_khó bạn .
+Chia 100 quả bóng vào n chiếc hộp sao cho số bóng trong mỗi hộp đều là một_số chứa chữ_số 8 ( Ví_dụ : 8 , 48 , 88 ) .
+Nếu n = 5 ( hộp ) , trong đó có hai hộp chứa số bóng giống nhau , những hộp còn lại số bóng khác_nhau thì tổng_số bóng trong hai hộp nhiều bóng nhất_là bao_nhiêu ?
+Thanh_Tâm
+> > Bài_toán tư_duy cấp tiểu_học khiến người_lớn đau_đầu > > Bài_toán chuyển_động giúp kiểm_tra kiến_thức lớp 5-6

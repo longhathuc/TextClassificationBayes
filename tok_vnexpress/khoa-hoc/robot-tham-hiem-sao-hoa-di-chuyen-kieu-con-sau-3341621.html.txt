@@ -1,0 +1,16 @@
+Robot thám_hiểm sao Hỏa di_chuyển kiểu con sâu
+Cơ_quan Hàng_không Vũ_trụ Mỹ ( NASA ) sẽ cho ra_đời thiết_bị thám_hiểm sao Hỏa tự_hành chứa đầy chất_lỏng và có_thể di_chuyển trên bề_mặt hành_tinh Đỏ giống như con sâu .
+Theo Patent_Yogi , Cơ_quan Cấp_Bằng sáng_chế và Nhãn_hiệu thương_mại Mỹ công_bố thiết_kế của cỗ máy tự_hành hôm 6/1 .
+NASA miêu_tả robot này là một bong_bóng lớn đổ đầy chất_lỏng chứa vật_liệu polymer thông_minh biết ghi_nhớ hình_dáng .
+Phía ngoài bong_bóng có một lớp vỏ với nhiều mấu nhô ra , cho_phép thiết_bị tự_hành bám chắc vào bề_mặt để di_chuyển .
+Bên trong thiết_bị là 4 tổ_hợp van khác_nhau có_thể hút chất_lỏng từ một khoang và bơm vào khoang khác của bong_bóng .
+Các van sẽ luân_phiên điều_khiển dòng_chảy của chất_lỏng theo những hướng khác_nhau trong bong_bóng , giúp bong_bóng điều_chỉnh hình_dáng và kích_thước ở phần cần tiến lên phía trước .
+Để thiết_bị tự_hành di_chuyển khắp bề_mặt hành_tinh như con sâu , phần bong_bóng cũng trang_bị các ống dài linh_hoạt , chứa ferrofluid , loại chất_lỏng có từ_tính mạnh nếu ở trong từ_trường và một nam_châm điện có_thể xê_dịch .
+Khi nam_châm điện_tích năng_lượng hoặc giải_phóng năng_lượng , ống linh_hoạt sẽ kéo_dài hoặc rút ngắn tương_ứng theo hướng chuyển_động của chất_lỏng , cho_phép thiết_bị tự hành_tiến về trước trên nền đất tựa con sâu .
+Khi đáp xuống bề_mặt hành_tinh , các thiết_bị tự_hành truyền_thống thường chạy trên mặt_đất .
+Trong những môi_trường nhiều cát hoặc đất mùn như trên Mặt_Trăng hoặc sao Hỏa , những thiết_bị này có_thể bị vướng và mắc_kẹt , theo NASA .
+Thiết_bị thám_hiểm thu nhỏ có_thể được sử_dụng để thăm_dò dưới các đống gạch vụn hoặc khu_vực chật_hẹp mà con_người không_thể tiếp_cận .
+Thiết_bị tự_hành truyền_thống tỏ ra kém ưu_việt trong những trường_hợp này do một_số hạn_chế về thiết_kế .
+NASA cho_biết robot vô_định hình có_thể giải_quyết được vấn_đề trên bởi chúng thay_đổi hình_dáng theo hướng chuyển_động định trước , nên linh_hoạt hơn trên các bề_mặt và được bảo_vệ tốt hơn trước chướng_ngại_vật .
+Những robot loại này rất hữu_ích trong việc khám_phá các khu_vực trên sao Hỏa mà thiết_bị tự_hành hiện_nay không_thể đáp_ứng như miệng núi_lửa nhỏ và sườn đồi dốc .
+Phương_Hoa

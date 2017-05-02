@@ -1,0 +1,10 @@
+Robot có_thể ăn để lấy năng_lượng như con_người
+Các nhà_khoa_học Anh chế_tạo thành_công một con robot có khả_năng ăn và tiêu_hóa thực_phẩm để lấy năng_lượng như con_người .
+Nhóm nghiên_cứu tại Phòng_thí_nghiệm Robot   thuộc Đại_học Bristol , Anh , đang phát_triển một con " robot mềm " có khả_năng ăn sinh_vật sống và tiêu_hóa chúng để tạo ra năng_lượng , thậm_chí có_thể chết đi khi hết tuổi_thọ giống con_người , Express hôm 8/11 đưa tin .
+Robot trông như một sinh_vật sống di_chuyển trên mặt_nước .
+Miệng của nó là một lớp màng polymer có nhiệm_vụ lọc tảo trong nước , còn dạ_dày là tế_bào nhiên_liệu vi_khuẩn ( MFC ) có_thể phân_hủy các chất_hữu_cơ để chuyển_đổi thành năng_lượng .
+Loại robot có_thể tiêu_hóa chất_hữu_cơ này được kỳ_vọng sẽ sớm trở_thành một công_cụ quan_trọng để giải_quyết vấn_đề tảo nở hoa trong các hệ_sinh_thái thủy_sinh , xử_lý hiện_tượng phú dưỡng khiến sông_ngòi ô_nhiễm do dư_thừa chất dinh_dưỡng và làm sạch môi_trường nước , Jonathan_Rossiter , thành_viên của nhóm nghiên_cứu , cho_biết .
+" Chúng_tôi muốn làm cho những con robot có khả_năng ăn các chất ô_nhiễm , sau đó tự phân_hủy mà không để dấu_vết khi chúng chết đi " , Rossiter   nói .
+Nhóm nghiên_cứu cũng đang lập kế_hoạch chế_tạo một con robot hình người với trí thông_minh nhân_tạo , có khả_năng ăn thực_phẩm để lấy năng_lượng giống trong các bộ phim khoa_học_viễn_tưởng .
+Xem thêm :   Thiếu_nữ robot cử_động , trò_chuyện như người thật
+Lê_Hùng

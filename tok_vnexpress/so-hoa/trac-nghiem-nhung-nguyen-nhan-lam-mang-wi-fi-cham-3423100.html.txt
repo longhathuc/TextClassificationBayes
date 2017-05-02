@@ -1,0 +1,23 @@
+Trắc_nghiệm : Những nguyên_nhân làm mạng Wi-Fi chậm
+Ngoài các lý_do bất_khả_kháng như đứt dây , mất kết_nối từ nhà_cung_cấp , mạng Wi-Fi tại nhà cũng có_thể bị chậm do cách cài_đặt từ chính người dùng .
+1 . Bộ thu phát lại ( repeater ) kết_nối với router chính qua Wi-Fi hay dây mạng tốt hơn ?
+- Qua_Wi - Fi
+- Qua kết_nối có dây
+2 . Nơi đông người ảnh_hưởng như nào tới tầm phát_sóng Wi-Fi ?
+- Giúp khuếch_đại sóng mạnh hơn
+- Giảm tầm phát_sóng
+- Không ảnh_hưởng
+3 . Các thiết_bị mở kết_nối Bluetooth có ảnh_hưởng tới sóng Wi-Fi hay không ?
+- Có ảnh_hưởng
+- Không ảnh_hưởng
+4 . Nhiều thiết_bị kết_nối nhưng không vào Internet có làm chậm , mất ổn_định của mạng Wi-Fi ?
+- Có
+- Không
+5 . Để lò_vi_sóng ở gần bộ phát Wi-Fi ảnh_hưởng thế_nào ?
+- Tăng khả_năng phát_sóng
+- Giảm khả_năng phát_sóng
+6 . Thời_tiết có thường ảnh_hưởng đến chất_lượng đường truyền mạng Internet của nhà_cung_cấp hay không ?
+- Chỉ ảnh_hưởng ADSL
+- Chỉ ảnh_hưởng cáp_quang ( FTTH )
+- Ảnh_hưởng cả hai
+- Không ảnh_hưởng

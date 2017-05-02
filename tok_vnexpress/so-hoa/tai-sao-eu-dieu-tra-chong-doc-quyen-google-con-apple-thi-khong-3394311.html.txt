@@ -1,0 +1,33 @@
+Tại_sao EU điều_tra chống độc_quyền Google còn Apple thì không
+Việc “ thống_trị ” thị_trường tìm_kiếm , nền_tảng Android có khắp mọi nơi cùng Play_Store khổng_lồ đang khiến EU lo_ngại Google sẽ độc_quyền trong nhiều lĩnh_vực .
+Vào 20/4/2016 , Ủy_ban Châu_Âu ( EU ) kết_thúc cuộc điều_tra kéo_dài một năm nhắm vào hệ_điều_hành Android của Google .
+Kết_quả , gã khổng_lồ tìm_kiếm đã vi_phạm chính_sách chống độc_quyền của EU .
+Ủy_ban sau đó đã gửi kết_quả đến Google và Alphabet ( công_ty_mẹ của Google ) đồng_thời ban_hành quy_định chính_thức để xử_lý hành_vi này .
+Google đã và đang trở_thành mục_tiêu điều_tra chống độc_quyền hàng_đầu của EU .
+EU cho rằng , Google đang nắm giữ vị_trí thống_trị tại nhiều thị_trường và công_ty đã dùng vị_thế này để bóp_méo cạnh_tranh , trong đó có động_thái ép các nhà_sản_xuất thiết_bị cài_đặt sẵn Google_Search và trình_duyệt Chrome .
+Bên_cạnh đó , Google cũng khóa chợ ứng_dụng Google_Play với những công_ty sử_dụng các phiên_bản thay_thế của Android .
+EU cũng cho rằng Google đã trả tiền bất_hợp_pháp cho các nhà_sản_xuất thiết_bị số , thiết_bị di_động để họ sử_dụng độc_quyền công_cụ tìm_kiếm của công_ty .
+Quy_định mới của EU ban_hành nhằm điều_tiết lại thị_trường tìm_kiếm nói_chung , cũng_như việc giải_quyết các tranh_chấp trên các nền_tảng mã nguồn mở nói_riêng .
+Tuy_nhiên , Google lại lập_luận rằng , Android là một hệ_sinh_thái mã nguồn mở , có nghĩa_là bất_cứ ai cũng có_thể phát_triển các sản_phẩm liên_quan tới nó .
+Hãng cũng đặt ra câu_hỏi với EU rằng : tại_sao là chúng_tôi mà không phải là Apple ?
+Tháng 5/2010 , EU thông_báo rằng họ đang điều_tra mảng tìm_kiếm trực_tuyến của Google vì cho rằng công_cụ tìm_kiếm này ưu_tiên các trang_web riêng của mình hơn so với các đối_thủ cạnh_tranh , như Yelp .
+Cuộc điều_tra sau đó đã được tiến_hành trong thời_gian 5 năm , EU đã yêu_cầu Google thay_đổi thuật_toán tìm_kiếm nhằm đảm_bảo các website đều được đối_xử công_bằng trong kết_quả hiển_thị .
+Sau đó , vào tháng 4/2015 , EU đã chính_thức có kết_luận điều_tra chống lại Google nhưng lúc này , “ tội_trạng ” giảm đi nhiều so với những cáo_buộc hồi năm 2010 .
+Tuy_nhiên , EU cho_biết họ sẽ tiếp_tục điều_tra công_cụ tìm_kiếm của Google trong tương_lai .
+Trên nền_tảng Android , Châu_Âu đang cố_gắng kiểm_soát nỗ_lực của Google trong việc di_chuyển sức_mạnh tìm_kiếm của công_ty từ máy_tính_để_bàn sang điện_thoại_di_động cũng_như thiết_lập các tiêu_chuẩn cho việc cạnh_tranh trên nền_tảng mới này .
+Nói cách khác , trong quá_khứ , EU truy_xét việc tìm_kiếm theo địa_chỉ ( 2010 ) thì giờ_đây họ đang cố_gắng kiểm_soát hành_vi cạnh_tranh trong phần_mềm điện_thoại_di_động , nơi thị_phần của Android vượt xa Apple .
+EU cho_biết , Google nắm giữ thế độc_quyền ở 3 thị_trường là dịch_vụ tìm_kiếm , cấp phép cho smartphone chạy Android và Google_Play .
+Ủy_ban chỉ ra rằng , khi Google yêu_cầu các nhà_sản_xuất điện_thoại cài_đặt Google_Search và Chrome nếu muốn truy_cập vào Google_Play , họ đã lợi_dụng sự thống_trị của mình ở lĩnh_vực chợ ứng_dụng Android để tăng thêm vị_thế của mảng tìm_kiếm trên cả máy_tính_để_bàn lẫn thiết_bị di_động .
+Đây không phải là phản_ứng đáng ngạc_nhiên của EU trong việc bảo_vệ cạnh_tranh .
+Họ muốn bảo_đảm sự cạnh_tranh công_bằng , đồng_thời ngăn_chặn một công_ty sử_dụng sự thống_trị của mình để bóp_méo tính cạnh_tranh trên thị_trường .
+Một công_ty liên_kết các sản_phẩm của mình để thúc_đẩy một sản_phẩm chủ_đạo khác phải hiểu rằng hành_vi này sẽ bị điều_tra chống độc_quyền .
+Theo The_Verge , EU đang tin rằng Google bắt_đầu hạn_chế tính cạnh_tranh trên Android một_cách trực_tiếp hơn khi buộc các đối_tác ký hiệp_định " chống phân mảnh " nếu muốn cài_đặt các ứng_dụng độc_quyền của Google .
+Đây là thỏa_thuận ngăn_chặn các công_ty sản_xuất thiết_bị di_động phân nhánh sản_phẩm của mình .
+Liên_quan đến vấn_đề phân mảnh , năm 2004 , EU đã buộc Microsoft phát_hành các phiên_bản Windows có và không có Windows_Media_Player ( WMP ) trong nỗ_lực ngăn_chặn gã khổng_lồ phần_mềm chuyển sự thống_trị từ lĩnh_vực máy_tính_để_bàn sang các phương_tiện truyền_thông mới .
+EU bỏ_phiếu ủng_hộ việc phân mảnh mặc_dù biết rằng giá bán Windows có WMP sẽ đắt hơn .
+Họ cho rằng cạnh_tranh không nhất_thiết phải rẻ .
+Khi EU điều_tra Google vào năm 2010 , vị_trí dẫn_đầu trên thị_trường di_động vẫn còn đang thuộc về Nokia và Symbian .
+Nhưng hiện_tại , đều này đã thay_đổi hoàn_toàn và EU cũng đã không còn quá " mặn_mà " với Microsoft nữa .
+Còn với Apple , Android hiện thống_trị trên thị_trường , nếu so_sánh với i OS hay các nền_tảng khác về số_lượng thì quả_thực là “ một_trời_một_vực ” .
+Do_đó , nếu chống độc_quyền , EU vẫn hiểu Google thực_sự là mục_tiêu lớn cần ngăn_chặn hơn so với Apple .
+Bảo_Lâm

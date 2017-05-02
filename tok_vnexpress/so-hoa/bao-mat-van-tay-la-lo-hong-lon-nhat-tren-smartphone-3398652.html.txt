@@ -1,0 +1,19 @@
+Bảo_mật vân tay là lỗ_hổng lớn nhất trên smartphone
+Các ông chồng chọn khóa điện_thoại bằng vân tay có_thể sẽ phải nghĩ_lại bởi nếu muốn , vợ họ sẽ không khó tìm ra cách truy_cập .
+Chỉ trong 5 phút , một người có_thể làm giả vân tay để đánh_lừa thiết_bị đọc trên smartphone .
+Hãng_Vkansee đã trình_diễn công_nghệ này trên trang The_Verge bằng cách sử_dụng khuôn nha_khoa và đất nặn để lấy dấu vân tay in trên bề_mặt nào_đó của chủ_nhân điện_thoại .
+Đã có nhiều trường_hợp giả_mạo vân tay để truy_cập smartphone .
+Tất_nhiên , phương_pháp này sẽ diễn ra trơn_tru hơn với sự trợ_giúp của chính chủ_nhân điện_thoại .
+Nhưng các chuyên_gia đã tìm ra rất nhiều cách khác_nhau để vượt qua rào_cản .
+Chẳng_hạn ,   năm 2013 , nhóm hacker Chaos_Computer_Club cho_hay họ chỉ cần lấy vân tay in trên bề_mặt , sau đó tạo_mẫu bằng chất keo dẻo là đã có_thể đánh_lừa được Touch ID .
+Apple từng tuyên_bố i Phone chỉ nhận_diện vân tay của người sống , nhưng thử_nghiệm của Vkansee cho thấy với cùng một vân tay giả , họ đã truy_cập thành_công cả trên i Phone 6 và Galaxy S6 edge .
+Hay năm 2014 , một nhà_nghiên_cứu có tên Starbug đã tạo khuôn_mẫu dấu vân tay 3D của Bộ_trưởng quốc_phòng Đức chỉ dựa trên bức ảnh chụp bàn_tay của ông với độ_phân_giải cao mà không cần tiếp_cận ngón_tay thực .   Đầu năm 2016 , các nhà_nghiên_cứu thuộc Đại_học Michigan ( Mỹ ) phát_hiện phương_pháp " nhân_bản dấu vân tay " , cho_phép mở khóa smartphone trong 15 phút .
+Bằng cách sử_dụng mực in có tính dẫn_điện và giấy in là loại dùng để sản_xuất bảng mạch điện_tử , họ có_thể " đột_nhập " vào điện_thoại thông_minh .
+Galaxy S6 và Huawei_Honor 7 đã bị mở khóa với phương_pháp này .
+Đầu_đọc vân tay đang là thành_phần quan_trọng trên smartphone , giúp điện_thoại bảo_mật hơn .
+Tuy_nhiên , rõ_ràng vân tay lại là thứ rất dễ bị đánh_cắp .
+Không như mật_khẩu , người dùng không_thể đổi vân tay của mình , tạo lỗ_hổng lớn cho kẻ tấn_công .
+Dù một kẻ xa_lạ sẽ khó có được vân tay hay ảnh chụp ảnh ngón_tay độ_phân_giải cao của bạn , kẽ hở này sẽ tạo cơ_hội cho các bà vợ kiểm_soát điện_thoại của chồng , hay những vụ chơi_xấu giữa các đồng_nghiệp ...
+Trong vụ tranh_cãi giữa Apple và FBI về chiếc i Phone 5c của kẻ khủng_bố , nhận_diện vân tay cũng được đề_cập tới .
+iPhone 5c là mẫu điện_thoại cuối_cùng của Apple không có đầu_đọc vân tay .
+Nếu kẻ khủng_bố dùng smartphone mới hơn cùng bảo_mật vân tay , có_thể cảnh_sát đã không phải vất_vả đến vậy để truy_cập điện_thoại .

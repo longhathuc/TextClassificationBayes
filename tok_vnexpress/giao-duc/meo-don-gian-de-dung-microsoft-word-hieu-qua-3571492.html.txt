@@ -1,0 +1,72 @@
+Mẹo đơn_giản để dùng Microsoft_Word hiệu_quả
+Thay_đổi văn_bản từ viết hoa sang viết thường , chèn ngày_giờ hay dịch tự_động là những tính_năng trong Word không phải ai cũng biết tận_dụng .
+Chương_trình soạn_thảo văn_bản Microsoft_Word ( gọi tắt là Word ) là một phần không_thể thiếu trong cuộc_sống hiện_đại .
+Tuy_nhiên , nhiều người sử_dụng chương_trình này nhiều năm mà vẫn không biết những tính_năng hữu_ích của nó .
+Trong các phiên_bản Word mới nhất , bạn có_thể ứng_dụng các   thủ_thuật   do Bright_Side chia_sẻ   dưới đây để tiết_kiệm thời_gian làm_việc .
+1 .   Cách tạo gạch_nối trong văn_bản
+Dấu_gạch_nối ( - ) hợp_lý ở những từ dài có_thể khiến tài_liệu dễ đọc hơn và cắt_giảm số_lượng trang với cùng một lượng văn_bản .
+Hãy chọn thẻ Page_Layout và ấn Hyphenation .
+Chương_trình sẽ đưa ra danh_sách tùy chọn bao_gồm none ( không ) , automatic ( tự_động ) và manual ( bằng tay ) .
+Cách tạo gạch_nối bằng tay ( manual ) .
+Nguồn : KnowVidz
+2 . Cách xem cấu_trúc văn_bản
+Nếu muốn tìm các phần chính trong văn_bản dài một_cách thuận_tiện , bạn có_thể sử_dụng chế_độ xem cấu_trúc toàn_bộ văn_bản bằng cách bấm thẻ View và sau đó chọn Outline .
+Bằng cách này , bạn dễ_dàng quản_lý văn_bản , ẩn và hiển_thị các phần của nó .
+3 . Cách chèn ngày_giờ nhanh_chóng
+Để thêm ngày_tháng , bạn ấn tổ_hợp phím Shift + Alt + D .
+Để thêm giờ , bạn ấn tổ_hợp phím Shift + Alt + T .
+4 . Cách chèn video
+Bạn có_thể chèn một loạt hình minh_họa , sơ_đồ hay video sống_động vào word .
+Tài_liệu của bạn sẽ không nặng hơn mà chỉ chuyển_đổi từ một liên_kết sang dạng_thức thích_hợp .
+Hãy ấn thẻ Insert , chọn Online_Video để tìm_hiểu cách thực_hiện .
+Hướng_dẫn chèn video trong Microsoft_Word 2016 .
+Nguồn : Robert_Mc Millen
+5 . Dịch văn_bản
+Word có tích_hợp tính_năng dịch văn_bản Bing_Translator .
+Vì là công_cụ tự_động , Bing có_thể không dịch tốt như bạn mong_đợi .
+Tuy_nhiên , nếu đơn_giản muốn hiểu nội_dung chính trong văn_bản , đây là tính_năng hữu_ích .
+Ưu_điểm lớn nhất của nó là bạn không phải tách_biệt trình_duyệt web và Word .
+Hơn_nữa , Bing cho_phép bạn lựa_chọn dịch toàn_bộ văn_bản , chỉ một phần hoặc một từ .
+Để sử_dụng công_cụ này , bạn có_thể chọn đoạn văn_bản cần dịch , ấn chuột phải , chọn Translate ( hoặc Search with Bing , tùy phiên_bản Word ) và tiếp_tục chọn ngôn_ngữ .
+Ngoài cách này , bạn cũng có_thể ấn vào thẻ Review và chọn Translate .
+6 . Cách chụp màn_hình bằng một cú nhấp chuột
+Khi đang làm_việc , bạn cần chụp ảnh màn_hình một cửa_sổ và chèn vào Word .
+Bạn có_thể thực_hiện ngay trong giao_diện của chương_trình soạn_thảo văn_bản này bằng cách chọn thẻ Insert và ấn Screenshot .
+Word sẽ tự_động hiển_thị hình thu nhỏ của tất_cả cửa_sổ đang hoạt_động .
+Bạn chỉ cần chọn hình_ảnh nào muốn sử_dụng để chèn vào .
+7 . Thay_đổi văn_bản từ viết hoa thành viết thường
+Đôi_khi bạn vô_tình ấn nhầm CAPS_LOCK khiến mọi chữ_cái đều viết hoa .
+Để không phải gõ lại mọi thứ lần nữa bằng chữ thường , bạn chỉ cần chọn đoạn văn_bản và ấn tổ_hợp phím Shift + F3 .
+8 . Cách soạn_thảo một văn_bản cùng người khác
+Từ phiên_bản Microsoft_Word 2013 , bạn có_thể cùng soạn_thảo một tài_liệu với những người khác , thậm_chí phản_hồi các bình_luận của họ trên văn_bản .
+Hãy chọn thẻ Review và khám_phá tất_cả tùy chọn cần_thiết .
+Tính_năng này giúp bạn dễ_dàng hợp_tác trong công_việc .
+9 .
+Cách chỉnh_sửa file PDF
+Để chỉnh_sửa file PDF , bạn không cần đến Adobe_Reader hay nguồn nào khác .
+Nếu sử_dụng Word   phiên_bản   từ 2013 trở đi , bạn có_thể dễ_dàng chỉnh_sửa khi mở file bằng chương_trình này .
+10 . Cách gõ ở vị_trí bất_kỳ trong trang
+Ít người biết không cần ấn dấu cách hoặc Enter hàng trăm lần khi muốn gõ văn_bản ở một vị_trí bất_kỳ trong trang .
+Bạn chỉ cần click đúp vào vị_trí muốn gõ và con_trỏ chuột sẽ xuất_hiện ở đó .
+Word sẽ tự_động chèn dòng và khoảng trắng .
+11 . Cách ẩn văn_bản
+Thủ_thuật này sẽ hữu_ích cho những_ai cần tạm_thời ẩn một mẩu thông_tin nhất_định .
+Chỉ cần chọn đoạn văn_bản cần ẩn , bấm Ctrl + D , sau đó chọn ô Hidden .
+Mọi người sẽ không_thể nhìn thấy đoạn văn_bản đó , nhưng bạn biết nó vẫn tồn_tại .
+Để hiển_thị lại đoạn văn_bản bị ẩn , bạn bôi_đen toàn_bộ văn_bản ( Ctrl + A ) , bấm Ctrl + D và click hai lần vào ô Hidden .
+12 . Cách di_chuyển con_trỏ nhanh_chóng
+Các tổ_hợp phím dưới đây giúp đơn_giản_hóa việc điều hướng con_trỏ trong một tài_liệu dài .
+Bạn hãy ghi_nhớ chúng để không phải mất thời_gian di chuột lên và xuống khi cần tìm vị_trí trong văn_bản .
+Ctrl + Alt + Page_Up : quay lại trang trước
+Ctrl + Alt + Page_Down : đi đến trang sau
+Ctrl + Home : trở_lại điểm bắt_đầu văn_bản
+Ctrl + End : đi đến điểm kết_thúc văn_bản
+13 .
+Cách chèn dấu xác_thực
+Để đánh_dấu bản_quyền , bạn có_thể sử_dụng dấu xác_thực trong văn_bản .
+Hãy vào thẻ Page_Layout , ấn Watermark và chọn hình_ảnh , kiểu chữ mong_muốn .
+14 .
+Kiểm_tra tính tương_thích với các phiên_bản khác trước khi lưu
+Trong nhiều trường_hợp , phiên_bản cũ của chương_trình không_thể mở các file vừa tạo ở phiên_bản mới , hoặc hiển_thị định_dạng sai .
+Để đảm_bảo người nhận có_thể đọc được văn_bản trên phiên_bản Word cũ , hãy chọn thẻ File và sử_dụng tính_năng Compatibility_Check .
+Phiêu_Linh

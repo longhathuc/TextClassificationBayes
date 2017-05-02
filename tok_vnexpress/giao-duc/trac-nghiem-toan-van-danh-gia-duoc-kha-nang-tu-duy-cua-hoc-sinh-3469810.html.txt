@@ -1,0 +1,79 @@
+Trắc_nghiệm Toán vẫn đánh_giá được khả_năng tư_duy của học_sinh
+Ta cũng đã thi_trắc_nghiệm Lý , Hóa ... rồi , học_sinh cũng phải có giấy bút , ghi tóm_tắt các bước giải , vẫn phải tính_toán logic , khả_năng suy_luận chặt_chẽ .
+Nếu_không có những phẩm_chất ấy , sẽ không_bao_giờ đạt điểm_cao .
+Thầy_giáo Trần_Quý_Phi có bài viết trao_đổi về dự_thảo kỳ thi THPT quốc_gia 2017 , trong đó có việc thi_trắc_nghiệm môn Toán .
+Hơn một tuần này dư_luận xôn_xao về vấn_đề đổi_mới thi tốt_nghiệp THPT .
+Có hai luồng ý_kiến cơ_bản .
+Luồng thứ nhất cho rằng chưa nên triển_khai thay_đổi ngay trong năm nay , vì nhiều vấn_đề còn cần phải đánh_giá , chuẩn_bị kể_cả về kỹ_thuật lẫn tâm_lý học_sinh .
+Luồng ý_kiến thứ_hai , cực_đoan hơn , cho rằng nói_chung là không nên triển_khai thi_trắc_nghiệm môn Toán ở cuộc_thi tốt_nghiệp THPT , vì làm như_thế sẽ triệt_tiêu tư_duy toán_học , làm mất đi những lợi_thế về giáo_dục toán_học mà nhiều năm nay chúng_ta đã đạt được .
+Bản_thân tôi cũng cho rằng triển_khai những thay_đổi ngay trong năm 2017 là vội_vàng , vì về tâm_lý , các thí_sinh vẫn có sự chuẩn_bị cho một kỳ thi như năm 2016 và hơn_nữa .
+Về mặt kỹ_thuật , cần thời_gian để xây_dựng và kiểm_định ngân_hàng đề thi theo các tiêu_chuẩn khoa_học và sư_phạm gắt_gao .
+Ở đây tôi muốn bàn nhiều hơn về luồng ý_kiến thứ_hai .
+Tôi nghĩ chuyện học nói_chung và thi_cử hơi giống chuyện đá banh ở chỗ ai cũng có_thể bàn .
+Âu cũng là lẽ thường_tình trong một xã_hội cởi_mở và tôn_trọng quyền cá_nhân .
+Có_điều khác với đá banh , với mọi người chỉ là trò_chơi , chuyện thi_cử rõ_ràng không phải là chuyện chơi mà là chuyện khoa_học .
+Khoa_học về đánh_giá , đo_lường .
+Người có trách_nhiệm tổ_chức thi_cử phải nắm rõ khoa_học đó , phải có căn_cứ để thuyết_phục mọi người , cả giải_thích lý_thuyết lẫn chứng_minh thực_nghiệm .
+Người tham_gia thi và những người liên_quan cũng_nên thận_trọng khi góp_ý , bàn_luận .
+Những đất_nước có nền giáo_dục tiên_tiến là nhờ có những kỳ thi tốt , đó là điều không_thể chối_cãi .
+Và muốn có những kỳ thi tốt như_vậy họ phải_biết sử_dụng những kết_quả của khoa_học đo_lường trong giáo_dục .
+Một trong những khái_niệm cơ_bản của một kỳ thi là tính tin_cậy và tính giá_trị của nó .
+Giả_dụ , hàng ngày bạn ra chợ mua một ký thịt , và luôn mua ở một bà bán thịt .
+Nếu trong thực_tế cái cân của bà bán thịt đó bị non , cứ luôn là 9 lạng rưỡi , thì cái cân của bà ấy rất " ổn_định " .
+Ta gọi nó có độ tin_cậy cao .
+Nếu cái cân lúc già lúc non quá nhiều , thì cái cân không có độ tin_cậy , vì nó " năm nóng năm lạnh " .
+Thi tự luận khó có tính tin_cậy cao là vì phụ_thuộc vào chủ_quan của người chấm .
+Cùng một bài thi , luôn_luôn có sự chênh_lệch điểm giữa các lần chấm .
+Đó là điều mà không ai chối_cãi được .
+Thi_trắc_nghiệm sẽ dễ có độ tin_cậy cao hơn , ít_nhất là ở khâu chấm bài , vì cùng một bài thi dù chấm nhiều lần đều có kết_quả như nhau .
+Nếu một dạng bài thi cho học_sinh thi hai lần , cách nhau vài tuần ( học_sinh không đủ thời_gian để cải_thiện ) thì thí_sinh có điểm_số gần_như nhau , thì dạng bài thi đó có độ tin_cậy cao .
+Hình_như trước_đây thi IELTS để có chứng_nhận về khả_năng Anh_văn , họ không cho_phép thí_sinh đăng_ký thi nếu trước đó đã thi không quá ba_tháng thì_phải .
+Vì trong khoảng thời_gian đó kết_quả sẽ không sai khác nhiều , thi chỉ phí tiền và thời_gian .
+Tính tin_cậy của bài thi đương_nhiên cũng phụ_thuộc vào việc tổ_chức thi có nghiêm_túc không , công_bằng không .
+Ví_dụ , thí_sinh thi ở cụm này thì_có khuynh_hướng nhiều điểm hơn ở cụm khác , vì được coi thi dễ hơn .
+Kỳ thi đó không có tính tin_cậy cao .
+Tính tin_cậy của bài thi có_thể tính_toán được , bằng nhiều phương_pháp .
+Đặc_biệt là đối_với bài thi_trắc_nghiệm .
+Dĩ_nhiên bài thi nào cũng có mục_đích của nó .
+Nhưng chúng_ta không nên nói chung_chung mà phải xác_định rõ_ràng hơn vì mục_đích của bài thi sẽ dẫn đến hình_thức của bài thi .
+Thi lái_xe thì_phải lên xe mà đi .
+Không_thể cho vài câu_hỏi lên dốc thì phanh sao , thắng sao .
+Thi như_vậy , để lấy bằng lái_xe , là không có tính giá_trị .
+Đánh_giá kỹ_năng viết văn thì_phải làm luận .
+Đó là điều đương_nhiên .
+Nhưng rắc_rối nảy_sinh khi ta gặp các môn khoa_học_tự_nhiên .
+Đặc_biệt là môn Toán mà gần đây mọi người bàn_tán sôi_nổi .
+Mục_đích của thi môn Toán là đánh_giá kỹ_năng tư_duy toán_học , suy_luận logic , tính_toán ...
+Nhưng có cần phải trình_bày rõ cho mọi người những bước tư_duy , suy_luận , tính_toán như_vậy hay không ?
+Lấy ví_dụ một bài toán_đố , chỉ cần thí_sinh đưa ra đáp_số đúng ( hoặc chọn đúng trong một_số lựa_chọn được cho sẵn ) là được rồi hay thí_sinh cần trình_bày vì_sao mình làm như_vậy .
+Đó là cả một vấn_đề cực_kỳ hệ_trọng .
+Nói một_cách gọn_ghẽ là chúng_ta muốn đánh_giá tư_duy toán_học , suy_luận và tính_toán đơn_thuần hay cả việc trình_bày những kỹ_năng đó ?
+Dĩ_nhiên nếu chúng_ta chọn cái sau , tức_là có việc trình_bày , thì_phải là thi tự luận .
+Nhưng nếu_không cần trình_bày , thì thi_trắc_nghiệm cũng có_thể đánh_giá được .
+Không ai có_thể cho rằng khi làm trắc_nghiệm về Toán mà thí_sinh không cần tư_duy .
+Cho rằng bấm máy_tính là đủ để làm trắc_nghiệm thì quá cực_đoan , mà không nghĩ rằng đó là do việc ra câu_hỏi là để đánh_giá khả_năng tính_toán chứ không thực_sự là tư_duy toán_học .
+Tức_là đề thi không có tính giá_trị để đánh_giá tư_duy nếu chỉ gồm những câu như_vậy .
+Ở đây , theo chúng_tôi thi_trắc_nghiệm về Toán , cũng_như các môn khoa_học_tự_nhiên khác là quan_niệm " quản_lý theo hiệu_quả " .
+Nghĩa_là tôi không biết anh làm thế_nào , anh suy_nghĩ ra_sao , miễn_là kết_quả đầu_ra của anh tốt là được .
+Có_lẽ do có khuynh_hướng thực_dụng , phương Tây , đặc_biệt là Mỹ họ đã dùng trắc_nghiệm lâu_đời và vẫn dùng cho các kỳ thi có tính tiêu_chuẩn của họ .
+Dù không phải là không có khuyết_điểm , nhưng giá_trị của các kỳ thi như_vậy cũng được công_nhận rộng_rãi .
+Nhưng dù_sao , có một điều hiển_nhiên là thi sao học vậy .
+Thi_trắc_nghiệm thì ta học theo kiểu ... trắc_nghiệm .
+Nếu bình_tĩnh ngẫm_nghĩ thì vấn_đề không đến_nỗi như_vậy .
+Ta cũng đã thi , trắc_nghiệm Lý , Hóa ... rồi .
+Các em học các môn đó có phải chỉ chăm_chăm cái máy_tính bấm_bấm rồi khoanh A , B , C , D không ?
+Hay các em cũng phải có giấy bút , ghi tóm_tắt các bước giải ?
+Dĩ_nhiên em nào nhanh_trí hơn thì ghi ít hơn , nghĩa_là mất ít thì_giờ hơn .
+Nhưng có phải các em mất đi tính logic , khả_năng suy_luận chặt_chẽ không ?
+Dĩ_nhiên không , nếu_không có những phẩm_chất ấy , các em sẽ không_bao_giờ đạt điểm_cao được , nếu đề thi không quá tầm_thường .
+Rồi trên lớp các thầy_cô cũng phải giảng_dạy từng bước giải_quyết vấn_đề , cũng có bài_tập tự luận , kiểm_tra miệng ...
+Nghĩa_là chúng_ta cần phân_biệt các bài thi trong khi học , mà chuyên_môn gọi_là các bài thi hình_thành ( formative ) .
+Khi đó các hình_thức tự luận cần được chú_trọng vì như_vậy mới phát_hiện được các em sai_sót ở bước nào để uốn_nắn .
+Cần phân_biệt việc học với việc luyện thi .
+Ở đâu cũng vậy , ở Mỹ cũng vậy , thi là phải luyện cách làm bài , có chiến_lược .
+Nhưng nếu quá_trình học không có căn_bản thì tự luận hay trắc_nghiệm cũng_như nhau thôi .
+Kỳ thi cuối cấp , thi vào các trường đại_học khác với các kỳ thi trong khi học như thi học_kỳ ... , gọi_là kỳ thi hoàn_thành ( achievement ) .
+Những kỳ thi này nhằm tổng_kết và buộc phải có chuyện rớt đậu , cao_thấp ...
+Và vì nó mang ý_nghĩa xã_hội , ảnh_hưởng đến nhiều vấn_đề như cạnh_tranh về trường_học , ngành_nghề , học_bổng ... nên buộc phải có tính tin_cậy cao vì nó phải bảo_đảm được một_cách cao nhất tính nghiêm_túc , công_bằng .
+Và trắc_nghiệm sẽ có ưu_thế hơn tự luận cho sự bảo_đảm này .
+Trần_Quý_Phi Trưởng_phòng Đào_tạo Cao_đẳng y_tế Quảng_Nam

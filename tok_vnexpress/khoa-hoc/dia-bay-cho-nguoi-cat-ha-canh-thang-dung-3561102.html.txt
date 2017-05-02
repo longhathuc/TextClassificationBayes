@@ -1,0 +1,10 @@
+' Đĩa_bay ' chở người cất hạ_cánh thẳng_đứng
+Một công_ty Italy đưa ra ý_tưởng chế_tạo phương_tiện hình đĩa_bay có_thể đạt tốc_độ lên tới 193 km / h .
+Được thiết_kế bởi Pierpaolo_Lazzarini   đến từ công_ty Italy_Jet_Capsule , Vật_thể bay xác_định hay IFO là máy_bay_trực_thăng hai chỗ ngồi , Design_Boom hôm 23/3 đưa tin .
+Bộ khung bao_gồm khoang lái ở trung_tâm có đường_kính 2 mét , bao quanh là vành đĩa bằng sợi carbon có kích_thước 4,7 mét .
+IFO hoạt_động nhờ 8 động_cơ_điện , giúp phương_tiện đạt tốc_độ tối_đa khoảng 193 km / h .
+Nguồn điện đến từ nhiều bộ pin đặt ở vành đĩa cùng pin phụ ở chính giữa thân khoang lái .
+Thời_gian bay sau mỗi lần sạc đầy pin khoảng 60 - 70 phút .
+Để hạ_cánh êm_ái , phương_tiện có 6 trụ đỡ có_thể gập và duỗi thẳng .
+Người sử_dụng có_thể lên IFO thông_qua thang_máy ở dưới thân phương_tiện hoặc qua hai cầu di_động có sẵn ở điểm hạ_cánh .
+Phương_Hoa ( Đồ_họa : Tech_Insider )

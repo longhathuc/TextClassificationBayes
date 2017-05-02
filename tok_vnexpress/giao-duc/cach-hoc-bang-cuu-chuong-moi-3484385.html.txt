@@ -1,0 +1,16 @@
+Cách học bảng_cửu_chương mới
+Không còn dấu nhân hay dấu bằng , không sắp_xếp thành nhiều cột với những dãy số gây_rối mắt , bảng tính Pythagoras là phương_pháp mới giúp học_sinh học bảng_cửu_chương dễ_dàng hơn .
+Hầu_hết trẻ_em và thậm_chí cả người_lớn gặp khó_khăn trong việc ghi_nhớ bảng_cửu_chương .
+Nhiều học_sinh cố_gắng thuộc_lòng nhưng càng cố nhớ thì càng hay quên bởi bảng_cửu_chương phổ_biến rộng_rãi ở các trường_học khá rắc_rối .
+Mới_đây , Bright_Side ( Mỹ ) giới_thiệu bảng_cửu_chương kiểu mới có tên “ Bảng tính Pythagoras ” , giúp trẻ ghi_nhớ dễ_dàng và có hứng_thú hơn với môn Toán .
+Bảng tính Pythagoras có một_số ưu_điểm như : không chứa thông_tin không cần_thiết ( dấu bằng hay dấu nhân ) , giúp trẻ ghi_nhớ những con_số một_cách tự_nhiên mà không cần phải quá cố_gắng học thuộc nó ; dạy trẻ phải suy_nghĩ , tìm ra quy_luật của bảng tính chứ không đơn_thuần là học thuộc_lòng .
+Cách tìm phép nhân rất đơn_giản .
+Các em chỉ cần gióng số ở hàng ngang và hàng dọc với nhau .
+Kết_quả chính là điểm giao nhau của hai đường gióng .
+Ví_dụ , khi gióng số 3 ở hàng ngang với số 5 ở hàng dọc .
+Ta thấy điểm giao nhau giữa hai đường là số 15 .
+Như_vậy , kết_quả của phép nhân 3 x 5 = 15 .
+Trong bảng tính này , các con_số đối_xứng nhau qua hàng chéo là giống nhau .
+Nhìn vào đó , bộ_não của trẻ sẽ được điều_chỉnh để phát_hiện đối_xứng .
+Điều này giúp trẻ hiểu được bản_chất của phép nhân và ghi_nhớ lâu hơn .
+Thanh_Tâm

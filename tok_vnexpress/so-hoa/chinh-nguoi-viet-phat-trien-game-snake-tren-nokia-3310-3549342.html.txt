@@ -1,0 +1,22 @@
+Chính người Việt phát_triển game Snake trên Nokia 3310
+Thông_tin trên phần giới_thiệu cho thấy nhiều thành_viên trong đội_ngũ phát_triển trò_chơi là người Việt_Nam .
+Xuất_hiện tại   sự_kiện   Mobile_World_Congress ( MWC ) 2017 , Nokia 3310 là chiếc điện_thoại gây được nhiều ấn_tượng nhất .
+Một trong nhiều lý_do khiến sự hồi_sinh của sản_phẩm này được chú_ý là trò_chơi đi kèm Snake , còn được biết với cái tên Rắn săn mồi .
+Càng đặc_biệt hơn khi đội_ngũ phát_triển phiên_bản game Snake trên chiếc di_động sắp ra_mắt này là người Việt_Nam .
+Anh Trần_Mạnh_Hiệp , chuyên_gia công_nghệ tham_dự sự_kiện ra_mắt sản_phẩm này cho_biết khi chơi thử , phát_hiện phần giới_thiệu thông_tin về sản_phẩm xuất_hiện nhiều cái tên Việt_Nam .
+Không_chỉ vậy , phần ngôn_ngữ của trò_chơi cũng có lựa_chọn tiếng Việt .
+Tên người Việt trong phần giới_thiệu game Snake trên Nokia 3310 .
+Ảnh : Trần_Mạnh_Hiệp
+Theo thông_tin hiển_thị trên thiết_bị , Snake trên phiên_bản Nokia 3310 mới là sản_phẩm của nhà_sản_xuất Gameloft .
+Và những cái tên như Hồ_Đắc_Thế , Đỗ_Phạm_Trúc_Duyên ... là các thành_viên thuộc studio Saigon1 ( SA1 ) , trực_thuộc Gameloft_Việt_Nam .
+Tuy_nhiên , theo chia_sẻ của người trong cuộc thì vì lý_do bảo_mật và phía Nokia phụ_trách hoàn_toàn vấn_đề truyền_thông nên thông_tin chi_tiết về đội_ngũ làm game sẽ không được tiết_lộ cho tới khi chiếc di_động này chính_thức được tung ra thị_trường .
+Gameloft hiện có 28 studio đặt trên khắp các quốc_gia , trong đó Việt_Nam có 4 studio , hai ở HCM còn lại là Hà_Nội và Đà_Nẵng .
+Phần_lớn các nhân_viên đều rất trẻ , tuổi_đời dưới 30 .
+Trúc_Duyên , nữ nhân_sự phụ_trách đồ_họa 2D cho game Snake   cũng khá trẻ , sinh năm 1993 .
+Không giống như smartphone , điện_thoại Nokia 3310 không có hệ_điều_hành .
+Máy sở_hữu các thông_số kỹ_thuật cụ_thể , khiến cho việc phát_triển ứng_dụng , cụ_thể ở đây là game Snake , đòi_hỏi người lập_trình chỉ cần tuân_thủ nghiêm_ngặt các quy_định và yêu_cầu kỹ_thuật đặt ra .
+Ngoài_Snake , còn có 3 trò_chơi khác được tích_hợp vào máy là Asphalt 6 : Adrenaline , Diamond_Twister 2 và Doodle_Jump .
+Chơi_Snake và Asphalt 6 : Adrenaline trên Nokia 3310
+Được xếp vào nhóm các trò_chơi huyền_thoại , Snake là game yêu_thích của người dùng điện_thoại Nokia thời đầu , khi các tính_năng giải_trí còn khá ít trên các thiết_bị di_động .
+Bản game trên di_động đầu_tiên được lập_trình năm 1997 bởi Taneli_Armanto , một kỹ_sư thiết_kế của Nokia và chỉ bao_gồm các hình_vuông màu đen , con rắn di_chuyển 4 hướng .
+Snake II ra sau , trên chiếc Nokia 3310 ( 2000 ) bổ_sung nhiều phần_thưởng và hệ_thống mê_cung dưới dạng khu_vực di_chuyển bị giới_hạn bởi tường_bao .

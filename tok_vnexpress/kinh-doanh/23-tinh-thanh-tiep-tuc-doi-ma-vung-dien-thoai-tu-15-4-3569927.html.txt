@@ -1,0 +1,19 @@
+23 tỉnh , thành tiếp_tục đổi mã vùng điện_thoại từ 15/4
+Giai_đoạn 2 của   kế_hoạch chuyển_đổi mã vùng điện_thoại cố_định sẽ được thực_hiện với 23 tỉnh_thành bắt_đầu_từ ngày 15/4 và kết_thúc sau 2 tháng .
+23 tỉnh , thành_thuộc khu_vực   Đông_Bắc , Đồng_bằng Sông_Hồng và Tây_Nam_Bộ   chính_thức thay_đổi mã vùng điện_thoại cố_định từ ngày 15/4 .
+Giai_đoạn một chuyển_đổi tại 13 tỉnh_thành ở các tỉnh phía Tây_Bắc và Bắc_Trung_Bộ   sẽ hoàn_tất trong ngày hôm_nay ( 14/4 ) .
+Trong giai_đoạn 2 , Bộ Thông tin & Truyền_thông cho_biết việc chuyển_đổi sẽ bắt_đầu từ_từ 0h ngày 15/4 , kết_thúc quay số song_song vào 23h59 ngày 14/5 và kết_thúc thời_gian duy_trì âm thông_báo từ 23h59 ngày 16/6 .
+Giai_đoạn 2 :   23 tỉnh , thành   ( từ 15/4 đến 16/6 )
+Ở mỗi giai_đoạn , việc chuyển_đổi đều được thực_hiện theo 4 bước : thông_báo trên các phương_tiện truyền_thông , tiến_hành biện_pháp kỹ_thuật để quay số song_song trong 30 ngày , duy_trì âm thông_báo trong thời_gian tối_thiểu 30 ngày kể từ khi kết_thúc việc quay số song_song , kết_thúc âm thông_báo - các cuộc_gọi chỉ thành_công khi người sử_dụng quay số theo mã vùng mới .
+Tại hội_nghị sơ_kết công_tác đổi mã vùng điện_thoại cố_định diễn ra cuối tháng 3 , lãnh_đạo   Cục Viễn thông , Bộ Thông tin & Truyền_thông trong giai_đoạn 1 , tỷ_lệ sai_sót không có và số cuộc_gọi thành_công cao .   Giai_đoạn này , cuộc_gọi số cũ và số mới được thực_hiện song_song , trong đó các cuộc_gọi liên tỉnh là 40% , quốc_tế 20% .
+Về cước_phí sau khi chuyển_đổi mã vùng , lãnh_đạo Bộ Thông tin & Truyền_thông cũng nhấn_mạnh , các doanh_nghiệp cần rà_soát kỹ trước khi tính cước , phải lưu_ý , loại_trừ lỗi do chuyển_đổi mã vùng tính nhầm .
+2 thành_phố là Hà_Nội và TP_HCM việc chuyển_đổi được tiến_hành trong giai_đoạn 3 , tức_là sau hơn 2 tháng nữa .
+Sau khi thay_đổi , mã vùng các tỉnh , thành trên cả nước ( trừ Hà_Nội và TP_HCM ) sẽ thống_nhất về dạng 3 chữ_số ( thay_vì 2 hoặc 3 chữ_số hiện_nay ) , bắt_đầu bằng chữ_số 2 .
+Với_Hà_Nội và TP_HCM , do số thuê_bao hiện_tại có nhiều hơn một chữ_số so với những địa_phương khác ( 8 số so với 7 số ) nên mã vùng mới sẽ chỉ bao_gồm 2 chữ_số , cũng bắt_đầu với chữ_số 2 .
+Theo đó , khi gọi số điện_thoại cố_định liên tỉnh ( hoặc từ điện_thoại_di_động sang máy cố_định ) trên cả nước , người dùng sẽ thống_nhất bấm 11 số với mã vùng mới như sau ( việc thực_hiện cuộc_gọi nội_tỉnh không có gì thay_đổi ) :
+Lộ_trình chuyển_đổi mã vùng đối_với 59 trên tổng_số 63 tỉnh , thành đã được Bộ Thông tin & Truyền_thông chính_thức công_bố hồi tháng 11 năm_ngoái .
+Kế_hoạch chuyển_đổi mã vùng trên toàn_quốc sẽ kết_thúc vào ngày 31/8 .
+Đây được xem là bước_tiến trong việc triển_khai thực_hiện Quy_hoạch kho số viễn_thông đã được ban_hành năm 2014 .
+Sau lần chuyển_đổi này , mã vùng điện_thoại cố_định trong cả nước sẽ thống_nhất với đầu số 2 .
+Bộ Thông tin & Truyền_thông cho_biết với việc chuyển_đổi các mã vùng điện_thoại cố_định từ 7 đầu số ( từ 2 đến 8 ) như hiện_nay về chỉ còn đầu 2 , kho số quốc_gia sẽ thu lại được nhiều đầu mã , tạo điều_kiện cho việc chuyển thuê_bao di_động 11 chữ_số về 10 chữ_số .
+Điều này góp_phần hạn_chế SIM rác , tin nhắn rác .

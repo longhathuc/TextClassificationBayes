@@ -1,0 +1,22 @@
+Robot tiên cá tìm kho báu trong xác tàu đắm của vua Louis XIV
+Robot tiên cá có_thể lặn tới độ sâu mà con_người không đạt đến nhằm tìm_kiếm những báu_vật mắc_kẹt trong xác tàu dẫn đường của vua Pháp_Louis XIV .
+Theo Guardian , và giữa tháng 4/2016 , các nhà_nghiên_cứu robot ở Đại_học Stanford , Mỹ , đưa thành_công robot tiên cá xuống nơi có xác tàu đắm để thu_thập một chiếc bình quý có kích_thước bằng chùm nho .
+Năm 1664 , tàu dẫn đường La_Lune của vua Louis XIV chìm ở vùng_biển cách thành_phố Toulon , Pháp , 32 km về phía nam .
+Từ đó tới nay , xác tàu vẫn nằm ở độ sâu 100 m .
+Trước đó , robot tiên cá OceanOne được đưa vào thử_nghiệm thông_qua công_nghệ thực_tế ảo .
+Oussama_Khatib , giáo_sư khoa_học máy_tính tại Đại_học Stanford là người trực_tiếp điều_khiển con robot .
+Khatib cho_biết việc kết_hợp các kỹ_năng của con_người với cấu_trúc chắc_chắn của robot tiên cá sẽ làm thay_đổi những cuộc thám_hiểm dưới biển .
+" Con_người có_thể trang_bị cho robot trực_giác , chuyên_môn và khả_năng nhận_thức .
+Robot có_thể hoạt_động trong môi_trường nguy_hiểm với con_người " , Khatib chia_sẻ .
+Các thợ lặn tìm xác tàu đắm và sinh_vật biển sâu thường gặp khó_khăn với nguồn cung_cấp dưỡng_khí và áp_lực nước .
+Thành_công của lần thử_nghiệm này cho thấy OceanOne có_thể mở_rộng những cuộc thám_hiểm dưới nước trong thời_gian lâu hơn , ở độ sâu lớn hơn .
+Mục_đích ban_đầu của nhóm kỹ_sư chế_tạo OceanOne là nghiên_cứu các rặng san_hô ở sâu dưới Biển_Đỏ .
+Dự_án của Đại_học Stanford hướng đến kết_hợp kỹ_năng của con_người với sự bền chắc của tàu_ngầm tự_động .
+Robot_Ocean One có hình_dạng rất giống con_người .
+Nó có tầm nhìn như con_người nhờ hai camera hướng về phía trước .
+Cổ_tay của nó có các khớp cử_động nối_liền với cảm_biến lực .
+Những cảm_biến này tác_động trực_tiếp lên_tay của Khatib thông_qua quá_trình mang tên phản_hồi cảm_giác .
+Nhờ đó , người điều_khiển cảm_nhận được vật_thể mà robot đang cầm .
+Khatib cho_biết trong tương_lai , con robot sẽ được bổ_sung thêm cảm_biến xúc_giác .
+Xem thêm :   Robot phẫu_thuật tự_động giỏi hơn bác_sĩ
+Thùy_Dương

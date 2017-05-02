@@ -1,0 +1,31 @@
+Lợi_ích của smarthome chưa đủ lớn để chinh_phục người dùng
+Các hãng công_nghệ đang ráo_riết chiếm_lĩnh thị_trường đầy màu_mỡ : những ngôi nhà thông_minh ( smarthome ) trong đó mọi đồ_vật được kết_nối Internet .
+Ý_tưởng tủ_lạnh hiển_thị e - mail và người dùng có_thể thao_tác trực_tiếp trên tủ để đặt mua hàng đã được nhắc đến nhiều lần .
+Các mẫu thiết_kế vẫn được trưng_bày hàng năm ở triển_lãm CES tại Las_Vegas ( Mỹ ) và năm nay cũng không phải ngoại_lệ .
+Samsung trình_diễn chiếc tủ_lạnh thông_minh được trang_bị camera và màn_hình 21,5 inch , hỗ_trợ kiểm_tra tình_trạng đồ_ăn bên trong mà không cần mở tủ .
+Người dùng cũng có_thể theo_dõi thực_phẩm ngay trên smartphone thông_qua ứng_dụng và đặt_hàng bổ_sung .
+Trong khi đó , LG cũng giới_thiệu phiên_bản tủ_lạnh với khả_năng tự_động mở tủ khi nghe tiếng bước chân người đang tiến đến .
+Hãng này khẳng_định sản_phẩm của họ đủ thông_minh để không nhận_diện nhầm vật_nuôi hoặc trẻ_em chơi_đùa gần đó ...
+Nhà thông_minh là mơ_ước của nhiều người , nhưng họ vẫn chùn bước khi nghĩ tới giá_cả và bảo_mật .
+Theo Telegraph , không_thể phủ_nhận những nỗ_lực của các nhà_sản_xuất , nhưng chắc_chắn sẽ chỉ một lượng nhỏ người dùng bỏ tiền ra mua những thứ như_vậy .
+Lý_do cũng tương_tự như chẳng ai mua tủ cấp đông   Electrolux_Screenfridge ( dù được đánh_giá là đột_phá ) năm 1999 hay   LG Digital DIOS năm 2000 vì lợi_ích từ việc kết_nối Internet mà những thiết_bị này đem lại còn quá thấp nếu so với mức giá khổng_lồ của chúng .
+Ngoài tủ_lạnh , có nhiều yếu_tố để làm_nên một ngôi nhà thông_minh .
+Từ những chiếc bếp ga có_thể bật_tắt từ xa tới việc đóng mở_cửa tự_động , các công_ty công_nghệ đang tham_vọng có_thể chiếm một chỗ_đứng trên thị_trường tỷ đô mang tên Smarthome .   Philips đang kinh_doanh một loạt dòng bóng_đèn kết_nối tới mạng Wi-Fi gia_đình .
+Samsung hứa_hẹn mọi thiết_bị gia_dụng mà họ cho ra_đời trong bốn năm tới sẽ " thông_minh hơn " .
+Apple và Google phát_triển những nền_tảng để các thiết_bị trong nhà liên_lạc với nhau qua smartphone .
+Gần_như mọi công_ty ở Thung_lũng   Silicon ( Mỹ ) đang đầu_tư cho IoT ( Internet of Things - Internet của vạn_vật ) và đều công_nhận đây là xu_hướng của tương lại .
+Tuy_nhiên , người tiêu_dùng vẫn cảm_thấy chưa đủ thuyết_phục .
+Một nghiên_cứu của   Deloitte năm 2015 cho thấy chỉ 2% hộ gia_đình ở Anh trang_bị hệ_thống điều_nhiệt thông_minh .
+Tỷ_lệ sử_dụng hệ_thống đèn thông_minh , camera an_ninh thông_minh hay đồ gia_dụng thông_minh đạt con_số tương_đương .   Cũng chỉ khoảng 5% người tham_gia khảo_sát nói họ sẽ mua một sản_phẩm gia_dụng thông_minh trong năm tới .
+Nhìn_chung , người tiêu_dùng chưa nhìn thấy những lợi_ích mà smarthome mang lại khi so_sánh với số tiền mà họ bỏ ra .
+Chưa kể , đôi_khi , người dùng Internet lại bắt_gặp những cảnh_báo của một hãng bảo_mật nào_đó về nguy_cơ bị tấn_công thông_qua những thiết_bị gia_dụng thông_minh .
+Chẳng_hạn , chuông cửa kết_nối Internet ( có_thể gửi thông_tin đến điện_thoại của người dùng khi ai đó bấm chuông ) có_thể dễ_dàng bị hack , hay hệ_thống mạng tại_gia bị khống_chế thông_qua một chiếc tủ_lạnh ...   Đáng_sợ hơn , hacker sẽ khai_thác camera an_ninh và biết được mọi thứ diễn ra trong ngôi nhà .
+Chúng có_thể dùng những thông_tin đó cho mục_đích xấu như ăn_trộm , tống_tiền , phát_tán lên mạng ...
+Những lo_lắng này không phải không có cơ_sở .
+Cuối tháng 12/2015 , chính_phủ Ukraine cho_biết tình_trạng mất điện liên_tục tại quốc_gia này có_thể là do hacker can_thiệp vào hệ_thống quản_lý điện_lưới , ảnh_hưởng đến hàng triệu người_dân .
+Từ cách đây 2 năm , khảo_sát của   Ipsos_Mori cho thấy chỉ 18% người tham_gia đánh_giá cao tiềm_năng của thiết_bị thông_minh mà không lo_ngại những nguy_cơ bảo_mật .
+Có_thể , phải 10 năm nữa , người dùng mới cởi_mở hơn với những sản_phẩm smarthome .
+Tuy_nhiên , các nhà_sản_xuất không dám đứng ngoài cuộc_chơi khi nhớ tới bài_học của Nokia .
+Thị_trường điện_thoại chứng_kiến sự lụi tàn của " ông vua " đến từ Phần_Lan bởi họ không kịp thay_đổi trước làn_sóng smartphone thế_hệ mới do Apple đi đầu .
+Do_đó , điều quan_trọng hiện_nay là các hãng cần tìm ra những giải_pháp thực_sự thông_minh và mang lại lợi_ích khiến người dùng sẵn_sàng bỏ tiền mua kể_cả khi những lo_ngại về bảo_mật không_bao_giờ biến_mất .
+Châu_An

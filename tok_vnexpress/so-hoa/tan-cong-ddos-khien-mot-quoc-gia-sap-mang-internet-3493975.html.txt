@@ -1,0 +1,14 @@
+Tấn_công DDoS khiến một quốc_gia ' sập ' mạng Internet
+Vụ tấn_công từ_chối dịch_vụ ( DDoS ) quy_mô lớn đã đánh_gục hạ_tầng mạng quan_trọng tại Liberia , một quốc_gia ở Tây_Phi .
+Theo PCWorld , mạng_lưới " máy_tính ma " ( botnet ) khổng_lồ đã nhận lệnh tấn_công vào các địa_chỉ IP ở châu Phi , khiến hệ_thống Internet tại Liberia bị sập hồi đầu tháng 11 .
+Đáng chú_ý , hình_thức tấn_công này tương_tự các đợt diễn ra_vào cuối tháng trước , khiến Internet tại Mỹ và châu Âu bị tê_liệt .
+Các thiết_bị   IoT ( Internet of Thing ) trở_thành công_cụ   cho các tin_tặc thực_hiện tấn_công mạng .
+Theo chuyên_gia bảo_mật Kevin_Beaumont , Botnet 14 , một dạng của mã độc Mirai , đã tạo ra lượng truy_cập lên đến 500 Gigabit mỗi giây , đủ phá vỡ mọi hệ_thống mạng trọng_yếu của Liberia .
+Tin_tặc đã hình_thành mạng_lưới " máy_tính ma " này thông_qua phát_hành phần_mềm độc_hại rồi chia_sẻ trên các diễn_đàn từ cuối tháng 9 .
+Ước_tính khoảng nửa triệu thiết_bị Internet bảo_mật kém như camera giám_sát và đầu ghi_hình ... đã nhiễm mã độc Mirai .
+Trong khi đó Dyn , công_ty quản_lý hệ_thống tên_miền ( Domain_Name_System ) , nạn_nhân trực_tiếp của vụ tấn_công trước đó tại Mỹ , đã bị hạ gục bởi 100.000 thiết_bị nhiễm mã độc .
+Các biến_thể của Mirai cũng liên_tục xuất_hiện .
+Các chuyên_gia tin rằng những cuộc tấn_công từ_chối dịch_vụ trong tương_lai có_thể đạt 10 Terabit mỗi giây , đủ sức hạ gục toàn_bộ mạng Internet tại bất_kỳ quốc_gia nào .
+Để bảo_vệ chính mình , người dùng cần thận_trọng hơn trong vấn_đề bảo_mật các thiết_bị thông_minh .
+Xem thêm :
+> Internet tại Mỹ và châu Âu bị ngưng_trệ vì DDoS >   Hacker huy_động webcam Trung_Quốc để đánh sập Internet

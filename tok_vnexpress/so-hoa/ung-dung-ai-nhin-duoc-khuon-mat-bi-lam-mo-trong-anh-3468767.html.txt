@@ -1,0 +1,11 @@
+Ứng_dụng AI ' nhìn ' được khuôn_mặt bị làm mờ trong ảnh
+Các thông_tin nhạy_cảm trên ảnh thường được xóa mờ trước khi chia_sẻ lên mạng , nhưng một phần_mềm mới có_thể khiến hành_động này trở_nên vô_nghĩa .
+Các nhà_nghiên_cứu tại Đại_học Texas và   Cornell ( Mỹ ) cho_biết việc che những chi_tiết cần bảo_mật như khuôn_mặt , biển_số xe ... sẽ sớm lạc_hậu vì ứng_dụng hiện_đại sẽ giải_mã được ảnh gốc .
+Sử_dụng công_cụ học sâu ( deep learning ) , phần_mềm AI xác_định được 71% các khuôn_mặt và chữ_số .
+Tỷ_lệ này tăng lên tới 83% nếu máy_tính được phép đoán 5 lần .
+Trong khi đó , khả_năng nhận_diện của con_người chỉ đạt 0,2% .
+Dù thuật_toán không khôi_phục được ảnh gốc , nó có_thể dựng lại hình_ảnh tương_tự dựa trên những gì nó nhìn thấy .
+Sử_dụng trí_tuệ_nhân_tạo , các ứng_dụng hiện_đại có_thể " nhìn " được các khuôn_mặt ẩn sau những bức ảnh đã được xóa mờ .
+Ảnh minh_họa :   aarynwest
+Ứng_dụng này được đánh_giá là mối nguy_hiểm với sự riêng_tư trên Internet vì có_thể xác_định được chi_tiết đã xóa bằng công_cụ Pixelate của Photoshop hay công_cụ của YouTube ( cho_phép làm mờ người và vật_thể khi đăng video ) .
+Tuy phần_mềm chưa thực_sự hoàn_hảo và vẫn đang được phát_triển , các nhà_nghiên_cứu khuyến_cáo người dùng rằng không gì có_thể che_giấu mãi_mãi một_khi thông_tin đã xuất_hiện trên Internet .

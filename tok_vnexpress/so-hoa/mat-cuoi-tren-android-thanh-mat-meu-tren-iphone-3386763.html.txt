@@ -1,0 +1,13 @@
+' Mặt cười ' trên Android thành ' mặt mếu ' trên i Phone
+Không ít người dùng điện_thoại Android bị hiểu lầm khi gửi emoji hình mặt cười nhe răng sang i Phone .
+Nghiên_cứu của nhóm   GroupLens Lab thuộc Đại_học   Minnesota ( Mỹ ) cho thấy một_số emoji ( biểu_tượng cảm_xúc ) hiển_thị khác_nhau trên điện_thoại Android và i OS , khiến người nhận hiểu sai ý của người gửi .
+Hannah_Miller , trưởng nhóm nghiên_cứu , cho_biết họ tiến_hành khảo_sát sau khi chứng_kiến một_số người mô_tả   biểu_tượng cười vui_vẻ của Android bị biến thành khuôn_mặt nhăn_nhó , " như chỉ muốn đánh nhau " trên thiết_bị của Apple .
+Không ít người hiểu nhầm tin nhắn vui thành tin nhắn buồn vì emoji hiển_thị khác_nhau trên điện_thoại .
+Biểu_tượng mặt cười vui trông khác_nhau   trên các   điện_thoại , trong đó trên i Phone bị biến thành khuôn_mặt đau_khổ
+Người dùng , đặc_biệt là thanh_thiếu_niên , hiện rất thích các ký_tự hình_ảnh emoji .
+Thống_kê của Facebook cho thấy , khi muốn thể_hiện thái_độ buồn_cười , 51,4% dùng " haha " và 13% dùng " hehe " .
+Xếp thứ_hai là emoji với tỷ_lệ 33,7% .
+Emoji là biểu_tượng thể_hiện cảm_xúc , sắc_thái giống như emotion và người dùng có_thể gửi emoji từ chỗ này sang chỗ khác mà vẫn bảo_toàn được hình_ảnh .
+Emoji thể_hiện thái_độ cười vui phổ_biến thứ_hai trên Facebook chỉ sau " haha " .
+Tuy_nhiên , đôi_khi các hệ_thống và nhà_phát_triển diễn_giải hình_ảnh emoji khác_nhau , dẫn đến sự chênh_lệch về sắc_thái .
+Do_đó , nếu_không chắc_chắn , người dùng nên chọn sử_dụng từ_ngữ ( như haha ) hoặc các ký_tự như : - ) : - ( : D là đủ .

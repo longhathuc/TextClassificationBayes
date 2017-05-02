@@ -1,0 +1,8 @@
+Bài_toán ' lát sàn ' lớp 7 có_thể khiến bạn gặp khó
+Bài_toán tính số gạch lát sàn nhà nằm trong đề thi Đánh_giá năng_lực tư_duy toán_học quốc_tế - IMAS dành cho học_sinh lớp 7-8 .
+Hãy thể_hiện khả_năng tư_duy nhanh_nhạy của bạn thông_qua việc giải bài_toán này .
+Một sàn nhà ( như hình_vẽ ) được lát bởi hai loại gạch vuông A và B .
+Hai loại gạch này có diện_tích lần_lượt là 1.600 cm2 và 900 cm2 .
+Hỏi nếu dùng loại gạch C có diện_tích 100 cm2 để lát phần diện_tích còn lại ( phần được tô màu ) thì_phải cần bao_nhiêu viên ?
+Thanh_Tâm
+> > Bài_toán ' chim_sẻ ' của trẻ lớp 1 có_thể làm_khó bạn > > Bài_toán chia táo có_thể khiến bạn nhầm_lẫn

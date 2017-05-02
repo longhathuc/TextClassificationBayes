@@ -1,0 +1,37 @@
+Forbes đánh_giá cao phần_mềm học tiếng Anh ' made in Vietnam '
+Một cô_gái Việt_Nam đã khởi_nghiệp bằng phần_mềm ứng_dụng giúp người học cải_thiện kỹ_năng phát_âm tiếng Anh .
+Sản_phẩm đã chiến_thắng tại cuộc_thi SXSWedu .
+Văn_Vũ luôn tự_tin vào kỹ_năng nói tiếng Anh .
+Lớn lên ở Nha_Trang ( Khánh_Hòa ) , cô học tiếng Anh ở trường và với một gia_sư .
+Giáo_viên của cô đặc_biệt chú_trọng về ngữ_pháp , vì_vậy trước khi du_học cao_học , cô có nền_tảng tiếng Anh tốt .
+Nhưng khi bắt_đầu học MBA tại Đại_học Stanford ( Mỹ ) , cô nhận ra vấn_đề phát_âm tiếng Anh của mình gây cản_trở nhiều .
+Cô gặp khó_khăn trong giao_tiếp hiệu_quả hơn với các giáo_sư và bạn học .
+Điều này tác_động tiêu_cực đến cô .
+Vũ chia_sẻ : “ Bạn cảm_thấy như mình bị bỏ mặc ” .
+Cô nhanh_chóng nhận ra không_chỉ có mình như_vậy .
+Sau khi nói_chuyện với bạn_bè , những người đang sống và làm_việc tại nước_ngoài , cô nhận thấy họ đều có chung một sự trở_ngại bắt_nguồn từ vấn_đề phát_âm .
+Nhưng thuê một gia_sư riêng rất tốn_kém , đặc_biệt với những sinh_viên toàn thời_gian .
+Vì_vậy , Vũ quyết_định tìm một giải_pháp tốt hơn .
+Vũ không giỏi kỹ_thuật khi học ở Đại_học Stanford , nhưng cô theo_dõi tin_tức về sự phát_triển trong ngành máy học ( machine learning ) và nghĩ rằng công_nghệ này có_thể giúp giải_quyết vấn_đề phát_âm mặc_dù cô không thấy nhiều sự giao_thoa giữa máy học và giáo_dục ngôn_ngữ tại thời_điểm đó .
+Vũ cho_biết , các công_ty ở Bay_Area không chú_ý đến lĩnh_vực học ngôn_ngữ bởi_vì họ đa_phần là người Mỹ .
+Nhưng sau khi khảo_sát bạn_bè , nhiều người cũng lớn lên và học tiếng Anh ở Việt_Nam , Vũ nhận ra đây là một thị_trường tiềm_năng .
+Vào tháng 3/2016 , Vũ ra_mắt ELSA trong SXSW và sản_phẩm đã chiến_thắng tại cuộc_thi SXSWedu .
+ELSA là viết tắt English_Language_Speech_Assistant , một ứng_dụng di_động có sử_dụng AI để giúp người dùng cải_thiện khả_năng phát_âm .
+Người dùng có_thể truy_cập vào các tùy chọn chương_trình đào_tạo dựa trên lợi_ích của mình , chẳng_hạn du_lịch , học_thuật ...
+Sau đó , họ sẽ gặp một loạt từ và cụm từ_vựng , các thuật_toán trong ELSA sẽ phân_tích cách phát_âm của họ .
+Nếu ELSA phát_hiện một phát_âm sai , nó sẽ cho người sử_dụng biết cách phát_âm chuẩn của từ đó , cách đặt lưỡi và môi như_thế_nào để phát_âm cho đúng .
+Theo Vũ , điều này cần_thiết để học tiếng Anh hiệu_quả .
+Việc nghe giọng Mỹ là một bước_đi tốt nhưng không đủ trừ khi bạn có một tai_nghe tốt về ngôn_ngữ .
+Điều này đặc_biệt đúng với những người mà tiếng_mẹ_đẻ có âm ngữ không giống tiếng Anh .
+Vũ cho_biết cô và đội_ngũ ELSA đã đưa rất nhiều dữ_liệu phát_âm vào trong hệ_thống .
+Họ cũng làm_việc với những nhà trị_liệu ngôn_ngữ để xác_định vấn_đề quan_trọng trong việc học tiếng Anh của các khu_vực khác_nhau trên thế_giới .
+Giáo_trình của ELSA không bao_gồm các bài_học về ghi_nhớ ngữ_pháp hay từ_vựng bởi_vì đã có các ứng_dụng hiệu_quả khác như Duolingo .
+Cô xem ELSA như công_cụ cho người có trình_độ trung_bình sử_dụng để cải_thiện kỹ_năng tiếng Anh của bản_thân .
+Một phiên_bản cập_nhật của ELSA sẽ ra_mắt vào cuối tháng 9 hoặc đầu tháng 10 , và sẽ cho_phép người sử_dụng khai_báo ngôn_ngữ mẹ đẻ và chương_trình có_thể thiết_kế cho phù_hợp với nhu_cầu của họ .
+Phiên_bản mới cũng sẽ bao_gồm một chương_trình mở_rộng .
+Người_Việt_Nam hiện chiếm 30-35 % người sử_dụng ELSA .
+Việt_Nam đang được coi là thị_trường thí_điểm của công_ty .
+Sản_phẩm cũng thu_hút người dùng từ Nhật_Bản , Indonesia , Thái_Lan , Trung_Đông và châu Âu .
+Nhưng hiện_nay , tập_trung chính của Vân là giúp phát_triển giáo_dục tiếng Anh tại quê_nhà .
+“ Tôi muốn mọi người Việt_Nam học tiếng Anh và có nhiều cơ_hội hơn trong cuộc_sống ” , cô chia_sẻ .
+Quỳnh_Linh ( theo Forbes )

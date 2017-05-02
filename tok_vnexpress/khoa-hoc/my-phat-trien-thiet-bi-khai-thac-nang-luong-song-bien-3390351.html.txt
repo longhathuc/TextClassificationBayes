@@ -1,0 +1,14 @@
+Mỹ phát_triển thiết_bị khai_thác năng_lượng sóng biển
+Sóng biển mang năng_lượng rất lớn , và các nhà_nghiên_cứu đã tìm ra cách để khai_thác nguồn năng_lượng khổng_lồ này , ước_tính có_thể đáp_ứng một_phần_ba nhu_cầu năng_lượng của Mỹ .
+Theo Science_Alert , để khai_thác nguồn năng_lượng tiềm_năng này , các nhà_nghiên_cứu từ công_ty Oscilla_Power chuyên về năng_lượng tái_tạo , đã tạo ra một thiết_bị có tên Triton gồm một loạt các máy phát nổi trên mặt_biển , được giữ với nhau bằng các sợi cáp đặt dưới nước .
+" Khi sóng tương_tác với thiết_bị , có một sự chuyển_đổi các cực_từ được tạo ra bên trong kim_loại , được sử_dụng để phát_điện " , theo tác_giả Meagan_Parrish .
+Nhóm nghiên_cứu giải_thích , năng_lượng sẽ được khai_thác không phải thông_qua sự chuyển_động của bất_kỳ bộ_phận nào trong thiết_bị .
+Nếu làm_vậy Triton sẽ bị sóng đánh vỡ .
+Thay vào đó , năng_lượng sẽ được hấp_thụ nhờ các sợi cáp nối linh_hoạt .
+Những sợi cáp này được nối với một đĩa nâng bất đối_xứng bằng kim_loại ( heave plate ) đặt dưới biển .
+Khi nước_biển chuyển_động truyền tới , đĩa này sẽ chuyển_động và truyền năng_lượng lên máy_phát_điện theo các sợi cáp .
+Triton là thiết_bị độc_nhất có_thể khai_thác năng_lượng từ các loại chuyển_động nâng lên hạ xuống , lắc ngang , quay dọc và quay ngang .
+Triton đang được thử_nghiệm ở quy_mô nhỏ để đảm_bảo nó có_thể chịu được các lực xô_đẩy lớn trong lòng đại_dương trên thực_tế .
+Mặc_dù còn sớm , nhưng các báo_cáo chỉ ra rằng , nếu nhóm nghiên_cứu thành_công với thiết_kế của mình , Triton có_thể đáp_ứng một_phần_ba nhu_cầu năng_lượng của Mỹ và 15% nhu_cầu thế_giới .
+Cụ_thể , mỗi máy phát sẽ có công_suất 600 kW , trong khi năng_lượng sinh_hoạt gia_đình trung_bình tại Mỹ vào_khoảng 911 kWh ( 1,26 KW ) mỗi tháng , nghĩa_là mỗi máy phát sẽ cung_cấp đủ điện cho khoảng 500 hộ gia_đình .
+Nguyễn_Thành_Minh

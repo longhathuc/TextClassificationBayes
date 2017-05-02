@@ -1,0 +1,9 @@
+Bài_toán về người say rượu khiến bạn chóng_mặt
+Bài_toán về quãng đường đi được của một người say rượu nằm trong đề thi đánh_giá năng_lực tư_duy toán_học quốc_tế dành cho học_sinh lớp 7 .
+Một người say rượu đi từ điểm xuất_phát về phía đông một mét và dừng lại .
+Sau đó , anh_ta quay 90 độ cùng chiều hoặc ngược chiều kim_đồng hồ và đi thêm 2 mét nữa rồi lại dừng lại .
+Tiếp đó , anh_chàng này quay 90 độ cùng chiều hoặc ngược chiều kim_đồng hồ và đi thêm 3 mét nữa .
+Anh_ta cứ làm như_vậy 7 lần và mỗi lần quay 90 độ , anh_ta lại đi thêm quãng đường nhiều hơn một mét so với lần đi trước đó .
+Hỏi , khi dừng lại lần thứ 7 , anh từ cách xa điểm xuất_phát nhiều nhất bao_nhiêu mét ?
+Thanh_Tâm
+> > Bài_toán tư_duy cấp tiểu_học khiến người_lớn đau_đầu > > Thử tài tư_duy của bạn với bài_toán lớp 7

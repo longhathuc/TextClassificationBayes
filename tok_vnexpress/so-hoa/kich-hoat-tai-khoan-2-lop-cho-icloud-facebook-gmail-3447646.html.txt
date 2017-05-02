@@ -1,0 +1,15 @@
+Kích_hoạt tài_khoản 2 lớp cho i Cloud , Facebook , Gmail
+Bảo_mật 2 lớp ( 2-factor authentication )   giúp bảo_vệ tài_khoản tốt hơn , những ứng_dụng hay dịch_vụ phổ_biến như i Cloud , Facebook , Twitter , Gmail ... đều được trang_bị tính_năng này .
+So với hoạt_động đăng_nhập thông_thường , bảo_mật 2 lớp an_toàn hơn do nó yêu_cầu người dùng xác_thực thêm một bước nữa thông_qua mã an_toàn được gửi về tin nhắn điện_thoại hoặc cuộc_gọi tự_động .
+Mặc_dù tốn thêm một_chút thời_gian , tuy_nhiên , hình_thức bảo_mật mới này được các chuyên_gia an_ninh mạng khuyên dùng , bởi mức_độ bảo_vệ của nó cao hơn rất nhiều .
+Ví_dụ , tin_tặc đã đánh_cắp được mật_khẩu của bạn , trước_đây chúng dễ_dàng đăng_nhập vào tài_khoản nhưng hiện_tại , dù có mật_khẩu đó thì chúng vẫn không_thể làm_gì bởi không có mã xác_thực .
+Hiện_nay , các ứng_dụng , dịch_vụ thường dùng như   Cloud , Facebook , Twitter ... đã tích_hợp tính_năng bảo_mật này .
+Tuy_nhiên , bạn phải kích_hoạt nó .
+Dưới đây là hướng_dẫn chi_tiết :
+Thiết_lập bảo_mật 2 lớp cho Gmail
+Tạo bảo_mật 2 lớp cho i Cloud
+Bảo_vệ 2 lớp cho tài_khoản Facebook
+Tăng khả_năng bảo_mật cho Instagram
+Các bước kích_hoạt bảo_mật 2 lớp cho Twitter
+Kích_hoạt bảo_mật 2 lớp cho tài_khoản Microsoft
+Bảo_Lâm

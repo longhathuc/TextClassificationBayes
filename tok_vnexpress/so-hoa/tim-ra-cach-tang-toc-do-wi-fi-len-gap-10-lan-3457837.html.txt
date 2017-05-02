@@ -1,0 +1,19 @@
+Tìm ra cách tăng tốc_độ Wi-Fi lên gấp 10 lần
+Đại_học MIT vừa nghiên_cứu thành_công MegaMIMO 2.0 , phương_pháp giúp tăng_tốc mạng Wi-Fi lên tới 10 lần , giải_quyết vấn_đề nghẽn mạng và mạng yếu khi có nhiều thiết_bị truy_cập cùng lúc .
+MegaMIMO vẫn đảm_bảo   Wi-Fi tốc_độ cao   kể_cả khi có nhiều thiết_bị truy_cập cùng lúc .
+Thông_thường , trong các sự_kiện lớn như ra_mắt sản_phẩm , triển_lãm , hòa_nhạc … ban tổ_chức thường trang_bị Wi-Fi miễn_phí để mọi người có_thể truy_cập Internet dễ_dàng .
+Tuy_nhiên , việc có quá nhiều người truy_cập đồng_thời làm cho bộ định_tuyến không dây quá_tải , hậu_quả là kết_nối Internet rất chậm , thậm_chí không_thể kết_nối .
+Cách phổ_biến nhất để hạn_chế là sử_dụng hệ_thống MIMO ( Multi-Input Multi-Output ) nhằm " phân_chia " và " trì_hoãn " tín_hiệu thu vào và phát ra .
+Để dễ hình_dung , thay_vì " đi thẳng " , dữ_liệu lại đi " vòng_vèo " hoặc được " phân làn " ( như trên đường_cao_tốc ) thông_qua bộ định_tuyến nhằm giãn cách chúng , từ đó hạn_chế tình_trạng bị tắc_nghẽn .
+Tuy_nhiên , hệ_thống này vẫn chưa đáp_ứng được nhu_cầu với lượng người dùng cực lớn , ví_dụ Wi-Fi phủ_sóng thành_phố .
+Để giải_quyết vấn_đề này , các nhà_nghiên_cứu thuộc phòng_thí_nghiệm Khoa_học máy_tính của Đại_học MIT ( Massachusetts_Institute of Technology ) đã nghiên_cứu và cho ra_đời MegaMIMO 2.0 .
+Về cơ_bản , đây là hệ_thống cho_phép kết_nối các bộ định_tuyến không dây với nhau một_cách liền mạch , các tín_hiệu Wi-Fi vào ra một_cách tuần_tự , không cùng lúc gửi qua một tần_số , giảm tỷ_lệ nhiễu sóng … từ đó tăng tốc_độ Wi-Fi , tối_đa lên nhiều lần .
+" MegaMIMO 2.0 là hệ_thống MIMO cho_phép kết_hợp và điều_phối hoạt_động của các điểm truy_cập mạng , như bộ định_tuyến không dây .
+Nó sẽ giúp tín_hiệu thu / phát không gửi qua một tần_số cùng lúc , vốn là nguyên_nhân làm tắc_nghẽn mạng , mà sẽ làm điều đó tuần_tự " , đại_diện nhóm nghiên_cứu cho_biết .
+Để chứng_minh , các nhà_khoa_học đã tiến_hành thử_nghiệm bằng 4 máy phát Wi-Fi độc_lập , và máy thu nằm trong cùng khu_vực .
+Khi kết_nối chúng theo cách thông_thường , tốc_độ mạng khá chậm .
+Nhưng nếu kết_hợp 4 máy thu phát này và áp_dụng MegaMIMO 2.0 , băng_thông dữ_liệu tăng với hệ_số 3,6 .
+" Trong điều_kiện tốt hơn , MegaMIMO 2.0 có_thể tăng tốc_độ Wi-Fi lên gấp 10 lần " , đại_diện nhóm nhấn_mạnh .
+Theo BGR , các nhà_khoa_học MIT đang tiếp_tục nghiên_cứu về công_nghệ mới này , trước khi thương_mại_hóa nó trong tương_lai gần .
+Thử_nghiệm tốc_độ mạng bằng   MegaMIMO 2.0 với 4 máy thu phát Wi-Fi :
+Bảo_Lâm

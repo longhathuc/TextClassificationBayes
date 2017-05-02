@@ -1,0 +1,5 @@
+Robot thay người trồng đủ rau ăn một năm
+Nhiều người hiện_nay không biết hay không yên_tâm về nguồn_gốc thực_phẩm cũng_như cách nuôi_trồng .
+Farmbot_Genesis là dự_án mã nguồn mở của một nhóm nghiên_cứu_viên ở California , Mỹ , cho_phép người tự in các linh_kiện bằng máy_in 3D , cải_thiện tính_năng và ra_lệnh cho robot thay mình trồng các loại rau cần_thiết .
+Xem thêm : Nhà_máy trồng rau không cần đất ở Trung_Quốc
+Hồng_Hạnh ( Video : Tech_Insider )

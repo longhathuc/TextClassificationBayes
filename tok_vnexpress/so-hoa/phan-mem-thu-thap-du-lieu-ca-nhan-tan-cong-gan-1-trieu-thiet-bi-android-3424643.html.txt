@@ -1,0 +1,19 @@
+Phần_mềm thu_thập dữ_liệu cá_nhân tấn_công gần 1 triệu thiết_bị Android
+Phần_mềm độc_hại mới có tên Godless có_thể tự_tạo quyền cao nhất trên thiết_bị Android và bí_mật cài vào máy các chương_trình không mong_muốn .
+Phần_mềm độc_hại   trên Android ngày_càng nguy_hiểm .
+Theo số_liệu vừa được công_bố bởi hãng bảo_mật Trend_Micro , Godless , phần_mềm độc_hại mới được phát_hiện , đã xâm_nhập vào hơn 850.000 thiết_bị di_động chạy Android trên toàn thế_giới , chủ_yếu là phiên_bản Android 5.1 Lollipop ( đang chiếm thị_phần lớn nhất ) .
+Ấn Độ là khu_vực bị ảnh_hưởng nhiều nhất với 46,19% , tiếp đến là vùng Đông_Nam Á .
+Riêng tại Việt_Nam , 2,12% smartphone Android đã bị nhiễm phần_mềm này .
+Godless ẩn vào một hoặc nhiều ứng_dụng trên Google_Play .
+Với đặc_quyền xâm_nhập root ( cơ_chế tác_động tương_tự những bộ khai_thác sử_dụng mã nguồn mở ) , phần_mềm có_thể đi_sâu vào gốc_rễ thiết_bị , tự_tạo quyền truy_cập admin ( quyền cao nhất ) , sau đó tự_động cài_đặt các phần_mềm gián_điệp khác mà người dùng không hề hay_biết .
+Danh_sách các quốc_gia có smartphone Android nhiễm Godless .
+Sau khi bị nhiễm , smartphone Android sẽ bị tác_động từ xa bởi tin_tặc , có_thể tải về và cài_đặt các ứng_dụng không mong_muốn phục_vụ cho mục_đích quảng_cáo , hay nghiêm_trọng hơn là thu_thập dữ_liệu , thông_tin nhạy_cảm của người dùng .
+Không_những thế , hãng bảo_mật còn ghi_nhận sự tiến_hóa nhanh_chóng của Godless .
+Biến_thể mới nhất của malware này có khả_năng bám vào gốc_rễ của hệ_điều_hành , do_đó rất khó để gỡ bỏ .
+“ Bạn sẽ tìm thấy các ứng_dụng chứa mã độc Godless trên Google_Play .
+Chúng thường là các tiện_ích như đèn_pin , ứng_dụng Wi-Fi cũng_như bản_sao của các trò_chơi nhiều người dùng .
+Thậm_chí , vẫn đang tồn_tại một số_lượng lớn các   bản cập_nhật độc_hại tương_ứng với   ứng_dụng sạch trên cửa_hàng Google nhưng có chung giấy chứng_nhận phát_triển .
+Điều này khiến người dùng từ sử_dụng ứng_dụng không bị nhiễm virus nhưng tự ‘ rước họa vào thân ’ vì cập_nhật bản có mã độc ” , đại_diện Trend_Micro khuyến_cáo .
+Theo lời khuyên từ hãng bảo_mật này , mỗi khi tải về các ứng_dụng , trò_chơi phổ_biến , người dùng nên kiểm_tra các nhà_phát_triển xem họ đã được chứng_thực bởi Google hay chưa ( có dấu chứng_thực phía sau tên nhà_phát_triển ) .
+Ngoài_ra , không nên tải các ứng_dụng từ nguồn không xác_định , cũng_như cài_đặt phần_mềm diệt virus để bảo_vệ thiết_bị Android của mình tốt hơn .
+Bảo_Lâm ( theo PC World )

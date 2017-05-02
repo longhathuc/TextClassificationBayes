@@ -1,0 +1,13 @@
+Apple cố_tình ' bóp băng_thông ' trên i Phone 7
+Một_số smartphone mới nhất của Apple sử_dụng modem của Qualcomm được công_ty giới_hạn tốc_độ tải về ( download ) so với hiệu_suất tối_đa của chip .
+Theo Bloomberg , Apple đã cố_tình " bóp " hiệu_suất chip mạng do Qualcomm sản_xuất trên i Phone 7 nhằm kéo tốc_độ download của chúng thấp bằng tốc_độ của các thiết_bị dùng modem Intel .
+Hãng công_nghệ Mỹ làm_vậy để giảm sự khác_biệt giữa hai phiên_bản này .
+Có sự khác_biệt về tốc_độ tải về trên i Phone 7 dùng modem của Qualcomm và của Intel .
+Modem mạng trên i Phone 7 hiện do cả Qualcomm và Intel cung_cấp vì Apple không muốn phụ_thuộc vào một nhà cung_ứng duy_nhất .
+Vì chip mạng của Qualcomm có hiệu_suất cao hơn của Intel , Apple phải can_thiệp kỹ_thuật để chúng tương_đương nhau .
+Các chuyên_gia cho_biết sự khác_biệt giữa i Phone 7 dùng chip của Qualcomm và Intel không lớn đủ để người dùng có_thể nhận_biết được .
+Tuy_nhiên , không ít người thắc_mắc liệu nếu để modem của Qualcomm chạy đúng " năng_lực " của nó thì hiệu_suất sẽ ấn_tượng thế_nào .
+Ngay cả khi bị " bóp " hiệu_suất , các tính_toán cho thấy i Phone 7 dùng modem Qualcomm X12 vẫn cho chạy tốt hơn bản dùng chip Intel XMM 3360 .
+Bên_cạnh đó , iPhone 7 dùng modem của Qualcomm cũng bắt sóng tốt hơn bản dùng chip Intel .
+Cả_Intel và Qualcomm đều từ_chối bình_luận , trong khi Apple tuyên_bố " mỗi chiếc i Phone 7 và 7 Plus đều đáp_ứng hoặc vượt qua tiêu_chuẩn không dây của Apple về hiệu_suất , chất_lượng cũng_như độ tin_cậy " .
+Các máy có mã A1660 , A1661 dùng modem MDM9645M của Qualcomm , còn dòng A1778 , A1784 được trang_bị sản_phẩm của Intel .   Hiện i Phone 7 dùng modem của Qualcomm được bán tại Trung_Quốc , Nhật_Bản và Mỹ , còn mẫu dùng của Intel là cho các thị_trường còn lại .

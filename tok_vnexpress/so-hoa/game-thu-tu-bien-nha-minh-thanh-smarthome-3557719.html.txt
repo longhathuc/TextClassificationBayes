@@ -1,0 +1,6 @@
+Game thủ_tự biến nhà mình thành smarthome
+Lắp_đặt động_cơ ở nhiều vị_trí như cửa chính , cửa_sổ , đèn , lò sửa ...
+Allen_Pan điều_khiển tất_cả bằng một chiếc sáo và hệ_thống nhận_diện âm_thanh qua micro .
+Phát cuồng với trò_chơi nhập_vai phiêu_lưu trên hệ máy console   Legend of Zelda , game thủ am_hiểu công_nghệ Allen_Pan đã biến căn_hộ của mình thành ngôi nhà thông_minh .
+Lập_trình hệ_thống nhận lệnh bằng âm_thanh , chính là các điệu nhạc quen_thuộc trong trò_chơi yêu_thích , game thủ này sử_dụng Ocarina - một cây sáo cổ hình trứng từng xuất_hiện trong trò_chơi kể trên .
+Tuy trông khá phức_tạp và lằng_nhằng với hệ_thống dây nối lộ_thiên , nhưng anh_chàng này đã có_thể điều_khiển việc đóng mở_cửa chính , bật đèn đun nước , bật lò sửa , tưới cây , gọi điện_thoại , mở khóa xe_hơi ... chỉ bằng cách thổi sáo .

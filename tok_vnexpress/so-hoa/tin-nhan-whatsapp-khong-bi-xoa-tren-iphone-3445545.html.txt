@@ -1,0 +1,20 @@
+Tin nhắn WhatsApp không bị xóa trên i Phone
+Một chuyên_gia bảo_mật đã phát_hiện ứng_dụng WhatsApp trên i Phone không xóa hẳn các dòng tin nhắn dù từng được quảng_cáo là được tích_hợp hệ_thống mã_hóa end - to-end .
+Đầu 2016 , WhatsApp tự_hào công_bố ứng_dụng nhắn_tin của mình đã được tích_hợp hệ_thống mã_hóa mới end - to-end an_toàn hơn , cho_phép mọi cuộc_gọi , tin nhắn , hình_ảnh , video , tập_tin và tin nhắn âm_thanh đều được giữ bí_mật từ đầu đến cuối , ngay cả WhatsApp cũng không_thể truy_cập được .
+Tất_nhiên , chúng sẽ xóa hoàn_toàn khỏi hệ_thống nếu người dùng muốn và không hề bị lưu_trữ trên bất_kỳ một máy_chủ nào .
+Tin nhắn WhatsApp không bị xóa trên i Phone dù đã được mã_hóa end - to-end .
+Tuy_nhiên , Jonathan_Zdziarski , một chuyên_gia bảo_mật i OS , cho rằng WhatsApp không thực_sự xóa các tin nhắn của người dùng mà vẫn lưu các nội_dung đó lại dù người đó đã nhấn nút xóa toàn_bộ .
+Để chứng_minh , ông đã sử_dụng chiếc i Phone đã cài sẵn ứng_dụng mà Facebook sở_hữu , thực_hiện một_số đoạn chat , sao lưu các tin nhắn và cuối_cùng nhấn vào nút " Xóa tất_cả các cuộc trò_chuyện " .
+Lúc này , tất_cả tin nhắn , kể_cả đã được sao lưu đều biến_mất .
+Thế_nhưng sau khi xóa , bằng các công_cụ chuyên_dụng , Zdziarski vẫn thấy nội_dung tin nhắn xuất_hiện trong SQLite , một hệ_thống quản_lý cơ_sở_dữ_liệu quan_hệ mà WhatsApp đang sử_dụng .
+Như_vậy , tin nhắn vẫn được lưu_trữ , tuy không phải là tất_cả .
+Và nếu ai tiếp_cận được dữ_liệu này , họ có_thể phục_hồi chúng dễ_dàng , thậm_chí là phục_hồi từ xa .
+" Dữ_liệu vẫn được lưu_trữ trên SQLite do không bị ghi đè nên vẫn có_thể phục_hồi lại được bằng các công_cụ truy_tìm dấu_vết .
+Điều này thực_sự nguy_hiểm , bởi với những bản ghi còn sót lại , kẻ xấu có_thể thu_thập , giải_mã chúng cho mục_đích riêng " , Zdziarski nhấn_mạnh .
+Cũng theo Zdziarski , đây là một lỗ_hổng và ông tin rằng WhatsApp không lưu_trữ các thông_tin đó có chủ_đích .
+Do_đó , ông đã gửi những gì mình phát_hiện được đến Facebook , đồng_thời đưa ra lời khuyên cho người dùng ,
+" Cách tốt nhất bạn có_thể làm là loại_bỏ ứng_dụng này ra khỏi máy và thay_thế bởi những cái tên an_toàn hơn , như Telegram .
+Tuy_nhiên , bạn có_thể giảm_thiểu rủi_ro bằng cách sử_dụng i Tunes để thiết_lập một mật_khẩu sao lưu rất phức_tạp , hay ứng_dụng Configurator để khóa điện_thoại nhằm tránh bị kẻ khác đăng_nhập vào i Phone để lấy các bản ghi .
+Nhưng quan_trọng nhất , người dùng nên vô_hiệu_hóa tính_năng sao lưu tin nhắn WhatsApp bằng i Cloud , bởi trên đó khả_năng mã_hóa không mạnh " , Zdziarski nói .
+Hiện_Whats App chưa đưa ra bình_luận nào .
+Bảo_Lâm

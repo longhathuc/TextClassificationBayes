@@ -1,0 +1,19 @@
+Sợi dây_điện nhỏ nhất thế_giới làm từ kim_cương
+Các nhà_khoa_học tại Đại_học Stanford đã tạo ra sợi dây_điện với chiều rộng bằng 3 nguyên_tử nhờ khả_năng tự sắp_xếp của các tinh_thể kim_cương .
+Nhóm nghiên_cứu của Đại_học Stanford và Phòng_thí_nghiệm tăng_tốc hạt ( SLAC ) đã chế_tạo thành_công loại dây_điện nhỏ nhất thế_giới với chiều rộng chỉ ba nguyên_tử , UPI ngày 27/12 đưa tin .
+Các nhà_khoa_học đã ứng_dụng khả_năng tự sắp_xếp vị_trí của tinh_thể kim_cương ( diamondoids ) để kết_hợp với   nguyên_tử đồng - lưu_huỳnh tạo thành sợi dây_điện siêu nhỏ .
+Quá_trình này có độ_chính_xác đáng kinh_ngạc và không đòi_hỏi sự can_thiệp từ con_người .
+" Điều này cho thấy chúng_tôi có_thể chế_tạo các dây_dẫn điện với kích_thước nhỏ tối_đa và có khả_năng tự lắp_ráp .
+Phương_pháp tổng_hợp rất đơn_giản .
+Chỉ cần đổ các nguyên_liệu vào với nhau và chúng sẽ tự hình_thành sau nửa giờ đồng_hồ , giống như các tinh_thể kim_cương tự biết mình phải đi đâu " , Hao_Yan , nhà_nghiên_cứu của Đại_học Stanford cho_biết .
+Tinh_thể kim_cương đóng vai_trò là công_cụ lắp_ráp và vật_liệu cách_điện .
+Chúng bao quanh lõi bán_dẫn làm từ chalcogenide , một hợp_chất đặc_biệt của đồng và lưu_huỳnh .
+Tinh_thể kim_cương được chiết_xuất từ dung_dịch dầu_thô và sắp_xếp dựa theo kích_cỡ .
+Các nhà_khoa_học lựa_chọn tinh_thể gồm 10 nguyên_tử carbon , sau đó gắn một nguyên_tử lưu_huỳnh cho chúng .
+Vật_liệu này được đặt vào một dung_dịch , cho_phép nguyên_tử lưu_huỳnh gắn chặt với nguyên_tử đồng .
+Khi chúng kết_hợp với nhau , các tinh_thể kim_cương sẽ tự hút lẫn nhau nhờ lực hấp_dẫn van der Waals .
+Kết_quả là một sợi dây siêu nhỏ làm từ ion đồng và lưu_huỳnh ra_đời .
+" Giống các khối Lego , chúng chỉ có_thể gắn với nhau theo cách nhất_định , dựa vào kích_thước và hình_dáng .
+Nguyên_tử đồng và lưu_huỳnh sẽ nằm ở giữa , tạo thành lõi dẫn_điện của sợi dây , trong khi tinh_thể kim_cương sẽ nằm bên ngoài với vai_trò là vỏ cách_điện " , Fei_Hua_Li , sinh_viên tốt_nghiệp Stanford cho_biết .
+Nhóm nghiên_cứu cho_biết loại dây_điện này có_thể giúp cải_thiện chất_lượng thiết_bị quang_điện , đi-ốt phát_quang , pin Mặt_Trời và nhiều công_nghệ khác , như đan dây vào sợi vải để tạo ra năng_lượng .
+Tử_Quỳnh

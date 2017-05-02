@@ -1,0 +1,22 @@
+Thử tài đoán ảnh chụp hay ảnh giả
+Hãy quan_sát những tấm hình dưới đây và đoán xem đâu là ảnh chụp thật , đâu là ảnh ghép hoặc dựng bằng phần_mềm .
+A . Ảnh thật
+B . Ảnh đồ_họa
+A . Ảnh thật B .
+Ảnh đồ_họa
+A . Ảnh thật B .
+Ảnh đồ_họa
+A . Ảnh thật B .
+Ảnh đồ_họa
+A . Ảnh thật B .
+Ảnh đồ_họa
+A . Ảnh thật
+B . Ảnh đồ_họa
+A . Ảnh thật B .
+Ảnh đồ_họa
+A . Ảnh thật B .
+Ảnh đồ_họa
+A . Ảnh thật B .
+Ảnh đồ_họa
+A . Ảnh thật B .
+Ảnh đồ_họa

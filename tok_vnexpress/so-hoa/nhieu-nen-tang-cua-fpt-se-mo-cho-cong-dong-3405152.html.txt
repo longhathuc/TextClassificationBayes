@@ -1,0 +1,19 @@
+Nhiều nền_tảng của FPT sẽ ' mở ' cho cộng_đồng
+Ngày công_nghệ FPT ( FPT Techday 2016 ) diễn ra với chủ_đề " Kết_nối để bứt_phá " , trong đó dự_án Open FPT được kỳ_vọng là nền_tảng chung cho cộng_đồng công_nghệ .
+Phát_biểu khai_mạc sáng ngày 18/5 tại TP_HCM .
+Tổng_Giám đốc tập_đoàn FPT Bùi_Quang_Ngọc cho_biết , thế_giới đang bước vào_cuộc cách_mạng_công_nghiệp lần thứ_tư và nền_tảng công_nghệ trở_thành vũ_khí cấu_thành bậc nhất trong thế_giới mới với sự phát_triển của kinh_tế .
+" Chúng_ta đang trong một xu_thế mở , các kết_nối bắt_đầu có sự hình_thành và gắn_kết .
+Sự chia_sẻ là chìa_khóa thành_công cho nền kinh_tế Việt_Nam " , ông Ngọc nhấn_mạnh .
+Tổng_Giám đốc FPT Bùi_Quang_Ngọc phát_biểu khai_mạc .
+Thế_giới đang tiến vào kỷ_nguyên công_nghệ mới là Số_hóa ( Digitalization ) .
+Các doanh_nghiệp sẽ tạo ra giá_trị và doanh_thu từ việc khai_thác tài_nguyên số , trong đó qua các cổng API là một trong những thành_phần chính để thúc_đẩy và hiện_thực hóa sự tăng_trưởng .
+Theo ông Lê_Hồng_Việt , Giám_đốc Công_nghệ FPT , nhiều hãng công_nghệ nổi_tiếng như Google , Microsoft , Facebook đã áp_dụng chính_sách chia_sẻ nền_tảng cho cộng_đồng .
+Từ đó , rất nhiều ứng_dụng mới ra_đời và được công_chúng đón_nhận .
+" Ngay trong năm 2016 , chúng_tôi sẽ cung_cấp hàng_loạt sản_phẩm , dịch_vụ độc_quyền dưới dạng API cho mọi người , như xử_lý ngôn_ngữ , an_ninh mạng , phân_tích dữ_liệu , dữ_liệu giao_thông … Chúng_tôi mong_muốn các công_ty công_nghệ Việt cũng sẽ góp sức xây_dựng một_cách tích_cực nhất đến hệ_sinh_thái này , từ đó tạo ra các sản_phẩm hữu_ích , nâng cao vị_thế của công_nghệ Việt_Nam với thế_giới " , ông Việt nói .
+Ông Trần_Tuấn_Anh , phụ_trách dự_án Open FPT , cũng chia_sẻ : " FPT đang sở_hữu nhiều nền_tảng có tính ứng_dụng cao và nếu tích_hợp vào Open FPT , chúng_tôi kỳ_vọng nó sẽ là nền_tảng chung cho cộng_đồng công_nghệ " .
+Hội_nghị_bàn_tròn đề cấp đến hệ_sinh_thái công_nghệ ở Việt_Nam và giải_đáp thắc_mắc của quan_khách .
+Để chứng_minh , ông Tuấn_Anh đã giới_thiệu ông Nguyễn_Minh_Đức , sáng_lập CyRadar và ông Phạm_Đức_Hải , đồng sáng_lập MOG trình_bày về sản_phẩm mà_cả hai hợp_tác dựa trên API của FPT mang tên Yolo_Family .
+Đây là trình_duyệt web di_động cho_phép phát_hiện mã độc , nội_dung lừa_đảo và cảnh_báo tới người dùng .
+Cũng tại FPT Techday 2016 , ông   Rajan_Anandan , Phó_Chủ tịch Google_Đông_Nam Á và Ấn Độ ,   công_bố số_liệu về lượng người dùng Internet_Theo đó , thế_giới hiện có 3 tỷ người sử_dụng Internet , riêng châu Á chiếm hơn một_nửa ( 1,6 tỷ ) .
+Dự_kiến , đến năm 2020 , số người sử_dụng lên tới 5 tỷ người .
+Bảo_Lâm

@@ -1,0 +1,17 @@
+Câu_đố tính cân nặng nổi_tiếng của tác_giả Mỹ
+Samuel_Loyd là một trong những tác_giả biên_soạn câu_đố nổi_tiếng nhất của Mỹ .
+Tính cân nặng của nữ_sinh là một câu_đố toán_học rất hay của ông .
+5 nữ_sinh được cân theo cặp tạo thành 10 lượt cân với số cân nặng như sau :
+129 pounds
+125 pounds
+124 pounds
+123 pounds
+122 pounds
+121 pounds
+120 pounds
+118 pounds
+116 pounds
+114 pounds
+Nếu cân riêng , mỗi nữ_sinh nặng bao_nhiêu pound ?
+Thanh_Tâm ( theo Math is fun )
+> > Câu_đố kinh_điển trả lương cho người_làm > > Câu_đố logic ' kiểu Albert_Einstein '

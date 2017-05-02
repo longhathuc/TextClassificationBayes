@@ -1,0 +1,23 @@
+Ổ_cắm kết_nối không dây , hẹn giờ tắt bật theo ý_muốn
+Với loại ổ_cắm này , chủ nhà có_thể chủ_động tắt , mở theo khung giờ đã định hoặc điều_khiển_từ_xa , kiểm_soát hệ_thống điện , chiếu sáng hay tưới_tiêu theo ý_muốn .
+Ổ_cắm hẹn giờ truyền_thống ( bên trái ) và ổ_cắm hẹn giờ thông_minh có kết_nối Wi-Fi .
+Ổ_cắm điện hẹn giờ là một thiết_bị được biết đến và sử_dụng rộng_rãi trên thế_giới nhờ tính_năng cho_phép bật / tắt nguồn điện theo lịch_trình đã định .
+Tiện_ích này giúp người dùng chủ_động điều_khiển các hệ_thống điện chính_xác và hoàn_toàn tự_động .
+Phần_lớn chúng được áp_dụng cho hệ_thống chiếu sáng , quạt_thông_gió , sưởi hay hệ_thống tưới_tiêu tự_động trong nhà , sân vườn .
+Các sản_phẩm ổ_cắm hẹn giờ truyền_thống có cơ_chế hoạt_động đơn_giản với bộ hẹn giờ chạy bằng pin riêng_biệt .
+Người dùng sẽ cài_đặt giờ tắt , mở như ý_muốn theo từng khung giờ trong ngày và từng ngày trong tuần riêng_biệt .
+Ưu_điểm của dòng sản_phẩm này là khả_năng hoạt_động ổn_định , chính_xác theo lịch_trình nhưng lại không_thể thay_đổi từ xa khi có các trường_hợp bất_thường .
+Trước_đây , để thay_đổi cài_đặt hoặc chủ_động tắt mở từ xa , người dùng thường phải sử_dụng các loại ổ_cắm có tích_hợp sim điện_thoại và điều_khiển bằng cách gửi tin nhắn .
+Cách_thức này khá tốn_kém do cả chi_phí mua thiết_bị lẫn duy_trì đều cao .
+Trên thị_trường hiện_nay có thêm một dòng sản_phẩm khác là ổ_cắm có trang_bị kết_nối không dây Wi-Fi , như Mi_Smart_Socket của Xiaomi giá khoảng 300 nghìn đồng , tích_hợp cả tính_năng hẹn giờ , tắt mở từ xa .
+Người dùng có_thể cài_đặt ứng_dụng trên điện_thoại và điều_khiển từ bất_kỳ đâu .
+Tuy_nhiên ,   Mi_Smart_Socket cần phải kết_nối đến mạng Wi-Fi có Internet .
+Mi_Smart_Socket sử_dụng một đầu cắm vào 3 chấu , một ổ_cắm ra cho điện_áp tương_tự và một cổng USB nguồn 5V , dòng 1A có_thể dùng để sạc cho các thiết_bị di_động .
+Cả hai đầu điện ra đều có_thể điều_khiển tắt mở , cài_đặt hẹn giờ , đếm ngược thời_gian tắt , riêng_biệt thông_qua ứng_dụng trên điện_thoại hoặc máy_tính bảng .
+Ổ_cắm   Mi_Smart_Socket điều_khiển qua ứng_dụng trên điện_thoại .
+Nhược_điểm của Mi_Smart_Socket là bản firmware phần_mềm điều_khiển hiện_nay chỉ có_thể hẹn giờ đến đơn_vị phút .
+Ngoài_ra , thiết_bị nhận lệnh tắt mở từ kết_nối mạng thay_vì lưu trong bộ_nhớ thiết_bị nên khi mất_mạng thì thiết_bị không_thể hoạt_động như lịch_trình .
+Nhà_sản_xuất có_thể sớm cập_nhật và sửa lỗi các tính_năng này trong bản firmware tiếp_theo .
+Ngoài_ra , Mi_Smart_Socket cũng_như hầu_hết các ổ_cắm hẹn giờ truyền_thống hiện_nay có tải_trọng vào_khoảng 2.000 đến 2.200 W nên có_thể không sử_dụng được với một_số loại thiết_bị như bình_nóng_lạnh , bếp từ_loại lớn ...
+Video dùng thử   Mi_Smart_Socket .
+Tuấn_Hưng

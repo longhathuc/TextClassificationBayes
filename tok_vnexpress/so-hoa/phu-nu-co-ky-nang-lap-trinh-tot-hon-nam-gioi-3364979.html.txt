@@ -1,0 +1,17 @@
+Phụ_nữ có kỹ_năng lập_trình tốt hơn nam_giới
+Phần_mềm tin_học được viết và lập_trình bởi phụ_nữ có tỷ_lệ thành_công cao hơn đàn_ông .
+Đây là kết_luận của những nhà_khoa_học đến từ Mỹ sau khi nghiên_cứu 1,4 triệu người dùng dịch_vụ dành cho những nhà_phát_triển phần_mềm Github .   Tuy_nhiên , theo BBC , kết_quả này vẫn chưa được các chuyên_gia trong ngành xem_xét và đánh_giá .
+Github , với 12 triệu thành_viên , là một trang_web rất lớn dành cho những người với niềm đam_mê lập_trình máy_tính .
+Tuy_nhiên , website này không yêu_cầu thông_tin về giới_tính khi đăng_ký thành_viên .
+Phụ_nữ có khả_năng tiếp_thu ngôn_ngữ_lập_trình tốt hơn nam_giới .
+Những nhà_nghiên_cứu đến từ_trường đại_học Caly_Poly và North_Carolina ( Mỹ ) đã phân_tích dữ_liệu của khoảng 4 triệu người đăng_nhập vào Github trong ngày 1/4/2015 .
+Mặc_dù vậy , nhóm nghiên_cứu chỉ có_thể nhận_diện danh_tính của khoảng 1,4 triệu thành_viên có thông_tin trên hồ_sơ như sở_thích , hoặc tài_khoản Github của họ kết_nối với mạng xã_hội Google + .
+Kết_quả cho thấy trong số những phần_mềm tin_học được lập_trình , tỷ_lệ được chấp_nhận của nam_giới là 74,6% , trong khi con_số này của phụ_nữ là 78,6% .
+Một_vài lý_do được đưa ra để giải_thích sự chênh_lệch này là sự phản_ứng nhanh_nhạy của phụ_nữ , tốc_độ hoạt_động cao của não bộ , kỹ_năng giải_quyết vấn_đề và tiếp_thu những ngôn_ngữ_lập_trình .
+Tuy_nhiên , nhóm nghiên_cứu thừa_nhận : “ Khám_phá chỉ ra rằng phụ_nữ trên Github có_thể có kỹ_năng lập_trình tốt hơn .
+Điều này có_thể không đúng với phụ_nữ trên quy_mô toàn thế_giới và rằng bất_bình_đẳng giới trong lĩnh_vực công_nghệ_thông_tin vẫn còn tồn_tại ” .
+Thực_tế , tỷ_lệ nhân_viên nữ của Facebook và Google lần_lượt là 16% và 18% .
+Tuy_nhiên , nhiều chuyên_gia trong ngành vẫn có cái nhìn lạc_quan về nghiên_cứu lần này , trong đó có nữ tiến_sĩ , chuyên_gia tin_học Sue_Black của Mỹ .   Bà
+Sue nhận_định , “ nếu nghiên_cứu thấy được kỹ_năng tin_học của phụ_nữ tốt , họ sẽ được khuyến_khích tham_gia vào ngành công_nghiệp tin_học và những chuyên_môn khác có liên_quan đến công_nghệ .
+Điều này sẽ góp_phần làm giảm chênh_lệch về giới trong những công_việc từng được coi là của phái_mạnh , như kỹ_sư công_trình , thể_thao hay tài_chính – kinh_tế ” .
+Nguyễn_Mai_Đức

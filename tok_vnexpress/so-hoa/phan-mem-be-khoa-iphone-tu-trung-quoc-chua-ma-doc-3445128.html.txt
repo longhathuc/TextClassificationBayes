@@ -1,0 +1,16 @@
+Phần_mềm bẻ_khoá i Phone từ Trung_Quốc chứa mã độc
+Nhiều người dùng bị đánh_cắp tài_khoản ngân_hàng , xâm_nhập hòm_thư điện_tử sau khi dùng công_cụ jailbreak i OS 9.3 của Pangu phiên_bản tiếng Trung .
+Chỉ khoảng 1 giờ sau khi cài_đặt công_cụ từ Pangu để jailbreak i Phone , thành_viên có tên MacOda   trên mạng xã_hội Reddit đã nhận thông_báo từ dịch_vụ thanh_toán PayPal , cho_biết có dấu_hiệu bị xâm_nhập từ Trung_Quốc và vừa thực_hiện lệnh chuyển 50 USD tới tài_khoản lạ .
+Từng sử_dụng nhiều công_cụ tương_tự , nhưng lần này người dùng trên mới gặp chuyện .
+Sau khi   thông_báo cho Paypal , số tiền bị mất đã được thu_hồi nhưng cho thấy đang có rủi_ro từ công_cụ bẻ_khoá tới từ nhóm hacker Trung_Quốc .
+Yahoo thông_báo tài_khoản e - mail bị xâm_nhập từ Trung_Quốc sau khi người dùng sử_dụng công_cụ jailbreak Pangu .
+Phần_mềm của Pangu mới chỉ được tung ra hồi giữa tháng 7 , với chức_năng dùng để bẻ_khoá hệ_điều_hành i OS 9.3.3 trên i Phone , iPad hay i Pod_Touch của Apple .
+Công_cụ này do một nhóm hacker tới từ Trung_Quốc phát_triển .
+Tuy_nhiên , ngay từ khi phát_hành nó đã có các dấu_hiệu không đáng tin_cậy .
+Trên phiên_bản tiếng Trung , để sử_dụng nó yêu_cầu người dùng phải chấp_nhận một chứng_chỉ lạ .
+Thậm_chí , để có_thể sử_dụng phiên_bản tiếng Anh , Pangu còn bắt đăng_nhập tài_khoản Apple ID .
+Trên mạng xã_hội   Reddit   đã xuất_hiện thêm nhiều chủ để cảnh_báo nguy_cơ mất dữ_liệu cá_nhân từ công_cụ của Pangu .
+Sau khi sử_dụng công_cụ phiên_bản tiếng Trung , không ít người cho_hay các tài_khoản mạng xã_hội , e-mail đã bị xâm_nhập trái_phép từ xa , có_thể tại Trung_Quốc , Ấn Độ hay Đài_Loan .
+Thậm_chí , thành_viên có tên   Gonzales8   còn phát_hiện ra trong tập_tin cài_đặt của ứng_dụng Pangu tải về từ trang_web PP có mẫu virus đánh_cắp thông_tin cá_nhân .
+Đối_với các thiết_bị i OS , Apple từng đưa ra cảnh_báo người dùng không sử_dụng các biện_pháp để jailbreak .
+Việc bẻ_khoá thiết_bị cũng có_thể khiến cho sản_phẩm không được bảo_hành nữa .

@@ -1,0 +1,20 @@
+Mã độc tấn_công Vietnam_Airlines tồn_tại ở nhiều cơ_quan , doanh_nghiệp
+Kết_quả phân_tích mới nhất cho thấy mã độc được dùng để tấn_công hệ_thống thông_tin của Vietnam_Airlines cũng xuất_hiện tại nhiều cơ_quan , doanh_nghiệp khác .
+Theo phân_tích từ Bkav , mã độc được sử_dụng để tấn_công hệ_thống Vietnam_Airlines hôm 29/7 sau khi xâm_nhập vào máy_tính sẽ ẩn mình dưới vỏ bọc là phần_mềm diệt virus .
+Nhờ đó , nó có_thể nằm yên trong thời_gian dài mà không bị phát_hiện .
+Mã độc này kết_nối thường_xuyên , gửi các dữ_liệu về máy_chủ điều_khiển thông_qua tên_miền Name.dcsvn.org , trong đó Name là tên được sinh_ra theo đặc_trưng của cơ_quan , doanh_nghiệp mà mã độc nhắm tới .
+Sơ_đồ tấn_công của mã độc theo phân_tích của Bkav .
+Mã độc có chức_năng thu_thập tài_khoản mật_khẩu , nhận lệnh cho_phép hacker kiểm_soát , điều_khiển máy_tính nạn_nhân từ xa , thực_hiện các hành_vi phá_hoại như xóa dấu_vết , thay_đổi âm_thanh , hiển_thị hình_ảnh , mã_hóa dữ_liệu … Ngoài_ra , nó còn có thành_phần chuyên để thao_tác , xử_lý với cơ_sở_dữ_liệu SQL .
+Ông Ngô_Tuấn_Anh , Phó_chủ_tịch Bkav , cho_biết : " Bkav đã theo_dõi mạng_lưới phần_mềm gián_điệp tấn_công có chủ_đích ( APT ) vào hệ_thống mạng Việt_Nam từ giữa năm 2012 .
+Kết_quả phân_tích cho thấy mã độc tấn_công Vietnam_Airlines cũng xuất_hiện tại nhiều cơ_quan , doanh_nghiệp khác bao_gồm cả các cơ_quan chính_phủ , tập_đoàn , ngân_hàng , viện nghiên_cứu , trường đại_học .
+Vấn_đề này đã được Bkav nhiều lần cảnh_báo rộng_rãi " .
+Trước đó , Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) cũng đã phát_hiện một_số dấu_hiệu tấn_công các website Việt_Nam .
+Đơn_vị này đề_nghị các cấp liên_quan chặn kết_nối đến địa_chỉ : playball.ddns.info , nvedia.ddns.info và air . dcsvn.org .
+Theo đánh_giá của VNCERT , các mã độc trên thuộc diện đặc_biệt nguy_hiểm , có_thể đánh_cắp thông_tin và phá_hủy hệ_thống .
+Đáng chú_ý , mã độc này chưa hoạt_động mà ở chế_độ " ngủ_đông " , chờ lệnh tấn_công .
+Chiều 29/7 , website của Vietnam_Airlines bị thay_đổi giao_diện bằng hình_ảnh nhóm hacker 1937cn , đồng_thời dữ_liệu của hơn 400.000 khách_hàng Bông_Sen_Vàng bị rò_rỉ lên mạng .
+Hệ_thống âm_thanh tại cảng_hàng_không Tân_Sơn_Nhất và Nội_Bài cũng bị can_thiệp , đưa ra thông_tin xuyên_tạc liên_quan đến vấn_đề Biển_Đông .
+Cho_đến nay , Vietnam_Airlines thông_báo hệ_thống công_nghệ_thông_tin chính của họ đã hoàn_tất quá_trình kiểm_tra và trở_lại hoạt_động .
+Hãng bay đã phối_hợp với Tổng_công_ty Cảng_hàng_không Việt_Nam khôi_phục các máy_tính tại quầy làm thủ_tục ở Nội_Bài , Tân_Sơn_Nhất .
+Đối_với khách_hàng chương_trình Bông_Sen_Vàng , Vietnam_Airlines thông_báo sẽ tạm ngừng các chức_năng trực_tuyến , tuy_nhiên vẫn đảm_bảo đầy_đủ quyền_lợi của hội_viên .
+Xem thêm :   Mã độc tấn_công hệ_thống Vietnam_Airlines nguy_hiểm thế_nào

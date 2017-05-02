@@ -1,0 +1,12 @@
+Mở kho ảnh trên i Phone 6s , 6s Plus mà không cần mật_khẩu
+Dù không cần mở khoá bảo_vệ , người khác vẫn có_thể truy_cập vào kho ảnh lưu trên i Phone 6s và 6s Plus thông_qua một_số thủ_thuật .
+iOS 9.3.1 bản mới nhất vừa được Apple tung ra để khắc_phục lỗi làm đơ và treo i Phone và i Pad khi mở các đường link trong trình_duyệt , e-mail , nhưng nó cũng kéo_theo một lỗ_hổng bảo_mật khác khá nghiêm_trọng .
+Theo 9to5mac , dù có đặt mật_khẩu khoá , người khác vẫn có truy_cập thẳng vào kho ảnh trên i Phone của bạn .
+Thủ_thuật này tận_dụng lỗ_hổng ở tính_năng Siri và 3D Touch , vì_thế chỉ xuất_hiện trên i Phone 6s và 6s Plus .
+Video lỗi bảo_mật trên i Phone 6s , 6s Plus và cách khắc_phục :
+Để truy_cập vào kho ảnh mà không cần mở khoá , các bước thực_hiện khá đơn_giản khi chỉ cần ra_lệnh cho Siri tìm_kiếm một địa_chỉ e - mail bất_kỳ trên Twitter , sau đó nhấn giữ vào đường link ( bằng 3D Touch ) để thêm nhanh địa_chỉ này vào danh_bạ .
+Lúc đó , nó sẽ cho_phép truy_cập vào kho ảnh lưu trên i Phone mà không cần mật_khẩu , nhằm tìm hình hiển_thị cho danh_bạ mới .
+Các bước của lỗ_hổng bảo_mật trên i OS 9.3.1 của i Phone 6s và 6s Plus .
+Cách khắc_phục tạm_thời tránh việc người khác có_thể truy_cập kho ảnh trên i Phone 6s và 6s Plus là   tắt quyền truy_cập của Siri   vào mục cài_đặt Hình_ảnh ( Photos ) ở phần Riêng_tư ( Privacy ) .   Hoặc nhanh hơn là tắt chế_độ sử_dụng Siri ngoài màn_hình khoá .
+Dù_vậy , theo 9to5mac , chưa đầy một ngày_sau khi lỗ_hổng bảo_mật này xuất_hiện , Apple cũng âm_thầm cập_nhật lại tính_năng điều_khiển bằng giọng nói và thêm yêu_cầu mật_khẩu ở bước truy_cập vào kho ảnh .
+Tuấn_Anh

@@ -1,0 +1,18 @@
+Một trung_tâm an_ninh mạng Việt_Nam bị hacker tấn_công
+Trang_web của   Trung_tâm đào_tạo an_ninh mạng & quản_trị mạng Athena bị hack thay_đổi giao_diện , để lại dấu_vết do chính tin_tặc Việt_Nam thực_hiện .
+Ngày 4/8 , trang_web của   Trung_tâm đào_tạo an_ninh mạng & quản_trị mạng Athena bị hacker tấn_công .
+Nội_dung trên website bị thay_đổi , chèn một video từ YouTube và để lại thông_điệp cho thấy vụ tấn_công có_thể do hacker Việt_Nam thực_hiện .
+Giao_diện của trang athena . edu.vn khi bị hacker tấn_công .
+Nhóm " Bá_Team " tự_xưng đã tấn_công trang_web của Trung_tâm an_ninh mạng này .
+Hacker còn tuyên_bố " sẽ dòm_ngó các trung_tâm và công_ty bảo_mật " khác .
+Trên_Zone - h , trang mà các tin_tặc hay khoe " chiến_tích " của mình , chính " Bá_Team " đã cập_nhật về vụ tấn_công .
+Trao_đổi với VnExpress , ông Võ_Đỗ_Thắng , Giám_đốc trung_tâm an_ninh mạng Athena , xác_nhận website bị tấn_công .
+" Chúng_tôi đã phát_hiện sớm vụ hack này , lập_tức chuyển_hướng tên_miền đến fanpage nhưng giữ hiện_trạng dữ_liệu để mở_rộng tìm_hiểu " .
+Ông Thắng cho_biết , hiện website của Trung_tâm đã hoạt_động bình_thường trở_lại và không có bất_kỳ thiệt_hại nào .
+An_ninh mạng là chủ_đề nóng thời_gian gần đây , đặc_biệt sau vụ Vietnam_Airlines bị tấn_công .   Trung
+tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) đã phát_hiện một_số dấu_hiệu tấn_công từ các máy_chủ và mã độc tồn_tại trong hệ_thống máy_tính ở Việt_Nam .
+Các mã độc trên thuộc diện đặc_biệt nguy_hiểm , có_thể đánh_cắp thông_tin và phá_hủy hệ_thống .
+Theo thống_kê của BKAV , trung_bình mỗi tháng ở Việt_Nam có 300 website của các tổ_chức , doanh_nghiệp bị hacker tấn_công và tới 40% trang_web trong nước tồn_tại lỗ_hổng bảo_mật .
+Việt_Nam cũng nằm trong danh_sách quốc_gia có tỷ_lệ lây_nhiễm phần_mềm độc_hại cao nhất thế_giới là 66% .
+Xem thêm :
+>   Phát_hiện mã độc Trung_Quốc " nằm_vùng " trong các website Việt_Nam >   Vì_sao hệ_thống mạng Việt_Nam dễ bị tấn_công

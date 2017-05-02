@@ -1,0 +1,11 @@
+Bài_toán hay trong đề thi_tuyển sinh lớp 10 chuyên
+Thường thì các bài_toán thi vào trường chuyên đều khó nhằn và nặng tính kỹ_thuật , tuy_nhiên đôi_khi cũng có ngoại_lệ .
+Trong đề toán chung ( dành cho tất_cả thí_sinh thi vào Phổ_thông năng_khiếu ) của kỳ thi_tuyển sinh vào lớp 10 vừa_qua , có một bài_toán gây bất_ngờ cho thí_sinh , phụ_huynh và cả thầy_cô_giáo về cách đặt câu_hỏi … không giống ai .
+Dù_vậy , đa_số chuyên_gia đánh_giá đây là bài_toán hay , cách đặt vấn_đề thú_vị và bất_ngờ , học_sinh tỉnh_táo một_chút có_thể xử_lý tốt .
+Mời bạn_đọc cùng thử sức .
+Đề_bài :
+Lớp 9A có 27 học_sinh nam và 18 học_sinh nữ .
+Nhân_dịp sinh_nhật bạn X ( là một thành_viên của lớp ) , các bạn trong lớp có rất nhiều món quà tặng X .
+Ngoài_ra , mỗi bạn nam của lớp làm 3 tấm thiệp và mỗi bạn nữ xếp 2 hoặc 5 con hạc để tặng bạn X .
+Biết số tấm thiệp và số con hạc bằng nhau , hỏi bạn X là nam hay nữ ?
+TS Trần_Nam_Dũng   ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

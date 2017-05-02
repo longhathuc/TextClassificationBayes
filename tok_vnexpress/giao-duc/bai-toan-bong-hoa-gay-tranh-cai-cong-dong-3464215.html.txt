@@ -1,0 +1,26 @@
+Bài_toán bông hoa gây tranh_cãi cộng_đồng
+Bài_toán gây_rối trí dưới đây đã làm dậy sóng cộng_đồng .
+Những con_số được thay_thế bằng bông hoa và không dễ để tìm ra đáp_án .
+Trang_Facebook_Trending in China đăng_tải bài_toán bằng hình_ảnh tạo được sức lan_tỏa lớn , đến nay gần 3.000 lượt thích , hơn 1.200 nghìn lượt chia_sẻ , gần 6.000 lượt bình_luận từ cộng_đồng .
+Nhiều trang báo_điện_tử , website trên thế_giới cũng đăng lại hình_ảnh này , tạo thành đề_tài gây tranh_cãi .
+Bài_toán gồm 3 phương_trình , là phép tổng khi cộng trừ những bông hoa .
+Phép_tính thứ 4 chính là câu_đố dành cho bạn .
+Một_số người chắc_chắn đáp_án là 102 hoặc 110 , trong khi những người khác nghĩ rằng 25 hoặc 27 mới là con_số đúng .
+Một thầy_giáo Toán tên Doug phản_biện rằng bài_toán này không_thể giải được .
+Ông viết trên website Professor_Puzzler : " Đáp_án đúng của bài_toán là " Không , tôi không_thể giải được nó " .
+Không có đáp_án nào khác .
+Nếu bạn giải ra được một con_số cụ_thể , bạn đã sai ( xin_lỗi ! ) " .
+Ông tiếp_tục giải_thích rằng vấn_đề nằm ở chỗ bông hoa xanh trong câu_hỏi có 4 cánh , trong khi bông hoa xanh trong dữ_liệu bài_toán đưa ra lại có 5 cánh .
+Đồng_thời , câu_hỏi đưa ra hình_ảnh một bông hoa vàng , trong khi ở phép trừ ngay phía trên lại là hai bông hoa vàng .
+Bài_toán dẫn nhiều người đến đáp_án là 25 , tuy_nhiên theo Doug , phương_trình này yêu_cầu giải_quyết phép_tính về những bông hoa , không phải dựa trên việc đếm số cánh hoa .
+Thầy_giáo này cho rằng bài_toán đã lãng_phí thời_gian của ông vì những dữ_liệu mơ_hồ .
+" Chúng_ta có_thể tính được giá_trị của bông hoa đỏ , bông hoa vàng , bông hoa xanh có 5 cánh nhưng không có thông_tin gì để có_thể tính được giá_trị của bông hoa xanh có 4 cánh , trừ khi chúng_ta giả_định rằng toàn_bộ giá_trị của bông hoa nằm trong cánh hoa .
+Hãy hỏi một người bán_hoa , nếu bẻ hết thân và lá cây thì bông hoa còn nguyên giá_trị hay không .
+Chúng_ta sẽ có câu trả_lời " .
+Đáp_án 25 vẫn được khá nhiều người đồng_tình .
+Logic của những người theo đáp_án này là : Dữ_liệu bài_toán chỉ ra một bông hoa đỏ có giá_trị là 20 , một bông hoa xanh 5 cánh có giá_trị là 5 và hai bông hoa vàng có giá_trị là 2 .
+Ở dòng cuối_cùng , chỉ một bông hoa vàng cộng với một bông hoa đỏ và một bông hoa xanh chỉ có 4 cánh .
+Từ đó có phép_tính 1 + 20 + 4 = 25 .
+Theo bạn đáp_án này có đúng không ?
+Đáp_án của bạn là bao_nhiêu ?
+Phiêu_Linh   ( theo news . com.au )

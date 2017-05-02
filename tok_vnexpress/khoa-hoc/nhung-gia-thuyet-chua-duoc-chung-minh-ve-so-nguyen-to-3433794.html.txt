@@ -1,0 +1,34 @@
+Những giả_thuyết chưa được chứng_minh về số_nguyên_tố
+Dù con_người đã có rất nhiều hiểu_biết về số_nguyên_tố , vẫn còn khá nhiều các giả_thuyết chưa_thể chứng_minh hoặc bác_bỏ , như giả_thuyết về 2 số_nguyên_tố sinh_đôi hay giả_thuyết về các số_nguyên_tố xuôi_ngược .
+Theo Business_Insider , số_nguyên_tố là những số chỉ có_thể chia_hết_cho 1 và chính nó .
+Mọi số_tự_nhiên khác đều có_thể biểu_diễn thành_tích của các số_nguyên_tố , ví_dụ 12 = 2 x 2 x 3 ; 50 = 5 x 5 x 2 ; 69 = 3 x 23 .
+Nhà toán_học cổ_đại Euclid đã từng có một chứng_minh nổi_tiếng về sự vô_hạn của số_nguyên_tố .
+Dưới đây là những giả_thuyết chưa_thể chứng_minh hay bác_bỏ về số_nguyên_tố .
+Hai số_nguyên_tố sinh_đôi là một cặp số_nguyên_tố chỉ cách nhau bởi đúng một_số khác trên trục số_tự_nhiên , ví_dụ 5 và 7 , 11 và 13 , 29 và 31 … Giả_thuyết về các số_nguyên_tố sinh_đôi cho rằng có vô_hạn các cặp số như_vậy .
+Tuy rất nhiều nhà toán_học cho rằng giả_thuyết này là đúng .
+Dù các số_nguyên_tố hiếm dần khi con_số lớn lên , kinh_nghiệm và trực_giác của các nhà lý_thuyết về số_học cho thấy rằng các cặp số_nguyên_tố sinh_đôi vẫn sẽ xuất_hiện .
+Tuy_nhiên , giả_thuyết này chưa thực_sự được chứng_minh hay bác_bỏ .
+Vào mùa xuân năm 2013 , nhà toán_học Yitang_Zhang của Đại_học New_Hampshire đã phát_minh ra một kỹ_thuật mới chứng_minh được rằng có vô_số cặp số_nguyên_tố mà ở giữa chúng không có nhiều hơn 70 triệu số khác .
+Tuy đây vẫn là một con_số khổng_lồ , nhưng là lần đầu_tiên một giới_hạn hữu_hạn về khoảng_cách giữa các số_nguyên_tố từng được phát_hiện , có_thể coi là một bước đột_phá trong quá_trình chứng_minh giả_thuyết .
+Sau đó tới mùa thu 2013 , một nhóm các nhà toán_học đã bổ_sung thêm vào công_trình của Zhang và đưa ra được các khoảng_cách ngày_một ngắn lại .
+Cuối_cùng , họ chứng_minh được rằng có vô_số cặp số_nguyên_tố nhiều nhất chỉ có 246 số khác xen giữa .
+Đây cũng là một giả_thuyết đơn_giản được nhà toán_học người Phổ sống ở thế_kỷ 16 , Goldback đưa ra : mỗi số_chẵn lớn hơn 2 đều có_thể biểu_diễn dưới dạng tổng của hai số_nguyên_tố , ví_dụ 4 = 2 + 2 , 8 = 5 + 3 , 20 = 13 + 7 .
+Tuy_nhiên nó chưa được chứng_minh tổng_quát cho mọi số_chẵn .
+Các nhà_nghiên_cứu trong thế_kỷ 21 với sự trợ_giúp của máy_vi_tính và các chương_trình tính_toán hiện_đại đã xác_minh giả_thuyết này cho các số_chẵn tới giới_hạn 4 tỷ tỷ ( 4 và 18 số 0 ) .
+Tuy_nhiên trong toán_học , điều này vẫn không có nghĩa_là giả_thuyết đúng với mọi số_chẵn .
+Số_nguyên_tố xuôi_ngược là các số_nguyên_tố giữ nguyên giá_trị dù đọc từ trái qua phải hay phải qua trái .
+Ví_dụ 11 , 101 , 16561 .
+Số_nguyên_tố xuôi_ngược nổi_tiếng nhất_là số 1000000000000066600000000000001 : số 1 rồi tới 13 số 0 , tiếp_theo là 666 , lại tiếp 13 số 0 và kết_thúc là 1 . 666 chính là con_số tượng_trưng cho quỷ Satan trong Kinh_Thánh .
+Số_lượng 13 số 0 cũng là một con_số được cho là xui rủi .
+Đây có_thể coi là số_nguyên_tố xui_xẻo nhất .
+Cũng tương_tự với các cặp số_nguyên_tố sinh_đôi , hiện_nay vẫn chưa_thể xác_định số_lượng số_nguyên_tố xuôi_ngược là vô_hạn hay không .
+Nó cũng ít được sử_dụng trong toán_học hơn số_nguyên_tố sinh_đôi .
+Điểm khác_biệt giữa hai loại , đó là một_số nguyên_tố có tính_chất xuôi_ngược hay không phụ_thuộc hoàn_toàn vào hệ_đếm : những số_nguyên_tố xuôi_ngược trong hệ nhị_phân hoàn_toàn khác trong hệ thập_phân .
+Ví_dụ số 31 không xuôi_ngược trong hệ thập_phân , nhưng trong hệ nhị_phân nó là 1111 , có tính_chất xuôi_ngược .
+Tuy_nhiên , dù sử_dụng hệ_đếm nào thì các nhà toán_học vẫn kết_luận rằng số_nguyên_tố xuôi_ngược là rất hiếm trong tập_hợp các số xuôi_ngược .
+Đây là một trong những bài_toán thiên_niên_kỷ , tập_hợp của những vấn_đề mở quan_trọng nhất trong toán_học .
+Giải_quyết được bất_kỳ vấn_đề nào trong đó đều được giải_thưởng lên tới một_triệu USD .
+Giả_thuyết Riemann ( theo tên của nhà toán_học người Đức ở thế_kỷ 19 , Bernhard_Riemann ) cung_cấp một sự ước đoán chính_xác hơn rất nhiều về số_lượng số_nguyên_tố nhỏ hơn một_số cho trước .
+Tuy_nhiên , cũng giống như các giả_thuyết trên , dù đã được chứng_minh là đúng với hàng tỷ trường_hợp , nó vẫn chưa được chứng_minh tổng_quát .
+Xem thêm : 9 bí_ẩn lớn nhất của vật_lý_hiện_đại
+Nguyễn_Thành_Minh

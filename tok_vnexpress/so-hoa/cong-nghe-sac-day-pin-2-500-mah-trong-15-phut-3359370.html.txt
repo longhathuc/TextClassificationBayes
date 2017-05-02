@@ -1,0 +1,23 @@
+Công_nghệ sạc đầy pin 2.500 mAh trong 15 phút
+Công_nghệ sạc siêu nhanh Super VOOC của Oppo được phát_triển từ công_nghệ sạc nhanh VOOC ra_mắt năm 2014 .
+Sạc nhanh VOOC nguyên gốc của Oppo từng tạo ấn_tượng về sạc pin với kết_quả sau 5 phút sạc có ngay 2 giờ đàm_thoại .   Sau
+2 năm , công_nghệ Super VOOC cho kết_quả ấn_tượng hơn khi người dùng có đến 10 giờ đàm_thoại cũng chỉ với 5 phút sạc , và sẽ sạc đầy pin có dung_lượng 2.500 mAh sau 15 phút .
+Super VOOC là công_nghệ sạc nhanh_nhất hiện có .
+Super VOOC sử_dụng thuật_toán tối_ưu_hóa hiệu_năng sạc bằng cách duy_trì hiệu_điện_thế ở mức thấp 5V nhằm đảm_bảo nhiệt_độ của pin và sạc luôn thấp , nhưng vẫn cung_cấp đủ điện_năng cho thiết_bị trong thời_gian ngắn nhất nhờ vào việc tự_động thay_đổi cường_độ dòng_điện theo từng chu_kỳ khác_nhau tùy_thuộc vào trạng_thái của pin .
+Thuật_toán hoàn_toàn mới này kết_hợp với viên pin được tùy biến cũng_như cục sạc , cáp sạc , các đầu kết_nối được làm từ vật_liệu cao_cấp đạt chuẩn quân_đội .
+Sạc siêu nhanh VOOC hỗ_trợ chuẩn kết_nối phù_hợp với tiêu_chuẩn quốc_tế là micro USB và UCB Type C .
+Như_vậy , công_nghệ sạc siêu nhanh VOOC có độ an_toàn cao và nhiệt_độ sạc thấp , người dùng có_thể sử_dụng điện_thoại để xem phim HD , chơi game ngay khi sạc mà không lo bị nóng .
+Bên_cạnh đó , Oppo cũng giới_thiệu công_nghệ chống rung mới cho máy_ảnh smarphone dựa vào cảm_biến .
+Hiện_nay có hai công_nghệ chống rung quang_học là chống rung dựa trên ống_kính và cảm_biến , tuy_nhiên , do những giới_hạn về kích_thước của smartphone , các giải_pháp được chọn_lựa trước_kia đều là chống rung ống_kính .
+Dựa trên phát_minh về hệ vi cơ điện_tử MEMS ( micro-electro-mechanical system ) , SmartSensor của Oppo là giải_pháp chống rung_cảm biến đầu_tiên cho smartphone , cũng là bộ ổn_định hình_ảnh quang_học nhỏ nhất trên thế_giới .
+SmartSensor là hệ_thống ổn_định hình_ảnh ở cấp_độ điểm_ảnh đầu_tiên trên thế_giới .
+Những cảm_biến ống_kính hiện có chỉ chỉnh_sửa được các rung_động theo 2 trục chuyển_động ngang và dọc .
+Tuy_nhiên , theo tư_thế và thao_tác chụp thực_tế , những rung_động không mong_muốn của người dùng đa_phần lại nằm ở trục xoay .
+SmartSensor giải_quyết vấn_đề này bằng cách cho_phép chống rung trên cả 3 trục để bảo_đảm hình_ảnh luôn rõ nét .
+Việc tạo ra những điều_chỉnh chính_xác với hệ_thống MEMS bằng tinh_thể silicon có hình chiếc lược , SmartSensor có tốc_độ ổn_định hình_ảnh hoàn_toàn trên 3 trục chỉ trong 15 phần nghìn giây .   Bên_cạnh đó , SmartSensor sử_dụng cảm_biến chạy bằng điện_thế giúp giảm năng_lượng tiêu_thụ xuống còn 10 miliwatt , thấp hơn 50 lần so với phương_pháp chống rung ống_kính hiện_tại .
+Vì tốn quá nhiều năng_lượng , các hệ_thống chống rung ống_kính nhanh_chóng bị nóng , ảnh_hưởng đến chất_lượng hình_ảnh , đặc_biệt là khi người dùng sử_dụng camera trong thời_gian dài .
+Với việc tiêu_thụ ít điện_năng , hệ vi cơ điện_tử MEMS sẽ giữ cho nhiệt_độ luôn thấp và hạn_chế việc giảm chất_lượng hình_ảnh khi chụp lâu .
+Bên_cạnh đó , trong khi các hệ_thống chống rung quang_học ống_kính hoạt_động bằng cách dịch_chuyển thấu_kính có độ_chính_xác chỉ từ 3 – 5 μ m , SmartSensor vẫn giữ được độ_chính_xác đối_với những rung_động nhỏ ở mức 0,3 μ m .
+Kích_cỡ mỗi điểm_ảnh thường lớn hơn 1 μ m , điều này đồng_nghĩa với việc SmartSensor là   hệ_thống ổn_định hình_ảnh ở cấp_độ điểm_ảnh đầu_tiên trên thế_giới .
+SmartSensor sử_dụng thời_gian phơi sáng lâu hơn mà vẫn đảm_bảo được hình_ảnh rõ_ràng , sáng hơn cho người dùng .
+Huy_Đức Huyduc@vnexpress.net

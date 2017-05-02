@@ -1,0 +1,18 @@
+Khoảng_cách an_toàn giữa các xe trên đường
+Nếu tốc_độ dưới 60km / h , khoảng_cách an_toàn tối_thiểu là 35m ; tốc_độ 120km / h khoảng_cách an_toàn tối_thiểu tăng thành 100m .
+Theo khoản 1 Điều 12 Luật_Giao thông đường_bộ năm 2008 về tốc_độ và khoảng_cách giữa các xe , Điều 11 Thông_tư số 91/2015/TT-BGTVT quy_định về tốc_độ và khoảng_cách an_toàn của xe_cơ_giới , xe_máy chuyên_dùng tham_gia giao_thông trên đường_bộ :
+- Người lái_xe phải tuân_thủ quy_định về tốc_độ xe chạy trên đường và phải giữ một khoảng_cách an_toàn đối_với xe chạy liền trước xe của mình .
+- Ở nơi có biển_báo “ Cự_ly tối_thiểu giữa hai xe ” phải giữ khoảng_cách không nhỏ hơn số ghi trên biển_báo .
+Theo Điều 4 Thông_tư số 91/2015/TT-BGTVT , nguyên_tắc chung khi điều_khiển phương_tiện trên đường_bộ về tốc_độ và khoảng_cách , cụ_thể :
+- Khi tham_gia giao_thông trên đường_bộ ( trừ đường_cao_tốc ) , kể_cả đường nhánh ra_vào đường_cao_tốc , người điều_khiển phương_tiện tham_gia giao_thông đường_bộ phải nghiêm_chỉnh chấp_hành các quy_định về tốc_độ , khoảng_cách an_toàn tối_thiểu giữa hai xe được ghi trên biển báo_hiệu đường_bộ .
+- Tại những đoạn đường_không có biển báo_hiệu đường_bộ quy_định về tốc_độ , quy_định về khoảng_cách an_toàn tối_thiểu giữa hai xe , người điều_khiển phương_tiện tham_gia giao_thông phải thực_hiện theo các quy_định tại Thông_tư này .
+- Khi tham_gia giao_thông trên đường_cao_tốc , đối_với các loại xe_cơ_giới , xe_máy chuyên_dùng được phép đi vào đường_cao_tốc theo quy_định của Luật_Giao thông đường_bộ , người điều_khiển phương_tiện tham_gia giao_thông trên đường_cao_tốc phải nghiêm_chỉnh chấp_hành các quy_định về tốc_độ , khoảng_cách an_toàn tối_thiểu theo quy_định .
+Điều 12 Thông_tư số 91/2015/TT-BGTVT , khoảng_cách an_toàn giữa hai xe ( kể_cả ô_tô , xe_máy ) phụ_thuộc vào tốc_độ lưu_hành , cụ_thể như sau :
+1 . Khi mặt_đường khô_ráo thì khoảng_cách an_toàn ứng với mỗi tốc_độ được quy_định như sau :
+Khi điều_khiển xe chạy với tốc_độ từ 60 km / h trở xuống , trong khu_vực đô_thị , đông dân_cư , người lái_xe phải chủ_động giữ khoảng_cách an_toàn phù_hợp với xe chạy liền trước xe của mình ; khoảng_cách này tùy_thuộc vào mật_độ phương_tiện , tình_hình giao_thông thực_tế để đảm_bảo an_toàn .
+2 . Khi trời mưa , có sương_mù , mặt_đường trơn trượt , đường có địa_hình quanh_co , đèo dốc , người lái_xe phải điều_chỉnh khoảng_cách an_toàn thích_hợp lớn hơn khoảng_cách an_toàn ghi trên biển_báo hoặc quy_định tại khoản 1 Điều này .
+Theo Điều g khoản 1 Điều 5 Nghị_định số 46/2016 / NĐ - CP , người điều_khiển xe ô_tô không giữ khoảng_cách an_toàn để xảy_ra va_chạm với xe chạy liền trước hoặc không giữ khoảng_cách theo quy_định thì bị xử_phạt từ 100.000 đồng đến 200.000 đồng ;
+- Trường_hợp không tuân_thủ quy_định về khoảng_cách an_toàn đối_với xe chạy liền trước khi chạy trên đường_cao_tốc thì bị phạt tiền từ 800.000 đồng đến 1.200.000 đồng ( điểm h khoản 4 Điều 5 Nghị_định số 46/2016 / NĐ - CP ) .
+- Trường_hợp điều_khiển ô_tô không giữ khoảng_cách an_toàn giữa hai xe theo quy_định mà gây tai_nạn giao_thông thì bị phạt tiền từ 7.000.000 đồng đến 8.000.000 đồng theo quy_định tại điểm c khoản 8 Điều 5 Nghị_định 46/2016 / NĐ - CP .
+Ngoài trách_nhiệm hành_chính , nếu điều_khiển xe không giữ khoảng_cách an_toàn dẫn đến gây thiệt_hại cho sức_khỏe , tính_mạng , tài_sản của người khác thì người vi_phạm phải chịu trách_nhiệm bồi_thường thiệt_hại theo quy_định của pháp_luật .
+Luật_sư Kiều_Anh_Vũ Văn_phòng Luật_sư Lê_Nguyễn

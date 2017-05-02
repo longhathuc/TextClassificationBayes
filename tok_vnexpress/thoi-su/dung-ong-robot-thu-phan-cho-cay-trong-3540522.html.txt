@@ -1,0 +1,20 @@
+Dùng ong robot thụ_phấn cho cây_trồng
+Thiết_bị nhỏ gọn có_thể bay_lượn linh_hoạt như những chú ong tự_nhiên để lấy phấn từ hoa đực chuyển sang thụ_phấn cho hoa_cái .
+Theo Tiến sĩ Eijiro_Miyako - nhà_nghiên_cứu tại Viện_Khoa học Công_nghiệp Tiên_tiến và Công_nghệ của Nhật_Bản , trong năm qua có số_lượng đàn ong tự_nhiên bị sụt_giảm khoảng 44% và vẫn chưa có dấu_hiệu dừng lại .
+Do_đó việc ứng_dụng công_nghệ để giúp nông_dân giải_quyết những vấn_đề khó_khăn trong thụ_phấn cây_trồng do thiếu_hụt ong rất cần_thiết .
+Người nông_dân có_thể dùng phương_pháp thụ_phấn_nhân_tạo bằng cách dùng que gắn bông_gòn chà lên nhụy của hoa đực lấy phấn hoa rồi đem phết lên đầu nhụy hoa_cái .
+Tuy_nhiên việc này đòi_hỏi rất nhiều nhân_lực cũng_như sự tinh_tế , rất tốn thời_gian và công_sức .
+Do_đó thụ_phấn bằng ong vẫn là phương_pháp hiệu_quả nhất .
+Chú ong robot với phần lưới bên dưới có khả_năng thu_giữ phấn hoa ở hoa đực để thụ_phấn cho hoa_cái .
+Tiến_sĩ Miyako đã nghiên_cứu và phát_triển một thiết_bị bay nhỏ gọn với chiều ngang chưa tới 4cm , có_thể bay linh_hoạt như một chú ong .
+Để thu_thập và chuyển phấn hoa , phía dưới chú ong robot có gắn một tấm thảm nhỏ kết_từ lông đuôi hoặc bờm ngựa , phủ thêm một lớp gel dính .
+Qua thử_nghiệm thực_tế , Tiến_sĩ Miyako đã dùng ong robot thụ_tinh thành_công cho giống hoa lily Nhật_Bản .
+Hiện_tại thiết_bị không_thể tự_động bay mà cần có người điều_khiển , được trang_bị camera , cảm_biến và định_vị GPS để phát_hiện phấn hoa của nhiều loại cây_trồng .
+Chú ong nhân_tạo này vẫn còn cần nhiều thời_gian nghiên_cứu để có được bản_năng thụ_phấn tự_nhiên và vận_hành một_cách tối_ưu nhất .
+Hiện_tại chỉ tính riêng phần_cứng cho thiết_bị , chưa gồm bất_kỳ phần_mềm hay công_nghệ tiên_tiến nào , đã lên đến 35USD .
+Hơn_nữa do robot có trọng_lượng nhỏ gọn nên không_thể tích_hợp viên pin lớn , khiến thời_gian bay ngắn .
+Trung_bình với một lần sạc đầy thì ong robot bay được chỉ 10 phút , sẽ rất bất_tiện nếu nông_dân vận_hành cùng lúc hàng chục con trên một cánh đồng rộng_lớn .
+" Tuy không_thể hoàn_toàn thay_thế ong tự_nhiên trong việc thụ_phấn cây_trồng nhưng đây vẫn là một dự_án hết_sức thú_vị .
+Nó có_thể đem đến giải_pháp thiết_thực trong những trường_hợp khẩn_cấp để tránh cho người nông_dân bị thất_thu mùa_màng " , Tiến_sĩ Miyako chia_sẻ .
+Video ong robot thụ_tinh_nhân_tạo
+Minh_Trí

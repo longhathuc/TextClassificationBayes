@@ -1,0 +1,48 @@
+Những thăng_trầm của trí_tuệ_nhân_tạo
+Microsoft phải gỡ bỏ chương_trình tương_tác con_người trên Twitter hay   AlphaGO đánh thắng vô_địch cờ_vây thế_giới là những thăng_trầm trong thời_gian gần đây trong lĩnh_vực trí_tuệ_nhân_tạo ( AI ) .
+Theo Live_Science , một bước_tiến lớn của AI là sự_kiện chương_trình máy_tính của Google đánh cờ_vây thắng áp_đảo đương_kim vô_địch thế_giới hồi tháng 3 .
+Đây là trò_chơi chiến_thuật cổ của Trung_Quốc , phức_tạp hơn cờ_vua và được coi là một chuẩn_mực để đánh_giá sự tiến_bộ của AI .
+Một tuần sau đó ,   Microsoft thiết_kế   một chương_trình máy_tính khác tên là Tay   mô_phỏng một cô_gái 19 tuổi người Mỹ   để học_hỏi từ những tương_tác với con_người trên Twitter .
+Theo Microsoft , hệ_thống AI này có_thể giao_tiếp với con_người ngày_một tốt hơn nhờ học_hỏi những người tweet đến nó .
+Tuy_nhiên , họ đã phải tắt hệ_thống này 16 giờ sau đó , khi Tay bắt_đầu đưa ra những tuyên_bố phân_biệt chủng_tộc , giới_tính và khiêu_dâm .
+Microsoft sau đó đã phải xin_lỗi và giải_thích đã xảy_ra một vụ " tấn_công phối_hợp " vào các " lỗ_hổng " và " lỗi kỹ_thuật " của Tay .
+Dù_Microsoft cho rằng họ là nạn_nhân của tin_tặc , nhưng theo Bart_Selman , một giáo_sư về khoa_học máy_tính tại Đại_học Cornell , cái gọi_là " lỗ_hổng " thực_chất là việc Tay lặp lại các cụm_từ được tweet tới nó mà không qua bất_kỳ công_cụ lọc nào .
+Ông cho rằng đây là một trong những nhược_điểm chính của AI hiện_nay : kỹ_năng đọc hiểu ngôn_ngữ .
+AI rất giỏi phân_tích cú_pháp văn_bản , nghĩa_là , làm sáng_tỏ những mẫu ngữ_pháp là nền_tảng cho một ngôn_ngữ , theo Selman .
+Điều này cho_phép các chương_trình như Tay có_thể đưa ra những câu phát_biểu giống như người thật .
+Đây cũng là sức_mạnh của các chương_trình dịch tự_động của Google và Skype .
+" Nhưng hiểu ngữ_nghĩa – ý_nghĩa của câu là một việc khác hoàn_toàn " , ông nói .
+Nhiều tiến_bộ gần đây của AI là nhờ vào phương_pháp " học sâu – deep learning " , mà ở một_số mức_độ nào_đó có_thể mô_phỏng quá_trình hoạt_động của các lớp tế_bào thần_kinh trong não bộ .
+Với dải dữ_liệu khổng_lồ , nó rất giỏi trong việc tìm_kiếm các mẫu , nên các thành_công lớn nhất của AI cho tới nay đều liên_quan tới nhận_diện hình_ảnh hoặc giọng nói .
+Trong khi cách tiếp_cận truyền_thống của việc dạy máy_tính học là nói cho nó biết cần tìm_kiếm cái gì để " học " , thì một trong những ưu_điểm chính của deep learning là khả_năng " tự_động khám_phá " , theo Shimon_Whiteson , giáo_sư khoa Khoa_học máy_tính , Đại_học Oxford , Anh .
+Lớp đầu_tiên của deep learning là tối_ưu_hóa để tìm các đặc_điểm cơ_bản nhất trong dữ_liệu , ví_dụ như các cạnh của một vật_thể trong một bức ảnh .
+Dữ_liệu đầu_ra sẽ được chuyển tới lớp kế_tiếp , quét các cấu_hình phức_tạp hơn , như hình_vuông hay hình_tròn .
+Quá_trình này được lặp_đi_lặp_lại trên các lớp với độ phức_tạp tăng dần theo từng_lớp , sao cho tới một lúc_nào đó , nó có_thể sử_dụng các cấu_trúc ở các mức thấp hơn để xác_định một vật_thể là ôtô hay xe_đạp .
+" Với deep learning , bạn chỉ việc đưa dữ_liệu thô vào một mạng_lưới thần_kinh lớn nào_đó , mà sau đó nó sẽ được đào_tạo tới cuối " , Whiteson cho_biết .
+Điều này đã dẫn đến một_số khả_năng siêu_phàm của AI .
+Selman nói hệ_thống deep learning đã được chứng_minh có_thể làm tốt hơn các chuyên_gia y_tế trong việc chuẩn đoán bệnh từ ảnh chụp cộng_hưởng từ MRI .
+Kết_hợp cùng_với phương_pháp học tăng_cường ( reinforcement learning ) để đưa ra chiến_lược tối_ưu , AI cũng thành_công trong việc xây_dựng các mô_phỏng ảo chính_xác , theo Kaheer_Suleman , giám_đốc công_nghệ và đồng người sáng_lập của công_ty về AI tại Canada , Maluuba .
+Đây cũng là cách mà chương_trình AlphaGo của Google sử_dụng để trở_thành một chuyên_gia cờ_vây , tự chơi hàng triệu ván một_mình , kết_hợp các phương_pháp này để nâng cao kỹ_năng và phát_triển chiến_thuật .
+Tuy_nhiên , đây cũng là nhược_điểm của phương_pháp này .
+" Thách_thức lớn với AI là những lĩnh_vực không có kho dữ_liệu đã được phân_loại và dán nhãn , hoặc trong các môi_trường không_thể mô_phỏng tốt " , Suleman nói .
+" Ngôn_ngữ là một lĩnh_vực điển_hình trong trường_hợp này , Internet là một văn_bản vô_tận nhưng không nơi nào ' dán nhãn ' ngữ_nghĩa theo kiểu máy_móc cả " .
+Maluuba đang phát_triển các thuật_toán có_thể đọc văn_bản và trả_lời các câu_hỏi về văn_bản đó , nhưng Suleman cho_biết có một_số tính_năng của ngôn_ngữ làm cho công_việc trở_nên đặc_biệt khó_khăn .
+Ngữ_nghĩa trải rộng trên nhiều cấp_độ , từ từ_vựng tới cụm_từ và câu .
+Chúng có_thể kết_hợp với nhau theo vô_số cách mà mỗi người lại có lối nói_riêng .
+Ngoài_ra , mọi ngôn_ngữ đều trừu_tượng .
+Từ_ngữ là những biểu_tượng đơn_giản cho mọi thứ trong thế_giới thực mà một cỗ máy không_thể trải_nghiệm được .
+Không có sự truy_cập vào các dữ_liệu của cuộc_sống trong một thế_giới vật_chất cùng_với sự phong_phú của những tương_tác xã_hội mà con_người đã tích_lũy từ lâu , nên không có gì ngạc_nhiên rằng Tay_không hiểu nghĩa từ " Holocaust " ( cuộc tàn_sát người Do_Thái dưới thời Hitler ) .
+" Deep learning rất tốt nhưng không phải là giải_pháp tối_ưu " , Whiteson nói .
+" Còn rất nhiều thứ thiếu_sót .
+Nên bước tiếp_theo đương_nhiên là bổ_sung gì cho deep learning để nó trở_nên tốt hơn " .
+Dù còn nhiều thách_thức , Maluuba đã công_bố một báo_cáo vào tháng 3/2016 trên ar Xiv , một kho lưu_trữ trực_tuyến các nghiên_cứu , mô_tả cách mà hệ_thống của họ có_thể trả_lời các câu_hỏi trắc_nghiệm về văn_bản không quen_thuộc với độ_chính_xác 70% , vượt qua các hệ_thống khác 15% .
+Cách tiếp_cận của Maluuba kết_hợp deep learning với cấu_trúc mạng_lưới thần_kinh , được thiết_kế để tương_tác với nhau theo cách hình_thành hình_thức thô_sơ của lý_luận .
+Công_ty cũng đang làm_việc với các hệ_thống hội_thoại để học cách đối_thoại tự_nhiên với con_người .
+Selman nói rằng AI tập_trung vào ngôn_ngữ có_thể mang lại hữu_ích đáng ngạc_nhiên cho các ứng_dụng , nơi các đối_tượng khá hạn_chế .
+Ví_dụ các đường_dây_nóng hỗ_trợ kỹ_thuật , theo ông dự_đoán sẽ sớm được tự_động_hóa ( đã có một_vài nơi tự_động_hóa ) , hoặc các công_việc hành_chính tương_đối cao_cấp yêu_cầu các tương_tác theo thủ_tục như cập_nhật các bảng tính và gửi đi các email theo công_thức .
+" Vẫn tồn_tại những yếu_kém trong những công_việc mở , khó kiểm_soát , không_những liên_quan đến nhiều khía_cạnh của trí_tuệ con_người mà_còn yêu_cầu phải thực_sự hiểu được con_người " , Selman nói .
+Tuy_nhiên , theo Whiteson , vẫn có những thành_tựu đáng_kể trong lĩnh_vực AI , như xe tự lái của Google là một ví_dụ điển_hình .
+Lái_xe trên đường cùng_với con_người không_những yêu_cầu phải hiểu luật giao_thông , còn phải theo các chuẩn_mực xã_hội bất_thành_văn , cùng_với các cách xử_lý khi tránh va_chạm xảy_ra .
+Những tiến_bộ trong lĩnh_vực AI và robot dẫn đến số_lượng máy_móc được sử_dụng trong thế_giới thực ngày_càng tăng , khả_năng tương_tác với con_người không còn là một mục_tiêu viễn_tưởng .
+Các nhà_nghiên_cứu vẫn đang tìm_kiếm các cách tiếp_cận mới giúp máy_tính có_thể cảm_nhận và hiểu được thế_giới xung_quanh .
+Nguyễn_Thành_Minh

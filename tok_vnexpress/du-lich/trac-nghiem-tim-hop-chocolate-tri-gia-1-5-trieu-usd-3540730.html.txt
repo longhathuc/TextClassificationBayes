@@ -1,0 +1,2 @@
+Trắc_nghiệm : Tìm hộp chocolate trị_giá 1,5 triệu USD
+Hãy thử đoán xem hộp chocolate nào trong 6 hình dưới đây có_giá cao nhất , lên tới 1,5 triệu USD .

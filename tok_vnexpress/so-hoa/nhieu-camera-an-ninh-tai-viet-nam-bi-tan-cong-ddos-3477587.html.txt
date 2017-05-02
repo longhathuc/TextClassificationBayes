@@ -1,0 +1,27 @@
+Nhiều camera an_ninh tại Việt_Nam bị tấn_công DDoS
+Những chiếc camera giám_sát của hộ gia_đình có nguồn_gốc không rõ_ràng liên_tục gửi dữ_liệu ra ngoài khiến việc truy_cập Internet khó_khăn và tiềm_ẩn nguy_cơ mất an_toàn thông_tin .
+Trung_tâm kỹ_thuật FPT Telecom đã nhận được nhiều phản_hồi từ khách_hàng về việc đường truyền không ổn_định .
+Tiến_hành kiểm_tra một_số trường_hợp , các chuyên_viên cho_biết sóng Wi-Fi tại nhà người dùng vẫn tốt , đo tốc_độ mạng thấy bình_thường , nhưng khi truy_cập Internet lại chập_chờn .
+Camera an_ninh trở_thành mục_tiêu của các cuộc tấn_công .
+Trong quá_trình theo_dõi , đội kỹ_thuật của công_ty đã tiến_hành nhiều biện_pháp nhưng tình_trạng vẫn không được khắc_phục , truy_cập tới những website nhẹ như Google mất nhiều thời_gian .
+Đặc_biệt , điểm chung của các trường_hợp trên là các gia_đình đều dùng camera an_ninh có nguồn_gốc không rõ_ràng và đây cũng được xác_định là nguyên_nhân gây sự_cố mạng .
+Anh Vũ_Văn_Trọng , chuyên_viên FPT Telecom cho_biết : " Khi kiểm_tra , chúng_tôi phát_hiện các camera liên_tục gửi các gói tin làm tràn bảng ghi của modem , từ đó gây ra tình_trạng mất kết_nối " .
+Bằng việc khóa một_số cổng ( port ) , người dùng đã có_thể truy_cập Internet ổn_định trở_lại .
+Song dấu_hiệu bất_thường của những chiếc camera lạ đặt ra dấu_hỏi về nguy_cơ mất an_toàn thông_tin , an_ninh mạng .
+Đầu_tiên người dùng bị ảnh_hưởng trực_tiếp , bởi thiết_bị_đầu_cuối bị treo , gây khó_khăn cho việc truy_cập Internet .
+Ngoài_ra , hình_thức này còn là một dạng tấn_công từ_chối dịch_vụ ( DDoS ) .   Nguy
+hiểm hơn , việc camera liên_tục gửi các gói tin ra ngoài có_thể do camera được đặt lệnh truyền_hình ảnh cho bên thứ_ba , xâm_phạm quyền riêng_tư của người dùng .
+Chia_sẻ về vấn_đề ,   ông Võ_Đỗ_Thắng , Giám_đốc Trung_tâm an_ninh mạng Athena nói :   " Tấn_công vào camera giám_sát là hình_thức không mới nhưng vẫn hiệu_quả bởi người dùng chưa cảnh_giác " .
+Hiện_nay , các camera an_ninh thường cho_phép xem qua Internet , mở cổng để truy_cập từ bên ngoài , đem đến sự tiện_lợi cho người dùng nhưng tiềm_ẩn nguy_cơ mất an_toàn .
+Các chuyên_gia cho_hay , dấu_hiệu để nhận_biết camera có_thể bị tấn_công là việc truy_cập Internet trở_nên chậm bất_thường , chậm trong một_số khoảng thời_gian ngoài giờ cao_điểm .
+Những chiếc camera giám_sát dễ bị xâm_nhập là những loại có nguồn_gốc không rõ_ràng , thiếu nhãn_mác hoặc từ những thương_hiệu ít tên_tuổi .
+Người dùng được khuyến_cáo sử_dụng camera chính hãng , có thông_tin rõ_ràng , được phân_phối và lắp_đặt bởi các nhà_cung_cấp đảm_bảo .
+Hình_ảnh từ một_số camera giám_sát ở Việt_Nam được chia_sẻ công_khai trên Internet .
+Theo ghi_nhận của Techcrunch   vào cuối năm 2014 , có hơn 730.000 camera giám_sát trên toàn_cầu bị theo_dõi và bị chia_sẻ công_khai trên website Insecam.com .
+Đáng chú_ý , trong danh_sách này có hơn 700 camera có nguồn_gốc từ Việt_Nam và đến nay còn hơn 100 camera .
+Việc truy_cập trái_phép có_thể diễn ra khá đơn_giản bởi rất nhiều người giữ nguyên tài_khoản và mật_khẩu mặc_định .
+Cuối tháng 9/2016 , 25.000 camera an_ninh đã bị khai_thác để làm thành mạng_lưới botnet ( máy_tính ma ) nhằm thực_hiện cuộc tấn_công từ_chối dịch_vụ ( DDoS ) vào các website .
+Bằng hình_thức này , tin_tặc đã làm tê_liệt những trang_web , dịch_vụ của các cơ_quan chính_phủ , ngân_hàng trực_tuyến trên nhiều quốc_gia .
+Tại cuộc Hội_nghị tin_tặc thế_giới   Defcon 2016 , nhóm diễn_giả đến từ   Merculite_Sercurity cho_biết 75% các ổ_khóa an_ninh mà họ thử_nghiệm bị tấn_công khá dễ_dàng .
+Khi các thiết_bị thông_minh lên_ngôi , nguy_cơ mất an_toàn càng tăng cao và kết_quả sẽ vô_cùng tệ_hại khi tin_tặc có_thể xâm_nhập , kiểm_soát đèn thông_minh , cửa thông_minh , điều_hòa , máy_giặt ... trong ngôi nhà bạn .
+Đặc_biệt , camera giám_sát luôn dẫn_đầu danh_sách thiết_bị mà hacker nhòm_ngó .

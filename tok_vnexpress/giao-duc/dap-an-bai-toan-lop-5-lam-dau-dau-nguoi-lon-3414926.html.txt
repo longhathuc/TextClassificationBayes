@@ -1,0 +1,12 @@
+Đáp_án bài_toán lớp 5 làm đau_đầu người_lớn
+Bài_toán thú_vị về sắp_xếp các chữ_số có đáp_án là 47 .
+Đề_bài :
+Có 6 chữ_số 1 , 2 , 3 , 4 , 5 , 6 .
+Mỗi chữ_số được dùng 1 lần .
+Hãy lập ra 2 số có 3 chữ_số sao cho hiệu giữa số lớn hơn và số nhỏ hơn là nhỏ nhất có_thể .
+Giải :
+Giả_sử hai số lập được là abc và def với a > d .
+Ta thấy rằng để hiệu abc – def nhỏ nhất thì đầu_tiên là ta phải có a chỉ hơn d 1 đơn_vị .
+Và sau đó thì bc nhỏ nhất có_thể và ef lớn nhất có_thể .
+Từ đây ta đi đến phương_án tốt nhất_là 412 – 365 = 47 .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

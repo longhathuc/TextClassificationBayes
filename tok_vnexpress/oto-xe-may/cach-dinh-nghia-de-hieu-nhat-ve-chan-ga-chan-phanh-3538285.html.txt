@@ -1,0 +1,2 @@
+Cách định_nghĩa dễ hiểu nhất về chân ga , chân phanh
+Lái_xe giống nghe nhạc , nếu chân ga để ấn nút Play thì chân côn là dừng tạm_thời ( Pause ) còn chân phanh là dừng hẳn ( Stop ) .

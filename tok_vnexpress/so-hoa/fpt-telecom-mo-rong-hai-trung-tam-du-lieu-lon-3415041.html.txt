@@ -1,0 +1,14 @@
+FPT Telecom mở_rộng hai trung_tâm dữ_liệu lớn
+Trong hai ngày 6/6 và 7/6 , Công_ty FPT Telecom khánh_thành mở_rộng hai trung_tâm dữ_liệu Data_Center đạt chuẩn Uptime_Tier III .
+Hai trung_tâm này bao_gồm Data_Center EPZ ở khu_chế_xuất Tân_Thuận , Quận 7 ( TP_HCM ) và Data_Center_Phạm_Hùng tại tòa nhà FPT Cầu_Giấy ( Hà_Nội ) .
+Trong đó , EPZ được xem là Trung_tâm Dữ_liệu lớn nhất miền Nam .
+Năm 2013 , Data_Center EPZ của FPT Telecom đạt chứng_chỉ Uptime_Tier III đầu_tiên , đưa Việt_Nam thành nước thứ_ba tại Đông_Nam Á sở_hữu chứng_nhận uy_tín này , sau Malaysia và Indonesia .   Chứng_chỉ Uptime_Tier III của Uptime_Institute ( Mỹ ) là hệ_thống tiêu_chuẩn đánh_giá uy_tín dành cho việc xây_dựng , vận_hành , quản_lý và sự ổn_định về dịch_vụ của Trung_tâm dữ_liệu trên thế_giới .
+Chứng_nhận này đã được cấp và sử_dụng cho các Data_Center ở 72 quốc_gia .
+FPT Telecom khánh_thành mở_rộng hai trung_tâm dữ_liệu Data_Center sáng 6/6 .
+Với lần đầu_tư mở_rộng quy_mô này , Data_Center EPZ có diện_tích 3.300 m2 , sức chứa hơn 800 tủ rack gồm hai loại 42U và 47U , được sắp_xếp thuận_tiện và khoa_học dựa theo mô_hình của các trung_tâm công_nghệ_cao quốc_tế .
+Trong khi đó , Data_Center_Phạm_Hùng , cũng là một trong những đơn_vị thiết_kế theo mô_hình đạt chuẩn Uptime_Tier III đầu_tiên ,   được xây_dựng tại tòa nhà FPT Cầu_Giấy với diện_tích sử_dụng 2.400 m2 , sức chứa tổng_cộng hơn 700 tủ rack .
+Ông Phạm_Duy_Phúc , Tổng_giám_đốc Công_ty TNHH_MTV Viễn_thông quốc_tế FPT ( FTI ) cho_biết : " Với quyết_định đầu_tư hạ_tầng theo chiều sâu cùng công_nghệ tiên_tiến và hiện_đại , Data_Center_Phạm_Hùng và Data_Center EPZ hiện là hai trong số những trung_tâm quản_lý dữ_liệu hàng_đầu trong nước với những chứng_chỉ quốc_tế như ISO 9001 , ISO 50001 , ISO 27001 … Bên_cạnh trang_thiết_bị hiện_đại , đội_ngũ kỹ_sư vận_hành giàu kinh_nghiệm cũng là yếu_tố then_chốt góp_phần tạo nên sự thành_công của Data_Center " .
+Cũng tại sự_kiện khánh_thành Trung_tâm Dữ_liệu , FPT Telecom công_bố hợp_tác với Tập_đoàn IIJ ( Internet_Initiative_Japan_Inc ) trong việc phát_triển và cung_cấp dịch_vụ Cloud tại Việt_Nam từ tháng 5/2016 .
+IIJ là đơn_vị đã đặt nền_móng cho Internet và mang đến dịch_vụ kết_nối Internet thương_mại đầu_tiên tại Nhật_Bản , với những công_nghệ vượt_trội .
+Dich vụ Cloud được IIJ và FPT Telecom hợp_tác cung_cấp tại Việt_Nam bao_gồm Hardware ( Phần_cứng ) , Infrastructure ( Hạ_tầng ) và Platform ( Nền_tảng ) .
+Sự kết_hợp này hứa_hẹn đem đến trải_nghiệm tốt về dịch_vụ với chất_lượng và quy_trình Nhật_Bản .

@@ -1,0 +1,21 @@
+4 công_dụng của USB_OTG trên di_động Android
+Cổng USB_OTG có_thể sử đụng để đọc dữ_liệu từ các ổ_cứng di_động , truyền dữ_liệu giữa các điện_thoại hoặc sạc pin cho một điện_thoại khác .
+Đọc dữ_liệu trực_tiếp từ ổ_cứng , bộ_nhớ USB
+USB_OTG là thiết_bị nhỏ gọn bao_gồm một cổng micro USB cắm vào điện_thoại và cho ra một đầu USB cái .
+Nhờ vậy , thiết_bị giúp kết_nối smartphone với bộ_nhớ_ngoài như ổ_cứng di_động , bộ_nhớ USB .
+Ngoài_ra , người dùng cũng có_thể cắm trực_tiếp một đầu_đọc thẻ nhớ thông_thường , thuận_tiện cho các nhiếp_ảnh_gia cần sao_chép ảnh nhanh vào điện_thoại .
+USB_OTG có_thể mua rời trong khi một_số di_động cao_cấp được tặng kèm như Galaxy S7 của Samsung .
+Kết_nối bàn_phím , chuột rời cho smartphone
+Điện_thoại thông_minh ngày_nay đã có_thể hỗ_trợ nhiều tính_năng cho công_việc khá tốt .
+Tuy_nhiên , thao_tác gõ bàn_phím ảo thời_gian dài trên máy vẫn chưa thực_sự tối_ưu so với bàn_phím vật_lý thông_thường .
+Với một chiếc USB_OTG , người dùng hoàn_toàn có_thể sử_dụng các bàn_phím , chuột của máy_tính cho điện_thoại dễ_dàng .
+Với các loại bàn_phím không dây , đầu thu siêu nhỏ cũng có_thể cắm trực_tiếp vào USB_OTG .
+Sạc pin cho điện_thoại khác
+Với cáp USB , người dùng có_thể sử_dụng để sạc pin cho các điện_thoại khác qua USB_OTG .
+Thiết_bị cần được sạc sẽ cắm trực_tiếp cổng micro USB trong khi thiết_bị dùng để sạc sẽ cắm thiết_bị USB_OTG .
+Chuyển dữ_liệu trực_tiếp giữa các điện_thoại
+Điều đầu_tiên khi người dùng sở_hữu một chiếc điện_thoại mới là muốn chuyển dữ_liệu sang từ chiếc cũ .
+Số này bao_gồm ảnh , video , tin nhắn , danh_bạ ... thường có dung_lượng khá lớn và phức_tạp nếu sử_dụng cách_thức thủ_công .
+USB_OTG có_thể là trợ_thủ đắc_lực trong trường_hợp này nhưng hiện_nay chỉ một số_ít các hãng có hỗ_trợ .
+Khi cắm sản_phẩm vào cắm thêm cáp micro USB thông_thường , tính_năng SmartSwitch trên Galaxy S7 hay Galaxy S7 edge có_thể chuyển dữ_liệu nhanh_chóng .
+Xem thêm cách chuyển dữ_liệu từ i Phone sang Galaxy S7

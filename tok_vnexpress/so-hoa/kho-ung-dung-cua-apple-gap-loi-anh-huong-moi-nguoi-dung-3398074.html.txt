@@ -1,0 +1,8 @@
+Kho ứng_dụng của Apple gặp lỗi , ảnh_hưởng mọi người dùng
+Apple thông_báo người sử_dụng App_Store sẽ nhận thấy kho ứng_dụng của họ gặp trục_trặc và không hoạt_động bình_thường .
+Trang cập_nhật trạng_thái hệ_thống của Apple cho_hay sự_cố này " ảnh_hưởng tới mọi người dùng " và dịch_vụ " không hoạt_động như mong_đợi " .
+Tìm_Spotify nhưng lại hiện ra ứng_dụng SoundCloud .
+Ảnh : macrumors
+Trên một_số diễn_đàn , các thành_viên cho_biết công_cụ tìm_kiếm của App_Store bị lỗi , không_thể tra_cứu hoặc hiển_thị sai ứng_dụng cần tìm , phần_nào tác_động đến doanh_thu của các chuyên_gia lập_trình .
+Lỗi diễn ra trên diện rộng và hiện chưa được xử_lý .
+Apple chưa công_bố nguyên_nhân của sự_cố này và vẫn đang tiếp_tục khắc_phục .

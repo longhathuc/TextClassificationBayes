@@ -1,0 +1,24 @@
+Sinh_viên FPT được hỗ_trợ 24.000 USD để khởi_nghiệp
+Nhóm sinh_viên Đại_học FPT nhận 2.000 USD mỗi tháng nhằm hiện_thực hóa ý_tưởng tạo ra thiết_bị giúp người khuyết_tật nâng cao khả_năng giao_tiếp .
+Sáng_kiến của đội Handication ( Đại_học FPT ) được Ban tổ_chức cuộc_thi Smart_City_Hackathon_Bình_Dương 2016 đánh_giá tích_cực và nhận giải_thưởng dành cho đội xuất_sắc nhất sử_dụng nền_tảng IBM Bluemix để phát_triển ứng_dụng này .
+Nhóm trưởng Trương_Công_Thái cho_biết , khi nhìn thấy thiết_bị đeo tay nhận_biết xung cơ mang tên MYO Armband , anh và cộng_sự đã nghĩ đến việc thiết_kế một sản_phẩm thông_minh hiểu ngôn_ngữ của cánh_tay , giúp những người khuyết_tật giao_tiếp dễ_dàng hơn .
+Theo quy_định của cuộc_thi , trong vòng 24 tiếng , các đội sẽ xây_dựng một sản_phẩm thông_minh giải_quyết các vấn_đề trong cuộc_sống thuộc lĩnh_vực giao_thông , giáo_dục , xã_hội - sức_khỏe , an_toàn công_cộng , môi_trường , năng_lượng - tài_nguyên nước .
+Sau khi lựa_chọn chủ_đề , mỗi đội chọn một nền_tảng cloud ( đám mây ) để lên ý_tưởng .
+Ban tổ_chức cung_cấp cloud BlueMix của tập_đoàn công_nghệ máy_tính IBM và ưu_tiên cho những thí_sinh sử_dụng cloud này .
+Với thời_gian gấp_rút , cả nhóm của Thái chỉ kịp nghiên_cứu những động_tác cơ_bản của thiết_bị , tương_tác với các câu đơn_giản như “ tôi thích bạn ” , “ tôi thích hoa ” ...
+Để thuyết_phục ban giám_khảo , cả nhóm cố_gắng demo một_cách tốt nhất cả về kỹ_thuật và ý_tưởng .
+Nhóm cũng gặp nhiều khó_khăn khi xây_dựng ứng_dụng trên hệ_điều_hành Android , bởi hệ_điều_hành phổ_biến đang được sử_dụng cho những thiết_bị tương_tự là Window và i OS .
+Mặc_dù vậy , ý_tưởng này sau đó đã thuyết_phục các vị giám_khảo khó_tính bằng một ứng_dụng hiểu cử_động cánh_tay và hiển_thị trên điện_thoại thông_minh .
+Nhiều chuyên_gia đánh_giá , dự_án này có tính thiết_thực cao , áp_dụng công_nghệ mới .
+Các thành_viên của nhóm là những người đầu_tiên trên thế_giới sở_hữu thiết_bị nhận_biết xung cơ .
+Ban tổ_chức đồng_ý tài_trợ 24.000 USD mỗi năm ( 2.000 USD mỗi tháng ) để đội Handication thực_hiện dự_án khởi_nghiệp của mình .
+“ Nhóm xử_lý nhiễu , chuẩn_hóa dữ_liệu đầu_vào để ai cũng có_thể sử_dụng sản_phẩm này .
+Điều thành_công nhất trong cuộc_thi là chúng_tôi đã tạo ấn_tượng với một tập_đoàn công_nghệ lớn ” , nhóm trưởng Trương_Công_Thái chia_sẻ .
+Trước_mắt , nhóm sẽ hoàn_thiện ứng_dụng , sau đó tìm nhà_đầu_tư thích_hợp để phát_triển chương_trình này .
+Sản_phẩm của nhóm Handication được trưng_bày trong triển_lãm Thành_phố thông_minh tại Bình_Dương thu_hút nhiều doanh_nghiệp quan_tâm .
+Có doanh_nghiệp đề_nghị Handication xây_dựng thêm một ứng_dụng mới cho Myo_Armband để hỗ_trợ thiết_bị thực_tế ảo .
+" Dự_án tiềm_năng và ý_nghĩa , nó giúp người khuyết_tật có_thể giao_tiếp tốt hơn , Tuy_nhiên , nhóm gặp nhiều khó_khăn trong việc triển_khai vì mức giá của các thiết_bị này rất cao .
+Tôi sẽ khuyến_khích các bạn trẻ khởi_nghiệp bằng cách hỗ_trợ cho dự_án này ” , ông Lưu_Danh_Anh_Vũ , Giám_đốc quan_hệ khách_hàng IBM Việt_Nam ( Senior_Client_Mananager ) nói .
+Đây là giải_thưởng nằm trong khuôn_khổ cuộc_thi Smart_City_Hackathon_Bình_Dương 2016 , diễn ra từ ngày 26-27 / 3 tại Trung_tâm Hội_nghị Bình_Dương ( thành_phố mới Bình_Dương ) .
+Chương_trình được tổ_chức bởi Lãnh_sự_quán Hà_Lan tại TP_HCM , tỉnh Bình_Dương cùng các tập_đoàn lớn như IBM , Becamex ... Thành_phần ban giám_khảo gồm đại_diện Sở Khoa học công_nghệ Bình_Dương , Sở Thông tin và truyền_thông và đại_diện của một_số doanh_nghiệp .
+N.Loan

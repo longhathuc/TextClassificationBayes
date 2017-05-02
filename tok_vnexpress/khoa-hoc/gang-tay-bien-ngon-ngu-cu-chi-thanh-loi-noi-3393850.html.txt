@@ -1,0 +1,16 @@
+Găng_tay biến ngôn_ngữ cử_chỉ thành lời_nói
+Đôi găng_tay kỳ_diệu biết " đọc " ngôn_ngữ cử_chỉ có_thể trở_thành cầu_nối giúp những người khuyết_tật giao_tiếp dễ_dàng hơn với cộng_đồng .
+Ngôn_ngữ cử_chỉ là một công_cụ tuyệt_vời , nhưng ít người có_thể sử_dụng loại ngôn_ngữ này .
+Điều này khiến người sử_dụng ngôn_ngữ cử_chỉ gặp khó_khăn khi giao_tiếp với người khác .
+Navid_Azodi và Thomas_Pryor , hai sinh_viên thuộc Đại_học Washington , Mỹ , thiết_kế găng_tay có khả_năng chuyển ngôn_ngữ cử_chỉ thành lời_nói .
+Thiết_bị này có tên " Sign_Aloud " .
+Đó là một_đôi găng_tay chứa cảm_biến ghi lại tư_thế và chuyển_động của bàn_tay , theo Tech_Radar .
+Sau đó , những thông_tin này được chuyển đến một máy_tính trung_tâm qua Bluetooth .
+Máy_tính trung_tâm sẽ kiểm_tra độ trùng_lặp của cử_chỉ trong Hệ_thống Ngôn_ngữ Cử_chỉ Mỹ .
+Nếu cử_chỉ có ý_nghĩa , nó sẽ được chuyển thành lời_nói và phát qua_loa .
+Dù đây không phải thiết_bị chuyển_đổi ngôn_ngữ cử_chỉ đầu_tiên , đây là một trong những thiết_bị tối_ưu và dễ sử_dụng nhất .
+Nó có_thể dễ_dàng trở_thành một phần trong cuộc_sống của con_người giống như máy trợ_thính và kính áp tròng .
+Với thiết_bị này , Azodi và Pryor đã giành giải_thưởng sáng_chế   Lemelson - MIT dành cho sinh_viên trị_giá 10.000 USD .
+Hiện_nay , thiết_bị chỉ có_thể chuyển_đổi hệ_thống ngôn_ngữ cử_chỉ Mỹ .
+Tuy_nhiên , trong tương_lai , nó có khả_năng áp_dụng cho nhiều hệ_thống ngôn_ngữ cử_chỉ khác .
+Thùy_Dương

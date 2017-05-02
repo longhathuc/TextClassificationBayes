@@ -1,0 +1,15 @@
+Facebook bị kiện vì hệ_thống nhận_diện khuôn_mặt
+Hệ_thống tự_động nhận_diện khuôn_mặt để gợi_ý tag ( gắn thẻ ) ảnh của Facebook vừa bị cáo_buộc vi_phạm quyền riêng_tư tại Mỹ và nếu bị xử thua , Facebook có_thể sẽ phải đối_mặt với những cuộc_chiến pháp_lý lớn hơn .
+Tòa_án quận Bắc_California ( Mỹ ) vừa tiếp_nhận đơn_kiện từ một nhóm người dùng Facebook , trong đó cáo_buộc mạng xã_hội này đã thu_thập và lưu_trữ trái_phép các dữ_liệu sinh trắc học của họ thông_qua tính_năng nhận_diện khuôn_mặt để gợi_ý tag ảnh ( tag suggestions ) .
+Tính_năng tự_động nhận_diện khuôn_mặt và gắn thẻ của Facebook .
+Theo đơn_kiện , Facebook đã vi_phạm quyền riêng_tư của người dùng bằng cách thu_thập dữ_liệu để tạo ra một faceprints ( mô_phỏng hình_học của khuôn_mặt người ) mà chưa có sự cho_phép .
+Faceprints chính là tính_năng được Facebook sử_dụng trong việc gợi_ý khuôn_mặt người nào_đó trong ảnh khi người dùng tải lên .
+Với hành_động này , Facebook đã trực_tiếp vi_phạm Đạo_luật Thông_tin bảo_mật sinh trắc học ( BIPA ) của bang Illinois , trong đó quy_định “ nghiêm_cấm thu_thập các dạng sinh trắc học của con_người như dấu vân tay hay faceprints nếu chưa có sự cho_phép ” .
+Facebook sau đó đã lên_tiếng đáp trả .
+Họ không thừa_nhận mình vi_phạm luật_pháp , bởi trong chính_sách người dùng của hãng đã có quy_định nếu sử_dụng phải tuân_thủ các điều_khoản của mạng xã_hội này , trong đó tùy chọn cho_phép tự_động gợi_ý gắn thẻ ảnh mà không liên_quan đến BIPA , chỉ có luật_pháp của California và luật liên_bang mới có_thể can_thiệp .
+Tuy_nhiên , trong ngày 5/5 , thẩm_phán tòa_án đã bác_bỏ lập_luận của Facebook , đồng_thời cho rằng các điều_khoản dịch_vụ mà đại_diện mạng xã_hội đưa ra không đủ để vô_hiệu_hóa BIPA , và tính_năng nhận_diện khuôn_mặt trên hình_ảnh tải lên vẫn vi_phạm đạo_luật .
+Do_đó , bên nguyên_đơn vẫn có_thể yêu_cầu bồi_thường hợp_lệ theo luật sinh trắc học Illinois .
+Facebook vẫn chưa đưa ra bình_luận gì thêm .
+Theo The_Verge , nếu bên nguyên_đơn thắng kiện , không_chỉ Facebook mà_cả những dịch_vụ tự_động nhận_diện khuôn_mặt sẽ ảnh_hưởng lớn .
+Hiện tính_năng này là một trong những sản_phẩm cốt_lõi của Facebook và cũng đang được Twitter hay Google_Photos học_hỏi .
+Bảo_Lâm

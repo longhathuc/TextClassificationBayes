@@ -1,0 +1,22 @@
+Đáp_án bài_toán ' bắt_tay ' lớp 9
+Bài_toán dành cho học_sinh lớp 9 không quá khó nhưng giúp bạn rèn_luyện khả_năng suy_luận để tìm ra cách giải phù_hợp với kiến_thức ở từng bậc học .
+Đề_bài :
+Hai câu_lạc_bộ có một buổi gặp_mặt .
+Mỗi thành_viên bắt_tay một lần với tất_cả những người còn lại .
+Có tất_cả 231 cái bắt_tay nhưng trong đó 119 cái là của những thành_viên trong cùng một câu_lạc_bộ .
+Hỏi mỗi câu_lạc_bộ có bao_nhiêu thành_viên ?
+Đáp_án : 14 người và 8 người .
+Giả_sử tổng_số thành_viên của hai câu_lạc_bộ là N ( người ) thì số cái bắt_tay sẽ là
+N x ( N - 1 ) .
+Tuy_nhiên , hai người bắt_tay với nhau chỉ được tính là một cái bắt_tay .
+Vì_vậy , số cái bắt_tay của N người sẽ là N x ( N - 1 ) / 2 .
+Tổng_số có 231 cái bắt_tay nên ta có N x ( N - 1 ) / 2 = 231 .   Suy ra N x ( N - 1 ) = 462 = 21x22 ( sử_dụng kiến_thức giải phương_trình bậc 2 của lớp 8 ) .
+Như_vậy , tổng_số thành_viên của hai câu_lạc_bộ là 22 .   Gọi số người câu_lạc_bộ thứ nhất_là a , số người câu_lạc_bộ thứ 2 là b .
+Ta có : a + b = 22 .
+Có 119 cái bắt_tay nội_bộ .
+Suy ra chỉ có 231 - 119 = 112 cái bắt_tay là giữa thành_viên của hai câu_lạc_bộ .
+Từ đó ta có a x b = 112
+Từ a + b = 22 và a x b = 112 ta suy ra a = 14 và b = 8 .
+Kết_luận : Số thành_viên của hai câu_lạc_bộ lần_lượt là 14 và 8 người .
+Thanh_Tâm
+> > Đố bạn giải nhanh bài_toán ' bắt_tay ' lớp 9

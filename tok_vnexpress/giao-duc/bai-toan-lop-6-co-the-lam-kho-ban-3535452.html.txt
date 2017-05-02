@@ -1,0 +1,11 @@
+Bài_toán lớp 6 có_thể làm_khó bạn
+Bài_toán tìm độ dài cây nến trong đề thi APMOPS yêu_cầu bạn vận_dụng kiến_thức và cách suy_luận của học_sinh lớp 6-7 .
+Peter và Jane mỗi người có một cây nến .
+Cây nến của Jane ngắn hơn của Peter   3 cm .
+Hai người thắp nến ở hai thời_điểm khác_nhau .
+Peter thắp nến lúc 7h và Jane thắp lúc 9h .
+Hai cây nến bằng nhau lúc 10h .
+Sau đó , nến của Jane cháy tiếp 4 giờ và của Peter cháy tiếp 6 giờ thì tắt .
+Hỏi ban_đầu độ dài cây nến của Peter là bao_nhiêu ?
+Thanh_Tâm
+> > Thử tài tư_duy với bài_toán tô màu cho ngũ_giác > > Bài_toán nhặt đậu thách_thức suy_luận của bạn

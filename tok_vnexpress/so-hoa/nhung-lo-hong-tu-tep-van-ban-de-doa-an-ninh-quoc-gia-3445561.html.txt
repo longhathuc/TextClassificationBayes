@@ -1,0 +1,36 @@
+Những lỗ_hổng từ tệp văn_bản đe_dọa an_ninh quốc_gia
+Lỗ_hổng trong công_cụ Microsoft_Office có_thể bị khai_thác để lây_nhiễm mã độc theo_dõi , đánh_cắp dữ_liệu ... mà người dùng không hề hay_biết .
+Bộ ứng_dụng văn_phòng của Microsoft từ lâu đã trở_thành " điểm đen " để tin_tặc khai_thác .
+Theo BKAV , lỗ_hổng MS13-051 tồn_tại trong cơ_chế xử_lý ảnh PNG của Office 2003 .
+Để khai_thác , hacker tạo một file văn_bản đã cài mã độc , với nội_dung hấp_dẫn để dẫn_dụ người dùng mở .
+Chỉ cần tập_tin được bật lên , lập_tức virus sẽ kích_hoạt , tạo cổng hậu để hacker chiếm quyền điều_khiển hệ_thống từ xa .
+Đáng chú_ý , lỗ_hổng   MS13-051   tồn_tại từ năm 2009 và nhưng đến năm 2013 mới bị phát_hiện .   Điều
+này đồng_nghĩa với rất nhiều người sử_dụng đã có_thể bị theo_dõi , đánh_cắp , thay_đổi dữ_liệu ... mà không hề hay_biết .
+Bộ ứng_dụng văn_phòng của Microsoft từ lâu đã trở_thành " điểm đen " để tin_tặc khai_thác .
+Thêm một lỗ_hổng nữa trên Microsoft_Office là   CVE-2015-2545 , được sử_dụng rộng_rãi bởi nhiều nhóm gián_điệp và tội_phạm mạng .
+Lỗi có_thể bị khai_thác để thực_thi mã tùy_ý thông_qua các tập_tin hình_ảnh Encapsulated_Post Script ( EPS ) , đặc_biệt được chèn vào tài_liệu Office .
+Nghiêm_trọng hơn , lỗ_hổng này có_thể lách một_số chức_năng bảo_mật trên Windows .
+Cuối năm 2015 , APT , một nhóm tin_tặc có quan_hệ với Trung_Quốc , đã khai_thác   CVE-2015-2545 bằng cách   sử_dụng tài_liệu word làm vũ_khí tấn_công một nhà_thầu quốc_phòng Nhật_Bản .
+Cùng thời_điểm , nhóm hacker Trung_Quốc có tên APT16 sử_dụng lỗ_hổng này trên Office để tấn_công các cơ_quan chính_phủ và truyền_thông Đài_Loan .
+Với cách_thức tương_tự , một_số tổ_chức , công_ty ở Đài_Loan trở_thành mục_tiêu của nhóm tin_tặc   SVCMONDR .
+Microsoft đã vá lỗ_hổng   CVE-2015-2545 vào tháng 12/2015 , song tội_phạm mạng tiếp_tục khai_thác trong năm 2016 .
+Theo Kaspersky_Lab đến tháng 6/2016 , Danti là nhóm tin_tặc mới nhất sử_dụng lỗ_hổng này , mục_tiêu hướng đến các nước châu Á và khu_vực Đông_Nam Á , trong đó có Việt_Nam .
+Việc khai_thác được thực_hiện thông_qua email có liên_kết đến những trang_web lừa_đảo .
+Nhằm thu_hút sự chú_ý của nạn_nhân , những kẻ đứng sau đã tạo thư_điện_tử dưới danh_nghĩa những quan_chức cấp cao trong chính_phủ .
+Nguồn_gốc Danti vẫn chưa rõ nhưng các nhà_nghiên_cứu tại Kaspersky_Lab có lý_do để nghi_ngờ tin_tặc Trung_Quốc đứng sau nhóm này .
+Việc khai_thác lỗ_hổng bảo_mật thường được thực_hiện qua email .
+Ông Vũ_Ngọc_Sơn , Phó_chủ_tịch phụ_trách mảng chống mã độc của Bkav , cho_biết : " Chúng_tôi phát_hiện nhiều biến_thể virus khai_thác lỗ_hổng qua Microsoft_Office tại Việt_Nam .
+Kẻ khai_thác sử_dụng chủ_đề nóng về xung_đột Biển_Đông để dụ_dỗ người dùng mở file .
+Trước đó , các nước châu Á khác cũng là mục_tiêu , như Malaysia và Indonesia " .
+Từ năm 2013 , BKAV đã đưa ra cảnh_báo về việc Microsoft " tiếp_tay " cho phần_mềm gián_điệp tấn_công Việt_Nam .
+Các lỗ_hổng của bộ ứng_dụng Office   đã được sử_dụng làm vũ_khí trong các chiến_dịch này , trong đó 51% virus lây qua file word , 30% là file excel và 19% là file PowerPoint .
+Đây là loại vũ_khí mạnh , gây tổn_thất rất lớn về thông_tin .
+Các phiên_bản Office phổ_biến từ 2003 , 2007 , 2010 đều dính lỗ_hổng mà tin_tặc có_thể khai_thác .
+Kaspersky_Lab đã đề_nghị các công_ty nên chú_ý đến việc vá lỗi trong hệ_thống công_nghệ_thông_tin nhiều hơn , để tự bảo_vệ mình trước_hết là với những lỗ_hổng đã được biết đến .
+" Có một thực_trạng đáng buồn , dù đã được báo_động từ rất lâu rồi , là tỷ_lệ vi_phạm bản_quyền ở nước ta còn rất cao " , ông Sơn cho_biết .   Theo khảo_sát được Liên_minh Phần_mềm toàn_cầu ( BSA ) công_bố cuối tháng 5/2016 , tỷ_lệ sử_dụng phần_mềm máy_tính không có bản_quyền tại Việt_Nam ở mức cao , là 78% .
+BSA khuyến_cáo rằng giữa các cuộc tấn_công mạng và việc sử_dụng phần_mềm không bản_quyền có mối liên_hệ chặt_chẽ với nhau .
+Khi sử_dụng phần_mềm không bản_quyền , nguy_cơ gặp phải mã độc sẽ tăng cao , trong khi chi_phí để xử_lý hậu_quả là rất lớn .
+Ngày 29/7 ,   website của Vietnam_Airlines bị tấn_công , đồng_thời nhóm tin_tặc còn tung thông_tin các khách_hàng của hãng hàng_không này .   Tập_tin excel nặng khoảng gần 100 MB chứa dữ_liệu của hơn 400.000 thành_viên Golden_Lotus .
+Theo các chuyên_gia an_ninh , đây có_thể là bẫy dụ người dùng bởi trong file đó có_thể dính mã độc .
+Xem thêm :
+>   Thông_tin 400.000 hành_khách của Vietnam_Airlines có_thể chứa mã độc >   Hơn 90% router dính lỗ_hổng tại Việt_Nam đến từ Trung_Quốc >   Bảo_vệ tài_khoản email khỏi tin_tặc

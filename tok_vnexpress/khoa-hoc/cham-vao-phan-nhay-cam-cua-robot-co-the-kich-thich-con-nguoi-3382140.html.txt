@@ -1,0 +1,21 @@
+Chạm vào phần nhạy_cảm của robot có_thể kích_thích con_người
+Con_người có_thể trải qua sự kích_động sinh_lý khi chạm tay vào những vị_trí nhạy_cảm trên cơ_thể robot , tương_tự như khi chạm vào một người khác .
+Trong một thí_nghiệm , nhóm nghiên_cứu ở Đại_học Stanford , Mỹ , yêu_cầu những người tham_gia chạm vào 13 bộ_phận cơ_thể của con robot nhỏ có hình_dáng giống người .
+Họ kiểm_tra phản_ứng của tình_nguyện_viên và ghi_nhận những phản_hồi khác_nhau tùy theo bộ_phận cơ_thể liên_quan .
+Các tình_nguyện_viên đáp lại chỉ_dẫn chạm vào vị_trí nhạy_cảm trên robot với sự lưỡng_lự và kích_động sinh_lý , theo International_Business_Times .
+Phương_pháp và kết_quả thí_nghiệm được nhóm nghiên_cứu trình_bày tại Hội_nghị thường_niên lần thứ 66 của Hiệp_hội Giao_tiếp Quốc_tế tại Fukuoka , Nhật_Bản .
+Các nhà_khoa_học giải_thích cách họ sử_dụng robot hình người NAO của công_ty Aldebaran_Robotics để đưa ra một loạt chỉ_dẫn cho tình_nguyện_viên .
+Mỗi tình_nguyện_viên tiến_hành 26 vòng thử , trong đó họ làm theo yêu_cầu chạm vào một vùng trên cơ_thể robot .
+Sau đó , tình_nguyện_viên được dạy tên khoa_học để mô_tả bộ_phận đặc_biệt đó .
+Các nhà_khoa_học đo thời_gian phản_ứng và điện dẫn trên da của mỗi tình_nguyện_viên , thông_qua đó tính_toán mức_độ kích_thích sinh_lý , tức thay_đổi trong cơ_thể do kích_thích gắn liền với cảm_xúc gây ra .
+Khi tình_nguyện_viên thực_hiện yêu_cầu chạm vào một bộ_phận cơ_thể nhạy_cảm hơn và khó chạm hơn như mông , nhóm nghiên_cứu quan_sát thấy phản_ứng điện dẫn da gia_tăng .
+Đây là dấu_hiệu cho thấy mức_độ kích_động sinh_lý cao hơn .
+Độ trễ thời_gian trước khi làm theo chỉ_dẫn robot đưa ra cũng dài hơn , cho thấy tình_nguyện_viên lưỡng_lự hơn và e_ngại khi chạm vào phần nhạy_cảm của robot hình người .
+Đụng_chạm thường được xem như một dạng " keo gắn_kết " , một tương_tác có ý_nghĩa góp_phần xây_dựng những mối quan_hệ và lòng tin .
+Trong khi nhiều nghiên_cứu ra_đời để tìm_hiểu cách con_người nhận_thức về robot , rất ít công_trình tập_trung vào tác_dụng của sự tiếp_xúc trong tương_tác giữa con_người và robot hình người .
+Theo nhóm nghiên_cứu , phản_ứng của chúng_ta khi chạm vào robot có nhiều nét tương_đồng như tiếp_xúc giữa con_người , cho_phép các nhà_thiết_kế cách_thức tốt nhất để robot hình người tương_tác với chúng_ta .
+" Nghiên_cứu của chúng_tôi chỉ ra robot là một dạng phương_tiện mới đặc_biệt hữu_dụng .
+Nó cũng cho thấy con_người phản_ứng với robot theo cách nguyên_thủy .
+Những quy_ước xã_hội liên_quan đến việc chạm vào bộ_phận riêng_tư của một người cũng đúng với các phần cơ_thể robot .
+Nghiên_cứu này có nhiều ý_nghĩa cho cả thiết_kế robot và lý_thuyết hệ_thống nhân_tạo " , Jamy_Li , đồng_tác_giả nghiên_cứu cho_biết .
+Phương_Hoa

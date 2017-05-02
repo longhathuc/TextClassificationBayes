@@ -1,0 +1,2 @@
+Tốc_độ tối_đa cho xe_máy trên quốc_lộ là bao_nhiêu ?
+Tôi thấy bảng tốc_độ tối_đa trên đường nhưng không biết áp_dụng cho tất_cả phương_tiện hay chỉ dành cho ôtô ( Nguyễn_Lê ) .

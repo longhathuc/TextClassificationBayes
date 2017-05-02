@@ -1,0 +1,12 @@
+Người dùng i Phone bị làm_phiền bởi hàng_loạt lời mời rác
+Nhiều khách_hàng của Apple phải nhận vô_số lời mời không mong_muốn trong ứng_dụng Lịch ( Calendar ) .
+Thay_vì gửi email rác ( spam ) , những lời mời được gửi ngẫu_nhiên đến một lượng email khổng_lồ và sẽ xuất_hiện như một thông_báo trong ứng_dụng Calendar .
+Một_số trường_hợp spam này xuất_hiện dưới dạng mời chia_sẻ ảnh .
+Một lời mời spam có nguồn_gốc từ Trung_Quốc   qua ứng_dụng Calender .
+Theo các chuyên_gia , lỗ_hổng trên tồn_tại trong hệ_thống của Apple đã được biết đến từ lâu , song nạn gửi thư mời rác này mới được khai_thác và bùng_phát trong dịp Black_Friday .
+Dù người nhận từ_chối hay chấp_nhận lời mời thì hành_động này đều cho kẻ gửi spam biết rằng thông_điệp đã tới đích , bởi_vậy thậm_chí bạn có_thể dính nhiều lời mời hơn .
+" Đây là vấn_đề trong cách_thức hoạt_động của i Cloud " , Giáo_sư Alan_Woodward , một chuyên_gia an_ninh mạng tại Đại_học Surrey ( Anh ) cho_biết .
+" Vì ứng_dụng Calendar và Photo sharing sẽ nhân đôi trong lưu_trữ đám mây , nên ngay cả khi người dùng nói rằng không muốn tham_dự sự_kiện thì bản_sao vẫn lưu trên cloud " .
+Luật_sư kinh_tế đồng_thời là cây_bút công_nghệ   David_Sparks gợi_ý người dùng có_thể chuyển hết các lời mời spam vào một mục trong Calendar , sau đó xóa một_thể .
+Điều này sẽ khiến đối_tượng gửi spam không biết bạn đã đọc hay chưa .
+" Hầu_hết lời mời rác tôi nhận được có nguồn_gốc từ Trung_Quốc và hi_vọng Apple sẽ sớm can_thiệp vấn_đề này " , David nói .

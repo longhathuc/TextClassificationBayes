@@ -1,0 +1,27 @@
+Thiết_kế nguyên khối đang ngăn_cản tái_chế thiết_bị số
+Apple tiên_phong về thiết_kế mỏng nhẹ , nguyên khối và có sức ảnh_hưởng lớn đến các hãng khác , nhưng đây lại là " cơn ác_mộng " đối_với các nhà tái_chế .
+Rác_thải điện_tử đang là vấn_nạn của nhiều quốc_gia , đặc_biệt là các nước_đang_phát_triển .
+Yếu_tố nguyên khối đang được người dùng yêu_thích bởi nhờ thiết_kế này , thiết_bị di_động trở_nên thanh_thoát , đẹp_mắt , sang_trọng … hơn .
+Nắm được thị_hiếu đó , các nhà_sản_xuất , tiên_phong là Apple , liên_tục cho ra sản_phẩm mới để phục_vụ " thượng_đế " của mình .
+Tuy_nhiên , đây lại là nỗi lo của những công_ty tái_chế rác_thải điện_tử .
+" Đây thực_sự là xu_thế đáng_sợ " , Jim_Puckett , người đứng đầu Basel_Action_Network ( BAN ) , tổ_chức phi_chính_phủ chuyên về rác_thải điện_tử có trụ_sở tại Seattle ( Mỹ ) nhấn_mạnh .
+" Nếu bạn là một hãng tái_chế có trách_nhiệm , bạn mất nhiều hơn được , bởi chi_phí để phá_hủy hoàn_toàn một thiết_bị điện_tử để không gây hại cho môi_trường rất lớn .
+Đây là lý_do vì_sao nhiều công_ty đã chọn xuất_khẩu rác_thải sang các nước_đang_phát_triển .
+Bạn có_thể dễ_dàng thấy một công_nhân Hong_Kong không có bảo_hộ_lao_động , đang tự tay đập vỡ các thiết_bị điện_tử để lấy các bộ_phận có giá_trị .
+Họ hít thủy_ngân , các chất_độc hại thoát ra từ chúng mỗi ngày " .
+Theo Kyle_Wiens của trang " phẫu_thuật " thiết_bị số   iFixit , thiết_kế nguyên khối chính là nguyên_nhân khiến cho việc tái_chế trở_nên khó_khăn hơn .
+" Như i Pad , Apple ép kính bảo_vệ , màn_hình LCD và tấm cảm_ứng liền mạch , ở giữa gần_như không có khoảng_trống .
+Nó sẽ tạo sự mỏng_manh cần_thiết cho sản_phẩm nhưng khi gặp sự_cố , khó có_thể tách những bộ_phận còn sử_dụng được với các bộ_phận đã hư_hỏng " ,   Wiens đưa ra ví_dụ .
+Các mẫu thiết_bị nguyên khối đang khiến khả_năng tái_chế khó_khăn hơn ?
+Cũng theo Wiens , việc tái_chế các thiết_bị nguyên khối như i Pad còn gặp khó_khăn do pin dính liền và nằm sau màn_hình .
+" Pin là thứ cần loại_bỏ đầu_tiên bởi nguy_cơ cháy nổ rất cao .
+Thế_nhưng , nếu làm điều đó trên i Pad , bạn phải tách màn_hình trước đã " , chuyên_gia của   iFixit lo_ngại .
+Không_chỉ i Pad , Apple còn có một số_lượng lớn các sản_phẩm " gây khó_dễ " khi tái_chế , kể_cả các thiết_bị nhỏ_bé như Apple_Pencil .
+" Apple có những sản_phẩm chất_lượng và ít khi phải sửa_chữa .
+Nhưng càng ngày , họ càng giới_hạn khả_năng tái_chế , hoặc chỉ có họ mới có_thể làm điều này " , Wiens nhận_định .
+Không_chỉ Apple , theo thống_kê từ BAN , máy_tính bảng Surface của Microsoft hay một_số phiên_bản từ Google và Amazon còn khó tái_chế hơn .   Dù_vậy , Wiens cho_hay , những thiết_kế của Apple đang tạo sức ảnh_hưởng lớn : " Apple chỉ tạo ra khoảng 5% mẫu_mã nhưng lại ảnh_hưởng đến 95% còn lại .
+Đã có nhiều công_ty sao_chép thiết_kế của hãng công_nghệ có trụ_sở tại Cupertino , kể_cả chi_tiết nhỏ nhất_là con vít chống tái_chế , như Huawei chẳng_hạn " .
+Theo Puckett , các hãng sản_xuất thiết_bị di_động , đứng đầu là Apple , nên có trách_nhiệm hơn về khả_năng tái_chế trên các sản_phẩm của mình .
+" Chúng_tôi không cần một đạo_luật , nhưng chúng_tôi muốn không_chỉ Apple mà các hãng công_nghệ khác nên quan_tâm đến thiết_bị mình sau khi ' chết ' sẽ như_thế_nào , thay_vì chú_trọng vào khâu ' sinh ' nó .
+Rác_thải điện_tử đang tràn_ngập các nước nghèo , các nước_đang_phát_triển và nguy_cơ gây hại của nó đến sức_khỏe con_người , môi_trường sống … rất lớn " , người đứng đầu BAN nhấn_mạnh .
+Bảo_Lâm   ( Theo Huffington_Post )

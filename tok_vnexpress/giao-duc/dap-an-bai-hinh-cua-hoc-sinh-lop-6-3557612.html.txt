@@ -1,0 +1,17 @@
+Đáp_án bài hình của học_sinh lớp 6
+Nhiều người không_thể đưa ra đáp_án vì chưa tính_toán đủ .
+Để tìm ra câu trả_lời phù_hợp yêu_cầu của đề_bài , bạn phải thực_hiện 3 phép_tính thể_tích .
+Đề_bài :
+Một cốc hình_trụ có đáy là hình_tròn bán_kính 5 cm và chiều_cao 20 cm .
+Bên trong có một khối lập_phương cạnh 6 cm như hình dưới đây :
+Khi đổ nước vào , khối lập_phương sẽ nổi 1/3 thể_tích của nó lên trên mặt_nước .
+Hỏi thể_tích nước cần đổ là bao_nhiêu để khi nổi lên , mặt trên của khối lập_phương sẽ ngang miệng cốc ?
+( lấy π = 3,14 )
+Đáp_án :
+Chiều_cao cột nước khi mặt trên khối lập_phương ngang miệng cốc sẽ thấp hơn chiều_cao cốc một đoạn bằng 1/3 chiều dài khối lập_phương ( vì khối lập_phương cạnh 6 cm sẽ nổi 1/3 thể_tích của nó lên trên mặt_nước khi đổ nước vào ) .
+Suy ra , chiều_cao cột nước là 20 - 6/3 = 18 cm .
+Thể_tích cột nước cao 18 cm trong cốc hình_trụ khi_không có khối lập_phương là 5 x 5 x π x 18 = 450 x 3,14 = 1413 cm3
+Có 2/3 thể_tích khối lập_phương chìm trong nước , phần thể_tích này bằng ( 2/3 ) x 6 x 6 x 6 = 144 cm3
+Suy ra , thể_tích nước cần đổ phù_hợp với yêu_cầu đề_bài là 1413 - 144 = 1269 cm3
+> > Đáp_án gốc
+Thanh_Tâm

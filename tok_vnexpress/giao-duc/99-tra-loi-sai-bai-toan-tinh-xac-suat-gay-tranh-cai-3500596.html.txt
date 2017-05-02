@@ -1,0 +1,14 @@
+99% trả_lời sai bài_toán tính xác_suất gây tranh_cãi
+Đa_số độc_giả đưa ra câu trả_lời sai cho bài_toán tính xác_suất gây tranh_cãi nổi_tiếng về những quả bóng trong hộp .
+Đề_bài :   Bốn quả bóng được đặt trong một chiếc hộp .
+Một quả màu xanh , một quả màu đen và hai quả còn lại màu vàng .
+Lắc chiếc hộp và lấy 2 quả bóng ra .
+Có ít_nhất một quả bóng được lấy ra là màu vàng .
+Hỏi có bao_nhiêu cơ_hội để quả bóng còn lại được lấy ra cũng màu vàng ?
+Có 6 cặp bóng có_thể đã được lấy ra :   Vàng + Vàng , Vàng + Xanh , Xanh + Vàng , Vàng + Đen ,   Đen + Vàng , Xanh + Đen .
+Vì có ít_nhất một quả bóng màu vàng được lấy ra nên chắc_chắn cặp Xanh + Đen không_thể được lấy ra nên chỉ   còn lại 5 khả_năng .
+Như_vậy , cơ_hội cho cặp Vàng + Vàng là 1/5 .
+Có_thể nhiều người không_thể chấp_nhận đáp_án này mà phải là 1/3 .
+Đáp_án 1/3 chỉ đúng nếu những quả bóng được rút ra lần_lượt và quả bóng đầu_tiên là màu vàng .
+Tuy_nhiên , trong trường_hợp 2 quả bóng được rút ra cùng lúc thì đáp_án 1/5 ở trên mới là chính_xác .
+Thanh_Tâm

@@ -1,0 +1,13 @@
+5 câu_đố khiến nhiều ứng_viên Microsoft dừng bước
+Nhiều ứng_viên tiềm_năng khi phỏng_vấn tuyển_dụng ở tập_đoàn Microsoft phải đau_đầu với các câu_đố hóc_búa .
+Bạn sẽ trả_lời như_thế_nào nếu nhận được câu_hỏi này ?
+Câu 1 : Hiệp_sĩ , đầy_tớ , thường_dân
+Một vị vua có một cô con_gái và muốn lựa_chọn một chàng rể thích_hợp .
+Có ba người cầu_hôn , trong đó có một hiệp_sĩ , một đầy_tớ và một thường_dân .
+Nhà_vua không muốn chọn thường_dân làm phò_mã , nhưng lại không biết thường_dân là người nào trong số họ .
+Tất_cả những gì vua biết là hiệp_sĩ luôn nói thật , đầy_tớ luôn nói_dối và thường_dân có_thể sẽ nói thật hoặc nói_dối .
+Vua sẽ hỏi mỗi người một câu_hỏi giống nhau dạng trả_lời có / không , sau đó sẽ chọn ra người kết_hôn với công_chúa .
+Câu_hỏi đó là gì và nhà_vua chọn rể như_thế_nào ?
+> > Xem đáp_án
+Phiêu_Linh ( tổng_hợp )
+> > 5 câu_hỏi phỏng_vấn tuyển_dụng hóc_búa của Google > > Bạn sẽ trở_thành nhân_viên Apple nếu trả_lời được câu này

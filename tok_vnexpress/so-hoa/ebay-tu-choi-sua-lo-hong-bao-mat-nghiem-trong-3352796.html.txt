@@ -1,0 +1,14 @@
+eBay từ_chối sửa lỗ_hổng bảo_mật nghiêm_trọng
+Các chuyên_gia bảo_mật phát_hiện lỗ_hổng nguy_hiểm trên trang đấu_giá trực_tuyến lớn nhất thế_giới , có_thể tạo cơ_hội cho mã độc thâm_nhập vào máy_tính của người sử_dụng .
+Công_ty bảo_mật Check_Point cho_hay , kẻ tấn_công có_thể vượt qua quá_trình xác_thực mã của e Bay và thực_thi mã   Java_Script độc_hại .
+Chúng chỉ cần tạo một gian_hàng trên e Bay , đăng tin bán sản_phẩm rồi nhúng mã độc vào trang mô_tả sản_phẩm ( item description ) .
+Thông_thường e Bay không cho_phép người dùng nhúng mã , nhưng bằng thủ_thuật riêng , kẻ xấu có_thể tạo một mã " đi vòng " qua cơ_chế xác_thực của e Bay .
+" Khi người dùng bấm vào đường link chứa mã độc trên e Bay , một cửa_sổ sẽ hiện ra , giả_dạng là thông_báo chính_thức từ e Bay về việc người dùng sẽ nhận được mã giảm_giá sau khi họ đăng_nhập lại để tải một ứng_dụng về thiết_bị " , Check_Point cho_biết .
+Nếu chấp_nhận , một mã độc sẽ được cài vào điện_thoại nhằm ăn_cắp thông_tin từ trình_duyệt của người dùng và thực_hiện các cuộc tấn_công phishing về sau .
+Check_Point đã phát_hiện lỗi này và liên_hệ với e Bay từ 15/12/2015 nhưng đến ngày 16/1/2016 , trang đấu_giá trả_lời rằng họ không có kế_hoạch vá lỗ_hổng .
+Do_đó , các chuyên_gia bảo_mật quyết_định công_khai thông_tin về lỗi .
+eBay đã không ít lần gặp rắc_rối với hacker .
+Năm 2014 , hệ_thống mạng của họ bị thâm_nhập và kẻ tấn_công nắm giữ cơ_sở_dữ_liệu chứa nhiều thông_tin quan_trọng của người sử_dụng như tên , địa_chỉ , e-mail , số điện_thoại , ngày_sinh và mật_khẩu ( như_không chứa thông_tin tài_chính như tài_khoản PayPal ) .
+eBay từ_chối tiết_lộ cụ_thể về số tài_khoản bị ảnh_hưởng nhưng khẳng_định đó là " số_lượng lớn " .
+Hãng thương_mại_điện_tử này hiện có 128 triệu thành_viên ( active user ) trên toàn_cầu .
+Minh_Minh

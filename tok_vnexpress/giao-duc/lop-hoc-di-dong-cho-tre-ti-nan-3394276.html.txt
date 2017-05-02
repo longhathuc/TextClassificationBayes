@@ -1,0 +1,22 @@
+Lớp_học di_động cho trẻ tị_nạn
+Một chiếc điện_thoại thông_minh phổ_thông giúp các em tiếp_cận kiến_thức bất_kể nơi đâu .
+Bà Janae_Bushman - nhà_sáng_lập tổ_chức phi lợi_nhuận Aliim nhận_xét , một chiếc điện_thoại thông_minh Android phổ_thông có_thể trở_thành lớp_học di_động của trẻ_em tị_nạn , giúp các bé tiếp_cận kiến_thức bất_kể nơi đâu .
+Tổ_chức Aliim đang nghiên_cứu phát_triển ứng_dụng giáo_dục chuyên_ngành có_thể ra_mắt vào tháng 8 tới .
+Phần_mềm trên điện_thoại thông_minh này sẽ khắc_phục những hạn_chế , khó_khăn về thiếu không_gian lớp_học , giao_thông đến trường hay đội_ngũ giáo_viên .
+Theo nghiên_cứu của Aliim , 68% những người tị_nạn Syria ở Lebanon có ít_nhất một điện_thoại thông_minh trong gia_đình mình .
+Với những_ai chưa có smartphone , Aliim sẽ lên kế_hoạch cung_cấp .
+Hiện 80% số ứng_dụng do Aliim thiết_kế có_thể làm_việc offline , vì_vậy ở những nơi kết_nối Internet chập_chờn sẽ không là vấn_đề lớn .
+Tổ_chức này cũng hy_vọng nguồn năng_lượng hoạt_động sẽ giải_quyết tốt qua những tấm pin mặt_trời rẻ_tiền được các hãng tặng .
+" Chúng_tôi đang tìm nhiều nguồn hỗ_trợ từ các nhà_thiết_kế , lập_trình_viên tình_nguyện , công_ty công_nghệ , hãng cố_vấn ... để thúc_đẩy việc phát_triển ứng_dụng và đưa chúng vào thực_tiễn " , bà Janae_Bushman chia_sẻ .
+Ban_đầu ứng_dụng chú_trọng đến nền_tảng cơ_bản về đọc viết tiếng Ả Rập , làm toán và kỹ_năng sống ( bao_gồm cả kinh_doanh thương_mại_điện_tử và tiếng Anh ) .
+Các em bé có_thể học trực_tuyến hoặc ngoại_tuyến , tạo thành lớp_học riêng_biệt một người hay kết_nối cả nhóm với nền_tảng kiến_thức từ điện_toán đám mây .
+Mùa_hè này , tổ_chức Aliim có kế_hoạch đào_tạo đội_ngũ tình_nguyện_viên nói tiếng Ả Rập nhằm hỗ_trợ từ xa trẻ_em Syria sử_dụng ứng_dụng , chuẩn_hóa chương_trình học_tập cũng_như việc cấp chứng_nhận vào cuối quá_trình học_tập .
+Hướng đến các trẻ_em lứa tuổi 12-16 , dự_kiến sẽ có 10.000 trẻ tị_nạn Syria tiếp_nhận kiến_thức vào cuối năm 2017 thông_qua các chương_trình thí_điểm tại Jordan ( Amman và Irbid ) và Lebanon ( Beirut và Sidon ) .
+Cho_đến nay , chương_trình đã nhận được nhiều nguồn tài_trợ và bà Bushman hy_vọng những thành_quả bước_đầu sẽ chứng_tỏ bước_đi đúng_đắn , thu_hút nhiều mạnh_thường_quân tham_gia hơn_nữa .
+" Tùy_thuộc vào thành_công của chương_trình dành cho người tị_nạn Syria , chúng_tôi sẽ nhân rộng mô_hình cho người tị_nạn Nam_Sudan hoặc Uganda .
+Do khác_biệt về quốc_gia , văn_hóa , trình_độ , ngôn_ngữ , công_nghệ ... nên chương_trình sẽ phải được điều_chỉnh cho phù_hợp " , bà Bushman nói .
+Trong khi đó , tổ_chức phi_chính_phủ World_Vision và chính_phủ Na_Uy gần đây cũng mời các lập_trình_viên tham_gia gửi ý_tưởng cho ứng_dụng giáo_dục người tị_nạn EduApp4Syria .
+Ông Berger_Brende - Bộ_trưởng Ngoại_giao Na_Uy cho_biết hầu_như tất_cả hộ dân Syria đều sở_hữu điện_thoại thông_minh và đây là công_cụ rất quan_trọng để giữ liên_lạc với bạn_bè và gia_đình , truy_cập tin_tức , nắm thông_tin .
+" Chúng_tôi cũng biết rằng các bậc cha_mẹ người Syria rất quan_tâm đến việc học_tập và hạnh_phúc của con_cái .
+Vì_vậy chúng_tôi muốn phát_triển công_cụ học_tập dựa trên nền_tảng trò_chơi , đem lại sự hứng_thú trong học_tập cho các em ở bất_cứ nơi nào " , ông Berger_Brende nhấn_mạnh .
+Minh_Trí

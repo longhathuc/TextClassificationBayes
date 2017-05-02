@@ -1,0 +1,55 @@
+Lực G - điều hấp_dẫn bên trong một chiếc ôtô
+Lực G ( Gravity ) không dễ cảm_nhận ở tốc_độ thấp , cũng chính là điều tạo nên sự khác_biệt giữa xe thường và xe đua .
+* Video tay_đua F1 Sebastian_Vettel lái siêu xe Ferrari FXX K :
+Để làm_nên một chiếc xe , nhà_sản_xuất không_chỉ đau_đầu về thiết_kế hay động_cơ mà_còn một yếu_tố không nhìn thấy là lực G .   Lực G là gia_tốc tương_đối của vật so với khi rơi tự_do , và   được tính theo gia_tốc trọng_trường ( g ) , g = 9,81 m / s ^ 2 .
+Lực G không dễ cảm_nhận ở tốc_độ thấp , bằng_chứng là khi bạn lái_xe hàng ngày , mọi thứ xung_quanh đều bình_thường .
+Nhưng hãy tưởng_tượng bạn đang lái_xe trên đường đua .
+Khi đạp ga lút sàn để tăng_tốc , có thứ gì đó ấn chặt người bạn vào ghế .
+Lúc vào cua , chúng lại đẩy người bạn văng hướng ngược_lại .
+Rồi phanh gấp , thứ vô_hình đó lại xuất_hiện , đẩy người về phía trước , nếu_không có dây an_toàn , có_lẽ thân người đã bắn khỏi kính lái .
+Tất_cả trạng_thái trên tạo cảm_giác như trọng_lực ở khắp mọi nơi .
+Và đó chính là lực G .
+Nhiều người nghĩ rằng , sự khác_biệt giữa một tay_đua F1 và người bình_thường chỉ nằm ở kỹ_năng lái .
+Điều đó sai hoàn_toàn , một tay_đua F1 phải tập_luyện rất nhiều để có_thể khả_năng tập_trung , chịu sức nóng khủng_khiếp , và phải chống lại lực G có_thể khiến người bình_thường bất_tỉnh .
+Dùng con_số để dễ so_sánh .
+Cơ_thể người bình_thường được hình_thành để chịu được 1g .
+Vượt qua con_số đó đều ảnh_hưởng xấu tới cơ_thể .
+Nhưng với tay_đua , họ phải chịu gấp nhiều lần .
+Mỗi khi tăng_tốc , họ phải chịu lực 3g , vì xe đua Công_thức 1 chỉ cần chưa đầy 2 giây để tăng_tốc từ 0-100 km .
+Gia_tốc trong trường_hợp này sinh_ra lực G ngược chiều chuyển_động , ấn chặt người lái vào ghế với một lực gấp 3 lần trọng_lượng của tay_đua .
+Xe_Dragster còn hơn thế , nó tạo ra một lực lên đến 5,3 g khi tăng_tốc từ 0-100 km / h trong khoảng thời_gian chưa đầy một giây .
+Ở những khúc cua , lực ly_tâm trung_bình lên đến 4g .
+Các tay_đua ra_sức giữ cho chiếc xe đi đúng hướng , chống_chọi với lực G đẩy mình ra ngoài gấp 4 lần trọng_lượng cơ_thể .
+Ghế xe và dây an_toàn có nhiệm_vụ giữ anh_ta lại .
+Tuy_nhiên , tay_đua phải cố nắm lấy vô - lăng và giữ cái đầu thẳng .
+Để làm được điều đó , mỗi tay_đua có hẳn bài_tập dành riêng cho cổ .
+Juan_Pablo_Montoya - cựu tay_đua F1 cho_biết , cổ ông có_thể thực_hiện bài_tập 300 lần với 23 kg .
+Hãm phanh là quá_trình tạo ra lực G lớn nhất trong trường_đua F1 .
+Những bộ phanh làm từ sợi carbon khiến quá_trình giảm_tốc nhanh đến_nỗi anh_ta bị đẩy về phía trước một lực 6g , tương_đương với lực G mà một phi_công máy_bay chiến_đấu phải chịu_đựng .
+Lực quán_tính này ép nước_mắt người lái bắn lên kính mũ_bảo_hiểm , và khiến dây an_toàn chịu lực khoảng 400 kg để giữ cơ_thể anh_ta không bắn khỏi kính lái .
+Năm 2007 , tại đường đua Gilles_Villeneuve ở Mỹ , tay_đua Martin_Brundle lái thử_nghiệm xe đua F1 Williams_Toyota FW29 nói rằng , lực phanh tạo ra khiến anh cảm_thấy như phổi của mình chạm vào lồng_ngực .
+Một câu_hỏi bên lề , vậy cơ_thể con_người có_thể chịu được lực G tối_đa là bao_nhiêu ?
+Nhà_khoa_học dũng_cảm hoặc điên_rồ ( tùy theo cách mọi người nghĩ ) John_Stapp đã cố_gắng trả_lời vào năm 1954 khi ông buộc chặt mình vào một chiếc xe trượt có gắn động_cơ tên_lửa , và cho nó giảm_tốc từ 1.017 km / h về 0 km / h trong 1,4 giây để phục_vụ nghiên_cứu ngành_hàng không .
+Ông phải chịu lực lên tới 46g , tương_đương với lực G khi đâm vào một bức tường ở tốc_độ 193 km / h .
+Khoảnh_khắc đó , cơ_thể ông nặng hơn 3 tấn và tất_cả mạch_máu ở mắt bị vỡ , nứt xương sườn , cả 2 cổ_tay bị phá_hủy , ảnh_hưởng đến cả đường hô_hấp và hệ tuần_hoàn .
+Lực G quá lớn ảnh_hưởng xấu đến cơ_thể con_người , nhưng ở mức vừa_phải lại khiến nhiều người mê_mẩn .
+Những tay_lái xe thể_thao thường nói rằng , họ không_chỉ mê tốc_độ mà thích cả gia_tốc của chiếc xe .
+Bởi_vậy , lực G luôn được tính đến , nhưng chỉ ở mức chừng_mực để đảm_bảo chúng đem lại sự thích_thú , thay_vì ảnh_hưởng đến sức_khỏe con_người .
+Lấy ví_dụ một chiếc Porsche 918 Spyder tăng_tốc từ 0-100 km / h trong 2,2 giây ( xe dân_dụng tăng_tốc nhanh thế_giới ) , tạo ra gia_tốc = 1,24 g .
+Trong khi một chiếc Ferrari F12 Berlinetta chỉ có gia_tốc 0,88 g vì cần đến 3,1 giây để tăng_tốc từ 0-100 km / h .
+Tuy_nhiên , trong vài giây ngắn_ngủi đó , bạn sẽ cảm_thấy gia_tốc mạnh hơn ở một giây đầu_tiên , rồi giảm dần .
+Lý_do nằm ở chỗ khoảng tốc_độ 0-30 km / h hay 0-60 km / h sinh_ra lực G khác_nhau ở từng giai_đoạn .
+Phép_tính 0-100 km / h trong bao_nhiêu giây chỉ là trung_bình .
+Từ các cuộc thử_nghiệm , Porsche 918 Spyder và 911 Turbo S có kết_quả tăng_tốc tốt nhất_là 0-48 km / h chỉ trong một giây , tương_ứng với lực 1,37 g .
+Và đương_nhiên , trong một giây lại có những mili giây khác_nhau .
+Như_Ferrari_La Ferrari tăng_tốc từ 0-16 km / h trong 0,2 giây tạo ra 2,3 g .
+Với những khoảng tăng_tốc nhỏ hơn như 0 - 2 km / h hay 0-10 km / h chắc_chắn sẽ tạo ra lực G lớn hơn , nhưng tiếc rằng không có số_liệu để so_sánh .
+Tương_tự với gia_tốc , lực quán_tính khi phanh gấp cũng tạo ra lực G .
+Một chiếc xe thể_thao tốt thường kiểm_soát lực G trong khoảng 0,8 - 0,9 g khi dừng 100 - 0 km / h .
+Máy_bay cất_cánh khi tốc_độ đạt trên 240 km / h , và để giữ chiếc xe bám lấy mặt_đường , người_ta lợi_dụng lực ép của không_khí .
+Toyota_Corolla có_thể tạo tối_đa 0,83 g lực ép .
+Hầu_hết các xe_tải nhẹ và xe_con thương_mại thường có lực ép rơi vào_khoảng 0,75 - 0,95 g .
+Chỉ siêu xe mới thường vượt qua ngưỡng 0,95 g .
+Lực ép xuống còn phụ_thuộc vào nhiều yếu_tố như lốp xe , hệ_thống treo , và các cánh gió .
+Tuy_nhiên , lực ép xuống không hoàn_toàn giống lực G vì người bên trong sẽ không_thể cảm_nhận được .
+Thế_Anh

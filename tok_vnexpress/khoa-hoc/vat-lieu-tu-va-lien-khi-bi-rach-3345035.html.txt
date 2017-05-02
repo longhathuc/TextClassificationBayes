@@ -1,0 +1,22 @@
+Vật_liệu tự vá liền khi bị rách
+Các nhà_khoa_học Mỹ chế_tạo thành_công loại vật_liệu thích_ứng mới mang đặc_tính nửa chất_rắn , nửa chất_lỏng , có_thể tự vá liền khi rách và trở_về hình_dạng ban_đầu sau biến_dạng .
+Theo Science_Alert , vật_liệu composite tự thích_ứng có tên gọi SAC gồm các hạt cao_su tròn cỡ micromet rất dính và bám chặt vào nhau để tạo thành một khối rắn .
+Giống như bọt_biển , hợp_chất này có khả_năng tự liền lại nhiều lần khi bị bẻ gãy , và khôi_phục về hình_dạng ban_đầu .
+Kết_quả nghiên_cứu được công_bố trên   tạp_chí Applied_Materials & Interfaces hôm 31/12/2015 .
+Khác với các vật_liệu tự vá liền mang đặc_tính lỏng nhiều hơn , SAC thể_hiện đặc_tính rắn một_cách rõ_rệt .
+" Chúng_tôi muốn tìm ra một loại vật_liệu phỏng sinh có khả_năng tự thay_đổi kết_cấu hoặc cấu_trúc bên trong để thích_ứng với các tác_động bên ngoài .
+Ban_đầu chúng_tôi chế_tạo theo hướng nghiêng về đặc_tính lỏng , song chúng_tôi lại muốn chất_lỏng đó có_thể ổn_định một chỗ thay_vì chảy tràn khắp_nơi " , Alin_Cristian_Chipara , một thành_viên nhóm nghiên_cứu ở Đại_học Rice , Texas , Mỹ , chia_sẻ .
+Giải_pháp nhóm nghiên_cứu đưa ra là kết_nối 2 polymer với nhau bằng dung_môi .
+Khi đun nóng , dung_môi bay_hơi , để lại một khối xốp rỗng bao_gồm các hình_cầu dính .
+Các hình_cầu chứa chất_lỏng này được làm từ hợp_chất polyvinylidene fluoride ( PVDF ) và được phủ một lớp nhớt polydimethylsiloxane ( PDMS ) .
+" Mẫu_vật chúng_tôi tạo ra có_thể khiến bạn khó hình_dung nó chứa chất_lỏng .
+Nó không mềm như gel mà trông giống một viên đường hơn và bạn có_thể nén chặt nó " , Jun_Lou , nhà_khoa_học vật_liệu nói .
+Theo các nhà_nghiên_cứu , hợp_chất này rất dễ sản_xuất , và có_thể điều_chỉnh tỷ_lệ rắn - lỏng của hỗn_hợp cuối_cùng tùy theo tính_năng mong_muốn .
+" Gel là một dạng chất_lỏng tồn_tại ở thể rắn , nhưng quá mềm .
+Chúng_tôi muốn thứ gì đó có tính cơ_học tốt hơn .
+Cuối_cùng chúng_tôi tìm được một loại gel đặc_biệt mà trong đó , đặc_tính của chất_lỏng chỉ chiếm khoảng 50% " , Pulickel_Ajayan , thành_viên nhóm nghiên_cứu , chia_sẻ .
+Trong quá_trình thử_nghiệm , giá_trị mô - đun tích_trữ của SAC tăng lên đến 683% .
+Đây là thông_số dùng để mô_tả tính_chất tự hóa cứng của vật_liệu .
+Theo nhóm nghiên_cứu , nó lớn hơn nhiều so với vật_liệu composite rắn và các vật_liệu khác .
+Hiện_nay , vật_liệu mới chỉ được chế_tạo hạn_chế trong phòng_thí_nghiệm , nhưng các nhà_khoa_học cho_biết họ có một thiết_kế khác để sản_xuất quy_mô lớn .
+Hà_Thủy

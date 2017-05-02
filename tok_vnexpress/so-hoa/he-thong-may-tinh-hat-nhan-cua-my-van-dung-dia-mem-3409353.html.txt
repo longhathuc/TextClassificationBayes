@@ -1,0 +1,12 @@
+Hệ_thống máy_tính hạt_nhân của Mỹ vẫn dùng đĩa_mềm
+Một_số cơ_quan chính_phủ Mỹ tiếp_tục sử_dụng các hệ_thống công_nghệ_thông_tin lỗi_thời như Windows 3.1 , đĩa_mềm , hay máy_tính từ những năm 1970 .
+Văn_phòng Kế_toán Chính_phủ Mỹ ( GAO ) cho_biết , Bộ Quốc phòng nước này vẫn sử_dụng đĩa_mềm trong một hệ_thống hạt_nhân quốc_gia .
+Những chiếc máy_tính IBM Series 1 lần đầu_tiên được giới_thiệu vào năm 1976 với ổ đĩa_mềm 8 inch tiếp_tục được dùng trong hàng chục năm qua .
+Những hệ_thống công_nghệ_thông_tin cũ_kỹ vấn được dùng trong các cơ_quan chính_phủ Mỹ .
+Ảnh minh_họa : Techcrunch .
+Theo Techcrunch , điều đáng ngại ở đây là đĩa_mềm cũ_kỹ được dùng như một giải_pháp cho các " lệnh tự_động tác_chiến và kiểm_soát hệ_thống " của Bộ Quốc phòng .
+Nó đảm_bảo " điều_phối các chức_năng hoạt_động của lực_lượng hạt_nhân Mỹ " .
+Phải đến năm sau hệ_thống máy_tính này mới được thay_thế , báo_cáo của GAO nêu .
+Trong phiên điều_trần về hệ_thống công_nghệ_thông_tin của chính_phủ Mỹ , Jason_Chaffetz , thành_viên   Đảng_Cộng hòa , cho_biết một_số cơ_quan vẫn dùng máy_tính chạy Windows 3.1 mà Microsoft giới_thiệu năm 1992 , hoặc dùng những phiên_bản mới hơn những không còn được hỗ_trợ như Windows XP .
+Chính_phủ Mỹ sử_dụng hơn 80 tỷ USD mỗi năm cho hệ_thống công_nghệ_thông_tin và " phần_lớn không hiệu_quả " ,   Chaffetz nói trong trong phiên điều_trần với Ủy_ban Cải cánh Chính_phủ .
+Các cơ_quan Mỹ chi khoảng 75% ngân_sách công_nghệ_thông_tin để duy_trì hoặc kế_thừa hệ_thống hiện_tại và chỉ 25% dự_định mua mới .

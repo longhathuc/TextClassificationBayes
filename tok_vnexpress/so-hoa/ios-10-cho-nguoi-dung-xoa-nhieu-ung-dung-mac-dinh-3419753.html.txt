@@ -1,0 +1,12 @@
+iOS 10 cho người dùng xóa nhiều ứng_dụng mặc_định
+Các phần_mềm cài sẵn trên i Phone và i Pad như Watch , Podcasts , Maps hay Stocks ... đã có_thể gỡ bỏ trên hệ_điều_hành mới nhất .
+Bắt_đầu với i OS 10 , Apple cho người dùng i Phone và i Pad kiểm_soát nhiều hơn các ứng_dụng cài trên đó .
+Lần đầu_tiên , bạn được phép xóa hầu_hết các phần_mềm mặc_định và có_thể cài_đặt lại thông_qua App_Store .
+Nhiều ứng_dụng mặc_định trên i OS 10 đã có_thể gỡ bỏ .
+Tại sự_kiện WWDC 2016 , công_ty công_nghệ Mỹ đã giới_thiệu nhiều nâng_cấp cho i OS 10 nhưng không đề_cập đến thay_đổi này .
+Trên trang hỗ_trợ , Apple đưa ra danh_sách các ứng_dụng được phép gỡ , đồng_thời cũng cảnh_báo một_số sự_cố mà người dùng có_thể gặp phải .
+Danh_sách phần_mềm được phép xóa gồm : Podcasts , Maps , Compass , Tips , Calculator , Watch , Voice_Memos , Contacts , Stocks , Weather , Calendar , Mail , Music , Reminders , Videos , FaceTime , Notes , iTunes Store .   Những thành_phần mặc_định không_thể xóa có Safari , App_Store , Find i Phone , Messages , Phone , Photos , Settings , Wallet , Clock và Camera .
+iOS 10   mang đến nhiều nâng_cấp như Siri thông_minh hơn , tích_hợp trí_tuệ_nhân_tạo vào các phần_mềm , cải_tiến i Message ...
+Phiên_bản dùng thử của hệ_điều_hành này đã cho_phép tải về và cài_đặt , hỗ_trợ với i Phone 5 , iPad 4 và các mẫu máy mới hơn .
+Xem thêm :
+>   10 nâng_cấp đáng_giá trên i OS 10 >   iOS 10 beta đã cho tải về , hỗ_trợ từ i Phone 5

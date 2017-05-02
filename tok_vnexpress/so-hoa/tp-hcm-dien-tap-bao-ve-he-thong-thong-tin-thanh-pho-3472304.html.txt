@@ -1,0 +1,9 @@
+TP_HCM diễn_tập bảo_vệ hệ_thống thông_tin thành_phố
+Sở Thông tin và Truyền_Thông TP_HCM phối_hợp với Chi_hội An_toàn thông_tin phía Nam ( VNISA ) , Bộ Quốc phòng và Công_ty TNHH_MTV phát_triển công_viên phần_mềm Quang_Trung tổ_chức diển tập an_ninh mạng trên địa_bàn thành_phố .
+Chương_trình diễn bảo_vệ hệ_thống thông_tin TP  HCM 2016 diễn ra trong bối_cảnh an_toàn an_ninh mạng đang diễn_biến phức_tạp .
+Chương_trình diễn_tập bảo_vệ hệ_thống thông_tin TP_HCM năm 2016bắt đầu_từ ngày 19/9 đến ngày 7/10 tới .
+Hoạt_động năm nay được tổ_chức trong bối_cảnh an_toàn an_ninh mạng gặp nhiều thách_thức và phức_tạp với   nhiệm_vụ nâng cao trình_độ kỹ_thuật của đội_ngũ giám_sát và xử_lý an_toàn thông_tin , tiếp_cận cách tổ_chức , phòng_ngừa , phát_hiện , ngăn_chặn , xử_lý và phục_hồi theo quy_trình chuẩn , để đảm_bảo an_toàn thông_tin quốc_tế .
+Chương_trình gồm 3 hoạt_động chính chia theo từng giai_đoạn .
+Trong đó , giai_đoạn một bắt_đầu_từ ngày 19/9 đến 23/9 : Tập_huấn cho các nhân_sự công_nghệ_thông_tin tại các sở ngành , quận huyện và một_số Sở Thông tin và Truyền_thông các tỉnh , thành_phố .
+Giai_đoạn 2 sẽ diễn_tập phòng_ngừa khai_thác lỗ_hổng từ xa , cách_thức chống khai_thác lỗ_hổng và chiếm quyền điều_khiển hệ_thống từ bên ngoài , trong hai ngày từ 30/9 đến 2/10 với thời_gian 24/24 giờ .
+Giai_đoạn 3 : diễn_tập trực_tiếp - bắt_đầu vào ngày 7/10 , nhằm mục_đích diễn_tập các kịch_bản tấn_công mạng điển_hình và các tình_huống tấn_công trên điện_thoại_di_động .

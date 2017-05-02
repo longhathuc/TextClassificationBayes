@@ -1,0 +1,47 @@
+7 thói_quen của một lập_trình_viên năng_suất
+Bạn không cần tài_năng thiên_bẩm mà nên tập_trung , hòa_hợp với nhóm , ham học_hỏi và say_mê với công_việc .
+Cha_đẻ của ngôn_ngữ_lập_trình Perl-Larry Wall nói rằng các lập_trình_viên xuất_sắc thường lười_biếng , thiếu kiên_nhẫn và ngạo_mạn .   Vì lười_biếng nên họ viết chương_trình tiết_kiệm công_sức và chuẩn_bị tài_liệu thật tốt để không phải trả_lời các câu_hỏi về chương_trình .
+Sự thiếu kiên_nhẫn khiến họ muốn viết ra ngay chương_trình lường trước được nhu_cầu của người sử_dụng .
+Và vì ngạo_mạn , họ muốn viết code thật chặt_chẽ để không ai có_thể phê_bình mình .
+Tuy_nhiên , nhà_lập_trình vĩ_đại lại không phải là những người năng_suất , và những người_làm công_việc lập_trình hằng ngày thì lại năng_suất hơn những người thi_thoảng mới tạo ra những dòng code đỉnh_cao này .
+Và phần_lớn nhân_viên lập_trình làm_công ăn lương thì cần năng_suất hơn .   Để tối_ưu_hóa khả_năng làm_việc , bạn không cần phải trở_thành một người lập_trình có tài_năng tuyệt_vời mà nên luyện cho mình 7 thói_quen dưới đây .
+Nếu mới đọc qua , nhiều người cho rằng điều này không thực_tế vì hầu_như lập_trình_viên nào cũng ngồi trước màn_hình máy_tính ít_nhất 8 tiếng , thậm_chí 10 tiếng mỗi ngày .
+Nhưng nhà_sáng_lập và CEO của startup Copyin - Peter_Nixey cho_biết chỉ một_ít thời_gian được thực_sự dành cho công_việc này .
+" Tôi đã làm nhiều dự_án mà các lập_trình_viên phung_phí thời_gian cho họp_hành , chơi bóng_bàn , ăn trưa và những công_việc khác .
+Vì_thế , 4 tiếng thực_sự dành cho công_việc , không gián_đoạn bởi việc uống trà giải_lao là điều hiếm_hoi trong mội trường công_sở dễ bị phân_tâm hiện_nay " , ông cho_biết .
+Chìa_khóa để đạt được 4 tiếng nêu trên chính là hãy tránh bị chen ngang khi đang làm_việc .
+Bởi đây là khi bộ_não của bạn đang vào guồng làm_việc , tung_hứng các biến_số mà chỉ cần một gián_đoạn sẽ khiến bạn mất cả giờ để bắt_nhịp lại .
+Là một thành_viên hòa_hợp với các đồng_nghiệp chiếm vai_trò quan_trọng để trở_thành một lập_trình_viên làm_việc năng_suất .
+Điều này thậm_chí còn có ý_nghĩa hơn việc có trình_độ xuất_sắc , nhiều năm kinh_nghiệm , theo Damien_Filiatrault - CEO của mạng_lưới của các nhà_lập_trình Scalable_Path .
+Theo ông , ai cũng cảm_thấy khó_chịu khi phải làm_việc cùng_với những người tự_mãn luôn cho rằng mình thông_minh hơn người khác .
+Vì_vậy , dù đồng_đội có tài_năng như_thế_nào , thì câu_hỏi đặt ra luôn là " Làm_việc với những người đó có vui không ? " Nếu_không , điều này có_thể ảnh_hưởng đến tinh_thần của toàn nhóm .
+Nhưng vấn_đề không_chỉ nằm ở những người kiêu_ngạo .
+Những lập_trình_viên " quá tốt " hay có đặc_điểm tính_cách nào_đó khiến cả nhóm không cảm_thấy thoải_mái đều có_thể là nguyên_nhân ảnh_hưởng lên năng_suất chung .
+Chẳng_hạn như , nhiều lập_trình_viên ở một_số quốc_gia ngại xung_đột , tranh_luận hoặc thẳng_thắn thừa_nhận họ không làm tốt một_số nhiệm_vụ .
+Nếu bạn viết code chỉ vì để được trả lương thì khó   có_thể học các kỹ_năng mới   và trải_nghiệm các lĩnh_vực khác .
+Đó là lý_do Dave_Child , người sáng_lập của Added_Bytes   nói rằng , viết code mới đóng vai_trò quan_trọng cho sự sáng_tạo của bản_thân .   " Các
+nhà_lập_trình tài_năng nhất mà tôi biết đều có các dự_án phụ để làm " , ông chia_sẻ .
+Không ai trong số các nhân_tài đó lại sử_dụng lại kỹ_năng mà họ đang dùng trong công_việc chính để phục_vụ cho dự_án phụ .
+Thay vào đó , đây là cơ_hội để các lập_trình có cơ_hội mở_rộng , gia_tăng các kỹ_năng và cập_nhật những công_nghệ mới ở các lĩnh_vực họ cảm_thấy thu_hút .
+Ít dự_án cần những nhà_lập_trình tài_năng tạo ra những đoạn code " thần_thánh " , phần_lớn cần một nền_tảng cơ_bản để từ đó xây_dựng thêm các tính_năng cơ_bản .   Nixey
+nói cách tốt nhất để đạt được điều đó là nhanh_chóng viết ra , dựng lên rồi tiếp_tục làm_việc từ đó .
+Vì_vậy ,   code   luộm_thuộm , nhiều đoạn lặp lại hoặc cách đặt tên chưa hay không quá quan_trọng .
+Code cho thấy hướng giải_pháp và sau đó , bạn có_thể cải_thiện nó tốt hơn .
+Nếu cố hoàn_hảo ngay từ đầu , lập_trình_viên có thế đi quá xa , mất kiểm_soát mà thành_tích chung bị ảnh_hưởng .
+Một_cách khiến bạn chắc_chắn mất đi năng_lực viết code chính là làm_việc ổn_định với một đội lập_trình trong thời_gian dài , Child cho_biết .
+Bởi trong trường_hợp này , bạn đã kiểm_soát tốt mọi thứ , đạt đến trình_độ tiêu_chuẩn của công_việc và không còn động_lực để cải_thiện bản_thân .
+" Bạn cần phải thử_thách mình không ngừng_nghỉ " , ông nói .
+" Nếu làm_việc ở đâu_đó vài năm , có_thể bạn đã học hết mọi thứ .
+Vì_vậy , đừng ở lại đó mà hãy tiếp_tục tìm một thử thức mới " .
+Công_nghệ_phần_mềm thay_đổi nhanh và liên_tục .
+Điều này có_nghĩa rất nhiều kỹ_năng viết code quan_trọng của ngày hôm_nay sẽ lỗi_thời ngay vào ngày_mai .
+Vì_vậy , nếu bạn có kế_hoạch làm_việc lâu_dài trong lĩnh_vực phát_triển phần_mềm , theo sát các xu_hướng và ngôn_ngữ   mới xuất_hiện là việc quan_trọng .
+" Một sự_thật đơn_giản là bạn không_thể làm_việc trong_suốt phần còn lại của cuộc_đời mình với toàn_bộ kiến_thức bạn có hiện_tại mà phải chuẩn_bị để không ngừng học_tập .
+Những gì bạn biết ngày hôm_nay không đảm_bảo tương_lai của bạn về sau " , Todd_Anglin , giám_đốc truyền_bá công_nghệ tại công_ty phát_triển phần_mềm Progress nói .
+Ông bổ_sung , điều quan_trọng là phải tập_trung vào những gì bạn thực_sự thích thay_vì cố_gắng thành_thạo ở mọi lĩnh_vực .
+" Bạn phải có niềm đam_mê và khao_khát để tiếp_tục , nhưng phải biết_đâu là chỗ mình muốn biết chuyên_sâu .
+Đừng cố_gắng tìm_hiểu tất_cả mọi thứ , bởi_vì đó là điều không_thể , hãy luôn tập_trung và một thứ và học_tập " .
+Gregor_Riegler , tác_giả của blog Be a Better_Developer   nói rằng , điều mang tính_chất quyết_định để bạn dồn hết khả_năng vào làm_việc là tham_gia những dự_án thực_sự yêu_thích .
+Dù bất_kỳ tình_huống nào , " bạn cần phải thực_sự tận_hưởng những gì mình đang làm và cố_gắng để có được kết_quả tốt nhất có_thể .
+Nếu tìm thấy niềm_vui trong điều đó , bạn sẽ viết được những dòng code tuyệt_vời " , ông bổ_sung .
+Thu_Ngân ( theo CIO )

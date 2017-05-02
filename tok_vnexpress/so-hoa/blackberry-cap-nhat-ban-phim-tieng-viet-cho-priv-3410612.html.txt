@@ -1,0 +1,13 @@
+BlackBerry cập_nhật bàn_phím tiếng Việt cho Priv
+Điện_thoại Android của BlackBerry hỗ_trợ nhập liệu ngôn_ngữ tiếng Việt bằng bàn_phím cứng hoặc từ bàn_phím ảo , cho_phép vuốt ngón_tay để nhập từ nhanh như trên Passport .
+Priv là smartphone chạy Android đầu_tiên của BlackBerry .
+Sau gần nửa năm có_mặt ở thị_trường Việt_Nam , mẫu Android đầu_tiên của BlackBerry mới hỗ_trợ bàn_phím tiếng Việt đầy_đủ .
+Trước đó , để soạn tiếng Việt , người dùng buộc phải cài thêm các bàn_phím do bên thứ_ba phát_triển .
+So với bàn_phím nguyên_bản của BlackBerry , những bàn_phím cài thêm này thường có tốc_độ chậm hoặc không hỗ_trợ phím tắt khi sử_dụng bàn_phím cứng , bất_tiện hơn bàn_phím nguyên_bản .
+Bàn_phím BlackBerry Keyboard trên Android mới bổ_sung thêm ngôn_ngữ tiếng Việt .
+Bàn_phím nhập liệu tiếng Việt mới được cập_nhật trên BlackBerry Priv cho_phép gõ theo kiểu Telex .
+Ngoài_ra , giống như trên hệ_điều_hành của BlackBerry OS 10 , các từ gợi_ý sẽ nằm ngay trên bàn_phím ảo của Priv và người dùng chỉ cần vuốt lên để chọn từ .
+Người dùng cũng có_thể vuốt trên bàn_phím cứng để chọn từ gợi_ý , hoặc vuốt từ phải qua trái để xoá cũng_như dùng các phím tắt để Copy , Cut hay Paste nội_dung như trên bàn_phím máy_tính .
+Việc cập_nhật bàn_phím tiếng Việt mới cho Priv thực_hiện thông_qua việc nâng_cấp ứng_dụng BlackBerry Keyboard trong kho ứng_dụng Play_Store của Google , không cần nâng_cấp toàn_bộ phần_mềm thiết_bị .
+Xem thêm :
+> Priv - BlackBerry chạy Android đầu_tiên xuất_hiện ở Việt_Nam

@@ -1,0 +1,35 @@
+Cách thiết_kế e - mail hấp_dẫn khách_hàng
+Nội_dung thông_điệp quan_trọng nhưng thiết_kế email ấn_tượng cũng đóng vai_trò quan_trọng không kém .
+Để thu_hút người dùng xem tin nhắn của mình thay_vì nhấp chuột vào các e - mail khác , cần khêu_gợi sự tò_mò và chú_ý của đôi mắt .
+Dưới đây là một_số yếu_tố nên cân_nhắc trong quá_trình thiết_kế e - mail để tạo được hiệu_quả tương_tác cao .
+Thân_thiện với di_động
+Khảo_sát gần đây cho thấy có đến 2/3 số e - mail được mở bằng thiết_bị di_động .
+Do_vậy cần đảm_bảo e - mail hiển_thị tốt trên môi_trường này .
+Thiết_kế văn_bản với phông_chữ rõ_ràng , tập_tin hình_ảnh có kích_thước nhỏ , bố_cục đơn_giản với nhiều không_gian màu trắng kèm những nút cảm_ứng thân_thiện .
+Nếu sử_dụng tiêu_đề có hình_ảnh , cần đảm_bảo nó sẽ tương tích trên tất_cả màn_hình .
+Không dựa quá nhiều vào hình_ảnh
+Trong khi một_số dịch_vụ web tải hình_ảnh tự_động , nhiều người nhận sẽ không thấy hình trừ khi được sự cho_phép , khiến trong email xuất_hiện những ô trống màu trắng .
+Nên sử_dụng thẻ Alt và tiêu_đề hình_ảnh để tối_ưu_hóa việc tìm_kiếm .
+Phần nội_dung văn_bản của e - mail luôn có những thông_tin quan_trọng nhằm trường_hợp khi hình_ảnh không hiển_thị , người đọc vẫn nắm được nội_dung thiết_yếu một_cách liền mạch .
+Tạo liên_kết dễ xem và nhấp chuột
+Đừng để người đọc phải căng mắt ra tìm những liên_kết ( link ) trong e - mail .
+Thông_thường chúng sẽ xuất_hiện dưới dạng màu xanh cổ_điển hoặc có_thể tạo liên_kết qua dạng văn_bản gạch dưới và in đậm để tăng tính tương_phản .
+Sử_dụng những nút hình_ảnh hay_chữ chèn link phù_hợp để thu_hút người dùng nhấp vào dẫn về website của doanh_nghiệp .
+Bố_trí nhiều link theo từng chủ_đề cụ_thể sẽ giúp người đọc dễ quyết_định chọn đọc thông_tin phù_hợp .
+Tuy_nhiên tránh việc để quá nhiều sẽ mang đến cảm_giác rối mắt , mất tập_trung .
+Tuân_thủ đạo_luật CAN-Spam
+Đạo_luật CAN-Spam do Ủy_ban Thương_mại Liên_bang Mỹ ( FTC ) thực_thi nhằm đảm_bảo những văn_bản pháp_lý về việc gửi e - mail thương_mại với mức phạt tiền cao nhất lên đến hàng triệu USD .
+Đạo_luật quy_định doanh_nghiệp gửi e - mail quảng_bá phải công_bố chính_xác thông_tin liên_hệ , thương_hiệu , nội_dung thông_tin , mục_đích gửi tin , có phần để người nhận phản_hồi họ không muốn tiếp_tục được gửi những thông_tin tương_tự ...
+Nội_dung súc_tích
+Thông_thường e - mail thương_mại lý_tưởng vào_khoảng dưới 300 từ .
+Nếu quá dài thì khả_năng người đọc chuyển vào " thùng rác " rất lớn .
+Tạo các tiêu_đề phụ thể_hiện được nội_dung chính_yếu , giúp người dùng nhanh_chóng nắm rõ thông_tin cần truyền_tải cho_dù mới chỉ đọc lướt qua .
+Hạn_chế từ_khóa bị liệt_kê trong bộ lọc thư rác
+Các bộ lọc thư rác tự_động được bổ_sung thường_xuyên những từ_khóa " nghi_vấn " để quét e - mail và quyết_định có chuyển chúng đến hộp_thư thường hay đưa thẳng đến hộp_thư rác .
+Một_số từ_khóa thường bị " điểm_danh " như tiền , giá rẻ , miễn_phí , ! ! ! , $ $ $ ... hoặc nội_dung toàn từ viết hoa , nhiều đoạn bôi đủ màu_sắc lòe_loẹt ...
+Kiểm_tra trước khi gửi
+Trước khi gửi thư cho một loạt khách_hàng , có_thể " gửi nháp " bằng đến ngay địa_chỉ hòm_thư của mình trên cả máy_tính bàn , laptop và cả thiết_bị di_động .
+Mở trên tất_cả thiết_bị để xem thông_điệp có xuất_hiện đầy_đủ , hình_ảnh bị ẩn đi hay không .
+Từ đó đưa ra những điều_chỉnh thích_hợp để tạo nên một e - mail chuyên_nghiệp , gây ấn_tượng tốt với khách_hàng .
+Những e - mail rõ_ràng , dễ đọc , hình_ảnh chỉn_chu luôn có tỷ_lệ mở cao , mang đến hiệu_quả thực_sự cho chiến_dịch truyền_thông của doanh_nghiệp .
+Minh_Trí

@@ -1,0 +1,35 @@
+' Khoanh bừa ' bài thi_trắc_nghiệm khả_năng được mấy điểm
+Khẳng_định không_thể khoanh bừa đáp_án môn thi_trắc_nghiệm THPT quốc_gia mà được 10 điểm , tuy_nhiên , chuyên_gia giáo_dục cho rằng thí_sinh có_thể dễ_dàng kiếm 2,5 điểm nhờ chỉ chọn toàn A , hoặc B , hoặc C , hoặc D .
+Sau khi thí_sinh ở Nghệ_An được 10 điểm Lý , 0 điểm Toán , nhiều người đặt câu_hỏi có hay không chuyện khoanh bừa ở môn thi_trắc_nghiệm vẫn giành điểm_cao .
+TS Lê_Trường_Tùng , Chủ_tịch Hội_đồng_quản_trị Đại_học FPT , sau khi phân_tích kết_quả thi THPT 2016 của thí_sinh dự thi môn khoa_học_tự_nhiên ( hơn 850.000 bài thi Toán , khoảng 350.000 thi Hóa , 350.000 thi Lý và khoảng 150.000 thi Sinh )   nhận được kết_quả ấn_tượng .
+Cụ_thể , đối_với các môn thi_trắc_nghiệm ( Lý , Hóa , Sinh ) chỉ khoảng 1% thí_sinh có điểm dưới 2,5 .
+Còn khi thi tự luận ( Toán ) , số điểm dưới 2,5 là 17% .   Thi tự luận hoặc trắc_nghiệm , tỷ_lệ thí_sinh đạt 7,5 trở_lên gần_như nhau : khoảng 7% , riêng đề Lý phổ điểm lệch phải nhiều nên số thí_sinh từ 7,5 trở_lên chiếm 14% .
+" Như_vậy có_thể thấy , để đạt điểm_cao thì thi_trắc_nghiệm hoặc tự luận là khó như nhau .
+Còn để không bị điểm thấp , thi môn Toán khó gấp 17 lần thi các môn trắc_nghiệm " , TS Lê_Trường_Tùng đánh_giá .
+Theo thống_kê của TS Lê_Trường_Tùng , số thí_sinh thi môn trắc_nghiệm Lý được dưới 2,5 điểm là 2.405 , Hóa là 3.534 , và Sinh là 2.848 .   " Những em này vừa không có kiến_thức chuyên_môn để giải bài , vừa không hiểu một quy_luật .
+Đó là Bộ Giáo dục ra đề trắc_nghiệm , mỗi câu_hỏi có 4 lựa_chọn A , B , C , D , và để tránh thiên_vị theo phương_án nào , Bộ ấn_định số câu có câu trả_lời đúng A , B , C , hoặc D là như nhau .
+Tức chỉ cần chọn bừa , chẳng_hạn A hết , hoặc B hết , hoặc C hết , hoặc D hết , thế_là có 2,5 điểm " , ông Tùng nói .
+Có kinh_nghiệm nghiên_cứu và ra đề thi trong nhiều năm , một chuyên_gia cho_biết không có chuyện khoanh bừa đạt điểm 10 điểm môn trắc_nghiệm .
+Còn việc chia đều đáp_án đúng cho các lựa_chọn A , B , C , D là có thật .
+Vì_thế thí_sinh cứ khoanh đúng một loại phương_án ở tất_cả câu_hỏi thì sẽ được khoảng 2,5 điểm .
+" Từ vài năm trước chúng_tôi đã đề_nghị phương_thức chấm thi_trắc_nghiệm là khoanh đúng cho điểm và khoanh sai trừ điểm ( với một lượng thích_hợp ) .
+Tuy_nhiên , đề_nghị đó chưa được các cấp có thẩm_quyền chấp_nhận .
+Vì_thế , với việc thi_trắc_nghiệm như hiện_nay , một học_sinh chỉ cần biết 4 chữ_cái A , B , C , D là đảm_bảo chắc_chắn được 2,5 điểm ở môn thi_trắc_nghiệm " , chuyên_gia nói .
+Theo vị này , nếu vẫn muốn có hình_thức thi_trắc_nghiệm thì chỉ nên ở một mức_độ , chứ không nên hoàn_toàn trắc_nghiệm như hiện_nay .
+Phương_án này đã được xem_xét , tuy_nhiên chưa được chấp_nhận vì khâu coi thi sẽ phức_tạp do sau phần thi_trắc_nghiệm phải thu bài , rồi lại phát đề phần tự luận cho học_sinh làm tiếp .
+Một phương_án nữa cũng được xem_xét là nâng_cấp kiểu trắc_nghiệm , tức_là không_chỉ đơn_giản khoanh vòng_quanh một chữ_cái , nhưng cũng chưa khả_thi vì như_thế phải xây_dựng lại ngân_hàng câu_hỏi .
+TS Lê_Trường_Tùng cũng đồng_tình , thi_trắc_nghiệm là hình_thức tốt , cần duy_trì , tuy_nhiên cần có sự điều_chỉnh như áp_dụng trừ điểm đối_với những câu sai ( trừ đến khi về 0 ) .
+Như_vậy , học_sinh sẽ ngại khi_không biết gì mà đánh bừa , chỉ làm câu đúng vì nếu sai phải trả_giá .
+Bên_cạnh đó , để tránh tình_trạng ăn_may , đáp_án cho mỗi câu_hỏi trắc_nghiệm có_thể nhiều hơn một lựa_chọn , hoặc không có lựa_chọn nào .
+Đồng_thời , đã thi_trắc_nghiệm thì số câu phải đủ nhiều , ví_dụ 120 phút 100 câu .   " Thi_trắc_nghiệm nếu làm khéo sẽ thay_thế được tự luận " , ông Tùng nhận_định .
+Tuy_nhiên , để xem_xét việc thi_trắc_nghiệm hay tự luận theo các chuyên_gia cần căn_cứ vào nhiều_chuyện khác nữa .
+" Mục_đích tối_thượng của mỗi kỳ thi là sát_hạch , đánh_giá năng_lực ( học_tập , làm_việc ... ) của người thi , chứ không phải nhằm tạo ra một môi_trường để những người dự thi thư_giãn , giải_trí " , vị chuyên_gia nói .
+Trước đó dư_luận đặc_biệt quan_tâm trước thông_tin thí_sinh Nguyễn_Sỹ_Hùng thi ở cụm Đại_học Vinh ( Nghệ_An ) được điểm 10 Lý , 8 điểm Hóa , song lại 0 điểm môn Toán .
+Hùng cho_biết buổi thi Toán không làm_gì , chỉ gập bài thi và ngủ .
+Các môn thi sau đó , vì không muốn trường THPT Tây_Hiếu nơi mình theo học “ mang_tiếng xấu ” có thí_sinh bỏ thi và đạt cả 5 môn điểm 0 , em đã làm bài .
+Nhưng với 3 môn trắc_nghiệm là Hóa , Lý , tiếng Anh , em chỉ " khoanh bừa và ăn_may " .
+Đại_học Vinh đã thàm lập Ban kiểm_tra xem_xét toàn_bộ bài thi của Hùng và khẳng_định không có sai_sót trong khâu chấm thi , việc thí_sinh ngó bài nhau hay không thì không có cơ_sở xác_định .
+Vì không có quyền gặp_gỡ thí_sinh để hỏi , Đại_học Vinh đã chuyển cơ_quan điều_tra vụ_việc nhằm đảm_bảo tính khách_quan và đúng thẩm_quyền .
+Lan_Hạ
+Xem thêm : > > Thành_lập hội_đồng kiểm_tra thí_sinh được 10 điểm Lý , 0 điểm Toán > > Nam_sinh 10 điểm Lý : ' Em khoanh bừa đáp_án '
+> > Công_an xác_minh vụ thí_sinh được 10 điểm Lý , 0 điểm Toán

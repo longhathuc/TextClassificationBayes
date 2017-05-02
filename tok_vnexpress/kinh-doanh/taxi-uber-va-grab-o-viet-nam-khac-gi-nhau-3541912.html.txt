@@ -1,0 +1,23 @@
+Taxi_Uber và Grab ở Việt_Nam khác_gì nhau ?
+Cùng là ứng_dụng gọi taxi nhưng Grab được thí_điểm tại 5 thành_phố còn Uber vừa bị nhà quản_lý " tuýt còi " , chủ_yếu vì vẫn không lập pháp_nhân cho loại_hình " kinh_doanh vận_tải " ở Việt_Nam .
+Cùng có_mặt ở Việt_Nam từ năm 2014 , đến nay , cả Uber lẫn Grab đều được xem là những ứng_dụng gọi xe ( chủ_yếu taxi và xe_ôm ) được ưa_thích .
+Ban_đầu , trong phương_thức giao_dịch với khách_hàng , cách vận_hành của hai ứng_dụng này có nhiều điểm khác_nhau , ví_dụ như Uber chỉ chấp_nhận thanh_toán thẻ còn Grab chỉ hỗ_trợ trả tiền_mặt ; Uber phát_triển mạnh taxi không mào , Grab ưu_tiên hợp_tác với taxi truyền_thống ...
+Nhưng dần_dần , hai đối_thủ vừa nhìn nhau vừa đưa ra những thay_đổi về chính_sách và các " sản_phẩm mới " cho phù_hợp với thị_trường Việt_Nam .
+* Uber và Grab khác_nhau như_thế_nào khi hoạt_động ở Việt_Nam ?
+Hiện_Uber lẫn Grab đều đã chấp_nhận cả hai phương_thức thanh_toán , cùng triển_khai dịch_vụ gọi xe_ôm qua UberMoto và GrabBike , cùng tỷ_lệ ăn_chia hoa_hồng 20-80 với lái_xe , cùng có chính_sách thưởng cho lái_xe chạy vượt định_mức , giá cước tự_động tăng vài_ba lần trong giờ cao_điểm ...
+Tuy_nhiên , mô_hình vận_hành hoạt_động tại Việt_Nam của Uber và Grab lại có sự khác_nhau , căn_bản nhất_là ở tư_cách_pháp_nhân .
+Nếu_như GrabTaxi lập một công_ty_con ( Grab_Việt_Nam ) tại Việt_Nam với một trong những ngành_nghề đăng_ký kinh_doanh là " vận_tải hành_khách " và " vận_tải hàng_hóa " thì công_ty_con của Uber ở Việt_Nam ( Uber_Việt_Nam ) lại chỉ nhận vai_trò " tư_vấn quản_lý " , " nghiên_cứu thị_trường " .
+Một lãnh_đạo của Uber_Việt_Nam từng nói công_ty tại Việt_Nam chỉ có chức_năng " marketing cung_ứng dịch_vụ phần_mềm " chứ không phải điều_hành việc vận_tải ...
+Các tài_xế Uber được điều_hành bởi Uber BV ( Hà_Lan ) , ký hợp_đồng với đối_tác ở Hà_Lan , doanh_thu tại Việt_Nam được chuyển về Hà_Lan còn Uber_Việt_Nam lại không được công_ty_mẹ ủy_quyền việc này .
+Cơ_quan quản_lý đang muốn gắn phù_hiệu cho xe taxi của Uber và Grab để dễ quản_lý .
+Đây cũng chính là nguyên_nhân khiến Bộ Giao thông Vận_tải " tuýt còi " , Bộ Tài chính bối_rối trong cách xác_định thuế của Uber .
+Trong khi tại Grab , tất_cả các lái_xe phải ký hợp_đồng với hợp_tác_xã vận_tải để chạy xe dưới dạng hợp_đồng thì tại Uber , vẫn còn rất nhiều chủ xe không thuộc một hợp_tác_xã , doanh_nghiệp vận_tải nào cả .
+Do_đó , trong khi Grab thông_qua các hợp_tác_xã , dễ_dàng kê_khai và thu hộ thuế của tài_xế thì Uber lại không_thể .
+Thực_tế , Đề_án thí_điểm của Grab đã được Chính_phủ và Bộ Giao thông cho_phép thực_hiện trong thời_gian 3 năm .
+Ngược_lại , Đề_án của Uber lại nhiều lần bị " bác " .
+Đồng_thời ,   Bộ Giao thông yêu_cầu Uber_Việt_Nam không phối_hợp với các chủ phương_tiện , đơn_vị vận_tải để thực_hiện kinh_doanh vận_tải trái với quy_định hiện_hành , cho tới khi hoàn_thiện các thủ_tục hoạt_động .
+Lý_giải với VnExpress , Thứ_trưởng Giao_thông Nguyễn_Hồng_Trường từng khẳng_định quan_điểm của cơ_quan quản_lý không cấm_cản những doanh_nghiệp như Uber .
+Tuy_nhiên , đại_diện ngành giao_thông cũng kiên_quyết cho rằng , bất_cứ công_ty nào hoạt_động cũng cần theo quy_định pháp_luật .
+Ông lý_giải , sở_dĩ Đề_án thí_điểm của Grab được chấp_thuận bởi công_ty này có pháp_nhân rõ_ràng , đăng_ký hoạt_động kinh_doanh trong lĩnh_vực vận_tải .
+Từ trước tới nay , quan_điểm của Uber là họ không tham_gia hoạt_động vận_tải mà chỉ cung_cấp dịch_vụ phần_mềm cho hoạt_động vận_tải .
+Thanh_Lan - Anh Tú

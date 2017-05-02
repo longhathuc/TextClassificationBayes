@@ -1,0 +1,15 @@
+Tin nhắn khiến ứng_dụng nhắn_tin i Phone ' tê_liệt ' hoàn_toàn
+Chỉ cần người dùng i Phone chạy i OS 9 trở_lên nhấp vào tập_tin gửi kèm tin nhắn , ứng_dụng nhắn_tin lập_tức bị " treo " và không_thể sử_dụng kể_cả khi khởi_động lại thiết_bị .
+Chỉ cần người dùng nhấp vào tập_tin , ứng_dụng nhắn_tin lập_tức bị treo .
+Đoạn video được người dùng YouTube Vincedes3 chia_sẻ đã khiến nhiều người đang sử_dụng i Phone lo_ngại .
+Cụ_thể , phía người gửi cố_ý gửi tin nhắn đa_phương_tiện ( MMS ) đi kèm một tập_tin bị mã_hóa có dạng * . vcf ( file mở_rộng để backup danh_bạ trên điện_thoại ) .
+Nếu người nhận nhấp vào để mở tập_tin này , ứng_dụng nhắn_tin của i Phone lập_tức bị treo và không_thể thao_tác .
+Theo đoạn video , người dùng có_thể tắt ứng_dụng tin nhắn i Phone đang bật bằng chế_độ đa_nhiệm .
+Tuy_nhiên , khi truy_cập lại ứng_dụng nhắn_tin , nó sẽ không hiện lên , kể_cả khi khởi_động lại máy .
+Điều đáng lo_ngại là tập_tin gây treo ứng_dụng nhắn_tin của i Phone lại đang được chia_sẻ rộng_rãi trên mạng .
+Theo thử_nghiệm của tài_khoản YouTube EverythingApplePro , các dòng máy chạy i OS 9 trở_lên , kể_cả i OS 10.2.1
+Beta 1 và Beta 2 đều bị ảnh_hưởng .
+Hiện_tại , người dùng chỉ có_thể giải_quyết vấn_đề treo ứng_dụng nhắn_tin bằng cách truy_cập liên_kết https : / / vincedes3.com/save.html và tải về tập_tin giải_mã .
+Phonearena khuyến_cáo , người dùng không nên nhấp vào các tập_tin đi kèm có dạng * . vcf từ các số lạ , hoặc nghi_ngờ là tệp độc_hại để tránh sự_cố xảy_ra , đồng_thời đợi bản cập_nhật sửa lỗi từ phía Apple .
+Video i Phone bị vô_hiệu_hóa ứng_dụng nhắn_tin bởi tin nhắn MMS :
+Bảo_Lâm

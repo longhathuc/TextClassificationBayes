@@ -1,0 +1,38 @@
+Thu_nhập ngành IT thế_nào
+Giám_đốc Công_nghệ hưởng lương trên 100 triệu đồng một tháng ; vị_trí thiết_kế website , lập_trình_viên có thu_nhập 10-25 triệu đồng .
+Theo kết_quả khảo_sát các đầu việc và mức lương do Adecco_Việt_Nam - đơn_vị chuyên nghiên_cứu , cung_ứng dịch_vụ nguồn nhân_lực vừa công_bố mới_đây , nhân_sự ngành Công_nghệ_thông_tin có mức lương dao_động 8-120 triệu đồng mỗi tháng .
+Giám_đốc Công_nghệ_thông_tin
+Vị_trí này có mức lương 100-120 triệu đồng mỗi tháng .
+Các doanh_nghiệp thường yêu_cầu Giám_đốc Công_nghệ phải có bằng thạc_sĩ ngành Khoa_học máy_tính hoặc Công_nghệ_thông_tin ; với 15-20 năm kinh_nghiệm .
+Giám_đốc Công_nghệ_thông_tin chịu trách_nhiệm chỉ_đạo mọi vấn_đề liên_quan đến kỹ_thuật của công_ty ; đề_xuất ngân_sách cho các chương_trình , dự_án , mua hàng và thiết_bị nâng_cấp ; giám_sát chuyên_gia máy_tính và nhân_viên ; chủ_trì các dự_án liên_quan đến lĩnh_vực này .
+Trưởng_phòng Công_nghệ_thông_tin
+Mức lương dao_động 30-40 triệu đồng , yêu_cầu cho vị_trí này là cử_nhân ngành Khoa_học máy_tính hoặc Công_nghệ_thông_tin , có 7-10 năm kinh_nghiệm .
+Trưởng_phòng Công_nghệ_thông_tin chịu trách_nhiệm tổ_chức tư_vấn các giải_pháp Công_nghệ_thông_tin giúp công_ty phát_triển và thực_hiện công_việc hiệu_quả hơn .
+Tư_vấn ERP ( Enterprise_Resource_Planning - hệ_thống hoạch_định tài_nguyên doanh_nghiệp ) .
+Mức lương 10-20 triệu đồng , ứng_cử_viên phải là cử_nhân ngành Khoa_học máy_tính hoặc Công_nghệ_thông_tin , có 3-5 năm kinh_nghiệm .
+Nhân_viên tư_vấn ERP sẽ đảm_nhận việc cung_cấp và tư_vấn ERP cho khách_hàng ; chịu trách_nhiệm quản_lý từng giai_đoạn để các hoạt_động diễn ra đúng tiến_độ dự_kiến với chất_lượng và sự tham_gia hiệu_quả nhất .
+Quản_lý hệ_thống
+Nhân_sự này sẽ đảm_trách hoạt_động của hệ_thống mạng ; tổ_chức cài_đặt và hỗ_trợ hệ_thống máy_tính của một tổ_chức bao_gồm mạng_cục_bộ ( LAN ) , mang diện rộng ( WAN ) , các phân_đoạn mạng , mạng nội_bộ và các dữ_liệu khác .
+Mức lương 10-20 triệu đồng , có 3-5 năm kinh_nghiệm .
+Lập_trình_viên
+Cũng với yêu_cầu 3-5 năm kinh_nghiệm , mức lương của Lập_trình_viên 10-25 triệu đồng .
+Lập_trình_viên chịu trách_nhiệm về backend , viết mã , thiết_lập kiến_trúc của phần_mềm phát_triển , thực_hiện duy_trì , phát_triển và khắc_phục các sự_cố của trang_web , ứng_dụng web hay phần_mềm .
+Thiết_kế website
+Mức lương 15-25 triệu đồng , ứng_viên sẽ chịu trách_nhiệm về frontend , thiết_kế ứng_dụng web trên kiến_trúc và các yêu_cầu ( gói thiết_kế , mô-đun , tiểu hệ_thống ... ) ; viết tài_liệu thiết_kế , thực_hiện , chọn giải_pháp kỹ_thuật thích_hợp nhất ( kiến_trúc , phương_pháp thiết_kế hoặc thiết_kế sơ_bộ ) .
+Hỗ_trợ công_nghệ_thông_tin
+Dành cho cử_nhân Khoa_học máy_tính hoặc Công_nghệ_thông_tin với mức lương 8-12 triệu đồng .
+Người_làm chịu trách_nhiệm thiết_kế , tổ_chức , chỉnh_sửa và hỗ_trợ hệ_thống máy_tính của công_ty , khắc_phục sự_cố hiệu_suất mạng LAN , WAN , kết_nối và các vấn_đề liên_quan .
+Trưởng_phòng Marketing_Kỹ thuật_số
+Yêu_cầu 5-7 năm kinh_nghiệm , dành cho ứng_viên là cử_nhân Công_nghệ_thông_tin hoặc Marketing , mức lương được các công_ty chi_trả 40-60 triệu đồng .
+Ở vị_trí này , họ phải chịu trách_nhiệm kế_hoạch marketing trên nền_tảng kỹ_thuật_số ; làm_việc với các agency , đảm_bảo tính thống_nhất hình_ảnh và giá_trị thương_hiệu trên tất_cả các kênh , ấn_phẩm được tạo ra bởi những người_làm trong hay ngoài công_ty .
+Đồng_thời , nhân_sự này phải xác_định mục_tiêu , ngân_sách cho chiến_dịch , nhận_diện thương_hiệu và dẫn_dắt thực_hiện các chiến_dịch để tăng tỷ_lệ khách_hàng và đội_ngũ nhân_viên .
+Trưởng_phòng hoặc giám_đốc phát_triển kinh_doanh
+Yêu_cầu ứng_viên có bằng cử_nhân ngành Công_nghệ_thông_tin , Quản_trị kinh_doanh , Marketing hoặc các ngành liên_quan .
+Mức lương 30-50 triệu đồng .
+Công_việc ở vị_trí này là làm_sao để nâng cao vị_thế trên thị_trường của một tổ_chức và đạt được tăng_trưởng tài_chính .
+Bạn cũng cần xác_định mục_tiêu chiến_lược của tổ_chức trong dài_hạn , xây_dựng mối quan_hệ với khách_hàng chủ_chốt , xác_định cơ_hội kinh_doanh , thương_lượng và ký_kết hợp_đồng kinh_doanh , nghiên_cứu , nắm_bắt các biến_động của thị_trường .
+Kiến_trúc_sư công_nghệ_thông_tin
+Công_việc yêu_cầu ứng_viên có 3-5 kinh_nghiệm và có mức lương 30-45 triệu đồng .
+Người lao_động chịu trách_nhiệm toàn_bộ ( frontend và backend ) .
+Thiết_kế web ứng_dụng dựa trên kiến_trúc và yêu_cầu ( gói thiết_kế , module , thiết_kế hệ_thống phụ ... . ) .
+Ngọc_Anh

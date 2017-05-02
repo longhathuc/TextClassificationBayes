@@ -1,0 +1,15 @@
+Sắp có smartphone Android sạc 15 phút đầy nửa pin
+Điện_thoại dùng chip Snapdragon 835 với công_nghệ Quick_Charge 4 mới sẽ có tốc_độ sạc rất nhanh , chỉ nạp pin 5 phút để có thêm 5 giờ sử_dụng .
+Tại CES 2017 , Qualcomm đã giới_thiệu bộ_vi_xử_lý Snapdragon 835 mới hứa_hẹn xuất_hiện trên các smartphone đầu_bảng năm nay .
+Chip bao_gồm tám lõi Kryo 280 trong đó bốn nhân có tốc_độ 2,45 GHz và bốn nhân còn lại có xung nhịp 1,9 GHz .
+Snapdragon 835 là bộ_xử_lý sẽ được trang_bị trên nhiều smartphone cao_cấp 2017 .
+Snapdragon 835 được xây_dựng dựa trên tiến_trình 10 nm của Samsung , cho hiệu_suất cao hơn 27% nhưng tiết_kiệm điện hơn 40% so với chip thế_hệ trước .
+Các smartphone dùng bộ_xử_lý này được chờ_đợi có thời_gian nghe gọi trên một ngày , nghe nhạc 5 ngày , 7 giờ xem phim 4K và ba giờ quay video 4K .
+Đáng chú_ý , công_nghệ sạc nhanh được nâng_cấp lên Quick_Charge 4 , nạp pin nhanh hơn 20% so với Quick_Charge 3 .   Với 5 phút sạc pin bằng Quick_Charge 4 , người dùng sẽ có thêm 5 giờ sử_dụng thiết_bị .
+Trong khi đó nạp điện trong 15 phút có_thể giúp đầy 50% dung_lượng pin .
+Quick_Charge 4 có tốc_độ sạc nhanh hơn nhiều so với các công_nghệ trước .
+Chip thế_hệ mới nhất của Qualcomm hỗ_trợ camera lên đến 32 megapixel hoặc camera kép 16 megapixel nhờ công_nghệ Clear_Sight .
+Các smartphone dùng bộ_xử_lý này có_thể quay video 4K với 30 khung hình / giây , xem video 4K chuẩn 60 khung hình / giây .
+GPU Adreno 540 trên Snapdragon 835 có khả_năng xử_lý 3D nhanh gấp 25 lần GPU Adreno 530 .
+Ngoài_ra , chipset mới của Qualcomm sẽ hỗ_trợ nền_tảng Daydream VR của Google dành cho môi_trường thực_tế ảo .
+Những smartphone được trang_bị chip Snapdragon 835 có_thể là LG_G6 , HTC 11 hay Samsung_Galaxy S8 .

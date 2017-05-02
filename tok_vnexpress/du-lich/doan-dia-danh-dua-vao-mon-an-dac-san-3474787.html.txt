@@ -1,0 +1,5 @@
+Đoán địa_danh dựa vào món ăn đặc_sản
+Mỗi vùng_miền lại có một loại đặc_sản đặc_trưng cho tỉnh_thành , khu_vực của mình , khiến ai đã thử qua một lần thì nhớ mãi .
+Cùng trả_lời 10 câu_hỏi dưới đây để biết bạn am_hiểu đặc_sản đất_nước đến đâu :
+Câu_hỏi số 1 : Phở chua là đặc_sản của tỉnh_thành nào ?
+Theo Ngôisao

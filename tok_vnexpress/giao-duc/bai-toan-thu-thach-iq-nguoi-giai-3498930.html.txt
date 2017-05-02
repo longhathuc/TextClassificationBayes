@@ -1,0 +1,11 @@
+Bài_toán thử_thách IQ người giải
+Bài_toán với những phương_trình có kết_quả ' lạ ' khi đăng_tải trên Gpuzzles đã làm_khó rất nhiều người giải .
+Bạn có_thể tìm ra đáp_án của bài_toán này ?
+Giả_sử dãy phương_trình dưới đây đúng và tất_cả phương_trình đều tuân theo một quy_luật logic .
+7 + 7 = 2
+8 + 8 = 4
+8 + 5 = 1
+6 + 9 = 3
+10 + 11 = 9
+Bạn có_thể tìm ra quy_luật đó để tìm giá_trị của phương_trình 4 + 9 ?
+Thanh_Tâm

@@ -1,0 +1,3 @@
+Bài_toán ' vịt và rùa ' kiểm_tra bạn có thông_minh hơn học_sinh lớp 3
+Bài_toán về vị_trí của những chú vịt và rùa đồ_chơi nằm trong đề thi đánh_giá năng_lực tư_duy Toán_học của học_sinh lớp 3-4 liệu có làm_khó bạn ?
+Oliver sắp_xếp những chú vịt và rùa đồ_chơi của em thành một hàng như hình dưới đây .

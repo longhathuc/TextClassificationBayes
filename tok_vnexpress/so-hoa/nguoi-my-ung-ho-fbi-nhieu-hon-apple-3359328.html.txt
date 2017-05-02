@@ -1,0 +1,34 @@
+Người_Mỹ ủng_hộ FBI nhiều hơn Apple
+Trong " cuộc_chiến " giữa Apple và FBI về việc mở cổng hậu trên i Phone này , 51% người Mỹ tham_gia khảo_sát ủng_hộ FBI , 38% về phe Apple và 11% không biết chọn bên nào .
+Sau vụ khủng_bố đẫm máu ở San_Bernardino ( Mỹ ) hồi tháng 12/2015 , Cục Điều tra liên_bang Mỹ ( FBI ) đã nắm trong tay chiếc i Phone 5c của tên khủng_bố Syed_Farook .
+FBI đã nhờ tòa_án yêu_cầu Apple hợp_tác trong việc mở cổng hậu nhằm truy_cập điện_thoại .
+Tuy_nhiên , Apple kiên_quyết phản_đối , thậm_chí viết " tâm_thư " gửi khách_hàng và nhân_viên rằng mở cổng hậu trên điện_thoại là hành_động nguy_hiểm .
+Theo Tim_Cook , CEO Apple , câu_chuyện không đơn_giản dừng lại ở một chiếc i Phone hay một cuộc điều_tra cụ_thể mà sẽ ảnh_hưởng đến hàng trăm triệu người .
+Trong tương_lai , nếu phần_mềm này rơi vào tay kẻ xấu thì chúng có_thể mở khóa bất_cứ chiếc i Phone nào mà chúng có được .
+Nhiều người đã tập_trung trước Apple_Store tại San_Francisco để ủng_hộ Apple .
+Trong khi đó , chiến_dịch biểu_tình " Đấu_tranh cho tương_lai " ( Fight for the Future ) cũng đang được lên kế_hoạch ở New_York , San_Francisco , Los_Angeles và cạnh trụ_sở FBI ở Washington với lời kêu_gọi : " FBI , đừng bẻ_khóa điện_thoại của chúng_tôi " hay " Bảo_vệ điện_thoại , bảo_vệ cuộc_sống " .
+Theo LATimes , cuối tuần qua , Giám_đốc FBI  James_Comey đã lên_tiếng : " Chúng_tôi đơn_giản muốn có cơ_hội biết mã khóa ( passcode ) của kẻ khủng_bố mà không khiến điện_thoại tự hủy dữ_liệu hay phải mất cả thập_kỷ mới đoán được chính_xác mật_khẩu .
+Mọi chuyện chỉ có thế thôi " .
+" Chính_phủ nói công_cụ bẻ_khóa chỉ được sử_dụng lần này , trên chiếc điện_thoại này .
+Nhưng một_khi được tạo ra , kỹ_thuật đó có_thể áp_dụng nhiều lần trên bất_cứ thiết_bị nào .
+Nó như một bộ khóa vạn_năng .
+Không ai có_thể chấp_nhận điều đó " , Tim_Cook kiên_quyết đáp trả .
+Ngược_lại , FBI khẳng_định họ chỉ cần một phần_mềm có_thể mở khóa i Phone 5c của Farook .
+Sau khi hoàn_tất , Apple có_thể giữ lại phần_mềm hoặc hủy nó theo ý_muốn .
+Trong khi đó ,   Ted_Olson , luật_sư của Apple , nhận_định : " Sẽ không có giới_hạn trong những yêu_cầu của chính_phủ đối_với Apple nếu họ thành_công lần này .
+Chúng_ta không_thể biết mọi thứ sẽ dẫn tới đâu .
+Liệu sau lần này , chính_phủ có yêu_cầu chúng_tôi tạo tính_năng theo_dõi như ghi_âm cuộc_gọi , theo_dõi vị_trí ... hay không .
+Rõ_ràng , thỏa_hiệp sẽ tạo ra một tiền_lệ rất nguy_hiểm " .
+Việc mở cổng hậu trên i Phone được ví_như việc mở   hộp Pandora .   Theo truyền_thuyết , Chúa   tặng nàng Pandora một chiếc hộp và   dặn   không được mở , nhưng nàng không cưỡng lại được sự tò_mò .
+Những thứ trong hộp đã mang   đến thiên_tai , bệnh_tật ... và chỉ sót lại một_chút hy_vọng   cho loài_người tiếp_tục sống .
+FBI bắt_đầu tiến_hành điều_tra cuộc xả súng của cặp vợ_chồng   Syed   Farook và Tashfeen_Malik từ ngày 2/12/2015 .
+Họ tin rằng smartphone của Farook " có_thể chứa những thông_tin liên_lạc quan_trọng " xung_quanh thời_điểm diễn ra vụ thảm_sát .
+FBI muốn truy_cập i Phone 5c của Farook nhưng công_nghệ mã_hóa của Apple sẽ xóa toàn_bộ dữ_liệu trong máy sau 10 lần nhập sai mã .
+Thực_tế , FBI và quan_chức quận San_Bernadino đã tìm cách truy_cập vào tài_khoản i Cloud của Farook bằng cách reset mật_khẩu của tên này chỉ vài giờ sau khi chiếc điện_thoại được thu_hồi .
+Apple sau đó đã chỉ_trích rằng nếu FBI không " hấp_tấp " cài_đặt lại mật_khẩu , họ đã có_thể truy_cập được vào nội_dung sao lưu mà không cần tạo ra một cổng hậu để phá mã_hóa của i Phone .
+Bên_cạnh đó , dữ_liệu trong i Phone   của khủng_bố đã ngừng đồng_bộ lên i Cloud từ ngày 19/10/2015 , tức FBI hoàn_toàn không có thông_tin gì về hoạt_động của tên này trong khoản 7 tuần trước vụ tấn_công trừ khi họ bẻ_khóa điện_thoại thành_công .
+" Có_thể điện_thoại chứa nhiều manh_mối hơn để chúng_tôi lần ra những tên khủng_bố khác " , Giám_đốc FBI nói .
+Cuôc chiến giữa Apple và FBI đang gây nhiều tranh_cãi .   Tỷ_phú Donald_Trump , ứng_viên đang tranh_cử Tổng_thống Mỹ năm 2016 , giận_dữ chỉ_trích Apple : " Họ nghĩ họ là ai chứ ? " .
+Còn   Sundar_Pichai , CEO Google và Steve_Wozniak , người cùng Steve_Jobs xây_dựng Apple từ những ngày đầu , bày_tỏ quan_điểm ủng_hộ quyết_định không tạo cổng hậu trên i Phone của Tim_Cook .
+Trong khi đó , hãng nghiên_cứu Pew đã tiến_hành khảo_sát từ ngày 18/2 đến 21/2 và nhận thấy có tới 51% những người tham_gia cho rằng Apple nên hỗ_trợ FBI mở khóa , 38% đứng về phía của Apple và 11% không chọn phe nào .
+Châu_An

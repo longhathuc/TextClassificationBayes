@@ -1,0 +1,24 @@
+Ba nhà_khoa_học Việt có công_trình trên tạp_chí vật_lý hạng nhất quốc_tế
+Ba nhà_khoa_học người Việt đã tạo nên kỳ_tích mới cho lịch_sử ngành vật_lý Việt_Nam , khi lần đầu_tiên có nghiên_cứu được đăng trên tạp_chí vật_lý hạng nhất quốc_tế .
+Công_trình nghiên_cứu " Simultaneous microscopic description of nuclear level density and radiative strength function "   ( Mô_tả vi_mô đồng_thời mật_độ mức và hàm lực phóng_xạ của hạt_nhân nguyên_tử )   được đăng_tải trên Physical_Review_Letters ngày 9/1/2017 .
+Trong số ba tác_giả có hai người đang làm_việc ở Việt_Nam là PGS.TS Nguyễn_Quang_Hưng ( Đại_học Duy_Tân , Đà_Nẵng ) và nghiên_cứu_sinh Lê_Thị_Quỳnh_Hương ( Đại_học Khánh_Hòa , Nha_Trang ) ; còn TSKH Nguyễn_Đình_Đăng làm_việc tại Viện RIKEN , Nhật_Bản .
+" Đây là công_bố thứ 5 của tôi tại Physical_Review_Leters , nhưng lần này là bài báo đầu_tiên về vật_lý_hạt_nhân mà_cả ba tác_giả đều là người Việt_Nam " ,   tiến_sĩ Nguyễn_Đình_Đăng nói và thông_tin thêm , qua sự_kiện này   cho thấy đã có các nhà_nghiên_cứu vật_lý_hạt_nhân ở Việc_Nam đạt được kết_quả quan_trọng ở tầm được công_bố tại tạp_chí vật_lý hạng nhất quốc_tế .
+Trong vật_lý_hạt_nhân việc nghiên_cứu hai đại_lượng mật_độ mức và hàm lực phóng_xạ đã trở_thành đề_tài then_chốt , bởi chúng có vai_trò quan_trọng trong việc tìm_hiểu quá_trình tổng_hợp hạt_nhân trong vũ_trụ , cũng_như công_nghệ sản_xuất năng_lượng hạt_nhân và xử_lý chất_thải hạt_nhân .
+Lĩnh_vực trên được đẩy_mạnh từ năm 2000 , sau khi các nhà_vật_lý thực_nghiệm tại Đại_học Oslo ( Na_Uy ) đề_xuất một phương_pháp cho_phép đồng_thời chiết trích xuất được cả hai đại_lượng này , từ phổ sơ_cấp phân_rã gamma thu được trong cùng một thí_nghiệm .
+Tuy_nhiên phương_pháp trên có những bất_định trong quá_trình chuẩn_hóa .
+Từ trước tới nay chưa có một lý_thuyết thống_nhất đủ khả_năng mô_tả đồng_thời một_cách vi_mô cả hai đại_lượng này .   Vì
+vậy việc xây_dựng cơ_sở lý_thuyết nhất_quán để hiểu hai đại_lượng trở_thành nhu_cầu cấp_thiết .
+Trong công_trình nghiên_cứu của mình , nhóm nhà_khoa_học Việt đã lần đầu_tiên xây_dựng được một mô_hình lý_thuyết cho_phép mô_tả đồng_thời cả hai đại_lượng là mật_độ mức và hàm lực phóng_xạ .
+" Mô_hình của chúng_tôi có giá_trị ở chỗ nó là mô_hình vi_mô và nhất_quán , mô_tả tốt các số_liệu thực_nghiệm mà không cần phả đưa thêm bất_cứ một tham_số mới nào , cũng_như không hề phải hiệu_chỉnh tham_số theo nhiệt_độ hay năng_lượng tia_gamma " , ông Nguyễn_Đình_Đăng cho_biết .
+Bài báo được ba tác_giả gửi đến tạp_chí Physical_Review_Letters ngày 13/9/2016 và trải qua ba vòng phản_biện với ba phản_biện kín là các chuyên_gia hàng_đầu thế_giới trong cùng lĩnh_vực nghiên_cứu .
+Tại các vòng phản_biện , cả ba phản_biện đều công_nhận bài báo thỏa_mãn tiêu_chí thứ 2 của tạp_chí là " nghiên_cứu giải_quyết , hoặc làm những bước căn_bản để giải_quyết , những vẫn đề cấp_thiết đang tồn_tại " .
+TS Nguyễn_Quang_Hưng cho_biết , yêu_cầu khắt_khe của tạp_chí khiến giai_đoạn viết bản_thảo là khó_khăn nhất .
+Bài báo phải thật ngắn_gọn , không vượt quá 3.750 từ nhưng vẫn truyền_tải đầy_đủ nội_dung , ý_nghĩa và tầm quan_trọng .
+Bên_cạnh đó ngôn_ngữ thể_hiện phải chuẩn_xác và trong_sáng .
+" Chúng_tôi đã mất 90 ngày để hoàn_thiện bản_thảo đầu_tiên của bài báo " , ông Hưng nói .
+Physical_Review_Letters là tạp_chí quốc_tế hạng nhất trong các tạp_chí vật_lý và toán_học trên thế_giới .
+5 năm gần đây tỷ_lệ được đăng ở tạp_chí này là khoảng 30% , tức_là cứ cứ 10 bài gửi đăng thì 7 bài bị loại .
+Một bài báo để được công_bố trên tạp_chí Physical_Review_Letters , phải đạt được một trong 3 tiêu_chí .
+Thứ nhất , công_trình nghiên_cứu phải mở ra một lĩnh_vực mới , hoặc những lộ_trình nghiên_cứu mới trong một lĩnh_vực đã thiết_lập , ảnh_hưởng quan_trọng tới nghiên_cứu trong các lĩnh_vực khác .
+Thứ_hai , công_trình nghiên_cứu phải giải_quyết , hoặc làm những bước căn_bản để giải_quyết , những vẫn đề cấp_thiết đang tồn_tại .
+Thứ_ba , công_trình nghiên_cứu phải trình_bày một kỹ_thuật mới , hoặc một phương_pháp_luận mới , đóng vai_trò then_chốt trong nghiên_cứu vật_lý trong tương_lai và có những hệ_quả rõ_ràng trực_tiếp cho các nhà_vật_lý .

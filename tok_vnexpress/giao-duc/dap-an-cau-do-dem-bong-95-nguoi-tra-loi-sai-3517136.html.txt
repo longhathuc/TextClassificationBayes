@@ -1,0 +1,13 @@
+Đáp_án câu_đố đếm bóng 95% người trả_lời sai
+Độc_giả đưa ra nhiều kết_quả , cho thấy câu_đố đếm bóng trong tháp thực_sự gây tranh_cãi .
+Đề_bài : Tháp bóng trong bức tranh được xếp_bằng bao_nhiêu quả bóng ?
+Rất khó để đếm được số_lượng bóng của tháp bóng , nhưng các bạn có_thể tính_toán như sau :
+Quan_sát sẽ thấy , đây là một tháp bóng có đáy là hình_vuông .
+Ta có :
+Số_lượng bóng ở tầng đáy là 4 x 4 = 16 .
+Số_lượng bóng ở tầng thứ_hai là 3 x 3 = 9 .
+Số_lượng bóng ở tầng thứ_ba là 2 x 2 = 4
+Số_lượng bóng ở tầng trên cùng là 1 .
+Như_vậy , tổng_số bóng là 16 + 9 + 4 + 1 = 30 .
+Thanh_Tâm
+> > Câu_đố đếm bóng 95% người trả_lời sai

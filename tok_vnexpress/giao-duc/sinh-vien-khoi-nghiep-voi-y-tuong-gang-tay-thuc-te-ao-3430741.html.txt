@@ -1,0 +1,8 @@
+Sinh_viên khởi_nghiệp với ý_tưởng găng_tay thực_tế ảo
+Nhóm sinh_viên Đại_học FPT chọn găng_tay tương_tác thực_tế ảo làm dự_án kinh_doanh đầu_tay của mình .
+Cho rằng ngành Công_nghệ thực_tế ảo ( Virtual_Reality ) đang có tiềm_năng phát_triển , nhóm Touchable với bốn thành_viên Nguyễn_Minh_Nhựt , Phạm_Trung_Hiếu , Lê_Thị_Diễm_Xuân , Nguyễn_Nhật_Tân , sinh_viên Đại_học FPT đã chọn công_nghệ thực_tế ảo làm đề_tài tham_gia cuộc_thi khởi_nghiệp Start-up Uni 2016 .
+Theo Nguyễn_Minh_Nhựt - thành_viên của nhóm thì Touchable_Virtual_Reality hướng đến nhiều đối_tượng ở các lĩnh_vực .
+Những sinh_viên đang thực_tập giải_phẫu tử_thi - một công_việc cần đòi_hỏi rất nhiều yếu_tố bên ngoài như môi_trường , người hiến tặng ; kỹ_sư , kiến_trúc_sư muốn trải_nghiệm bản_vẽ trên thực_tế của chính mình hay game thủ muốn cảm_nhận việc cầm súng trên tay hay cảm_giác đảo xe trên đường đua đầy chướng_ngại_vật ... đều có_thể dùng thiết_bị này .
+Thực_tế ảo ( Virtual_Reality ) là môi_trường được vận_hành bằng máy_tính giúp mô_phỏng các sự_vật và hiện_tượng theo thời_gian_thực và tương_tác với người sử_dụng qua tổng_hợp các kênh cảm_giác .
+Đây là ngành công_nghệ được Mark_Zuckerburg tin_tưởng cho nền_tảng công_nghệ kế_tiếp trong tương_lai .
+N.Loan

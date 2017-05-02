@@ -1,0 +1,36 @@
+Các hãng công_nghệ phản_ứng trước tiết_lộ của WikiLeaks
+Sản_phẩm của một_số hãng công_nghệ như Apple , Samsung , Microsoft được cho là bị Cơ_quan Tình_báo Trung_ương Mỹ ( CIA ) âm_thầm khống_chế và nghe lén từ lâu .
+Từ ngày 7/3 , WikiLeaks công_bố hàng nghìn tài_liệu về một chương_trình theo_dõi ngầm , mô_tả chi_tiết việc CIA đã sử_dụng những công_cụ hack để nghe lén smartphone và microphone trên các dòng TV thông_minh như_thế_nào .
+CIA tuyên_bố " không bình_luận về tính xác_thực hay nội_dung của các tài_liệu tình_báo có chủ_đích " .
+Tuy_nhiên , họ cũng nói thêm rằng , ngay cả khi tài_liệu đó là thực thì nhiệm_vụ của các cơ_quan tình_báo là " theo_dõi " , ít_nhất là theo_dõi những người bên ngoài nước Mỹ .
+Ảnh : Reuters
+Trong khi đó , Apple nhanh_chóng ra thông_báo rằng đa_số lỗ_hổng i OS được đề_cập trong tài_liệu đã được họ vá trong phiên_bản mới nhất .
+Hãng cũng đang tiếp_tục xử_lý những lỗi còn tồn_tại .
+" Công_nghệ tích_hợp trên i Phone hiện_nay là công_nghệ bảo_mật dữ_liệu tốt nhất dành cho người dùng .
+Sản_phẩm và phần_mềm của chúng_tôi được thiết_kế để nhanh_chóng đem đến những cập_nhật bảo_mật tới khách_hàng .
+Gần 80% người sử_dụng cũng đang dùng phiên_bản hệ_điều_hành mới nhất " , Apple nhấn_mạnh .
+Ngoài việc khẳng_định các lỗ_hổng i OS đang tiếp_tay cho CIA giám_sát người sử_dụng i Phone , WikiLeaks cũng nói CIA đã tạo mã độc nhắm vào những PC chạy hệ_điều_hành Windows .
+" Chúng_tôi biết về vụ_việc và đang xem_xét vấn_đề " , phát_ngôn_viên của Microsoft cho_hay .
+Dòng TV thông_minh của Samsung cũng bị CIA biến thành các thiết_bị nghe lén thông_qua chương_trình có tên Weeping_Angel .
+TV trông như đã tắt nhưng thực_ra vẫn đang lắng_nghe những âm_thanh xung_quanh .
+" Bảo_vệ sự riêng_tư của khách_hàng và trang_bị bảo_mật cho thiết_bị là ưu_tiên hàng_đầu của chúng_tôi .
+Chúng_tôi đang gấp_rút kiểm_tra " , đại điện Samsung cho_hay .
+Tài_liệu cũng nói CIA tạo " hệ_thống kiểm_soát và tấn_công " để khống_chế những máy_tính sử_dụng phần_mềm Linux .
+" Linux là hệ_điều_hành phổ_biến thế_giới nên không có gì ngạc_nhiên nếu các tổ_chức từ nhiều quốc_gia nhắm vào Linux cũng_như những nền_tảng khác để tìm cách kiểm_soát " , Nicko van Someren , Giám_đốc công_nghệ tại Linux_Foundation , nhận_định với BBC .
+" Tuy_nhiên , các lỗ_hổng cũng sẽ được cộng_đồng mã mở cập_nhật và vá lỗi nhanh_chóng " .
+Google từ_chối bình_luận về việc CIA đang " thâm_nhập và kiểm_soát " điện_thoại Android thông_qua các lỗ_hổng zero day ( lỗ_hổng chưa được công_bố trước đó ) .
+Danh_sách thiết_bị , công_nghệ được cho là bị CIA theo_dõi
+Tuy_nhiên , theo CBSNews , có_vẻ các   công_cụ được nhắc đến trong tài_liệu không phải để theo_dõi đại_trà mà nhắm tới những nhóm người hay những tổ_chức , doanh_nghiệp cụ_thể .
+Nói cách khác , không phải tất_cả TV hay thiết_bị công_nghệ_cao của người dùng phổ_thông đều nằm trong tầm ngắm .
+" Không ngạc_nhiên nếu đây chỉ là công_cụ nhắm đến thiết_bị của những người cụ_thể nào_đó " ,   Matt_Blaze , nhà_khoa_học máy_tính tại Đại_học Pennsylvania ( Mỹ ) , cho_hay .
+Dù_vậy , nguy_cơ bị theo_dõi , dù là từ cơ_quan tình_báo của các nước hay từ tin_tặc , thông_qua các thiết_bị điện_tử đã được khuyến_cáo từ lâu .
+Hồi giữa tháng 2 , việc Tổng_thống Mỹ_Donald_Trump bật flash điện_thoại để " soi " tài_liệu mật đã khiến giới bảo_mật sửng_sốt và lo_ngại .
+" Không có smartphone nào an_toàn 100% " , chuyên_gia James_Lyne của công_ty bảo_mật Sophos ( Anh ) khẳng_định với CNN .
+Kẻ tấn_công luôn tìm ra kẽ hở để cài_đặt phần_mềm theo_dõi trên càng nhiều thiết_bị càng tốt , như lừa người dùng bấm vào một link chứa mã độc hay tải một ứng_dụng trông có_vẻ vô_hại nhưng cho_phép kích_hoạt các bộ_phận trong máy như camera , microphone ...
+" Bất_cứ thiết_bị gì có tính_năng kết_nối Internet hay thoại thì đều có nguy_cơ bị tấn_công " ,   Robert M . Lee , CEO công_ty bảo_mật Dragos , khuyến_cáo .
+Để đảm_bảo không trở_thành nạn_nhân , bạn chỉ có cách ngắt hoàn_toàn các kết_nối , tháo pin thiết_bị và tốt nhất_là không mua chúng .
+Còn nếu vừa muốn sử_dụng thiết_bị vừa muốn hạn_chế nguy_cơ , người dùng nên chăm_chỉ   cập_nhật phần_mềm mới nhất , không bấm vào các đường link hay mở file đính kèm trong email nếu chưa đảm_bảo chúng an_toàn .
+Trong khi đó , đối_với các tổ_chức , doanh_nghiệp , lời khuyên từ đại_diện Fujitsu là thường_xuyên tiến_hành rà_soát những thiết_bị điện_tử như smartphone , máy_tính ... hoạt_động trong hệ_thống , trang_bị công_cụ bảo_mật đáng tin_cậy , sửa_chữa và kiểm_soát các điểm kết_nối với các hệ_thống , ứng_dụng , chức_năng và dữ_liệu .
+Mỗi cá_nhân đảm_nhận nhiệm_vụ an_toàn thông_tin phải cập_nhật kiến_thức an_ninh mạng , rèn_luyện kỹ_năng phòng_chống , đối_phó với các phương_thức tấn_công mới nhất .
+Trong bối_cảnh chiến_tranh mạng đang diễn ra , hệ_thống mạng thông_tin của các cơ_quan , tổ_chức quan_trọng sẽ là mục_tiêu xâm_nhập của tin_tặc và của cả các tổ_chức tình_báo .
+Nguy_cơ mất an_ninh , an_toàn thông_tin , lộ sẽ ngày_càng nghiêm_trọng nếu_không có giải_pháp phòng , chống hữu_hiệu .

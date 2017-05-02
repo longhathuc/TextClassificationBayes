@@ -1,0 +1,14 @@
+Mạng_Internet ở Đức bị tấn_công
+Hơn 900.000 router tại Đức đã bị tấn_công cuối tuần qua , khiến hàng trăm_nghìn người không_thể truy_cập mạng Internet trong nhiều giờ , nguyên_nhân có_thể là do botnet Mirai .
+Theo Register , vụ_việc xảy_ra trong hai ngày 27 và 28/11 , những router bị tấn_công thuộc nhà mạng Deutsche_Telekom của Đức , đến từ hai thương_hiệu Zyxel và Speedport .
+Những router này đều mở sẵn port 7547 – port cho_phép các nhà mạng quản_lý thiết_bị từ xa nếu cần_thiết .
+Số_lượng router bị tấn_công trải khắp nước Đức .
+Vụ tấn_công không_chỉ mất hoặc gián_đoạn kết_nối Internet , mà dịch_vụ điện_thoại cố_định cũng_như các dịch_vụ truyền_hình của Deutsche_Telekom bị ngưng_trệ .
+Trong bản báo_cáo chính_thức , nhà mạng lớn nhất nước Đức cho_biết , kẻ tấn_công đã cố_tình cài vào mã độc nhằm ngăn người dùng kết_nối tới mạng Internet được cung_cấp bởi công_ty này .
+Tuy_nhiên , hãng từ_chối cung_cấp thông_tin malware đã tấn_công họ .
+Deutsche_Telekom sau đó đã cung_cấp bản vá đến khách_hàng .
+Theo khuyến_cáo , người dùng nên tắt router khoảng 1 phút , sau đó khởi_động lại thiết_bị để router có_thể nhận bản cập_nhật firmware mới nhất .
+Ngoài_ra , người dùng nên thay_đổi mật_khẩu modem và mật_khẩu Wi-Fi , đề_phòng trường_hợp bị hacker đánh_cắp .
+Mặc_dù không tiết_lộ thông_tin về mã độc , nhưng theo một_số nhà_nghiên_cứu an_ninh mạng độc_lập của Đức , có_thể cuộc tấn_công trên đã được thực_hiện bởi một trong những biến_thể của Mirai - phần_mềm độc_hại có khả_năng tạo ra mạng botnet để thực_hiện DDoS từ các thiết_bị IoT ( Internet of Thing ) .
+Được một nhóm hacker công_bố đầu tháng 10 , Mirai đã khiến nhiều trang_web lớn của thế_giới bị vô_hiệu_hóa không_thể truy_cập , cũng_như khiến Liberia bị " sập mạng " đầu tháng 11 vừa_qua .
+Bảo_Lâm

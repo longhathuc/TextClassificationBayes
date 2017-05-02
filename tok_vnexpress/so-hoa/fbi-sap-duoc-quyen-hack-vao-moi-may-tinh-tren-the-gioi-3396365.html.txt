@@ -1,0 +1,11 @@
+FBI sắp được quyền hack vào mọi máy_tính trên thế_giới
+Tòa_án Tối_cao Mỹ đã thông_qua sửa_đổi luật cho_phép Cục Điều tra Liên_bang ( FBI ) được phép bẻ_khóa máy_tính của bất_kỳ ai , ở bất_kỳ đâu và vào mọi lúc .
+Ban_đầu , Điều 41 nêu , một thẩm_phán tại New_York ( Mỹ ) chỉ có_thể ủy_quyền cho FBI hack vào máy_tính của nghi phạm ở New_York .
+Tuy_nhiên , theo luật sửa_đổi đã được Tòa_án Tối_cao Mỹ phê_chuẩn thì thẩm_phán được phép ban_hành lệnh khám_xét với những máy_tính bên ngoài thẩm_quyền của mình .
+Theo The HackerNews , thay_đổi này sẽ khiến FBI dễ_dàng tấn_công vào bất_kỳ máy_tính hay mạng Internet nào , ở bất_kỳ đâu trên thế_giới .
+Nếu_Quốc hội Mỹ không đưa ra phản_ứng , Điều 41 với sửa_đổi trên sẽ có hiệu_lực từ tháng 12 năm nay .
+" Những sửa_đổi này sẽ tác_động đáng_kể tới quyền riêng_tư của công_dân Mỹ và phạm_vi quyền_hạn của chính_phủ trong việc giám_sát các thiết_bị điện_tử từ xa " , Thượng nghị sỹ Ron_Wyden_Oregon cho_biết .
+" Với đề_xuất này , chính_phủ có quyền truy_cập và tìm_kiếm thông_tin trên hàng nghìn , thậm_chí là hàng triệu máy_tính " .
+Giới công_nghệ cũng tỏ ra quan_ngại trước thay_đổi của Điều 41 .
+Google cho rằng Quốc_hội cần xem_xét thận_trọng vì sửa_đổi này dẫn tới sự thay_đổi cơ_bản của luật .
+Nó đặt ra vô_số lo_ngại phức_tạp về mặt hiến_pháp , pháp_luật cũng_như chính_trị .

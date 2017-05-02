@@ -1,0 +1,8 @@
+Đáp_án bài_toán ' Tom và Jerry '
+Nhiều độc_giả giải đúng với kết_quả Tom mất ít_nhất 18 USD tiền thưởng cho Jerry .
+Do đạt thành_tích dạy cho chuột Mickey biết đếm từ 1 đến 10 nên chuột Jerry được mèo Tom thưởng .
+Tom lấy ra 10 tấm bìa có đánh_số 1 , 2 , 3 , … , 10 và xếp thành một vòng_tròn .
+Jerry sẽ được quyền chọn ra 3 tấm bìa liên_tiếp rồi cộng các số trên đó lại .
+Con_số thu được chính là số USD mà Tom thưởng cho Jerry .
+Hãy giúp Tom xếp các tấm bìa để cho_dù Jerry chọn_lựa phương_án tốt nhất , Tom cũng sẽ tốn ít tiền thưởng nhất .
+Giải :

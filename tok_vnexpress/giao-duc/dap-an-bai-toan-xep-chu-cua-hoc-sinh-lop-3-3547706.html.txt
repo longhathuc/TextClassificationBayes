@@ -1,0 +1,12 @@
+Đáp_án bài_toán xếp chữ của học_sinh lớp 3
+Chỉ cần quan_sát và suy_luận đơn_giản , bạn đã có_thể đưa ra đáp_án bài_toán xếp chữ dành cho học_sinh lớp 3-4 .
+Đề_bài :
+Eve đã sắp_xếp những tấm thẻ thành một hàng như hình dưới đây .
+Với mỗi lần đi , Eve được phép đổi chỗ hai tấm thẻ bất_kỳ .
+Hỏi_Eve cần ít_nhất bao_nhiêu lần đi để được từ KANGAROO ?
+Đáp_án :   3 lần .
+So với chữ KANGAROO thì các thẻ trên bị sai mất 6 vị_trí chữ_cái được tô dưới đây :
+Chú_ý : Mỗi mũi_tên hai chiều chỉ vào hai chữ_cái chính là hai chữ_cái đổi chỗ cho nhau .
+Vậy_Eve cần ít_nhất 3 lần đi để được từ KANGAROO .
+Trần_Phương
+> > Bài_toán ' lát sàn ' lớp 7 có_thể khiến bạn gặp khó > > Thử tài suy_luận với bài_toán về những chú sóc

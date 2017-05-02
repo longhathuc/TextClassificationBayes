@@ -1,0 +1,17 @@
+Tại_sao vũ_trụ không sụp_đổ sau vụ nổ Big_Bang
+Theo các mô_hình vật_lý chính_xác nhất hiện_nay , vũ_trụ chắc_chắn phải sụp_đổ ngay sau khi phình ra từ vụ nổ Big_Bang .
+Vấn_đề nằm ở hạt Higgs boson , được sinh_ra trong thời_gian vũ_trụ bắt_đầu phình ra và giúp giải_thích lý_do các hạt khác có khối_lượng .
+Những nghiên_cứu trước_đây chỉ ra , trong vũ_trụ sơ_khai , các trường Higgs có_thể dao_động đủ lớn để vượt qua rào_cản năng_lượng , đưa vũ_trụ chuyển từ trạng_thái chân_không tiêu_chuẩn tới trạng_thái chân_không năng_lượng âm .
+Quá_trình chuyển_dịch này có_thể khiến vũ_trụ nhanh_chóng sụp_đổ vào bên trong của nó .
+Nhà_vật_lý Matti_Herranen tại Đại_học Copenhagen , Đan_Mạch , và các cộng_sự đã tiến một bước gần hơn để giải_thích vấn_đề .
+Trong nghiên_cứu mới công_bố hôm 8/12 trên tạp_chí Physical_Review_Letters , nhóm nghiên_cứu của Herranen xác_định cường_độ tương_tác của trường Higgs và trường hấp_dẫn , thông_số cuối_cùng còn thiếu trong mô_hình chuẩn .
+Theo các nhà_khoa_học , trường Higgs tương_tác với trường hấp_dẫn càng mạnh thì năng_lượng dao_động càng lớn , và có_thể đạt tới ngưỡng cần_thiết cho quá_trình chuyển_dịch sang trạng_thái chân_không năng_lượng âm .
+Trong nghiên_cứu mới , các nhà_khoa_học tính_toán sự sụp_đổ của vũ_trụ sau khi nở rộng chỉ xảy_ra khi cường_độ tương_tác có giá_trị lớn hơn một .
+Việc tìm ra giới_hạn cho cường_độ tương_tác giữa trường Higgs và trường hấp_dẫn sẽ giúp các nhà_vật_lý phân_tích số_liệu thực_nghiệm với độ_chính_xác cao hơn .
+Dữ_liệu về bức_xạ nền điện_từ và sóng hấp_dẫn của vũ_trụ sẽ tiếp_tục giúp thu_hẹp phạm_vi của cường_độ tương_tác .
+Khi kết_hợp với các thông_số khác , cường_độ tương_tác giữa trường Higgs và trường hấp_dẫn sẽ giúp các nhà_nghiên_cứu chứng_minh vũ_trụ không chuyển sang trạng_thái sụp_đổ như các mô_hình hiện_nay .
+" Kết_quả của chúng_tôi là sự kết_hợp chặt_chẽ giữa các thông_số , cho_phép xác_định nếu quá_trình vũ_trụ chuyển trạng_thái diễn ra , bao_gồm tương_tác trường Higgs và trường hấp_dẫn , quy_mô năng_lượng từ quá_trình nở rộng của vũ_trụ , điều các phép đo hiện_tại không_chỉ ra được " , Herranen cho_biết trên Phys_Org .
+" Vì_vậy , hiện_nay chúng_ta không_thể đưa ra kết_luận về việc liệu mô_hình chuẩn có vấn_đề hay không , nhưng sẽ rất thú_vị nếu tương_tác giữa trường Higgs và trường hấp_dẫn cũng_như quy_mô nở rộng của vũ_trụ được xác_định chính_xác hơn trong tương_lai bằng phép đo độc_lập .
+Ví_dụ như bằng cách quan_sát các sóng hấp_dẫn nguyên_thủy sinh_ra bởi sự nở rộng của vũ_trụ " .
+Những giá_trị này sẽ giúp các nhà_khoa_học điều_chỉnh mô_hình vật_lý để mô_tả vũ_trụ chính_xác hơn .
+Thanh_Tùng

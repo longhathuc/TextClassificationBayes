@@ -1,0 +1,39 @@
+So_sánh LG_G5 và G4
+G5 đã thay_đổi hoàn_toàn so với G4 về thiết_kế , hệ_sinh_thái phụ_kiện cũng_như tính_năng .
+Thiết_kế
+LG_G5 được thiết_kế lại hoàn_toàn với chất_liệu kim_loại và kính thay_vì nhựa và da như trên G4 .
+Cụm phím bấm cứng cũng được thay_đổi , thay_vì sử_dụng phím cứng gồm nút nguồn và âm_lượng nằm ở mặt sau quen_thuộc ở G4 , LG đưa phím âm_lượng về vị_trí quen_thuộc là cạnh trái máy , còn phía sau chỉ có nút nguồn được tích_hợp cảm_biến vân tay .
+Trong khi G4 có_mặt lưng tháo rời để gắn sim , thẻ nhớ hay thay pin , trên G5 , LG sử_dụng thiết_kế dạng mô - đun độc_đáo cho_phép tháo rời phần đế để gắn sim , thẻ nhớ và lắp các mô - đun chuyên_dụng để chụp ảnh , nghe nhạc .
+LG_G5 có thiết_kế mạnh_mẽ và hiện_đại hơn đồng_thời dễ_dàng sử_dụng bằng một tay hơn so với G4 .
+Màn_hình
+Giống G4 , G5 sử_dụng màn_hình IPS Quantum_Dot có độ_phân_giải QHD .
+Tuy_nhiên , kích_thước màn_hình của G5 giảm xuống còn 5,3 inch .
+Màn_hình trên cả hai model đều thể_hiện hình_ảnh chi_tiết và sắc nét nhưng màn_hình của G5 có độ bão_hoà màu lớn đi kèm với góc nhìn rộng và màu đen gần_như hoàn_hảo giống như các màn_hình Amoled .
+Ngoài_ra , LG cũng mang tính_năng " Always_On_Display " từ V10 sang G5 bằng cách điều_chỉnh đèn nền của model này .
+G5 luôn hiển_thị các thông_báo về ngày , tháng hay các ứng_dụng có thông_báo đến .
+Mặt kính cũng được thiết_kế lại tạo nên vẻ liền mạch với thân máy .
+Bên_cạnh đó , độ sáng màn_hình của model mới đạt đến mức 850 nit cao hơn nhiều so với mức 500 nit trên G4 , cho_phép sử_dụng dễ_dàng dưới nguồn sáng mạnh .
+Giao_diện sử_dụng
+LG_G5 và G4 đều chạy hệ_điều_hành Android 6.0.1 mới nhất với giao_diện tuỳ biến của hãng .
+Màn_hình Home trên G5 thoạt nhìn không có nhiều khác_biệt so với trước_đây với các biểu_tượng được làm phẳng và vuông_vắn .
+Tuy_nhiên , LG đã loại_bỏ nút truy_cập vào ứng_dụng mà mang hết ra ngoài màn_hình chính giống như trên i OS .
+LG cũng loại_bỏ tính_năng side by side cho_phép chạy đa_nhiệm 2 cửa_sổ cùng lúc và chỉ cho_phép ứng_dụng Q-Slide chạy đa_nhiệm , tuy_nhiên thay_đổi này không ảnh_hưởng đến những người dùng thông_thường .
+Giao_diện mới của LG đơn_giản hơn và giúp người dùng dễ_dàng tiếp_cận với sản_phẩm .
+Phần_cứng
+LG trang_bị cho G5 phần_cứng mạnh_mẽ với công_nghệ mới nhất : chip xử_lý 4 nhân 64-bit Qualcomm_Snapdragon 820 , GPU Adreno 530 , RAM_LPDDR4 4GB .
+Với chip xử_lý mới , LG_G5 có_thể xử_lý dễ_dàng các ứng_dụng thực_tế ảo , bản_thân hãng cũng đưa ra một kính thực_tế ảo kết_nối với G5 thông_qua cổng USB Type C .
+Còn G4 được trang_bị chip xử_lý Snapdragon 808 , RAM_LPDDR3 3GB cấu_hình này đủ để đáp_ứng phần_lớn các tác_vụ của người dùng , tuy_nhiên , với các ứng_dụng 3D phức_tạp máy có hiện_tượng lag hay thiết_lập đồ_hoạ thấp đi .
+Giống như G4 , G5 cũng có bộ_nhớ_trong 32 GB và đều có_thể mở_rộng bằng thẻ nhớ , nhưng trên G5 , LG sử_dụng chuẩn UFS nhanh hơn nhiều so với e MMC 5.0 như trên G4 .
+Người dùng có_thể cảm_nhận sự khác_biệt đáng_kể về tốc_độ khi load ứng_dụng hay trò_chơi từ thẻ nhớ trên G5 so với G4 .
+Camera
+LG_G5 được trang_bị camera kép , tuy_nhiên , không giống trên smartphone của HTC , camera thứ_hai của G5 không dùng để tạo ra hiệu_ứng bokeh đẹp mà ứng_dụng từ hệ_thống camera kép phía trước trên V10 để tạo ra hình_ảnh có góc chụp siêu rộng .
+Còn camera trước của máy có độ_phân_giải 8 megapixel .
+Trong khi đó , G4 chỉ có duy_nhất một máy_ảnh 16 megapixel ở phía sau , kết_hợp cùng hệ_thống lấy nét laser và đèn flash led .
+LG_G4 cho hình_ảnh đẹp và tự_nhiên , chế_độ chỉnh tay cho_phép người dùng can_thiệp vào thông_số của máy .
+Bên_cạnh đó , máy cũng có khả_năng chụp ảnh RAW .   Camera trước của G4 có độ_phân_giải 5 megapixel .
+Cả hai model máy có khả_năng quay_phim 4K và chế_độ chỉnh tay khi quay_phim .
+LG_G5 không phải là bản nâng_cấp của G4 mà một sự khởi_đầu mới hoàn_toàn cho G_Series .
+G5 có thiết_kế hoàn_toàn khác so với các sản_phẩm trước_đây mà trong đó , thiết_kế kiểu mô - đun là điểm đặc_sắc và thú_vị nhất .
+Tuy_nhiên , việc bỏ đi chế_độ đa_nhiệm trong giao_diện người dùng có_thể sẽ là điểm trừ dù giao_diện này đã được làm đơn_giản và dễ sử_dụng hơn .
+LG vẫn chưa công_bố mức giá bán của sản_phẩm , nếu giá rẻ hơn so với đối_thủ , G5 sẽ tạo được sức cạnh_tranh khác với G4 trong năm nay .
+Huy_Đức Huyduc@vnexpress.net

@@ -1,0 +1,27 @@
+Cho hạ giá tên_miền ' . vn ' để cạnh_tranh với ' . com '
+Bộ Tài chính vừa chấp_nhận cho hạ giá thu phí đăng_ký và sử_dụng tên_miền quốc_gia “ . vn ” nhằm thu_hút nhiều người dùng hơn trong bối_cảnh tên_miền quốc_tế vẫn được nhiều ưa_chuộng .
+Theo Thông tư số 208/2016 của Bộ Tài chính , từ đầu năm sau , mức thu , chế_độ thu , nộp , quản_lý và sử_dụng phí , lệ_phí tên_miền quốc_gia " . vn " sẽ có nhiều thay_đổi .
+Cụ_thể , theo quy_định hiện_hành , nhà đăng_ký không được thu cao hơn mức quy_định trong biểu phí của Bộ Tài chính .
+Số tiền thu được phải chuyển về Trung_tâm Internet_Việt_Nam ( VNNIC ) và nhà đăng_ký sẽ nhận lại hoa_hồng tối_đa là 30% .
+Tuy_nhiên , kể từ 1/1/2017 , biểu phí , lệ_phí đăng_ký duy_trì một_số đuôi tên_miền đã giảm .
+Nhà đăng_ký không còn được nhận hoa_hồng nhưng được phép thiết_lập   mức giá đăng_ký và duy_trì tên_miền cao hơn quy_định trong biểu phí để bù_đắp chi_phí và có lãi , nhưng không vượt quá mức trần quy_định .
+Theo ông Đỗ_Quang_Trung - Trưởng chi_nhánh VNNIC tại TP_HCM thì chính_sách này giúp tạo sự cạnh_tranh về giá giữa các nhà đăng_ký , xóa ranh_giới về giá giữa tên quốc_gia “ . vn ”   và các tên_miền quốc_tế .
+“ Mức phí của tên_miền quốc_gia Việt_Nam ' . vn ' quy_định tại Thông_tư 208 đã tiệm_cận , thậm_chí là rẻ hơn mức phí của tên_miền quốc_tế như ' . com ' hay ' . net ' .
+Như_vậy , ranh_giới mức phí khởi_điểm của tên_miền ' . vn ' với mức phí các tên_miền quốc_tế khác về cơ_bản đã đồng_nhất .
+Đây có_thể nói là bước chủ_động hội_nhập về phí và lệ_phí tài_nguyên Internet , phá vỡ các rào_cản , tạo bước đột_phá để phát_triển Internet cũng_như công_nghệ_thông_tin , thương_mại_điện_tử ” , ông Trung nhận_định .
+Theo biểu giá mới được công_bố , mức giá_sàn được Bộ Tài chính đưa ra khi đăng_ký tên_miền " . vn ” là 200.000 đồng , phí duy_trì hàng năm là 350.000 đồng .
+Các tên_miền cấp 3 dưới tên_miền cấp 2 dùng chung như : edu.vn ; gov.vn ; info.vn … có phí đăng_ký và duy_trì lần_lượt là 120.000 đồng và 150.000 đồng .
+Cá_biệt tên_miền cấp 3 là name . vn có phí đăng_ký và duy_trì rất thấp , chỉ 30.000 đồng .
+Các tên_miền tiếng Việt có dấu vẫn áp_dụng chính_sách đăng_ký và duy_trì miễn_phí .
+Bảng giá đăng_ký   vài đuôi   tên_miền được ưa_chuộng của một nhà đăng_ký .
+So với hiện_tại , phí đăng_ký và sử_dụng năm đầu của tên_miền “ . vn ” được các nhà đăng_ký tên_miền lớn tại Việt_Nam chào_giá là 830.000 đồng .
+Phí duy_trì các năm tiếp_theo dao_động trên 400.000 đồng .
+Trong khi đó , phí đăng_ký của các tên_miền quốc_tế lại rất rẻ , giá thông_thường chỉ 280.000 đồng cho năm đầu và hơn 300.000 đồng phí duy_trì cho các năm sau .
+Tuy_nhiên , các tên_miền như “ . com ” và “ . net ” còn đang được khuyến_mại với giá đăng_ký hiện chỉ lần_lượt là 99.000 đồng và 79.000 đồng .
+Đứng ở góc_độ nhà đăng_ký tên_miền , ông Huỳnh_Ngọc   Duy -   CEO công_ty   Mắt_Bão cho rằng , chính_sách mới sẽ giúp kéo giá tên_miền “ . vn ” xuống nhưng không tác_động nhiều đến nhu_cầu thị_trường .
+“ Tôi cho rằng , với chính_sách giá mới , lượng đăng_ký tên_miền . vn có tăng nhưng không quá nhiều vì người đăng_ký khi chọn tên_miền còn chú_ý đến nhiều yếu_tố khác như độ phổ_dụng của tên_miền chẳng_hạn .
+Với mức giá tên_miền quốc_gia và quốc_tế không còn chênh_lệch nhiều thì người_ta vẫn thường có xu_hướng chuộng tên_miền quốc_tế hơn ” , ông Duy nhận_định .
+Một yếu_tố khác khiến tên_miền “ . com ” và “ . net ” ‘ đắt hàng ’ hơn tên_miền “ . vn ” là do sự thuận_tiện .
+Nhiều cá_nhân , tổ_chức vẫn cho rằng trình_tự , thủ_tục yêu_cầu đăng_ký tên_miền quốc_gia vẫn dài_dòng và phức_tạp hơn tên_miền quốc_tế .
+Tuy_nhiên , VNNIC cho_biết , lợi_thế của tên_miền quốc_gia là người dùng được bảo_mật cao , tốc_độ truy_vấn nhanh và không lo bị mất tên_miền sau khi đăng_ký sử_dụng vì cơ_quan_chức_năng có_thể can_thiệp hỗ_trợ lấy lại tên_miền nếu_không may bị chiếm quyền sử_dụng trái_phép .
+Viễn_Thông

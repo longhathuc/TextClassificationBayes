@@ -1,0 +1,16 @@
+Google giới_thiệu robot ' gây ác_mộng '
+Boston_Dynamics , công_ty_con của Google , ra_mắt robot 4 chân với tên gọi Handle và có khả_năng làm nhiều người khiếp_sợ .
+Boston_Dynamics , công_ty phát_triển robot có biệt_danh " nhà_máy sản_xuất ác_mộng " , vừa ra_mắt mẫu robot hỗn_hợp mới có hai bánh_xe và 4 cánh_tay mang tên Handle .
+Robot này có_thể đứng vững trên 4 chân , tương_tự các mẫu trước đó của Boston_Dynamics như BigDog và Spot .
+Tuy_nhiên , phần cuối hai chi sau của robot này được gắn thêm bánh_xe , giúp nó đứng thẳng và di_chuyển với vận_tốc 14,5 km / h .
+" Kẻ hủy_diệt trên ván trượt " chính là ấn_tượng ban_đầu về Handle , Guardian ngày 28/2 đưa tin .
+Boston_Dynamics cho_biết việc thiết_kế hỗn_hợp giữa bánh_xe và 4 chân là để đơn_giản_hóa quá_trình nghiên_cứu chế_tạo .
+Các khớp nối phức_tạp của một robot 4 chân có_thể được loại_bỏ .
+Cặp bánh_xe phía sau giúp robot di_chuyển một_cách dễ_dàng , trong khi hai chân trước được dùng để cân_bằng và có_thể nâng được tải_trọng lên đến 50 kg .
+" Handle sử_dụng động_cơ , thiết_bị cân_bằng và điều_khiển chuyển_động từng gặp trên các thế_hệ robot trước_đây của chúng_tôi .
+Nhưng nó chỉ có 10 khớp nối cử_động , khiến quá_trình vận_hành đơn_giản hơn rất nhiều .
+Bánh_xe hoạt_động rất hiệu_quả trên bề mặt_phẳng , trong khi các chi có_thể di_chuyển trên mọi địa_hình .
+Việc kết_hợp hai cơ_chế này cho_phép Handle trở_nên đa_năng hơn những thế_hệ robot cũ " , đại_diện Boston_Dynamics cho_biết .
+Tuy_nhiên , video không cho thấy Handle di_chuyển bằng các chi mà chỉ lăn trên hai bánh_xe .
+Trước đó , ông Marc_Raibert , người sáng_lập Boston_Dynamics , đã mô_tả về Handle như một robot sẽ khiến mọi người vô_cùng khiếp_sợ .
+Tử_Quỳnh

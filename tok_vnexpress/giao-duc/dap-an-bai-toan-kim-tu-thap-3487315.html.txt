@@ -1,0 +1,3 @@
+Đáp_án bài_toán kim_tự_tháp
+Với học_sinh lớp 3 , đây là một bài_toán khó .
+Với người_lớn , bài_toán không khó nhưng cần nhiều thời_gian để tìm ra quy_luật .

@@ -1,0 +1,12 @@
+' Ảo_thuật ' đi trên chất_lỏng
+Khi tạo được chất_lỏng phi Newton từ bột ngô , bạn có_thể biểu_diễn màn chạy nhảy trên chất_lỏng khiến trẻ bất_ngờ và hứng_thú với khoa_học .
+Bạn cần một thùng đựng nước_lớn , bột ngô , nước và một_đôi giày cũ .
+Thực_hiện : Đổ nước vào thùng .
+Cho bột ngô vào thùng nước với tỷ_lệ nước và bột ngô tương_đương .
+Bạn có_thể sử_dụng que để khuấy bột và nước với nhau .
+Khi hỗn_hợp càng lúc càng đặc , hãy dùng tay để vò những viên bột bón cục trong nước .
+Thí_nghiệm này khiến bạn phải chấp_nhận lấm_lem một_chút nhưng kết_quả rất đáng để thử .
+Dùng tay đấm mạnh vào hỗn_hợp này , bạn sẽ cảm_nhận được độ quánh dẻo .
+Đi giày vào và thử chạy qua , nhảy lên nhảy xuống trên hỗn_hợp , nó có độ lún nhất_định nhưng bạn sẽ không bị chìm .
+Giải_thích : Hỗn_hợp bột ngô - nước là chất_lỏng phi Newton , có độ nhớt không tuân theo định_luật Newton , có_nghĩa độ nhớt này không phải hằng_số và có_thể thay_đổi tùy tác_động của nhiều yếu_tố .
+Khi nhảy lên hỗn_hợp , bạn tác_động lực khiến bột ngô quánh lại như chất_rắn , do_vậy không bị chìm .

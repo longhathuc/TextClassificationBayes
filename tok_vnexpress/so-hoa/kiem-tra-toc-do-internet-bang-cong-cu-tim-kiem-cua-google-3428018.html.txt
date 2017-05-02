@@ -1,0 +1,13 @@
+Kiểm_tra tốc_độ Internet bằng công_cụ tìm_kiếm của Google
+Google tích_hợp tính_năng đo tốc_độ Internet trên thiết_bị của người dùng vào thanh công_cụ Search , giúp nhanh_chóng kiểm_tra đường truyền .
+Thành_viên Twitter   Pete_Meyers là một trong những người đầu_tiên phát_hiện tính_năng này .
+Có_vẻ Google vẫn đang thử_nghiệm giới_hạn trước khi triển_khai rộng_rãi cho tất_cả .
+Hãng này sử_dụng công_cụ của   Measurement_Lab , thành_lập năm 2009 , để thực_hiện việc đo_đạc .
+Google khẳng_định công_cụ sẽ kiểm_tra tốc_độ trong   chưa đầy   30 giây .
+Hiện_Google chưa đưa ra công_bố nào về tính_năng mới .
+Theo trang công_nghệ Verge , có_vẻ đây là " lời đáp trả " của Google với trang Fast.com của Netflix .
+Cách đây một tháng , Netflix đã mở website này để người sử_dụng đo tốc_độ kết_nối mạng .
+Người dùng máy_tính hay thiết_bị di_động chỉ cần mở trình_duyệt , gõ địa_chỉ trang_web trên và chờ một lúc để hệ_thống tính_toán , sau đó sẽ hiển_thị tốc_độ Internet hiện_tại .
+Fast sẽ hiển_thị tốc_độ đường truyền sau vài giây .
+" Tốc_độ Internet luôn thay_đổi và bị ảnh_hưởng bởi số_lượng người dùng khác trong một mạng , hay mức_độ nghẽn mạng trong từng thời_điểm .
+Fast là công_cụ để người dùng có_thể hiểu rõ hơn đường truyền Internet của mình , từ đó điều_chỉnh mức_độ sử_dụng cho phù_hợp " , đại_diện   Netflix chia_sẻ .

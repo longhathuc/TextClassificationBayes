@@ -1,0 +1,12 @@
+Cài_Windows trên MacBook có_thể gây hỏng loa
+Lỗi trình điều_khiển của Boot_Camp có_thể tạo ra các âm_thanh lạ , gây tổn_hại đến màng loa khi chạy Windows .
+Cài_Windows lên máy_tính MacBook có_thể gây ra lỗi .
+Theo Appleinsider , lỗi mới nhất của MacBook liên_quan đến việc sử_dụng Boot_Camp để cài_đặt và chạy Windows .
+Khi mới bắt_đầu sử_dụng hệ_điều_hành của Microsoft , nhiều âm_thanh kỳ_lạ phát ra từ máy và không phụ_thuộc vào mức âm_lượng .
+Nhiều người dùng báo_cáo loa của họ bắt_đầu bị hỏng sau đó .
+Màng loa bị rách hoặc âm_thanh bị méo_mó sau một thời_gian sử_dụng kể_cả khi đang chạy hệ_điều_hành OS X .
+Các chuyên_gia cho rằng âm_thanh lạ gây ra bởi một trình điều_khiển lỗi trong Boot_Camp của Apple .
+Tuy_nhiên , " Quả táo " hôm_qua đã tung ra bản cập_nhật mới để sửa lỗi này .
+Người dùng vì_vậy cần chú_ý nâng_cấp bản phần_mềm mới nhất trước khi cài_đặt Windows vào các máy MacBook .
+Với những mẫu MacBook đã bị hỏng loa , Apple đề_nghị người dùng đến các trung_tâm Apple_Store để kỹ_thuật_viên đánh_giá tình_trạng .
+Hãng sẽ thay_thế miễn_phí nếu xác_định do lỗi của trình Boot_Camp gây ra .

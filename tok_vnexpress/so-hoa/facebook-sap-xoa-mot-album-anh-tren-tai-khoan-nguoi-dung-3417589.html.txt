@@ -1,0 +1,12 @@
+Facebook sắp xóa một album ảnh trên tài_khoản người dùng
+Album ẩn mang tên Synced , đồng_bộ ảnh chụp từ điện_thoại lên Facebook , sẽ sớm bị khai_tử .
+Năm 2012 , Facebook triển_khai tính_năng cho_phép người dùng có_thể lựa_chọn tự_động đồng_bộ các bức ảnh có trên điện_thoại lên một thư_mục riêng .
+Mục_đích là để người dùng dễ_dàng truy_cập và chia_sẻ những bức ảnh đó bất_cứ khi nào họ muốn .
+Tuy_nhiên , tính_năng này sớm bị " thất_sủng " sau khi mạng xã_hội lớn nhất thế_giới cung_cấp ứng_dụng Moments .
+Đây là ứng_dụng lưu_trữ ảnh miễn_phí và có_thể tự_động nhận_diện khuôn_mặt để người dùng tag ( gắn tên ) bạn_bè vào ảnh .
+Nếu bạn_bè cũng sử_dụng Moments , ảnh được tag sẽ xuất_hiện trong bộ sưu_tập của họ .
+Những người dùng tính_năng Synced sẽ nhận được thông_báo album ảnh của họ sẽ bị xóa .
+Ảnh : CNN
+Do_đó , Facebook sẽ xóa mọi bức ảnh trước_đây được đồng_bộ ở thư_mục Synced ( chỉ những người từng kích_hoạt công_cụ này mới nhìn thấy thư_mục ) .
+Người dùng có_thể đăng_nhập vào Moments để chuyển ảnh sang trước ngày 7/7 .
+Nếu_không muốn dùng Moments , họ có_thể tải ảnh về máy_tính qua các bước sau :

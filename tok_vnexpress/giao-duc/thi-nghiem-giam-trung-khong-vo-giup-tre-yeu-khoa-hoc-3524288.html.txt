@@ -1,0 +1,13 @@
+Thí_nghiệm ' giẫm trứng không vỡ ' giúp trẻ yêu khoa_học
+Thí_nghiệm đơn_giản , dễ thực_hiện với trứng luôn có sẵn trong nhà_bếp có_thể khiến trẻ hứng_thú với khoa_học và gần_gũi với bố_mẹ nhiều hơn .
+Bạn cần hai khay trứng ( mỗi khay 10 quả ) , một túi rác , một xô nước , một bánh xà_phòng .
+Thực_hiện : Trải túi rác trên sàn nhà và đặt hai khay trứng lên đó .
+Kiểm_tra để thay_thế các quả nứt hoặc vỡ .
+Hãy chắc_chắn rằng tất_cả mặt hướng lên trên của các quả trứng đều giống nhau , cùng là mặt nhọn hoặc cùng là mặt tròn .
+Đặt một chân trần lên một khay trứng , đảm_bảo trọng_lượng trải đều lên 10 quả trứng .
+Bạn có_thể cần một người giữ trước khi đặt_chân kia lên khay trứng còn lại .
+Nếu thực_hiện đúng , bạn có_thể đứng hoặc thậm_chí rảo bước trên các khay trứng mà không hề khiến quả nào bị vỡ .
+Để tránh xảy_ra sai_sót , có_thể đặt một tấm ván mỏng hoặc gạch lát lên những quả trứng và bước lên đó .
+Giải_thích : Mọi người đều biết trứng rất dễ vỡ .
+Nhưng trong thực_tế , vỏ trứng rất cứng và có_thể chịu được trọng_lượng nặng .
+Cấu_tạo của một quả trứng rất đặc_biệt , chịu được áp_lực lớn với điều_kiện phân_bố đồng_đều trên toàn_bộ vỏ .

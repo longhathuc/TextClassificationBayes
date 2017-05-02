@@ -1,0 +1,14 @@
+Một hacker 15 tuổi tự nhận đã tấn_công website sân_bay Tân_Sơn_Nhất
+Hacker này cho_biết đã phát_hiện lỗ_hổng trên website của sân_bay Tân_Sơn_Nhất từ cách đây 9 ngày .
+Sau khi gửi cảnh_báo về lỗ_hổng tới quản_trị website nhưng không nhận được phản_hồi , tối_ngày 8/3 , hacker đã tấn_công trang_web tansonnhatairport . vn và để lại địa_chỉ liên_lạc .
+Người này tự nhận tên Duy , 15 tuổi , sống ở TP_HCM .
+Đến ngày 9/3 , trang_web của sân_bay Rạch_Giá và sân_bay Tuy_Hòa cũng bị thay_đổi giao_diện , để lại thông_tin về một hacker mang tên Dominic_Haxor .
+Lời nhắn của hacker trên trang_web của Cảng_hàng_không Tân_Sơn_Nhất .
+Duy cho_biết , cậu chỉ thực_hiện vụ tấn_công vào site của sân_bay Tân_Sơn_Nhất với mục_đích cảnh_báo về tình_trạng website có nhiều lỗ_hổng chưa được khắc_phục .   Đại
+diện Cục Hàng không cũng nhận_định việc hacker đột_nhập vào hệ_thống website của sân_bay mang tính_chất nhắc_nhở về bảo_mật của trang_web , không có mục_đích phá_hoại .
+Tuy_nhiên , ông Ngô_Tuấn_Anh , Phó_chủ_tịch Bkav , cho rằng khi phát_hiện lỗ_hổng , hacker này cần tuân_thủ đúng quy_trình cảnh_báo , tránh tấn_công vào hệ_thống , vô_tình vi_phạm pháp_luật .
+" Nếu cứ thực_hiện cảnh_báo thông_qua hành_động hack thì có_thể gây ra những hậu_quả lớn , không lường trước được " , ông Tuấn_Anh nhận_định .
+Cục Hàng không không bình_luận gì về hacker này .
+Một_số chuyên_gia bảo_mật cho_biết , việc website hàng_không bị tấn_công không phải sự_cố lớn bởi mỗi ngày có hàng chục trang_web bị đánh sập bằng cách khai_thác lỗ_hổng .
+Những lỗ_hổng này chủ_yếu xuất_phát từ việc thiếu quy_trình kiểm_tra đánh_giá cũng_như kinh_nghiệm về lập_trình an_toàn của đội_ngũ lập_trình_viên .
+Một nghiên_cứu đã được công_bố của Bkav cho thấy có tới 40% website Việt_Nam tồn_tại lỗ_hổng , còn thống_kê của Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) , Việt_Nam ghi_nhận hơn 134.000 vụ tấn_công mạng trong năm 2015 với 3 hình_thức phổ_biến gồm lừa_đảo phishing , cài mã độc và tấn_công đổi giao_diện deface .

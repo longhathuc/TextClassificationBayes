@@ -1,0 +1,14 @@
+Việt_Nam chế_tạo thiết_bị giám_sát các nguồn phóng_xạ di_động
+Thiết_bị giám_sát của Đại_học Bách_Khoa_Hà_Nội sẽ giúp kiểm_soát và quản_lý nguồn phóng_xạ , đặc_biệt là loại di_động ngoài hiện_trường .
+Trước tình_trạng mất nguồn phóng_xạ ở nhiều nơi , tiềm_ẩn nguy_cơ xấu tới đời_sống người_dân , Bộ Khoa học và Công_nghệ đã đặt_hàng Đại_học Bách_Khoa_Hà_Nội chủ_trì thiết_kế chế_tạo hệ_thống giám_sát nguồn phóng_xạ từ tháng 10/2014 .
+Sau hai năm thực_hiện , nhóm thực_hiện đề_tài " Nghiên_cứu và phát_triển hệ_thống quản_lý và giám_sát từ xa các nguồn phóng_xạ theo thời_gian_thực " , tạo ra sản_phẩm là hệ_thống quản_lý và giám_sát nguồn phóng_xạ di_động ( BKRAD ) .
+Với chức_năng cảm_biến - truyền_thông - cảnh_báo , hệ_thống   BKRAD giúp người dùng giám_sát từ xa nhanh_nhất về vị_trí cũng_như trạng_thái hoạt_động của nguồn phóng_xạ .
+Việc giám_sát có_thể thực_hiện qua Internet hoặc điện_thoại thông_minh .
+Khi nguồn phóng_xạ hoạt_động hoặc di_chuyển , BKRAD sẽ gửi dữ_liệu trực_tuyến về trung_tâm theo_dõi với chu_kỳ 30 giây/lần .
+Nếu nguồn phóng_xạ không hoạt_động , BKRAD sẽ tự_động chuyển về chế_độ tiết_kiệm năng_lượng và gửi dữ_liệu 60 phút/lần .
+Khi   nguồn phóng_xạ lưu kho , BKRAD sẽ gửi dữ_liệu 10 tiếng/lần .
+Bên_cạnh đó , nó còn giúp tìm_kiếm nguồn phóng_xạ bị đánh_cắp hoặc thất_lạc .
+Tiến_sĩ Trần_Quang_Vinh , chủ_nhiệm đề_tài cho_biết , BKRAD được tích_hợp nhiều công_nghệ về định_vị , truyền_thông và cảm_biến tiên_tiến giám_sát liên_tục các nguồn phóng_xạ trong các điều_kiện môi_trường khác_nhau .
+Thiết_bị có kết_cấu cơ_khí chống bụi , nước , va_đập mạnh .   Pin được sạc có_thể sử_dụng trong 7 ngày , mỗi ngày khoảng 8-10 tiếng .
+Thiết_bị do Đại_học Bách_khoa tạo ra có_giá hơn 30 triệu đồng , bằng một_nửa so với sản_phẩm có tính_năng tương_đương từ nước_ngoài .
+Nghiên_cứu được Bộ Khoa học đánh_giá cao khi trải qua nhiều đợt thử_nghiệm đều đáp_ứng yêu_cầu .

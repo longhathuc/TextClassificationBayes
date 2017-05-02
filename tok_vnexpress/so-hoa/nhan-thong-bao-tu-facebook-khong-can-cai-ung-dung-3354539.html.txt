@@ -1,0 +1,17 @@
+Nhận thông_báo từ Facebook không cần cài ứng_dụng
+Trong những dịp lễ tết vốn hay phải di_chuyển , người dùng nên gỡ ứng_dụng Facebook khỏi smartphone để giúp thời_lượng pin điện_thoại kéo_dài hơn ít_nhất 20% .
+Facebook từ lâu đã bị chỉ_trích là ngốn quá nhiều năng_lượng trên thiết_bị di_động .
+Theo trang công_nghệ Android_Central , xoá ứng_dụng Facebook giúp cải_thiện 20% pin trên thiết_bị Android , còn trên i Phone là 15% .
+" Chúng_tôi đã nhận được những báo_cáo về việc điện_thoại nhanh hết pin do ứng_dụng Facebook chạy ngầm .
+Chúng_tôi đang xem_xét vấn_đề và hứa sẽ khắc_phục tình_trạng này " , phát_ngôn_viên Facebook khẳng_định .
+Trong lúc chờ_đợi , người dùng có_thể truy_cập trang Facebook.com trên trình_duyệt web di_động .
+Tuy trải_nghiệm không tốt như trên ứng_dụng , trong những trường_hợp mà việc duy_trì thời_lượng pin quan_trọng hơn thì đây cũng là giải_pháp thay_thế đáng lưu_ý .
+Dù truy_cập Facebook qua trình_duyệt , người dùng có_thể thực_hiện bước sau để nhận các thông_báo   ( notifications ) và không bỏ lỡ thông_tin từ bạn_bè :
+Truy_cập trang m . facebook.com trên trình_duyệt điện_thoại , đăng_nhập tài_khoản , sau đó vào phần Menu ( ba dấu_gạch_ngang ) .
+Chọn mục Account_Settings .
+Tìm đến phần Notifications .
+Chọn mục nhận thông_báo qua Mobile .
+Bật nút Turn_On để Facebook gửi thông_báo tới điện_thoại mỗi khi có cập_nhật mới .
+Phía dưới là rất nhiều tuỳ chọn khác_nhau như nhận thông_báo khi có tin nhắn , comment ...
+Châu_An
+( Ảnh : Huffington_Post )

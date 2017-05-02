@@ -1,0 +1,11 @@
+Đáp_án bài_toán ' thiết_kế tối_ưu cho hộp đựng sữa '
+Trong mô_hình hình_hộp_chữ_nhật thì hình_lập_phương là tiết_kiệm nhất , còn trong mô_hình hình_trụ thì hình_trụ có chiều_cao bằng đường_kính đáy là tiết_kiệm nhất .
+Đề_bài :
+Một công_ty muốn thiết_kế bao_bì để đựng sữa với thể_tích 1dm3 .
+Bao_bì được thiết_kế bởi một trong hai mẫu sau : hình_hộp_chữ_nhật có đáy là hình_vuông hoặc dạng hình_trụ và được sản_xuất cùng một nguyên_vật_liệu .
+Hỏi thiết_kế theo mô_hình nào sẽ tiết_kiệm được nguyên_vật_liệu nhất ?
+Và thiết_kế mô_hình đó theo kích_thước như_thế_nào ?
+Ở đây chúng_ta hiểu rằng chi_phí nguyên_vật_liệu sẽ tỷ_lệ với diện_tích toàn_phần của bao_bì .
+Và trong mỗi mô_hình , ta luôn chọn kích_thước bao_bì sao cho thể_tích hộp là 1dm3 và diện_tích toàn_phần là nhỏ nhất .
+Giải :
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

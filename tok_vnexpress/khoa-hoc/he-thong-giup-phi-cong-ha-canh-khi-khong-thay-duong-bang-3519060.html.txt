@@ -1,0 +1,16 @@
+Hệ_thống giúp phi_công hạ_cánh khi_không thấy đường_băng
+Nếu_không có hệ_thống dẫn đường tự_động , không phi_công nào có_thể hạ_cánh an_toàn trong điều_kiện tầm nhìn bằng_không .
+Sương_mù là một trong những yếu_tố nguy_hiểm nhất đối_với phi_công khi hạ_cánh .
+Trong điều_kiện sương_mù dày_đặc và tầm nhìn bằng_không , họ phải dựa vào hệ_thống trợ_giúp hạ_cánh ( ILS ) để đáp xuống sân_bay một_cách an_toàn , theo Popular_Mechanic .
+Hệ_thống ILS ( Instrument_Landing_System ) là tập_hợp các trạm phát tín_hiệu vô_tuyến được đặt gần sân_bay và dọc hướng tiếp_cận đường_băng .
+Nó cho_phép máy_bay hạ_cánh trong trường_hợp phi_công không_thể nhìn thấy đường_băng .
+Bộ thu trên máy_bay sẽ nhận tín_hiệu từ ILS , thông_báo cho phi_công khoảng_cách tới đầu đường_băng , cũng_như các thay_đổi về độ cao và hướng bay để có_thể bay an_toàn .
+Trong điều_kiện tầm nhìn thấp hoặc ban_đêm , phi_công sẽ dựa vào chỉ_dẫn của ILS để tự hạ_cánh .
+Nếu tầm nhìn quá kém , hệ_thống hạ_cánh tự_động sẽ được kích_hoạt .
+Máy_bay sẽ tự tìm đường tới đường_băng và hạ_cánh mà không cần người điều_khiển .
+Trong trường_hợp này , phi_công có nhiệm_vụ giám_sát thông_số của máy_bay và sẵn_sàng cho các tình_huống bất_ngờ .
+Quá_trình thử_nghiệm ILS bắt_đầu_từ năm 1929 tại Mỹ .
+Lần hạ_cánh đầu_tiên với sự trợ_giúp của ILS diễn ra ngày 26/1/1938 , khi chiếc Boeing 247D của hãng Pennsylvania_Central_Airlines đáp xuống thành_phố Pittsburgh giữa một trận bão_tuyết .
+Hệ_thống này được cho_phép lắp_đặt tại 6 sân_bay vào năm 1941 .
+Chuyến hạ_cánh tự_động đầu_tiên bằng ILS diễn ra_vào tháng 3/1964 tại sân_bay Bedford , Anh .
+Tử_Quỳnh

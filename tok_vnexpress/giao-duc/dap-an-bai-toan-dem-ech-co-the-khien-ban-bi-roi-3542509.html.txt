@@ -1,0 +1,20 @@
+Đáp_án bài_toán ' đếm ếch ' có_thể khiến bạn bị rối
+Đa_số độc_giả giải được bài_toán " đếm ếch " trong đề thi dành cho học_sinh lớp 3-4 .
+Cùng xem phần đáp_án để tìm_hiểu cách giải mới .
+Trong hình_vẽ , chúng_ta thấy một hòn đảo với hình_dáng kỳ_lạ và một_số chú ếch .
+Hỏi có bao_nhiêu chú ếch đang ở trên hòn đảo ?
+Đáp_án : 6 chú ếch .
+Cách 1 : Phương_pháp tô màu
+Biết cây dừa nằm trên hòn đảo nên ta có_thể tô màu xanh cho cả hòn đảo như hình_vẽ .
+Nhìn vào hình đã tô màu trên , dễ_dàng nhận ra có 6 chú ếch trên đảo ( mảng màu xanh ) .
+Cách 2 : Phương_pháp xác_định số giao_điểm
+Lấy một điểm A bất_kỳ ( thường lấy điểm nằm ngoài ) .
+Điểm khác tính_chất với A có số giao_điểm lẻ .
+Điểm cùng tính_chất với A có số giao_điểm chẵn .
+Từ mỗi chú ếch kẻ một tia ( nửa đường_thẳng mà gốc của nó trùng với vị_trí chú ếch ) .
+Đếm số giao diểm của tia với biên của đảo .
+Nếu chú ếch ngồi trên đảo thì số giao_điểm là số_lẻ , trái_lại là số_chẵn .
+Áp_dụng , ta thấy các chú ếch có tia màu xanh đang ngồi trên đảo .
+Như_vậy , có 6 chú ếch trên đảo .
+Trần_Phương
+> > Thử_thách suy_luận của bạn với bài_toán tính nhanh lớp 5 > > Đố bạn giải được bài_toán dành cho học_sinh lớp 1-2

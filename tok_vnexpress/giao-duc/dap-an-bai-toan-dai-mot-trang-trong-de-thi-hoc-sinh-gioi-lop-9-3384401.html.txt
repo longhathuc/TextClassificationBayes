@@ -1,0 +1,33 @@
+Đáp_án bài_toán dài một trang trong đề thi học_sinh giỏi lớp 9
+Nhiều học_sinh ( thậm_chí cả giáo_viên ) đã bất_ngờ khi gặp đề thi dài một trang trong kỳ thi học_sinh giỏi thành_phố , nhưng thực_chất cách giải bài_toán rất đơn_giản .
+Như chúng_ta đã thấy qua một số_đề toán AMC , Kangaroo , SASMO… các vấn_đề toán_học đằng sau bài_toán không quá khó , nhưng để giải được học_sinh phải đọc đề , rút trích được thông_tin và hiểu được bản_chất toán_học của câu_hỏi .
+Với học_sinh Việt_Nam vấn_đề này lại là khó_khăn , trong khi các em giải_quyết rất tốt các vấn_đề kỹ_thuật khó gấp nhiều lần .
+Vì_thế mà nhiều học_sinh ( thậm_chí nhiều thầy_cô_giáo ) đã gặp bất_ngờ khi gặp đề thi dài một trang sau đây ( bài số 6 trong số 6 bài_toán thi ) trong đề học_sinh giỏi lớp 9 của TP_HCM năm_học 2015-2016 .
+Mời bạn_đọc tham_khảo và cùng giải .
+Đề_bài :
+Chiều 13/3 , Công_ty khai_thác thủy_lợi hồ Dầu_Tiếng - Phước_Hòa cho_biết đã kết_thúc đợt xả nước đẩy mặn xuống sông Sài_Gòn .
+Đây là lần xả nước thứ 5 từ đầu năm , giúp người_dân Sài_Gòn đảm_bảo nước sinh_hoạt , phục_vụ nông_nghiệp .
+Đợt xả nước công_suất 30 m3 / s kéo_dài trong 3 ngày , mặn đã được đẩy ra các cửa_sông .
+Theo đơn_vị này , sau đợt xả , mực nước trong hồ cao khoảng 20 m , trữ_lượng gần 850 triệu m 3 .
+Tuy giúp các nhà_máy nước hạ_lưu hoạt_động được , nhưng nhiều chuyên_gia bày_tỏ lo_lắng bởi trữ_lượng tại các hồ đầu nguồn thấp trong khi dự_báo đợt hạn mặn có_thể kéo_dài đến tháng 5 .
+Hiện các hồ phải căn kéo trong việc xả nước đẩy mặn để phục_vụ cho nông_nghiệp và hoạt_động sản_xuất .
+Về nguyên_nhân xâm_nhập mặn , ông Phạm_Thế_Vinh - Viện_Khoa học Thủy_lợi miền Nam - cho rằng , hạn mặn diễn ra mạnh vì El_Nino kéo_dài khiến khu_vực Nam_bộ rất ít mưa .
+Ngoài_ra , việc triều_cường kéo_dài đến tháng 2-3 khiến nước_mặn đi_sâu vào các cửa_sông .
+Ông Bùi_Thanh_Giang - Phó_tổng giám_đốc Công_ty cấp_nước Sài_Gòn ( Sawaco ) - cho_biết , năm nay trữ_lượng nước về các hồ đầu nguồn giảm mạnh .
+Trong đó , lượng nước tích_trữ của hệ_thống hồ Dầu_Tiếng - Phước_Hòa trên thượng_nguồn sông Sài_Gòn hiện chỉ đạt khoảng 70% .
+Lưu_lượng của hồ Trị_An trên sông Đồng_Nai chỉ đạt khoảng 80% so với trung_bình hằng năm .
+Về giải_pháp lâu_dài , Sawaco kiến_nghị UBND_TP_HCM cho_phép xây_dựng hồ trữ nước thô cho nguồn nước sông Sài_Gòn với vốn thực_hiện từ ngân_sách .
+Ngoài_ra , đơn_vị cũng đề_xuất nâng cao công_nghệ xử_lý nước nhưng việc này đỏi hỏi chi_phí đầu_tư , vận_hành cao .
+( Nguồn_Vn Express.net ) .
+a ) Hãy cho_biết lượng nước mà hồ Dầu_Tiếng đã xả ra trong 3 ngày vừa_qua ?
+b ) Nếu tiếp_tục xả 20% lượng nước hiện có để ngăn mặn ( với tốc_độ xả như trên ) thì công_việc này sẽ mất khoảng bao_nhiêu ngày .
+Giả_sử việc xả nước chống mặn diễn ra liên_tục từ hôm_nay ( 22/3 ) đến hết ngày 15/5 , tính lượng nước mà hồ đã xả ra trong khoảng thời_gian này .
+Giải :
+Lời_giải thật_ra rất đơn_giản .
+Quan_trọng là ta đọc hiểu và rút ra được những thông_tin cần_thiết .
+Và trong các tình_huống   thực_tế , ta có_thể tự đặt ra các câu_hỏi như trên để đưa ra các hệ_quả từ các thông_tin thu_nhận được .
+Người_ta nói nghe 1 mà biết 2 , 3 chính là từ sự biết suy_diễn này .
+Trong chương_trình toán phổ_thông , chúng_ta đã quá chú_trọng vào các vấn_đề kỹ_thuật ( ví_dụ rút_gọn biểu_thức , giải phương_trình , chứng_minh bất_đẳng_thức ) mà bỏ trống mảng đọc hiểu , mô_hình_hóa .
+Chẳng thế_mà có học_sinh đã thốt lên “ Em đọc đề thấy nản luôn thầy ! ” .
+Chúng_ta hãy cùng xem đáp_án để thấy bài_toán này đơn_giản thế_nào .
+Đơn_giản mà vẫn hay , không_chỉ là nhờ tính thực_tế , mà_còn nhờ tính học_thuật : đọc hiểu , rút trích thông_tin cần_thiết và xử_lý thông_tin hợp_lý là kỹ_năng rất cần_thiết của mỗi người .

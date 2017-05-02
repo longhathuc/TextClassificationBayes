@@ -1,0 +1,10 @@
+Apple ra i OS 9.3.2 sửa lỗi cho i Phone SE
+Bản cập_nhật phần_mềm mới chủ_yếu vá các lỗ_hổng bảo_mật , sửa lỗi liên_quan đến kết_nối Bluetooth nhưng không có thêm nhiều tính_năng mới .
+Bản cập_nhật mới i OS 9.3.2 .
+Apple hôm_nay bắt_đầu cho người dùng i Phone , iPad tải về i OS 9.3.2 sau hơn một tháng thử_nghiệm rộng_rãi phiên_bản beta .
+Với dung_lượng gần 90 MB , các thay_đổi chủ_yếu nhắm đến việc vá lỗi thay_vì thêm các tính_năng mới .
+Trong đó đáng chú_ý nhất_là sửa lỗi kết_nối các phụ_kiện Bluetooth trên i Phone SE .
+Các cập_nhật khác được thông_báo bao_gồm sửa lỗi từ_điển , gõ địa_chỉ email trong Kana , VoiceOver .
+Tính_năng bật đồng_thời cả chế_độ tiết_kiệm pin và   Night_Shift ( chống hại mắt khi dùng ban_đêm ) cũng được tích_hợp sẵn .
+iOS 9.3.2 đã là bản cập_nhật thứ 8 cho phiên_bản i OS 9 sau i OS 9.0.1 , 9.0.2 , 9.1 , 9.2 , 9.2.1 , 9.3 và 9.3.1 .
+Trong đó , hai lần cập_nhật đầu_tiên cho 9.3 đều gặp phải những lỗi khá nghiêm_trọng .

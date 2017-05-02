@@ -1,0 +1,21 @@
+Tài_xế không thắt dây an_toàn túi khí vẫn bung
+Hệ_thống điều_khiển dây an_toàn và túi khí hoạt_động độc_lập , túi khí vẫn bung nếu vụ va_chạm đủ nguy_hiểm , đe_dọa tính_mạng người trên xe .
+Trong sự_kiện Toyota_Technology_Media_Trip tại Nhật_Bản từ 28/9 , chia_sẻ trước câu_hỏi của phóng_viên VnExpress về việc " Người ngồi trên xe không thắt dây an_toàn thì túi khí có bung ? " , ông   Hiroyuki_Fukui , giám_đốc điều_hành Toyota toàn_cầu kiêm chủ_tịch Toyota châu Á - Thái_Bình_Dương cho_biết hai hệ_thống này không liên_quan tới nhau , nếu vụ va_chạm đủ nguy_hiểm ảnh_hưởng tới tính_mạng , túi khí sẽ bung .
+Túi khí khi bung có tốc_độ lên tới 300 km / h , có_thể gây nguy_hiểm cho người ngồi trên xe , do_đó không phải cứ đâm là túi khí sẽ bung .
+Chỉ trong trường_hợp khắc_nghiệt nhất , khi xe nhận thấy vụ va_chạm nguy_hiểm , đe_dọa tính_mạng người trên xe , lúc này túi khí sẽ kích_hoạt , đảm_bảo hành_khách không đập mặt vào vô - lăng , bảng táp - lô hay kính lái .
+Để nhận_biết độ nguy_hiểm , xe dựa vào nguồn thông_tin mà các cảm_biến đặt phía trước , trên thân xe đưa về bộ_điều_khiển trung_tâm ECU .
+Những thông_tin đó là tổ_hợp của nhiều yếu_tố như gia_tốc dừng , độ hấp_thụ lực , độ biến_dạng , xê_dịch của các bộ_phận cố_định trên xe .
+Nếu ECU tính_toán , phân_tích nguồn thông_tin này cho ra kết_quả vụ va_chạm chưa đủ mạnh hoặc nguy_hiểm đến tính_mạng , túi khí sẽ không nổ .
+Tuy là hai hệ_thống độc_lập nhưng thực_tế chúng lại bổ_trợ cho nhau rất tốt .
+Nếu vụ đâm va đến từ nhiều góc khác_nhau , túi khí_nổ , nhưng người trên xe không thắt dây an_toàn thì cơ_thể bị lao sang các hướng , có_thể không trúng túi khí , lúc này tác_dụng của túi khí không_thể phát_huy .
+Ông Hiroyuki_Fukui cũng cho_biết , khi xảy_ra va_chạm , túi khí bung nhưng dây an_toàn không thắt thì độ hiệu_quả chỉ còn 50 % . Nghiên_cứu của Toyota cho_biết , tỷ_lệ người đi ôtô thắt dây an_toàn ở các nước Đông_Nam Á như Việt_Nam , Thái_Lan ... còn rất thấp , chỉ khoảng 20-30 % , trong khi đó con_số này tại Nhật gần_như tuyệt_đối .
+Toyota cũng_như hầu_hết các hãng xe Nhật đều có thiết_kế hai hệ_thống an_toàn này độc_lập .
+Một_số hãng châu Âu như   Volkswagen , BMW cũng có thiết_kế tương_tự .
+Nhưng_Mercedes lại có thiết_kế khác , phụ_thuộc nhau .
+Túi khí sẽ không bung nếu người trên xe không thắt dây an_toàn .
+Tuy_nhiên , để đảm_bảo an_toàn , trong trường_hợp xe nhận thấy va_chạm quá nguy_hiểm , dù không thắt dây an_toàn thì túi khí vẫn bung .
+Thiết_kế độc_lập hay phụ_thuộc , túi khí và dây an_toàn vẫn là hai hệ_thống an_toàn bị_động bổ_trợ nhau hiệu_quả nhằm đảm_bảo tính_mạng cho người ngồi trên xe .
+Tài_xế nên nhớ luôn thắt dây an_toàn và nhắc_nhở người đi cùng thắt dây an_toàn mỗi khi lên xe , bất_kể đi xa hay gần , nhanh hay chậm .
+Trước1 / 8 luật Việt_Nam quy_định , chỉ tài_xế và người ngồi ghế trước bắt_buộc phải thắt dây an_toàn nhưng từ 1/8 , nghị_định mới 46/2016 thay_thế 171/2013 quy_định , tất_cả mọi vị_trí trên xe nếu có trang_bị dây an_toàn thì buộc phải thắt , nếu_không tài_xế phải chịu phạt 100.000-200.000 đồng cho mỗi vị_trí .
+> > Xem thêm : Những hiểu nhầm của tài_xế Việt về túi khí
+Minh_Hy - Nguyễn_Nghĩa

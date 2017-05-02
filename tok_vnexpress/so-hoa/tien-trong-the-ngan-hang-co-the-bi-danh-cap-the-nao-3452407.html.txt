@@ -1,0 +1,38 @@
+Tiền trong thẻ ngân_hàng có_thể bị đánh_cắp thế_nào
+Dùng đầu_đọc thẻ giả để " nhân_bản " thẻ ATM hay đánh_cắp thông_tin tài_khoản giao_dịch trực_tuyến là hai hình_thức phổ_biến trộm tiền trong tài_khoản ngân_hàng .
+Một trong những thủ_đoạn yêu tích của tội_phạm công_nghệ_cao những năm gần đây là sử_dụng các thiết_bị để ghi lại thông_tin thẻ ATM ( skimmer ) .
+Thiết_bị này được chúng gắn vào khe đọc thẻ của máy ATM và bất_cứ ai giao_dịch trên đó thì thông_tin sẽ nhanh_chóng bị sao_chép mà người dùng không hề hay_biết .
+Một thiết_bị skimmer lắp tại máy ATM .
+Có_thể nói skimmer là hình_thức tấn_công bằng phần_cứng .
+Thiết_bị này được gắn đè lên khe đọc thẻ của máy ATM và thiết_kế rất tinh_vi , khó phân_biệt so với khe đọc thẻ thật .
+Khi đưa thẻ vào , dữ_liệu trên thẻ đi qua skimmer và bị sao_chép , trước khi đến đầu_đọc thẻ thật của máy ATM .
+Các giao_dịch của người dùng vẫn diễn ra bình_thường .
+Tội_phạm có_thể gắn camera để ghi lại quá_trình nhập mã PIN của nạn_nhân .
+Hoặc thiết_bị skimmer còn bao_gồm một bàn_phím giả ( keypad ) được đặt chồng lên bàn_phím thật .
+Mọi thao_tác của người dùng trên keypad đều bị ghi lại , dĩ_nhiên bao_gồm cả quá_trình nhập mã PIN .
+Máy quẹt thẻ bị đặt bộ đánh_cắp tiền chỉ trong 3 giây
+Khi có được dữ_liệu của " con mồi " tội_phạm đặt skimmer sẽ đến gỡ chúng ra , phục_vụ cho việc " nhân_bản " thẻ ATM .
+Hình_thức khác là thiết_bị sao_chép thẻ này có kết_nối không dây , sẽ truyền toàn_bộ thông_tin đánh_cắp được cho những kẻ lắp_đặt .
+Với việc có được thẻ ATM giống_hệt của người dùng và mã PIN , tội_phạm dễ_dàng rút_tiền và thực_hiện các giao_dịch từ tài_khoản của nạn_nhân .
+Hình_ảnh một_số thiết_bị skimmer
+Hình_thức thứ_hai để rút_tiền trong tài_khoản ngân_hàng là đánh_cắp thông_tin đăng_nhập Internet_Banking của nạn_nhân .
+Đây có_thể coi là cuộc tấn_công bằng công_nghệ , phần_mềm , tương_tự việc đánh_cắp tên tài_khoản và mật_khẩu của các dịch_vụ trực_tuyến khác .
+Một trang giả_mạo website của Vietcombank .
+Riêng trong trường_hợp này thì_có hình_thức phishing , tức_là lừa nạn_nhân đăng_nhập trên một hệ_thống giả , được thiết_kế có giao_diện tương_tự thực_thể thật .
+Đầu_tiên , hacker xây_dựng website giả_mạo với giao_diện tương_tự trang của ngân_hàng .
+Tiếp_theo , tội_phạm sẽ gửi email chứa đường link mạo_danh trên đến nạn_nhân , dụ họ đăng_nhập bằng các thông_tin hấp_dẫn như trúng thưởng , yêu_cầu cập_nhật thông_tin nếu_không tài_khoản sẽ bị khóa ...
+Nếu người dùng không để_ý , bấm vào đường link trên và thực_hiện đăng_nhập như bình_thường , thì thông_tin của khách_hàng sẽ được chuyển đến cho tin_tặc .
+Từ dữ_liệu thu_thập được , hacker có_thể truy_cập vào Internet_Banking của nạn_nhân và tiến_hành giao_dịch .
+Tùy từng ngân_hàng nhưng ngoài việc đăng_nhập thành_công thì đa_số các giao_dịch chuyển_tiền , mua_sắm trực_tuyến đều yêu_cầu người dùng xác_thực thêm một bước nữa_là OTP - mật_khẩu sử_dụng một lần .
+Tin_tặc có nhiều cách thể đánh_cắp thông_tin này từ nạn_nhân , lợi_dụng các kẽ hở của ngân_hàng hay hệ_thống mạng .
+Để tránh những hình_thức tấn_công trên , khách_hàng cần trang_bị kiến_thức và tự bảo_vệ mình .
+Với kiểu skimmer , người dùng cần lưu_ý khi thực_hiện giao_dịch tại các máy ATM , nhất_là các điểm lạ , không sử_dụng nếu phát_hiện các dấu_hiệu bất_thường .
+Phía ngân_hàng cũng đã triển_khai nhiều giải_pháp bảo_vệ khách_hàng , một trong số đó là lắp_đặt hệ_thống camera giám_sát .
+Trong khi đó với kiểu fishing , khách_hàng càng cần lưu_ý khi nhận được các email thông_báo .
+Kiểm_tra kỹ xem nội_dung là gì , địa_chỉ đường link có đúng là website của ngân_hàng không .
+Tốt hơn hết , hãy luyện thói_quen gõ trực_tiếp địa_chỉ của ngân_hàng thay_vì bấm thẳng vảo đường link , bởi phía sau đó có_thể ẩn_chứa mã độc .
+Trong ngày 4-5 / 8 , một khách_hàng ở Hà_Nội bị mất 500 triệu đồng trong tài_khoản Vietcombank .
+Theo trình_báo , số tiền này bị chuyển từ thẻ của nạn_nhân sang tài_khoản khác trong đêm , thẻ ATM của khách_hàng vẫn giữ trong túi và không thấy ngân_hàng gửi mã OTP ( mật_khẩu xác_thực một lần ) như thông_lệ .
+Phía_Vietcombank cho_biết , dựa trên thông_tin khách_hàng cung_cấp thì người này đã truy_cập đến một website giả_mạo có giao_diện tương_tự trang của ngân_hàng , sau đó khai_báo thông_tin trên đó .
+Bằng cách này , tài_khoản đã bị các đối_tượng nắm được tên và mật_khẩu , ông Triệu_Mạnh_Hùng , Cục cảnh_sát phòng_chống tội_phạm công_nghệ_cao ( C50 ) , Bộ Công an , nói .
+Video phát_hiện skimmer tại máy ATM :

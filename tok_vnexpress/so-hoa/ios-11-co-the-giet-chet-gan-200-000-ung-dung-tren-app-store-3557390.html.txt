@@ -1,0 +1,15 @@
+iOS 11 có_thể ' giết chết ' gần 200.000 ứng_dụng trên App_Store
+Khoảng 187.000 ứng_dụng 32-bit trên App_Store sẽ không_thể sử_dụng và bị loại_bỏ , do i OS 11 chỉ tương_thích hoàn_toàn với các ứng_dụng hỗ_trợ nền_tảng 64-bit .
+iOS 11 có_thể khiến gần 200.000 ứng_dụng trên App_Store bị " khai_tử " .
+Theo công_ty phân_tích và theo_dõi ứng_dụng Senser_Tower , trong phiên_bản i OS 10.3 beta mới nhất , Apple đã đưa vào thông_báo pop - up với nội_dung " ứng_dụng này sẽ không làm_việc với các phiên_bản tương_lai của i OS " nếu_như bật một ứng_dụng 32-bit bất_kỳ .
+Như_vậy , các ứng_dụng 32-bit sẽ không_thể sử_dụng trên các phiên_bản i OS trong tương_lai , gần nhất_là i OS 11 .
+Nền_tảng này dự_kiến ra_mắt vào tháng 9 năm nay , tại WWDC 2017 .
+Số_liệu của Senser_Tower cho thấy , có khoảng hơn 187.000 ứng_dụng trên App_Store chỉ hỗ_trợ 32-bit .
+Tuy_nhiên , con_số thực_tế có_thể lớn hơn , do vi_xử_lý 64-bit có_mặt từ tháng 9/2013 , nhưng phải đến tháng 6/2015 Apple mới yêu_cầu các nhà_phát_triển ứng_dụng hỗ_trợ nền_tảng 64-bit .
+Với động_thái này , Apple có_thể sẽ loại_bỏ rất nhiều ứng_dụng 32-bit đang đứng top , ứng_dụng nhiều người dùng cũng_như ứng_dụng xuất_hiện đầu_tiên trên App_Store .
+Người dùng những i Phone thế_hệ cũ như i Phone 4s , iPhone 5 ... sẽ là những người bị ảnh_hưởng , do chúng chỉ chạy vi_xử_lý 32-bit .
+Trước đó , theo tiết_lộ của CEO Tim_Cook , App_Store hiện có khoảng hơn 2,2 triệu ứng_dụng , tăng hơn 200.000 ứng_dụng so với tháng 6/2016 .
+Như_vậy , nếu i OS 11 ra_mắt và loại_bỏ ứng_dụng 32 bit , cửa_hàng ứng_dụng cho i OS sẽ mất khoảng 8,5% số_lượng ứng_dụng .
+Ý_tưởng i OS 11 phong_cách WatchOS :
+Ý_tưởng i Phone 8 màn_hình tràn viền chạy i OS 11 :
+Bảo_Lâm ( theo IBTimes )

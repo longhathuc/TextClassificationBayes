@@ -1,0 +1,36 @@
+Bảo_vệ tài_khoản email khỏi tin_tặc
+Sử_dụng mật_khẩu mạnh , cài_đặt xác_minh 2 bước , tránh đăng_nhập vào Wi-Fi công_cộng , không tải dữ_liệu từ nguồn không xác_định … là những cách đơn_giản nhưng hiệu_quả giúp tài_khoản email được an_toàn , tránh bị tin_tặc tấn_công .
+Ngày_nay , thư_điện_tử ( email ) đang trở_nên phổ_biến hơn bao_giờ hết bởi những tiện_ích mà nó mang lại , đặc_biệt là sự thuận_tiện , nhanh_chóng .
+Cũng chính vì điều đó , email được sử_dụng trong hầu_hết các hoạt_động của cá_nhân , doanh_nghiệp , các tổ_chức …
+Tuy_nhiên , do hoạt_động dựa trên môi_trường Internet , chúng thường bị kẻ xấu nhòm_ngó để đánh_cắp thông_tin cho mục_đích riêng , đặc_biệt là các tài_khoản liên_quan đến bí_mật kinh_doanh , những giao_dịch mua_bán , hoặc các thông_tin mật mà các cơ_quan , tổ_chức trao_đổi với nhau … Gần nhất , việc website Vietnam_Airline bị chiếm quyền được chuyên_gia an_ninh mạng nhận_định có liên_quan đến khả_năng tấn_công máy chủ_chứa e - mail quản_lý .
+Việc chiếm được email quản_lý cũng đồng_nghĩa với việc chiếm luôn tên_miền và những thành_phần khác , sau đó đánh_cắp thông_tin và thực_hiện một_số thay_đổi trên website , bao_gồm cả việc thay_đổi giao_diện như đã thấy .
+Dưới đây là những cách_thức để bảo_vệ tài_khoản email được an_toàn nhất :
+Sử_dụng mật_khẩu mạnh
+Mật_khẩu mạnh bao_gồm cả chữ ,   ký_tự đặc_biệt   và số .
+Mật_khẩu mạnh chưa hẳn là càng dài càng tốt .
+Điều đó không sai , nhưng để có_thể an_toàn nhất , mật_khẩu nên có cả chữ in hoa , chữ thường , ký_tự đặc_biệt và số .
+Nhiều người có thói_quen sử_dụng các mật_khẩu dễ nhớ như ngày_sinh , tên của mình , thậm_chí là mật_khẩu dễ đoán như 123456 , 111111 … Nếu email của bạn không có gì quan_trọng , bạn có_thể sử_dụng mật_khẩu đó , nhưng nếu dùng để trao_đổi thông_tin mật , giao_dịch ngân_hàng … thì đó là hành_động " tự dâng " dữ_liệu cho tin_tặc .
+Bên_cạnh đó , không nên sử_dụng một mật_khẩu cho nhiều tài_khoản , bởi chỉ cần biết một trong số đó , tin_tặc có_thể đăng_nhập vào các tài_khoản còn lại và đánh_cắp mọi thứ .
+Thiết đặt xác_minh 2 bước
+Xác_thực 2 bước giúp email an_toàn hơn .
+Hiện_nay , hầu_hết các dịch_vụ thư_điện_tử trực_tuyến đều có thêm tính_năng xác_thực 2 bước .
+Đây là biện_pháp bảo_mật bổ_sung giúp tài_khoản an_toàn hơn , bởi ngoài mật_khẩu thông_thường , tài_khoản sẽ   " đòi " thêm mã xác_minh được gửi về điện_thoại_di_động , thông_qua tin nhắn SMS .
+Với tính_năng này , kể_cả khi tin_tặc đánh_cắp được mật_khẩu vào email , chúng cũng không_thể đăng_nhập vào tài_khoản được vì không có mã xác_minh .
+Lúc này , bạn có_thể dễ_dàng phát_hiện được tài_khoản của mình đang gặp nguy_hiểm và điều quan_trọng nhất_là phải thay_đổi mật_khẩu ngay_lập_tức .
+Không đăng_nhập vào mạng Wi-Fi công_cộng để gửi email quan_trọng
+Wi-Fi hiện đã có ở khắp mọi nơi , từ quán cà_phê , nhà_hàng , quán_ăn … Không phủ_nhận sự tiện_lợi mà nó mang lại , tuy_nhiên chúng cũng tiềm_ẩn nguy_cơ bị đánh_cắp dữ_liệu , các tài_khoản trong đó có email .
+Wi-Fi công_cộng tiềm_ẩn nhiều rủi_ro .
+Cụ_thể , khi bạn đăng_nhập vào mạng Wi-Fi công_cộng , thiết_bị của bạn có_thể bị tin_tặc khác trên cùng mạng đó đột_nhập nếu cách bảo_mật không an_toàn .
+Nhưng ngay cả khi mã_hóa bằng các giao_thức bảo_mật , bạn cũng vẫn có_thể bị lừa thông_qua các phần_mềm , liên_kết độc_hại núp_bóng .
+Tất_nhiên , khi đột_nhập thành_công , không_chỉ tài_khoản email , mạng xã_hội … mà thậm_chí , chúng còn làm nhiều điều khác , như kích_hoạt camera , micro để quay và nghe lén .
+Theo thống_kê 1TB dữ_liệu bị đánh_cắp mỗi ngày , tương_đương 1 tỷ người bị đánh_cắp thông_tin đăng_nhập thông_qua Wi-Fi công_cộng .
+Do_đó , không nên thực_hiện các giao_dịch , gửi email quan_trọng trong khi đăng_nhập vào mạng này .
+Thay vào đó , nếu quá gấp , hãy sử_dụng mạng 3G/4G để được an_toàn .
+Không click vào các đường link lạ
+Đây là cách_thức tấn_công khá phổ_biến và đã được cảnh_báo từ lâu , tuy_nhiên vẫn có nhiều người nhẹ_dạ làm theo , hậu_quả là tài_khoản bị đánh_cắp , trong đó có cả tài_khoản email .
+Nếu_không cẩn_trọng với các đường link lạ , người dùng rất dễ sập bẫy của hacker .
+Cách_thức tấn_công của tin_tặc khá đơn_giản : chúng sử_dụng một địa_chỉ liên_kết tới phần_mềm độc_hại nhưng " núp_bóng " dưới các tiêu_đề gây tò_mò hoặc phần_mềm đáng tin_cậy .
+Khi người dùng click vào đó , lập_tức mã độc xâm_nhập vào hệ_thống mà người đó không hề hay_biết .
+Cuối_cùng , phần_mềm độc_hại âm_thầm chạy dưới nền máy_tính và ghi lại những thứ bạn nhập vào , hoặc đánh_cắp dữ_liệu và gửi về máy_chủ từ xa .
+Do_đó , với các email và liên_kết nghi_ngờ , tốt nhất người dùng không nên click vào , hoặc xác_thực độ tin_cậy của nó trước khi nhấp chuột .
+Bảo_Lâm

@@ -1,0 +1,21 @@
+4G LTE của Vinaphone đạt tốc_độ tải lên cao nhất Đông_Nam Á
+Các nhà mạng ở Việt_Nam sử_dụng công_nghệ 4G mới nhất , LTE-Advanced , trong điều_kiện tối_ưu , tốc_độ download tối_đa trên lý_thuyết của Vinaphone là 600 Mb/giây .
+Vinaphone đang thử_nghiệm 4G và kết_quả đo được trên Speedtest.net là 534 Mb/giây và đo bằng thiết_bị chuyên_dụng Netpersec cho tốc_độ ổn_định lên tới 588,61 Mb/giây .
+Với kết_quả này , Vinaphone trở_thành nhà mạng đầu_tiên tại Đông_Nam Á đạt tốc_độ 4G xấp_xỉ 600 Mb/giây .
+Ưu_điểm của 4G là độ trễ của dịch_vụ thấp , đặc_biệt vùng phủ_sóng ổn_định hơn hẳn so với 3G , mức tiêu_thụ nguồn của thiết_bị_đầu_cuối cũng thấp hơn , cùng đó thì tốc_độ của 4G cũng nhanh hơn từ 10 đến 20 lần so với 3G .
+Các thiết_bị di_động chạy 4G tại Việt_Nam đều cho kết_quả test ấn_tượng .
+Tại_Việt_Nam nếu muốn chuyển qua 4G người dùng phải đổi sim mới , nhà mạng Vinaphone đang cho_phép người dùng đổi sim miễn_phí .
+Tuy_nhiên , có một điều cần chú_ý là phạm_vi cung_cấp 4G tại TP_HCM của Vinaphone chỉ diễn ra ở khu_vực trung_tâm chứ chưa phủ rộng ra toàn thành_phố , vì_thế chỉ ở khu_vực trung_tâm có các trạm phát 4G , người dùng mới trải_nghiệm được dịch_vụ này .
+Bên_cạnh đó , tuỳ theo các thiết_bị mà người dùng sử_dụng sẽ cho ra tốc độc download khác_nhau .
+Khi thử_nghiệm thực_tế , các thiết_bị Android tương_thích tốt với mạng 4G trong đó các mẫu đời cao như Galaxy_Note 5 cho tốc_độ download tối_đa lên đến hơn 200 Mb/giây , các model tầm trung thì dao_động trên_dưới 100 Mb/giây .
+Riêng i Phone khi thử_nghiệm với sim 4G của Vinaphone có một_số trường_hợp không lên được sóng 4G .
+Đại_diện Vinaphone cho_biết khi thử_nghiệm với các mẫu i Phone kể_cả chính hãng và xách tay , các máy có hệ_điều_hành i OS dưới 9.2 sẽ có_thể lên sóng 4G LTE được còn các model đã update lên 9.2 chỉ lên được sóng 3G , tuy_nhiên , đây chỉ là kiểm_nghiệm từ nhà mạng chứ không phải thông_tin chính_thức từ Apple .
+Tốc_độ test thử tốc_độ tối_ưu của 4G tại Việt_Nam .
+Về mặt tốc_độ , công_nghệ 4G cho_phép tăng tốc_độ tải về ( download ) của thiết_bị lên đến 300 Mb/giây và đạt xấp_xỉ 1 Gb/giây đối_với LTE-Advanced .
+Trong khi đó , con_số này chỉ là 3 Mb/giây đối_với công_nghệ 3G hay 42 Mb/giây đối_với công_nghệ HSPDA và 168 Mb/giây đối_với công_nghệ HSPA+ .
+Tiếp_theo là hiệu_quả sử_dụng băng tần cao hơn so với công_nghệ 3G , công_nghệ 4G cho_phép ghép_nối các kênh tần_số nằm rải_rác trong phổ vô_tuyến .
+LTE thông_thường có_thể cung_cấp dữ_liệu bằng cách sử_dụng các block dữ_liệu liền kề của tần_số lên đến 20 MHz .
+LTE-Advanced cho_phép các nhà mạng kết_hợp các kênh rời_rạc , phân_tán ở các băng tần khác_nhau .
+Ví_dụ , có_thể kết_hợp hai kênh có độ rộng 10 MHz ở các tần_số 800 MHz và 1800 MHz riêng_biệt thành một kênh 20 MHz duy_nhất , cơ_bản tăng gấp đôi tốc_độ dữ_liệu khả_dụng cho người dùng .
+Nhờ khả_năng truyền dữ_liệu với tốc_độ cao và dung_lượng lớn , 4G đặc_biệt phù_hợp cho các dịch_vụ trực_tuyến như xem phim HD hoặc 4K , Video_Live_Streaming , truyền_hình hội_nghị HD , Game_Online , mua_sắm ảo ...
+Huy_Đức

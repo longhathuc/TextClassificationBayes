@@ -1,0 +1,22 @@
+Ứng_dụng di_động , ' đám mây ' giúp làm_nên thành_công Euro 2016
+Việc hàng triệu người xem Euro 2016 qua điện_thoại , máy_tính bảng , website … đang đặt ra thách_thức về cơ_sở_hạ_tầng CNTT cho UEFA , và chỉ có vận_hành trơn_tru nó , giải đấu mới tới đông người hâm_mộ .
+Cũng giống như huấn_luyện_viên âm_thầm mang lại thành_công cho đội bóng bằng quá_trình đào_tạo khi huấn_luyện và chiến_thuật hợp_lý khi thi_đấu , vai_trò của những người đứng đằng sau các đoạn video mà người hâm_mộ theo_dõi trên màn_hình cũng quan_trọng không kém .
+Theo Daniel_Marion , người đứng đầu mảng công_nghệ_thông_tin của UEFA , tiến_bộ của công_nghệ đang khiến bộ_phận ông phụ_trách gặp nhiều thách_thức .
+Xem bóng_đá trên các thiết_bị di_động đang là xu_hướng mới trong những năm gần đây .
+" So với năm 2012 , điện_thoại thông_minh , máy_tính bảng và các nội_dung di_động đã phát_triển vượt_bậc .
+4 năm trước , người hâm_mộ tìm_hiểu thông_tin Euro thông_qua điện_thoại , nhưng chỉ trong thời_gian ngắn , bởi giới_hạn về công_nghệ truyền_dẫn dữ_liệu .
+Nhưng hiện_tại , mọi người có_thể bỏ ra hàng giờ trên thiết_bị cầm tay của họ .
+Đây cũng là mục_tiêu cũng cấp nội_dung chính của chúng_tôi " , Marion nhấn_mạnh .
+UEFA đã cũng cấp rất nhiều ứng_dụng di_động , ưu_tiên 2 nền_tảng phổ_biến nhất_là i OS và Android .
+Ứng_dụng cũng rất đa_dạng , từ trực_tiếp trận đấu cho_đến thông_tin cầu_thủ , đội_hình ra sân , các trận đã đá … Chúng không_chỉ được xem trực_tuyến mà_còn có_thể hoạt_động ngoại_tuyến ( offline ) đề_phòng trường_hợp không_thể kết_nối Internet .
+Bên_cạnh đó , UEFA cũng lần đầu_tiên thử_nghiệm ứng_dụng mới cho_phép người hâm_mộ ở Lyon và Stade de France ( Paris ) đặt_hàng thực_phẩm và đồ uống từ các cửa_hàng thông_qua điện_thoại hoặc máy_tính bảng của họ .
+Thông_tin sẽ được lưu lại bằng môi_trường điện_toán đám mây riêng , phụ_trách bởi công_ty viễn_thông Interoute , đặt tại trung_tâm dữ_liệu tại Geneva và sao lưu ở Amsterdam .
+" Việc_làm này mang lại sự linh_hoạt và rất cần_thiết cho cả người dùng lẫn UEFA .
+Chúng_tôi cảm_thấy an_toàn hơn khi sử_dụng dịch_vụ điện_toán đám mây riêng , thay_vì thuê dịch_vụ bên ngoài .
+Ngoài_ra , chúng_tôi có kinh_nghiệm chạy các hệ_thống cốt_lõi theo cách này " , Marion cho_biết .
+Riêng về vấn_đề tin_tặc , Marion tiết_lộ rằng , nhóm của ông từng đánh_bật hàng trăm cuộc tấn_công trong thời_gian diễn ra Euro 2012 và sẽ lặp lại điều đó trong kỳ 2016 này .
+" Nhóm đã mời những chuyên_gia bảo_mật giỏi nhất đến từ các học_viện hàng_đầu châu Âu .
+Tất_nhiên , không có cơ_chế bảo_mật nào an_toàn 100% , nhưng chúng_tôi có các công_nghệ an_toàn nhất thế_giới " , Marion nói thêm .
+Hiện_tại , vẫn chưa ghi_nhận sự_cố nghiêm_trọng nào liên_quan đến công_nghệ_thông_tin tại Euro 2016 .
+Điều đó cho thấy bộ_phận này đang hoạt_động ổn_định để mang lại những trận cầu đỉnh_cao nhất , hiển_thị trên màn_hình TV , điện_thoại , máy_tính bảng … Tất_cả nhờ vào nỗ_lực không nhỏ của đội_ngũ ICT của UEFA .
+Bảo_Lâm ( theo V3 )

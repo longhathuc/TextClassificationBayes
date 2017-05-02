@@ -1,0 +1,35 @@
+Phần_mềm gián_điệp ngày_càng biến_tướng và nguy_hiểm
+Không_chỉ lây_nhiễm qua Internet hay thông_qua cài_đặt phần_mềm , một_số nhà_sản_xuất còn giấu sẵn spyware trên các thiết_bị ngay khi xuất_xưởng .
+Khi người dùng truy_cập các trang_web uy_tín nhưng liên_tục thấy những cửa_sổ mới mở ra ( pop-up ) , địa_chỉ trang_chủ trên trình_duyệt của bạn bị thay_đổi .
+Và ngay cả khi thiết_lập lại , khôi_phục cài_đặt mặc_định , tình_trạng trên vẫn tái_diễn .
+Rất có_thể máy_tính của bạn đã bị nhiễm phần_mềm độc_hại và khống_chế một_số quyền điều_khiển .
+Spyware có_thể theo_dõi mọi hoạt_động và khống_chế quyền điều_khiển máy_tính .
+Phần_mềm này được bí_mật cài_đặt lên máy_tính người dùng , thường chia làm hai loại : Các phần_mềm quảng_cáo bất_hợp_pháp ( adware ) và phần_mềm gián_điệp ( spyware ) .
+Xuất_hiện sau virus cả chục năm , vào những năm 1995 , adware và spyware ban_đầu chỉ có mục_đích phát_tán quảng_cáo và thu_thập các thông_tin để các công_ty thúc_đẩy , nâng cao hiệu_quả quảng_cáo trên Internet .
+Đến những năm 2002 , spyware " biến_tướng " theo hướng tiêu_cực , trở_thành các phần_mềm độc_hại và bị phát_tán rộng trên Internet .
+Spyware lúc này được biết đến là những phần_mềm gián_điệp , được thiết_kế độc_lập với mục_đích theo_dõi thông_tin người dùng .
+Giống như một loại " bệnh_dịch " , spyware nhanh_chóng lây_lan cho người dùng Internet ở khắp thế_giới .
+Theo Face Time_Communications , ước_tính hơn 80% trong tổng_số máy_tính_cá_nhân trên toàn thế_giới bị nhiễm phần_mềm gián_điệp .
+Spyware trở_thành mối đe_dọa với nhiều doanh_nghiệp và xâm_phạm nghiêm_trọng quyền riêng_tư của người dùng .
+Ban_đầu , spyware " chạy " vào máy_tính khi bạn cài_đặt một_số phần_mềm miễn_phí , các ứng_dụng bẻ_khóa ( crack , keygen ... ) một_cách thầm_lặng .
+Đó là lý_do mà các chuyên_gia bảo_mật vẫn luôn cảnh_báo : không có thứ gì hoàn_toàn miễn_phí , ngay cả trên Internet .
+Một_số máy_tính Lenovo cài sẵn phần_mềm hội_tụ đầy_đủ chức_năng của spyware .
+Các phần_mềm gián_điệp còn " đánh " vào sự hiếu_kỳ của người dùng khi liên_tục " nhảy " ra các thông_báo hấp_dẫn , yêu_cầu thực_hiện một_số bước để xem tiếp .
+Nếu bạn lơ_là , mất cảnh_giác mà làm theo thì rất có_thể máy_tính đã bị nhiễm phần_mềm gián_điệp .
+Những trang_web có nội_dung không lành_mạnh , web sex ... được coi là " ổ dịch " của virus và spyware khi 80% trong số đó ẩn chưa mối nguy_hiểm .
+Ngay cả khi cảnh_giác , dù không cài_đặt hay làm theo thì chỉ cần truy_cập là người dùng đã có nguy_cơ nhiễm spyware .
+Một_số phần_mềm gián_điệp khai_thác lỗ_hổng trên các trình_duyệt và chờ trực bạn ghé thăm là sẵn_sàng " chui vào " rồi " ẩn_náu " trong máy_tính .
+Không_chỉ xuất_hiện trên máy_tính , phổ_biến với các thiết_bị dùng hệ_điều_hành Windows , spyware còn có những phiên_bản được thiết_kế chạy trên điện_thoại thông_minh , máy_tính bảng .
+Nguy_hiểm hơn , một_số nhà_sản_xuất còn cài sẵn các phần_mềm theo_dõi trên sản_phẩm điện_tử trước khi xuất_xưởng .
+Trước_đây , spyware đi kèm các phần_mềm miễn_phí , những ứng_dụng bẻ_khóa và được coi là " cái giá phải trả " vì người dùng không mất tiền .
+Song việc cài sẵn phần_mềm độc_hại trên các thiết_bị còn chưa bóc hộp , từ những nhà_sản_xuất tên_tuổi , đặt ra thách_thức mới về quyền riêng_tư của người dùng .
+Spyware xuất_hiện trên cả điện_thoại thông_minh , máy_tính bảng .
+Với smartphone , tablet chứa phần_mềm gián_điệp , nó có khả_năng nghe lén các cuộc đàm_thoại , sao_chép danh_bạ và thư_viện ảnh , tải ứng_dụng rác vào máy , đọc và gửi SMS , vô_hiệu_hóa phần_mềm diệt virus , tra_cứu lịch_sử truy_cập web ...
+Do được nhà_sản_xuất cài sẵn nên các chuyên_gia bảo_mật đánh_giá : hầu_như người dùng thông_thường không nhận ra và spyware được lưu trong firmware nên rất khó để gỡ bỏ ...
+Xuất_phát từ mục_đích thu_thập thông_tin giúp_việc quảng_cáo trên Internet hiệu_quả hơn , spyware xuất_hiện và liên_tục biến_tướng , trở_thành công_cụ theo_dõi , đánh_cắp thông_tin người dùng .
+Theo thống_kê của Websense , khoảng 20% tổ_chức từng sử_dụng các công_cụ nhằm ghi lại các thao_tác trên bàn_phím ( keylogger , một dạng của spyware ) .
+Mặc_dù người dùng , đặc_biệt trong doanh_nghiệp đã được nâng cao ý_thức bảo_mật , song đây vẫn là mối nguy_hiểm lớn .
+Thống_kê cho thấy , hơn 90% doanh_nghiệp phải đối_đầu với phần_mềm gián_điệp và nguy_cơ rò_rỉ thông_tin .
+Theo Washington_Post , giới_chức Mỹ chỉ_trích các tổ_chức từ Trung_Quốc " tích_cực " trong việc xâm_nhập vào máy_tính nước khác để đánh_cắp bí_mật thương_mại , phục_vụ cho kinh_tế nước mình .
+Cục Điều tra Liên_bang Mỹ ( FBI ) tiết_lộ năm 2014 , các vụ gián_điệp kinh_tế tại nước này đã tăng 53% trong đó Trung_Quốc tham_gia tới một_nửa .
+Bảo_Anh

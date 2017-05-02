@@ -1,0 +1,15 @@
+Đo chất_lượng nước qua IoT và 4G
+Công_nghệ , cụ_thể là các giải_pháp Internet of Things ( IoT ) có_thể giúp đưa ra cảnh_báo hiệu_quả đối_với những vấn_đề ô_nhiễm nguồn nước .
+Những ngày qua , thông_tin về hải_sản chết dạt bờ ở một_số tỉnh miền Trung gây lo_lắng cho người_dân .
+Một trong những điều mọi người quan_tâm nhất_là nguyên_nhân cá chết bất_thường .
+Đại_diện   Ericsson cho_biết , ngay từ đầu năm 2016 , hãng này đã giới_thiệu giải_pháp Connected_Water với nhiệm_vụ giám_sát chất_lượng nước dựa trên kết_nối 4G/LTE và Internet of Things tại triển_lãm CES ( Mỹ ) .
+Ericsson và nhà mạng AT& T hợp_tác triển_khai giải_pháp giúp tổ_chức bảo_vệ sông Chattahoochee ở Atlanta kiểm_soát nước sông và cảnh_báo kịp_thời về sự ô_nhiễm .
+Lưu_vực sông này được sử_dụng để cung_cấp nguồn nước sinh_hoạt cho hơn 4.000 người_dân .
+Connected_Water cung_cấp thời_gian_thực thông_số quan_trọng về chất_lượng nước như độ sạch , lượng kim_loại nặng và liên_tục chuyển thông_số này qua đám mây và mạng di_động .
+Các thiết_bị cảm_biến đầu_tiên được đặt ở khu_vực đầu nguồn con sông tại Proctor_Creek .
+Dòng_chảy của con sông này ảnh_hưởng tới hơn 60.000 người_dân sinh_sống ở các khu_công_nghiệp , khu dân_cư , công_viên , trường_học quanh đó .
+Connected_Water đặt những cảm_biến giá_thành rất thấp vào dòng nước trong hệ_thống sông_hồ .
+Chúng có vai_trò đo và ghi_nhận thời_gian_thực các thông_số quan_trọng về chất_lượng nước như độ sạch , lượng kim_loại nặng và liên_tục chuyển thông_số này qua đám mây và mạng di_động thông_qua   công_nghệ LTE Low_Power_Wide_Area ( LSWA ) .
+Các thiết_bị này có tuổi_thọ pin rất lâu đảm_bảo tính hiệu_quả lâu_dài , giúp chính_quyền địa_phương giám_sát hiệu_quả và có hành_động kịp_thời , nhanh_chóng đối_với các vấn_đề ô_nhiễm nếu xảy_ra .
+Bà Elaine_Weidman - Grunewald , Phó_Chủ tịch lĩnh_vực Phát_triển bền_vững của Ericsson ,   cho_biết : " Dự_án này hiện_thực hóa mong_muốn tạo nên những thành_phố thông_minh khắp tòan_cầu .
+Việc kết_nối thành_phố với nguồn nước uống là một trong những giải_pháp sáng_tạo giúp các thành_phố phát_triển bền_vững " .

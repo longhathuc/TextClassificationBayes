@@ -1,0 +1,10 @@
+Bài_toán ' giúp bà nội rán bánh '
+An , Bình , Châu đến thăm bà nội .
+Bà rán ( chiên ) bánh để đãi các cháu .
+Có tất 10 cái bánh giống_hệt nhau , và bà có một cái chảo chỉ chứa được 4 cái bánh cho một lần rán .
+Mỗi cái bánh phải rán đủ 2 mặt .
+Thời_gian rán một_mặt của mỗi bánh là 2 phút .
+Bà định rán làm 3 mẻ , mỗi mẻ 4 phút ( 2 lần đầu 4 bánh , lần thứ_ba 2 bánh ) , vị_chi là hết 12 phút .
+An , vốn giỏi toán , nói rằng cậu có_thể giúp bà rán xong số bánh chỉ trong thời_gian ít hơn .
+Hãy cho_biết cần ít_nhất bao_nhiêu thời_gian để rán xong số bánh và hãy chỉ ra cách để thực_hiện điều đó .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

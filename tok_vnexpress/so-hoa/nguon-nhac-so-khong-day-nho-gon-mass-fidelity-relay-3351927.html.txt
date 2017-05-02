@@ -1,0 +1,23 @@
+Nguồn nhạc số_không dây nhỏ gọn - Mass_Fidelity_Relay
+Relay có kích_thước chỉ như vài hộp thuốc_lá xếp chồng lên nhau nhưng bên trong là bộ giải_mã được sử_dụng trong những thiết_bị đắt tiền .
+Hãng_Mass_Fidelity , thành_lập năm 2009 ở Ontario , Canada , với mục_đích khai_thác hiệu_quả thư_viện nhạc số và các nguồn âm khác để thưởng_thức âm_nhạc một_cách tiện_lợi nhất .
+Sản_phẩm đang được ưa_chuộng nhất của Mass_Fidelity hiện_nay là thiết_bị truyền_dẫn âm_thanh lossless qua Bluetooth , kiêm giải_mã ( DAC ) mang tên Relay .
+Relay có kích_thước nhỏ gọn , cầm được bằng một tay .
+Relay có kích_thước gọn , vuông_vắn , bốn cạnh bo tròn .
+Tên thương_hiệu Mass_Fidelity ở mặt trước , mặt sau là nút on / off , giắc nguồn , cổng RCA và coaxial , đèn LED ở trên nóc .
+Vỏ ngoài của Relay được chế_tạo từ nhôm đặc_biệt , chuyên_dùng cho ngành công_nghiệp hàng_không .
+Bên trong là bảng mạch với " trái_tim " là chip DAC BurrBrown 5102 từng được sử_dụng trong nhiều thiết_bị giải_mã đắt tiền , có_thể tương_thích với nguồn âm đạt độ_phân_giải tương_đương đĩa CD truyền_thống ( 16bit/44 , 1kHz ) và sau đó xuất ra ở độ_phân_giải 24bit/48kHz .
+Relay còn được ứng_dụng công_nghệ chống ồn tuyến_tính , lọc nhiễu và cách_ly hoàn_toàn phần nguồn điện với linh_kiện điện_tử , không bị ảnh_hưởng bởi các loại sóng_radio .
+Nó được ứng_dụng giao_thức Bluetooth mới nhất : AtpX , giao_tiếp tốt với mọi thiết_bị có Bluetooth như smartphone , máy_tính bảng hay laptop trong phạm_vi 10m .
+Cách đơn_giản nhất để kết_nối Relay với bộ_dàn là dùng cổng RCA truyền_thống .
+Không_chỉ vậy , Relay cũng cho_phép kết_nối theo đường RCA – 3,5 mm , tức_là nó có_thể dễ_dàng tương_thích với nhóm loa di_động đời mời .
+Cuối_cùng là xuất tín_hiệu số trực_tiếp qua đường S/PDIF tới một bộ DAC cao_cấp hơn .
+Với nguồn phát là i Phone 6s Plus , ampli Roksan_Kandy K2 , loa bookshelf Roksan TR - 5 , dây tín_hiệu RCA đi kèm theo Relay .
+Kết_nối Relay với ampli , cắm dây nguồn và bật thiết_bị lên , sau đó bật Bluetooth trên i Phone và tìm_kiếm sẽ thấy tên Relay .
+Sau khi kết_nối , bạn chỉ việc phát nhạc và thưởng_thức .
+Mass_Fidelity_Relay hình_hộp nhỏ gọn , hợp thiết_kế với các bộ_dàn hiện_đại .
+Về chất_lượng âm_thanh , Relay thể_hiện tốt tiếng trống trong bài Dúlaman của album A_New_Journey của nhóm Celtic_Woman ( rip từ CD gốc ) .
+Với các bản đàn dây thì dải trung được thể_hiện mộc_mạc và có độ mở , trong khi dải cao không gắt .
+Với nhạc giao_hưởng , Mass_Fidelity cho thấy một không_gian sân_khấu rộng_mở , chi_tiết và cân_bằng .
+Mass_Fidelity_Relay là một trong số_ít nguồn nhạc số_không dây trong tầm 5 triệu đồng mà kiểu_dáng gọn_nhẹ mà chất_lượng , phù_hợp với không_gian âm_thanh nhỏ gọn , hiện_đại của các gia_đình mới .
+Linh_Chi

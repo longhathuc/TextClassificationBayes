@@ -1,0 +1,16 @@
+Chiêu lừa đánh_cắp tài_khoản i Cloud qua tin nhắn
+Nhiều người có_thể đánh mất mật_khẩu tài_khoản i Cloud vì không cảnh_giác trước những tin nhắn giả_mạo Apple trên i Phone và i Pad .
+Một tin nhắn dùng địa_chỉ giả_mạo Apple nhằm đánh_cắp thông_tin tài_khoản i Cloud ( Apple ID ) .
+Thông_qua những tin nhắn với nội_dung kiểu " tài_khoản Apple ID hoặc i Cloud của bạn đã hết hạn , cần đăng_nhập lại để kiểm_tra , hãy bấm vào link trung_tâm hỗ_trợ này của Apple để đăng_nhập lại và xác_nhận " , nhiều người dùng i Phone hay i Pad đã để mất tài_khoản vào tay kẻ xấu .
+Các đường link hay e - mail với địa_chỉ nặc_danh có dính thêm cái tên Apple khiến họ không chú_ý , tưởng nhầm là trang_web chính_thức của hãng .
+Một trang_web giả_mạo , khi người dùng đăng_nhập lại tài_khoản Apple ID , iCloud cũng đồng_nghĩa với việc tiết_lộ thông_tin , mật_khẩu cho kẻ xấu .
+Sau khi bị chiếm_dụng , những tài_khoản này có_thể bị ăn_cắp thông_tin thanh_toán thẻ_tín_dụng , dữ_liệu cá_nhân hay thậm_chí đòi tiền chuộc từ nạn_nhân .
+Hình_thức lừa_đảo thông_qua tin nhắn và trang_web giả_mạo khá đơn_giản , nhưng số_lượng người bị mắc bẫy rất nhiều .
+Như tại Anh gần đây , nhiều người than_vãn tình_trạng bị đánh_cắp tài_khoản i Cloud thông_qua tin nhắn ngày_một nhiều .
+Trước tình_trạng trên , trang_chủ Apple đã đưa ra những cách_thức nhận_biết chiêu_thức giả_mạo địa_chỉ .
+Để đảm_bảo an_toàn , người dùng không được tiết_lộ thông_tin thẻ_tín_dụng , mật_khẩu tài_khoản hay các thông_tin cá_nhân qua e - mail xác_nhận và phải kiểm_tra kỹ các địa_chỉ trang_web yêu_cầu đăng_nhập thông_tin cá_nhân .
+Hai trang_web   quản_lý tài_khoản Apple ID ( appleid.apple.com ) và i Cloud ( iCloud.com ) của Apple đều có EV Certificate , người dùng có_thể nhận_biết khi xuất_hiện logo Apple_Inc .
+trên thanh địa_chỉ .
+Để nâng mức_độ bảo_mật cho tài_khoản i Cloud , bạn nên sử_dụng mật_khẩu mạnh ( có cả chữ và số , kết_hợp viết hoa và các ký_tự đặc_biệt ) , kích_hoạt chế_độ bảo_mật hai lớp cũng_như thêm câu_hỏi bảo_mật .
+Trong trường_hợp có dấu_hiệu nghi_ngờ tài_khoản bị lộ , bạn cần thay_đổi mật_khẩu thông_qua website appleid . apple.com hoặc icloud . com .
+Trên trình_duyệt như Safari , Chrome hay Firefox , các website chính_thức của Apple đều có EV Certificate , đây là cách phân_biệt với các trang_web giả_mạo .

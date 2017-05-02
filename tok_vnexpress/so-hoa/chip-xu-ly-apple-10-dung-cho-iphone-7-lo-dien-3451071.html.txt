@@ -1,0 +1,16 @@
+Chip xử_lý Apple 10 dùng cho i Phone 7 lộ_diện
+Dòng vi_xử_lý mới có_thể được sản_xuất bởi TSMC , tích_hợp RAM 3 GB và tốc_độ khoảng 2,4 GHz .
+Chip xử_lý A10 của Apple .
+Trang_Mobilesyrup hôm_nay đăng_tải hình_ảnh được cho là chip Apple A10 sẽ được sử_dụng trong thế_hệ i Phone tiếp_theo .
+Đây là phiên_bản nâng_cấp của SoC Apple A9 đang sử_dụng trong i Phone 6s và i Phone 6s Plus .
+Trong khi dòng A9 được sản_xuất bởi Samsung và TSMC dựa theo thiết_kế của Apple thì A10 nhiều khả_năng chỉ sản_xuất bởi TSMC .
+Apple A9 đặc_trưng với việc tích_hợp RAM_LPDDR4 dung_lượng 2 GB_RAM trong khi các tin_đồn cho thấy chip A10 sẽ đi kèm RAM tăng lên 3 GB .
+Một thử_nghiệm rò_rỉ trên Geekbench cho thấy Apple A10 tích_hợp chip xử_lý lõi kép tốc_độ 2,37 GHz .
+Theo Evleaks , iPhone 7 sẽ bắt_đầu cho đặt_hàng từ ngày 9/9 tới đây .
+Lễ ra_mắt i Phone mới sẽ diễn ra trước vài ngày so với thời_điểm bắt_đầu cho đặt_hàng .
+Ngày 5/9 Apple sẽ không_thể tổ_chức vì đây là ngày lễ Lao_động của Mỹ nên sự_kiện có_thể bắt_đầu vào ngày 6 hoặc 7/9 .
+Apple từ_chối bình_luận về các tin_đồn nói trên .
+Trước đó , nhiều nguồn tin khẳng_định Apple sẽ loại_bỏ nút Home vật_lý ngay từ phiên_bản i Phone 7 ( hoặc có_thể là i Phone 6SE ) .
+Một bộ nam_châm điện sẽ được đặt dưới phím Home cảm_ứng và sẽ rung nhẹ khi bấm vào .
+Ngoài_ra , máy cũng sẽ bỏ giắc cắm tai_nghe , tặng kèm bộ chuyển từ cổng lightning sang giắc 3,5 mm .
+iPhone 7 Plus sẽ có camera kép , trong đó một camera có cảm_biến ảnh 12 megapixel với zoom quang_học .

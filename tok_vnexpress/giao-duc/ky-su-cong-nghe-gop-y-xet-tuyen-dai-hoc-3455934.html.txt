@@ -1,0 +1,55 @@
+Kỹ_sư công_nghệ góp_ý xét tuyển đại_học
+" Tôi là kỹ_sư CNTT , có đứa em xét tuyển đại_học .
+Nhìn vào quy_trình tôi thấy sao ảo quá , khó cho các trường , vậy nên gửi ý_kiến mong giúp Bộ Giáo dục và Đào_tạo xét tuyển đơn_giản hơn " , độc_giả Lê_Quốc_Trí chia_sẻ .
+Tôi nghĩ Bộ Giáo dục nên đặt_hàng các đơn_vị phần_mềm lớn trong nước phần_mềm tuyển_sinh và xét tuyển tập_trung .
+Theo trình_tự như sau :
+Bước chuẩn_bị
+- Các trường nộp chỉ_tiêu và các yêu_cầu như : Tuyển_sinh theo khu_vực , nhân hệ_số ...
+- Các thí_sinh có nguyện_vọng vào trường quân_đội gửi phiếu xác_minh lý_lịch để làm thông_tin xét tuyển .
+-   Thông_tin của các thí_sinh đăng_ký dự thi phải đầy_đủ tất_cả về hộ_khẩu bản_sao , gia_đình chính_sách để xem_xét điểm cộng …
+- Phần_mềm cấp số_báo_danh cho cho thí_sinh .
+Bước tuyển_sinh
+Bước 1 :
+- Công_bố điểm tốt_nghiệp .
+- Công_bố điểm_sàn được xét tuyển đại_học .
+Bước 2 : Cho thí_sinh đăng_ký nguyện_vọng
+- Số_lượng nguyện_vọng không hạn_chế .
+Hoặc hạn_chế ở mức rất cao ví_dụ 100-200 nguyện_vọng .
+Ứng với bao_nhiêu nguyện_vọng sẽ có bấy_nhiêu bước xét tuyển do máy_tính thực_hiện .
+- Ở bước này phần_mềm phải chặn các thí_sinh có điều_kiện đầu_vào không thỏa_mãn .
+Riêng các trường quân_đội thì thí_sinh phải đăng_ký riêng từ sớm để xác_định minh lý_lịch , nếu thỏa_mãn thì mới được chọn nguyện_vọng trường quân_đội .
+Các thí_sinh còn lại chưa được xác_minh lý_lịch thì không được chọn nguyện_vọng vào các trường này .
+- Các thí_sinh sẽ đến khu vự C tập_trung tại địa_phương để đăng_ký nguyện_vọng hoặc đăng_ký online …
+Bước 3 : Công_bố tỷ_lệ chọi của các trường theo danh_sách từ cao đến thấp theo từng ngành của trường .
+Ví_dụ ngành Hóa , Bách_khoa TP_HCM :
+Nguyện_vọng 1 tỷ lê chọi 100 ( 1 chọi 100 )
+Nguyện_vọng 2 tỷ_lệ chọi 200 ( 1 chọi 200 )
+Nguyện_vọng 3 tỷ_lệ chọi 300 ( 1 chọi 300 )
+Tất_cả nguyện_vọng sẽ được công_bố lên website được sắp_xếp từ cao đến thấp .
+Bước 4 : Xét tuyển lần 1
+Bước 4.1 Ngành của trường nào có tỷ_lệ chọi nguyện_vọng 1 cao nhất sẽ ưu_tiên xét tuyển trước không phân_biệt khối thi , khu_vực tuyển_sinh .
+- Các thí_sinh trúng_tuyển nguyện_vọng 1 sẽ không được phép xét truyển các nguyện_vọng còn lại .
+- Các ngành của trường đã đủ chỉ_tiêu khi xét tuyển nguyện_vọng 1 thì không được phép tham_gia xét tuyển nguyện_vọng còn lại .
+Bước 4.2 : Ngành của trường nào có tỷ_lệ chọi nguyện_vọng 2 cao nhất sẽ ưu_tiên xét tuyển trước không phân biệc khối thi , khu_vực tuyển_sinh .
+- Các thí_sinh trúng_tuyển nguyện_vọng 2 sẽ không được phép xét truyển các nguyện_vọng còn lại .
+- Các ngành của trường đã đủ chỉ_tiêu khi xét tuyển nguyện_vọng 2 thì không được phép tham_gia xét tuyển nguyện_vọng còn lại .
+Lặp lại cho_đến khi đã xét đầy_đủ các nguyện_vọng của thí_sinh .
+Bước 4 . n : Sẽ kết_thúc việc xét tuyển .
+Tất_cả các bước trên đều do máy_tính thực_hiện .
+Bước 5 : Các thí_sinh nộp phiếu điểm chính_thức cho trường mà mình trúng_tuyển .
+Bước 6 : Xét tuyển bổ_sung đợt 1 .
+- Các trường chưa đủ chỉ_tiêu sẽ công_bố chỉ_tiêu còn thiếu lại vào phần_mềm và tiếp_tục đợt xét tuyển bổ_sung tiếp_theo .
+- Đợt xét tuyển bổ_sung lặp lại_giống như xét tuyển đợt 1 .
+Yêu_cầu khác :
+Hệ_thống đòi_hỏi phải được đầu_tư tốt về mặt CNTT , phải có website công_bố tập_trung có khả_năng chịu truy_cập lớn .
+Việc này các đơn_vị CNTT lớn như FPT và Viettel rất có kinh_nghiệm .
+Website công_bố tập_trung phải được bảo_mật tốt để thí_sinh có_thể đăng_ký tập_trung online .
+Ưu_điểm của xét tuyển tập_trung
+Đối_với thí_sinh
+- Linh_động với thí_sinh , các em học đều có_thể đăng_ký được nhiều khối khác_nhau .
+- Thí_sinh có nguyện_vọng không hạn_chế nên tăng khả_năng đậu cao hơn .
+Đối_với các trường :
+- Với cách làm này tránh thí_sinh ảo .
+- Các trường sẽ tuyển được thí_sinh có chất_lượng nhất .
+- Hội_đồng tuyển_sinh của các trường sẽ giảm gánh nặng trong việc xét tuyển .
+Lê_Quốc_Trí

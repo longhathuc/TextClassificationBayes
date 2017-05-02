@@ -1,0 +1,19 @@
+Thông_tin 400.000 hành_khách của Vietnam_Airlines có_thể chứa mã độc
+Thông_tin cá_nhân của hơn 400.000 khách_hàng Vietnam_Airlines do hacker tung lên mạng nhiều khả_năng được đính kèm malware ăn_cắp thông_tin , mật_khẩu .
+Cùng_với việc thay_đổi nội_dung trên website của Vietnam_Airlines , nhóm hacker 1937cn còn tung ra danh_sách các khách_hàng của hãng hàng_không này .
+Tập_tin excel nặng khoảng gần 100 MB chứa dữ_liệu   của hơn 400.000 thành_viên Golden_Lotus .
+Ban_đầu tập_tin này được chia_sẻ trên trang Pastebin nhưng sau đó được lan_truyền khắp các trang_web chia_sẻ khác .
+Dữ_liệu khách_hàng của Vietnam_Airlines bị tung lên mạng chiều nay .
+Tuy chưa được xác_minh chính_xác nhưng nhiều chuyên_gia bảo_mật tại Việt_Nam cho rằng nhóm hacker đã đính kèm malware trong tập_tin này .
+Theo đó , các đoạn mã khai_thác lỗ_hổng zero - day ( 0-day ) có_thể đã được nhúng vào tập_tin excel .
+Người dùng khi cố_tình mở sẽ bị lấy cắp các thông_tin về mật_khẩu , thông_tin cá_nhân đang lưu trên máy_tính .
+Việc đính kèm mã độc vào các dữ_liệu bị đánh_cắp không phải chuyện mới với các hacker .
+Trước đó , dữ_liệu của Hồ_sơ Panama cũng được chia_sẻ dày_đặc trên mạng và bị phát_hiện kèm các mã độc ăn_cắp thông_tin .
+Các tin_tặc thường lợi_dụng sự tò_mò , thiếu cảnh_giác của người dùng để trục_lợi trong các trường_hợp này .
+Lỗ_hổng zero - day ( 0-day ) là một thuật_ngữ để chỉ những lỗ_hổng chưa được công_bố hoặc chưa được khắc_phục .
+Ở đây là với phần_mềm Microsoft_Office , vốn được biết đết có rất nhiều lỗ_hổng được phát_hiện nhiều năm qua .
+Thông_thường , một lỗ_hổng như_vậy có_thể mất cả năm trước khi được phát_hiện và khắc_phục .
+Các hacker thường tận_dụng khoảng thời_gian này để phát_tán .
+Việc tích_hợp mã độc vào file excel chứa dữ_liệu khách_hàng của Vietnam_Airline được cho là còn nguy_hiểm hơn bởi nhiều máy_tính tại Việt_Nam đều sử_dụng bộ Office " lậu " không được cập_nhật các bản vá mới nhất từ Microsoft .
+Do_đó , người dùng đã mở tập_tin này cần đề_phòng bằng cách quét lại bằng phần_mềm diệt virus , thay_đổi các mật_khẩu tài_khoản trên một máy_tính khác .
+Vietnam_Airlines cũng đã khuyến_cáo hội_viên Bông sen vàng thay mật_khẩu ngay sau khi hệ_thống được khắc_phục .

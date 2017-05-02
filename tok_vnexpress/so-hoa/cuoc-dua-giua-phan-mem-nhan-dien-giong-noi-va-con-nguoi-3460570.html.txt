@@ -1,0 +1,7 @@
+Cuộc đua giữa phần_mềm nhận_diện giọng nói và con_người
+Phần_mềm của các nhà_nghiên_cứu Mỹ có_thể hiểu và hiển_thị các mẫu câu nhanh hơn tốc_độ soạn_thảo của con_người .
+Người dùng luôn mong_muốn có một phần_mềm chuyển lời_nói sang văn_bản theo thời_gian_thực , để có_thể dùng làm phụ_đề trong các chương_trình trực_tiếp , hay không cần chép tay , ghi_âm rồi về " bóc băng " .
+Tuy_nhiên , các ứng_dụng nhận_diện giọng nói hiện hoạt_động không như mong_đợi vì thường bị tác_động bởi âm_thanh xung_quanh , kho từ giới_hạn .
+Các nhà_nghiên_cứu thuộc Đại_học   Stanford , Đại_học Washington ( Mỹ ) và công_ty Baidu đã hợp_tác cho ra_đời chương_trình Deep_Speech 2 , sử_dụng công_nghệ_học máy để cải_thiện cả năng nhận_diện ngôn_ngữ .
+Trong thử_nghiệm , nhóm nghiên_cứu mời 32 người_ở độ tuổi 19-32 cùng soạn một_số mẫu câu nhất_định trên smartphone song_song với phần_mềm .
+Kết_quả , phần_mềm gặp ít lỗi hơn 20,4% so với con_người khi nhập liệu bằng tiếng Anh và 63,8% khi nhập bằng tiếng Trung .

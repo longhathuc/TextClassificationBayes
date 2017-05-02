@@ -1,0 +1,29 @@
+Những vụ tấn_công mạng làm chấn_động ngành ngân_hàng
+Ngân_hàng luôn mà mục_tiêu béo_bở của tội_phạm công_nghệ_cao và đã có nhiều vụ mất tiền lên đến hàng chục_triệu USD diễn ra những năm qua .
+Các cuộc tấn_công mạng , nhất_là vào tổ_chức tài_chính , vẫn đang tiếp_tục diễn ra trên quy_mô lớn với số nạn_nhân lên đến hàng chục_triệu người mỗi vụ , trong đó có nhiều chiến_dịch để lại hậu_quả nghiêm_trọng và lâu_dài .
+Vụ hack ngân_hàng lớn nhất lịch_sử Mỹ
+Hè năm 2014 , 7 ngân_hàng thuộc diện lớn nhất nước Mỹ bị bốn hacker lợi_dụng lỗ_hổng Heartbleed và phát_tán malware ( phần_mềm độc_hại ) tinh_vi để xâm_nhập vào hệ_thống máy_tính và tiếp_cận kho lưu_trữ .
+Riêng tại JPMorgan , chúng lấy_được thông_tin của hơn 76 triệu khách_hàng cá_nhân và 7 triệu doanh_nghiệp , gồm tên , địa_chỉ , số điện_thoại , e-mail , cũng_như " một_số thông_tin nội_bộ liên_quan đến riêng người dùng " .
+Hacker đã sử_dụng quyền truy_cập của khách_hàng để đặt lệnh mua cổ_phiếu nhằm khiến giá cổ_phiếu thay_đổi .
+Rất may , cảnh_sát đã sớm ngăn_chặn kế_hoạch này .
+Vụ đánh_cắp hụt một tỷ USD
+Tháng 3/2016 , một nhóm   tin_tặc truy_cập vào hệ_thống Ngân_hàng Bangladesh và đánh_cắp thông_tin dùng để thực_hiện các thanh_toán .
+Sau đó , chúng gửi gần 30 lệnh tới Ngân_hàng Dự_trữ liên_bang New_York ( Mỹ ) , yêu_cầu chuyển_tiền từ tài_khoản của Ngân_hàng Bangladesh tới các thực_thể ở Philippines và Sri_Lanka .
+Bốn trong số các yêu_cầu chuyển_tiền đã được thực_hiện với giao_dịch tổng_cộng 81 triệu USD .
+Lệnh thứ_năm bị tạm ngừng khi ngân_hàng thấy tên người nhận bị sai chính_tả .
+Vụ tấn_công bị phát_hiện và toàn_bộ lệnh chuyển_tiền với tổng trị_giá khoảng 870 triệu USD được khóa lại .
+Ngân_hàng Bangladesh đã thu_hồi được một phần của khoản tiền bị mất .
+Giám_đốc ngân_hàng , ông Atiur_Rahman , đã từ_chức sau vụ_việc .
+Cuối năm 2015 , một ngân_hàng tại Ecuador cũng trở_thành nạn_nhân của một cuộc tấn_công tương_tự với số tiền bị đánh_cắp ước_tính khoảng 9 triệu USD .
+Ngân_hàng Bitcoin đóng_cửa vì trộm
+Năm 2014 , ngân_hàng   Flexcoin ở Canada đã bị đánh_cắp gần 900 Bitcoin trị_giá 600.000 USD .   " Do
+Flexcoin không có tài_nguyên , tài_sản hay bất_kỳ thứ gì để khắc_phục sự_cố , chúng_tôi sẽ đóng_cửa website lập_tức " , ngân_hàng cho_biết .
+Bitcoin là một loại tiền ảo được tạo ra và mua_bán trên Internet , không chịu sự kiểm_soát của cơ_quan nào .
+Giá mỗi đồng Bitcoin vào_khoảng 500 USD .
+100 ngân_hàng bị hacker cuỗm một tỷ USD trong hai năm
+Đầu năm 2015 ,   hãng bảo_mật Kaspersky phát_hiện   khoảng 100 ngân_hàng và tổ_chức tài_chính toàn_cầu đã trở_thành nạn_nhân của một vụ tấn_công mạng " lớn chưa từng có " , bắt_đầu diễn ra từ năm 2013 .
+Hãng này   ước_tính khoảng một tỷ USD đã bị đánh_cắp thông_qua các vụ tấn_công của nhóm hacker gồm các thành_viên từ Nga , Ukraine và Trung_Quốc .
+Nhóm này được Kaspersky đặt tên là Carbanak .
+Chúng đã sử_dụng virus để lây_nhiễm mạng_lưới máy_tính của nhà_băng .
+Một trong các virus cho_phép chúng theo_dõi và quay lại mọi thứ diễn ra trên màn_hình nhân_viên ngân_hàng .   Trong một_số trường_hợp , chúng có_thể chuyển trực_tiếp tiền từ tài_khoản của các ngân_hàng sang tài_khoản của mình , hoặc thậm_chí ra_lệnh cho ATM tự nhả tiền vào các thời_điểm định trước trong ngày .
+Trung_bình , mỗi vụ trộm diễn ra trong 2-4 tháng với 2,5 - 10 triệu USD bị đánh_cắp mỗi lần .

@@ -1,0 +1,16 @@
+Windows 7 , 8.1 không_thể cài trên máy_tính chạy chip Skylake
+Máy_để_bàn , máy_tính_xách_tay chạy chip Skylake hoặc mới hơn trong tương_lai sẽ bắt_buộc phải cài_đặt hệ_điều_hành Windows 10 trở_lên .
+Microsoft ép người dùng nâng_cấp lên Windows 10 khi mua máy_tính mới .
+Không đưa ra thông_báo rộng_rãi nhưng Microsoft mới_đây đã thay_đổi chính_sách khi ngừng hỗ_trợ các phiên_bản cũ của Windows trên phần_cứng PC mới nhất .
+Điều này đồng_nghĩa với việc các hệ_điều_hành như Windows 7 hoặc 8.1 vẫn còn rất phổ_biến không_thể chạy tốt trên các máy_tính dùng chip Skylake của Intel .
+Trên thực_tế , quy_định mới của Microsoft chỉ là một phần trong kế_hoạch muốn có nhiều hơn người dùng nâng_cấp lên Windows 10 .
+Tuy_nhiên , sự_việc này lại gây ra tranh_cãi trong giới công_nghệ .
+Đặc_biệt là việc hãng không có thông_báo rộng_rãi cho người dùng .
+Thông_thường , Microsoft hỗ_trợ các phiên_bản hệ_điều_hành của mình trong khoảng 10 năm kể từ ngày ra_mắt với những phần_cứng mới nhất .
+Trong khi đó , với Windows 7 hoặc 8.1 , hãng cho_biết sẽ chỉ có sẵn sự hỗ_trợ cho các thế_hệ trước của phần_cứng .
+Các máy_tính mới chạy chip Skylake phải chạy Windows 10 .
+Nếu muốn có danh_sách các model máy_tính hỗ_trợ Intel_Skylake trên Windows cũ , người dùng phải chờ trong 18 tháng tới .
+Ngừng hỗ_trợ phần_cứng mới không đồng_nghĩa với việc Microsoft " bỏ_rơi " hai phiên_bản hệ_điều_hành này .
+Windows 7 và 8.1 sẽ tiếp_tục nhận được cập_nhật tới năm 2020 và 2023 tương_ứng .
+Điều_kiện là người dùng chỉ sử_dụng các dòng chip thế_hệ Broadwell trở_về trước và không có ý_định nâng_cấp phần_cứng của mình .
+Tuấn_Hưng

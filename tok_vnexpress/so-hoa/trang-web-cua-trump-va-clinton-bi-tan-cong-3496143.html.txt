@@ -1,0 +1,10 @@
+Trang_web của Trump và Clinton bị tấn_công
+Hôm_nay website của hai ứng_viên tranh_cử Tổng_thống Mỹ đã trở_thành mục_tiêu của tin_tặc , nhưng hiện_tại hacker chưa_thể đánh sập .
+Hãng bảo_mật   Flashpoint cho_biết phát_hiện ít_nhất bốn cuộc tấn_công từ_chối dịch_vụ ( DDoS ) nhằm vào website của Donald_Trump và Hillary_Clinton hôm_nay .
+Các chuyên_gia đánh_giá công_cụ nguồn mở mà tin_tặc sử_dụng lần này tương_tự vụ tấn_công báo New_York_Times hay mạng xã_hội Twitter hôm 21/10 .
+Website của Donald_Trump và Hillary_Clinton trở_thành mục_tiêu của tin_tặc .
+Thông_qua mạng_lưới máy_tính ma , hacker muốn " hạ gục " trang_web của hai ứng_viên Tổng_thống Mỹ , bằng cách tạo ra lượng truy_cập khổng_lồ khiến máy_chủ không_thể đáp_ứng .
+Tuy_nhiên , website của Donald_Trump và Hillary_Clinton vẫn hoạt_động trước các cuộc tấn_công này .
+Mirai , mã độc gây ra cuộc tấn_công DDoS khiến Internet tại châu Âu và Mỹ bị ngừng_trệ , cũng là công_cụ được hacker sử_dụng nhắm vào hai ứng_viên Tổng_thống Mỹ .   Ước_tính khoảng nửa triệu thiết_bị Internet bảo_mật kém như camera giám_sát và đầu ghi_hình ... đã nhiễm mã độc Mirai .
+Các chuyên_gia tin rằng những cuộc tấn_công từ_chối dịch_vụ trong tương_lai có_thể đạt 10 Terabit mỗi giây , đủ sức hạ gục toàn_bộ mạng Internet tại bất_kỳ quốc_gia nào .
+Xem thêm :   Máy bỏ_phiếu điện_tử bầu Tổng_thống Mỹ cũng có_thể bị hack   /   Lượt tìm_kiếm ' làm thế_nào để bỏ_phiếu ' tăng mạnh trên Google

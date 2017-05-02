@@ -1,0 +1,36 @@
+5 quy_tắc để hạn_chế rủi_ro với ngân_hàng trực_tuyến
+Sự phát_triển của công_nghệ đem đến những tiện_lợi trong việc giao_dịch trực_tuyến nhưng cũng tiềm_ẩn nhiều nguy_cơ về bảo_mật .
+Thanh_toán online tiện_dụng nhưng đòi_hỏi người dùng có ý_thức cao về bảo_mật .
+Cẩn_trọng với các tin nhắn lừa_đảo
+Đây là cách_thức tưởng đã lỗi_thời nhưng vẫn thường được các đối_tượng lừa_đảo thực_hiện .
+Người dùng có_thể nhận được tin nhắn từ một kẻ giả làm đại_diện ngân_hàng với thông_điệp cảnh_báo về những lỗ_hổng bảo_mật và yêu_cầu gọi điện đến số điện_thoại hỗ_trợ miễn_phí .
+Sau đó , chúng sẽ yêu_cầu được cấp tài_khoản và số PIN để xác_nhận .
+Robert_Vamosi , nhà_phân_tích các trường_hợp rủi_ro và gian_lận tại công_ty   Javelin_Strategy & Research ở California , Mỹ , cho_biết cách_thức này vẫn xảy_ra ở các nơi kém phát_triển , người dùng không có điều_kiện cập_nhật đầy_đủ thông_tin .
+Ông cũng cảnh_báo không_bao_giờ gọi các số trên tin nhắn và luôn coi đó là một thông_tin không đáng tin_cậy .
+Số dịch_vụ khách_hàng của một ngân_hàng luôn được đặt nổi_bật trên trang_web chính_thức của họ cũng_như xuất_hiện trong sao kê .
+Ngoài_ra , để xác_nhận , ngân_hàng có_thể hỏi số thẻ , tên , ngày_sinh nhưng không hỏi các thông_tin bí_mật như mã PIN .
+Luôn chắc_chắn máy_tính không bị nhiễm các phần_mềm gián_điệp .
+Bảo_vệ máy_tính khỏi phần_mềm gián_điệp
+Các loại phần_mềm độc_hại có_thể xâm_nhập , lấy các thông_tin bí_mật mà không cần sự đồng_ý của người dùng .
+Khi việc thanh_toán trực_tuyến nở_rộ thì các phần_mềm dạng này cũng bùng_nổ theo .
+Máy_tính có_thể bị nhiễm các loại phần_mềm này theo nhiều cách khác_nhau như bấm vào một liên_kết trên Internet và tải về hoặc đi theo một email dưới dạng tập_tin đính kèm .
+Với các máy_tính bị nhiễm phần_mềm dạng này , mọi thao_tác của người dùng đều bị ghi lại và gửi tới tin_tặc .
+Trong đó bao_gồm cả hàng_loạt tên , mật_khẩu đăng_nhập vào các tài_khoản quan_trọng .
+Để tránh rơi vào các tình_trạng này , người dùng không nên truy_cập vào các trang_web ít tên_tuổi , không nghe mời_gọi nhấn vào các đường_dẫn lạ .
+Máy_tính cần thường_xuyên được quét virus với bản cập_nhật mới nhất .
+Không sử_dụng máy_tính , mạng Wi-Fi công_cộng
+Tuyệt_đối không nên đăng_nhập và sử_dụng giao_dịch trực_tuyến trên các máy_tính công_cộng .
+Ngoài nguy_cơ bị cài_đặt phần_mềm gián_điệp trên các máy_tính này , các tin_tặc có_thể khai_thác thông_tin từ một máy_tính cùng mạng khác .
+Ngoài_ra , việc sử_dụng mạng Wi-Fi công_cộng cũng tiềm_ẩn nhiều rủi_ro , đặc_biệt là các mạng không có mật_khẩu .
+Theo ông   Robert_Vamosi , các kết_nối Wi-Fi yêu_cầu mật_khẩu an_toàn hơn và nếu ở khách_sạn , nên chọn kết_nối có dây .
+Đặt mật_khẩu với nhiều kiểu ký_tự
+Nhiều người dùng ngại phải nhớ mật_khẩu nên đưa ra các dãy ký_tự quá đơn_giản , dễ đoán .
+Các chuyên_gia bảo_mật cho rằng nên đặt mật_khẩu với các cụm chữ khác_nhau , có cả số , ký_tự , chữ hoa và chữ thường xen_kẽ .
+Tốt nhất nên đặt không có quy_tắc cụ_thể và ít liên_quan tới bản_thân .
+Nhiều ngân_hàng hiện_nay cũng yêu_cầu các mã bảo_mật đòi_hỏi sự phức_tạp cao hơn nhiều trước_đây .
+Ngân_hàng Citibank từng khuyến_cáo người dùng phải nâng_cấp ngay phần_mềm để tránh việc lỗ_hổng bảo_mật bị tin_tặc khai_thác .
+Cẩn_trọng khi tải và sử_dụng các ứng_dụng ngân_hàng
+Hầu_hết các ngân_hàng đều có ứng_dụng riêng để giúp khách_hàng dễ_dàng hơn trong việc giao_dịch trên smartphone , tablet .
+Tuy_nhiên , đã có trường_hợp kẻ_gian làm các ứng_dụng " nhái " hòng đánh_lừa và lấy cắp thông_tin khách_hàng .
+Ngoài_ra , dù đã tải đúng ứng_dụng " chính chủ " , người dùng cũng cần thường_xuyên tải các bản nâng_cấp .
+Ngân_hàng Citibank từng đưa ra cảnh_báo về ứng_dụng smartphone của họ có lỗ_hổng về bảo_mật nên khuyến_cáo người dùng tải các bản cập_nhật ngay_lập_tức để tranh việc bị lợi_dụng bởi các tin_tặc .

@@ -1,0 +1,11 @@
+Tốc_độ 3G , 4G của Việt_Nam thuộc nhóm chậm nhất thế_giới
+Việt_Nam nằm trong nhóm các nước có tốc_độ mạng di_động kém nhất thế_giới , tuy_nhiên độ phổ_cập của mạng 3G , 4G khá rộng .
+Báo_cáo tháng 8/2016 của OpenSignal cho_biết , tốc_độ mạng di_động tại Việt_Nam đạt 3,81 Mb/giây , xếp_hạng 82 trên tổng sổ 95 nước khảo_sát .
+Đứng đầu là Hàn_Quốc với 3G , 4G đạt 41,34 Mb/giây , những vị_trí tiếp_theo trong danh_sách là Singapore ( 31,19 Mbps ) , Hungary ( 26,15 Mbps ) , Australia ( 25,01 Mbps ) , Đan_Mạch ( 23,35 Mbps ) .
+Tốc_độ mạng di_động trung_bình tại Việt_Nam đạt 3,81 Mb/giây .
+Mặc_dù tốc_độ 3G , 4G tại Việt_Nam chưa bằng 1/10 Hàn_Quốc nhưng độ phổ_cập thuộc hàng trung_bình thế_giới , đạt 82,17% .
+Những quốc_gia phát_triển , khu_vực có tốc_độ mạng di_động cao thì tỷ_lệ người dùng tiếp_cận với 3G , 4G thường trên 90% , trong đó Hàn_Quốc tiếp_tục đứng đầu với 98,54% .
+Thời_gian người dùng Việt_Nam truy_cập bằng Wi-Fi thay_vì 3G , 4G khi kết_nối Internet là 53,56% , ở mức trung_bình trên của thế_giới .
+Trong khi đó ba nước truy_cập bằng Wi-Fi nhiều là Hà_Lan ( 70,05% ) , Trung_Quốc ( 63,16% ) và New_Zealand ( 62,96% ) .
+OpenSignal lưu_ý rằng , thời_gian sử_dụng Wi-Fi nhiều không có nghĩa_là lượng dữ_liệu truy_cập qua đó lớn .
+Báo_cáo cũng chỉ ra , 4G ngày_càng mở_rộng tại các quốc_gia phát_triển , 3G đóng vai_trò quan_trọng với những khu_vực đang phát_triển và Wi-Fi vẫn là kết_nối không_thể thiếu cho đa_số người dùng smartphone trên toàn_cầu .

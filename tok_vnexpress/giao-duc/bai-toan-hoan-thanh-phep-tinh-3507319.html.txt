@@ -1,0 +1,3 @@
+Bài_toán hoàn_thành phép_tính
+4 ô trống tạo thành 4 phép_tính cộng , trừ rất đơn_giản .
+Bạn có_thể hoàn_thành việc điền 4 số thích_hợp vào những ô trống này trong bao_lâu ?

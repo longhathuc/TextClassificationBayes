@@ -1,0 +1,15 @@
+Đoán tên top 10 quốc_gia có phụ_nữ đẹp nhất 2016
+Bạn có nhận ra cô_gái đến từ Brazil hay Ấn Độ ?
+Theo trang Destinationspoint   ( tư_vấn điểm đến của Mỹ ) ,   dưới đây là đại_diện cho 10 quốc_gia có phụ_nữ đẹp nhất thế_giới .
+Bạn hãy đoán xem đó là 10 quốc_gia nào .
+Bấm vào hình hoặc gợi_ý bên dưới ảnh để xem đáp_án :
+1 .   Brazil hay Venezuela
+2 .   Italy hay Nga
+3 .   Venezuela hay Colombia
+4 .   Ả Rập_Saudi hay Ấn Độ
+5 .   Serbia hay Slovakia
+6 .   Pháp hay Hà_Lan
+7 .   Colombia hay Argentina
+8 .   Croatia hay Ukraine
+9 .   Italy hay Mỹ
+10 .   Trung_Quốc hay Hàn_Quốc

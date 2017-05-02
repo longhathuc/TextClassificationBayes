@@ -1,0 +1,18 @@
+Chiến_binh robot siêu nhỏ tìm diệt tế_bào ung_thư
+Một nhóm nghiên_cứu Canada phát_triển loại robot sinh_học siêu nhỏ có khả_năng chuyên_chở thuốc đặc_trị tới đúng tế_bào ung_thư đang hoạt_động .
+Theo Phys . org , trong nghiên_cứu được   công_bố trên tạp_chí Nature_Nanotechnology hôm 15/8 ,   các nhà_khoa_học từ Đại_học Bách_khoa Montréal và Đại_học McGill , Canada tìm ra phương_pháp sử_dụng robot sinh_học chỉ nhỏ bằng cỡ phân_tử , mang trên mình thuốc đặc_trị , len_lỏi trong các mạch_máu để tìm đến tiêu_diệt tế_bào ung_thư .
+Phương_pháp sử_dụng robot mang thuốc đảm_bảo hiệu_quả tối_đa đối_với   khối_u   mục_tiêu , hạn_chế gây nguy_hiểm cho các cơ_quan cũng_như mô khỏe_mạnh xung_quanh .   Đây được coi là một bước đột_phá ngoạn_mục trong nghiên_cứu điều_trị ung_thư .
+" Những quân_đoàn chiến_binh robot nano thực_ra là hơn 100 triệu vi_khuẩn roi có khả_năng tự di_chuyển và nạp đầy thuốc .
+Chúng di_chuyển theo con đường ngắn nhất giữa điểm tiêm thuốc tới khu_vực có tế_bào ung_thư " , giáo_sư Sylvain_Martel , chủ_tịch Hội_đồng nghiên_cứu robot nano y_học kiêm giám_đốc Phòng_thí_nghiệm Nanorobotics , Đại_học Bách_Khoa_Montréal , giải_thích .
+" Các robot sinh_học này có_thể mang thuốc thâm_nhập sâu vào bên trong khối_u " .
+Ngoài_ra , robot sinh_học có_thể tự_động phát_hiện khu_vực tế_bào ung_thư đang phát_triển thông_qua cơ_chế đặc_biệt tên " hypoxic zone " .
+" Hypoxic zone " là các vùng thiếu oxy , do   các tế_bào ung_thư phát_triển thường   tiêu_thụ   oxy   quá mức .
+Các robot tự_động phát_hiện những nơi cạn_kiệt oxy và mang thuốc tới đúng địa_chỉ .
+Hiện_nay , khu " hypoxic zone " không_thể tiếp_cận và điều_trị bằng phương_pháp thông_thường , bao_gồm xạ_trị .
+Để di_chuyển , robot sinh_học của nhóm Martel dựa trên hai cơ_chế tự_nhiên .
+Một loại la_bàn được tạo ra bằng cách tổng_hợp chuỗi hạt nano từ , cho_phép chúng di_chuyển theo hướng của từ_trường điều_khiển bằng máy_tính .
+Trong khi đó , một cảm_biến đo nồng_độ oxy cho_phép chúng săn_tìm khu_vực " hypoxic zone " .
+Bằng cách khai_thác hai cơ_chế này , các nhà_khoa_học chỉ ra vi_khuẩn roi hoàn_toàn có_thể hoạt_động như những robot sinh_học nhân_tạo ứng_dụng trong nhiều lĩnh_vực .
+" Hóa_trị vốn độc_hại cho toàn_bộ cơ_thể có_thể được thay_thế bằng robot sinh_học mang thuốc đến đúng vị_trí khối_u , giúp loại_bỏ tác_dụng phụ có hại đồng_thời tăng_cường hiệu_quả điều_trị " , giáo_sư Martel cho_biết .
+Xem thêm :   Hạt nano vàng phát_nổ có_thể tiêu_diệt tận gốc tế_bào ung_thư
+Thanh_Tùng

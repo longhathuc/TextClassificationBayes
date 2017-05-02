@@ -1,0 +1,13 @@
+Gần 7.700 vụ tấn_công website tại Việt_Nam đầu năm 2017
+Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) cho_biết đã ghi_nhận khoảng 7.700 cuộc tấn_công vào các website trong nước ba_tháng quá .
+Tại chương_trình diễn_tập APCERT Drill 2017 ngày 22/3 ở Hà_Nội , ông Nguyễn_Khắc_Lịch , Phó_Giám đốc VNCERT , cho_biết Trung_tâm đã thống_kê được 2.848 website bị tấn_công thay_đổi giao_diện ( deface ) , 3.783 trang_web bị cài mã độc ( malware ) và 1.050 trang_bị cài bẫy lừa_đảo dạng phishing .
+Đại_diện VNCERT cũng nhấn_mạnh an_toàn thông_tin mạng đang là vấn_đề nóng .
+Các hình_thức tấn_công có chủ_đích ( APT ) , mã độc gián_điệp , mạng botnet , DDoS đang diễn_biến phức_tạp .
+Nhiều cuộc tấn_công APT nhằm vào các cơ_quan Chính_phủ , hệ_thống tài_chính , ngân_hàng , hạ_tầng thông_tin trọng_yếu trong khi xu_hướng khai_thác các thiết_bị IoT như camera an_ninh , Smart TV cũng tăng cao .
+Bên_cạnh đó , mã độc tống_tiền ( ransomware ) cũng đang lan sang các thiết_bị di_động như smartphone , tablet .
+Đội_Việt_Nam tham_gia chương_trình diễn_tập ứng_cứu sự_cố máy_tính .
+Các chuyên_gia bảo_mật cho_biết đã xuất_hiện những cuộc tấn_công từ_chối dịch_vụ ( DDoS ) kiểu mới , chiếm băng_thông lên tới 400 Gb tại Việt_Nam và 1.000 Gb tại Mỹ và dư ̣ ba ́ o tình_hình bảo_mật năm 2017 se ̃ còn nhiều diễn_biến khó lường .
+Do_đó , chương tri ̀ nh diê ̃ n tâ ̣ p Ứ ng cư ́ u sư ̣ cô ́ ma ́ y ti ́ nh APCERT Drill 2017 đã được tổ_chức với chủ_đề " Các mối đe_dọa tấn_công từ_chối dịch_vụ mới " ( Emergence of a New DDoS Threat ) .
+APCERT Drill là chương_trình thường_niên giữa các tổ_chức ứng_cứu sự_cố máy_tính ( CERT ) .
+Năm nay , chương_trình diễn_tập có sự tham_gia của 28 đơn_vị thành_viên APCERT từ hơn 20 quốc_gia và vùng lãnh_thổ .
+Đội_Việt_Nam tham_dự với 200 đại_biểu và kỹ_thuật_viên chuyên_trách về công_nghệ_thông_tin của các bộ , ngành , tỉnh/thành phố , các tập_đoàn , tổng_công_ty , hiệp_hội , ngân_hàng , doanh_nghiệp viễn_thông , đại_học và các tổ_chức khác trên cả nước .

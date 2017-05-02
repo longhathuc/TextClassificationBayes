@@ -1,0 +1,8 @@
+Đoán tên nước qua các món ăn kỳ_quặc
+Hãy kiểm_tra xem mình có đoán những món ăn “ khó nhằn ” nhất thế_giới là của quốc_gia nào .
+Câu số 1 :
+Shirako ( tinh_trùng cá )
+1 . Indonesia
+2 . Nhật_Bản
+3 . Hàn_Quốc
+4 . Đài_Loan

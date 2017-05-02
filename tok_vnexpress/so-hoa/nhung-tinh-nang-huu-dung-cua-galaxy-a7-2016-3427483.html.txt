@@ -1,0 +1,36 @@
+Những tính_năng hữu_dụng của Galaxy A7 2016
+Ngoài thiết_kế sang_trọng cùng phần_cứng mạnh_mẽ , Galaxy A7 2016 còn tích_hợp tính_năng hiển_thị thông_tin thông_minh , chế_độ khẩn_cấp , báo_hiệu bằng đèn ...
+Tính_năng Always-On
+Always-On là tính_năng được Samsung trang_bị trên bộ đôi smartphone cao_cấp Galaxy S7 và Galaxy S7 edge , cho_phép màn_hình luôn hiển_thị các thông_tin cơ_bản như giờ , thông_báo đến ( cuộc_gọi , tin nhắn ... ) mà không cần phải mở máy .
+Kết_hợp với công_nghệ Super AMOLED , tính_năng này không_chỉ đơn_giản_hóa thao_tác mà_còn tiết_kiệm đáng_kể thời_lượng pin cho điện_thoại .
+Người dùng Galaxy A7 2016 có_thể sử_dụng tính_năng này với ứng_dụng Glance_Plus .
+Sau khi cài_đặt Glance_Plus , chỉ cần lướt tay qua màn_hình , lập_tức các thông_số cơ_bản sẽ được hiển_thị ở dạng màn_hình mờ .
+Ứng_dụng còn giúp smartphone tự_động tắt và khóa máy khi đút vào túi quần và mở trở_lại lúc rút ra để hiển_thị các thông_tin cần_thiết .
+Chế_độ không làm_phiền
+Người dùng có_thể quy_định mỗi ngày vào_khoảng thời_gian nhất_định , Galaxy A7 2016 tự chuyển sang chế_độ im_lặng , không rung và không phát âm_thanh thông_báo , giúp thư_giãn , tránh bị quấy_rầy trong lúc ngủ .
+Để kích_hoạt chế_độ này , người dùng truy_cập vào " Cài_đặt - Settings " , chọn " Âm_thanh và thông_báo - Sound and notification " , tiếp đến chọn " Không làm_phiền - Do not disturb " .
+Sau đó cần nhấn vào dòng " Bật theo lịch biểu - Turn on as schedule " ở bên dưới , quy_định thời_gian và các ngày trong tuần ở các hàng cài_đặt , ví_dụ mỗi ngày từ 11 giờ tối đến 6 giờ sáng hôm_sau .
+Ngoài_ra , có_thể tùy chỉnh thiết_bị vẫn nhận được cuộc_gọi , tin nhắn từ người quen hoặc âm báo_thức hay thông_báo về các sự_kiện trong ngày .
+Với trường_hợp này vào mục " Cho_phép ngoại_lệ - Allow exceptions " để cài_đặt chi_tiết .
+Chế_độ khẩn_cấp
+Chỉ cần vài thao_tác nhỏ , Galaxy A7 2016 có_thể hỗ_trợ người dùng trong trường_hợp nguy_hiểm thông_qua chế_độ khẩn_cấp tích_hợp sẵn trên máy .
+Trên_Galaxy A7 2016 , khi kích_hoạt chế_độ khẩn_cấp , thiết_bị sẽ chuyển sang chế_độ siêu tiết_kiệm pin ( Ultra_Power_Saving_Mode ) và chỉ cho_phép các ứng_dụng thật_sự cần_thiết hiển_thị trên màn_hình như điện_thoại và Internet .
+Đồng đèn flash biến thành đèn_pin và kích_hoạt báo_động khẩn_cấp với âm_thanh lớn .
+Ngoài_ra , bạn có_thể gửi tin nhắn văn_bản kèm theo vị_trí hiện_tại của mình đến một_số địa_chỉ liên_lạc nào_đó .
+Để sử_dụng chế_độ khẩn_cấp cần kích_hoạt " Gửi tin nhắn SOS - Send SOS messages " trong phần " Cài_đặt -   Settings " chọn " Riêng_tư và an_toàn - Privacy and safety .
+Tiếp_theo thiếp lập ít_nhất một_số điện_thoại tin_tưởng " Trusted contact " trong danh_bạ ( những người_thân trong gia_đình , bạn_bè thân_thiết … ) .
+Sau khi hoàn_tất , chế_độ này sẽ hiện trên menu khi nhấn giữ liên_tục vào nút nguồn .
+Khi kích_hoạt , Galaxy A7 2016 sẽ hiểu là bạn đang ở trong tình_huống khẩn_cấp và tự_động thay_đổi các thiết_lập cần_thiết .
+Tắt chế_độ này trong mục " More - Nhiều hơn " và chọn " Disable_Emergency_Mode - Tắt chế_độ khẩn_cấp " .
+Dùng đèn flash làm thông_báo
+Khi có cuộc_gọi , tin nhắn SMS hay e - mail , ngoài việc nhắc_nhở bằng nhạc chuông cùng chế_độ rung , người dùng có_thể kích_hoạt tính_năng thông_báo với đèn flash LED .
+Khi đó , đèn ở mặt sau của Galaxy A7 2016 sẽ sáng lớn và nhấp_nháy để báo_hiệu cho người dùng biết là họ vừa có một thông_báo mới .
+Để sử_dụng đèn flash LED làm thông_báo trên Galaxy A7 2016 , người dùng cần truy_cập " Hỗ_trợ - Accessibility " , vào " Nghe - Hearing " rồi kích_hoạt tùy chọn ở mục " Flash thông_báo - Flash_Notification " .
+Lưu_ý tính_năng này trên Galaxy A7 2016 chỉ tương_thích với những thông_báo liên_quan đến cuộc_gọi , tin nhắn SMS và e - mail .
+Tuy_nhiên , người dùng có_thể dùng ứng_dụng miễn_phí Ringing_Flashlight trên Play_Store hỗ_trợ thêm khả_năng nháy sáng khi nhận thông_báo từ các ứng_dụng khác ( Facebook , Twitter ... ) . Giao_diện Ringing_Flashlight thiết_kế đơn_giản , hỗ_trợ tiếng Việt .
+Ứng_dụng còn cho_phép điều_chỉnh tốc_độ cũng_như thời_gian nháy của đèn flash .
+Ở phân khúc trung_cao , Galaxy A7 2016 là chiếc smartphone màn_hình lớn được ưa_chuộng trên thị_trường với mức tăng_trưởng đạt 37% so với chiếc Galaxy A7 2015 .
+Điểm nhấn của máy nằm ở thiết_kế sang_trọng , kết_hợp giữa chất_liệu kính và kim_loại cao_cấp .
+Kèm với đó là hiệu_năng mạnh_mẽ , thời_lượng pin bền_bỉ và nhiều tính_năng thông_minh phục_vụ mọi nhu_cầu của người dùng , từ làm_việc cho_đến giải_trí .
+Hiện_tại , Galaxy A7 2016 bán tại các cửa_hàng bán_lẻ trên toàn_quốc với giá 9,99 triệu đồng , gồm 3 màu_sắc thời_trang là đen , vàng và vàng hồng .
+Minh_Trí

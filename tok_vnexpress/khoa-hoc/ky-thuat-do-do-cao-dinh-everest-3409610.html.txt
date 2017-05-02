@@ -1,0 +1,31 @@
+Kỹ_thuật đo độ cao đỉnh Everest
+Hoạt_động đo độ cao của núi dựa trên các công_thức hình_học và các kỹ_thuật trắc_đạc không thay_đổi từ nhiều thế_kỷ qua .
+Theo Live_Science , về cơ_bản thì đo độ cao của một ngọn núi chỉ cần dựa vào toán_học phổ_thông .
+Muốn tính độ cao một ngọn núi , chỉ cần đo khoảng_cách giữa hai điểm trên mặt_đất và sau đó đo góc giữa đỉnh núi tới mỗi điểm .
+" Nếu bạn biết hai góc thì sẽ suy ra được góc thứ_ba , vì tổng ba góc trong tam_giác bằng 180 độ " , Peter_Molnar , một nhà địa_lý_học thuộc Đại_học Colorado , Mỹ cho_biết .
+Để thực_hiện các phép đo này , nhà trắc_địa phải xác_định một mặt_phẳng nằm ngang bằng cách sử_dụng thước level ( một loại thước có một bóng khí bên trong nước , nếu mặt_phẳng nằm ngang bóng khí sẽ nằm chính giữa thước , hơi dốc về bên nào thì bóng khí sẽ chạy về bên đó ) .
+Sau đó , họ sẽ xác_định góc bằng một thước_đo_góc có độ_chính_xác cao gọi_là máy kinh vĩ .
+Biết hai góc và một cạnh của một tam_giác , sử_dụng lượng_giác sẽ tính ra được các cạnh còn lại và chiều_cao của tam_giác , hay chính là độ cao của ngọn núi .
+Đây là phương_pháp mà nhà trắc_địa và địa_lý người xứ Wales , Sir_George_Everest sử_dụng để đo chiều_cao của ngọn núi cao nhất trên dãy Himalaya vào những năm 1840 .
+Để hạn_chế nhầm_lẫn , nhóm các nhà địa_lý đã đo_đạc kích_thước ngọn núi nhiều lần từ nhiều nơi khác_nhau dưới chân núi và lấy kết_quả trung_bình .
+Theo đó , chiều_cao chính_xác nhất của đỉnh Everest là 8.839 mét , Molnar cho_biết .
+Dù_vậy , " họ không nghĩ rằng có người sẽ tin vào kết_quả này nên đã cộng thêm vào 0,6 mét nữa để trông đáng tin hơn " , Mohnar nói .
+Chiều_cao chính_thức   8.848 mét   của đỉnh Everest được đưa ra sau cuộc khảo_sát năm 1955 .
+Ngày_nay , lượng_giác cơ_bản đã được các vệ_tinh hỗ_trợ thêm rất nhiều .
+Khi một vệ_tinh gửi một tín_hiệu tới một tháp thu đặt trên mặt_đất , nó có_thể tính ra vị_trí của điểm đó trong một hệ tọa_độ cho trước với độ_chính_xác đáng kinh_ngạc .
+Tính_toán này dựa vào tốc_độ của tín_hiệu vô_tuyến ( cũng là tốc_độ ánh_sáng ) và vị_trí của vệ_tinh được định_vị tại một địa_điểm tương_đối với tâm Trái_Đất , ở một thời_điểm đã biết .
+Với   tháp thu đặt gần đỉnh Everest , họ có_thể đo được độ cao chính_xác hơn .
+Ngoài_ra , do Trái_Đất hình_cầu nên vị_trí hai 2 điểm trên Trái_Đất đùng để đo_đạc càng xa nhau thì càng kém chính_xác .
+Sai_số sẽ tỷ_lệ_thuận với thương_số giữa khoảng_cách giữa hai điểm và bán_kính Trái_Đất .
+Trái_Đất cũng hơi phình ra ở xích_đạo .
+Các địa_cực gần tâm hơn một điểm trên xích_đạo khoảng 26 km nên các nhà trắc_địa phải thêm vào một hiệu_chỉnh khác , phải tính cả sai_số do mực nước_biển .
+Một nguyên_nhân khác gây ra sai_số là mực nước_biển , nơi được lấy mốc để tính độ cao .
+Khoảng_cách từ_tâm Trái_Đất tới các bờ biển khác_nhau là không đồng_nhất trên khắp thế_giới , không_chỉ do gió và thời_tiết , mà_còn kết_quả của sự phình ra ở quỹ_đạo .
+Những điều này làm cho nước và mọi thứ khác trải rộng ra trên quỹ_đạo , theo Mohnar .
+Ngoài_ra , Trái_Đất không bằng_phẳng , những địa_hình lớn như đồi_núi cũng làm thay_đổi lực hấp_dẫn ở những khu_vực xung_quanh .
+" Nếu lấy mốc là mực nước_biển ở Kolkata , Nepal hoặc Mumbai , bạn sẽ có các kết_quả khác_nhau " , Molnar cho_biết .
+Ngày_nay , các nhà địa_lý sử_dụng một biểu_thức toán_học để ước_tính mực nước_biển .
+Họ tưởng_tượng điều gì sẽ xảy_ra nếu_không có gió hoặc thủy_triều , và tất_cả nước từ đại_dương vào trong lục_địa qua các kênh đào nhỏ hẹp .
+Điều này sẽ tạo ra một dạng_hình cầu lý_tưởng_hóa bất_thường đại_diện cho mực nước_biển trung_bình để từ đó đo_đạc chiều_cao , theo Cơ_quan khí_quyển và đại_dương Quốc_gia của Mỹ ( NOAA ) .
+Tuy_nhiên , theo Mohnar thì " tất_cả mọi chiều_cao đều có sai_số " .
+Nguyễn_Thành_Minh

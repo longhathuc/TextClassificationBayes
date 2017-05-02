@@ -1,0 +1,17 @@
+Mỹ chế_tạo robot có_thể điều_khiển bằng não người
+Các nhà_khoa_học Mỹ chế_tạo thành_công robot có_thể tự khắc_phục sai_sót bằng cách đọc tín_hiệu phản_hồi từ não người .
+Công_ty Rethink_Robotics , Mỹ , chế_tạo thành_công robot công_nghiệp Baxter có_thể thực_hiện nhiều nhiệm_vụ khác_nhau như xếp hàng_hóa , chăm_sóc máy_móc , đóng_gói và vận_chuyển vật_liệu , theo Red_Orbit .
+Điều đặc_biệt là Baxter có khả_năng đọc trí_não con_người để xác_định xem nó có làm sai điều gì hay không .
+Baxter sử_dụng hệ_thống được tạo ra bởi các nhà_nghiên_cứu tại Phòng_thí_nghiệm Trí thông_minh Nhân_tạo & Khoa_học Máy_tính ( CSAIL ) thuộc Viện_Công nghệ Massachusetts ( MIT ) và Đại_học Boston , Mỹ .
+Robot sẽ quét não một cộng_tác_viên là con_người để có được thông_tin phản_hồi về hiệu_suất hoạt_động của nó , cho_phép nó sửa lỗi mà không cần thêm bất_kỳ yếu_tố đầu_vào vật_lý nào .
+Kết_quả nghiên_cứu được công_bố trên trang_web của MIT hôm 6/3 .
+Wired giải_thích cách robot Baxter hoạt_động thông_qua thí_nghiệm .
+Ví_dụ , khi Baxter nhặt một lọ sơn phun và di_chuyển nó tới gần hộp ghi nhãn " hộp đựng cuộn dây " , Baxter phát_hiện ra lỗi của mình nhờ đọc sóng não của người quan_sát ngồi gần đấy .
+Sau đó , robot điều_chỉnh cánh_tay để đặt lọ sơn vào đúng hộp ghi nhãn " hộp đựng sơn " .
+Nếu nhận được phản_hồi tích_cực do làm đúng , biểu_hiện mặt của robot thay_đổi thành_hình mặt cười .
+Về bản_chất , Baxter nhận thông_tin phản_hồi để sửa lỗi nhờ sử_dụng tín_hiệu điện não ( EEG ) .
+Khi người quan_sát thấy lỗi của robot , não tạo ra một tín_hiệu đặc_trưng gọi_là tín_hiệu điện liên_quan đến lỗi ( ErrP ) .
+Robot nhận_biết các tín_hiệu này để tiếp_tục hành_động hoặc thay_đổi hành_vi .
+" Chúng_tôi giải_mã các tín_hiệu ErrP từ người điều_khiển robot theo thời_gian_thực khi nó thực_hiện nhiệm_vụ lựa_chọn vật_thể .
+Đây có_thể là cách mới để robot nhận_biết thông_tin phản_hồi từ con_người " , nhóm nghiên_cứu viết trên trang_web của MIT .
+Lê_Hùng

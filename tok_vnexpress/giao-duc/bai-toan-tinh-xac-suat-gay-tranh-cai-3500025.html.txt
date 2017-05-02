@@ -1,0 +1,9 @@
+Bài_toán tính xác_suất gây tranh_cãi
+Bài_toán tính xác_suất nổi_tiếng đã gây nhiều tranh_cãi và hoài_nghi sau khi được đăng_tải .
+Nhiều người không_thể chấp_nhận đáp_án .
+Bốn quả bóng được đặt trong một chiếc hộp .
+Một quả màu xanh , một quả màu đen và hai quả còn lại màu vàng .
+Lắc chiếc hộp và lấy 2 quả bóng ra .
+Có ít_nhất một quả bóng được lấy ra là màu vàng .
+Hỏi có bao_nhiêu cơ_hội để quả bóng còn lại được lấy ra cũng màu vàng ?
+Thanh_Tâm ( theo Gpuzzles )

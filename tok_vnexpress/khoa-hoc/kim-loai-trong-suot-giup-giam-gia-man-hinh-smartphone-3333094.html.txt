@@ -1,0 +1,24 @@
+Kim_loại trong_suốt giúp giảm_giá màn_hình smartphone
+Các nhà_khoa_học Mỹ phát_triển một dạng kim_loại trong_suốt mới có khả_năng dẫn_điện tốt , cho_phép sản_xuất màn_hình smartphone và TV với chi_phí chỉ bằng 5% so với công_nghệ hiện_nay .
+Theo New_Science , vấn_đề của các loại màn_hình là chúng dựa trên vật_liệu indium_tin_oxide ( ITO ) .
+Hơn 90% màn_hình trên   thị_trường   hoàn_toàn phụ_thuộc vào vật_liệu có giá_thành không hề rẻ này .
+Trong 10 năm qua , giá_thành của ITO có nhiều biến_động , từ 200 USD/kg năm 2004 lên hơn 1.000 USD/kg vào năm 2006 , sau đó quay trở_lại khoảng 400 - 750 USD/kg trong vài năm gần đây .
+Hiện_nay , giá_thành ITO chiếm đến 40% chi_phí của một chiếc điện_thoại thông_minh ( smartphone ) hoặc máy_tính bảng , trong khi giá chip bộ_nhớ và bộ_vi_xử_lý liên_tục giảm .
+Việc tiếp_tục sử_dụng vật_liệu này trong sản_xuất màn_hình sẽ làm chậm quá_trình phát_triển những công_nghệ lớn hơn và tốt hơn .
+Trong công_bố hôm 14/12 trên tạp_chí Nature_Materials , các nhà_khoa_học tại Đại_học Pennsylvania , Mỹ , nghiên_cứu thành_công một vật_liệu mới mang kim_loại liên_kết , có_thể thay_thế ITO mà vẫn đảm_bảo độ truyền quang_học , tính dẫn_điện , và hiệu_suất chế_tạo .
+Nhóm nghiên_cứu , đứng đầu là kỹ_sư Roman_Engel - Herbert , đã phát_triển lớp kim_loại liên_kết có cấu_trúc phân_tử độc_đáo ở dạng màng mỏng 10 nm .
+Trong khi ở hầu_hết các kim_loại như vàng , bạc , đồng và nhôm , các electron di_chuyển giống một đám mây khí thì với kim_loại liên_kết , electron vận_động tựa một dòng chất_lỏng .
+Đặc_tính này cho_phép vật_liệu đổi pha tùy theo cách sử_dụng .
+" Chúng_tôi đang cố_gắng để làm cho kim_loại liên_kết trở_nên trong_suốt bằng cách thay_đổi khối_lượng hiệu_dụng của các electron " , Engel-Herbert cho_biết .
+" Điều này được thực_hiện thông_qua chọn vật_liệu mà trong đó , sự tương_tác tĩnh_điện giữa các electron mang điện_tích âm rất lớn so với động_năng của chúng .
+Trong điều_kiện này , các electron ' cảm_nhận ' lẫn nhau và thể_hiện như chất_lỏng thay_vì dạng khí chứa các hạt không tương_tác " .
+" Khi bạn chiếu ánh_sáng vào vật_liệu này , nó ít bị phản_xạ , và có độ trong_suốt lớn hơn " , Engel-Herbert giải_thích .
+Đồng_thời , tính dẫn_điện của vật_liệu này không thay_đổi khi chuyển pha dưới tác_động của ánh_sáng .
+Theo các nhà_nghiên_cứu , họ có_thể sản_xuất các kim_loại liên_kết như strontium vanadate và canxi vanadate với chi_phí rẻ hơn nhiều so với ITO .
+Điều này hoàn_toàn có cơ_sở vì những vật_liệu dùng để chế_tạo kim_loại liên_kết rất dồi_dào trong lớp vỏ Trái_Đất .
+Vanadium được bán với giá khoảng 25 USD/kg , và strontium thậm_chí còn rẻ hơn .
+" Kim_loại liên_kết của chúng_tôi làm_việc rất tốt so với ITO .
+Vấn_đề lúc này là làm thế_nào để đưa vật_liệu vào sản_xuất quy_mô lớn .
+Với những hiểu_biết hiện_nay , strontium vanadate hoàn_toàn có_thể thay_thế ITO trong cùng một thiết_bị sử_dụng cho công_nghiệp " , Engel-Herbert nói .
+Nhóm nghiên_cứu đã nộp đăng_ký sáng_chế cho công_nghệ mới và tin rằng vật_liệu của họ cũng có_thể được sử_dụng để phát_triển pin mặt_trời giá rẻ trong tương_lai .
+Thanh_Tùng

@@ -1,0 +1,16 @@
+iPhone dính lỗi đóng_băng ứng_dụng điện_thoại
+Nhiều người báo_cáo cả i Phone 7 , iPhone 6s và i Phone 5s đều bị dính lỗi đóng_băng ứng_dụng điện_thoại sau khi cập_nhật lên i OS 10.1.1 .
+Trên diễn_đàn hỗ_trợ cộng_đồng của Apple , nhiều người dùng i Phone cho_biết thiết_bị của mình mắc phải lỗi " đơ " ứng_dụng điện_thoại .
+Cụ_thể , chủ_nhân của i Phone 6s , iPhone 5s … và cả i Phone 7 mới nhất đều gặp phải tình_trạng đóng_băng khi sử_dụng ứng_dụng này để thực_hiện cuộc_gọi .
+Thậm_chí , vấn_đề này còn xảy_ra cả khi thực_hiện cuộc_gọi qua Bluetooth , xem lịch_sử cuộc_gọi , cài_đặt cuộc_gọi …
+Nhiều người dùng báo_cáo i Phone của họ bị đóng_băng khi sử_dụng ứng_dụng gọi điện_thoại .
+Cũng theo những người này , việc bị đóng_băng ứng_dụng điện_thoại xảy_ra kể từ sau khi họ cập_nhật lên i OS 10.1.1 .
+Họ đã thử nhiều cách khác_nhau , như khởi_động lại máy hay khôi_phục cài_đặt gốc ( Factory_Resets ) nhưng vẫn không có hiệu_quả .
+Một_số đã gọi điện_thoại lên Apple đề_nghị được giúp_đỡ , hoặc mang thiết_bị lên trung_tâm bảo_hành , nhưng tình_trạng trên vẫn tiếp_diễn .
+Apple vẫn chưa thừa_nhận , cũng chưa có bình_luận nào về lỗi này .
+Trước đó , nhiều người dùng cho_biết i Phone của họ nhanh hết pin , một_số trường_hợp máy tự tắt dù pin còn vài chục % sau khi nâng_cấp i OS 10.1.1 .
+Tuy_nhiên , Apple giải_thích rằng , lỗi trên là do pin tiếp_xúc nhiều với không_khí vượt mức cho_phép .
+iOS 10 là hệ_điều_hành " bị tố " dính nhiều lỗi .
+Ngay khi ra_mắt , người dùng nền_tảng này đã gặp phải vấn_đề cập_nhật khiến thiết_bị biến thành " cục gạch " , hay bị hãng bảo_mật Nga phát_hiện có lỗ_hổng giúp đoán mật_khẩu nhanh hơn ...
+Hiện i OS 10.2 đang giai_đoạn beta 5 và sẽ trình_làng trong thời_gian tới .   Forbes   kỳ_vọng , lỗi đóng_băng ứng_dụng điện_thoại và những lỗi khác sẽ được Apple khắc_phục trong phiên_bản này .
+Bảo_Lâm

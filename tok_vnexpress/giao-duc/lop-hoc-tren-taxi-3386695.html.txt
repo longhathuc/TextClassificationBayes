@@ -1,0 +1,2 @@
+Lớp_học trên taxi
+Mong_muốn thực_hiện mơ_ước trở_thành kỹ_sư công_nghệ_thông_tin , những lúc không có khách , Hải lại tấp taxi vào lề_đường để học đại_học .

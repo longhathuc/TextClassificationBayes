@@ -1,0 +1,15 @@
+Hệ_điều_hành i OS 10 gây lỗi ngay sau khi phát_hành
+Nhiều máy i Phone và i Pad trong khi cập_nhật từ i OS 9 lên i OS 10 đã bị biến thành cục gạch , treo cứng không sử_dụng được .
+Bắt_đầu_từ 0h 14/9 , Apple bắt_đầu phát_hành chính_thức hệ_điều_hành i OS 10 phiên_bản chính_thức .
+Trước đó , hãng đã tung ra nhiều phiên_bản thử_nghiệm cho hàng_loạt người dùng và nhà_phát_triển từ tháng 6 đến nay .   Tuy_nhiên , như năm_ngoái với i OS 9 , ngay sau khi phát_hành , phiên_bản hệ_điều_hành mới của Apple đã gây lỗi , thậm_chí , còn nghiêm_trọng hơn .
+Hệ_điều_hành i OS 10 khiến nhiều thiết_bị bị treo cứng khi nâng_cấp .
+Các trang công_nghệ ghi_nhận nhiều người dùng i Phone và i Pad phàn_nàn họ không_thể hoàn_tất việc nâng_cấp lên hệ_điều_hành phiên_bản mới của Apple .
+Ngay trong quá_trình , máy đột_ngột bị dừng lại và treo cứng , biến thành cục gạch .
+Theo một chia_sẻ trên Twitter của Rene_Ritchie , biên_tập_viên của Mobile_Nation và i More , Apple xác_nhận quá_trình i OS 10 đã gây lỗi với một số_lượng nhỏ thiết_bị trong khoảng 1 giờ đầu phát_hành , nhưng sau đó đã được khắc_phục và xử_lý .
+Theo GSM Arena , với các trường_hợp bị lỗi treo cứng trong quá_trình nâng_cấp , người dùng nên thử khắc_phục bằng cách :
+Kết_nối thiết_bị tới máy_tính và dùng i Tunes .
+Khởi_động lại máy bằng cách bấm và giữ phím Nguồn và phím Home đồng_thời trong khoảng 10 giây .
+Khi có thông_báo " restore " ( khôi_phục lại ) hoặc " update " ( nâng_cấp ) thì chọn update .
+Trong trường_hợp vẫn lỗi , chuyển sang chọn restore , tuy_nhiên , điều này sẽ khiến cho máy xoá đi toàn_bộ dữ_liệu đã lưu_giữ và cần đến một bản lưu_trữ dữ_liệu trước đó mới lấy lại được .
+Sau khi thiết_bị khởi_động lại , người dùng có_thể tiếp_tục các thiết_lập thông_thường .
+Xem thêm : 10 nâng_cấp đáng_giá trên i OS 10

@@ -1,0 +1,13 @@
+Vì_sao xe số tự_động vẫn bị tụt_dốc ?
+Ở trên đường bằng , nhả ga là xe sẽ chạy , nhưng trên đường dốc xe trôi về sau .
+Vì_sao lại vậy ?
+( Hải_Ngân ) .
+Em mới chạy xe số tự_động , thấy trên đường phẳng , nhả phanh là xe tự chạy .
+Trên đường dốc thấp cũng vậy .
+Nhưng lên dốc cao , khi thả_phanh , nếu xe không có công_nghệ hỗ_trợ khởi_hành ngang dốc thì sẽ tụt_dốc .
+Em thắc_mắc là , khi mình bỏ chân phanh , về lý_thuyết là xe tiến về trước vì cần số đang ở D .
+Nhưng khi dốc cao , trọng_lực lớn nên xe trôi dốc thì bánh quay ngược_lại , kéo_theo hộp_số cũng quay ngược_lại .
+Như_vậy có ảnh_hưởng đến hộp_số không , vì cần số_không ở R thì làm_sao hộp_số quay ngược_lại được ?
+Nhờ mọi người giải_thích giùm em .
+Em cảm_ơn !
+Câu_hỏi cần tư_vấn gửi về ngocdiep@vnexpress.net hoặc xe@vnexpress.net

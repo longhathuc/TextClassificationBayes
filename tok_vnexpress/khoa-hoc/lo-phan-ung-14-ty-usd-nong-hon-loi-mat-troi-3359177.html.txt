@@ -1,0 +1,23 @@
+Lò phản_ứng 14 tỷ USD nóng hơn lõi Mặt_Trời
+Lò phản_ứng khổng_lồ ITER đang được xây_dựng tại trung_tâm nghiên_cứu khoa_học Cadarache , Pháp , có_thể tạo ra dòng plasma nóng tới 150 triệu độ C .
+Lò phản_ứng ITER hoạt_động dựa trên nguyên_lý nhiệt_hạch , kết_hợp hai hạt_nhân nhẹ của hydro là deuterium và tritium để tạo thành một hạt_nhân heli nặng hơn và giải_phóng năng_lượng .
+Bằng cách này , lò phản_ứng sẽ tạo ra 500 MW điện , nhiều gấp 10 lần năng_lượng để nó hoạt_động .
+Đây cũng là nguồn năng_lượng sạch , sử_dụng nguyên_liệu là nước_biển , có độ an_toàn cao , chất_thải phóng_xạ ở mức rất thấp và gần_như không có rủi_ro khi vận_hành .
+Tính đến tháng 6/2015 , chi_phí xây_dựng ITER đã vượt quá 14 tỷ USD .
+Theo Business_Insider , sau khi hoàn_thành , ITER sẽ có đường_kính và chiều_cao khoảng 30,5 m , trở_thành kiểu_mẫu mới của kỹ_thuật phản_ứng nhiệt_hạch .
+Nếu có_thể sản_xuất năng_lượng theo dự_kiến , đây sẽ là lò phản_ứng đầu_tiên của kỷ_nguyên năng_lượng nhiệt_hạch , giúp thu_hẹp khoảng_cách từ nghiên_cứu nhiệt_hạch trong phòng_thí_nghiệm đến tạo ra điện nhiệt_hạch cho các thành_phố .
+Một trong những vấn_đề lớn nhất của lò phản_ứng nhiệt_hạch là năng_lượng cần để chúng hoạt_động lớn hơn năng_lượng do chúng tạo ra , trái với mục_tiêu mong_muốn từ nhà máy_điện .
+Nguyên_nhân là do phản_ứng nhiệt_hạch chỉ xảy_ra ở nhiệt_độ plasma rất cao , khoảng 120 triệu độ C , cao hơn nhiều lần nhiệt_độ ở lõi Mặt_Trời .
+Để tạo ra nhiệt_độ siêu nóng này , ITER sử_dụng một buồng từ_trường hình_xuyến có tên Tokamak .
+Dù đạt nhiệt_độ siêu cao , Tokamak không_thể duy_trì dòng plasma liên_tục .
+Kỷ_lục do thiết_bị Tokamak của Pháp đạt được trong năm 2003 là 6 phút 30 giây .
+Để duy_trì nhiệt_độ cao , Tokamak cần được tắt bật liên_tục trong thời_gian ngắn .
+Điều này khiến các nhà_khoa_học đau_đầu trong nhiều thập_kỷ qua vì quá_trình tiêu tốn nhiều năng_lượng .
+Nhằm giải_quyết vấn_đề này , ITER trang_bị một thiết_bị có_thể tự sản_xuất và duy_trì dòng plasma siêu nóng liên_tục .
+Plasma bên trong ITER sẽ đạt 150 triệu độ C đủ để kết_hợp deuterium và tritium .
+Một sản_phẩm phụ quan_trọng của quá_trình tổng_hợp hạt_nhân là hạt_nhân của nguyên_tử heli .
+Sau khi sinh_ra , các nguyên_tử này va_chạm với môi_trường xung_quanh , truyền năng_lượng dưới dạng nhiệt , giúp dòng plasma duy_trì nhiệt_độ cao mà không cần năng_lượng bổ_sung từ bên ngoài .
+" Đó là cách để nó gần_như tự duy_trì hoàn_toàn " , Jonathan_Menard , Giám_đốc chương_trình nhiệt_hạch tại Phòng_thí_nghiệm vật_lý plasma Princeton , Mỹ , chia_sẻ .
+ITER được bắt_đầu xây_dựng từ năm 2007 , dự_kiến hoàn_thành vào năm 2019 , và đi vào hoạt_động trong năm 2020 .
+Cỗ máy có_thể sản_sinh phản_ứng tổng_hợp deuterium - tritium đủ để cung_cấp năng_lượng vào năm 2027 .
+Thanh_Tùng

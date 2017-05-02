@@ -1,0 +1,22 @@
+Không quốc_gia nào có_thể đứng ngoài chiến_tranh mạng
+Sự_cố hệ_thống máy_chủ của hãng hàng_không Vietnam_Airlines bị khống_chế ngày 29/7 một lần nữa cho thấy tấn_công mạng đang trở_thành một trong những phương_thức để giải_quyết xung_đột .
+Khoảng 16h ngày 29/7 , tại sân_bay Nội_Bài và Tân_Sơn_Nhất , hành_khách làm thủ_tục bất_ngờ khi thấy các màn_hình thông_tin chuyến bay xuất_hiện thông_tin kích_động , xúc_phạm Việt_Nam và Philippines , xuyên_tạc các nội_dung về Biển_Đông .
+Hệ_thống phát_thanh của sân_bay cũng phát đi những thông_điệp tương_tự .
+Các chuyên_gia bảo_mật tại Việt_Nam , Nguyễn_Minh_Đức và Nguyễn_Hồng_Phúc , cùng nhận_định , để thực_hiện điều này , kẻ tấn_công phải nắm rất rõ bên trong hệ_thống mạng , " nằm_vùng " từ lâu mà quản_trị viên không hay_biết .
+Có_nghĩa , đây không phải cuộc tấn_công bột_phát mà đã được lên kế_hoạch bài_bản , kỹ_càng , chỉ chờ cơ_hội để bung ra .
+Trên thực_tế , Việt_Nam đã nhiều lần trở_thành mục_tiêu lâu_dài của hacker .
+Trước đó , giữa năm 2015 , công_ty bảo_mật FireEye ( Mỹ ) công_khai thông_tin gây sốc rằng họ phát_hiện nhóm tin_tặc gọi_là APT30 đã âm_thầm theo_dõi nhiều cơ_quan chính_phủ và tổ_chức tại Việt_Nam cũng_như các nước Đông_Nam Á trong quãng thời_gian dài tới 10 năm ( từ 2005 ) .
+APT30 sử_dụng phần_mềm chứa mã độc để tiếp_cận hàng_loạt máy_tính " chứa các thông_tin tình_báo quan_trọng về chính_trị , kinh_tế , quân_sự " của các quan_chức chính_phủ , nhà ngoại_giao , doanh_nhân và nhà_báo .
+Dù chưa có bằng_chứng rõ_ràng về mối liên_hệ giữa APT30 và chính_phủ Trung_Quốc , FireEye nhận_định có khả_năng Bắc_Kinh đứng đằng sau bởi nhóm tin_tặc này nhắm đến những mục_tiêu cụ_thể , phần_mềm sử_dụng bàn_phím tiếng Trung ...
+Trước những sự_cố như_vậy , các chuyên_gia bảo_mật đã liên_tục khuyến_cáo , khi chiến_tranh mạng xảy_ra , không một quốc_gia nào có_thể khoanh_tay đứng ngoài .
+Phát_biểu trong sự_kiện Ngày_An toàn thông_tin hồi tháng 12/2015 tại Hà_Nội , ông Vũ_Quốc_Thành , Phó_tổng_thư_ký Hiệp_hội An_toàn thông_tin ( VNISA ) , cho_biết chiến_tranh mạng và các cuộc tấn_công tàn_khốc đang trở_thành phương_thức tiêu_chuẩn để giải_quyết xung_đột kinh_tế , chính_trị và quốc_gia .
+Ảnh minh_hoạ : Arstechnica
+Trong bối_cảnh hiện_nay , chính_phủ các nước không dễ phát_động chiến_tranh kiểu truyền_thống bởi sẽ vấp phải nhiều rào_cản , gây thiệt_hại về người và của , dẫn đến việc họ phải chuyển_hướng sang cuộc_chiến " không khói súng " với chi_phí thấp , hiệu_quả cao và dễ_dàng che_giấu nguồn_gốc .
+Chính vì_thế , thuật_ngữ Digital_Pearl_Harbor ( trận Trân_Châu_Cảng trên mạng ) đã xuất_hiện , ám_chỉ về những cuộc tấn_công âm_thầm và tinh_vi bất_ngờ xảy_ra nhờ sự hỗ_trợ của mã độc mà đối_phương không hề hay_biết .
+Tiết_lộ chấn_động của cựu nhân_viên tình_báo Mỹ_Edward_Snowden về chương_trình gián_điệp của Mỹ , Anh , Pháp ... cũng cho thấy thực_tế , các nước_lớn từ lâu đã có sẵn phương_án đối_phó với chiến_tranh thông_tin .
+Do_đó , các quốc_gia được khuyến_cáo nên sẵn_sàng chuẩn_bị ( hoặc từ lâu họ đã âm_thầm chuẩn_bị ) cho một cuộc chạy_đua_vũ_trang trên mạng , nhằm tránh trở_thành nạn_nhân của các trận chiến thời_đại kỹ_thuật_số .
+Dù nhận_thức rõ nguy_cơ , chỉ_số An_toàn thông_tin của Việt_Nam năm 2015 vẫn chỉ đạt 46,5% , dưới mức trung_bình ( 50% ) và còn kém các nước khác như Hàn_Quốc ( trên 60% ) .
+Không ít cơ_quan , tổ_chức , doanh_nghiệp còn buông_lỏng , hầu_như không áp_dụng biện_pháp tối_thiểu để bảo_đảm ATTT và chưa có quy_trình thao_tác chuẩn để ứng_phó khi sự_cố xảy_ra .
+Trong khi đó , Việt_Nam luôn nằm trong danh_sách các nước có tỷ_lệ lây_nhiễm phần_mềm độc_hại , mã độc ở mức cao .
+Xem thêm :
+> Những vụ chiến_tranh mạng nổi_tiếng > Nhóm hacker APT30 theo_dõi các nhà_báo như_thế_nào

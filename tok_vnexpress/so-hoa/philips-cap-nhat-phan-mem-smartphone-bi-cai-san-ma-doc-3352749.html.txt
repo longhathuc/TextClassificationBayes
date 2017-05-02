@@ -1,0 +1,15 @@
+Philips cập_nhật phần_mềm smartphone bị cài sẵn mã độc
+Sau khi nâng_cấp Android qua phương_thức OTA , smartphone giá rẻ Philips S307 sẽ được loại_bỏ mã độc Android.Coone . 1 .
+Cuối tháng trước , một công_ty bảo_mật của Nga phát_hiện ra smartphone Android giá rẻ S307 của Philips bị cài sẵn mã độc , đây là sản_phẩm đang được bán ở Việt_Nam với giá hơn một_triệu đồng .
+Sau sự_cố , Philips cho_biết đã phát_hành bản cập_nhật phần_mềm cho S307 vào 30/1 .
+Các máy đang được phân_phối tại Việt_Nam đều có_thể cập_nhật phần_mềm mã_hiệu " Philips _ S307 _ 1605 _ V14 _ VN "   qua phương_thức không dây OTA .
+Hãng khẳng_định , sau khi cập_nhật tất_cả các mã độc sẽ bị loại_bỏ ra khỏi S307 .
+Trên website , công_ty bảo_mật Dr.Web cũng xác_nhận Philips S307 đã được loại_bỏ mã độc   Android.Cooee . 1
+sau khi cập_nhật phần_mềm mới nhất .
+Người dùng Philips S307 cập_nhật phần_mềm trong phần cài_đặt ( Settings ) thông_qua kết_nối Wi-Fi .
+Trojan có tên " Android.Cooee . 1 "   được
+cài sẵn ngay trên firmware của thiết_bị và nằm yên trong đó cho_đến khi nhận được lệnh từ một máy_chủ C& C .
+Lúc này , trojan sẽ hiển_thị quảng_cáo trên màn_hình hoặc âm_thầm cài_đặt thêm các ứng_dụng khác vào trong máy mà không cần sự tương_tác của người dùng .
+Philips là hãng điện_tử Hà_Lan nhưng bộ_phận điện_thoại đã được nhượng lại cho công_ty Shenzhen_Sangfei ( Trung_Quốc ) từ năm 2007 .   Việc cài mã độc lên điện_thoại Android , nhất_là những mẫu smartphone đến từ Trung_Quốc , không còn xa_lạ .
+Trước đó , hồi tháng 9/2015 , G_DATA đã phát_hiện chương_trình độc_hại trên gần 30 mẫu điện_thoại .
+Mỹ_Anh

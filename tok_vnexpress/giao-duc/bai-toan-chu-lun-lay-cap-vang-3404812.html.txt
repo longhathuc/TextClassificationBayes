@@ -1,0 +1,11 @@
+Bài_toán ' chú lùn lấy cắp vàng '
+Một trong bốn chú lùn Anne , Bert , Chris và Dirk đã lấy cắp vàng của vua .
+Các chú lùn , vốn biết rất rõ về nhau , đã phát_biểu , mỗi người hai câu .
+Nếu chú lùn là kẻ nói_dối thì ít_nhất một trong hai câu nói của chú ta sẽ sai .
+Nếu chú lùn không phải là kẻ nói_dối thì cả hai câu nói của chú đều đúng .
+Anne nói “ Bert là kẻ nói_dối ” và “ Chris hoặc Dirk đã lấy cắp vàng ” .
+Bert nói “ Chris là kẻ nói_dối ” và “ Dirk hoặc Anne đã lấy cắp vàng ” .
+Chris nói “ Dirk là kẻ nói_dối ” và “ Anne hoặc Bert đã lấy cắp vàng ” .
+Dirk nói “ Anne là kẻ nói_dối ” và “ Bert hoặc Chris đã lấy cắp vàng ” .
+Hỏi trong 8 câu nói trên , có mấy câu đúng ?
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

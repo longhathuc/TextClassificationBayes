@@ -1,0 +1,16 @@
+Android 7.0 sẽ có giao_diện giống i OS
+Hệ_điều_hành mới của Google cho các thiết_bị di_động có_thể trải toàn_bộ ứng_dụng ra màn_hình chính , tương_tự thiết_kế trên i Phone .
+Như cách đặt tên thông_lệ , Android phiên_bản tiếp_theo sẽ có số thứ_tự 7.0 với mã N .
+Trang_Android_Authority cho_biết , bản thử_nghiệm của hệ_điều_hành này đã loại_bỏ app drawer , đưa toàn_bộ ứng_dụng ra màn_hình chính .
+Trong video mà Google mới đăng để giới_thiệu ứng_dụng Maps , hãng cũng hé lộ về sự thay_đổi này .
+Giao_diện Android 7.0 được cho sẽ trải toàn_bộ ứng_dụng ra màn_hình chính .
+Một trong những điểm khác_biệt lớn giữa Android và i OS là giao_diện màn_hình chủ .
+Nếu_như hệ_điều_hành của Apple sắp_xếp toàn_bộ icon ứng_dụng ngay sau khi mở khóa , thì với các bản Android hiện_nay , người dùng sẽ bấm vào app drawer để mở danh_sách các phần_mềm cài trên máy .
+Việc trải toàn_bộ ứng_dụng ra màn_hình chính sẽ giúp người dùng tiết_kiệm được thao_tác truy_cập vào app drawer .
+Song nó cũng làm mất đi đặc_trưng trên nền_tảng của Google khi bạn có_thể để màn_hình chính theo sở_thích cá_nhân , chỉ sắp_xếp các phần_mềm mà mình hay dùng ra ngoài .
+So_sánh giao_diện i OS 9.0 và Android M ( phải ) /
+Android N vẫn đang trong giai_đoạn thử_nghiệm , chưa rõ việc loại_bỏ app drawer có xuất_hiện trên phiên_bản chính_thức hay không .
+Một khả_năng khác được các chuyên_gia công_nghệ đưa ra , Google có_thể thiết_kế giao_diện cho_phép người dùng tùy chọn một trong hai kiểu hiển_thị .
+Google sẽ tổ_chức sự_kiện Google I / O vào tháng 5 tới và Android N nhiều khả_năng sẽ được nhắc đến .
+Trong khi đó , phải đến cuối năm 2016 thì người dùng mới có cơ_hội trải_nghiệm hệ_điều_hành mới .
+Bảo_Anh

@@ -1,0 +1,12 @@
+iOS 9.3.2 bị bẻ_khóa chỉ bằng một trang_web
+Hacker đã jailbreak ( bẻ_khóa ) thành_công hệ_điều_hành mới nhất dành cho i Phone , iPad chỉ bằng cách truy_cập một website .
+Luca_Todesco , người jailbreak được nền_tảng i OS 9.3.3 ngay khi phiên_bản thử_nghiệm được tung ra , đã tiếp_tục thành_công với i OS 9.3.2 .
+Hacker người Italia này chứng_minh kết_quả của mình với chiếc i Pod_Touch thế_hệ thứ 6 .
+Hacker đã bẻ_khóa thành_công i OS 9.3.2 và cả bản thử_nghiệm i OS 9.3.3 .
+Trong video minh_họa , Luca cho thấy phương_pháp bẻ_khóa của anh được thực_hiện khá dễ_dàng , bằng cách truy_cập một website với trình_duyệt Safari .
+Cách_thức này tương_tự công_cụ JailbreakMe nổi_tiếng năm 2007 , tiến_hành jailbeak thông_qua việc khai_thác lỗ_hổng trên trình_duyệt của Apple .
+Công_cụ bẻ_khóa của Luca hay JailbreakMe đều không cần kết_nối i Phone , iPod , iPad với máy_tính mà thực_hiện trên chính thiết_bị .
+Tuy_nhiên , hacker cho_biết ông chưa có ý_định phổ_biến phương_pháp bẻ_khóa i OS 9.3.2 cho mọi người .
+Luca đã nhiều lần phát_hiện và khai_thác thành_công các lỗ_hổng trên i OS để bẻ_khóa thiết_bị .
+Song ông thường giữ những phát_hiện cho riêng mình để phục_vụ nghiên_cứu và ít có kế_hoạch phát_hành công_cụ jailbreak cho cộng_đồng .
+Video bẻ_khóa i OS 9.3.2 :

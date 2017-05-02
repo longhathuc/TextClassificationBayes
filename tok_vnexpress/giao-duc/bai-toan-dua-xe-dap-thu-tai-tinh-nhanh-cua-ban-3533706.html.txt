@@ -1,0 +1,12 @@
+Bài_toán đua xe_đạp thử tài tính nhanh của bạn
+Bài_toán về 4 người trong cuộc đua xe_đạp có_thể kiểm_tra kiến_thức thời đi học phổ_thông của bạn .
+Hãy giải_quyết nó trong thời_gian nhanh_nhất có_thể .
+Trong một cuộc đua xe_đạp , A , B và C bắt_đầu đạp cùng nhau từ một điểm .
+Họ cố_gắng đuổi theo D , người đang dẫn trước .
+D đạp xe với tốc_độ không đổi .
+A và B lần_lượt mất 10 giờ và 2 giờ để đuổi kịp D .
+Biết vận_tốc của A , B và C lần_lượt là 4 km / h , 5 km / h và 10 km / h .
+Hỏi C đuổi kịp D sau bao_nhiêu giờ ?
+Thanh_Tâm
+> > Bài_toán đàn bò ăn cỏ có_thể khiến bạn bị rối
+> > Bài_toán về người say rượu khiến bạn chóng_mặt

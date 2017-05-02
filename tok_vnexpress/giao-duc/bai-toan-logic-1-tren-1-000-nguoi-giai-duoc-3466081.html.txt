@@ -1,0 +1,13 @@
+Bài_toán logic ' 1 trên 1.000 người giải được '
+Lời chú_thích " Chỉ 1 trên 1.000 người giải được bài_toán này " khiến câu_đố logic_toán_học lan_truyền mạnh_mẽ trên mạng xã_hội .
+Một câu_đố logic_toán_học do tài_khoản Facebook_Randall_Jones đăng_tải từ tháng 4 với lời thách_thức " chỉ 1 trên 1.000 người giải được " đến nay đã đạt 530.000 lượt thích , hơn 140.000 lượt chia_sẻ và hơn 3 triệu bình_luận .
+Sức lan_tỏa mạnh_mẽ của bài_toán cuốn người dùng mạng xã_hội vào_cuộc tranh_cãi chưa có hồi kết .
+Nhiều người chia_sẻ đã nhìn chằm_chằm vào màn_hình máy_tính đến hoa mắt , vận_động trí_não liên_tục nhưng không tìm ra được lời_giải chính_xác .
+Tài_khoản Facebook_Kenneth J_Zimmerle cho_biết : " Tôi lướt Facebook với mục_đích giải_trí , gặp phải một bài_toán phức_tạp và mắc_kẹt trong đó " .
+Dựa vào 3 dòng dữ_liệu phía trên , có hai đáp_án được đưa ra nhiều nhất_là 40 và 96 .   Bạn giải bài_toán này như_thế_nào ?   Hãy cố_gắng suy_nghĩ trước khi đọc cách lý_giải cho hai đáp_án được nhiều người đồng_tình .
+1 +4 = 5
+5 +2 +5 = 12
+12 +3 +6 = 21
+21 +8 +11 = 40
+Cách lý_giải cho đáp_án 96 : Nhân_số thứ nhất với số thứ_hai trong mỗi dòng , và cộng với số thứ nhất .
+Cụ_thể :

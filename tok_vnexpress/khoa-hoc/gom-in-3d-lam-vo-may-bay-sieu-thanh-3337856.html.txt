@@ -1,0 +1,15 @@
+Gốm in 3D làm vỏ máy_bay siêu_thanh
+Với khả_năng chịu_nhiệt lên đến 1.700 độ C , gốm in 3D là vật_liệu hoàn_hảo để chế_tạo những chiếc máy_bay siêu_thanh , tên_lửa và tàu_vũ_trụ thế_hệ mới .
+Theo Discovery_News , các nhà_khoa_học Mỹ ứng_dụng máy_in 3D để tạo ra các bộ_phận tùy_ý bằng gốm với đặc_điểm siêu nhẹ , độ bền cao , tính cách_nhiệt tốt và ít rạn_nứt .
+Kết_quả này giúp mở ra một thế_hệ máy_bay_phản_lực mới có thân hoặc động_cơ làm_bằng vật_liệu gốm , có_thể bay với tốc_độ siêu_thanh từ New_York đến Tokyo trong một_vài giờ .
+" Nếu bạn đi nhanh gấp khoảng 10 lần tốc_độ âm_thanh trong không_khí , bất_cứ phương_tiện nào cũng sẽ nóng lên do ma_sát " , Tobias_Schaedler , nghiên_cứu_viên cao_cấp tại Phòng_thí_nghiệm HRL ở Malibu , California , Mỹ , cho_biết .
+" Nếu chúng_ta muốn chế_tạo một phương_tiện di_chuyển với tốc_độ siêu_thanh thì lớp vỏ của nó phải được làm hoàn_toàn bằng gốm cách_nhiệt " .
+Chế_tạo các chi_tiết từ vật_liệu gốm khó_khăn hơn nhựa và kim_loại vì chúng không_thể được đúc hoặc gia_công một_cách dễ_dàng .
+Theo kết_quả nghiên_cứu công_bố trên tạp_chí Science hôm 1/1 , Schaedler và các đồng_nghiệp phát_minh một công_thức nhựa có_thể in 3D thành các chi_tiết với hình_dạng và kích_thước bất_kỳ .
+" Chúng_tôi tạo ra một loại tiền chất của gốm có_thể in được như polyme , sau khi thiêu kết , vật_liệu polyme này sẽ chuyển_hóa thành gốm , " Schaedler giải_thích .
+" Có một_số co rút xảy_ra khi thiêu kết , nhưng nó có tính_đồng_nhất nên rất dễ dự_đoán hình_dáng thiết_kế " .
+Chi_tiết nhựa sau khi in sẽ được thiêu kết , biến thành gốm đặc với độ bền cao .
+Vật_liệu gốm này chịu được nhiệt_độ lên tới 1.700 độ C và bền hơn 10 lần so với các vật_liệu tương_tự khác .
+Trong những ứng_dụng quan_trọng hơn , phương_pháp mới cho_phép sản_xuất nhiều bộ_phận nhỏ đặc_biệt của vệ_tinh và tên_lửa , có khả_năng chịu_nhiệt sinh_ra trong quá_trình ma_sát với không_khí ở tốc_độ cao , cũng_như nhiệt_độ cao tạo ra bởi khí_thải khi cất_cánh .
+" Phương_pháp này đưa chúng_ta đến gần hơn mục_tiêu chế_tạo thành_công những vật_liệu nhẹ hơn , bền hơn , ở những hình_dạng phức_tạp hơn " , Stefanie_Tompkins , đại_diện Cơ_quan các dự_án phòng_thủ tiên_tiến trực_thuộc Bộ_quốc_phòng Mỹ ( DARPA ) , nhận_xét .
+Thanh_Tùng

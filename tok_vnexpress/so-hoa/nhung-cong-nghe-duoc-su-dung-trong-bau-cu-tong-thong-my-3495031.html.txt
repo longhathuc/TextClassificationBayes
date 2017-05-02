@@ -1,0 +1,54 @@
+Những công_nghệ được sử_dụng trong bầu_cử tổng_thống Mỹ
+Vào ngày 8/11 , cử_tri Mỹ đi bỏ_phiếu sẽ được sử_dụng hàng_loạt các loại máy_móc với công_nghệ khác_nhau , từ màn_hình cảm_ứng cho tới bút và giấy .
+Một cử_tri Ohio cho lá phiếu của mình vào máy_quét trong cuộc bầu_cử tổng_thống năm 2012 .
+Ảnh : AP .
+Máy_quét lá phiếu
+Phương_pháp quét đòi_hỏi cử_tri phải đánh_dấu một khu_vực cụ_thể trên lá phiếu , chẳng_hạn tô vào một vòng_tròn .
+Các phiếu này sau đó được đưa vào một máy_quét , sử_dụng thiết_bị quang_học hoặc công_nghệ quét kỹ_thuật_số .
+Đếm phiếu bằng máy_quét là phương_pháp được sử_dụng rộng_rãi nhất trong các cuộc bầu_cử ở Mỹ hàng chục năm nay .
+" Bất_kỳ hệ_thống điện_tử nào cũng có_thể được giả_mạo " , Pamela_Smith , Chủ_tịch tổ_chức Verified_Voting nói .
+" Nhưng lợi_ích của việc có một máy_quét là bạn giữ lại được các lá phiếu cho việc kiểm_tra sau_này , nếu cần_thiết " .
+Máy bỏ_phiếu điện_tử .
+Ảnh Reuters .
+Máy bỏ_phiếu điện_tử DRE ( Direct_Recording_Electronic )
+Thiết_bị này trông giống như một máy ATM , cho_phép cử_tri bỏ_phiếu bằng màn_hình cảm_ứng , bấm nút hoặc quay số .
+Các máy lập bảng phiếu tự_động , giúp tăng tốc_độ cho quá_trình bỏ_phiếu .
+Trong trường_hợp nhiều máy hỏng cùng lúc , cử_tri có_thể sử_dụng lá phiếu giấy như bình_thường .
+Tính linh_hoạt của hệ_thống điện_tử này có_thể hữu_ích trong các khu_vực mà cử_tri nói nhiều thứ tiếng , cũng_như giúp những người khuyết_tật có_thể thực_hiện quyền_công_dân của mình .
+Tuy_nhiên , không phải tất_cả các máy đều in biên_lai xác_nhận cho các phiếu bầu , tạo ra một nguy_cơ gây tranh_cãi về kết_quả khi có vấn_đề xảy_ra .
+Mặc_dù các máy bỏ_phiếu điện_tử này không kết_nối mạng nhưng hacker vẫn có_thể tìm cách truy_cập vào hệ_thống điều_khiển và làm xáo_trộn quá_trình bỏ_phiếu .
+Không_chỉ vậy , công_nghệ được sử_dụng trong nhiều máy bỏ_phiếu điện_tử tại Mỹ cũng khá cũ_kỹ , với tuổi_đời tới hơn một thập_kỷ .
+Trong một báo_cáo hồi năm 2015 của Lawrence_Norden , Phó_giám_đốc Trung_tâm tư_pháp Brennan , đại_học New_York ước_tính sẽ tốn khoảng 1 tỷ USD để thay_thế toàn_bộ các máy bỏ_phiếu điện_tử đã " già_cỗi " trên cả nước .
+Mô_hình máy đánh_dấu lá phiếu được thiết_kế cho một quận tại Los_Angeles .
+Thiết_bị đánh_dấu lá phiếu
+Chiếc máy này kết_hợp sự tiện_lợi của hệ_thống điện_tử cùng khả_năng giải_trình rõ_ràng của các lá phiếu giấy .
+Mọi người lựa_chọn bỏ_phiếu thông_qua một màn_hình cảm_ứng và máy sẽ ghi lại kết_quả trên một lá phiếu in .
+Không giống như trên hệ_thống điện_tử , phiếu được lập bảng riêng bằng tay hoặc máy_quét .
+Công_cụ này được ủy_ban bầu_cử tại một_số khu_vực đặc_biệt quan_tâm và có_thể sử_dụng làm phương_pháp chuẩn để bỏ_phiếu trong tương_lai .
+Chính_quyền tại Los_Angeles đã làm_việc với một công_ty thiết_kế để tạo ra các thiết_bị có khả_năng in phiếu cho cử_tri kiểm_tra trước khi bỏ vào hòm .
+Tuy_nhiên chúng vẫn chưa được đưa vào sử_dụng trong cuộc bầu_cử năm nay .
+Thẻ đục lỗ là nguyên_nhân gây ra sự hỗn_loạn trong cuộc bầu_cử năm 2000 .
+Ảnh : AP .
+Thẻ đục lỗ
+Máy thẻ đục lỗ cho_phép cử_tri đục một lỗ nhỏ bên_cạnh tên của ứng_cử_viên mà họ muốn bầu trên lá phiếu giấy .
+Mặc_dù chúng để lại dấu_vết rõ_ràng trên giấy nhưng những lá phiếu này lại rất khó để kiểm_đếm .
+Trong cuộc bầu_cử tổng_thống năm 2000 , tại bang Florida đã xảy_ra một vụ scandal đình_đám liên_quan tới những chiếc thẻ đục lỗ này .
+Một_số cử_tri đã đệ đơn_kiện nói rằng các lá phiếu quá khó hiểu , khiến họ bỏ nhầm cho ứng_viên của đảng khác .
+Kết_quả là hơn 19.000 phiếu bầu từ một quận ở Florida đã bị vô_hiệu_hóa .
+Do hậu_quả của vụ_việc này , các thiết_bị đục lỗ thẻ cũng dần bị loại_bỏ .
+Phiếu bầu đang được đếm bằng tay .
+Ảnh : AP .
+Phiếu giấy đếm bằng tay
+Không sử_dụng công_nghệ , một_số nơi trên đất Mỹ đếm phiếu bầu_cử bằng tay .
+" Tôi muốn biết chắc_chắn rằng máy_quét đã tính chính_xác , " Virginia_Martin , Ủy_viên hội_đồng bầu_cử quận Columbia , thành_phố New_York chia_sẻ .
+Việc kiểm phiếu lại bằng tay sau khi sử_dụng máy_quét đã được thực_hiện tại đây từ năm 2010 .
+Martin dự_đoán rằng khoảng 25.000 người sẽ bỏ_phiếu trong quận của mình trong cuộc bầu_cử năm nay .
+Việc đếm phiếu và xác_minh kết_quả từ máy_quét sẽ phải mất khoảng một tuần .
+Bỏ_phiếu trực_tuyến trên toàn hệ_thống vẫn là giấc_mơ xa_vời của bầu_cử Mỹ .
+Ảnh : CNN .
+Bình_chọn trực_tuyến
+Mặc_dù nhiều chuyên_gia cho rằng đây không phải là một_cách làm an_toàn nhưng một_số bang cho_phép cử_tri bình_chọn trực_tuyến trong những hoàn_cảnh nhất_định .
+Alaska là một điển_hình .
+Tiểu_bang này cho_phép cử_tri ghi_danh để sử_dụng hình_thức lá phiếu điện_tử .
+Người_dân sẽ điền vào một tập_tin PDF trong đó thể_hiện rõ sự lựa_chọn ứng_viên của mình , sau đó ký giấy chứng_nhận với sự hiện_diện của một nhân_chứng , rồi trả lại tài_liệu trực_tuyến thông_qua một " hệ_thống phân_phối an_toàn " .
+Tuy_nhiên , chính_quyền cũng cảnh_báo cử_tri rằng bỏ_phiếu trực_tuyến đồng_nghĩa với việc từ_bỏ quyền bỏ_phiếu kín và lá phiếu có_thể " không được truyền_tải đúng nội_dung " .

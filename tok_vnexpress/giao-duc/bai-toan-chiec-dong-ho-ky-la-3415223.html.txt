@@ -1,0 +1,9 @@
+Bài_toán ' chiếc đồng_hồ kỳ_lạ '
+Bài_toán được ra trong vòng_loại thứ_hai của cuộc_thi toán quốc_tế Singapore dành cho học_sinh lớp 3 đến lớp 8 ( kỳ thi IMC 2016 ) .
+Đây là bài 17 trong đề dành cho lớp 7 .
+Hồng nhìn thấy trong bảo_tàng một chiếc đồng_hồ lạ như sau :
+Nó khác các đồng_hồ khác ở chỗ mặt_số không ghi một con_số nào , và nói_chung không hiểu đâu là phía trên của đồng_hồ .
+Đã_vậy các kim giờ , kim phút và kim giây lại có chiều dài bằng nhau .
+Hỏi đồng_hồ chỉ mấy giờ ?
+( Chú_ý : các kim A và C trên hình chỉ đúng vào vạch chỉ giờ , còn kim B chỉ gần tới vạch chỉ giờ ) .
+TS Trần_Nam_Dũng ĐH Khoa_học Tự_nhiên , ĐH Quốc_gia TP_HCM

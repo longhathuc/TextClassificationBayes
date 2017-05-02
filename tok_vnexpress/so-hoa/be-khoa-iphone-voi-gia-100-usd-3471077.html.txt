@@ -1,0 +1,22 @@
+Bẻ_khóa i Phone với giá 100 USD
+Tiến_sĩ Sergei_Skorobogatov đã tìm ra phương_pháp bẻ_khóa i Phone 5c với chi_phí chỉ 100 USD , trong khi FBI phải chi_trả tới hơn 1 triệu USD để làm điều này .
+Theo BBC , tiến_sĩ Skorobogatov   thuộc Đại_học Cambridge ( Mỹ ) đã phát_triển thành_công   thiết_bị có chi_phí 100 USD cho_phép nhập mật_khẩu sai trên i Phone 5c nhiều lần mà không bị mất dữ_liệu .
+Trong đoạn video   trên YouTube , ông đã miêu_tả chi_tiết quá_trình này , gọi_là kỹ_thuật phản_chiếu chip NAND .
+Hệ_thống của   tiến_sĩ Skorobogatov mất khoảng 4 tháng để hoàn_thành .
+Đầu_tiên , ông loại_bỏ chip nhớ NAND từ i Phone 5c , sau đó tìm_hiểu cách hệ_thống bộ_nhớ máy giao_tiếp với điện_thoại , với mục_đích có_thể sao_chép thông_tin từ chip này .
+Chiếc điện_thoại mục_tiêu sau đó được sửa_đổi nhằm để chip NAND của nó đặt trên một bo_mạch_chủ bên ngoài và các phiên_bản sao_chép có_thể được dễ_dàng cắm vào hoặc gỡ bỏ .
+Trong video , tiến_sĩ Skorobogatov đã tiến_hành thử nhiều mật_khẩu không đúng trên i Phone 5c .
+Tiếp_theo , ông lấy chip NAND ra và thay_thế bằng một bản_sao mới , có số lần thử nhập mã bằng 0 nhằm cho_phép thử các mật_mã với số_lượng không giới_hạn .
+" Số_lượng bản_sao có_thể tạo ra tùy_ý , nên tôi có_thể lặp lại quá_trình này nhiều lần , cho_đến khi mở khóa thiết_bị .
+Tuy_nhiên , việc tìm ra mật_mã chính_xác vẫn rất tốn thời_gian .
+Ví_dụ , để tìm ra mã 4 chữ_số mất khoảng 40 giờ làm_việc , trong khi phải mất hàng trăm giờ để tìm ra chính_xác mã có 6 chữ_số " , tiến_sĩ Skorobogatov nói .
+Trước đó , phương_pháp này đã bị người đứng đầu FBI James_Comey bác_bỏ vì cho rằng nó sẽ không làm_việc trên điện_thoại của Farook .
+Apple vẫn chưa đưa ra bình_luận nào về nghiên_cứu của tiến_sĩ Skorobogatov .
+Tháng 12/2015 , vụ thảm_sát kinh_hoàng tại San_Bernardino , California ( Mỹ ) khiến 14 người chết , ít_nhất 21 người bị_thương .
+Theo kết_quả điều_tra của cảnh_sát Mỹ , hung_thủ là   Syed_Rizwan_Farook và vợ .   Cả
+hai đã bị tiêu_diệt trên đường bỏ trốn .
+Tại hiện_trường ,   cảnh_sát thu được một chiếc i Phone 5c ( nghi là của Farook ) đã bị mã_hóa và cài sẵn chế_độ xóa dữ_liệu sau mỗi lần nhập sai mật_khẩu .
+FBI đã yêu_cầu Apple mở khóa chiếc i Phone vì cho rằng bên trong có các manh_mối về đồng_phạm , nhưng hãng từ_chối .
+Cuối_cùng , FBI phải tốn hơn 1 triệu USD cho một công_ty an_ninh để lấy dữ_liệu trong đó .
+Quá_trình bẻ_khóa i Phone 5c của   tiến_sĩ Skorobogatov :
+Bảo_Lâm

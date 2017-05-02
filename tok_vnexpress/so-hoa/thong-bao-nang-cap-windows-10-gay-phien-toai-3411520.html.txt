@@ -1,0 +1,24 @@
+Thông_báo nâng_cấp Windows 10 gây phiền_toái
+Rất nhiều người dùng Windows 8 , Windows 7 và các phiên_bản cũ hơn chia_sẻ , họ chấp_nhận để máy_tính bị virus tấn_công còn hơn bị ép phải cập_nhật Windows 10 do các cửa_sổ thông_báo làm_phiền .
+Kể từ khi tung ra bản chính_thức của Windows 10 , Microsoft luôn khuyến_khích người dùng Windows nâng_cấp .
+Những người đang sử_dụng Windows 7 và Windows 8 sẽ nhận được cửa_sổ pop - up thông_báo cập_nhật .
+Thậm_chí , một_số báo_cáo cho thấy , Microsoft tự_ý tải về bản cài Windows 10 trên máy , khiến máy_tính hoạt_động chậm hơn , hoặc tự cài_đặt mà không hỏi ý_kiến chủ_nhân thiết_bị đó .
+Gần đây , bên_cạnh việc ngăn_chặn tắt Windows_Updates , hãng còn đưa ra thông_báo rằng " máy_tính đã nhiễm phần_mềm độc_hại và cần phải nâng_cấp Windows 10 ngay " .
+Những thông_báo cập_nhật đầy phiền_toái .
+Ngoại_trừ một_số người_làm theo yêu_cầu của Microsoft , đa_phần theo thói_quen sẽ nhấn dấu " X " ở góc phải cửa_sổ pop - up .
+Theo PC World , thời_gian gần đây , nội_dung thảo_luận " Làm_sao để vô_hiệu_hóa Windows_Updates , tránh bị ép phải cập_nhật Windows 10 " luôn nhận được sự chú_ý lớn , nhất_là trên Twitter và Reddit .
+" Tôi đã được thông_báo nâng_cấp Windows 10 cách đây 5 tháng .
+Kể từ đó , tôi tắt tính_năng cập_nhật tự_động trên laptop chạy Windows 8.1 của mình " , người dùng có tên Rooker bình_luận .
+" Cài_đặt hay không là tùy theo sở_thích mỗi người .
+Tại_sao ngay cả trên thiết_bị của mình , lại để người khác quyết_định thay ? Microsoft cảnh_báo bảo_mật ư ?
+Tôi thà để máy_tính bị nhiễm virus còn hơn bị ép làm điều mình không thích " , tài_khoản Twitter_Peter_Skerritt đặt câu_hỏi .
+" Microsoft nên dừng việc áp_đặt người dùng trước khi quá muộn .
+Hệ_điều_hành của họ đã tốt chưa ? Nếu tốt , chúng_tôi sẽ tự nâng_cấp , không cần đến sự mời_gọi đâu .
+Còn hiện_tại , tôi vẫn yêu Windows 7 lắm " , tài_khoản Pat_Wit nói thêm .
+Bên_cạnh đó , nhiều chủ_đề chia_sẻ cách để khỏi nâng_cấp Windows 10 trên máy_tính chạy Windows 7 và Windows 8 mà không cần tắt Windows_Updates .
+Hiện hai công_cụ được khuyên dùng nhiều nhất để chặn cập_nhật là GWX Control_Panel và Never10 .
+Ý_kiến của một_số người dùng Twitter " bị ép " lên Windows 10 .
+Trước phản_ứng của người dùng , Microsoft vẫn cho rằng mình đúng khi nhấn_mạnh tầm quan_trọng của việc cập_nhật Windows 10 .
+" Việc tắt Windows_Updates thật_sự đáng lo_ngại , là thói_quen xấu .
+Bạn nên biết , qua mỗi lần cập_nhật , chúng_tôi sẽ vá các lỗ_hổng bảo_mật nhằm tránh bị hacker tấn_công , và đó là một phần quan_trọng khi bạn sử_dụng máy_tính " , Wes_Miller , Phó_chủ_tịch nghiên_cứu của trung_tâm Directions ở Microsoft , nhấn_mạnh .
+Bảo_Lâm

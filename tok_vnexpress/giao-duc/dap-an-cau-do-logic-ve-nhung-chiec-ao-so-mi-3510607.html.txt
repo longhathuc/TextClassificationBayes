@@ -1,0 +1,15 @@
+Đáp_án câu_đố logic về những chiếc áo sơ_mi
+Không khó để đưa ra đáp_án cho câu_đố logic này nhưng không phải ai cũng có_thể suy_luận và đưa ra giải_thích trong một phút .
+Đề_bài :
+Trong một nhà_hàng ở trung_tâm thành_phố , ông Đỏ , ông Xanh và ông Trắng gặp nhau để cùng ăn trưa .
+Ba người đang mặc ba chiếc áo sơ_mi màu đỏ , màu xanh và màu trắng .
+Ông Xanh nói : " Này , các bạn có nhận thấy chúng_ta đang mặc áo sơ_mi có màu khác với tên của chúng_ta không " ?
+Người đàn_ông mặc áo sơ_mi trắng nói : " Wow , phát_hiện của bạn rất đúng " .
+Bạn hãy đoán từng người đang mặc áo sơ_mi màu gì ?
+Đáp_án :   Ông Xanh mặc áo đỏ , ông Đỏ mặc áo trắng , ông Trắng mặc áo xanh .
+Theo những dữ_kiện được đưa ra , ông Xanh chỉ có_thể mặc áo sơ_mi trắng hoặc áo sơ_mi đỏ .
+Nhận thấy , người mặc áo sơ_mi trắng lại chính là người đang nói_chuyện với ông Xanh nên ông Xanh không_thể là người mặc áo sơ_mi trắng .
+Do_đó , ông Xanh mặc áo sơ_mi đỏ .
+Ông Trắng chỉ có_thể mặc áo sơ_mi đỏ hoặc xanh mà ta vừa tìm ra người mặc áo sơ_mi đỏ là ông Xanh nên chắc_chắn ông Trắng mặc áo sơ_mi xanh .
+Người còn lại là ông Đỏ mặc áo sơ_mi trắng .
+Thanh_Tâm

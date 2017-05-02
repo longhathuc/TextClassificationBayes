@@ -1,0 +1,15 @@
+Chơi game bằng thùng rác thông_minh
+Công_nghệ cảm_ứng và hiển_thị biến việc cho rác vào thùng trở_thành một trò_chơi thú_vị .
+TetraBin là một chiếc thùng rác thông_minh , được thiết_kế nhằm khuyến_khích người_dân tự_giác bỏ rác vào thùng .
+Có thiết_kế hình_trụ ba mặt , trên thân của thùng rác là màn_hình hiển_thị hình_ảnh .
+Nội_dung trên đó được lập_trình như một trò_chơi , trong đó nhân_vật chính là một con chó nhỏ luôn miệng kêu " Feed me ! " ( Cho tôi ăn ! ) .
+Mỗi khi có vật được bỏ vào thùng , cảm_biến dưới đáy ghi_nhận và màn_hình sẽ hiển_thị có một cái đùi gà từ trên trời rơi xuống .
+Con chó sẽ ngay_lập_tức lao về phía đó và hiển_thị thông_tin chiến_thắng .
+Khi đó , một dòng mã sẽ hiển_thị , người_dân có_thể sử_dụng chúng trên trang_web của TetraBin .
+Mã này có_thể tích_lũy để đổi thành các phần_thưởng khác_nhau .
+Mục_đích của nó là tạo nên thói_quen nhặt rác , đặc_biệt ở trẻ_em .
+Theo Engadget , TetraBin nằm trong dự_án cải_thiện môi_trường sống của các thành_phố lớn , đang được lên kế_hoạch lắp_đặt tại New_York và nhiều thành_phố khác tại Mỹ .
+Trong tương_lai , đơn_vị điều_hành dự_kiến sẽ sử_dụng những chiếc thùng rác này để bán quảng_cáo tương_tác .
+Giữa các thùng rác sử_dụng công_nghệ 4G để kết_nối và có_thể truyền thông_tin với nhau .
+Các thông_tin khác như hành_trình xe bus , tàu_hỏa và cập_nhật tin_tức giao_thông , thời_tiết cũng đang được cân_nhắc tới .
+Một ý_tưởng khác về thùng rác thông_minh :

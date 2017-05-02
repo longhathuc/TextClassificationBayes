@@ -1,0 +1,21 @@
+TS Sái_Công_Hồng : Chủ_trương dùng chung phần_mềm tuyển_sinh là đúng
+Khi tất_cả cùng dùng phần_mềm , dữ_liệu từ các trường được ghép_nối sẽ có được thông_tin toàn_cảnh xét tuyển .
+Các trường sẽ biết thí_sinh đăng_ký vào trường mình đồng_thời đăng_ký xét tuyển vào những trường nào , từ đó đưa ra quyết_định phù_hợp .
+Khi đọc bài " Thứ_trưởng Giáo_dục : Phần_mềm dùng chung không ảnh_hưởng đến thí_sinh " , dưới góc nhìn của người_ngoài cuộc làm trong lĩnh_vực khảo_thí , chúng_tôi cho rằng Bộ quyết_định cung_cấp một phần_mềm xét tuyển chung cho các trường đại_học , cao_đẳng là một hướng đi đúng .
+Thực_tế , công_tác xét tuyển hàng năm các trường đều rất đau_đầu vì số_lượng thí_sinh ảo lớn .
+Nguyên_nhân ảo là thiếu thông_tin .
+Khi trao cho thí_sinh nhiều cơ_hội lựa_chọn , các em đăng_ký vào nhiều trường khác_nhau , mà các trường không có sự liên_kết thì ảo là điều dễ hiểu .
+Vậy phải có một khâu , một_cách làm để các cơ_hội xét tuyển mà thí_sinh đăng_ký được đặt cạnh nhau , để các trường nhìn rõ sinh_viên tiềm_năng của mình đang được định_vị ở các trường nào .
+Từ đó ra quyết_định cho phù_hợp , hạn_chế số_lượng ảo dẫn đến thiếu sinh_viên .
+Theo như Thứ_trưởng Bùi_Văn_Ga thì các trường vẫn có_thể sử_dụng server , phần_mềm xét tuyển riêng của mình , đồng_thời vẫn có quyền lựa_chọn dùng hay không dùng phần_mềm dùng chung do Bộ cung_cấp .
+Như_thế , không có chuyện tắc_nghẽn như năm 2015 mà có_chăng chỉ ở các trường ( nếu thí_sinh quan_tâm nhiều mà hạ_tầng công_nghệ_thông_tin kém ) .
+Từ những phân_tích trên , chúng_ta thấy ngay rằng , nếu muốn giảm ảo thì các trường nên dùng phần_mềm chung của Bộ cung_cấp .
+Khi tất_cả cùng dùng phần_mềm , dữ_liệu từ các trường được ghép_nối sẽ có được thông_tin toàn_cảnh xét tuyển .
+Từ dữ_liệu ghép_nối , các trường sẽ biết thí_sinh đăng_ký vào trường mình đồng_thời đăng_ký xét tuyển vào những trường nào , khả_năng em đó đã đỗ ở những đâu , từ đó đưa ra quyết_định phù_hợp .
+Cần nhớ rằng , tình_trạng ảo còn phát_sinh từ việc thí_sinh tham_gia xét tuyển vào các trường không sử_dụng kết_quả thi THPT quốc_gia hoặc xét tuyển từ học_bạ .
+Hiển_nhiên , những trường hàng_đầu có_thể không quan_tâm đến_điều này bởi ảo sẽ khó nếu_không muốn nói là không có .
+Tuy_vậy , nếu các trường hàng_đầu không tham_gia vào việc dùng chung phần_mềm do Bộ cung_cấp thì sẽ không có dữ_liệu về nhóm thí_sinh đăng_ký ở các trường này .
+Trong xét tuyển thì “ ảo ” sẽ khởi_nguồn từ đây chứ không phải ở nhóm trường khác .
+Vì_vậy , chúng_tôi cho rằng , cùng_với việc thực_thi quyền tự_chủ của mình , các trường đại_học hàng_đầu cũng cần thực_thi trách_nhiệm xã_hội , thể_hiện trách_nhiệm của mình đối_với cộng_đồng đại_học bằng việc cùng dùng phần_mềm chung do Bộ cung_cấp .
+Khi đó , những trường này sẽ   có thêm thông_tin để định_vị được vị_trí của ngành , của trường mình so với các trường cũng lĩnh_vực đào_tạo .
+Sái_Công_Hồng - Đinh_Việt_Hải Trung_tâm Khảo_thí Đại_học Quốc_gia Hà_Nội

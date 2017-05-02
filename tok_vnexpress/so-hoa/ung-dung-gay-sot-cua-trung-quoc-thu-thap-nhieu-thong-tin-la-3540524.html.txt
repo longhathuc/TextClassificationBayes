@@ -1,0 +1,23 @@
+Ứng_dụng gây sốt của Trung_Quốc thu_thập nhiều thông_tin lạ
+Phần_mềm Pitu giúp người dùng hóa_thân thành các nhân_vật trong Tam_Quốc nhưng lại thu_thập rất nhiều thông_tin không liên_quan như vị_trí , lịch_sử dùng ứng_dụng .
+Nhiều người dùng Facebook tại Việt_Nam đang rất hào_hứng với bộ lọc mới được ứng_dụng Pitu tung ra từ tuần trước .
+Cách_thức thực_hiện không khác các bộ lọc trước đó khi giúp người dùng hóa_trang thành những nhân_vật nổi_tiếng .
+Lần này là trong bộ phim Tam_Quốc diễn_nghĩa .
+Chỉ cần chụp một bức hình selfie , Pitu sẽ làm các công_việc còn lại khi biến chủ_nhân thành các nhân_vật như Tào_Tháo , Trương_Phi ...
+Hàng_loạt tài_khoản Facebook đăng các bức hình chân_dung qua xử_lý bởi Pitu để khoe với bạn_bè .
+Nhiều người thậm_chí còn sử_dụng làm ảnh đại_diện .
+Các hình_ảnh gây sốt vì theo phong_cách truyện_tranh và nhiều chi_tiết gây cười khi các nhân_vật thậm_chí có_thể đeo cả Apple_Watch hay dùng điện_thoại i Phone .
+Pitu hiện có cả phiên_bản cho hai nền_tảng là Android và i OS .
+Tất_cả đều miễn_phí và có số lượt tải khá lớn .
+Đây   là ứng_dụng do công_ty Internet nổi_tiếng của Trung_Quốc - Tencent phát_triển .
+Nhiều người dùng Việt thích_thú với hình_ảnh qua xử_lý bởi Pitu .
+Tuy_nhiên , nhiều người dùng tỏ ra không hài_lòng khi ứng_dụng đòi_hỏi truy_cập quá nhiều thông_tin không cần_thiết .
+Khi cài thử qua Play_Store , ngoài camera , phần_mềm đòi truy_xuất thông_tin cả về vị_trí địa_lý , lịch_sử ứng_dụng , trình_duyệt , bookmark , số điện_thoại , ID máy ... " Chỉ chỉnh_sửa ảnh thì không cần quá nhiều thông_tin như_vậy " , anh Minh_Kha , nhân_viên một công_ty truyền_thông ở Hàng_Bài , Hà_Nội , chia_sẻ .
+Trước đó , nhiều ứng_dụng của Trung_Quốc đã vướng vào các nghi_vấn tương_tự .
+Đầu năm nay , một phần_mềm chỉnh_sửa khác là Meitu cũng đòi truy_xuất các thông_tin riêng_tư tương_tự .   Jonathan
+Zdziarski , một chuyên_gia pháp_lý và bảo_mật số , còn phát_hiện ra rằng , bên trong Meitu trên i OS có chứa " những đoạn mã phức_tạp và đáng ngờ " , làm nhiệm_vụ kiểm_tra điện_thoại một_cách âm_thầm , trong đó có nhận_dạng thiết_bị đã jailbreak hay chưa , số thuê_bao di_động , nhà mạng …
+Pitu thu_thập nhiều thông_tin không cần_thiết với một ứng_dụng chỉnh_sửa ảnh đơn_thuần .
+Theo chuyên_gia bảo_mật này , các ứng_dụng ảnh thu_thập thông_tin người dùng và gửi về máy_chủ từ xa không quá xa_lạ .
+Những thông_tin này thường được bán cho các nhà quảng_cáo .
+Tuy_nhiên , việc thu_thập cả những thứ liên_quan đến quyền riêng_tư là xâm_hại nghiêm_trọng đến quyền cá_nhân .
+Nguy_hiểm hơn , việc âm_thầm đánh_cắp số IMEI của điện_thoại có_thể bị kẻ xấu lợi_dụng để chiếm quyền điều_khiển điện_thoại .

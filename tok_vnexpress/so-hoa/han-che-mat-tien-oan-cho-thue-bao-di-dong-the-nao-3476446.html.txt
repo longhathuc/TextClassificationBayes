@@ -1,0 +1,34 @@
+Hạn_chế mất tiền oan cho thuê_bao di_động thế_nào
+Không cài_đặt phần_mềm hoặc truy_cập đường_dẫn lạ cũng_như thường_xuyên kiểm_tra các dịch_vụ để hạn_chế khả_năng bị mất tiền trong tài_khoản thuê_bao di_động .
+Cẩn_thận khi cài ứng_dụng lạ
+Kho ứng_dụng cảnh_báo về quyền truy_cập tin nhắn trước khi cài_đặt .
+Các ứng_dụng chạy trên điện_thoại thông_minh đều có_thể lập_trình tự_động gửi tin nhắn đến một_số điện_thoại nhất_định .
+Hệ_thống sẽ luôn đưa ra cảnh_báo về việc cấp quyền gửi tin mỗi khi người dùng   cài trực_tiếp trên kho Play_Store ( Android ) hay App_Store ( iOS ) .
+Tuy_nhiên , nhiều người không để_ý và là kẽ hở để kẻ xấu lợi_dụng .
+Những phần_mềm rác có_thể   tự_động gửi tin đến các đầu số dịch_vụ với cước_phí lên đến hàng chục nghìn   đồng mỗi tin nhắn .
+Để hạn_chế tình_trạng này , bạn cần kiểm_tra về việc cấp quyền mỗi khi cài ứng_dụng .   Tốt
+nhất chỉ nên cài các ứng_dụng phổ_biến , có nhiều lượt tải hoặc các ứng_dụng được đánh_dấu tin_cậy .   Với người dùng Android , đặc_biệt cẩn_trọng khi cài các ứng_dụng ngoài , không rõ nguồn_gốc tải từ trên mạng về .
+Không truy_cập các đường_dẫn trong tin nhắn quảng_cáo
+Theo khuyến_cáo từ các nhà mạng , một_số dịch_vụ giá_trị gia_tăng có_thể được tự_động đăng_ký khi nhấn vào một đường_dẫn web nào_đó .
+Các đường_dẫn này thường nằm trong một_số tin nhắn quảng_cáo và gây tò_mò với người dùng .
+Đáng chú_ý , việc tự_động đăng_ký không có cảnh_báo trước nên khá nhiều người mắc phải .
+Việc đăng_ký tự_động bằng phương_thức này đang là vấn_đề gây tranh_cãi nên_người dùng có_thể tự bảo_vệ mình bằng cách không mở các đường_dẫn lạ .
+Chỉ mở chế_độ roaming khi cần_thiết .
+Tắt chế_độ chuyển vùng quốc_tế ( roaming )
+Dịch_vụ chuyển vùng quốc_tế rất tiện_lợi mỗi khi ra nước_ngoài nhờ giữ được đúng số di_động và giữ liên_lạc như thông_thường .
+Tuy_nhiên , giá dịch_vụ này cũng rất đắt_đỏ .
+Người dùng vì_vậy cần cân_nhắc việc có nên sử_dụng sim chính hay mua sim của nước sở_tại để tiết_kiệm chi_phí .
+Ngoài_ra , khi di_chuyển gần các khu_vực biên_giới , điện_thoại cũng rất dễ bị " nhầm_lẫn " và chuyển sang chế_độ roaming và dùng sóng của nước bạn .
+Các cước_phí , đặc_biệt là dịch_vụ dữ_liệu di_động được tính theo kiểu chuyển vùng nên rất đắt_đỏ .
+Cách tốt nhất_là người dùng luôn tắt chế_độ roaming trên điện_thoại .
+Hiện_nay , nhiều nhà mạng cũng tự đăng_ký dịch_vụ chuyển vùng quốc_tế cho khách_hàng .
+Bạn nên kiểm_tra và tắt nếu ít khi dùng đến để hạn_chế rủi_ro .
+Với_Vinaphone , nhắn_tin " HUY_CVQT " gửi tới 9123 , với Mobifone , nhắn_tin " HUY_CVQT_ALL " gửi tới 999 , với Viettel , nhắn_tin " HUY " gửi 138 .
+Kiểm_tra các dịch_vụ đang dùng thông_qua phần_mềm hoặc tin nhắn .
+Kiểm_tra thường_xuyên các dịch_vụ đang sử_dụng
+Các nhà mạng hiện_nay đều có cú_pháp nhắn_tin để kiểm_tra các dịch_vụ đang dùng .
+Khi có dấu_hiệu bất_thường về tiền cước , bạn nên kiểm_tra ngay hoặc làm điều này định_kỳ để phòng_ngừa .
+Với_Mobifone , nhắn " KT " gửi 994 ; với Viettel , nhắn " TC " gửi 1228 ; với Vinaphone , nhắn " TK " gửi 123 .
+Nhà mạng sẽ có hướng_dẫn hủy dịch_vụ hoặc người dùng có_thể gọi lên tổng_đài để báo hủy .
+Ngoài_ra , các nhà mạng cũng đều có ứng_dụng quản_lý số thuê_bao trên điện_thoại thông_minh như   My_Viettel , My_Vina Phone , My_Mobi Fone .
+Người dùng chỉ cần cài_đặt và sử_dụng 3G để truy_cập là có_thể quản_lý tài_khoản cũng_như các dịch_vụ giá_trị gia_tăng của số thuê_bao .

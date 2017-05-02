@@ -1,0 +1,12 @@
+Danh_tính hàng triệu thành_viên website hẹn_hò bị rao bán
+Thông_tin nhạy_cảm , gồm cả   các đoạn chat , của hơn 1,1 triệu người dùng trên trang mai_mối dành cho " trai xinh gái đẹp " BeautifulPeople đã bị phát_tán và rao bán trên mạng .
+Theo Forbes , cơ_sở_dữ_liệu của trang hẹn_hò   BeautifulPeople đã   bị rò_rỉ , làm lộ thông_tin như tên_tuổi , địa_chỉ liên_lạc , xu_hướng tình_dục , chiều_cao , cân nặng , nghề_nghiệp , học_vị , thu_nhập ... cùng 15 triệu tin nhắn trao_đổi giữa các thành_viên .
+Ảnh minh_họa : IBTimes
+Sự_cố này bắt_đầu được chuyên_gia bảo_mật   Chris_Vickery phát_hiện vào tháng 12/2015 .
+Nhóm phát_triển của   BeautifulPeople   giải_thích những dữ_liệu này xuất_phát từ một máy_chủ thử_nghiệm và không phải mối đe_dọa nghiêm_trọng với người dùng .
+Máy_chủ này đã nhanh_chóng được cho ngừng hoạt_động .
+Tuy_nhiên , theo chuyên_gia   Troy_Hunt , dữ_liệu không_chỉ bị phát_tán trên mạng mà_còn đang bị đem rao bán lấy tiền trong thế_giới ngầm Dark_Web .
+Hunt cho_hay , trong số những người đăng_ký thành_viên có 150 nhân_viên chính_phủ .
+Thời_gian qua , sự_cố lộ thông_tin liên_tục diễn ra trên các website mai_mối .
+Cùng thời_điểm với BeautifulPeople , một hacker cũng đã khống_chế trang Mate1 và tung ra thông_tin của hàng triệu người dùng .
+Tuy_nhiên , gây xôn_xao nhất_là việc nhóm hacker   Impact_Team đã công_khai danh_tính của hơn 30 triệu thành_viên của Ashley_Madison - trang chuyên cổ_súy cho chuyện ngoại_tình .

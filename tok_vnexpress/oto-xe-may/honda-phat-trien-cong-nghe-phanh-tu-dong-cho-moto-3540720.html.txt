@@ -1,0 +1,16 @@
+Honda phát_triển công_nghệ phanh tự_động cho môtô
+Sử_dụng công_nghệ tương_tự trên ôtô nhưng bằng_sáng_chế Honda vừa đăng_ký , áp_dụng cho môtô để giảm_thiểu các tình_huống va_chạm cho người sử_dụng .
+Công_nghệ phanh tự_động trong các tình_huống khẩn_cấp là một trong những tính_năng an_toàn ứng_dụng khá phổ_biến trên ôtô .
+Honda vừa đăng_ký bằng_sáng_chế công_nghệ tương_tự nhưng dành cho môtô tại Văn_phòng bằng_sáng_chế và nhãn_hiệu Hoa_Kỳ , theo Motorcycle .
+Hệ_thống phanh tự_động trên môtô của Honda làm_việc tương_tự như trên ôtô .
+Sử_dụng kết_hợp các bước_sóng radar và camera để tính_toán khả_năng xảy_ra va_chạm .
+Tùy vào mức_độ nguy_hiểm , hệ_thống này gửi cảnh_báo đến người điều_khiển .
+Khi va_chạm được xác_định có_thể xảy_ra , hệ_thống trên sẽ kiểm_tra người lái có tác_động đến phanh xe hay không .
+Nếu có , hệ_thống phanh sẽ điều_chỉnh phân_bổ lực phanh cần_thiết đến hai bánh nhưng vẫn giữ độ ổn_định cho xe .
+Nếu người điều_khiển không tác_động đến phanh , hệ_thống này tự_động đưa ra lực phanh cho bánh sau để ngăn đầu xe mất kiểm_soát .
+Sau đó nhờ vào tính_toán hệ_số ma_sát với mặt_đường , lực phanh giới_hạn ở mức thích_hợp nhất sẽ được áp_dụng .
+Nếu phanh bánh sau đến ngưỡng giới_hạn , lực phanh sẽ phân_bổ cho bánh trước .
+Hệ_thống này làm_việc cho_đến khi xe dừng hẳn , hoặc không còn mối nguy_hiểm nào có_thể xảy_ra .
+Honda cho_biết hệ_thống phanh tự_động cho môtô không_thể ngăn_chặn hoàn_toàn các vụ va_chạm , nhưng có_thể hỗ_trợ người lái đưa ra các tình_huống xử_lý phù_hợp để giảm_thiểu mức_độ nghiêm_trọng .
+Hiện chưa rõ thời_điểm Honda áp_dụng công_nghệ này trên các mẫu môtô của hãng .
+Phạm_Trung

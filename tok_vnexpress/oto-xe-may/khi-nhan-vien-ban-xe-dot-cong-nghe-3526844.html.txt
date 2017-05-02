@@ -1,0 +1,39 @@
+Khi nhân_viên bán xe ' dốt ' công_nghệ
+Một nhân_viên khẳng_định công_nghệ nhận_diện người đi bộ luôn hoạt_động nhưng thực_tế tính_năng này chỉ kích_hoạt từ 48 km / h .
+Xe_hơi ngày_càng an_toàn hơn , thời_trang hơn và thông_minh hơn .
+Nhưng từ việc phô_diễn tại các gian_hàng ở triển_lãm ( như CES hay Detroit_Auto_Show ) cho_đến việc ứng_dụng trong cuộc_sống có_thể bị mắc_kẹt tại một nơi không mấy ai_ngờ tới : các đại_lý ôtô , theo Wired .
+Thực_tế , không ai vui_vẻ gì với việc tranh_cãi với nhân_viên bán xe .
+Dù đảm_nhiệm vai_trò kết_nối giữa hãng xe và khách_hàng , các đại_lý không phải lúc_nào cũng hoàn_thành trách_nhiệm một_cách đầy_đủ .
+Việc giải_thích tường_tận mỗi mẫu xe và cách sử_dụng đôi_khi gây khó hiểu , thậm_chí nhầm_lẫn , đặc_biệt với những tính_năng mới .
+Khảo_sát mới_đây của đội nghiên_cứu thuộc Viện_Công nghệ Massachusetts ( MIT , Mỹ ) thực_hiện tại 18 đại_lý ôtô ở khu_vực Boston cho thấy các nhà_bán_lẻ hiểu_biết ra_sao về những chương_trình hỗ_trợ tài_xế một_cách tự_động trên những mẫu xe họ bán ra .
+Những thứ được đề_cập đến có_thể là tính_năng cảnh_báo va_chạm , giữ làn_đường , kiểm_soát hành_trình chủ_động hay phát_hiện điểm_mù .
+Kết_quả là chỉ 6 trong số 17 nhân_viên bán xe giải_thích " thấu_đáo " về những công_nghệ trên xe mình bán , 4 trong số đó đưa ra những câu trả_lời " nghèo_nàn " .
+Theo các nhà_nghiên_cứu , có ít_nhất 2 trong số 17 người cung_cấp thông_tin sai một_cách nguy_hiểm .
+Một người nói rằng , công_nghệ phát_hiện người đi bộ của Ford hoạt_động ở mọi dải tốc_độ - dù thực_ra tính_năng này chỉ kích_hoạt ở ít_nhất 48 km / h .
+( Ford không bình_luận về việc này , nhưng một chuyên_gia đào_tạo của hãng cho_biết họ chỉ huấn_luyện các nhà_bán_lẻ có hợp_đồng mua_bán số_lượng lớn với hãng ) .
+Trong khi những nhân_viên bán xe khác nói với khách đừng dùng phanh khi sử_dụng công_nghệ hỗ_trợ đỗ xe của Chevrolet .
+( Chevrolet cũng không bình_luận về việc này ) .
+Các nhà_nghiên_cứu tỏ ra ngạc_nhiên về sự chênh_lệch giữa những người trả_lời đúng và những người " thi trượt " .
+" Thực_sự gây sửng_sốt và bối_rối khi bước vào một đại_lý , gặp một ai đó giải_thích về những công_nghệ an_toàn theo cách vô_cùng dễ hiểu rồi đi quanh và được một người khác nói theo kiểu ' Tôi không biết nên bắt_đầu_từ đâu ' " , một thành_viên đội nghiên_cứu phát_biểu .
+Khảo_sát trên chỉ là một nghiên_cứu nhỏ , khó để chứng_minh rằng 16.700 đại_lý ôtô trên khắp nước Mỹ cần phải " học lại " .
+Nhưng kết_quả là một lời nhắc_nhở rằng công_nghệ ngày_càng phát_triển , các đại_lý , hãng xe và cả khách_hàng đều phải bắt kịp công_nghệ .
+" Một trong những bí_ẩn của tự_động_hóa là khi trình_độ tự_động_hóa tăng , thì càng ít người là chuyên_gia " , Bryan_Reimer , một thành_viên nhóm nghiên_cứu nhận_xét .
+Khi xe_hơi ngày_càng hiện_đại hơn , các tài_xế cũng cần biết nhiều thông_tin hơn về những gì đang xảy_ra , và vai_trò của những công_nghệ này ra_sao .
+Các đại_lý đóng vai_trò quan_trọng trong việc truyền_tải thông_tin .
+Vấn_đề không_chỉ nảy_sinh với những mẫu xe có các tính_năng bán_tự_động .
+Ôtô điện cũng khiến các đại_lý phải tìm_hiểu về hệ_thống sạc cũng_như các đặc_điểm cơ_khí mới .
+Không ít đại_lý tỏ ra hoang_mang về trang_bị và công_nghệ an_toàn , các nhà_nghiên_cứu của MIT viết , và có_thể thuyết_phục một khách_hàng nào_đó rằng không cần phải tốn thêm tiền cho các tùy chọn .
+Một sự_thật rằng các tài_xế đơn_giản là tắt luôn hệ_thống nào mà họ không hiểu , đồng_nghĩa sẽ hy_sinh một công_nghệ an_toàn nào_đó có_thể cứu sống mạng người , theo Ian_Reagan , nhà_nghiên_cứu ở Viện bảo_hiểm an_toàn đường_bộ Mỹ ( IIHS ) .
+Trong một nghiên_cứu năm 2016 , Reagan và đồng_nghiệp thấy rằng có 265 xe Honda tới làm dịch_vụ ở các đại_lý ở khu_vực Washington , và chưa tới một_phần_ba trong số đó vẫn bật tính_năng cảnh_báo chệch làn .
+Mọi thứ thực_tế không dễ_dàng với bất_cứ ai .
+Các hãng xe không thuê người bán xe họ làm ra , vài hãng thậm_chí không thuê người để đào_tạo cho các đại_lý của chính mình .
+Nhân_viên bán xe đôi_khi làm_việc dưới mức trung_bình so với những kiến_thức được hãng cung_cấp .
+Rắc_rối còn ở chỗ , có những tính_năng mới cần phải đào_tạo đặc_biệt , và chúng đôi_khi quá phức_tạp .
+" Hy_vọng trong tương_lai gần , các hệ_thống hỗ_trợ tự_động sẽ trở_nên cơ_bản giống như việc đánh lái hay bật đèn xi - nhan " , Jared_Allen , quản_lý quan_hệ truyền_thông tại Hiệp_hội các đại_lý ôtô quốc_gia Mỹ nhận_xét .
+" Nhưng vì chúng_ta vẫn chưa đạt được mức đó , nên tất_cả phải làm_việc nhiều hơn thôi " .
+Nghiên_cứu của MIT cho thấy , Subaru làm rất tốt nhiệm_vụ của một nhà đào_tạo , như về công_nghệ an_toàn EyeSight của hãng .
+Bên_cạnh đó , NADA là đại_lý tiêu_biểu trong vai_trò gắn_kết khi cùng Hội_đồng an_toàn quốc_gia Mỹ và Đại_học Iowa đưa trang_web MyCarDoesWhat.org vào hoạt_động .
+Website giải_thích rất rõ_ràng những công_nghệ mới trên xe_hơi ngày_nay : công_nghệ có_thể làm_gì , không làm_gì , làm_việc ra_sao , và nhiều thứ khác .
+Thậm_chí còn có một game di_động hướng_dẫn người chơi về " công_nghệ an_toàn mới nhất trên xe_hơi " .
+Cho tới khi các hãng xe và các đại_lý tương_tác và thực_hiện vai_trò tốt hơn , thì thời_gian còn lại khách_hàng nên tự học_hỏi , là kết_luận của chuyên_gia từ IIHS .
+Mỹ_Anh

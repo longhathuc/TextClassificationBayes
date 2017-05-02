@@ -1,0 +1,45 @@
+Những sai_lầm của Intel
+Việc sa_thải 12.000 nhân_viên vừa_qua cho thấy Intel đã có những bước_đi chiến_lược chưa đúng_đắn .
+Intel vừa công_bố sa_thải 12.000 nhân_viên nhằm tiết_kiệm hơn 1,1 tỷ USD .
+Đây không phải là lần đầu_tiên hãng làm điều này , bởi việc cắt_giảm nhân_sự cũng từng diễn ra nhiều lần .
+Trong một thập_kỷ qua , Intel đã cho nghỉ_việc hơn 26.000 nhân_viên , bao_gồm 20.000 người giai_đoạn 2005 – 2009 ( tương_đương 20% lực_lượng lao_động ) , 5.000 người trong năm 2014 và hơn 1.000 người vào năm_ngoái .
+Intel vừa sa_thải một lượng lớn nhân_viên .
+Tại_sao Intel giảm nhân_sự ?
+Trước_đây , Intel chủ_yếu sản_xuất vi_xử_lý cho máy_tính_để_bàn cũng_như hợp_tác với Microsoft trong nhiều sản_phẩm khác .
+Dưới thời của CEO Paul_Otellini , Intel đã bỏ_qua thị_trường vi_xử_lý cho điện_thoại_di_động , vốn được đánh_giá là “ màu_mỡ ” .
+Vào năm 2012 , trong một bài phỏng_vấn , Otellini cũng từng nói rằng , Intel “ đã lỡ chuyến tàu di_động ” nhưng “ đang bắt một chuyến tàu khác ” .
+Tuy_nhiên , mọi thứ cho_đến nay có_vẻ vẫn chưa tiến_triển nhiều .
+Số_liệu từ IDC cho thấy , 2015 là năm được đánh_giá ở mức tồi_tệ về doanh_số PC , khi số_lượng bán ra nằm dưới mốc 300 triệu chiếc , thấp nhất kể từ 2008 và giảm khoảng 10% .
+Trong khi đó , doanh_số điện_thoại thông_minh lại đạt đến 1,4 tỷ USD , tăng 10,1% so với năm 2013 .
+Những con_số này có_thể sẽ khiến Otellini buồn lòng , nhất_là khi Intel từng được Apple đề_nghị làm vi_xử_lý cho i Phone trước khi nó ra_mắt vào năm 2007 .
+Ngày cuối_cùng đảm_nhận cương_vị giám_đốc điều_hành Intel ( tháng 5/2013 ) , Otellini đã thú_nhận với The_Atlantic rằng : “ Thế_giới có_thể đã thay_đổi nếu_như chúng_tôi nhận_lời hợp_tác với Apple trong việc cung_cấp vi_xử_lý cho i Phone .
+Tuy_nhiên , chúng_tôi đã lo_sợ , bởi mức giá sản_xuất thấp hơn kỳ_vọng và Intel không_thể sản_xuất số_lượng lớn .
+Hơn hết , chúng_tôi cũng không_thể biết trước được rằng i Phone sẽ thành_công đến như_vậy ” .
+Intel đã cố_gắng sửa_sai sau đó bằng một loạt dòng chip cho điện_thoại_di_động .
+Tuy_nhiên , là “ lính mới ” nên hãng chưa làm được gì nhiều .
+Kiến_trúc chip x 86 bị chỉ_trích vì quá “ ngốn ” điện , trong khi dòng Atom sau đó tuy có cải_thiện nhưng vẫn chưa_thể so_sánh với dòng A của Apple , Snapdragon của Qualcomm , thậm_chí là Exynos của Samsung …
+Không_những thế , khả_năng sửa_chữa sai_lầm của Intel sẽ vất_vả hơn bởi hàng_loạt đối_thủ đang nâng_cấp công_nghệ , cũng_như cơ_sở_hạ_tầng nghiên_cứu chip .
+Như_Samsung vừa công_bố đầu_tư thêm 14,3 tỷ USD để xây_dựng tổ_hợp nhà_máy bán_dẫn có diện_tích bằng khoảng 400 sân bóng_đá .
+Khó_khăn chồng_chất , và việc sa_thải nhân_viên đến như một điều tất_yếu .
+Máy_chủ sẽ là “ vị cứu_tinh ” của Intel
+Mặc_dù có những bước_đi sai_lầm trên con đường chip cho điện_thoại_di_động nhưng Otellini đã đúng khi tập_trung vào thị_trường máy_chủ .
+Hiện chip Xeon dựa trên kiến_trúc x 86 của hãng đang có_mặt trên hơn 95% máy_chủ thế_giới .
+Rất nhiều hãng công_nghệ lớn đang sử_dụng sản_phẩm của Intel như Google , Facebook và Amazon .
+Theo báo_cáo từ Stacy_Smith , Giám_đốc tài_chính Intel , vi_xử_lý máy_chủ đang mang lại lợi_nhuận lớn nhất cho hãng .
+Tuy_nhiên , chip ARM cũng đang là cái tên bắt_đầu sinh lời , đe_dọa đến vị_thế gần_như tuyệt_đối của Intel .
+Mặc_dù đi_sau , nhưng theo Giám_đốc công_nghệ Mike_Muller của ARM Holdings , đơn_vị sản_xuất ra chip ARM , đến năm 2020 , hãng đặt mục_tiêu chiếm 25% thị_phần vi_xử_lý cho máy_chủ .
+Tất_nhiên , Intel sẽ phải làm mọi cách để điều đó không xảy_ra .
+CEO hiện_tại , Brian_Krzanich , đang có những bước_đi chiến_lược nhằm khẳng_định vị_thế , cũng_như bắt_đầu sản_xuất những dòng chip mới .
+Với công_nghệ và kinh_nghiệm về vi_xử_lý cho máy_chủ hiện_tại , Intel vẫn sẽ giữ được ngôi vương trong tương_lai gần .
+CEO  Brian_Krzanich sẽ chèo_lái con thuyền Intel đi đúng hướng .
+Intel vẫn ăn_nên_làm_ra
+Trước_đây , mảng ăn_nên_làm_ra nhất của Intel là máy_tính_để_bàn .
+Tuy_nhiên , việc phát_triển của smartphone , máy_tính bảng và các thiết_bị thông_minh khác đang khiến thị_phần của chúng thu_hẹp lại .
+Hãng đã nhận ra_điều đó , và bắt_đầu có những bước_tiến quan_trọng ở các lĩnh_vực mới , đặc_biệt là Internet of Things hay các trung_tâm dữ_liệu .
+Theo báo_cáo quý I/2016 , mảng Internet of Things đã mang về cho Intel 651 triệu USD , tăng 22% so với cùng kỳ năm trước .
+Trong khi các trung_tâm dữ_liệu cũng đã mang lại doanh_thu 4 tỷ USD , tăng 9% so với cùng kỳ năm_ngoái .
+Về tổng_thể , lợi_nhuận hoạt_động của Intel tăng 3% lên 2 tỷ USD , tổng thu_nhập tăng 7% lên 13,7 tỷ USD , lợi_nhuận thuần đạt 2,6 tỷ USD .
+Có_thể hiện_tại , Intel đang đối_mặt với nhiều thách_thức và phải cắt_giảm nhân_sự .
+Tuy_nhiên , hãng vẫn cho thấy mình sống tốt ở thời_điểm hiện_tại .
+Con tàu Intel vẫn còn rất nhiều nhiên_liệu để chạy .
+Bảo_Lâm

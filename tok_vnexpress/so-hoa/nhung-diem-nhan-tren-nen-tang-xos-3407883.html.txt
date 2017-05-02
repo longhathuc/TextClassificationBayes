@@ -1,0 +1,29 @@
+Những điểm nhấn trên nền_tảng x OS
+xOS , hệ_điều_hành dựa trên Android do người Việt phát_triển , được tối_ưu_hóa cả về giao_diện người dùng lẫn hệ_thống , dù đa_phần đều " học_hỏi " từ các hãng công_nghệ khác .
+Ngày 21/5 , tại Đại_học Hoa_Sen , nhóm lập_trình_viên đến từ XDA Việt đã giới_thiệu nền_tảng mới dựa trên Android do họ phát_triển mang tên x OS .
+Dưới đây là những điểm nhấn của hệ_điều_hành này :
+Tối_ưu thanh thông_báo
+Thanh thông_báo được sắp_xếp gọn_gàng ,   trực_quan và dễ tùy biến .
+Trên thanh thông_báo của x OS , nhóm phát_triển đã tích_hợp vào đó nhiều tính_năng tiện_dụng , điển_hình như làm gọn đẹp bằng cách hiển_thị các bộ đếm thông_báo , đưa đồng_hồ ra giữa , biểu_tượng đồng_hồ bên phải và tên nhà mạng bên trái để dễ tập_trung hơn vào thông_báo , cho_phép tuỳ chỉnh tên nhà mạng , hiển_thị tốc_độ mạng để theo_dõi tình_trạng mạng …
+Bên_cạnh đó , nếu vuốt xuống , người dùng dễ_dàng thao_tác hơn với các biểu_tượng , có_thể nhấn và giữ để vào phần cài_đặt hay làm mờ nền khi kéo thanh thông_báo , giao_diện đa_nhiệm , màn_hình khoá … giúp hệ_thống trở_nên lung_linh hơn .
+Hỗ_trợ thao_tác nhanh
+Khả_năng hỗ_trợ thao_tác nhanh cũng là điểm được nhiều người đánh_giá cao .
+Chủ thiết_bị chỉ cần lắc nhẹ để xoá nhanh ứng_dụng chạy ngầm hoặc xoá thông_báo , kích_hoạt nhanh tính_năng bằng cách vẽ trên màn_hình , chuyển về ứng_dụng trước bằng cách giữ nút đa_nhiệm , nhấn phím Home hai lần để bật nhanh camera , gõ hai lần để bật / tắt màn_hình , nhấn nút nguồn khi màn_hình khóa để kích_hoạt nhanh đèn_pin … Ngoài_ra , xOS còn tích_hợp sâu trợ_lý ảo VAV ( phần_mềm nhận_diện tiếng Việt ) vào hệ_thống , giúp người dùng có_thể điều_khiển thiết_bị chỉ bằng cách ra_lệnh .
+Tối_ưu hệ_thống
+Các tính_năng thừa bị loại_bỏ .
+Theo anh Tsần_Thành_Phát , Giám_đốc Kỹ_thuật_số và Cộng_đồng của XDA Việt , trọng_tâm của x OS không_chỉ dừng ở giao_diện bên ngoài , mà_còn tối_ưu nhằm giúp thiết_bị hoạt_động ổn_định và mượt_mà nhất .
+Trên hệ_điều_hành này , nhóm đã tích_hợp khả_năng loại_bỏ các ứng_dụng và tính_năng thừa trên Android nhằm tối_ưu RAM , tìm và sửa những thuật_toán chưa ổn_định trên Android để tăng hiệu_suất , cũng_như tinh_chỉnh tuỳ theo thiết_bị , giúp thiết_bị không phải " gồng_gánh " quá nhiều tính_năng thừa làm ảnh_hưởng đến hệ_thống .
+Ngoài_ra , pin cũng là yếu_tố được nhóm phát_triển chú_ý . xOS được thiết_kế để có thời_lượng pin tốt nhất với tính_năng Doze và tối_ưu_hoá pin cho từng ứng_dụng .
+Tăng_cường bảo_mật
+xOS có khả_năng bảo_mật cao .
+xOS với hệ_thống quản_lý quyền tự_động sẽ báo và yêu_cầu cấp phép quyền với ứng_dụng bạn cho_phép .
+Bên_cạnh đó , hệ_điều_hành mới cũng tích_hợp các bản vá hệ_thống giúp tránh khỏi các lỗi như Rowhammer hay Stagefright .
+" xOS chú_trọng tới bảo_mật và sẽ không chứa các lỗ_hổng bảo_mật cố_tình dùng để thu_thập thông_tin người sử_dụng " , anh Phát nhấn_mạnh .
+Nền_tảng dựa trên Android này cũng hỗ_trợ tính_năng đa người dùng để tránh lộ dữ_liệu khi cho bạn_bè , người_thân mượn thiết_bị , cũng_như cho_phép khoá ứng_dụng ngay trên hệ_thống mà không cần đến phần_mềm bên thứ_ba , giúp bảo_vệ dữ_liệu cá_nhân an_toàn hơn .
+Nhận bản cập_nhật mới nhất từ Google
+xOS luôn nhận bản cập_nhật mới khi Google ra_mắt .
+Hầu_hết các sản_phẩm chạy Android hiện_nay đều phải đợi nhà_sản_xuất cung_cấp bản cập_nhật , hoặc thậm_chí là không .
+Tuy_nhiên , với x OS , người dùng có_thể làm điều đó một_cách dễ_dàng , miễn_là Google tung ra phiên_bản mới .
+Hiện_tại , hệ_điều_hành này đang sử_dụng nền_tảng Android mới nhất 6.0.1
+Marshmallow .
+Bảo_Lâm

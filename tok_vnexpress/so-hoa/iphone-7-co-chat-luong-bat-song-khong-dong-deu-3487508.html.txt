@@ -1,0 +1,10 @@
+iPhone 7 có chất_lượng bắt sóng không đồng_đều
+Smartphone của Apple sử_dụng modem do Qualcomm và Intel cung_cấp , cho chất_lượng kết_nối mạng di_động chênh_lệch đáng_kể giữa hai phiên_bản .
+Nghiên_cứu được   Cellular_Insights thực_hiện , mô_phỏng điều_kiện sử_dụng thực_tế của người dùng , cho thấy có sự khác_nhau giữa hai bản i Phone 7 .
+Các máy có mã   A1660 , A1661 dùng modem   MDM9645M của Qualcomm , còn dòng   A1778 , A1784 được trang_bị sản_phẩm của Intel .
+Chất_lượng mạng di_động trên i Phone 7 dùng modem của Qualcomm tốt hơn bản của Intel .
+iPhone 7 và 7 Plus dùng modem 4G của Qualcomm cho hiệu_năng kết_nối tốt hơn 30% trong điều_kiện thông_thường và tốt hơn 70% trong điều_kiện sóng yếu , so với i Phone 7 dùng modem của Intel .
+Điều này ảnh_hưởng tới chất_lượng kết_nối di_động khi người dùng gọi điện , nhắn_tin hay truy_cập dữ_liệu qua 3G , 4G .
+Hơn_nữa , modem   MDM9645M của Qualcomm còn hỗ_trợ tính_năng Ultra HD Voice , giúp cải_thiện chất_lượng đàm_thoại thông_qua kết_nối di_động .
+Tuy_nhiên , Apple đã vô_hiệu_hóa tính_năng này nhằm thu_hẹp khác_biệt so với i Phone 7 dùng bản của Intel .
+Hiện i Phone 7 dùng model của Qualcomm được bán tại Trung_Quốc , Nhật_Bản và Mỹ , còn mẫu dùng của Intel cho các thị_trường còn lại .   9to5Mac khuyên người dùng nên chọn i Phone 7 với modem Qualcomm , bởi thiết_bị không_chỉ có khả_năng thu sóng tốt hơn mà_còn tương_thích với hầu_hết các mạng di_động trên thế_giới .

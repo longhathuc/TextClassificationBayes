@@ -1,0 +1,7 @@
+Bài_toán lớp 4 làm_khó người_lớn
+Bài_toán dành cho học_sinh lớp 3-4 ( Middle_Primary ) , được trích trong kỳ thi đánh_giá năng_lực tư_duy Toán_học quốc_tế - IMAS .
+Đề_bài :
+Một cái lều hình_vuông được dựng ở trung_tâm của một mảnh vườn hình_vuông .
+Khoảng_cách từ mỗi mép ngoài cái lều tới tường_bao quanh khu vườn là 8 m .
+Biết tổng diện_tích của phần mảnh vườn không tính cái lều là 448 m2 , tính diện_tích cái lều , theo m 2 ?
+Trần_Phương Phó_giám_đốc Trung_tâm phát_triển tài_năng
