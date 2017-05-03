@@ -3,16 +3,18 @@ import scipy as sc
 import os, re
 import matplotlib.pyplot as plt
 from prettyprint import pp
+from sklearn.cross_validation import train_test_split
+from sklearn.cross_validation import KFold, cross_val_score
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.naive_bayes import BernoulliNB, GaussianNB, MultinomialNB
 from sklearn.metrics import confusion_matrix, f1_score, accuracy_score, precision_score, recall_score, classification_report
-#from sklearn.model_selection import train_test_split
 from datetime import datetime as dt
 from ipy_table import *
 from string import punctuation, digits
 
-data_path = '/Users/alexandre/Projects/TextClassificationBayes/tok_vnexpress/'
-stopwords_path = '/Users/alexandre/Projects/TextClassificationBayes/vietnamese-stopwords-dash.txt'
+
+data_path = '/Users/alexandre/Projects/TextClassificationBayes3/tok_vnexpress/'
+stopwords_path = '/Users/alexandre/Projects/TextClassificationBayes3/vietnamese-stopwords-dash.txt'
 
 
 #Classes are the folder names
@@ -28,8 +30,9 @@ files = {}
 for folder, name in zip(folders, class_names):
     files[name] = [folder + f for f in os.listdir(folder)]
     
+punctuation = re.compile(r'[-.?!,":;()|0-9]')
     
-train_test_ratio = 0.7
+train_test_ratio = 0.9
 
 def train_test_split(ratio, classes, files):
     """
@@ -71,7 +74,7 @@ def loadStopWord(path):
     try:
         f = open(path)
         lines = [line.rstrip('\n') for line in open(path)]
-        lines = [line.replace('_', '') for line in lines]
+        lines = [line.replace(' ', '_') for line in lines]
             
     finally:
         f.close()
@@ -96,14 +99,17 @@ def cleanupText(path):
     try:
         f = open(path)
         raw = f.read().lower()
-        text =  raw
-        text_cleaned = text.translate(None, punctuation + digits)
-        # print "\n Word count before:" + str(len(text_translated.split())) + "\n"
-        # for stop in stop_word:
-        #   text_translated = text_translated.replace(stop,'')
-        # print "\n Word count after:" + str(len(text_translated.split())) + "\n"
-        text_cleaned = ' '.join([word for word in text_cleaned.split(' ') if (word and len(word) > 1)])
+        text =  raw   
+        text_cleaned = re.sub(r'[-.?!,":;()/|0-9]','', text)
         
+#        splitword = text_cleaned.split(" ")
+#        
+#        for word in splitword:
+#            if word in stop_word:
+#                splitword.remove(word)
+#        text_cleaned = " ".join(splitword)
+#        # print "\n Word count after:" + str(len(text_translated.split())) + "\n"
+#        text_cleaned = ' '.join([word for word in text_cleaned.split(' ') if (word and len(word) > 1)])
     finally:
         f.close()
     return text_cleaned
@@ -125,25 +131,25 @@ for cl in class_names:
         test_arr.append(cleanupText(path))
         test_lbl.append(cl)
         
-print len(train_arr)
-print len(test_arr)
+#print len(train_arr)
+#print len(test_arr)
 
 #
 vectorizer = CountVectorizer()
 vectorizer.fit(train_arr)
 train_mat = vectorizer.transform(train_arr)
-print train_mat.shape
+#print train_mat.shape
 #print train_mat
 test_mat = vectorizer.transform(test_arr)
-print test_mat.shape
+#print test_mat.shape
 
-tfidf = TfidfTransformer()
-tfidf.fit(train_mat)
-train_tfmat = tfidf.transform(train_mat)
-print train_tfmat.shape
-#print train_tfmat
-test_tfmat = tfidf.transform(test_mat)
-print test_tfmat.shape
+#tfidf = TfidfTransformer()
+#tfidf.fit(train_mat)
+#train_tfmat = tfidf.transform(train_mat)
+##print train_tfmat.shape
+##print train_tfmat
+#test_tfmat = tfidf.transform(test_mat)
+##print test_tfmat.shape
 
 
 def testClassifier(x_train, y_train, x_test, y_test, clf):
@@ -187,58 +193,41 @@ def testClassifier(x_train, y_train, x_test, y_test, clf):
     #metrics.append(end-start)
     
     print 'classification report: '
-#     print classification_report(y_test, yhat)
+    #print classification_report(y_test, yhat)
     pp(classification_report(y_test, yhat))
     
     print 'f1 score'
-    print f1_score(y_test, yhat, average='macro')
+    print f1_score(y_test, yhat, average='weighted')
     
     print 'accuracy score'
-    accuracy = accuracy_score(y_test, yhat)
-    print accuracy
-    #metrics.append(accuracy)
-    #precision = precision_score(y_test, yhat, average=None)
-    #recall = recall_score(y_test, yhat, average=None)
-    
-    # add precision and recall values to metrics
-    #for p, r in zip(precision, recall):
-    #    metrics.append(p)
-    #    metrics.append(r)
-    
-    
-    #add macro-averaged F1 score to metrics
-    #metrics.append(f1_score(y_test, yhat, average='macro'))
-    
-    print 'confusion matrix:'
-    print confusion_matrix(y_test, yhat)
-    
-    # plot the confusion matrix
-    plt.imshow(confusion_matrix(y_test, yhat), interpolation='nearest')
-    plt.show()
-    
-    return accuracy
+
+
+
 
 metrics_dict = {}
 #'name', 'metrics'
-
 #bnb = BernoulliNB()
-#bnb_me = testClassifier(train_tfmat, train_lbl, test_tfmat, test_lbl, bnb)
-#metrics_dict.append({'name':'BernoulliNB', 'metrics':bnb_me})
+#bnb_me = testClassifier(train_mat, train_lbl, test_mat, test_lbl, bnb)
+#metrics_dict.update({1:bnb})
+#bnb = BernoulliNB(alpha=0.001)
+#bnb_me = testClassifier(train_mat, train_lbl, test_mat, test_lbl, bnb)
+#metrics_dict.update({1:bnb})
 #
 #
 #gnb = GaussianNB()
 #gnb_me = testClassifier(train_tfmat.toarray(), train_lbl, test_tfmat.toarray(), test_lbl, gnb)
 #metrics_dict.append({'name':'GaussianNB', 'metrics':gnb_me})
-alpha=[10,5]
+#alpha=[10,5]
 
-for a in alpha:
-    print "alpha= =" + str(a)
-    mnb = MultinomialNB(a)
-    mnb_me = testClassifier(train_tfmat.toarray(), train_lbl, test_tfmat.toarray(), test_lbl, mnb)
-    metrics_dict.update({a:mnb_me})
+#for a in alpha:
+#    print "alpha= =" + str(a)
+#    mnb = MultinomialNB(a)
+#    mnb_me = testClassifier(train_tfmat.toarray(), train_lbl, test_tfmat.toarray(), test_lbl, mnb)
+#    metrics_dict.update({a:mnb_me})
+#
+#mnb = MultinomialNB(alpha=0.001)
+#k_fold = KFold(len(train_lbl), n_folds=10, shuffle=True, random_state=0)
+#print cross_val_score(mnb, train_mat, train_lbl, cv=k_fold, n_jobs=1)
 
-#mnb = MultinomialNB(alpha=0.01)
-#mnb_me = testClassifier(train_mat.toarray(), train_lbl, test_mat.toarray(), test_lbl, mnb)
-#mnb_me = testClassifier(train_tfmat.toarray(), train_lbl, test_tfmat.toarray(), test_lbl, mnb)
-#metrics_dict.append({'name':'MultinomialNB', {alpha:mnb_me})
-
+#mnb_me = testClassifier(train_mat, train_lbl, test_mat, test_lbl, mnb)
+#metrics_dict.update({0.001:mnb_me})

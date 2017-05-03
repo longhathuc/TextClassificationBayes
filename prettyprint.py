@@ -23,7 +23,7 @@ class MyEncoder (json.JSONEncoder):
             return str(o)
 
 def pp(obj):
-  print pp_str(obj)
+  print(pp_str(obj))
 
 def pp_str(obj):
   orig = json.dumps(obj, 
