@@ -154,7 +154,7 @@ if '.DS_Store' in class_names: del class_names[0]
 
 metrics_dict = {}
 
-ratio = [0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9]
+ratio = [0.4,0.5,0.6,0.7,0.8,0.9]
 files = {}
 for folder, name in zip(folders, class_names):
     files[name] = [folder + f for f in os.listdir(folder)]
